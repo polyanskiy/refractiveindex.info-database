@@ -1,0 +1,32 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+REFERENCES: "1) <a href=\"http://refractiveindex.info/download/data/2012/schott_optical_glass_collection_datasheets_dec_2012_us.pdf\">SCHOTT optical glass data sheets 2012-12-04</a><br>2) <a href=\"http://refractiveindex.info/download/data/2012/schottzemax-20121204.agf\">SCHOTT Zemax catalog 2012-12-04</a>"
+COMMENTS: "Lead containing glass type. Refractive index is relative to air at standard conditions; Wavelength in dispersion formula is as measured in air and expressed in micrometers."
+DATA:
+  - type: formula 2
+    range: 0.365 2.5
+    coefficients: 0 1.72448482 0.0134871947 0.390104889 0.0569318095 1.04572858 118.557185
+  - type: tabulated k
+    data: |
+        0.365 3.4805E-06
+        0.370 2.0196E-06
+        0.380 7.9097E-07
+        0.390 3.5713E-07
+        0.400 1.9203E-07
+        0.405 1.5023E-07
+        0.420 7.8461E-08
+        0.436 4.6571E-08
+        0.460 2.8088E-08
+        0.500 1.3747E-08
+        0.546 6.9658E-09
+        0.580 6.6583E-09
+        0.620 9.0991E-09
+        0.660 9.4751E-09
+        0.700 7.8123E-09
+        1.060 3.3758E-09
+        1.530 4.4030E-08
+        1.970 4.5507E-07
+        2.325 1.7445E-06
+        2.500 2.3961E-06

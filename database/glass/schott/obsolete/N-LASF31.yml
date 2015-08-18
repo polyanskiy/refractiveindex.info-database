@@ -1,0 +1,35 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+REFERENCES: "<a href=\"http://refractiveindex.info/download/data/2012/schottzemax-20121204.agf\">SCHOTT Zemax catalog 2012-12-04</a>"
+COMMENTS: "Obsolete. Replaced by N-LASF31A. Refractive index is relative to air at standard conditions; Wavelength in dispersion formula is as measured in air and expressed in micrometers."
+DATA:
+  - type: formula 2
+    range: 0.32 2.5
+    coefficients: 0 1.71317198 0.0081917223 0.718575109 0.0297801704 1.7233247 138.461313
+  - type: tabulated k
+    data: |
+        0.320 3.9848E-06
+        0.334 3.4222E-06
+        0.350 1.7387E-06
+        0.365 9.0220E-07
+        0.370 7.4773E-07
+        0.380 5.2107E-07
+        0.390 3.5713E-07
+        0.400 2.5268E-07
+        0.405 2.2477E-07
+        0.420 1.7090E-07
+        0.436 1.3089E-07
+        0.460 9.0600E-08
+        0.500 4.3563E-08
+        0.546 1.7467E-08
+        0.580 1.2969E-08
+        0.620 1.3863E-08
+        0.660 1.2643E-08
+        0.700 1.3409E-08
+        1.060 2.3702E-08
+        1.530 3.9118E-08
+        1.970 2.5598E-07
+        2.325 1.5595E-06
+        2.500 4.9035E-06

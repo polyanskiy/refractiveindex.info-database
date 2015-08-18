@@ -1,0 +1,10 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+REFERENCES: "E. Sani and A. Dell'Oro. Optical constants of ethylene glycol over an extremely wide spectral range, <a href=\"http://dx.doi.org/10.1016/j.optmat.2014.04.035\"><i>Optical Materials</i> <b>37</b>, 36-41 (2014)</a>"
+COMMENTS: "Room temperature"
+DATA:
+  - type: formula 2
+    range: 3.4 6.8
+    coefficients: 0 0.6 4.05 12.55 -153.3 -60.1 -1008.2

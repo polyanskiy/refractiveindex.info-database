@@ -1,0 +1,14 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+REFERENCES: "S. Loria Über die Dispersion des Lichtes in gasförmigen Kohlenwasserstoffen. <a href=\"http://dx.doi.org/10.1002/andp.19093340809\"><i>Annalen der Physik</i> <b>334</b>, 605-622 (1909)</a> (in German). As cited in International Critical Tables of Numerical Data, Physics and Chemistry and Technology, Vol. VII, E. W. Washburn, Ed., McGraw-Hill, New York, 1930 [<a href=\"http://chla.library.cornell.edu/cgi/t/text/text-idx?c=chla;idno=2944761_2176\">link</a>]"
+COMMENTS: "0 °C"
+DATA:
+  - type: tabulated n
+    data: |
+        0.5290 1.0004478
+        0.5718 1.0004454
+        0.5935 1.0004435
+        0.6375 1.0004411
+        0.6585 1.0004404

@@ -1,0 +1,34 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+REFERENCES: "1) <a href=\"http://refractiveindex.info/download/data/2012/schott_optical_glass_collection_datasheets_dec_2012_us.pdf\">SCHOTT optical glass data sheets 2012-12-04</a><br>2) <a href=\"http://refractiveindex.info/download/data/2012/schottzemax-20121204.agf\">SCHOTT Zemax catalog 2012-12-04</a>"
+COMMENTS: "Suitable for precision molding. Refractive index is relative to air at standard conditions; Wavelength in dispersion formula is as measured in air and expressed in micrometers."
+DATA:
+  - type: formula 2
+    range: 0.334 2.5
+    coefficients: 0 1.35055424 0.0087628207 0.197575506 0.0371767201 1.09962992 90.3866994
+  - type: tabulated k
+    data: |
+        0.334 2.0169E-06
+        0.350 5.6910E-07
+        0.365 2.3057E-07
+        0.370 1.7763E-07
+        0.380 1.0086E-07
+        0.390 9.0090E-08
+        0.400 6.7992E-08
+        0.405 6.2060E-08
+        0.420 5.3183E-08
+        0.436 4.5137E-08
+        0.460 3.5570E-08
+        0.500 2.0826E-08
+        0.546 1.3960E-08
+        0.580 1.2969E-08
+        0.620 1.5852E-08
+        0.660 1.4758E-08
+        0.700 1.3409E-08
+        1.060 1.3523E-08
+        1.530 1.9374E-07
+        1.970 7.9448E-07
+        2.325 5.3400E-06
+        2.500 1.3385E-05

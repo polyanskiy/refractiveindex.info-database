@@ -1,0 +1,32 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+REFERENCES: "1) <a href=\"http://refractiveindex.info/download/data/2012/schott_optical_glass_collection_data_inquiry_glass_may_2012_us\">SCHOTT optical glass data sheets - inqiury glass 2012-05-03</a><br>2) <a href=\"http://refractiveindex.info/download/data/2012/schottzemax-20121204.agf\">SCHOTT Zemax catalog 2012-12-04</a>"
+COMMENTS: "Inquiry glass. Refractive index is relative to air at standard conditions; Wavelength in dispersion formula is as measured in air and expressed in micrometers."
+DATA:
+  - type: formula 2
+    range: 0.365 2.5
+    coefficients: 0 1.34859634 0.0087149293 0.10764424 0.0478406436 1.13207084 112.936116
+  - type: tabulated k
+    data: |
+        0.365 1.6581E-06
+        0.370 1.0792E-06
+        0.380 4.8441E-07
+        0.390 2.4636E-07
+        0.400 1.3415E-07
+        0.405 1.0749E-07
+        0.420 6.5763E-08
+        0.436 4.9445E-08
+        0.460 3.7071E-08
+        0.500 2.4054E-08
+        0.546 1.5713E-08
+        0.580 1.2969E-08
+        0.620 1.7842E-08
+        0.660 1.6874E-08
+        0.700 1.3409E-08
+        1.060 2.3702E-08
+        1.530 9.8390E-08
+        1.970 7.3075E-07
+        2.325 3.0751E-06
+        2.500 6.1794E-06

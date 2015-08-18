@@ -1,0 +1,10 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+REFERENCES: "<a href=\"http://www.refractiveindex.info/download/data/2014/ohara catalog 2014-09-30.pdf\">Ohara Glass Catalog (Sep. 30, 2014)</a>"
+COMMENTS: "S-LAH92 is a tantalum-free optical glass recommended for polished lens blank applications. Located in the same extensively used area as S-LAH58 with potential for increased demand, S-LAH92 provides significant cost reduction and also features low specific gravity.<br>Refractive index is relative to air at standard conditions; Wavelength in dispersion formula is as measured in air and expressed in micrometers."
+DATA:
+  - type: formula 2
+    range: 0.35 2.4
+    coefficients: 0 2.10440311E+00 1.08531811E-02 3.58346161E-01 4.43405920E-02 1.63010064E+00 1.23249800E+02
