@@ -13,7 +13,7 @@
           name: "Rakić 1998 - n,k 0.2066-12.40 µm"
           path: "main/Ag/Rakic.yml"
         - PAGE: McPeak
-          name: "MkPeak et al. 2015 - Thin film; n,k 0.3-1.7 µm"
+          name: "McPeak et al. 2015 - Thin film; n,k 0.3-1.7 µm"
           path: "main/Ag/McPeak.yml"  
         - PAGE: Stahrenberg
           name: "Stahrenberg et al. 2001 - n,k 0.128-0.496 µm"
@@ -41,7 +41,7 @@
           name: "Rakić 1995 - 0.00012399-200 µm"
           path: "main/Al/Rakic-1995.yml"
         - PAGE: McPeak
-          name: "MkPeak et al. 2015 - Thin film; n,k 0.15-1.7 µm"
+          name: "McPeak et al. 2015 - Thin film; n,k 0.15-1.7 µm"
           path: "main/Al/McPeak.yml"
         - PAGE: Larruquert
           name: "Larruquert et al. 1996 - n,k 0.077-0.1135 µm"
@@ -134,7 +134,7 @@
           name: "Olmon et al. 2012 - Template-stripped gold; n,k 0.300-24.93 µm"
           path: "main/Au/Olmon-ts.yml"
         - PAGE: McPeak
-          name: "MkPeak et al. 2015 - Thin film; n,k 0.3-1.7 µm"
+          name: "McPeak et al. 2015 - Thin film; n,k 0.3-1.7 µm"
           path: "main/Au/McPeak.yml"
         - PAGE: Babar
           name: "Babar and Weaver 2015 - n,k 0.2066-12.40 µm"
@@ -433,7 +433,7 @@
           name: "Rakić 1998 - n,k 0.2066-12.40 µm"
           path: "main/Cu/Rakic.yml"
         - PAGE: McPeak
-          name: "MkPeak et al. 2015 - Thin film; n,k 0.3-1.7 µm"
+          name: "McPeak et al. 2015 - Thin film; n,k 0.3-1.7 µm"
           path: "main/Cu/McPeak.yml"
         - PAGE: Stahrenberg
           name: "Stahrenberg et al. 2001 - n,k 0.128-0.496 µm"

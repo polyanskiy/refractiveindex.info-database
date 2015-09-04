@@ -1,4 +1,8 @@
-﻿2015-08-18
+﻿2015-xx-xx
+  bug fixes
+    corrected misspelled McPeak name in libraty.yml
+
+2015-08-18
   !!! version to be uploaded on GitHub !!!
   new data (thanks to Juan I. Larruquert, Instituto de Optica, Madrid, Spain for providing numerical data)
     main/B4C/Larruquert.yml
