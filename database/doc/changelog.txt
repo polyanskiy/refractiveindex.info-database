@@ -1,4 +1,7 @@
 ﻿2015-xx-xx
+  new data
+    main/Ta2O5/Bright-amorphous.yml
+    main/Ta2O5/Bright-nanocrystalline.yml
   bug fixes
     corrected misspelled McPeak name in libraty.yml
 
