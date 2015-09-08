@@ -1,5 +1,5 @@
 ﻿2015-xx-xx
-  new data
+  new data (thanks to Mikael Malmström for suggestion)
     main/Ta2O5/Bright-amorphous.yml
     main/Ta2O5/Bright-nanocrystalline.yml
   bug fixes
