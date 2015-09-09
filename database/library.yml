@@ -1952,18 +1952,12 @@
     - BOOK: ethylene_glycol
       name: "C<sub>2</sub>H<sub>4</sub>(OH)<sub>2</sub> (Ethylene glycol)"
       content:
-        - PAGE: Sani_and_Otanicar
-          name: "Sani 2014 + Otanicar 2009 - n 0.185-2.8 µm, k 0.2-1.5 µm"
-          path: "organic/C2H6O2 - ethylene glycol/Sani_and_Otanicar.yml"
-        - PAGE: Sani1
-          name: "Sani and Dell'Oro 2014 - n 0.185-2.8 µm"
-          path: "organic/C2H6O2 - ethylene glycol/Sani1.yml"
-        - PAGE: Sani2
-          name: "Sani and Dell'Oro 2014 - n 3.4-6.8 µm"
-          path: "organic/C2H6O2 - ethylene glycol/Sani2.yml"
         - PAGE: Sani
           name: "Sani and Dell'Oro 2014 - n,k 0.185-29.2 µm"
           path: "organic/C2H6O2 - ethylene glycol/Sani.yml"
+        - PAGE: Sani_and_Otanicar
+          name: "Sani 2014 + Otanicar 2009 - n 0.185-2.8 µm, k 0.2-1.5 µm"
+          path: "organic/C2H6O2 - ethylene glycol/Sani_and_Otanicar.yml"
         - PAGE: El-Kashef
           name: "El-Kashef 2000 - n 0.4-0.8 µm"
           path: "organic/C2H6O2 - ethylene glycol/El-Kashef.yml"

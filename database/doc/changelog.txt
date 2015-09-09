@@ -1,4 +1,9 @@
 ﻿2015-xx-xx
+  better data (thank to Elisa Sani)
+    organic/C2H6O2 - ethylene glycol/Sani.yml
+  removed data (dispersion formulae for select ranges from Sani.yml; Sani1.yml formula for vis/NIR is also included in Sani_and_Otanicar.yml)
+    organic/C2H6O2 - ethylene glycol/Sani1.yml
+    organic/C2H6O2 - ethylene glycol/Sani2.yml
   new data (thanks to Mikael Malmström for suggestion)
     main/Ta2O5/Bright-amorphous.yml
     main/Ta2O5/Bright-nanocrystalline.yml
