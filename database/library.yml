@@ -1953,7 +1953,7 @@
       name: "C<sub>2</sub>H<sub>4</sub>(OH)<sub>2</sub> (Ethylene glycol)"
       content:
         - PAGE: Sani
-          name: "Sani and Dell'Oro 2014 - n,k 0.185-29.2 µm"
+          name: "Sani and Dell'Oro 2014 - n,k 0.185-55.0 µm"
           path: "organic/C2H6O2 - ethylene glycol/Sani.yml"
         - PAGE: Sani_and_Otanicar
           name: "Sani 2014 + Otanicar 2009 - n 0.185-2.8 µm, k 0.2-1.5 µm"
