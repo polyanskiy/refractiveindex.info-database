@@ -7,4 +7,4 @@ COMMENTS: "Room temperature. Ordinary ray (o)."
 DATA:
   - type: formula 2
     range: 0.5461 5
-    coefficients: 0.03132 1.37623 0.0350832 1.06745 169.00
+    coefficients: 1.03132 1.37623 0.0350832 1.06745 169.00
