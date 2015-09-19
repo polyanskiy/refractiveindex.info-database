@@ -9,6 +9,7 @@
     main/Ta2O5/Bright-nanocrystalline.yml
   bug fixes
     corrected misspelled McPeak name in libraty.yml
+	fixed dispersion formula in main/LiIO3/Herbst-o.yml.yml (thanks to Jiaan Zheng, DESY, Hamburg, Germany)
 
 2015-08-18
   !!! version to be uploaded on GitHub !!!
