@@ -1573,6 +1573,9 @@
       name: "Si (Silicon)"
       content:
         - DIVIDER: "Crystalline silicon"
+        - PAGE: Chandler-Horowitz
+          name: "Chandler-Horowitz and Amirtharaj 2005 - n 2.5-22.222 µm, k 6.25-23.256 µm"
+          path: "main/Si/Chandler-Horowitz.yml"
         - PAGE: Edwards
           name: "Edwards and Ochoa 1980 - n 2.5-25 µm; 26 °C"
           path: "main/Si/Edwards.yml"
