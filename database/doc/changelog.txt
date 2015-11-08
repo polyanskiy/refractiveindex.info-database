@@ -7,10 +7,12 @@
   new data (thanks to Mikael Malmström)
     main/Ta2O5/Bright-amorphous.yml
     main/Ta2O5/Bright-nanocrystalline.yml
-	main/Si/Chandler-Horowitz.yml
+    main/Si/Chandler-Horowitz.yml
   bug fixes
     corrected misspelled McPeak name in libraty.yml
 	fixed dispersion formula in main/LiIO3/Herbst-o.yml.yml (thanks to Jiaan Zheng, DESY, Hamburg, Germany)
+  other
+    library.yml: ' - ' replaced by ': ' in page names
 
 2015-08-18
   !!! version to be uploaded on GitHub !!!
