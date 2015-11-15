@@ -1892,7 +1892,7 @@
           path: "organic/CH4 - methane/Martonchik-solid-90K.yml"
         - PAGE: Martonchik-solid-30K
           name: "Martonchik and Orton 1994: Solid at 30 K; n,k 0.002-100 µm"
-          path: "organic/CH4: methane/Martonchik-solid-30K.yml"
+          path: "organic/CH4 - methane/Martonchik-solid-30K.yml"
     - BOOK: pentane
       name: "C<sub>5</sub>H<sub>12</sub> (Pentane)"
       content:
