@@ -1877,19 +1877,19 @@
       content:
         - PAGE: Rollefson
           name: "Rollefson and Havens 1940: Gas; n 1.68-14.8 µm"
-          path: "organic/CH4: methane/Rollefson.yml"
+          path: "organic/CH4 - methane/Rollefson.yml"
         - PAGE: Loria
           name: "Loria 1909: Gas; n 0.5290-0.6585 µm"
-          path: "organic/CH4: methane/Loria.yml"
+          path: "organic/CH4 - methane/Loria.yml"
         - PAGE: Martonchik-liquid-111K
           name: "Martonchik and Orton 1994: Liquid at 111 K; n,k 0.002-71.43 µm"
-          path: "organic/CH4: methane/Martonchik-liquid-111K.yml"
+          path: "organic/CH4 - methane/Martonchik-liquid-111K.yml"
         - PAGE: Martonchik-liquid-90K
           name: "Martonchik and Orton 1994: Liquid at 90 K; n,k 0.002-71.43 µm"
-          path: "organic/CH4: methane/Martonchik-liquid-90K.yml"
+          path: "organic/CH4 - methane/Martonchik-liquid-90K.yml"
         - PAGE: Martonchik-solid-90K
           name: "Martonchik and Orton 1994: Solid at 90 K; n,k 0.002-100 µm"
-          path: "organic/CH4: methane/Martonchik-solid-90K.yml"
+          path: "organic/CH4 - methane/Martonchik-solid-90K.yml"
         - PAGE: Martonchik-solid-30K
           name: "Martonchik and Orton 1994: Solid at 30 K; n,k 0.002-100 µm"
           path: "organic/CH4: methane/Martonchik-solid-30K.yml"
@@ -1898,13 +1898,13 @@
       content:
         - PAGE: Anderson
           name: "Anderson 2000: Iso-pentane; n,k 2.0-14.925 µm"
-          path: "organic/C5H12: pentane/Anderson.yml"
+          path: "organic/C5H12 - pentane/Anderson.yml"
     - BOOK: octane
       name: "C<sub>8</sub>H<sub>18</sub> (Octane)"
       content:
         - PAGE: Anderson
           name: "Anderson 2000: Iso-octane; n,k 2.006-23 µm"
-          path: "organic/C8H18: octane/Anderson.yml"
+          path: "organic/C8H18 - octane/Anderson.yml"
     - DIVIDER: "Alcohols"
     - BOOK: methanol
       name: "CH<sub>3</sub>OH (Methanol)"
@@ -1957,98 +1957,98 @@
       content:
         - PAGE: Sani
           name: "Sani and Dell'Oro 2014: n,k 0.185-55.0 µm"
-          path: "organic/C2H6O2: ethylene glycol/Sani.yml"
+          path: "organic/C2H6O2 - ethylene glycol/Sani.yml"
         - PAGE: Sani_and_Otanicar
           name: "Sani 2014 + Otanicar 2009: n 0.185-2.8 µm, k 0.2-1.5 µm"
-          path: "organic/C2H6O2: ethylene glycol/Sani_and_Otanicar.yml"
+          path: "organic/C2H6O2 - ethylene glycol/Sani_and_Otanicar.yml"
         - PAGE: El-Kashef
           name: "El-Kashef 2000: n 0.4-0.8 µm"
-          path: "organic/C2H6O2: ethylene glycol/El-Kashef.yml"
+          path: "organic/C2H6O2 - ethylene glycol/El-Kashef.yml"
     - BOOK: propylene_glycol
       name: "C<sub>3</sub>H<sub>6</sub>(OH)<sub>2</sub> (Propylene glycol)"
       content:
         - PAGE: Otanicar
           name: "Otanicar et al. 2009: n 0.434-0.656 µm, k 0.2-1.5 µm"
-          path: "organic/C3H8O2: propylene glycol/Otanicar.yml"
+          path: "organic/C3H8O2 - propylene glycol/Otanicar.yml"
     - DIVIDER: "Triols"
     - BOOK: glycerol
       name: "C<sub>3</sub>H<sub>5</sub>(OH)<sub>3</sub> (Glycerol)"
       content:
         - PAGE: Birkhoff
           name: "Birkhoff et al. 1978: n,k 0.05123-0.61992 µm"
-          path: "organic/C3H8O3: glycerol/Birkhoff.yml"
+          path: "organic/C3H8O3 - glycerol/Birkhoff.yml"
         - PAGE: Rheims
           name: "Rheims et al. 1997: n 0.5893-1.05 µm"
-          path: "organic/C3H8O3: glycerol/Rheims.yml"
+          path: "organic/C3H8O3 - glycerol/Rheims.yml"
     - DIVIDER: "Esters"
     - BOOK: methyl_salicylate
       name: "C<sub>8</sub>H<sub>8</sub>O<sub>3</sub> (Methyl salicylate)"
       content:
         - PAGE: Rheims
           name: "Rheims et al. 1997: n 0.5893-1.05 µm"
-          path: "organic/C8H8O3: methyl salicylate/Rheims.yml"
+          path: "organic/C8H8O3 - methyl salicylate/Rheims.yml"
     - BOOK: ethyl_salicylate
       name: "C<sub>9</sub>H<sub>10</sub>O<sub>3</sub> (Ethyl salicylate)"
       content:
         - PAGE: Rheims
           name: "Rheims et al. 1997: n 0.5893-1.05 µm"
-          path: "organic/C9H10O3: ethyl salicylate/Rheims.yml"
+          path: "organic/C9H10O3 - ethyl salicylate/Rheims.yml"
     - DIVIDER: "Cycloalkanes"
     - BOOK: cyclohexane
       name: "C<sub>6</sub>H<sub>12</sub> (Cyclohexane)"
       content:
         - PAGE: Rheims
           name: "Rheims et al. 1997: n 0.4765-0.83 µm"
-          path: "organic/C6H12: cyclohexane/Rheims.yml"
+          path: "organic/C6H12 - cyclohexane/Rheims.yml"
     - DIVIDER: "Benzene and its derivatives"
     - BOOK: benzene
       name: "C<sub>6</sub>H<sub>6</sub> (Benzene)"
       content:
         - PAGE: Moutzouris
           name: "Moutzouris et al. 2013: n 0.450-1.551 µm"
-          path: "organic/C6H6: benzene/Moutzouris.yml"
+          path: "organic/C6H6 - benzene/Moutzouris.yml"
     - BOOK: styrene
       name: "C<sub>8</sub>H<sub>8</sub> (Styrene)"
       content:
         - PAGE: Sultanova
           name: "Sultanova et al. 2009: n 0.4368-1.052 µm"
-          path: "organic/C8H8: styrene/Sultanova.yml"
+          path: "organic/C8H8 - styrene/Sultanova.yml"
     - BOOK: toluene
       name: "C<sub>7</sub>H<sub>8</sub> (Toluene)"
       content:
         - PAGE: Kedenburg
           name: "Kedenburg et al. 2012: n 0.5-1.6 µm, k 0.5-1.75 µm"
-          path: "organic/C7H8: toluene/Kedenburg.yml"
+          path: "organic/C7H8 - toluene/Kedenburg.yml"
         - PAGE: Moutzouris
           name: "Moutzouris et al. 2013: n 0.450-1.551 µm"
-          path: "organic/C7H8: toluene/Moutzouris.yml"
+          path: "organic/C7H8 - toluene/Moutzouris.yml"
     - BOOK: nitrobenzene
       name: "C<sub>6</sub>H<sub>5</sub>NO<sub>2</sub> (Nitrobenzene)"
       content:      
         - PAGE: Kedenburg
           name: "Kedenburg et al. 2012: n 0.5-1.6 µm"
-          path: "organic/C6H5NO2: nitrobenzene/Kedenburg.yml"
+          path: "organic/C6H5NO2 - nitrobenzene/Kedenburg.yml"
     - DIVIDER: "Heterocyclic compounds"
     - BOOK: dioxane
       name: "C<sub>4</sub>H<sub>8</sub>O<sub>2</sub> (Dioxane)"
       content:
         - PAGE: Moutzouris
           name: "Moutzouris et al. 2013: n 0.450-1.551 µm"
-          path: "organic/C4H8O2: dioxane/Moutzouris.yml"
+          path: "organic/C4H8O2 - dioxane/Moutzouris.yml"
     - DIVIDER: "Carboxylic acids"
     - BOOK: acetic_acid
       name: "C<sub>2</sub>H<sub>4</sub>O<sub>2</sub> (Acetic acid)"
       content:
         - PAGE: El-Kashef
           name: "El-Kashef 2000: n 0.4-0.8 µm"
-          path: "organic/C2H4O2: acetic acid/El-Kashef.yml"
+          path: "organic/C2H4O2 - acetic acid/El-Kashef.yml"
     - DIVIDER: "Diols"
     - BOOK: pentanediol
       name: "C<sub>5</sub>H<sub>12</sub>O<sub>2</sub> (Pentanediol)"
       content:
         - PAGE: Moutzouris
           name: "Moutzouris et al. 2013: n 0.450-1.551 µm"
-          path: "organic/C5H12O2: pentanediol/Moutzouris.yml"
+          path: "organic/C5H12O2 - pentanediol/Moutzouris.yml"
     - DIVIDER: "Ketones"
     - BOOK: acetone
       name: "C<sub>3</sub>H<sub>6</sub>O (Acetone)"
@@ -2062,25 +2062,25 @@
       content:
         - PAGE: Ghosal
           name: "Ghosal et al. 1993: n 1-13 µm"
-          path: "organic/CHBr3: bromoform/Ghosal.yml"
+          path: "organic/CHBr3 - bromoform/Ghosal.yml"
     - BOOK: chloroform
       name: "CHCl<sub>3</sub> (Chloroform)"  
       content:
         - PAGE: Kedenburg
           name: "Kedenburg et al. 2012: n 0.5-1.6 µm, k 0.5-1.75 µm"
-          path: "organic/CHCl3: chloroform/Kedenburg.yml"
+          path: "organic/CHCl3 - chloroform/Kedenburg.yml"
     - BOOK: carbon_tetrachloride
       name: "CCl<sub>4</sub> (Carbon tetrachloride)"
       content:
         - PAGE: Kedenburg
           name: "Kedenburg et al. 2012: n 0.5-1.6 µm, k 0.5-1.5 µm"
-          path: "organic/CCl4: carbon tetrachloride/Kedenburg.yml"
+          path: "organic/CCl4 - carbon tetrachloride/Kedenburg.yml"
         - PAGE: Moutzouris
           name: "Moutzouris et al. 2013: n 0.450-1.551 µm"
-          path: "organic/CCl4: carbon tetrachloride/Moutzouris.yml"
+          path: "organic/CCl4 - carbon tetrachloride/Moutzouris.yml"
         - PAGE: Ghosal
           name: "Ghosal et al. 1993: n 1-9 µm"
-          path: "organic/CCl4: carbon tetrachloride/Ghosal.yml"
+          path: "organic/CCl4 - carbon tetrachloride/Ghosal.yml"
     - DIVIDER: "Nitriles"
     - BOOK: acetonitrile
       name: "C<sub>2</sub>H<sub>3</sub>N (Acetonitrile)"
@@ -2100,13 +2100,13 @@
       content:
         - PAGE: Moutzouris-α
           name: "Moutzouris et al. 2011: n(α) 0.450-1.551 µm"
-          path: "organic/C8H5KO4: potassium hydrogen phthalate/Moutzouris-alpha.yml"
+          path: "organic/C8H5KO4 - potassium hydrogen phthalate/Moutzouris-alpha.yml"
         - PAGE: Moutzouris-β
           name: "Moutzouris et al. 2011: n(β) 0.450-1.551 µm"
-          path: "organic/C8H5KO4: potassium hydrogen phthalate/Moutzouris-beta.yml"
+          path: "organic/C8H5KO4 - potassium hydrogen phthalate/Moutzouris-beta.yml"
         - PAGE: Moutzouris-γ
           name: "Moutzouris et al. 2011: n(γ) 0.450-1.551 µm"
-          path: "organic/C8H5KO4: potassium hydrogen phthalate/Moutzouris-gamma.yml"
+          path: "organic/C8H5KO4 - potassium hydrogen phthalate/Moutzouris-gamma.yml"
     - BOOK: urea
       name: "CH<sub>4</sub>N<sub>2</sub>O (Urea)"
       content:
