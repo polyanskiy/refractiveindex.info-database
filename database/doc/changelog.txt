@@ -11,6 +11,7 @@
   bug fixes
     corrected misspelled McPeak name in libraty.yml
 	fixed dispersion formula in main/LiIO3/Herbst-o.yml.yml (thanks to Jiaan Zheng, DESY, Hamburg, Germany)
+    fixed missing "tabulated k" headers in glass/schott/obsolete/LAKL12.yml and LASFN9.yml (thanks to Thibault North)
   other
     library.yml: ' - ' replaced by ': ' in page names
 
