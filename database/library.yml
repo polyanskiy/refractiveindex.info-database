@@ -5742,6 +5742,9 @@
         - PAGE: Leguy-hydrated
           name: "Leguy et al. 2015; Hydrated; n,k 0.249-0.427 µm"
           path: "other/perovskite/CH3NH3PbI3/Leguy-hydrated.yml"
+        - PAGE: Phillips
+          name: "Phillips et al. 2015: n,k 0.3-1.5 µm"
+          path: "other/perovskite/CH3NH3PbI3/Phillips.yml"
     - DIVIDER: "Heat transfer fluids"
     - BOOK: TherminolVP-1
       name: "Therminol VP-1"

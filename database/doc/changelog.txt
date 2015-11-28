@@ -1,5 +1,5 @@
 ﻿2015-xx-xx
-  better data (thank to Elisa Sani)
+  better data (thanks to Elisa Sani)
     organic/C2H6O2 - ethylene glycol/Sani.yml
   removed data (dispersion formulae for select ranges from Sani.yml; Sani1.yml formula for vis/NIR is also included in Sani_and_Otanicar.yml)
     organic/C2H6O2 - ethylene glycol/Sani1.yml
@@ -8,10 +8,12 @@
     main/Ta2O5/Bright-amorphous.yml
     main/Ta2O5/Bright-nanocrystalline.yml
     main/Si/Chandler-Horowitz.yml
+  new data (thanks to Rob Treharne, University of Liverpool, UK, for providing data in yaml format!)
+    other/perovskite/CH3NH3PbI3/Phillips.yml
   bug fixes
     corrected misspelled McPeak name in libraty.yml
 	fixed dispersion formula in main/LiIO3/Herbst-o.yml.yml (thanks to Jiaan Zheng, DESY, Hamburg, Germany)
-    fixed missing "tabulated k" headers in glass/schott/obsolete/LAKL12.yml and LASFN9.yml (thanks to Thibault North)
+    fixed missing data headers in glass/schott/obsolete/LAKL12.yml and LASFN9.yml (thanks to Thibault North)
   other
     library.yml: ' - ' replaced by ': ' in page names
 
