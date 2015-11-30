@@ -6,7 +6,7 @@ REFERENCES: "K. M. McPeak, S. V. Jayanti, S. J. P. Kress, S. Meyer, S. Iotti, A.
 COMMENTS: "Thermally evaporated Ag at 50 Å/s with base pressure of 3e-8 Torr, template stripped from Si wafer"
 DATA:
   - type: tabulated nk
-    data: |		
+    data: |
         0.3 1.646857286 0.972336834
         0.31 1.455629699 0.572501372
         0.32 0.920058628 0.331538655
