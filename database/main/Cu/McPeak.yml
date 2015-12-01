@@ -6,7 +6,7 @@ REFERENCES: "K. M. McPeak, S. V. Jayanti, S. J. P. Kress, S. Meyer, S. Iotti, A.
 COMMENTS: "Thermally evaporated Cu at 35 Å/s with base pressure of 3e-8 Torr, template stripped from Si wafer"
 DATA:
   - type: tabulated nk
-    data: |		
+    data: |
         0.3 1.347459987 1.679419071
         0.31 1.321473211 1.740141215
         0.32 1.301896917 1.781554261
