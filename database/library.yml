@@ -1544,6 +1544,9 @@
         - PAGE: Connolly
           name: "Connolly et al. 1979: n 0.54-18.2 µm"
           path: "main/ZnSe/Connolly.yml"
+        - PAGE: Marple
+          name: "Marple 1964: n 0.48-2.5 µm"
+          path: "main/ZnSe/Marple.yml"
     - BOOK: AgGaSe2
       name: "AgGaSe<sub>2</sub> (Silver gallium selenide, AGSe)"
       content:
@@ -1728,6 +1731,9 @@
         - PAGE: DeBell-20K
           name: "DeBell et al. 1979: n 6-22 µm; 20 K"
           path: "main/CdTe/DeBell-20K.yml"
+        - PAGE: Marple
+          name: "Marple 1964: n 0.86-2.5 µm"
+          path: "main/CdTe/Marple.yml"
     - BOOK: PbTe
       name: "PbTe (Lead telluride)"
       content:
@@ -1746,6 +1752,9 @@
         - PAGE: Li
           name: "Li 1984: n 0.55-30 µm;"
           path: "main/ZnTe/Li.yml"
+        - PAGE: Marple
+          name: "Marple 1964: n 0.58-2.5 µm"
+          path: "main/ZnTe/Marple.yml"
     - DIVIDER: "Ti - Titanium and titanates"
     - BOOK: Ti
       name: "Ti (Titanium)"
