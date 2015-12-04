@@ -5894,7 +5894,7 @@
           path: "organic/C3H6O - acetone/Rheims.yml"
         - PAGE: benzene
           name: "Benzene (C6H6)"
-          path: "organic/C6H6: benzene/Moutzouris.yml"
+          path: "organic/C6H6 - benzene/Moutzouris.yml"
         - PAGE: mercury
           name: "Mercury (Hg)"
           path: "main/Hg/Inagaki.yml"
