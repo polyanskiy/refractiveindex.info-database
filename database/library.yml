@@ -1759,8 +1759,11 @@
     - BOOK: Ti
       name: "Ti (Titanium)"
       content:
+        - PAGE: Rakic
+          name: "Rakić 1998: n,k 0.2066-12.40 µm"
+          path: "main/Ti/Rakic.yml"
         - PAGE: Johnson
-          name: "Johnson and Christy 1974: 0.188-1.937 µm"
+          name: "Johnson and Christy 1974: n,k 0.188-1.937 µm"
           path: "main/Ti/Johnson.yml"
         - PAGE: Ordal
           name: "Ordal et al. 1988: n,k 0.667-200 µm"
@@ -2876,6 +2879,9 @@
         - PAGE: P-SF68
           name: "P-SF68"
           path: "glass/schott/P-SF68.yml"
+        - PAGE: P-SF69
+          name: "P-SF69"
+          path: "glass/schott/P-SF69.yml"
         - PAGE: SF1
           name: "SF1"
           path: "glass/schott/SF1.yml"

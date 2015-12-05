@@ -1,3 +1,10 @@
+next release
+  bug fixes (thanks to Thibault North!)
+    fixed path to organic/CH6H6 - benzene.Moutzouris.yml in library.yml
+    added main/Ti/Rakic.yml to library.yml
+    added glass/schott/P-SF69.yml to library.yml
+    removed database/main/Ag/Sthrenberg.yml
+
 2015-12-01
   better data (thanks to Elisa Sani)
     organic/C2H6O2 - ethylene glycol/Sani.yml
