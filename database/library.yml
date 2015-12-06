@@ -1734,6 +1734,9 @@
         - PAGE: Marple
           name: "Marple 1964: n 0.86-2.5 µm"
           path: "main/CdTe/Marple.yml"
+        - PAGE: Treharne
+          name: "Treharne et al. 2011: n,k 0.3-1.5 µm"
+          path: "main/CdTe/Treharne.yml"
     - BOOK: PbTe
       name: "PbTe (Lead telluride)"
       content:
