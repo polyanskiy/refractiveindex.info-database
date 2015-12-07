@@ -5440,7 +5440,7 @@
       content:
         - PAGE: OptiWhite
           name: "OptiWhite"
-          path: "glass/NSG/Treharne-Opti-White.yml"
+          path: "glass/nsg/Treharne-Opti-White.yml"
 - SHELF: other
   name: "OTHER - miscellaneous materials"
   content:
