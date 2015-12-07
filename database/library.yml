@@ -1178,6 +1178,9 @@
         - PAGE: Bond-e
           name: "Bond et al. 1965: n(e) 0.45-4.0 µm"
           path: "main/ZnO/Bond-e.yml"
+        - PAGE: Treharne-AZO
+          name: "Treharne et al. 2011: n,k 0.3-0.9 µm"
+          path: "main/ZnO/Treharne-AZO.yml"
     - BOOK: ZrO2
       name: "ZrO<sub>2</sub> (Zirconium dioxide, Zirconia)"
       content:
@@ -1430,6 +1433,9 @@
         - PAGE: Bieniewski-e
           name: "Bieniewski and Czyzak 1963: n(e) 0.51-1.4 µm"
           path: "main/CdS/Bieniewski-e.yml"
+        - PAGE: Treharne
+          name: "Treharne et al. 2011: n,k 0.3-1.5 µm"
+          path: "main/CdS/Treharne.yml"
     - BOOK: CuGaS2
       name: "CuGaS<sub>2</sub> (Copper gallium sulfide)"
       content:
@@ -1734,6 +1740,9 @@
         - PAGE: Marple
           name: "Marple 1964: n 0.86-2.5 µm"
           path: "main/CdTe/Marple.yml"
+        - PAGE: Treharne
+          name: "Treharne et al. 2011: n,k 0.3-1.5 µm"
+          path: "main/CdTe/Treharne.yml"
     - BOOK: PbTe
       name: "PbTe (Lead telluride)"
       content:
@@ -5426,6 +5435,12 @@
         - PAGE: OF1
           name: "OF1"
           path: "glass/lzos/OF1.yml"
+    - BOOK: NSG-OptiWhite
+      name: "NSG - OptiWhite (Low iron glass)"
+      content:
+        - PAGE: OptiWhite
+          name: "OptiWhite"
+          path: "glass/NSG/Treharne-Opti-White.yml"
 - SHELF: other
   name: "OTHER - miscellaneous materials"
   content:
