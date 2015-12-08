@@ -8,7 +8,7 @@ next release
     main/CdS/Treharne.yml
     main/CdTe/Treharne.yml
     other/doped crystals/Al-ZnO/Treharne.yml
-    glass/nsg/pilkington-optiwhite.yml
+    glass/nsg/Pilkington-Optiwhite.yml
 
 2015-12-01
   better data (thanks to Elisa Sani)

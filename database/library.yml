@@ -2343,7 +2343,7 @@
       content:
         - PAGE: Pilkington-Optiwhite
           name: "Pilkington Optiwhite™ (Low iron glass)"
-          path: "glass/nsg/pilkington-optiwhite.yml"
+          path: "glass/nsg/Pilkington-Optiwhite.yml"
     - DIVIDER: "Display glass"
     - BOOK: CORNING-display
       name: "CORNING - display"
