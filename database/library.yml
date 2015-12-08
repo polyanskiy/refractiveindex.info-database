@@ -1178,9 +1178,6 @@
         - PAGE: Bond-e
           name: "Bond et al. 1965: n(e) 0.45-4.0 µm"
           path: "main/ZnO/Bond-e.yml"
-        - PAGE: Treharne-AZO
-          name: "Treharne et al. 2011: n,k 0.3-0.9 µm"
-          path: "main/ZnO/Treharne-AZO.yml"
     - BOOK: ZrO2
       name: "ZrO<sub>2</sub> (Zirconium dioxide, Zirconia)"
       content:
@@ -1434,7 +1431,7 @@
           name: "Bieniewski and Czyzak 1963: n(e) 0.51-1.4 µm"
           path: "main/CdS/Bieniewski-e.yml"
         - PAGE: Treharne
-          name: "Treharne et al. 2011: n,k 0.3-1.5 µm"
+          name: "Treharne et al. 2011: Thin film; n,k 0.3-1.5 µm"
           path: "main/CdS/Treharne.yml"
     - BOOK: CuGaS2
       name: "CuGaS<sub>2</sub> (Copper gallium sulfide)"
@@ -1741,7 +1738,7 @@
           name: "Marple 1964: n 0.86-2.5 µm"
           path: "main/CdTe/Marple.yml"
         - PAGE: Treharne
-          name: "Treharne et al. 2011: n,k 0.3-1.5 µm"
+          name: "Treharne et al. 2011: Thin film; n,k 0.3-1.5 µm"
           path: "main/CdTe/Treharne.yml"
     - BOOK: PbTe
       name: "PbTe (Lead telluride)"
@@ -2341,6 +2338,12 @@
         - PAGE: BOROFLOAT33
           name: "BOROFLOAT® 33"
           path: "glass/schott/misc/BOROFLOAT33.yml"
+    - BOOK: NSG-multipurpose
+      name: "NSG - multiple purpose"
+      content:
+        - PAGE: Pilkington-Optiwhite
+          name: "Pilkington Optiwhite™ (Low iron glass)"
+          path: "glass/nsg/pilkington-optiwhite.yml"
     - DIVIDER: "Display glass"
     - BOOK: CORNING-display
       name: "CORNING - display"
@@ -5435,12 +5438,6 @@
         - PAGE: OF1
           name: "OF1"
           path: "glass/lzos/OF1.yml"
-    - BOOK: NSG-OptiWhite
-      name: "NSG - OptiWhite (Low iron glass)"
-      content:
-        - PAGE: OptiWhite
-          name: "OptiWhite"
-          path: "glass/nsg/Treharne-Opti-White.yml"
 - SHELF: other
   name: "OTHER - miscellaneous materials"
   content:
@@ -5600,6 +5597,12 @@
         - PAGE: Carvajal-γ
           name: "Carvajal et al. 2007: n(γ) 0.4-1.5 µm"
           path: "other/doped crystals/Nb-RbTiOPO4/Carvajal-gamma.yml"
+    - BOOK: Al:ZnO
+      name: "Al:ZnO (Aluminium-doped zinc oxide, AZO)"
+      content:
+        - PAGE: Treharne
+          name: "Treharne et al. 2011: Thin film; n,k 0.3-0.9 µm"
+          path: "other/doped crystals/Al-ZnO/Treharne.yml"
     - DIVIDER: "Mixed organic compounds"
     - BOOK: (C8H8)n-(C3H3N)m
       name: "(C<sub>8</sub>H<sub>8</sub>)<sub>n</sub>-(C<sub>3</sub>H<sub>3</sub>N)<sub>m</sub> (Styrene-acrylonitrile, SAN)"

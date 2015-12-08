@@ -4,6 +4,11 @@ next release
     added main/Ti/Rakic.yml to library.yml
     added glass/schott/P-SF69.yml to library.yml
     removed database/main/Ag/Sthrenberg.yml
+  new data (thnks to Robert Treharne for submitting updating the database via GitHub!)
+    main/CdS/Treharne.yml
+    main/CdTe/Treharne.yml
+    other/doped crystals/Al-ZnO/Treharne.yml
+    glass/nsg/pilkington-optiwhite.yml
 
 2015-12-01
   better data (thanks to Elisa Sani)
@@ -15,7 +20,7 @@ next release
     main/Ta2O5/Bright-amorphous.yml
     main/Ta2O5/Bright-nanocrystalline.yml
     main/Si/Chandler-Horowitz.yml
-  new data (thanks to Rob Treharne, University of Liverpool, UK, for providing data in yaml format!)
+  new data (thanks to Robert Treharne, University of Liverpool, UK, for providing data in yaml format!)
     other/perovskite/CH3NH3PbI3/Phillips.yml
   new data (thanks to Mathieu Perrin INSA Rennes, France for suggesting data)
     main/ZnSe/Marple.yml
