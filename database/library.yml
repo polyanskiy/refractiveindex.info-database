@@ -3180,6 +3180,15 @@
         - PAGE: S-FPL55
           name: "S-FPL55"
           path: "glass/ohara/S-FPL55.yml"
+    - BOOK: OHARA-FPM
+      name: "OHARA - FPM"
+      content:
+        - PAGE: S-FPM2
+          name: "S-FPM2"
+          path: "glass/ohara/S-FPM2.yml"
+        - PAGE: S-FPM3
+          name: "S-FPM3"
+          path: "glass/ohara/S-FPM3.yml"
     - BOOK: OHARA-FSL
       name: "OHARA - FSL"
       content:
