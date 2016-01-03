@@ -1914,15 +1914,60 @@
     - BOOK: pentane
       name: "C<sub>5</sub>H<sub>12</sub> (Pentane)"
       content:
+        - PAGE: Kerl-293K
+          name: "Kerl and Varchmin 1995: n-Pentane; 293 K; n 0.326-0.644 µm"
+          path: "organic/C5H12 - pentane/Kerl-293K.yml"
+        - PAGE: Kerl-313K
+          name: "Kerl and Varchmin 1995: n-Pentane; 313 K; n 0.326-0.644 µm"
+          path: "organic/C5H12 - pentane/Kerl-313K.yml"
+        - PAGE: Kerl-333K
+          name: "Kerl and Varchmin 1995: n-Pentane; 333 K; n 0.326-0.644 µm"
+          path: "organic/C5H12 - pentane/Kerl-333K.yml" 
         - PAGE: Anderson
-          name: "Anderson 2000: Iso-pentane; n,k 2.0-14.925 µm"
+          name: "Anderson 2000: iso-Pentane; n,k 2.0-14.925 µm"
           path: "organic/C5H12 - pentane/Anderson.yml"
+    - BOOK: hexane
+      name: "C<sub>6</sub>H<sub>14</sub> (Hexane)"
+      content:       
+        - PAGE: Kozma
+          name: "Kozma et al. 2005: n-Hexane; n 0.230-0.6407 µm"
+          path: "organic/C6H14 - hexane/Kozma.yml"
+        - PAGE: Kerl-293K
+          name: "Kerl and Varchmin 1995: n-Hexane; 293 K; n 0.326-0.644 µm"
+          path: "organic/C6H14 - hexane/Kerl-293K.yml"
+        - PAGE: Kerl-313K
+          name: "Kerl and Varchmin 1995: n-Hexane; 313 K; n 0.326-0.644 µm"
+          path: "organic/C6H14 - hexane/Kerl-313K.yml"
+        - PAGE: Kerl-333K
+          name: "Kerl and Varchmin 1995: n-Hexane; 333 K; n 0.326-0.644 µm"
+          path: "organic/C6H14 - hexane/Kerl-333K.yml"  
+    - BOOK: heptane
+      name: "C<sub>7</sub>H<sub>16</sub> (Heptane)"
+      content:
+        - PAGE: Kerl-293K
+          name: "Kerl and Varchmin 1995: n-Heptane; 293 K; n 0.326-0.644 µm"
+          path: "organic/C7H16 - heptane/Kerl-293K.yml"
+        - PAGE: Kerl-313K
+          name: "Kerl and Varchmin 1995: n-Heptane; 313 K; n 0.326-0.644 µm"
+          path: "organic/C7H16 - heptane/Kerl-313K.yml"
+        - PAGE: Kerl-333K
+          name: "Kerl and Varchmin 1995: n-Heptane; 333 K; n 0.326-0.644 µm"
+          path: "organic/C7H16 - heptane/Kerl-333K.yml"
     - BOOK: octane
       name: "C<sub>8</sub>H<sub>18</sub> (Octane)"
       content:
         - PAGE: Anderson
-          name: "Anderson 2000: Iso-octane; n,k 2.006-23 µm"
+          name: "Anderson 2000: iso-Octane; n,k 2.006-23 µm"
           path: "organic/C8H18 - octane/Anderson.yml"
+        - PAGE: Kerl-293K
+          name: "Kerl and Varchmin 1995: n-Octane; 293 K; n 0.326-0.644 µm"
+          path: "organic/C8H18 - octane/Kerl-293K.yml"
+        - PAGE: Kerl-313K
+          name: "Kerl and Varchmin 1995: n-Octane; 313 K; n 0.326-0.644 µm"
+          path: "organic/C8H18 - octane/Kerl-313K.yml"
+        - PAGE: Kerl-333K
+          name: "Kerl and Varchmin 1995: n-Octane; 333 K; n 0.326-0.644 µm"
+          path: "organic/C8H18 - octane/Kerl-333K.yml"
     - DIVIDER: "Alcohols"
     - BOOK: methanol
       name: "CH<sub>3</sub>OH (Methanol)"
@@ -1930,6 +1975,9 @@
         - PAGE: Moutzouris
           name: "Moutzouris et al. 2013: n 0.450-1.551 µm"
           path: "organic/CH4O - methanol/Moutzouris.yml"
+        - PAGE: Kozma
+          name: "Kozma et al. 2005: n 0.230-0.6407 µm"
+          path: "organic/CH4O - methanol/Kozma.yml"
         - PAGE: El-Kashef
           name: "El-Kashef 2000: n 0.4-0.8 µm"
           path: "organic/CH4O - methanol/El-Kashef.yml"
@@ -1939,6 +1987,9 @@
         - PAGE: Kedenburg
           name: "Kedenburg et al. 2012: n 0.5-1.6 µm, k 0.5-1.75 µm"
           path: "organic/C2H6O - ethanol/Kedenburg.yml"
+        - PAGE: Kozma
+          name: "Kozma et al. 2005: n 0.230-0.6407 µm"
+          path: "organic/C2H6O - ethanol/Kozma.yml"
         - PAGE: Rheims
           name: "Rheims et al. 1997: n 0.4765-0.83 µm"
           path: "organic/C2H6O - ethanol/Rheims.yml"
@@ -1946,16 +1997,19 @@
       name: "C<sub>3</sub>H<sub>7</sub>OH (Propanol)"
       content:
         - PAGE: Moutzouris
-          name: "Moutzouris et al. 2013: n 0.450-1.551 µm"
+          name: "Moutzouris et al. 2013: 1-Propanol; n 0.450-1.551 µm"
           path: "organic/C3H8O - propanol/Moutzouris.yml"
+        - PAGE: Kozma
+          name: "Kozma et al. 2005: iso-propanol; n 0.230-0.6407 µm"
+          path: "organic/C3H8O - propanol/Kozma.yml"
     - BOOK: butanol
       name: "C<sub>4</sub>H<sub>9</sub>OH (Butanol)"
       content:
         - PAGE: Moutzouris-n
-          name: "Moutzouris et al. 2013: n-butanol; n 0.450-1.551 µm"
+          name: "Moutzouris et al. 2013: n-Butanol; n 0.450-1.551 µm"
           path: "organic/C4H10O - butanol/Moutzouris-n.yml"
         - PAGE: Moutzouris-iso
-          name: "Moutzouris et al. 2013: isobutanol; n 0.450-1.551 µm"
+          name: "Moutzouris et al. 2013: iso-Butanol; n 0.450-1.551 µm"
           path: "organic/C4H10O - butanol/Moutzouris-iso.yml"
         - PAGE: El-Kashef
           name: "El-Kashef 2000: n 0.4-0.8 µm"
@@ -1964,10 +2018,10 @@
       name: "C<sub>5</sub>H<sub>11</sub>OH (Pentanol, amyl alcohol)"
       content:
         - PAGE: Moutzouris-normal
-          name: "Moutzouris et al. 2013: normal amyl alcohol; n 0.450-1.551 µm"
+          name: "Moutzouris et al. 2013: Normal amyl alcohol; n 0.450-1.551 µm"
           path: "organic/C5H12O - pentanol/Moutzouris-normal.yml"
         - PAGE: Moutzouris-iso
-          name: "Moutzouris et al. 2013: isoamyl alcohol; n 0.450-1.551 µm"
+          name: "Moutzouris et al. 2013: Isoamyl alcohol; n 0.450-1.551 µm"
           path: "organic/C5H12O - pentanol/Moutzouris-iso.yml"
     - DIVIDER: "Diols"
     - BOOK: ethylene_glycol
@@ -1979,6 +2033,9 @@
         - PAGE: Sani_and_Otanicar
           name: "Sani 2014 + Otanicar 2009: n 0.185-2.8 µm, k 0.2-1.5 µm"
           path: "organic/C2H6O2 - ethylene glycol/Sani_and_Otanicar.yml"
+        - PAGE: Kozma
+          name: "Kozma et al. 2005: n 0.230-0.6407 µm"
+          path: "organic/C2H6O2 - ethylene glycol/Kozma.yml"
         - PAGE: El-Kashef
           name: "El-Kashef 2000: n 0.4-0.8 µm"
           path: "organic/C2H6O2 - ethylene glycol/El-Kashef.yml"
@@ -1999,6 +2056,12 @@
           name: "Rheims et al. 1997: n 0.5893-1.05 µm"
           path: "organic/C3H8O3 - glycerol/Rheims.yml"
     - DIVIDER: "Esters"
+    - BOOK: ethyl_acetate
+      name: "C<sub>4</sub>H<sub>8</sub>O<sub>2</sub> (Ethyl acetate)"
+      content:       
+        - PAGE: Kozma
+          name: "Kozma et al. 2005: n 0.2484-0.6407 µm"
+          path: "organic/C4H8O2 - ethyl acetate/Kozma.yml"
     - BOOK: methyl_salicylate
       name: "C<sub>8</sub>H<sub>8</sub>O<sub>3</sub> (Methyl salicylate)"
       content:
@@ -2015,9 +2078,21 @@
     - BOOK: cyclohexane
       name: "C<sub>6</sub>H<sub>12</sub> (Cyclohexane)"
       content:
+        - PAGE: Kozma
+          name: "Kozma et al. 2005: n 0.230-0.6407 µm"
+          path: "organic/C6H12 - cyclohexane/Kozma.yml"
         - PAGE: Rheims
           name: "Rheims et al. 1997: n 0.4765-0.83 µm"
           path: "organic/C6H12 - cyclohexane/Rheims.yml"
+        - PAGE: Kerl-293K
+          name: "Kerl and Varchmin 1995: 293 K; n 0.326-0.644 µm"
+          path: "organic/C6H12 - cyclohexane/Kerl-293K.yml"
+        - PAGE: Kerl-313K
+          name: "Kerl and Varchmin 1995: 313 K; n 0.326-0.644 µm"
+          path: "organic/C6H12 - cyclohexane/Kerl-313K.yml"
+        - PAGE: Kerl-333K
+          name: "Kerl and Varchmin 1995: 333 K; n 0.326-0.644 µm"
+          path: "organic/C6H12 - cyclohexane/Kerl-333K.yml"
     - DIVIDER: "Benzene and its derivatives"
     - BOOK: benzene
       name: "C<sub>6</sub>H<sub>6</sub> (Benzene)"
@@ -2039,7 +2114,10 @@
           path: "organic/C7H8 - toluene/Kedenburg.yml"
         - PAGE: Moutzouris
           name: "Moutzouris et al. 2013: n 0.450-1.551 µm"
-          path: "organic/C7H8 - toluene/Moutzouris.yml"
+          path: "organic/C7H8 - toluene/Moutzouris.yml""
+        - PAGE: Kozma
+          name: "Kozma et al. 2005: n 0.3001-0.6407 µm"
+          path: "organic/C7H8 - toluene/Kozma.yml"
     - BOOK: nitrobenzene
       name: "C<sub>6</sub>H<sub>5</sub>NO<sub>2</sub> (Nitrobenzene)"
       content:      
@@ -2106,13 +2184,25 @@
         - PAGE: Moutzouris
           name: "Moutzouris et al. 2013: n 0.450-1.551 µm"
           path: "organic/C2H3N - acetonitrile/Moutzouris.yml"
+        - PAGE: Kozma
+          name: "Kozma et al. 2005: n 0.230-0.6407 µm"
+          path: "organic/C2H3N - acetonitrile/Kozma.yml"
     - DIVIDER: "Other non-polymer compounds"
-    - BOOK: cinnamaldehyde
-      name: "C<sub>9</sub>H<sub>8</sub>O (Cinnamaldehyde)"
+    - BOOK: urea
+      name: "CH<sub>4</sub>N<sub>2</sub>O (Urea)"
       content:
-        - PAGE: Rheims
-          name: "Rheims et al. 1997: n 0.5893-1.05 µm"
-          path: "organic/C9H8O - cinnamaldehyde/Rheims.yml"
+        - PAGE: Rosker-o
+          name: "Rosker et al. 1985: n(o) 0.3-1.06 µm"
+          path: "organic/CH4N2O - urea/Rosker-o.yml"
+        - PAGE: Rosker-e
+          name: "Rosker et al. 1985: n(e) 0.3-1.06 µm"
+          path: "organic/CH4N2O - urea/Rosker-e.yml"
+    - BOOK: dimethyl_sulfoxide
+      name: "C<sub>2</sub>H<sub>6</sub>OS(Dimethyl sulfoxide, DMSO)"
+      content:       
+        - PAGE: Kozma
+          name: "Kozma et al. 2005: n 0.23687-0.6407 µm"
+          path: "organic/C2H6OS - dimethyl sulfoxide/Kozma.yml"
     - BOOK: potassium_hydrogen_phthalate
       name: "C<sub>8</sub>H<sub>5</sub>KO<sub>4</sub> (Potassium hydrogen phthalate, KHP)"
       content:
@@ -2125,15 +2215,12 @@
         - PAGE: Moutzouris-γ
           name: "Moutzouris et al. 2011: n(γ) 0.450-1.551 µm"
           path: "organic/C8H5KO4 - potassium hydrogen phthalate/Moutzouris-gamma.yml"
-    - BOOK: urea
-      name: "CH<sub>4</sub>N<sub>2</sub>O (Urea)"
+    - BOOK: cinnamaldehyde
+      name: "C<sub>9</sub>H<sub>8</sub>O (Cinnamaldehyde)"
       content:
-        - PAGE: Rosker-o
-          name: "Rosker et al. 1985: n(o) 0.3-1.06 µm"
-          path: "organic/CH4N2O - urea/Rosker-o.yml"
-        - PAGE: Rosker-e
-          name: "Rosker et al. 1985: n(e) 0.3-1.06 µm"
-          path: "organic/CH4N2O - urea/Rosker-e.yml"
+        - PAGE: Rheims
+          name: "Rheims et al. 1997: n 0.5893-1.05 µm"
+          path: "organic/C9H8O - cinnamaldehyde/Rheims.yml"
     - DIVIDER: "Polymers"
     - BOOK: poly(methyl_methacrylate)
       name: "(C<sub>5</sub>O<sub>2</sub>H<sub>8</sub>)<sub>n</sub> (Poly(methyl methacrylate), PMMA)"

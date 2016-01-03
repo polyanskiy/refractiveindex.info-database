@@ -4,11 +4,40 @@ next release
     added main/Ti/Rakic.yml to library.yml
     added glass/schott/P-SF69.yml to library.yml
     removed database/main/Ag/Sthrenberg.yml
-  new data (thnks to Robert Treharne for submitting updating the database via GitHub!)
+  new data (thnks to Robert Treharne for updating the database via GitHub!)
     main/CdS/Treharne.yml
     main/CdTe/Treharne.yml
     other/doped crystals/Al-ZnO/Treharne.yml
     glass/nsg/Pilkington-Optiwhite.yml
+  new data (thanks to George Chen, Special Optics)
+    glass/ohara/S-FPM2.yml
+    glass/ohara/S-FPM3.yml
+  new data (thnks to Prof. Dr. Eberhard Riedle, Ludwig-Maximilians-Universitaet Muenchen, Germany!)
+    organic/C6H14 - hexane/Kozma.yml
+    organic/CH4O - methanol/Kozma.yml
+    organic/C2H6O - ethanol/Kozma.yml
+    organic/C3H8O - propanol/Kozma.yml
+    organic/C2H6O2 - ethylene glycol/Kozma.yml
+    organic/C4H8O2 - ethyl acetate/Kozma.yml
+    organic/C6H12 - cyclohexane/Kozma.yml
+    organic/C7H8 - toluene/Kozma.yml
+    organic/C2H3N - acetonitrile/Kozma.yml
+    organic/C2H6OS - dimethyl sulfoxide/Kozma.yml
+    organic/C5H12 - pentane/Kerl-293K.yml
+    organic/C5H12 - pentane/Kerl-313K.yml
+    organic/C5H12 - pentane/Kerl-333K.yml
+    organic/C6H14 - hexane/Kerl-293K.yml
+    organic/C6H14 - hexane/Kerl-313K.yml
+    organic/C6H14 - hexane/Kerl-333K.yml
+    organic/C7H16 - heptane/Kerl-293K.yml
+    organic/C7H16 - heptane/Kerl-313K.yml
+    organic/C7H16 - heptane/Kerl-333K.yml
+    organic/C8H18 - octane/Kerl-293K.yml
+    organic/C8H18 - octane/Kerl-313K.yml
+    organic/C8H18 - octane/Kerl-333K.yml
+    organic/C6H12 - cyclohexane/Kerl-293K.yml
+    organic/C6H12 - cyclohexane/Kerl-313K.yml
+    organic/C6H12 - cyclohexane/Kerl-333K.yml
 
 2015-12-01
   better data (thanks to Elisa Sani)
