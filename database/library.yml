@@ -2057,7 +2057,7 @@
           path: "organic/C3H8O3 - glycerol/Rheims.yml"
     - DIVIDER: "Esters"
     - BOOK: ethyl_acetate
-      name: "C<sub>4</sub>H<sub>8</sub>O<sub>2</sub> (Ethyl acetate)"
+      name: "C<sub>4</sub>H<sub>8</sub>O<sub>2</sub> (Ethyl acetate, EtOAc, EA)"
       content:       
         - PAGE: Kozma
           name: "Kozma et al. 2005: n 0.2484-0.6407 µm"
@@ -2198,7 +2198,7 @@
           name: "Rosker et al. 1985: n(e) 0.3-1.06 µm"
           path: "organic/CH4N2O - urea/Rosker-e.yml"
     - BOOK: dimethyl_sulfoxide
-      name: "C<sub>2</sub>H<sub>6</sub>OS(Dimethyl sulfoxide, DMSO)"
+      name: "C<sub>2</sub>H<sub>6</sub>OS (Dimethyl sulfoxide, DMSO)"
       content:       
         - PAGE: Kozma
           name: "Kozma et al. 2005: n 0.23687-0.6407 µm"
