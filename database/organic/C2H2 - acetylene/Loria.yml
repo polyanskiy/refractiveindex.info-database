@@ -6,5 +6,5 @@ REFERENCES: "S. Loria Über die Dispersion des Lichtes in gasförmigen Kohlenwas
 COMMENTS: "0 °C (293 K), 760 torr (1.013 bar)."
 DATA:
   - type: formula 5
-    range: 0.5290 0.6585
-    coefficients: 1.00042607 6.1396687e-6 -2
+    range: 0.5461 0.6708
+    coefficients: 1.00054242 7.8813626e-6 -2

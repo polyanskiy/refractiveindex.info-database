@@ -1897,7 +1897,7 @@
           name: "Rollefson and Havens 1940: Gas; n 1.68-14.8 µm"
           path: "organic/CH4 - methane/Rollefson.yml"
         - PAGE: Loria
-          name: "Loria 1909: Gas; n 0.5290-0.6585 µm"
+          name: "Loria 1909: Gas at 293 K; n 0.5290-0.6585 µm"
           path: "organic/CH4 - methane/Loria.yml"
         - PAGE: Martonchik-liquid-111K
           name: "Martonchik and Orton 1994: Liquid at 111 K; n,k 0.002-71.43 µm"
@@ -1968,6 +1968,13 @@
         - PAGE: Kerl-333K
           name: "Kerl and Varchmin 1995: n-Octane; 333 K; n 0.326-0.644 µm"
           path: "organic/C8H18 - octane/Kerl-333K.yml"
+    - DIVIDER: "Alkynes"
+    - BOOK: acetylene
+      name: "C<sub>2</sub>H<sub>2</sub> (Acetylene)"
+      content:
+        - PAGE: Loria
+          name: "Loria 1909: Gas at 293 K; n 0.5290-0.6585 µm"
+          path: "organic/C2H2 - acetylene/Loria.yml"
     - DIVIDER: "Alcohols"
     - BOOK: methanol
       name: "CH<sub>3</sub>OH (Methanol)"
