@@ -1893,12 +1893,12 @@
     - BOOK: methane
       name: "CH<sub>4</sub> (Methane)"
       content:
-        - PAGE: Rollefson
-          name: "Rollefson and Havens 1940: Gas; n 1.68-14.8 µm"
-          path: "organic/CH4 - methane/Rollefson.yml"
         - PAGE: Loria
           name: "Loria 1909: Gas at 293 K; n 0.5290-0.6585 µm"
           path: "organic/CH4 - methane/Loria.yml"
+        - PAGE: Rollefson
+          name: "Rollefson and Havens 1940: Gas; n 1.68-14.8 µm"
+          path: "organic/CH4 - methane/Rollefson.yml"
         - PAGE: Martonchik-liquid-111K
           name: "Martonchik and Orton 1994: Liquid at 111 K; n,k 0.002-71.43 µm"
           path: "organic/CH4 - methane/Martonchik-liquid-111K.yml"
@@ -2279,8 +2279,8 @@
           name: "S-BSL7 (OHARA)"
           path: "glass/ohara/S-BSL7.yml"
         - PAGE: HIKARI
-          name: "E-BK7 (HIKARI)"
-          path: "glass/hikari/E-BK7.yml"
+          name: "J-BK7A (HIKARI)"
+          path: "glass/hikari/J-BK7A.yml"
         - PAGE: CDGM
           name: "H-K9L (CDGM)"
           path: "glass/cdgm/H-K9L.yml"
@@ -2303,8 +2303,8 @@
           name: "S-BAH10 (OHARA)"
           path: "glass/ohara/S-BAH10.yml"
         - PAGE: HIKARI
-          name: "E-BAF10 (HIKARI)"
-          path: "glass/hikari/E-BAF10.yml"
+          name: "J-BAF10 (HIKARI)"
+          path: "glass/hikari/J-BAF10.yml"
         - PAGE: CDGM
           name: "H-ZBAF52 (CDGM)"
           path: "glass/cdgm/H-ZBAF52.yml"
@@ -2321,8 +2321,8 @@
           name: "S-BAL11 (OHARA)"
           path: "glass/ohara/S-BAL11.yml"
         - PAGE: HIKARI
-          name: "E-BAK1 (HIKARI)"
-          path: "glass/hikari/E-BAK1.yml"
+          name: "J-BAK1 (HIKARI)"
+          path: "glass/hikari/J-BAK1.yml"
         - PAGE: CDGM
           name: "H-BAK8 (CDGM)"
           path: "glass/cdgm/H-BAK8.yml"
@@ -2345,8 +2345,8 @@
           name: "N-SF5 (SCHOTT)"
           path: "glass/schott/N-SF5.yml"
         - PAGE: HIKARI
-          name: "E-SF5 (HIKARI)"
-          path: "glass/hikari/E-SF5.yml"
+          name: "J-SF5 (HIKARI)"
+          path: "glass/hikari/J-SF5.yml"
         - PAGE: CDGM
           name: "ZF2 (CDGM)"
           path: "glass/cdgm/ZF2.yml"
@@ -2363,8 +2363,8 @@
           name: "N-SF10 (SCHOTT)"
           path: "glass/schott/N-SF10.yml"
         - PAGE: HIKARI
-          name: "E-SF10 (HIKARI)"
-          path: "glass/hikari/E-SF10.yml"
+          name: "J-SF10 (HIKARI)"
+          path: "glass/hikari/J-SF10.yml"
         - PAGE: CDGM
           name: "ZF4 (CDGM)"
           path: "glass/cdgm/ZF4.yml"
@@ -2381,8 +2381,8 @@
           name: "N-SF11 (SCHOTT)"
           path: "glass/schott/N-SF11.yml"
         - PAGE: HIKARI
-          name: "E-SF11 (HIKARI)"
-          path: "glass/hikari/E-SF11.yml"
+          name: "J-SF11 (HIKARI)"
+          path: "glass/hikari/J-SF11.yml"
         - PAGE: CDGM
           name: "ZF13 (CDGM)"
           path: "glass/cdgm/ZF13.yml"
@@ -3674,417 +3674,480 @@
           name: "S-YGH51"
           path: "glass/ohara/S-YGH51.yml"
     - DIVIDER: "Optical glass - HIKARI"
-    - BOOK: HIKARI-BK
-      name: "HIKARI - BK (Borosilicate crown)"
-      content:
-        - PAGE: E-BK7
-          name: "E-BK7"
-          path: "glass/hikari/E-BK7.yml"
     - BOOK: HIKARI-FK
       name: "HIKARI - FK (Fluorite crown)"
       content:
-        - PAGE: E-FK5
-          name: "E-FK5"
-          path: "glass/hikari/E-FK5.yml"
-        - PAGE: E-FK01
-          name: "E-FK01"
-          path: "glass/hikari/E-FK01.yml"
-        - PAGE: E-FKH1
-          name: "E-FKH1"
-          path: "glass/hikari/E-FKH1.yml"
-        - PAGE: E-FKH2
-          name: "E-FKH2"
-          path: "glass/hikari/E-FKH2.yml"
+        - PAGE: J-FK5
+          name: "J-FK5"
+          path: "glass/hikari/J-FK5.yml"
+        - PAGE: J-FK01
+          name: "J-FK01"
+          path: "glass/hikari/J-FK01.yml"
+        - PAGE: J-FKH1
+          name: "J-FKH1"
+          path: "glass/hikari/J-FKH1.yml"
+        - PAGE: J-FKH2
+          name: "J-FKH2"
+          path: "glass/hikari/J-FKH2.yml"
     - BOOK: HIKARI-PK
       name: "HIKARI - PK (Phosphate crown)"
       content:
-        - PAGE: E-PKH1
-          name: "E-PKH1"
-          path: "glass/hikari/E-PKH1.yml"
+        - PAGE: J-PKH1
+          name: "J-PKH1"
+          path: "glass/hikari/J-PKH1.yml"
     - BOOK: HIKARI-PSK
       name: "HIKARI - PSK (Dense phosphate crown)"
       content:
-        - PAGE: E-PSK02
-          name: "E-PSK02"
-          path: "glass/hikari/E-PSK02.yml"
-        - PAGE: E-PSK03
-          name: "E-PSK03"
-          path: "glass/hikari/E-PSK03.yml"
-        - PAGE: E-PSKH1
-          name: "E-PSKH1"
-          path: "glass/hikari/E-PSKH1.yml"
-    - BOOK: HIKARI-K
-      name: "HIKARI - K (Crown)"
+        - PAGE: J-PSK02
+          name: "J-PSK02"
+          path: "glass/hikari/J-PSK02.yml"
+        - PAGE: J-PSK03
+          name: "J-PSK03"
+          path: "glass/hikari/J-PSK03.yml"
+        - PAGE: J-PSKH1
+          name: "J-PSKH1"
+          path: "glass/hikari/J-PSKH1.yml"
+        - PAGE: J-PSKH4
+          name: "J-PSKH4"
+          path: "glass/hikari/J-PSKH4.yml"
+    - BOOK: HIKARI-BK
+      name: "HIKARI - BK (Borosilicate crown)"
       content:
-        - PAGE: E-K3
-          name: "E-K3"
-          path: "glass/hikari/E-K3.yml"
-        - PAGE: E-K5
-          name: "E-K5"
-          path: "glass/hikari/E-K5.yml"
+        - PAGE: J-BK7A
+          name: "J-BK7A"
+          path: "glass/hikari/J-BK7A.yml"
     - BOOK: HIKARI-BaK
       name: "HIKARI - BaK (Barium crown)"
       content:
-        - PAGE: E-BAK1
-          name: "E-BAK1"
-          path: "glass/hikari/E-BAK1.yml"
-        - PAGE: E-BAK2
-          name: "E-BAK2"
-          path: "glass/hikari/E-BAK2.yml"
-        - PAGE: E-BAK4
-          name: "E-BAK4"
-          path: "glass/hikari/E-BAK4.yml"
-    - BOOK: HIKARI-SK
-      name: "HIKARI - SK (Dense crown)"
+        - PAGE: J-BAK1
+          name: "J-BAK1"
+          path: "glass/hikari/J-BAK1.yml"
+        - PAGE: J-BAK2
+          name: "J-BAK2"
+          path: "glass/hikari/J-BAK2.yml"
+        - PAGE: J-BAK4
+          name: "J-BAK4"
+          path: "glass/hikari/J-BAK4.yml"
+    - BOOK: HIKARI-K
+      name: "HIKARI - K (Crown)"
       content:
-        - PAGE: E-SK2
-          name: "E-SK2"
-          path: "glass/hikari/E-SK2.yml"
-        - PAGE: E-SK4
-          name: "E-SK4"
-          path: "glass/hikari/E-SK4.yml"
-        - PAGE: E-SK5
-          name: "E-SK5"
-          path: "glass/hikari/E-SK5.yml"
-        - PAGE: E-SK10
-          name: "E-SK10"
-          path: "glass/hikari/E-SK10.yml"
-        - PAGE: E-SK11
-          name: "E-SK11"
-          path: "glass/hikari/E-SK11.yml"
-        - PAGE: E-SK12
-          name: "E-SK12"
-          path: "glass/hikari/E-SK12.yml"
-        - PAGE: E-SK14
-          name: "E-SK14"
-          path: "glass/hikari/E-SK14.yml"
-        - PAGE: E-SK15
-          name: "E-SK15"
-          path: "glass/hikari/E-SK15.yml"
-        - PAGE: E-SK16
-          name: "E-SK16"
-          path: "glass/hikari/E-SK16.yml"
-        - PAGE: E-SK18
-          name: "E-SK18"
-          path: "glass/hikari/E-SK18.yml"
-    - BOOK: HIKARI-FK
-      name: "HIKARI - FK (Crown/flint)"
-      content:
-        - PAGE: E-KF6
-          name: "E-KF6"
-          path: "glass/hikari/E-KF6.yml"
-    - BOOK: HIKARI-BaLF
-      name: "HIKARI - BaLF (Barium light flint)"
-      content:
-        - PAGE: E-BALF4
-          name: "E-BALF4"
-          path: "glass/hikari/E-BALF4.yml"
-    - BOOK: HIKARI-SSK
-      name: "HIKARI - SSK (Very dense flint)"
-      content:
-        - PAGE: E-SSK1
-          name: "E-SSK1"
-          path: "glass/hikari/E-SSK1.yml"
-        - PAGE: E-SSK5
-          name: "E-SSK5"
-          path: "glass/hikari/E-SSK5.yml"
-        - PAGE: E-SSK8
-          name: "E-SSK8"
-          path: "glass/hikari/E-SSK8.yml"
-    - BOOK: HIKARI-LaK
-      name: "HIKARI - LaK (Lanthanum crown)"
-      content:
-        - PAGE: E-LAK7
-          name: "E-LAK7"
-          path: "glass/hikari/E-LAK7.yml"
-        - PAGE: E-LAK8
-          name: "E-LAK8"
-          path: "glass/hikari/E-LAK8.yml"
-        - PAGE: E-LAK9
-          name: "E-LAK9"
-          path: "glass/hikari/E-LAK9.yml"
-        - PAGE: E-LAK10
-          name: "E-LAK10"
-          path: "glass/hikari/E-LAK10.yml"
-        - PAGE: E-LAK12
-          name: "E-LAK12"
-          path: "glass/hikari/E-LAK12.yml"
-        - PAGE: E-LAK13
-          name: "E-LAK13"
-          path: "glass/hikari/E-LAK13.yml"
-        - PAGE: E-LAK14
-          name: "E-LAK14"
-          path: "glass/hikari/E-LAK14.yml"
-        - PAGE: E-LAK18
-          name: "E-LAK18"
-          path: "glass/hikari/E-LAK18.yml"
-        - PAGE: E-LAK01
-          name: "E-LAK01"
-          path: "glass/hikari/E-LAK01.yml"
-        - PAGE: E-LAK02
-          name: "E-LAK02"
-          path: "glass/hikari/E-LAK02.yml"
-        - PAGE: E-LAK04
-          name: "E-LAK04"
-          path: "glass/hikari/E-LAK04.yml"
-        - PAGE: E-LAK06
-          name: "E-LAK06"
-          path: "glass/hikari/E-LAK06.yml"
-        - PAGE: E-LAK09
-          name: "E-LAK09"
-          path: "glass/hikari/E-LAK09.yml"
-        - PAGE: E-LAK011
-          name: "E-LAK011"
-          path: "glass/hikari/E-LAK011.yml"
-        - PAGE: E-LAKH1
-          name: "E-LAKH1"
-          path: "glass/hikari/E-LAKH1.yml"
-        - PAGE: E-LASKH2
-          name: "E-LASKH2"
-          path: "glass/hikari/E-LASKH2.yml"
-    - BOOK: HIKARI-LLF
-      name: "HIKARI - LLF (Very light flint)"
-      content:
-        - PAGE: E-LLF1
-          name: "E-LLF1"
-          path: "glass/hikari/E-LLF1.yml"
-        - PAGE: E-LLF2
-          name: "E-LLF2"
-          path: "glass/hikari/E-LLF2.yml"
-        - PAGE: E-LLF6
-          name: "E-LLF6"
-          path: "glass/hikari/E-LLF6.yml"
-    - BOOK: HIKARI-BaF
-      name: "HIKARI - BaF (Barium flint)"
-      content:
-        - PAGE: E-BAF3
-          name: "E-BAF3"
-          path: "glass/hikari/E-BAF3.yml"
-        - PAGE: E-BAF4
-          name: "E-BAF4"
-          path: "glass/hikari/E-BAF4.yml"
-        - PAGE: E-BAF8
-          name: "E-BAF8"
-          path: "glass/hikari/E-BAF8.yml"
-        - PAGE: E-BAF10
-          name: "E-BAF10"
-          path: "glass/hikari/E-BAF10.yml"
-        - PAGE: E-BAF11
-          name: "E-BAF11"
-          path: "glass/hikari/E-BAF11.yml"
-        - PAGE: E-BAF12
-          name: "E-BAF12"
-          path: "glass/hikari/E-BAF12.yml"
-    - BOOK: HIKARI-LF
-      name: "HIKARI - LF (Light flint)"
-      content:
-        - PAGE: E-LF5
-          name: "E-LF5"
-          path: "glass/hikari/E-LF5.yml"
-        - PAGE: E-LF6
-          name: "E-LF6"
-          path: "glass/hikari/E-LF6.yml"
-        - PAGE: E-LF7
-          name: "E-LF7"
-          path: "glass/hikari/E-LF7.yml"
-    - BOOK: HIKARI-F
-      name: "HIKARI - F (Flint)"
-      content:
-        - PAGE: E-F1
-          name: "E-F1"
-          path: "glass/hikari/E-F1.yml"
-        - PAGE: E-F2
-          name: "E-F2"
-          path: "glass/hikari/E-F2.yml"
-        - PAGE: E-F3
-          name: "E-F3"
-          path: "glass/hikari/E-F3.yml"
-        - PAGE: E-F5
-          name: "E-F5"
-          path: "glass/hikari/E-F5.yml"
-        - PAGE: E-F8
-          name: "E-F8"
-          path: "glass/hikari/E-F8.yml"
-        - PAGE: E-F16
-          name: "E-F16"
-          path: "glass/hikari/E-F16.yml"
-    - BOOK: HIKARI-BaSF
-      name: "HIKARI - BaSF (Barium dense flint)"
-      content:
-        - PAGE: E-BASF2
-          name: "E-BASF2"
-          path: "glass/hikari/E-BASF2.yml"
-        - PAGE: E-BASF6
-          name: "E-BASF6"
-          path: "glass/hikari/E-BASF6.yml"
-        - PAGE: E-BASF7
-          name: "E-BASF7"
-          path: "glass/hikari/E-BASF7.yml"
-        - PAGE: E-BASF8
-          name: "E-BASF8"
-          path: "glass/hikari/E-BASF8.yml"
-    - BOOK: HIKARI-LaF
-      name: "HIKARI - LaF (Lanthanum flint)"
-      content:
-        - PAGE: E-LAF2
-          name: "E-LAF2"
-          path: "glass/hikari/E-LAF2.yml"
-        - PAGE: E-LAF3
-          name: "E-LAF3"
-          path: "glass/hikari/E-LAF3.yml"
-        - PAGE: E-LAF7
-          name: "E-LAF7"
-          path: "glass/hikari/E-LAF7.yml"
-        - PAGE: E-LAF11
-          name: "E-LAF11"
-          path: "glass/hikari/E-LAF11.yml"
-        - PAGE: E-LAF01
-          name: "E-LAF01"
-          path: "glass/hikari/E-LAF01.yml"
-        - PAGE: E-LAF02
-          name: "E-LAF02"
-          path: "glass/hikari/E-LAF02.yml"
-        - PAGE: E-LAF04
-          name: "E-LAF04"
-          path: "glass/hikari/E-LAF04.yml"
-        - PAGE: E-LAF05
-          name: "E-LAF05"
-          path: "glass/hikari/E-LAF05.yml"
-        - PAGE: E-LAF09
-          name: "E-LAF09"
-          path: "glass/hikari/E-LAF09.yml"
-        - PAGE: E-LAF010
-          name: "E-LAF010"
-          path: "glass/hikari/E-LAF010.yml"
-        - PAGE: E-LAF016
-          name: "E-LAF016"
-          path: "glass/hikari/E-LAF016.yml"
-        - PAGE: E-LAFH2
-          name: "E-LAFH2"
-          path: "glass/hikari/E-LAFH2.yml"
-        - PAGE: E-LAFH3
-          name: "E-LAFH3"
-          path: "glass/hikari/E-LAFH3.yml"
-    - BOOK: HIKARI-LaSF
-      name: "HIKARI - LaSF (Lanthanum dense flint)"
-      content:
-        - PAGE: E-LASF01
-          name: "E-LASF01"
-          path: "glass/hikari/E-LASF01.yml"
-        - PAGE: E-LASF02
-          name: "E-LASF02"
-          path: "glass/hikari/E-LASF02.yml"
-        - PAGE: E-LASF03
-          name: "E-LASF03"
-          path: "glass/hikari/E-LASF03.yml"
-        - PAGE: E-LASF04
-          name: "E-LASF04"
-          path: "glass/hikari/E-LASF04.yml"
-        - PAGE: E-LASF05
-          name: "E-LASF05"
-          path: "glass/hikari/E-LASF05.yml"
-        - PAGE: E-LASF08
-          name: "E-LASF08"
-          path: "glass/hikari/E-LASF08.yml"
-        - PAGE: E-LASF09
-          name: "E-LASF09"
-          path: "glass/hikari/E-LASF09.yml"
-        - PAGE: E-LASF010
-          name: "E-LASF010"
-          path: "glass/hikari/E-LASF010.yml"
-        - PAGE: E-LASF013
-          name: "E-LASF013"
-          path: "glass/hikari/E-LASF013.yml"
-        - PAGE: E-LASF014
-          name: "E-LASF014"
-          path: "glass/hikari/E-LASF014.yml"
-        - PAGE: E-LASF015
-          name: "E-LASF015"
-          path: "glass/hikari/E-LASF015.yml"
-        - PAGE: E-LASF016
-          name: "E-LASF016"
-          path: "glass/hikari/E-LASF016.yml"
-        - PAGE: E-LASF017
-          name: "E-LASF017"
-          path: "glass/hikari/E-LASF017.yml"
-        - PAGE: E-LASF021
-          name: "E-LASF021"
-          path: "glass/hikari/E-LASF021.yml"
-        - PAGE: E-LASFH2
-          name: "E-LASFH2"
-          path: "glass/hikari/E-LASFH2.yml"
-        - PAGE: E-LASFH6
-          name: "E-LASFH6"
-          path: "glass/hikari/E-LASFH6.yml"
-        - PAGE: E-LASFH9
-          name: "E-LASFH9"
-          path: "glass/hikari/E-LASFH9.yml"
-        - PAGE: E-LASFH13
-          name: "E-LASFH13"
-          path: "glass/hikari/E-LASFH13.yml"
-        - PAGE: E-LASFH17
-          name: "E-LASFH17"
-          path: "glass/hikari/E-LASFH17.yml"
-    - BOOK: HIKARI-SF
-      name: "HIKARI - SF (Dense flint)"
-      content:
-        - PAGE: E-SF1
-          name: "E-SF1"
-          path: "glass/hikari/E-SF1.yml"
-        - PAGE: E-SF2
-          name: "E-SF2"
-          path: "glass/hikari/E-SF2.yml"
-        - PAGE: E-SF4
-          name: "E-SF4"
-          path: "glass/hikari/E-SF4.yml"
-        - PAGE: E-SF5
-          name: "E-SF5"
-          path: "glass/hikari/E-SF5.yml"
-        - PAGE: E-SF6
-          name: "E-SF6"
-          path: "glass/hikari/E-SF6.yml"
-        - PAGE: E-SF7
-          name: "E-SF7"
-          path: "glass/hikari/E-SF7.yml"
-        - PAGE: E-SF8
-          name: "E-SF8"
-          path: "glass/hikari/E-SF8.yml"
-        - PAGE: E-SF10
-          name: "E-SF10"
-          path: "glass/hikari/E-SF10.yml"
-        - PAGE: E-SF11
-          name: "E-SF11"
-          path: "glass/hikari/E-SF11.yml"
-        - PAGE: E-SF13
-          name: "E-SF13"
-          path: "glass/hikari/E-SF13.yml"
-        - PAGE: E-SF14
-          name: "E-SF14"
-          path: "glass/hikari/E-SF14.yml"
-        - PAGE: E-SF15
-          name: "E-SF15"
-          path: "glass/hikari/E-SF15.yml"
-        - PAGE: E-SF03
-          name: "E-SF03"
-          path: "glass/hikari/E-SF03.yml"
-        - PAGE: E-SFH1
-          name: "E-SFH1"
-          path: "glass/hikari/E-SFH1.yml"
-        - PAGE: E-SFH2
-          name: "E-SFH2"
-          path: "glass/hikari/E-SFH2.yml"
-        - PAGE: E-SFS3
-          name: "E-SFS3"
-          path: "glass/hikari/E-SFS3.yml"
-        - PAGE: E-SSFH1
-          name: "E-SSFH1"
-          path: "glass/hikari/E-SSFH1.yml"
+        - PAGE: J-K3
+          name: "J-K3"
+          path: "glass/hikari/J-K3.yml"
+        - PAGE: EJ-K5
+          name: "J-K5"
+          path: "glass/hikari/J-K5.yml"
     - BOOK: HIKARI-KzF
       name: "HIKARI - KzF (Special short flint)"
       content:
-        - PAGE: E-KZFH1
-          name: "E-KZFH1"
-          path: "glass/hikari/E-KZFH1.yml"
+        - PAGE: J-KZFH1
+          name: "J-KZFH1"
+          path: "glass/hikari/J-KZFH1.yml"
+    - BOOK: HIKARI-FK
+      name: "HIKARI - FK (Crown/flint)"
+      content:
+        - PAGE: J-KF6
+          name: "J-KF6"
+          path: "glass/hikari/J-KF6.yml"
+    - BOOK: HIKARI-BaLF
+      name: "HIKARI - BaLF (Barium light flint)"
+      content:
+        - PAGE: J-BALF4
+          name: "J-BALF4"
+          path: "glass/hikari/J-BALF4.yml"
+    - BOOK: HIKARI-BaF
+      name: "HIKARI - BaF (Barium flint)"
+      content:
+        - PAGE: J-BAF3
+          name: "J-BAF3"
+          path: "glass/hikari/J-BAF3.yml"
+        - PAGE: J-BAF4
+          name: "J-BAF4"
+          path: "glass/hikari/J-BAF4.yml"
+        - PAGE: J-BAF8
+          name: "J-BAF8"
+          path: "glass/hikari/J-BAF8.yml"
+        - PAGE: J-BAF10
+          name: "J-BAF10"
+          path: "glass/hikari/J-BAF10.yml"
+        - PAGE: J-BAF11
+          name: "J-BAF11"
+          path: "glass/hikari/J-BAF11.yml"
+        - PAGE: J-BAF12
+          name: "J-BAF12"
+          path: "glass/hikari/J-BAF12.yml"
+    - BOOK: HIKARI-BaSF
+      name: "HIKARI - BaSF (Barium dense flint)"
+      content:
+        - PAGE: J-BASF2
+          name: "J-BASF2"
+          path: "glass/hikari/J-BASF2.yml"
+        - PAGE: J-BASF6
+          name: "J-BASF6"
+          path: "glass/hikari/J-BASF6.yml"
+        - PAGE: J-BASF7
+          name: "J-BASF7"
+          path: "glass/hikari/J-BASF7.yml"
+        - PAGE: J-BASF8
+          name: "J-BASF8"
+          path: "glass/hikari/J-BASF8.yml"
+    - BOOK: HIKARI-SK
+      name: "HIKARI - SK (Dense crown)"
+      content:
+        - PAGE: J-SK2
+          name: "J-SK2"
+          path: "glass/hikari/J-SK2.yml"
+        - PAGE: J-SK4
+          name: "J-SK4"
+          path: "glass/hikari/J-SK4.yml"
+        - PAGE: J-SK5
+          name: "J-SK5"
+          path: "glass/hikari/J-SK5.yml"
+        - PAGE: J-SK10
+          name: "J-SK10"
+          path: "glass/hikari/J-SK10.yml"
+        - PAGE: J-SK11
+          name: "J-SK11"
+          path: "glass/hikari/J-SK11.yml"
+        - PAGE: J-SK12
+          name: "J-SK12"
+          path: "glass/hikari/J-SK12.yml"
+        - PAGE: J-SK14
+          name: "J-SK14"
+          path: "glass/hikari/J-SK14.yml"
+        - PAGE: J-SK15
+          name: "J-SK15"
+          path: "glass/hikari/J-SK15.yml"
+        - PAGE: J-SK16
+          name: "J-SK16"
+          path: "glass/hikari/J-SK16.yml"
+        - PAGE: J-SK18
+          name: "J-SK18"
+          path: "glass/hikari/J-SK18.yml"
+    - BOOK: HIKARI-SSK
+      name: "HIKARI - SSK (Very dense flint)"
+      content:
+        - PAGE: J-SSK1
+          name: "J-SSK1"
+          path: "glass/hikari/J-SSK1.yml"
+        - PAGE: J-SSK5
+          name: "J-SSK5"
+          path: "glass/hikari/J-SSK5.yml"
+        - PAGE: J-SSK8
+          name: "J-SSK8"
+          path: "glass/hikari/J-SSK8.yml"
+    - BOOK: HIKARI-LLF
+      name: "HIKARI - LLF (Very light flint)"
+      content:
+        - PAGE: J-LLF1
+          name: "J-LLF1"
+          path: "glass/hikari/J-LLF1.yml"
+        - PAGE: J-LLF2
+          name: "J-LLF2"
+          path: "glass/hikari/J-LLF2.yml"
+        - PAGE: J-LLF6
+          name: "J-LLF6"
+          path: "glass/hikari/J-LLF6.yml"
+    - BOOK: HIKARI-LF
+      name: "HIKARI - LF (Light flint)"
+      content:
+        - PAGE: J-LF5
+          name: "J-LF5"
+          path: "glass/hikari/J-LF5.yml"
+        - PAGE: J-LF6
+          name: "J-LF6"
+          path: "glass/hikari/J-LF6.yml"
+        - PAGE: J-LF7
+          name: "J-LF7"
+          path: "glass/hikari/J-LF7.yml"
+    - BOOK: HIKARI-F
+      name: "HIKARI - F (Flint)"
+      content:
+        - PAGE: J-F1
+          name: "J-F1"
+          path: "glass/hikari/J-F1.yml"
+        - PAGE: J-F2
+          name: "J-F2"
+          path: "glass/hikari/J-F2.yml"
+        - PAGE: J-F3
+          name: "J-F3"
+          path: "glass/hikari/J-F3.yml"
+        - PAGE: J-F5
+          name: "J-F5"
+          path: "glass/hikari/J-F5.yml"
+        - PAGE: J-F8
+          name: "J-F8"
+          path: "glass/hikari/J-F8.yml"
+        - PAGE: J-F16
+          name: "J-F16"
+          path: "glass/hikari/J-F16.yml"
+    - BOOK: HIKARI-SF
+      name: "HIKARI - SF (Dense flint)"
+      content:
+        - PAGE: J-SF1
+          name: "J-SF1"
+          path: "glass/hikari/J-SF1.yml"
+        - PAGE: J-SF2
+          name: "J-SF2"
+          path: "glass/hikari/J-SF2.yml"
+        - PAGE: J-SF4
+          name: "J-SF4"
+          path: "glass/hikari/J-SF4.yml"
+        - PAGE: J-SF5
+          name: "J-SF5"
+          path: "glass/hikari/J-SF5.yml"
+        - PAGE: J-SF6
+          name: "J-SF6"
+          path: "glass/hikari/J-SF6.yml"
+        - PAGE: J-SF6HS
+          name: "J-SF6HS"
+          path: "glass/hikari/J-SF6HS.yml"
+        - PAGE: J-SF7
+          name: "J-SF7"
+          path: "glass/hikari/J-SF7.yml"
+        - PAGE: J-SF8
+          name: "J-SF8"
+          path: "glass/hikari/J-SF8.yml"
+        - PAGE: J-SF10
+          name: "J-SF10"
+          path: "glass/hikari/J-SF10.yml"
+        - PAGE: J-SF11
+          name: "J-SF11"
+          path: "glass/hikari/J-SF11.yml"
+        - PAGE: J-SF13
+          name: "J-SF13"
+          path: "glass/hikari/J-SF13.yml"
+        - PAGE: J-SF14
+          name: "J-SF14"
+          path: "glass/hikari/J-SF14.yml"
+        - PAGE: J-SF15
+          name: "J-SF15"
+          path: "glass/hikari/J-SF15.yml"
+        - PAGE: J-SF03
+          name: "J-SF03"
+          path: "glass/hikari/J-SF03.yml"
+        - PAGE: J-SFS3
+          name: "J-SFS3"
+          path: "glass/hikari/J-SFS3.yml"
+        - PAGE: J-SFH1
+          name: "J-SFH1"
+          path: "glass/hikari/J-SFH1.yml"
+        - PAGE: J-SFH2
+          name: "J-SFH2"
+          path: "glass/hikari/J-SFH2.yml"
+    - BOOK: HIKARI-LaK
+      name: "HIKARI - LaK (Lanthanum crown)"
+      content:
+        - PAGE: J-LAK7
+          name: "J-LAK7"
+          path: "glass/hikari/J-LAK7.yml"
+        - PAGE: J-LAK7R
+          name: "J-LAK7R"
+          path: "glass/hikari/J-LAK7R.yml"
+        - PAGE: J-LAK8
+          name: "J-LAK8"
+          path: "glass/hikari/J-LAK8.yml"
+        - PAGE: J-LAK9
+          name: "J-LAK9"
+          path: "glass/hikari/J-LAK9.yml"
+        - PAGE: J-LAK10
+          name: "J-LAK10"
+          path: "glass/hikari/J-LAK10.yml"
+        - PAGE: J-LAK12
+          name: "J-LAK12"
+          path: "glass/hikari/J-LAK12.yml"
+        - PAGE: J-LAK13
+          name: "J-LAK13"
+          path: "glass/hikari/J-LAK13.yml"
+        - PAGE: J-LAK14
+          name: "J-LAK14"
+          path: "glass/hikari/J-LAK14.yml"
+        - PAGE: J-LAK18
+          name: "J-LAK18"
+          path: "glass/hikari/J-LAK18.yml"
+        - PAGE: J-LAK01
+          name: "J-LAK01"
+          path: "glass/hikari/J-LAK01.yml"
+        - PAGE: J-LAK02
+          name: "J-LAK02"
+          path: "glass/hikari/J-LAK02.yml"
+        - PAGE: J-LAK04
+          name: "J-LAK04"
+          path: "glass/hikari/J-LAK04.yml"
+        - PAGE: J-LAK06
+          name: "J-LAK06"
+          path: "glass/hikari/J-LAK06.yml"
+        - PAGE: J-LAK09
+          name: "J-LAK09"
+          path: "glass/hikari/J-LAK09.yml"
+        - PAGE: J-LAK011
+          name: "J-LAK011"
+          path: "glass/hikari/J-LAK011.yml"
+        - PAGE: J-LASKH2
+          name: "J-LASKH2"
+          path: "glass/hikari/J-LASKH2.yml"
+    - BOOK: HIKARI-LaF
+      name: "HIKARI - LaF (Lanthanum flint)"
+      content:
+        - PAGE: J-LAF2
+          name: "J-LAF2"
+          path: "glass/hikari/J-LAF2.yml"
+        - PAGE: J-LAF3
+          name: "J-LAF3"
+          path: "glass/hikari/J-LAF3.yml"
+        - PAGE: J-LAF7
+          name: "J-LAF7"
+          path: "glass/hikari/J-LAF7.yml"
+        - PAGE: J-LAF01
+          name: "J-LAF01"
+          path: "glass/hikari/J-LAF01.yml"
+        - PAGE: J-LAF02
+          name: "J-LAF02"
+          path: "glass/hikari/J-LAF02.yml"
+        - PAGE: J-LAF04
+          name: "J-LAF04"
+          path: "glass/hikari/J-LAF04.yml"
+        - PAGE: J-LAF05
+          name: "J-LAF05"
+          path: "glass/hikari/J-LAF05.yml"
+        - PAGE: J-LAF09
+          name: "J-LAF09"
+          path: "glass/hikari/J-LAF09.yml"
+        - PAGE: J-LAF010
+          name: "J-LAF010"
+          path: "glass/hikari/J-LAF010.yml"
+        - PAGE: J-LAF016
+          name: "J-LAF016"
+          path: "glass/hikari/J-LAF016.yml"
+        - PAGE: J-LAFH3
+          name: "J-LAFH3"
+          path: "glass/hikari/J-LAFH3.yml"
+    - BOOK: HIKARI-LaSF
+      name: "HIKARI - LaSF (Lanthanum dense flint)"
+      content:
+        - PAGE: J-LASF01
+          name: "J-LASF01"
+          path: "glass/hikari/J-LASF01.yml"
+        - PAGE: J-LASF02
+          name: "J-LASF02"
+          path: "glass/hikari/J-LASF02.yml"
+        - PAGE: J-LASF03
+          name: "J-LASF03"
+          path: "glass/hikari/J-LASF03.yml"
+        - PAGE: J-LASF05
+          name: "J-LASF05"
+          path: "glass/hikari/J-LASF05.yml"
+        - PAGE: J-LASF08
+          name: "J-LASF08"
+          path: "glass/hikari/J-LASF08.yml"
+        - PAGE: J-LASF09
+          name: "J-LASF09"
+          path: "glass/hikari/J-LASF09.yml"
+        - PAGE: J-LASF010
+          name: "J-LASF010"
+          path: "glass/hikari/J-LASF010.yml"
+        - PAGE: J-LASF013
+          name: "J-LASF013"
+          path: "glass/hikari/J-LASF013.yml"
+        - PAGE: J-LASF014
+          name: "J-LASF014"
+          path: "glass/hikari/J-LASF014.yml"
+        - PAGE: J-LASF015
+          name: "J-LASF015"
+          path: "glass/hikari/J-LASF015.yml"
+        - PAGE: J-LASF016
+          name: "J-LASF016"
+          path: "glass/hikari/J-LASF016.yml"
+        - PAGE: J-LASF017
+          name: "J-LASF017"
+          path: "glass/hikari/J-LASF017.yml"
+        - PAGE: J-LASF021
+          name: "J-LASF021"
+          path: "glass/hikari/J-LASF021.yml"
+        - PAGE: J-LASFH2
+          name: "J-LASFH2"
+          path: "glass/hikari/J-LASFH2.yml"
+        - PAGE: J-LASFH6
+          name: "J-LASFH6"
+          path: "glass/hikari/J-LASFH6.yml"
+        - PAGE: J-LASFH9
+          name: "J-LASFH9"
+          path: "glass/hikari/J-LASFH9.yml"
+        - PAGE: J-LASFH13
+          name: "J-LASFH13"
+          path: "glass/hikari/J-LASFH13.yml"
+        - PAGE: J-LASFH15
+          name: "J-LASFH15"
+          path: "glass/hikari/J-LASFH15.yml"
+        - PAGE: J-LASFH16
+          name: "J-LASFH16"
+          path: "glass/hikari/J-LASFH16.yml"
+        - PAGE: J-LASFH17
+          name: "J-LASFH17"
+          path: "glass/hikari/J-LASFH17.yml"
+        - PAGE: J-LASFH21
+          name: "J-LASFH21"
+          path: "glass/hikari/J-LASFH21.yml"
+        - PAGE: J-LASFH23
+          name: "J-LASFH23"
+          path: "glass/hikari/J-LASFH23.yml"
+        - PAGE: J-LASFH24
+          name: "J-LASFH24"
+          path: "glass/hikari/J-LASFH24.yml"
+    - BOOK: HIKARI-molding
+      name: "HIKARI - Glasses for precision molding"
+      content:
+        - PAGE: Q-FK01S
+          name: "Q-FK01S"
+          path: "glass/hikari/Q-FK01S.yml"
+        - PAGE: Q-FKH2S
+          name: "Q-FKH2S"
+          path: "glass/hikari/Q-FKH2S.yml"
+        - PAGE: Q-PSKH1S
+          name: "Q-PSKH1S"
+          path: "glass/hikari/Q-PSKH1S.yml"
+        - PAGE: Q-PSKH2S
+          name: "Q-PSKH2S"
+          path: "glass/hikari/Q-PSKH2S.yml"
+        - PAGE: Q-PSKH4S
+          name: "Q-PSKH4S"
+          path: "glass/hikari/Q-PSKH4S.yml"
+        - PAGE: Q-SK15S
+          name: "Q-SK15S"
+          path: "glass/hikari/Q-SK15S.yml"
+        - PAGE: Q-SK52S
+          name: "Q-SK52S"
+          path: "glass/hikari/Q-SK52S.yml"
+        - PAGE: Q-SK55S
+          name: "Q-SK55S"
+          path: "glass/hikari/Q-SK55S.yml"
+        - PAGE: Q-SF6S
+          name: "Q-SF6S"
+          path: "glass/hikari/Q-SF6S.yml"
+        - PAGE: Q-LAK52S
+          name: "Q-LAK52S"
+          path: "glass/hikari/Q-LAK52S.yml"
+        - PAGE: Q-LAK53S
+          name: "Q-LAK53S"
+          path: "glass/hikari/Q-LAK53S.yml"
+        - PAGE: Q-LAF010S
+          name: "Q-LAF010S"
+          path: "glass/hikari/Q-LAF010S.yml"
+        - PAGE: Q-LASF03S
+          name: "Q-LASF03S"
+          path: "glass/hikari/Q-LASF03S.yml"
+        - PAGE: Q-LASFH11S
+          name: "Q-LASFH11S"
+          path: "glass/hikari/Q-LASFH11S.yml"
+        - PAGE: Q-LASFH12S
+          name: "Q-LASFH12S"
+          path: "glass/hikari/Q-LASFH12S.yml"
+        - PAGE: Q-LASFH58S
+          name: "Q-LASFH58S"
+          path: "glass/hikari/Q-LASFH58S.yml"
+        - PAGE: Q-LASFH59S
+          name: "Q-LASFH59S"
+          path: "glass/hikari/Q-LASFH59S.yml"
     - DIVIDER: "Optical glass - CDGM"
     - BOOK: CDGM-BAK
       name: "CDGM - BAK (Barium crown)"
