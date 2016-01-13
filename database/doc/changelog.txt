@@ -44,6 +44,9 @@ next release
     organic/C2H2 - acetylene/Loria.yml
   improved data
     organic/CH4 - methane/Loria.yml
+  new and updated data (+ extended data - INFO field - for optical designers)
+    glass/hikari/*.yml
+    glass/ohara/*.yml
 
 2015-12-01
   better data (thanks to Elisa Sani)

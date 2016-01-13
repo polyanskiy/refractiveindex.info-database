@@ -3131,7 +3131,7 @@
           path: "glass/schott/obsolete/LITHOTEC-CAF2.yml"
     - DIVIDER: "Optical glass - OHARA"
     - BOOK: OHARA-BAH
-      name: "OHARA - BAH"
+      name: "OHARA - BAH (Barium, high-index)"
       content:
         - PAGE: S-BAH10
           name: "S-BAH10"
@@ -3149,7 +3149,7 @@
           name: "S-BAH32"
           path: "glass/ohara/S-BAH32.yml"
     - BOOK: OHARA-BAL
-      name: "OHARA - BAL"
+      name: "OHARA - BAL (Barium, low-index)"
       content:
         - PAGE: S-BAL2
           name: "S-BAL2"
@@ -3166,29 +3166,17 @@
         - PAGE: S-BAL14
           name: "S-BAL14"
           path: "glass/ohara/S-BAL14.yml"
-        - PAGE: BAL15Y
-          name: "BAL15Y"
-          path: "glass/ohara/BAL15Y.yml"
-        - PAGE: L-BAL35
-          name: "L-BAL35"
-          path: "glass/ohara/L-BAL35.yml"
         - PAGE: S-BAL35
           name: "S-BAL35"
           path: "glass/ohara/S-BAL35.yml"
-        - PAGE: BAL35Y
-          name: "BAL35Y"
-          path: "glass/ohara/BAL35Y.yml"
         - PAGE: S-BAL41
           name: "S-BAL41"
           path: "glass/ohara/S-BAL41.yml"
-        - PAGE: L-BAL42
-          name: "L-BAL42"
-          path: "glass/ohara/L-BAL42.yml"
         - PAGE: S-BAL42
           name: "S-BAL42"
           path: "glass/ohara/S-BAL42.yml"
     - BOOK: OHARA-BAM
-      name: "OHARA - BAM"
+      name: "OHARA - BAM (Barium, medium-index)"
       content:
         - PAGE: S-BAM3
           name: "S-BAM3"
@@ -3200,19 +3188,13 @@
           name: "S-BAM12"
           path: "glass/ohara/S-BAM12.yml"
     - BOOK: OHARA-BSL
-      name: "OHARA - BSL"
+      name: "OHARA - BSL (Borosilicate, low-index)"
       content:
-        - PAGE: BSL7Y
-          name: "BSL7Y"
-          path: "glass/ohara/BSL7Y.yml"
-        - PAGE: L-BSL7
-          name: "L-BSL7"
-          path: "glass/ohara/L-BSL7.yml"
         - PAGE: S-BSL7
           name: "S-BSL7"
           path: "glass/ohara/S-BSL7.yml"
     - BOOK: OHARA-BSM
-      name: "OHARA - BSM"
+      name: "OHARA - BSM (Borosilicate, medium-index)"
       content:
         - PAGE: S-BSM2
           name: "S-BSM2"
@@ -3247,12 +3229,6 @@
         - PAGE: S-BSM28
           name: "S-BSM28"
           path: "glass/ohara/S-BSM28.yml"
-        - PAGE: S-BSM36
-          name: "S-BSM36"
-          path: "glass/ohara/S-BSM36.yml"
-        - PAGE: BSM51Y
-          name: "BSM51Y"
-          path: "glass/ohara/BSM51Y.yml"
         - PAGE: S-BSM71
           name: "S-BSM71"
           path: "glass/ohara/S-BSM71.yml"
@@ -3260,17 +3236,11 @@
           name: "S-BSM81"
           path: "glass/ohara/S-BSM81.yml"
     - BOOK: OHARA-FPL
-      name: "OHARA - FPL"
+      name: "OHARA - FPL (Fluorophosphate, low-index)"
       content:
         - PAGE: S-FPL51
           name: "S-FPL51"
           path: "glass/ohara/S-FPL51.yml"
-        - PAGE: S-FPL51Y
-          name: "S-FPL51Y"
-          path: "glass/ohara/S-FPL51Y.yml"
-        - PAGE: S-FPL52
-          name: "S-FPL52"
-          path: "glass/ohara/S-FPL52.yml"
         - PAGE: S-FPL53
           name: "S-FPL53"
           path: "glass/ohara/S-FPL53.yml"
@@ -3278,7 +3248,7 @@
           name: "S-FPL55"
           path: "glass/ohara/S-FPL55.yml"
     - BOOK: OHARA-FPM
-      name: "OHARA - FPM"
+      name: "OHARA - FPM (Fluorophosphate, medium-index)"
       content:
         - PAGE: S-FPM2
           name: "S-FPM2"
@@ -3287,20 +3257,11 @@
           name: "S-FPM3"
           path: "glass/ohara/S-FPM3.yml"
     - BOOK: OHARA-FSL
-      name: "OHARA - FSL"
+      name: "OHARA - FSL (Fluorosilicate, low-index)"
       content:
         - PAGE: S-FSL5
           name: "S-FSL5"
           path: "glass/ohara/S-FSL5.yml"
-        - PAGE: S-FSL5Y
-          name: "S-FSL5Y"
-          path: "glass/ohara/S-FSL5Y.yml"
-    - BOOK: OHARA-FTL
-      name: "OHARA - FTL"
-      content:
-        - PAGE: S-FTL10
-          name: "S-FTL10"
-          path: "glass/ohara/S-FTL10.yml"
     - BOOK: OHARA-FTM
       name: "OHARA - FTM"
       content:
@@ -3308,7 +3269,7 @@
           name: "S-FTM16"
           path: "glass/ohara/S-FTM16.yml"
     - BOOK: OHARA-LAH
-      name: "OHARA - LAH"
+      name: "OHARA - LAH (Lanthanum, high-index)"
       content:
         - PAGE: S-LAH51
           name: "S-LAH51"
@@ -3316,15 +3277,12 @@
         - PAGE: S-LAH52
           name: "S-LAH52"
           path: "glass/ohara/S-LAH52.yml"
-        - PAGE: L-LAH53
-          name: "L-LAH53"
-          path: "glass/ohara/L-LAH53.yml"
         - PAGE: S-LAH53
           name: "S-LAH53"
           path: "glass/ohara/S-LAH53.yml"
-        - PAGE: S-LAH55
-          name: "S-LAH55"
-          path: "glass/ohara/S-LAH55.yml"
+        - PAGE: S-LAH55V
+          name: "S-LAH55V"
+          path: "glass/ohara/S-LAH55V.yml"
         - PAGE: S-LAH58
           name: "S-LAH58"
           path: "glass/ohara/S-LAH58.yml"
@@ -3340,9 +3298,9 @@
         - PAGE: S-LAH64
           name: "S-LAH64"
           path: "glass/ohara/S-LAH64.yml"
-        - PAGE: S-LAH65
-          name: "S-LAH65"
-          path: "glass/ohara/S-LAH65.yml"
+        - PAGE: S-LAH65V
+          name: "S-LAH65V"
+          path: "glass/ohara/S-LAH65V.yml"
         - PAGE: S-LAH66
           name: "S-LAH66"
           path: "glass/ohara/S-LAH66.yml"
@@ -3352,23 +3310,20 @@
         - PAGE: S-LAH79
           name: "S-LAH79"
           path: "glass/ohara/S-LAH79.yml"
-        - PAGE: L-LAH81
-          name: "L-LAH81"
-          path: "glass/ohara/L-LAH81.yml"
-        - PAGE: L-LAH83
-          name: "L-LAH83"
-          path: "glass/ohara/L-LAH83.yml"
-        - PAGE: L-LAH84
-          name: "L-LAH84"
-          path: "glass/ohara/L-LAH84.yml"
-        - PAGE: L-LAH85
-          name: "L-LAH85"
-          path: "glass/ohara/L-LAH85.yml"
+        - PAGE: S-LAH88
+          name: "S-LAH88"
+          path: "glass/ohara/S-LAH88.yml"
+        - PAGE: S-LAH89
+          name: "S-LAH89"
+          path: "glass/ohara/S-LAH89.yml"
         - PAGE: S-LAH92
           name: "S-LAH92"
           path: "glass/ohara/S-LAH92.yml"
+        - PAGE: S-LAH93
+          name: "S-LAH93"
+          path: "glass/ohara/S-LAH93.yml"
     - BOOK: OHARA-LAL
-      name: "OHARA - LAL"
+      name: "OHARA - LAL (Lanthanum, low-index)"
       content:
         - PAGE: S-LAL7
           name: "S-LAL7"
@@ -3382,15 +3337,9 @@
         - PAGE: S-LAL10
           name: "S-LAL10"
           path: "glass/ohara/S-LAL10.yml"
-        - PAGE: L-LAL12
-          name: "L-LAL12"
-          path: "glass/ohara/L-LAL12.yml"
         - PAGE: S-LAL12
           name: "S-LAL12"
           path: "glass/ohara/S-LAL12.yml"
-        - PAGE: L-LAL13
-          name: "L-LAL13"
-          path: "glass/ohara/L-LAL13.yml"
         - PAGE: S-LAL13
           name: "S-LAL13"
           path: "glass/ohara/S-LAL13.yml"
@@ -3400,6 +3349,9 @@
         - PAGE: S-LAL18
           name: "S-LAL18"
           path: "glass/ohara/S-LAL18.yml"
+        - PAGE: S-LAL19
+          name: "S-LAL19"
+          path: "glass/ohara/S-LAL19.yml"
         - PAGE: S-LAL54
           name: "S-LAL54"
           path: "glass/ohara/S-LAL54.yml"
@@ -3416,7 +3368,7 @@
           name: "S-LAL61"
           path: "glass/ohara/S-LAL61.yml"
     - BOOK: OHARA-LAM
-      name: "OHARA - LAM"
+      name: "OHARA - LAM (Lanthanum, medium-index)"
       content:
         - PAGE: S-LAM2
           name: "S-LAM2"
@@ -3445,9 +3397,6 @@
         - PAGE: S-LAM59
           name: "S-LAM59"
           path: "glass/ohara/S-LAM59.yml"
-        - PAGE: L-LAM60
-          name: "L-LAM60"
-          path: "glass/ohara/L-LAM60.yml"
         - PAGE: S-LAM60
           name: "S-LAM60"
           path: "glass/ohara/S-LAM60.yml"
@@ -3457,12 +3406,6 @@
         - PAGE: S-LAM66
           name: "S-LAM66"
           path: "glass/ohara/S-LAM66.yml"
-        - PAGE: L-LAM69
-          name: "L-LAM69"
-          path: "glass/ohara/L-LAM69.yml"
-        - PAGE: L-LAM72
-          name: "L-LAM72"
-          path: "glass/ohara/L-LAM72.yml"
     - BOOK: OHARA-NBH
       name: "OHARA - NBH"
       content:
@@ -3481,12 +3424,15 @@
         - PAGE: S-NBH53
           name: "S-NBH53"
           path: "glass/ohara/S-NBH53.yml"
-        - PAGE: L-NBH54
-          name: "L-NBH54"
-          path: "glass/ohara/L-NBH54.yml"
         - PAGE: S-NBH55
           name: "S-NBH55"
           path: "glass/ohara/S-NBH55.yml"
+        - PAGE: S-NBH56
+          name: "S-NBH56"
+          path: "glass/ohara/S-NBH56.yml"
+        - PAGE: S-NBH57
+          name: "S-NBH57"
+          path: "glass/ohara/S-NBH57.yml"
     - BOOK: OHARA-NBM
       name: "OHARA - NBM"
       content:
@@ -3499,9 +3445,21 @@
         - PAGE: S-NPH1
           name: "S-NPH1"
           path: "glass/ohara/S-NPH1.yml"
+        - PAGE: S-NPH1W
+          name: "S-NPH1W"
+          path: "glass/ohara/S-NPH1W.yml"
         - PAGE: S-NPH2
           name: "S-NPH2"
           path: "glass/ohara/S-NPH2.yml"
+        - PAGE: S-NPH3
+          name: "S-NPH3"
+          path: "glass/ohara/S-NPH3.yml"
+        - PAGE: S-NPH4
+          name: "S-NPH4"
+          path: "glass/ohara/S-NPH4.yml"
+        - PAGE: S-NPH5
+          name: "S-NPH5"
+          path: "glass/ohara/S-NPH5.yml"
         - PAGE: S-NPH53
           name: "S-NPH53"
           path: "glass/ohara/S-NPH53.yml"
@@ -3517,50 +3475,8 @@
         - PAGE: S-NSL36
           name: "S-NSL36"
           path: "glass/ohara/S-NSL36.yml"
-    - BOOK: OHARA-PBH
-      name: "OHARA - PBH"
-      content:
-        - PAGE: PBH56
-          name: "PBH56"
-          path: "glass/ohara/PBH56.yml"
-    - BOOK: OHARA-PBL
-      name: "OHARA - PBL"
-      content:
-        - PAGE: PBL1Y
-          name: "PBL1Y"
-          path: "glass/ohara/PBL1Y.yml"
-        - PAGE: PBL6Y
-          name: "PBL6Y"
-          path: "glass/ohara/PBL6Y.yml"
-        - PAGE: PBL25Y
-          name: "PBL25Y"
-          path: "glass/ohara/PBL25Y.yml"
-        - PAGE: PBL26Y
-          name: "PBL26Y"
-          path: "glass/ohara/PBL26Y.yml"
-    - BOOK: OHARA-PBM
-      name: "OHARA - PBM"
-      content:
-        - PAGE: PBM2Y
-          name: "PBM2Y"
-          path: "glass/ohara/PBM2Y.yml"
-        - PAGE: PBM8Y
-          name: "PBM8Y"
-          path: "glass/ohara/PBM8Y.yml"
-        - PAGE: PBM18Y
-          name: "PBM18Y"
-          path: "glass/ohara/PBM18Y.yml"
-    - BOOK: OHARA-PHL
-      name: "OHARA - PHL"
-      content:
-        - PAGE: L-PHL1
-          name: "L-PHL1"
-          path: "glass/ohara/L-PHL1.yml"
-        - PAGE: L-PHL2
-          name: "L-PHL2"
-          path: "glass/ohara/L-PHL2.yml"
-    - BOOK: OHARA-PMH
-      name: "OHARA - PMH"
+    - BOOK: OHARA-PHM
+      name: "OHARA - PHM"
       content:
         - PAGE: S-PHM52
           name: "S-PHM52"
@@ -3604,6 +3520,9 @@
         - PAGE: S-TIH53
           name: "S-TIH53"
           path: "glass/ohara/S-TIH53.yml"
+        - PAGE: S-TIH53W
+          name: "S-TIH53W"
+          path: "glass/ohara/S-TIH53W.yml"
     - BOOK: OHARA-TIL
       name: "OHARA - TIL"
       content:
@@ -3652,9 +3571,6 @@
         - PAGE: S-TIM27
           name: "S-TIM27"
           path: "glass/ohara/S-TIM27.yml"
-        - PAGE: L-TIM28
-          name: "L-TIM28"
-          path: "glass/ohara/L-TIM28.yml"
         - PAGE: S-TIM28
           name: "S-TIM28"
           path: "glass/ohara/S-TIM28.yml"
@@ -3664,15 +3580,111 @@
         - PAGE: S-TIM39
           name: "S-TIM39"
           path: "glass/ohara/S-TIM39.yml"
-        - PAGE: L-TIH53
-          name: "L-TIH53"
-          path: "glass/ohara/L-TIH53.yml"
     - BOOK: OHARA-YGH
       name: "OHARA - YGH"
       content:
         - PAGE: S-YGH51
           name: "S-YGH51"
           path: "glass/ohara/S-YGH51.yml"
+    - BOOK: OHARA-molding
+      name: "OHARA - Low Tg glasses for precision molding"
+      content:
+        - PAGE: L-BAL35
+          name: "L-BAL35"
+          path: "glass/ohara/L-BAL35.yml"
+        - PAGE: L-BAL42
+          name: "L-BAL42"
+          path: "glass/ohara/L-BAL42.yml"
+        - PAGE: L-BAL43
+          name: "L-BAL43"
+          path: "glass/ohara/L-BAL43.yml"
+        - PAGE: L-BBH1
+          name: "L-BBH1"
+          path: "glass/ohara/L-BBH1.yml"
+        - PAGE: L-BSL7
+          name: "L-BSL7"
+          path: "glass/ohara/L-BSL7.yml"
+        - PAGE: L-LAH53
+          name: "L-LAH53"
+          path: "glass/ohara/L-LAH53.yml"
+        - PAGE: L-LAH84
+          name: "L-LAH84"
+          path: "glass/ohara/L-LAH84.yml"
+        - PAGE: L-LAH85V
+          name: "L-LAH85V"
+          path: "glass/ohara/L-LAH85V.yml"
+        - PAGE: L-LAH86
+          name: "L-LAH86"
+          path: "glass/ohara/L-LAH86.yml"
+        - PAGE: L-LAH90
+          name: "L-LAH90"
+          path: "glass/ohara/L-LAH90.yml"
+        - PAGE: L-LAH91
+          name: "L-LAH91"
+          path: "glass/ohara/L-LAH91.yml"
+        - PAGE: L-LAH94
+          name: "L-LAH94"
+          path: "glass/ohara/L-LAH94.yml"
+        - PAGE: L-LAL12
+          name: "L-LAL12"
+          path: "glass/ohara/L-LAL12.yml"
+        - PAGE: L-LAL13
+          name: "L-LAL13"
+          path: "glass/ohara/L-LAL13.yml"
+        - PAGE: L-LAM60
+          name: "L-LAM60"
+          path: "glass/ohara/L-LAM60.yml"
+        - PAGE: L-LAM69
+          name: "L-LAM69"
+          path: "glass/ohara/L-LAM69.yml"
+        - PAGE: L-TIM28
+          name: "L-TIM28"
+          path: "glass/ohara/L-TIM28.yml"
+    - BOOK: OHARA-i-line
+      name: "OHARA - i-Line glasses"
+      content:
+        - PAGE: S-FPL51Y
+          name: "S-FPL51Y"
+          path: "glass/ohara/S-FPL51Y.yml"
+        - PAGE: S-FSL5Y
+          name: "S-FSL5Y"
+          path: "glass/ohara/S-FSL5Y.yml"
+        - PAGE: BSL7Y
+          name: "BSL7Y"
+          path: "glass/ohara/BSL7Y.yml"
+        - PAGE: BAL15Y
+          name: "BAL15Y"
+          path: "glass/ohara/BAL15Y.yml"
+        - PAGE: BAL35Y
+          name: "BAL35Y"
+          path: "glass/ohara/BAL35Y.yml"
+        - PAGE: BSM51Y
+          name: "BSM51Y"
+          path: "glass/ohara/BSM51Y.yml"
+        - PAGE: PBL1Y
+          name: "PBL1Y"
+          path: "glass/ohara/PBL1Y.yml"
+        - PAGE: PBL6Y
+          name: "PBL6Y"
+          path: "glass/ohara/PBL6Y.yml"
+        - PAGE: PBL25Y
+          name: "PBL25Y"
+          path: "glass/ohara/PBL25Y.yml"
+        - PAGE: PBL26Y
+          name: "PBL26Y"
+          path: "glass/ohara/PBL26Y.yml"
+        - PAGE: PBL35Y
+          name: "PBL35Y"
+          path: "glass/ohara/PBL35Y.yml"
+        - PAGE: PBM2Y
+          name: "PBM2Y"
+          path: "glass/ohara/PBM2Y.yml"
+        - PAGE: PBM8Y
+          name: "PBM8Y"
+          path: "glass/ohara/PBM8Y.yml"
+        - PAGE: PBM18Y
+          name: "PBM18Y"
+          path: "glass/ohara/PBM18Y.yml"
     - DIVIDER: "Optical glass - HIKARI"
     - BOOK: HIKARI-FK
       name: "HIKARI - FK (Fluorite crown)"
