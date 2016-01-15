@@ -2,7 +2,7 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "1) <a href=\"http://refractiveindex.info/download/data/2008/datasheet_all_us.pdf\">SCHOTT optical glass data sheets 2008-02-26</a><br>2) <a href="http://refractiveindex.info/download/data/2015/schottzemax-20150722.agf">SCHOTT Zemax catalog 2015-07-22</a>"
+REFERENCES: "1) <a href=\"http://refractiveindex.info/download/data/2008/datasheet_all_us.pdf\">SCHOTT optical glass data sheets 2008-02-26</a><br>2) <a href=\"http://refractiveindex.info/download/data/2015/schottzemax-20150722.agf\">SCHOTT Zemax catalog 2015-07-22</a>"
 COMMENTS: "obsolet"
 DATA:
     range: 0.25 2.5
