@@ -2,35 +2,53 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "1) <a href=\"http://refractiveindex.info/download/data/2012/schott_optical_glass_collection_datasheets_dec_2012_us.pdf\">SCHOTT optical glass data sheets 2012-12-04</a><br>2) <a href=\"http://refractiveindex.info/download/data/2012/schottzemax-20121204.agf\">SCHOTT Zemax catalog 2012-12-04</a>"
-COMMENTS: "Suitable for precision molding. Refractive index is relative to air at standard conditions; Wavelength in dispersion formula is as measured in air and expressed in micrometers."
+REFERENCES: "1) <a href="http://refractiveindex.info/download/data/2015/schott_optical_glass_collection_datasheets_jul_2015_us.pdf">SCHOTT optical glass data sheets 2015-07-22</a><br>2) <a href="http://refractiveindex.info/download/data/2015/schottzemax-20150722.agf">SCHOTT Zemax catalog 2015-07-22</a>"
+COMMENTS: "suitable for precision molding. step 0.5 available"
 DATA:
-  - type: formula 2
+  - type: formula 2 
     range: 0.31 2.5
     coefficients: 0 1.3322245 0.0084029848 0.28924161 0.034423972 1.15161734 88.4310532
   - type: tabulated k
     data: |
-        0.310 3.8602E-06
-        0.320 1.9324E-06
-        0.334 8.4894E-07
-        0.350 3.5061E-07
-        0.365 1.4852E-07
-        0.370 1.1107E-07
-        0.380 7.4843E-08
-        0.390 5.4562E-08
-        0.400 4.1410E-08
-        0.405 3.7938E-08
-        0.420 3.3847E-08
-        0.436 3.0873E-08
-        0.460 2.6596E-08
-        0.500 1.7604E-08
-        0.546 1.2209E-08
-        0.580 1.4829E-08
-        0.620 1.5852E-08
-        0.660 1.6874E-08
-        0.700 1.3409E-08
-        1.060 3.3758E-09
-        1.530 1.1332E-07
-        1.970 5.6389E-07
-        2.325 4.6291E-06
-        2.500 1.3514E-05
+        0.310 9.6506E-06
+        0.320 4.8310E-06
+        0.334 2.1223E-06
+        0.350 8.7654E-07
+        0.365 3.7130E-07
+        0.370 2.7769E-07
+        0.380 1.8711E-07
+        0.390 1.3641E-07
+        0.400 1.0352E-07
+        0.405 9.4846E-08
+        0.420 8.4619E-08
+        0.436 7.7183E-08
+        0.460 6.6490E-08
+        0.500 4.4010E-08
+        0.546 3.0521E-08
+        0.580 3.7072E-08
+        0.620 3.9629E-08
+        0.660 4.2186E-08
+        0.700 3.3523E-08
+        1.060 8.4394E-09
+        1.530 2.8330E-07
+        1.970 1.4097E-06
+        2.325 1.1573E-05
+        2.500 3.3786E-05
+INFO:
+    n_is_absolute: false
+    λ_is_vacuum: false
+    temperature: 20.0 °C
+    coefficients_of_thermal_dispersion: 3.34e-06 1.16e-08 -1.8e-11 6.32e-07 7.21e-10 0.206
+    n_d: 1.63775
+    V_d: 42.41
+    glass_code: 638424.320
+    glass_status: standard
+    density: 3.196 g/cm<sup>3</sup>
+    coefficient_of_thermal_expansion_1: 6.56e-06 K<sup>-1</sup>
+    coefficient_of_thermal_expansion_2: 7.56e-06 K<sup>-1</sup>
+    ΔP_gF: -0.012
+    climatic_resistance: 1.0
+    stain_resistance: 1.0
+    acid_resistance: 3.4
+    alkali_resistance: 1.0
+    phosphate_resistance: 1.0

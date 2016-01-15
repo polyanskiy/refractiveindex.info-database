@@ -2604,93 +2604,57 @@
           name: "BD-2"
           path: "glass/lightpath/BD-2.yml"
     - DIVIDER: "Optical glass - SCHOTT"
-    - BOOK: SCHOTT-BK
-      name: "SCHOTT - BK (Borosilicate crown)"
-      content:
-        - PAGE: N-BK7
-          name: "N-BK7"
-          path: "glass/schott/N-BK7.yml"
-        - PAGE: N-BK7HT
-          name: "N-BK7HT"
-          path: "glass/schott/N-BK7HT.yml"
-        - PAGE: N-BK10
-          name: "N-BK10"
-          path: "glass/schott/N-BK10.yml"
-        - PAGE: P-BK7
-          name: "P-BK7"
-          path: "glass/schott/P-BK7.yml"
-    - BOOK: SCHOTT-BaF
-      name: "SCHOTT - BaF (Barium flint)"
-      content:
-        - PAGE: N-BAF4
-          name: "N-BAF4"
-          path: "glass/schott/N-BAF4.yml"
-        - PAGE: N-BAF10
-          name: "N-BAF10"
-          path: "glass/schott/N-BAF10.yml"
-        - PAGE: N-BAF51
-          name: "N-BAF51"
-          path: "glass/schott/N-BAF51.yml"
-        - PAGE: N-BAF52
-          name: "N-BAF52"
-          path: "glass/schott/N-BAF52.yml"
-    - BOOK: SCHOTT-BaK
-      name: "SCHOTT - BaK (Barium crown)"
-      content:
-        - PAGE: N-BAK1
-          name: "N-BAK1"
-          path: "glass/schott/N-BAK1.yml"
-        - PAGE: N-BAK2
-          name: "N-BAK2"
-          path: "glass/schott/N-BAK2.yml"
-        - PAGE: N-BAK4
-          name: "N-BAK4"
-          path: "glass/schott/N-BAK4.yml"
-        - PAGE: N-BAK4HT
-          name: "N-BAK4HT"
-          path: "glass/schott/N-BAK4HT.yml"
-    - BOOK: SCHOTT-BaLF
-      name: "SCHOTT - BaLF (Barium light flint)"
-      content:
-        - PAGE: N-BALF4
-          name: "N-BALF4"
-          path: "glass/schott/N-BALF4.yml"
-        - PAGE: N-BALF5
-          name: "N-BALF5"
-          path: "glass/schott/N-BALF5.yml"
-    - BOOK: SCHOTT-BaSF
-      name: "SCHOTT - BaSF (Barium dense flint)"
-      content:
-        - PAGE: N-BASF2
-          name: "N-BASF2"
-          path: "glass/schott/N-BASF2.yml"
-        - PAGE: N-BASF64
-          name: "N-BASF64"
-          path: "glass/schott/N-BASF64.yml"
-    - BOOK: SCHOTT-F
-      name: "SCHOTT - F (Flint)"
-      content:
-        - PAGE: F2
-          name: "F2"
-          path: "glass/schott/F2.yml"
-        - PAGE: F2HT
-          name: "F2HT"
-          path: "glass/schott/F2HT.yml"
-        - PAGE: F5
-          name: "F5"
-          path: "glass/schott/F5.yml"
-        - PAGE: N-F2
-          name: "N-F2"
-          path: "glass/schott/N-F2.yml"
     - BOOK: SCHOTT-FK
       name: "SCHOTT - FK (Fluorite crown)"
       content:
+        - PAGE: FK5HTi
+          name: "FK5HTi"
+          path: "glass/schott/FK5HTi.yml"
         - PAGE: N-FK5
           name: "N-FK5"
           path: "glass/schott/N-FK5.yml"
         - PAGE: N-FK51A
           name: "N-FK51A"
           path: "glass/schott/N-FK51A.yml"
+        - PAGE: N-FK58
+          name: "N-FK58"
+          path: "glass/schott/N-FK58.yml"
+    - BOOK: SCHOTT-PK
+      name: "SCHOTT - PK (Phosphate crown)"
+      content:
+        - PAGE: N-PK51
+          name: "N-PK51"
+          path: "glass/schott/N-PK51.yml"
+        - PAGE: N-PK52A
+          name: "N-PK52A"
+          path: "glass/schott/N-PK52A.yml"
+    - BOOK: SCHOTT-PSK
+      name: "SCHOTT - PSK (Dense phosphate crown)"
+      content:
+        - PAGE: N-PSK3
+          name: "N-PSK3"
+          path: "glass/schott/N-PSK3.yml"
+        - PAGE: N-PSK53A
+          name: "N-PSK53A"
+          path: "glass/schott/N-PSK53A.yml"
+    - BOOK: SCHOTT-BK
+      name: "SCHOTT - BK (Borosilicate crown)"
+      content:
+        - PAGE: N-BK7
+          name: "SCHOTT N-BK7®"
+          path: "glass/schott/N-BK7.yml"
+        - PAGE: N-BK7HT
+          name: "N-BK7HT"
+          path: "glass/schott/N-BK7HT.yml"
+        - PAGE: N-BK7HTi
+          name: "N-BK7HTi"
+          path: "glass/schott/N-BK7HTi.yml"
+        - PAGE: N-BK10
+          name: "N-BK10"
+          path: "glass/schott/N-BK10.yml"
+        - PAGE: P-BK7
+          name: "P-BK7"
+          path: "glass/schott/P-BK7.yml"
     - BOOK: SCHOTT-K
       name: "SCHOTT - K (Crown)"
       content:
@@ -2706,63 +2670,99 @@
         - PAGE: N-ZK7
           name: "N-ZK7"
           path: "glass/schott/N-ZK7.yml"
+    - BOOK: SCHOTT-BaK
+      name: "SCHOTT - BaK (Barium crown)"
+      content:
+        - PAGE: N-BAK1
+          name: "N-BAK1"
+          path: "glass/schott/N-BAK1.yml"
+        - PAGE: N-BAK2
+          name: "N-BAK2"
+          path: "glass/schott/N-BAK2.yml"
+        - PAGE: N-BAK4
+          name: "N-BAK4"
+          path: "glass/schott/N-BAK4.yml"
+        - PAGE: N-BAK4HT
+          name: "N-BAK4HT"
+          path: "glass/schott/N-BAK4HT.yml"
+    - BOOK: SCHOTT-BaF
+      name: "SCHOTT - BaF (Barium flint)"
+      content:
+        - PAGE: N-BAF4
+          name: "N-BAF4"
+          path: "glass/schott/N-BAF4.yml"
+        - PAGE: N-BAF10
+          name: "N-BAF10"
+          path: "glass/schott/N-BAF10.yml"
+        - PAGE: N-BAF51
+          name: "N-BAF51"
+          path: "glass/schott/N-BAF51.yml"
+        - PAGE: N-BAF52
+          name: "N-BAF52"
+          path: "glass/schott/N-BAF52.yml"
+    - BOOK: SCHOTT-BaLF
+      name: "SCHOTT - BaLF (Barium light flint)"
+      content:
+        - PAGE: N-BALF4
+          name: "N-BALF4"
+          path: "glass/schott/N-BALF4.yml"
+        - PAGE: N-BALF5
+          name: "N-BALF5"
+          path: "glass/schott/N-BALF5.yml"
+    - BOOK: SCHOTT-SK
+      name: "SCHOTT - SK (Dense crown)"
+      content:
+        - PAGE: N-SK2
+          name: "N-SK2"
+          path: "glass/schott/N-SK2.yml"
+        - PAGE: N-SK2HT
+          name: "N-SK2HT"
+          path: "glass/schott/N-SK2HT.yml"
+        - PAGE: N-SK4
+          name: "N-SK4"
+          path: "glass/schott/N-SK4.yml"
+        - PAGE: N-SK5
+          name: "N-SK5"
+          path: "glass/schott/N-SK5.yml"
+        - PAGE: N-SK11
+          name: "N-SK11"
+          path: "glass/schott/N-SK11.yml"
+        - PAGE: N-SK14
+          name: "N-SK14"
+          path: "glass/schott/N-SK14.yml"
+        - PAGE: N-SK16
+          name: "N-SK16"
+          path: "glass/schott/N-SK16.yml"
+        - PAGE: P-SK57
+          name: "P-SK57"
+          path: "glass/schott/P-SK57.yml"
+        - PAGE: P-SK57Q1
+          name: "P-SK57Q1"
+          path: "glass/schott/P-SK57Q1.yml"
+        - PAGE: P-SK58A
+          name: "P-SK58A"
+          path: "glass/schott/P-SK58A.yml"
+        - PAGE: P-SK60
+          name: "P-SK60"
+          path: "glass/schott/P-SK60.yml"
     - BOOK: SCHOTT-KF
       name: "SCHOTT - KF (Crown/flint)"
       content:
         - PAGE: N-KF9
           name: "N-KF9"
           path: "glass/schott/N-KF9.yml"
-    - BOOK: SCHOTT-KzFS
-      name: "SCHOTT - KzFS (Special short flint)"
+    - BOOK: SCHOTT-SSK
+      name: "SCHOTT - SSK (Very dense flint)"
       content:
-        - PAGE: N-KZFS2
-          name: "N-KZFS2"
-          path: "glass/schott/N-KZFS2.yml"
-        - PAGE: N-KZFS4
-          name: "N-KZFS4"
-          path: "glass/schott/N-KZFS4.yml"
-        - PAGE: N-KZFS4HT
-          name: "N-KZFS4HT"
-          path: "glass/schott/N-KZFS4HT.yml"
-        - PAGE: N-KZFS5
-          name: "N-KZFS5"
-          path: "glass/schott/N-KZFS5.yml"
-        - PAGE: N-KZFS8
-          name: "N-KZFS8"
-          path: "glass/schott/N-KZFS8.yml"
-        - PAGE: N-KZFS11
-          name: "N-KZFS11"
-          path: "glass/schott/N-KZFS11.yml"
-    - BOOK: SCHOTT-LaF
-      name: "SCHOTT - LaF (Lanthanum flint)"
-      content:
-        - PAGE: LAFN7
-          name: "LAFN7"
-          path: "glass/schott/LAFN7.yml"
-        - PAGE: N-LAF2
-          name: "N-LAF2"
-          path: "glass/schott/N-LAF2.yml"
-        - PAGE: N-LAF7
-          name: "N-LAF7"
-          path: "glass/schott/N-LAF7.yml"
-        - PAGE: N-LAF21
-          name: "N-LAF21"
-          path: "glass/schott/N-LAF21.yml"
-        - PAGE: N-LAF33
-          name: "N-LAF33"
-          path: "glass/schott/N-LAF33.yml"
-        - PAGE: N-LAF34
-          name: "N-LAF34"
-          path: "glass/schott/N-LAF34.yml"
-        - PAGE: N-LAF35
-          name: "N-LAF35"
-          path: "glass/schott/N-LAF35.yml"
-        - PAGE: N-LAF36
-          name: "N-LAF36"
-          path: "glass/schott/N-LAF36.yml"
-        - PAGE: P-LAF37
-          name: "P-LAF37"
-          path: "glass/schott/P-LAF37.yml"
+        - PAGE: N-SSK2
+          name: "N-SSK2"
+          path: "glass/schott/N-SSK2.yml"
+        - PAGE: N-SSK5
+          name: "N-SSK5"
+          path: "glass/schott/N-SSK5.yml"
+        - PAGE: N-SSK8
+          name: "N-SSK8"
+          path: "glass/schott/N-SSK8.yml"
     - BOOK: SCHOTT-LaK
       name: "SCHOTT - LaK (Lanthanum crown)"
       content:
@@ -2802,9 +2802,81 @@
         - PAGE: P-LAK35
           name: "P-LAK35"
           path: "glass/schott/P-LAK35.yml"
+    - BOOK: SCHOTT-LLF
+      name: "SCHOTT - LLF (Very light flint)"
+      content:
+        - PAGE: LLF1
+          name: "LLF1"
+          path: "glass/schott/LLF1.yml"
+        - PAGE: LLF1HTi
+          name: "LLF1HTi"
+          path: "glass/schott/LLF1HTi.yml"
+    - BOOK: SCHOTT-LF
+      name: "SCHOTT - LF (Light flint)"
+      content:
+        - PAGE: LF5
+          name: "LF5"
+          path: "glass/schott/LF5.yml"
+        - PAGE: LF5HTi
+          name: "LF5HTi"
+          path: "glass/schott/LF5HTi.yml"
+    - BOOK: SCHOTT-F
+      name: "SCHOTT - F (Flint)"
+      content:
+        - PAGE: F2
+          name: "F2"
+          path: "glass/schott/F2.yml"
+        - PAGE: F2HT
+          name: "F2HT"
+          path: "glass/schott/F2HT.yml"
+        - PAGE: F5
+          name: "F5"
+          path: "glass/schott/F5.yml"
+        - PAGE: N-F2
+          name: "N-F2"
+          path: "glass/schott/N-F2.yml"
+    - BOOK: SCHOTT-BaSF
+      name: "SCHOTT - BaSF (Barium dense flint)"
+      content:
+        - PAGE: N-BASF2
+          name: "N-BASF2"
+          path: "glass/schott/N-BASF2.yml"
+        - PAGE: N-BASF64
+          name: "N-BASF64"
+          path: "glass/schott/N-BASF64.yml"
+    - BOOK: SCHOTT-LaF
+      name: "SCHOTT - LaF (Lanthanum flint)"
+      content:
+        - PAGE: LAFN7
+          name: "LAFN7"
+          path: "glass/schott/LAFN7.yml"
+        - PAGE: N-LAF2
+          name: "N-LAF2"
+          path: "glass/schott/N-LAF2.yml"
+        - PAGE: N-LAF7
+          name: "N-LAF7"
+          path: "glass/schott/N-LAF7.yml"
+        - PAGE: N-LAF21
+          name: "N-LAF21"
+          path: "glass/schott/N-LAF21.yml"
+        - PAGE: N-LAF33
+          name: "N-LAF33"
+          path: "glass/schott/N-LAF33.yml"
+        - PAGE: N-LAF34
+          name: "N-LAF34"
+          path: "glass/schott/N-LAF34.yml"
+        - PAGE: N-LAF35
+          name: "N-LAF35"
+          path: "glass/schott/N-LAF35.yml"
+        - PAGE: P-LAF37
+          name: "P-LAF37"
+          path: "glass/schott/P-LAF37.yml"
     - BOOK: SCHOTT-LaSF
       name: "SCHOTT - LaSF (Lanthanum dense flint)"
       content:
+        - PAGE: LASF35
+          name: "LASF35"
+          path: "glass/schott/LASF35.yml"
         - PAGE: N-LASF9
           name: "N-LASF9"
           path: "glass/schott/N-LASF9.yml"
@@ -2847,87 +2919,6 @@
         - PAGE: P-LASF51
           name: "P-LASF51"
           path: "glass/schott/P-LASF51.yml"
-    - BOOK: SCHOTT-LF
-      name: "SCHOTT - LF (Light flint)"
-      content:
-        - PAGE: LF5
-          name: "LF5"
-          path: "glass/schott/LF5.yml"
-    - BOOK: SCHOTT-LLF
-      name: "SCHOTT - LLF (Very light flint)"
-      content:
-        - PAGE: LLF1
-          name: "LLF1"
-          path: "glass/schott/LLF1.yml"
-    - BOOK: SCHOTT-PK
-      name: "SCHOTT - PK (Phosphate crown)"
-      content:
-        - PAGE: N-PK51
-          name: "N-PK51"
-          path: "glass/schott/N-PK51.yml"
-        - PAGE: N-PK52A
-          name: "N-PK52A"
-          path: "glass/schott/N-PK52A.yml"
-        - PAGE: P-PK53
-          name: "P-PK53"
-          path: "glass/schott/P-PK53.yml"
-    - BOOK: SCHOTT-PSK
-      name: "SCHOTT - PSK (Dense phosphate crown)"
-      content:
-        - PAGE: N-PSK3
-          name: "N-PSK3"
-          path: "glass/schott/N-PSK3.yml"
-        - PAGE: N-PSK53A
-          name: "N-PSK53A"
-          path: "glass/schott/N-PSK53A.yml"
-    - BOOK: SCHOTT-SK
-      name: "SCHOTT - SK (Dense crown)"
-      content:
-        - PAGE: N-SK2
-          name: "N-SK2"
-          path: "glass/schott/N-SK2.yml"
-        - PAGE: N-SK2HT
-          name: "N-SK2HT"
-          path: "glass/schott/N-SK2HT.yml"
-        - PAGE: N-SK4
-          name: "N-SK4"
-          path: "glass/schott/N-SK4.yml"
-        - PAGE: N-SK5
-          name: "N-SK5"
-          path: "glass/schott/N-SK5.yml"
-        - PAGE: N-SK11
-          name: "N-SK11"
-          path: "glass/schott/N-SK11.yml"
-        - PAGE: N-SK14
-          name: "N-SK14"
-          path: "glass/schott/N-SK14.yml"
-        - PAGE: N-SK16
-          name: "N-SK16"
-          path: "glass/schott/N-SK16.yml"
-        - PAGE: P-SK57
-          name: "P-SK57"
-          path: "glass/schott/P-SK57.yml"
-        - PAGE: P-SK57Q1
-          name: "P-SK57Q1"
-          path: "glass/schott/P-SK57Q1.yml"
-        - PAGE: P-SK58A
-          name: "P-SK58A"
-          path: "glass/schott/P-SK58A.yml"
-        - PAGE: P-SK60
-          name: "P-SK60"
-          path: "glass/schott/P-SK60.yml"
-    - BOOK: SCHOTT-SSK
-      name: "SCHOTT - SSK (Very dense flint)"
-      content:
-        - PAGE: N-SSK2
-          name: "N-SSK2"
-          path: "glass/schott/N-SSK2.yml"
-        - PAGE: N-SSK5
-          name: "N-SSK5"
-          path: "glass/schott/N-SSK5.yml"
-        - PAGE: N-SSK8
-          name: "N-SSK8"
-          path: "glass/schott/N-SSK8.yml"
     - BOOK: SCHOTT-SF
       name: "SCHOTT - SF (Dense flint)"
       content:
@@ -3024,6 +3015,27 @@
         - PAGE: SF57HTultra
           name: "SF57HTultra"
           path: "glass/schott/SF57HTultra.yml"
+    - BOOK: SCHOTT-KzFS
+      name: "SCHOTT - KzFS (Special short flint)"
+      content:
+        - PAGE: N-KZFS2
+          name: "N-KZFS2"
+          path: "glass/schott/N-KZFS2.yml"
+        - PAGE: N-KZFS4
+          name: "N-KZFS4"
+          path: "glass/schott/N-KZFS4.yml"
+        - PAGE: N-KZFS4HT
+          name: "N-KZFS4HT"
+          path: "glass/schott/N-KZFS4HT.yml"
+        - PAGE: N-KZFS5
+          name: "N-KZFS5"
+          path: "glass/schott/N-KZFS5.yml"
+        - PAGE: N-KZFS8
+          name: "N-KZFS8"
+          path: "glass/schott/N-KZFS8.yml"
+        - PAGE: N-KZFS11
+          name: "N-KZFS11"
+          path: "glass/schott/N-KZFS11.yml"
     - BOOK: SCHOTT-inquiry
       name: "SCHOTT - Inquiry glasses"
       content:
@@ -3048,9 +3060,6 @@
         - PAGE: LAK9G15
           name: "LAK9G15"
           path: "glass/schott/inquiry/LAK9G15.yml"
-        - PAGE: LASF35
-          name: "LASF35"
-          path: "glass/schott/inquiry/LASF35.yml"
         - PAGE: LF5G15
           name: "LF5G15"
           path: "glass/schott/inquiry/LF5G15.yml"
@@ -3063,6 +3072,12 @@
         - PAGE: N-LAF3
           name: "N-LAF3"
           path: "glass/schott/inquiry/N-LAF3.yml"
+        - PAGE: N-LAF32
+          name: "N-LAF32"
+          path: "glass/schott/inquiry/N-LAF32.yml"
+        - PAGE: N-LAF36
+          name: "N-LAF36"
+          path: "glass/schott/inquiry/N-LAF36.yml"
         - PAGE: N-PSK53
           name: "N-PSK53"
           path: "glass/schott/inquiry/N-PSK53.yml"
@@ -3081,6 +3096,9 @@
         - PAGE: N-SK15
           name: "N-SK15"
           path: "glass/schott/inquiry/N-SK15.yml"
+        - PAGE: P-PK53
+          name: "P-PK53"
+          path: "glass/schott/inquiry/P-PK53.yml"
         - PAGE: SF6G05
           name: "SF6G05"
           path: "glass/schott/inquiry/SF6G05.yml"
@@ -3093,27 +3111,30 @@
     - BOOK: SCHOTT-obsolete
       name: "SCHOTT - Obsolete glasses"
       content:
-        - PAGE: LASFN9
-          name: "LASFN9"
-          path: "glass/schott/obsolete/LASFN9.yml"
-        - PAGE: LAKL12
-          name: "LAKL12"
-          path: "glass/schott/obsolete/LAKL12.yml"
-        - PAGE: N-LASF46
-          name: "N-LASF46"
-          path: "glass/schott/obsolete/N-LASF46.yml"
-        - PAGE: N-LASF31
-          name: "N-LASF31"
-          path: "glass/schott/obsolete/N-LASF31.yml"
-        - PAGE: N-FK51
-          name: "N-FK51"
-          path: "glass/schott/obsolete/N-FK51.yml"
-        - PAGE: N-LAF32
-          name: "N-LAF32"
-          path: "glass/schott/obsolete/N-LAF32.yml"
         - PAGE: KZFSN4
           name: "KZFSN4"
           path: "glass/schott/obsolete/KZFSN4.yml"
+        - PAGE: LAKL12
+          name: "LAKL12"
+          path: "glass/schott/obsolete/LAKL12.yml"
+        - PAGE: LASFN9
+          name: "LASFN9"
+          path: "glass/schott/obsolete/LASFN9.yml"
+        - PAGE: LITHOSIL-Q
+          name: "LITHOSIL-Q"
+          path: "glass/schott/obsolete/LITHOSIL-Q.yml"
+        - PAGE: LITHOTEC-CAF2
+          name: "LITHOTEC-CAF2"
+          path: "glass/schott/obsolete/LITHOTEC-CAF2.yml"
+        - PAGE: N-FK51
+          name: "N-FK51"
+          path: "glass/schott/obsolete/N-FK51.yml"
+        - PAGE: N-LASF31
+          name: "N-LASF31"
+          path: "glass/schott/obsolete/N-LASF31.yml"
+        - PAGE: N-LASF46
+          name: "N-LASF46"
+          path: "glass/schott/obsolete/N-LASF46.yml"
         - PAGE: SF14
           name: "SF14"
           path: "glass/schott/obsolete/SF14.yml"
@@ -3123,12 +3144,6 @@
         - PAGE: SF66
           name: "SF66"
           path: "glass/schott/obsolete/SF66.yml"
-        - PAGE: LITHOSIL-Q
-          name: "LITHOSIL-Q"
-          path: "glass/schott/obsolete/LITHOSIL-Q.yml"
-        - PAGE: LITHOTEC-CAF2
-          name: "LITHOTEC-CAF2"
-          path: "glass/schott/obsolete/LITHOTEC-CAF2.yml"
     - DIVIDER: "Optical glass - OHARA"
     - BOOK: OHARA-BAH
       name: "OHARA - BAH (Barium, high-index)"
@@ -3407,7 +3422,8 @@
           name: "S-LAM66"
           path: "glass/ohara/S-LAM66.yml"
     - BOOK: OHARA-NBH
-      name: "OHARA - NBH"
+      name: "OHARA - NBH (Niobate, high-index)"
+      content:
       content:
         - PAGE: S-NBH5
           name: "S-NBH5"
@@ -3434,13 +3450,13 @@
           name: "S-NBH57"
           path: "glass/ohara/S-NBH57.yml"
     - BOOK: OHARA-NBM
-      name: "OHARA - NBM"
+      name: "OHARA - NBM (Niobate, medium-index)"
       content:
         - PAGE: S-NBM51
           name: "S-NBM51"
           path: "glass/ohara/S-NBM51.yml"
     - BOOK: OHARA-NPH
-      name: "OHARA - NPH"
+      name: "OHARA - NPH (Niobophosphate, high-index)"
       content:
         - PAGE: S-NPH1
           name: "S-NPH1"
@@ -3464,7 +3480,7 @@
           name: "S-NPH53"
           path: "glass/ohara/S-NPH53.yml"
     - BOOK: OHARA-NSL
-      name: "OHARA - NSL"
+      name: "OHARA - NSL (Niobosilicate, low-index)"
       content:
         - PAGE: S-NSL3
           name: "S-NSL3"
@@ -3476,7 +3492,7 @@
           name: "S-NSL36"
           path: "glass/ohara/S-NSL36.yml"
     - BOOK: OHARA-PHM
-      name: "OHARA - PHM"
+      name: "OHARA - PHM (Phosphate, medium-index)"
       content:
         - PAGE: S-PHM52
           name: "S-PHM52"
@@ -3485,7 +3501,7 @@
           name: "S-PHM53"
           path: "glass/ohara/S-PHM53.yml"
     - BOOK: OHARA-TIH
-      name: "OHARA - TIH"
+      name: "OHARA - TIH (Titanate, high-index)"
       content:
         - PAGE: S-TIH1
           name: "S-TIH1"
@@ -3524,7 +3540,7 @@
           name: "S-TIH53W"
           path: "glass/ohara/S-TIH53W.yml"
     - BOOK: OHARA-TIL
-      name: "OHARA - TIL"
+      name: "OHARA - TIL (Titanate, low-index)"
       content:
         - PAGE: S-TIL1
           name: "S-TIL1"
@@ -3545,7 +3561,7 @@
           name: "S-TIL27"
           path: "glass/ohara/S-TIL27.yml"
     - BOOK: OHARA-TIM
-      name: "OHARA - TIM"
+      name: "OHARA - TIM (Titanate, medium-index)"
       content:
         - PAGE: S-TIM1
           name: "S-TIM1"
@@ -3645,46 +3661,46 @@
       content:
         - PAGE: S-FPL51Y
           name: "S-FPL51Y"
-          path: "glass/ohara/S-FPL51Y.yml"
+          path: "glass/ohara/i-line/S-FPL51Y.yml"
         - PAGE: S-FSL5Y
           name: "S-FSL5Y"
-          path: "glass/ohara/S-FSL5Y.yml"
+          path: "glass/ohara/i-line/S-FSL5Y.yml"
         - PAGE: BSL7Y
           name: "BSL7Y"
-          path: "glass/ohara/BSL7Y.yml"
+          path: "glass/ohara/i-line/BSL7Y.yml"
         - PAGE: BAL15Y
           name: "BAL15Y"
-          path: "glass/ohara/BAL15Y.yml"
+          path: "glass/ohara/i-line/BAL15Y.yml"
         - PAGE: BAL35Y
           name: "BAL35Y"
-          path: "glass/ohara/BAL35Y.yml"
+          path: "glass/ohara/i-line/BAL35Y.yml"
         - PAGE: BSM51Y
           name: "BSM51Y"
-          path: "glass/ohara/BSM51Y.yml"
+          path: "glass/ohara/i-line/BSM51Y.yml"
         - PAGE: PBL1Y
           name: "PBL1Y"
-          path: "glass/ohara/PBL1Y.yml"
+          path: "glass/ohara/i-line/PBL1Y.yml"
         - PAGE: PBL6Y
           name: "PBL6Y"
-          path: "glass/ohara/PBL6Y.yml"
+          path: "glass/ohara/i-line/PBL6Y.yml"
         - PAGE: PBL25Y
           name: "PBL25Y"
-          path: "glass/ohara/PBL25Y.yml"
+          path: "glass/ohara/i-line/PBL25Y.yml"
         - PAGE: PBL26Y
           name: "PBL26Y"
-          path: "glass/ohara/PBL26Y.yml"
+          path: "glass/ohara/i-line/PBL26Y.yml"
         - PAGE: PBL35Y
           name: "PBL35Y"
-          path: "glass/ohara/PBL35Y.yml"
+          path: "glass/ohara/i-line/PBL35Y.yml"
         - PAGE: PBM2Y
           name: "PBM2Y"
-          path: "glass/ohara/PBM2Y.yml"
+          path: "glass/ohara/i-line/PBM2Y.yml"
         - PAGE: PBM8Y
           name: "PBM8Y"
-          path: "glass/ohara/PBM8Y.yml"
+          path: "glass/ohara/i-line/PBM8Y.yml"
         - PAGE: PBM18Y
           name: "PBM18Y"
-          path: "glass/ohara/PBM18Y.yml"
+          path: "glass/ohara/i-line/PBM18Y.yml"
     - DIVIDER: "Optical glass - HIKARI"
     - BOOK: HIKARI-FK
       name: "HIKARI - FK (Fluorite crown)"

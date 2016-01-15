@@ -1,0 +1,50 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+REFERENCES: "<a href="http://refractiveindex.info/download/data/2015/schottzemax-20150722.agf">SCHOTT Zemax catalog 2015-07-22</a>"
+COMMENTS: "was replaced by N-FK51A"
+DATA:
+    range: 0.35 2.5
+    coefficients:
+  - type: tabulated k
+    data: |
+        0.350 7.0347E-06
+        0.365 2.8879E-06
+        0.370 2.1611E-06
+        0.380 1.2110E-06
+        0.390 7.3157E-07
+        0.400 4.8008E-07
+        0.405 4.1199E-07
+        0.420 2.5696E-07
+        0.436 1.8162E-07
+        0.460 1.1527E-07
+        0.500 4.8035E-08
+        0.546 2.6148E-08
+        0.580 3.2422E-08
+        0.620 3.4658E-08
+        0.660 3.1608E-08
+        0.700 2.7922E-08
+        1.060 5.9254E-08
+        1.530 4.2116E-07
+        1.970 2.3644E-06
+        2.325 1.5190E-05
+        2.500 4.2181E-05
+INFO:
+    n_is_absolute: false
+    λ_is_vacuum: false
+    temperature: 20.0 °C
+    coefficients_of_thermal_dispersion: 3.8e-06 1.1e-08 -1.83e-11 6.37e-07 8.03e-10 0.196
+    n_d: 1.79457E+00
+    V_d: 4.55300E+01
+    glass_code: 795455.433
+    glass_status: preferred
+    density: 4.325 g/cm<sup>3</sup>
+    coefficient_of_thermal_expansion_1: 5.89e-06 K<sup>-1</sup>
+    coefficient_of_thermal_expansion_2: 6.98e-06 K<sup>-1</sup>
+    ΔP_gF: -0.0075
+    climatic_resistance: 1.0
+    stain_resistance: 1.0
+    acid_resistance: 51.2
+    alkali_resistance: 1.0
+    phosphate_resistance: 2.0
