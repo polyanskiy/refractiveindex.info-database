@@ -1582,11 +1582,20 @@
         - PAGE: Chandler-Horowitz
           name: "Chandler-Horowitz and Amirtharaj 2005: n 2.5-22.222 µm, k 6.25-23.256 µm"
           path: "main/Si/Chandler-Horowitz.yml"
+        - PAGE: Green
+          name: "Green and Keevers 1995: n 0.25-1.45 µm, k 0.25-1.00 µm"
+          path: "main/Si/Green.yml"
+        - PAGE: Jellison
+          name: "Jellison 1992: n,k 0.234-0.84 µm"
+          path: "main/Si/Jellison.yml"
+        - PAGE: Aspnes
+          name: "Aspnes and Studna 1983: n,k 0.21-0.83 µm"
+          path: "main/Si/Aspnes.yml"
         - PAGE: Edwards
-          name: "Edwards and Ochoa 1980: n 2.5-25 µm; 26 °C"
+          name: "Edwards and Ochoa 1980: n 2.5-25 µm"
           path: "main/Si/Edwards.yml"
         - PAGE: Salzberg
-          name: "Salzberg and Villa 1957: n 1.36-11 µm; 26 °C"
+          name: "Salzberg and Villa 1957: n 1.36-11 µm"
           path: "main/Si/Salzberg.yml"
         - PAGE: Li-100K
           name: "Li 1980: n 1.2-14 µm; 100 K"
@@ -1630,9 +1639,6 @@
         - PAGE: Li-750K
           name: "Li 1980: n 1.2-14 µm; 750 K"
           path: "main/Si/Li-750K.yml"
-        - PAGE: Aspnes
-          name: "Aspnes and Studna 1983: n,k 0.21-0.83 µm"
-          path: "main/Si/Aspnes.yml"
         - PAGE: Vuye-20C
           name: "Vuye et al. 1993: n,k 0.26-0.83 µm; 20 °C"
           path: "main/Si/Vuye-20C.yml"

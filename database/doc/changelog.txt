@@ -40,13 +40,17 @@ next release
     organic/C6H12 - cyclohexane/Kerl-333K.yml
   new data (thanks to Guy Beadie, Naval Research Laboratory, Washington DC, USA, for providing data in yaml format!)
     organic/(C5O2H8)n - poly(methyl methacrylate)/Beadie.yml
+  new data (thanks to John Valley, SunEdison Semiconductor!)
+    main/Si/Green.yml
+    main/Si/Jellison.yml
   new data
     organic/C2H2 - acetylene/Loria.yml
   improved data
     organic/CH4 - methane/Loria.yml
-  new and updated data (+ extended data - INFO field - for optical designers)
+  new and updated data (+ extended data - 'INFO' field - for optical designers)
     glass/hikari/*.yml
     glass/ohara/*.yml
+    glass/schott/*.yml
 
 2015-12-01
   better data (thanks to Elisa Sani)
