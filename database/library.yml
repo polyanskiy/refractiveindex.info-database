@@ -84,6 +84,9 @@
         - PAGE: Skauli
           name: "Skauli et al. 2003: n 0.97-17 µm"
           path: "main/GaAs/Skauli.yml"
+        - PAGE: Jellison
+          name: "Jellison 1992: n,k 0.234-0.840 µm"
+          path: "main/GaAs/Jellison.yml"
         - PAGE: Aspnes
           name: "Aspnes et al. 1986: n,k 0.21-0.83 µm"
           path: "main/GaAs/Aspnes.yml"
@@ -605,6 +608,9 @@
         - PAGE: Icenogle
           name: "Icenogle et al. 1976: n 2.5-12 µm; 293 K"
           path: "main/Ge/Icenogle.yml"
+        - PAGE: Jellison
+          name: "Jellison 1992: n,k 0.234-0.840 µm"
+          path: "main/Ge/Jellison.yml"
         - PAGE: Aspnes
           name: "Aspnes and Studna 1983: n,k 0.21-0.83 µm"
           path: "main/Ge/Aspnes.yml"
@@ -1209,6 +1215,9 @@
     - BOOK: GaP
       name: "GaP (Gallium phosphide)"
       content:
+        - PAGE: Jellison
+          name: "Jellison 1992: n,k 0.234-0.840 µm"
+          path: "main/GaP/Jellison.yml"
         - PAGE: Aspnes
           name: "Aspnes and Studna 1983: n,k 0.21-0.83 µm"
           path: "main/GaP/Aspnes.yml"
@@ -1586,7 +1595,7 @@
           name: "Green and Keevers 1995: n 0.25-1.45 µm, k 0.25-1.00 µm"
           path: "main/Si/Green.yml"
         - PAGE: Jellison
-          name: "Jellison 1992: n,k 0.234-0.84 µm"
+          name: "Jellison 1992: n,k 0.234-0.840 µm"
           path: "main/Si/Jellison.yml"
         - PAGE: Aspnes
           name: "Aspnes and Studna 1983: n,k 0.21-0.83 µm"

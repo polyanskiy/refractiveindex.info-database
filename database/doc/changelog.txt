@@ -45,6 +45,9 @@ next release
     main/Si/Jellison.yml
   new data
     organic/C2H2 - acetylene/Loria.yml
+    main/GaAs/Jellison.yml
+    main/GaP/Jellison.yml
+    main/Ge/Jellison.yml
   improved data
     organic/CH4 - methane/Loria.yml
   new and updated data (+ extended data - 'INFO' field - for optical designers)
