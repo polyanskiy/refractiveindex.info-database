@@ -5768,7 +5768,10 @@
           path: "other/mixed crystals/In2O3-SnO2/Konig.yml"
         - PAGE: Konig-EMA
           name: "König et al. 2014: EMA layer; n,k 0.25-1.0 µm"
-          path: "other/mixed crystals/In2O3-SnO2/Konig-EMA.yml"          
+          path: "other/mixed crystals/In2O3-SnO2/Konig-EMA.yml"
+        - PAGE: Moerland
+          name: "Moerland and Hoogenboom 2016: n,k 0.4-1.0 µm"
+          path: "other/mixed crystals/In2O3-SnO2/Moerland.yml"       
     - BOOK: TlBr-TlCl
       name: "TlBr-TlCl (Thallium bromo-chloride, KRS-6)"
       content:

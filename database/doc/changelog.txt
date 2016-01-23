@@ -48,6 +48,8 @@ next release
     main/GaAs/Jellison.yml
     main/GaP/Jellison.yml
     main/Ge/Jellison.yml
+  new data (thanks to Robert Moerland, Delft University of Technology, Netherlands, for providing data in yaml format!)
+    other/mixed crystals/In2O3-SnO2/Moerland.yml
   improved data
     organic/CH4 - methane/Loria.yml
   new and updated data (+ extended data - 'INFO' field - for optical designers)
