@@ -9,9 +9,6 @@ next release
     main/CdTe/Treharne.yml
     other/doped crystals/Al-ZnO/Treharne.yml
     glass/nsg/Pilkington-Optiwhite.yml
-  new data (thanks to George Chen, Special Optics)
-    glass/ohara/S-FPM2.yml
-    glass/ohara/S-FPM3.yml
   new data (thnks to Prof. Dr. Eberhard Riedle, Ludwig-Maximilians-Universitaet Muenchen, Germany!)
     organic/C6H14 - hexane/Kozma.yml
     organic/CH4O - methanol/Kozma.yml
