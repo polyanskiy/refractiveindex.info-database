@@ -1,4 +1,4 @@
-next release
+2016-01-31
   bug fixes (thanks to Thibault North!)
     fixed path to organic/CH6H6 - benzene.Moutzouris.yml in library.yml
     added main/Ti/Rakic.yml to library.yml
