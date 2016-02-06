@@ -5,6 +5,7 @@
     glass/schott/P-SK58A.yml
     glass/schott/P-LAF37.yml
     glass/schott/inquiry/N-LAF32.yml
+    glass/schott/obsolete/SF66.yml
 
 2016-01-31
   bug fixes (thanks to Thibault North!)

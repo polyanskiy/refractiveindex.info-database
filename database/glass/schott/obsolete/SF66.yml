@@ -30,8 +30,6 @@ DATA:
 INFO:
     n_is_absolute: false
     λ_is_vacuum: false
-    temperature: 20.0 °C
-    coefficients_of_thermal_dispersion: 2.91e-06 1.69e-08 -3.77e-11 1.1e-06 1.07e-09 0.278
     n_d: 1.92286
     V_d: 20.88
     glass_code: 923209.603
