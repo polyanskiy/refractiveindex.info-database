@@ -46,8 +46,3 @@ INFO:
     coefficient_of_thermal_expansion_1: 6.82e-06 K<sup>-1</sup>
     coefficient_of_thermal_expansion_2: 8.41e-06 K<sup>-1</sup>
     ΔP_gF: -0.0023
-    climatic_resistance: 4.0
-    stain_resistance: 3.0
-    acid_resistance: 52.3
-    alkali_resistance: 2.0
-    phosphate_resistance: 3.0

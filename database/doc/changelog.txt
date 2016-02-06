@@ -1,3 +1,10 @@
+[next release]
+  bug fixes (thanks to Thibault North!) - fixed glass INFO wrongly imported from .agf file
+    glass/schott/P-LASF50.yml
+    glass/schott/P-SF69.yml
+    glass/schott/P-SK58A.yml
+    glass/schott/P-LAF37.yml
+
 2016-01-31
   bug fixes (thanks to Thibault North!)
     fixed path to organic/CH6H6 - benzene.Moutzouris.yml in library.yml
