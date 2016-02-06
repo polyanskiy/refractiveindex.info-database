@@ -1,9 +1,10 @@
 [next release]
-  bug fixes (thanks to Thibault North!) - fixed glass INFO wrongly imported from .agf file
+  bug fixes (thanks to Thibault North!) - fixed glass INFO and comments wrongly imported from Zemax catalog
     glass/schott/P-LASF50.yml
     glass/schott/P-SF69.yml
     glass/schott/P-SK58A.yml
     glass/schott/P-LAF37.yml
+    glass/schott/inquiry/N-LAF32.yml
 
 2016-01-31
   bug fixes (thanks to Thibault North!)
