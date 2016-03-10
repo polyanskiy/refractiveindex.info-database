@@ -6,6 +6,12 @@
     glass/schott/P-LAF37.yml
     glass/schott/inquiry/N-LAF32.yml
     glass/schott/obsolete/SF66.yml
+  new data (Thanks to ~marceloalcocer~ for contributing data via GitHub!)
+    main/BaB2O4/Zhang-o.yml
+    main/BaB2O4/Zhang-e.yml
+  minor edits
+    main/BaB2O4/Eimerl-o.yml (updated authors list)
+    main/BaB2O4/Eimerl-e.yml (updated authors list)
 
 2016-01-31
   bug fixes (thanks to Thibault North!)

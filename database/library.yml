@@ -185,6 +185,12 @@
         - PAGE: Eimerl-e
           name: "Eimerl et al. 1987: BBO; n(e) 0.22-1.06 µm"
           path: "main/BaB2O4/Eimerl-e.yml"
+        - PAGE: Zhang-o
+          name: "Zhang et al. 2000: BBO; n(o) 0.64-3.18 µm"
+          path: "main/BaB2O4/Zhang-o.yml"
+        - PAGE: Zhang-e
+          name: "Zhang et al. 2000: BBO; n(e) 0.64-3.18 µm"
+          path: "main/BaB2O4/Zhang-e.yml"
     - BOOK: BiB3O6
       name: "BiB<sub>3</sub>O<sub>6</sub> (Bismuth triborate, BiBO)"
       content:

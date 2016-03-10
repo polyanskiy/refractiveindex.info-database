@@ -2,8 +2,8 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "D. Zhang et al, Optical parametric properties of 532-nm-pumped beta-barium-borate near the infrared absorption edge, <a href=\"http://dx.doi.org/10.1016/S0030-4018(00)00968-8\"><i>Optics Communications</i>, <b>184</b>, 485-491 (2000)</a>"
-COMMENTS: "Beta barium borate (ß-BaB<sub>2</sub>O<sub>4</sub>, BBO). Extraordinary ray (o). Near infrared."
+REFERENCES: "D. Zhang, Y. Kong, J.-Y. Zhang. Optical parametric properties of 532-nm-pumped beta-barium-borate near the infrared absorption edge, <a href=\"http://dx.doi.org/10.1016/S0030-4018(00)00968-8\"><i>Optics Communications</i>, <b>184</b>, 485-491 (2000)</a>"
+COMMENTS: "Beta barium borate (ß-BaB<sub>2</sub>O<sub>4</sub>, BBO). Extraordinary ray (e). Near infrared."
 DATA:
   - type: formula 4
     range: 0.64 3.18
