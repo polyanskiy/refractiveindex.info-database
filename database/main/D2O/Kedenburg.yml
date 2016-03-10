@@ -3,7 +3,7 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: "S. Kedenburg, M. Vieweg, T. Gissibl, and H. Giessen. Linear refractive index and absorption measurements of nonlinear optical liquids in the visible and near-infrared spectral region, <a href=\"http://dx.doi.org/10.1364/OME.2.001588\"><i>Opt. Mat. Express</i> <b>2</b>, 1588-1611 (2012)</a>"
-COMMENTS: "Heavy water (D<sub>2</sub>O). 20 °C."
+COMMENTS: "Heavy water (D<sub>2</sub>O) at 20 °C."
 DATA:
   - type: formula 2
     range: 0.5 1.6
@@ -1011,3 +1011,5 @@ DATA:
         1.7475 8.02386e-06
         1.74875 8.08526e-06
         1.75 8.20245e-06
+INFO:
+    temperature: 20 °C

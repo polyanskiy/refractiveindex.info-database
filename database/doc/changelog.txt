@@ -9,9 +9,14 @@
   new data (Thanks to ~marceloalcocer~ for contributing data via GitHub!)
     main/BaB2O4/Zhang-o.yml
     main/BaB2O4/Zhang-e.yml
+  new data
+    main/H2O/Asfar.yml
+    main/D2O/Asfar.yml
   minor edits
     main/BaB2O4/Eimerl-o.yml (updated authors list)
     main/BaB2O4/Eimerl-e.yml (updated authors list)
+    main/H2O/* (added INFO sectoin)
+    main/D2O/* (added INFO sectoin)
 
 2016-01-31
   bug fixes (thanks to Thibault North!)

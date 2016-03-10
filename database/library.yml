@@ -1028,30 +1028,39 @@
     - BOOK: H2O
       name: "H<sub>2</sub>O, D<sub>2</sub>O (Water, heavy water, ice)"
       content:
+        - DIVIDER: "Liquid water, H2O"
         - PAGE: Hale
-          name: "Hale and Querry 1973- Water; n,k 0.2-200 µm; 25 °C"
+          name: "Hale and Querry 1973: Water; n,k 0.2-200 µm; 25 °C"
           path: "main/H2O/Hale.yml"
         - PAGE: Kedenburg
           name: "Kedenburg et al. 2012: Water; n 0.5-1.6 µm, k 0.5-1.75 µm; 20.0 °C"
           path: "main/H2O/Kedenburg.yml"
+        - PAGE: Asfar-H2O
+          name: "Afsar and Hasted 1977: Water; n,k 22.22-1733 µm; 19.0 °C"
+          path: "main/H2O/Asfar.yml"
         - PAGE: Daimon-19.0C
-          name: "Daimon and Masumura 2007- Water; n 0.18-1.13 µm; 19.0 °C"
+          name: "Daimon and Masumura 2007: Water; n 0.18-1.13 µm; 19.0 °C"
           path: "main/H2O/Daimon-19.0C.yml"
         - PAGE: Daimon-20.0C
-          name: "Daimon and Masumura 2007- Water; n 0.18-1.13 µm; 20.0 °C"
+          name: "Daimon and Masumura 2007: Water; n 0.18-1.13 µm; 20.0 °C"
           path: "main/H2O/Daimon-20.0C.yml"
         - PAGE: Daimon-21.5C
-          name: "Daimon and Masumura 2007- Water; n 0.18-1.13 µm; 21.5 °C"
+          name: "Daimon and Masumura 2007: Water; n 0.18-1.13 µm; 21.5 °C"
           path: "main/H2O/Daimon-21.5C.yml"
         - PAGE: Daimon-24.0C
-          name: "Daimon and Masumura 2007- Water; n 0.18-1.13 µm; 24.0 °C"
+          name: "Daimon and Masumura 2007: Water; n 0.18-1.13 µm; 24.0 °C"
           path: "main/H2O/Daimon-24.0C.yml"
+        - DIVIDER: "Water ice"
         - PAGE: Warren
           name: "Warren 1984: Ice; n,k 0.00443-167 µm"
           path: "main/H2O/Warren.yml"
+        - DIVIDER: "Heavy water, D2O"
         - PAGE: Kedenburg-D2O
           name: "Kedenburg et al. 2012: Heavy water; n 0.5-1.6 µm, k 0.5-1.75 µm"
           path: "main/D2O/Kedenburg.yml"
+        - PAGE: Asfar-D2O
+          name: "Afsar and Hasted 1977: Heavy water; n,k 250-2000 µm"
+          path: "main/D2O/Asfar.yml"
     - BOOK: HfO2
       name: "HfO<sub>2</sub> (Hafnium dioxide, Hafnia)"
       content:
