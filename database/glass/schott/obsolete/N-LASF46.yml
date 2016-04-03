@@ -5,8 +5,9 @@
 REFERENCES: "<a href=\"http://refractiveindex.info/download/data/2015/schottzemax-20150722.agf\">SCHOTT Zemax catalog 2015-07-22</a>"
 COMMENTS: "was replaced by N-LASF46A"
 DATA:
+  - type: formula 2
     range: 0.38 2.5
-    coefficients:
+    coefficients: 0 2.18073678 0.0125642118 0.298978656 0.056469999 1.621900460 105.662819
   - type: tabulated k
     data: |
         0.380 5.5703E-06
