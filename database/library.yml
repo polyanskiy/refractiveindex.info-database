@@ -2111,6 +2111,12 @@
         - PAGE: Rheims
           name: "Rheims et al. 1997: n 0.5893-1.05 µm"
           path: "organic/C9H10O3 - ethyl salicylate/Rheims.yml"
+    - BOOK: ethyl_cinnamate
+      name: "C<sub>11</sub>H<sub>12</sub>O<sub>2</sub> (Ethyl cinnamate)"
+      content:
+        - PAGE: Krauter
+          name: "Krauter et al. 2015: n 0.45-0.70 µm"
+          path: "organic/C11H12O2 - ethyl cinnamate/Krauter.yml"
     - DIVIDER: "Cycloalkanes"
     - BOOK: cyclohexane
       name: "C<sub>6</sub>H<sub>12</sub> (Cyclohexane)"
