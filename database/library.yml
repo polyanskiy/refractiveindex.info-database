@@ -5669,6 +5669,42 @@
   name: "OTHER - miscellaneous materials"
   content:
     - DIVIDER: "Alloys"
+    - BOOK: Au-Ag
+      name: "Au-Ag (Gold-silver alloy)"
+      content:
+        - PAGE: Rioux-Au100Ag0
+          name: "Rioux et al. 2014: n,k 0.27-1.2 µm; 100% Au"
+          path: "other/alloys/Au-Ag/Rioux-Au100Ag0.yml"
+        - PAGE: Rioux-Au90Ag10
+          name: "Rioux et al. 2014: n,k 0.27-1.2 µm; 90% Au 10% Ag"
+          path: "other/alloys/Au-Ag/Rioux-Au90Ag10.yml"
+        - PAGE: Rioux-Au80Ag20
+          name: "Rioux et al. 2014: n,k 0.27-1.2 µm; 80% Au 20% Ag"
+          path: "other/alloys/Au-Ag/Rioux-Au80Ag20.yml"
+        - PAGE: Rioux-Au70Ag30
+          name: "Rioux et al. 2014: n,k 0.27-1.2 µm; 70% Au 30% Ag"
+          path: "other/alloys/Au-Ag/Rioux-Au70Ag30.yml"
+        - PAGE: Rioux-Au60Ag40
+          name: "Rioux et al. 2014: n,k 0.27-1.2 µm; 60% Au 40% Ag"
+          path: "other/alloys/Au-Ag/Rioux-Au60Ag40.yml"
+        - PAGE: Rioux-Au50Ag50
+          name: "Rioux et al. 2014: n,k 0.27-1.2 µm; 50% Au 50% Ag"
+          path: "other/alloys/Au-Ag/Rioux-Au50Ag50.yml"
+        - PAGE: Rioux-Au40Ag60
+          name: "Rioux et al. 2014: n,k 0.27-1.2 µm; 40% Au 60% Ag"
+          path: "other/alloys/Au-Ag/Rioux-Au40Ag60.yml"
+        - PAGE: Rioux-Au30Ag70
+          name: "Rioux et al. 2014: n,k 0.27-1.2 µm; 30% Au 70% Ag"
+          path: "other/alloys/Au-Ag/Rioux-Au30Ag70.yml"
+        - PAGE: Rioux-Au20Ag80
+          name: "Rioux et al. 2014: n,k 0.27-1.2 µm; 20% Au 80% Ag"
+          path: "other/alloys/Au-Ag/Rioux-Au20Ag80.yml"
+        - PAGE: Rioux-Au10Ag90
+          name: "Rioux et al. 2014: n,k 0.27-1.2 µm; 10% Au 90% Ag"
+          path: "other/alloys/Au-Ag/Rioux-Au10Ag90.yml"
+        - PAGE: Rioux-Au0Ag100
+          name: "Rioux et al. 2014: n,k 0.27-1.2 µm; 100% Ag"
+          path: "other/alloys/Au-Ag/Rioux-Au0Ag100.yml"
     - BOOK: Nb-Sn
       name: "Nb-Sn (Niobium-tin alloy)"
       content:
