@@ -6037,6 +6037,15 @@
         - PAGE: Microchem85mEL
           name: "Microchem 8.5 mEL copolymer resist; 0.2-1.1 µm"
           path: "other/resists/Microchem 8.5 mEL.yml"
+    - BOOK: negative_tone_photoresists
+      name: "Negative tone photoresists"
+      content:
+        - PAGE: MicroresistEpoClore
+          name: "Micro resist EpoCore; 0.45-1.55 µm"
+          path: "other/resists/Micro resist EpoCore.yml"
+        - PAGE: MicroresistEpoClad
+          name: "Micro resist EpoClad; 0.45-1.55 µm"
+          path: "other/resists/Micro resist EpoClad.yml"
     - DIVIDER: "Perovskite"
     - BOOK: CH3NH3PbI3
       name: "CH3NH3PbI3"

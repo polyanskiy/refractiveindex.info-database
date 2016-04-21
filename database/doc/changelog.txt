@@ -13,7 +13,10 @@
     glass/schott/obsolete/LITHOSIL-Q.yml
     glass/schott/obsolete/N-LASF31.yml
     glass/schott/obsolete/N-LASF46.yml
-  new data new data (thanks to David Rioux, Polytechnique Montreal, Canada, for providing data in yaml format!)
+  new data (thanks to Valkai Sándor, Biological Research Centre, Szeged, Hungary!)
+    other/resists/Micro resist EpoCore.yml
+    other/resists/Micro resist Epolad.yml
+  new data (thanks to David Rioux, Polytechnique Montreal, Canada, for providing data in yaml format!)
     other/alloys/Au-Ag/Rioux-Au100Ag0.yml
     other/alloys/Au-Ag/Rioux-Au90Ag10.yml
     other/alloys/Au-Ag/Rioux-Au80Ag20.yml
@@ -25,7 +28,7 @@
     other/alloys/Au-Ag/Rioux-Au20Ag80.yml
     other/alloys/Au-Ag/Rioux-Au10Ag90.yml
     other/alloys/Au-Ag/Rioux-Au0Ag100.yml
-  new data new data (thanks to Philipp Krauter, Institut fuer Lasertechnologien in der Medizin und Messtechnik, Ulm, Germany!)
+  new data (thanks to Philipp Krauter, Institut fuer Lasertechnologien in der Medizin und Messtechnik, Ulm, Germany, for providing data in yaml format!)
     organic/C11H12O2 - ethyl cinnamate/Krauter.yml
   new data (thanks to Marcelo Alcocer for contributing data via GitHub!)
     main/BaB2O4/Zhang-o.yml
