@@ -6047,7 +6047,7 @@
     - BOOK: negative_tone_photoresists
       name: "Negative tone photoresists"
       content:
-        - PAGE: MicroresistEpoClore
+        - PAGE: MicroresistEpoCore
           name: "Micro resist EpoCore"
           path: "other/resists/Micro resist EpoCore.yml"
         - PAGE: MicroresistEpoClad
