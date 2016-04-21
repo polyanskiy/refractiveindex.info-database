@@ -16,6 +16,7 @@
   new data (thanks to Valkai Sándor, Biological Research Centre, Szeged, Hungary!)
     other/resists/Micro resist EpoCore.yml
     other/resists/Micro resist Epolad.yml
+    other/optical adhesives/Norland NOA 61.yml
   new data (thanks to David Rioux, Polytechnique Montreal, Canada, for providing data in yaml format!)
     other/alloys/Au-Ag/Rioux-Au100Ag0.yml
     other/alloys/Au-Ag/Rioux-Au90Ag10.yml

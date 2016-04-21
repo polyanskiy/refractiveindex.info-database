@@ -6020,31 +6020,38 @@
       content:
         - PAGE: Cargille
           name: "Cargille"
-          path: "other/index-matching liquids/cargille/acrylic_matching_liquid.yml"
+          path: "other/index-matching liquids/cargille/acrylic_matching_liquid.yml"- DIVIDER: "Index matching liquids"
+    - DIVIDER: "Optical adhesives"
+    - BOOK: Optical_adhesives
+      name: "Optical adhesives"
+      content:
+        - PAGE: Norland_NOA61
+          name: "Norland NOA 61"
+          path: "other/optical adhesives/Norland NOA 61.yml"
     - DIVIDER: "Resists"
     - BOOK: pmma_resists
       name: "PMMA resists"
       content:
         - PAGE: Microchem495
-          name: "Microchem 495 PMMA resist; 0.2-1.1 µm"
+          name: "Microchem 495 PMMA resist"
           path: "other/resists/Microchem 495.yml"
         - PAGE: Microchem950
-          name: "Microchem 950 PMMA resist; 0.2-1.1 µm"
+          name: "Microchem 950 PMMA resist"
           path: "other/resists/Microchem 950.yml"
     - BOOK: copolymer_resists
       name: "Copolymer resists"
       content:
         - PAGE: Microchem85mEL
-          name: "Microchem 8.5 mEL copolymer resist; 0.2-1.1 µm"
+          name: "Microchem 8.5 mEL copolymer resist"
           path: "other/resists/Microchem 8.5 mEL.yml"
     - BOOK: negative_tone_photoresists
       name: "Negative tone photoresists"
       content:
         - PAGE: MicroresistEpoClore
-          name: "Micro resist EpoCore; 0.45-1.55 µm"
+          name: "Micro resist EpoCore"
           path: "other/resists/Micro resist EpoCore.yml"
         - PAGE: MicroresistEpoClad
-          name: "Micro resist EpoClad; 0.45-1.55 µm"
+          name: "Micro resist EpoClad"
           path: "other/resists/Micro resist EpoClad.yml"
     - DIVIDER: "Perovskite"
     - BOOK: CH3NH3PbI3
