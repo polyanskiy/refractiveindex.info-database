@@ -6020,7 +6020,7 @@
       content:
         - PAGE: Cargille
           name: "Cargille"
-          path: "other/index-matching liquids/cargille/acrylic_matching_liquid.yml"- DIVIDER: "Index matching liquids"
+          path: "other/index-matching liquids/cargille/acrylic_matching_liquid.yml"
     - DIVIDER: "Optical adhesives"
     - BOOK: Optical_adhesives
       name: "Optical adhesives"
