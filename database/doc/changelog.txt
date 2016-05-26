@@ -1,5 +1,5 @@
-[next release]
-  bug fixes (thanks to Julian Stark, Institut fuer Lasertechnologien in der Medizin und Messtechnik, Ulm, Germany!)
+2016-05-25
+  bug fixes (thanks to Julian Stark, Institut für Lasertechnologien in der Medizin und Messtechnik, Ulm, Germany!)
     main/Pb/Golovashkin-293.yml - fixed a bug in numerical data
   bug fixes (thanks to Thibault North!) - fixed glass INFO and comments wrongly imported from Zemax catalog
     glass/schott/P-LASF50.yml
