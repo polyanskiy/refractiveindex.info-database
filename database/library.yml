@@ -597,7 +597,7 @@
         - PAGE: Barnes-e
           name: "Barnes and Gettemy 1980: n(e) 0.225-2.6 µm"
           path: "main/YLiF4/Barnes-e.yml"
-    - DIVIDER: "Fe - Iron"
+    - DIVIDER: "Fe - Iron and ferrites"
     - BOOK: Fe
       name: "Fe (Iron)"
       content:
@@ -607,6 +607,12 @@
         - PAGE: Johnson
           name: "Johnson and Christy 1974: n,k 0.188-1.937 µm"
           path: "main/Fe/Johnson.yml"
+    - BOOK: BiFeO3
+      name: "BiFeO3 (Bismuth ferrite, BFO)"
+      content:
+        - PAGE: Kumar
+          name: "Kumar et al. 2008: n 0.197-1.67 µm"
+          path: "main/BiFeO3/Kumar.yml"
     - DIVIDER: "Ge - Germanium and germanates"
     - BOOK: Ge
       name: "Ge (Germanium)"

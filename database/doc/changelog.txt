@@ -1,3 +1,7 @@
+[next release]
+  new data (thanks to Volodymyr Multian, Université de Savoie Mont Blanc, France, for providing data in yaml format!)
+    main/BiFeO3/Kumar.yml
+
 2016-05-25
   bug fixes (thanks to Julian Stark, Institut für Lasertechnologien in der Medizin und Messtechnik, Ulm, Germany!)
     main/Pb/Golovashkin-293.yml - fixed a bug in numerical data
