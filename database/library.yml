@@ -611,7 +611,7 @@
       name: "BiFeO3 (Bismuth ferrite, BFO)"
       content:
         - PAGE: Kumar
-          name: "Kumar et al. 2008: n 0.197-1.67 µm"
+          name: "Kumar et al. 2008: n,k 0.21-1.65 µm"
           path: "main/BiFeO3/Kumar.yml"
     - DIVIDER: "Ge - Germanium and germanates"
     - BOOK: Ge
