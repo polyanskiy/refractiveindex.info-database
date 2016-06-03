@@ -1,5 +1,5 @@
 [next release]
-  new data (thanks to Volodymyr Multian, Université de Savoie Mont Blanc, France, for providing data in yaml format!)
+  new data (thanks to Volodymyr Multian, Université de Savoie Mont Blanc, France, for providing data in yaml format! Thanks to Ryan Haislmaier and Venkatraman Gopalan, Pennsylvania State University, USA, for providing original data!)
     main/BiFeO3/Kumar.yml
 
 2016-05-25
