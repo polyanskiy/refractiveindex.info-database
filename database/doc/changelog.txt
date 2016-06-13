@@ -1,6 +1,8 @@
 [next release]
   new data (thanks to Volodymyr Multian, Université de Savoie Mont Blanc, France, for providing data in yaml format! Thanks to Ryan Haislmaier and Venkatraman Gopalan, Pennsylvania State University, USA, for providing original data!)
     main/BiFeO3/Kumar.yml
+  bug fixes
+    library.yml: fixed "HIKARI-KF" book wrongly named "HIKARI-FK"
 
 2016-05-25
   bug fixes (thanks to Julian Stark, Institut für Lasertechnologien in der Medizin und Messtechnik, Ulm, Germany!)

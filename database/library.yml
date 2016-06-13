@@ -3813,8 +3813,8 @@
         - PAGE: J-KZFH1
           name: "J-KZFH1"
           path: "glass/hikari/J-KZFH1.yml"
-    - BOOK: HIKARI-FK
-      name: "HIKARI - FK (Crown/flint)"
+    - BOOK: HIKARI-KF
+      name: "HIKARI - KF (Crown/flint)"
       content:
         - PAGE: J-KF6
           name: "J-KF6"
