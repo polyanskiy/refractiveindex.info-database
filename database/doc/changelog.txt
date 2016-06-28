@@ -1,4 +1,6 @@
 [next release]
+  update
+    main/Si/Chandler-Horowitz.yml: temperature ("Room temperature") added
   new data (thanks to Konstantinos Moutzouris, Technological Educational Institute of Athens, Greece!)
     other/human body/liver/Giannios.yml
     other/human body/colon/Giannios-mucosa.yml
