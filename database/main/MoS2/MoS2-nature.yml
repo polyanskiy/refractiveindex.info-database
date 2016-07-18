@@ -2,8 +2,8 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "H. H. Li. Refractive index of silicon and germanium and its wavelength and temperature derivatives, <a href=\"http://dx.doi.org/10.1063/1.555624\"><i>J. Phys. Chem. Ref. Data</i> <b>9</b>, 561-658 (1993)</a>"
-COMMENTS: "293 K (20 °C)"
+REFERENCES: "Zhang, Hui; Ma, Yaoguang; Wan, Yi; Rong, Xin; Xie, Ziang; Wang, Wei; Dai, Lun; Measuring the Refractive Index of Highly Crystalline Monolayer MoS2 with High Confidence <a href=\"http://dx.doi.org/10.1038/srep08440\"><i>Nature</i> <b>5</b>, 8440 (2013)</a>"
+COMMENTS: ""
 DATA:
   - type: tabulated n,k
     data: |
@@ -33,7 +33,8 @@ DATA:
            690.335,4.10464,
            711.456,3.72709,
            747.766,3.22138,
-
+  - type: tabulated k
+    data: |
            400.132,2.16645,
            411.189,2.36830,
            419.682,2.35258,
