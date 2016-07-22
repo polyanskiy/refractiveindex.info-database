@@ -1,0 +1,52 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+REFERENCES: "Chanyoung Yim, Maria O'Brien, Niall McEvoy, Sinéad Winters, Inam Mirza, James G. Lunney and Georg S. Duesberg Investigation of the optical properties of MoS2 thin films using spectroscopic ellipsometry <a href=\"http://dx.doi.org/10.1063/1.4868108\"><i>App. Phys. Let.</i> <b>104</b>, 103114 (2014)</a>"
+COMMENTS: "thickness 1.99"
+DATA:
+  - type: tabulated n
+    data: |
+        0.886647 2.88974
+        0.685993 3.60544
+        0.648841 3.74118
+        0.625726 3.63166
+        0.605729 3.24945
+        0.584897 2.69446
+        0.568685 2.45774
+        0.550838 2.45731
+        0.516095 2.79275
+        0.479315 3.20072
+        0.465239 3.31843
+        0.444625 3.19950
+        0.423568 2.93503
+        0.418525 2.83481
+        0.407106 2.48886
+        0.393452 1.91549
+        0.382448 1.59676
+        0.382449 1.58767
+  - type: tabulated k
+    data: |
+        0.894152 0.0910849
+        0.747263 0.243034
+        0.684723 0.499558
+        0.655431 0.793104
+        0.631743 1.21526
+        0.621308 1.44778
+        0.608212 1.57005
+        0.599306 1.60666
+        0.583677 1.44725
+        0.566905 1.12863
+        0.543762 0.754785
+        0.515288 0.546108
+        0.498054 0.564136
+        0.477700 0.735131
+        0.458490 1.11428
+        0.447604 1.36503
+        0.432233 1.54830
+        0.419664 1.73774
+        0.406792 1.93940
+        0.398225 1.91465
+        0.390954 1.74910
+        0.382159 1.49167
+        0.382159 1.49167
