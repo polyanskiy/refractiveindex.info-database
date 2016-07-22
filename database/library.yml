@@ -1496,6 +1496,36 @@
         - PAGE: Bond-e
           name: "Bond et al. 1967: α-HgS; n(e) 0.62-11 µm"
           path: "main/HgS/Bond-e.yml"
+    - BOOK: MoS2
+      name: "MoS2 (Molybdenum disulfide)"
+      content:
+        - PAGE: Beal
+          name: "Beal et al. 2001: n 0.041-1 µm"
+          path: "main/MoS2/MoS2-Beal.yml"
+        - PAGE: Zhang
+          name: "Zhang et al. 2013: n 0.4-0.75 µm"
+          path: "main/MoS2/MoS2-nature.yml"
+        - PAGE: Chanyoung-A
+          name: "Chanyoung et al. 2014: n 0.38-0.9 µm"
+          path: "main/MoS2/MoS2-APL-A.yml"
+        - PAGE: Chanyoung-B
+          name: "Chanyoung et al. 2014: n 0.38-0.9 µm"
+          path: "main/MoS2/MoS2-APL-B.yml"
+        - PAGE: Chanyoung-E
+          name: "Chanyoung et al. 2014: n 0.38-0.9 µm"
+          path: "main/MoS2/MoS2-APL-E.yml"
+    - BOOK: MoSe2
+      name: "MoSe2 (Molybdenum diselenide)"
+      content:
+        - PAGE: Beal
+          name: "Beal et al. 2001: n 0.041-1 µm"
+          path: "main/MoSe2/MoSe2-Beal.yml"
+    - BOOK: MoTe2
+      name: "MoS2 (Molybdenum ditelluride)"
+      content:
+        - PAGE: Beal
+          name: "Beal et al. 2001: n 0.041-1 µm"
+          path: "main/MoTe2/MoTe2-Beal.yml"
     - BOOK: PbS
       name: "PbS (Lead sulfide)"
       content:
