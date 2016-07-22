@@ -1100,9 +1100,9 @@
         - PAGE: Lajaunie-γ
           name: "Lajaunie et al. 2013: n(γ),k(γ) 0.019-24.8 µm"
           path: "main/MoO3/Lajaunie-gamma.yml"
-        - PAGE: Vos-amorphous
-          name: "Vos et al. 2015: n(γ),k(γ) 0.019-1 µm"
-          path: "main/MoO3/Vos-amorph.yml"
+        - PAGE: Vos
+          name: "Vos et al. 2015: Amorphous; n(γ),k(γ) 0.019-1 µm"
+          path: "main/MoO3/Vos.yml"
     - BOOK: Nb2O5
       name: "Nb<sub>2</sub>O<sub>5</sub> (Niobium pentoxide)"
       content:
@@ -1500,35 +1500,23 @@
           name: "Bond et al. 1967: α-HgS; n(e) 0.62-11 µm"
           path: "main/HgS/Bond-e.yml"
     - BOOK: MoS2
-      name: "MoS2 (Molybdenum disulfide)"
+      name: "MoS<sub>2</sub> (Molybdenum disulfide)"
       content:
         - PAGE: Beal
           name: "Beal et al. 2001: n 0.041-1 µm"
-          path: "main/MoS2/MoS2-Beal.yml"
+          path: "main/MoS2/Beal.yml"
         - PAGE: Zhang
           name: "Zhang et al. 2013: n 0.4-0.75 µm"
-          path: "main/MoS2/MoS2-nature.yml"
+          path: "main/MoS2/Zhang.yml"
         - PAGE: Chanyoung-A
           name: "Chanyoung et al. 2014: n 0.38-0.9 µm"
-          path: "main/MoS2/MoS2-APL-A.yml"
+          path: "main/MoS2/Chanyoung-A.yml"
         - PAGE: Chanyoung-B
           name: "Chanyoung et al. 2014: n 0.38-0.9 µm"
-          path: "main/MoS2/MoS2-APL-B.yml"
+          path: "main/MoS2/Chanyoung-B.yml"
         - PAGE: Chanyoung-E
           name: "Chanyoung et al. 2014: n 0.38-0.9 µm"
-          path: "main/MoS2/MoS2-APL-E.yml"
-    - BOOK: MoSe2
-      name: "MoSe2 (Molybdenum diselenide)"
-      content:
-        - PAGE: Beal
-          name: "Beal et al. 2001: n 0.041-1 µm"
-          path: "main/MoSe2/MoSe2-Beal.yml"
-    - BOOK: MoTe2
-      name: "MoS2 (Molybdenum ditelluride)"
-      content:
-        - PAGE: Beal
-          name: "Beal et al. 2001: n 0.041-1 µm"
-          path: "main/MoTe2/MoTe2-Beal.yml"
+          path: "main/MoS2/Chanyoung-E.yml"
     - BOOK: PbS
       name: "PbS (Lead sulfide)"
       content:
@@ -1598,6 +1586,12 @@
         - PAGE: Kato-e
           name: "Kato et al. 2013: n(e) 0.8-1620 µm"
           path: "main/GaSe/Kato-e.yml"
+    - BOOK: MoSe2
+      name: "MoSe<sub>2</sub> (Molybdenum diselenide)"
+      content:
+        - PAGE: Beal
+          name: "Beal et al. 2001: n 0.041-1 µm"
+          path: "main/MoSe2/Beal.yml"
     - BOOK: PbSe
       name: "PbSe (Lead selenide)"
       content:
@@ -1809,6 +1803,12 @@
         - PAGE: Treharne
           name: "Treharne et al. 2011: Thin film; n,k 0.3-1.5 µm"
           path: "main/CdTe/Treharne.yml"
+    - BOOK: MoTe2
+      name: "MoTe<sub>2</sub> (Molybdenum ditelluride)"
+      content:
+        - PAGE: Beal
+          name: "Beal et al. 2001: n 0.041-1 µm"
+          path: "main/MoTe2/Beal.yml"
     - BOOK: PbTe
       name: "PbTe (Lead telluride)"
       content:
