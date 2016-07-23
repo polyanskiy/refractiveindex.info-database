@@ -1,6 +1,18 @@
 [next release]
-  update
+  new data (thanks to Vincent Vandalon, Eindhoven University of Technology, the Netherlands for contributing via GitHub!)
+    Main/MoO3/Vos.yml
+    Main/MoS2/Beal.yml
+    Main/MoS2/Yim-1.99um.yml
+    Main/MoS2/Yim-3.01um.yml
+    Main/MoS2/Yim-19.88um.yml
+    Main/MoS2/Zhang.yml
+    Main/MoSe2/Beal.yml
+    Main/MoTe2/Beal.yml
+  updates
     main/Si/Chandler-Horowitz.yml: temperature ("Room temperature") added
+    main/CrTe/DeBell-20K.yml: author list
+    main/CrTe/DeBell-80K.yml: author list
+    main/CrTe/DeBell-300K.yml: author list    
   new data (thanks to Konstantinos Moutzouris, Technological Educational Institute of Athens, Greece!)
     other/human body/liver/Giannios.yml
     other/human body/colon/Giannios-mucosa.yml

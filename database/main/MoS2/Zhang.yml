@@ -2,7 +2,7 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "Zhang, Hui; Ma, Yaoguang; Wan, Yi; Rong, Xin; Xie, Ziang; Wang, Wei; Dai, Lun; Measuring the Refractive Index of Highly Crystalline Monolayer MoS2 with High Confidence <a href=\"http://dx.doi.org/10.1038/srep08440\"><i>Nature</i> <b>5</b>, 8440 (2013)</a>"
+REFERENCES: "H. Zhang, Y. Ma, Y. Wan, X. Rong, Z. Xie, W. Wang, L. Dai. Measuring the refractive index of highly crystalline monolayer MoS<sub>2</sub> with high confidence, <a href=\"http://dx.doi.org/10.1038/srep08440\"><i>Sci. Rep.</i> <b>5</b>, 8440 (2013)</a>"
 COMMENTS: ""
 DATA:
   - type: tabulated n
