@@ -1101,7 +1101,7 @@
           name: "Lajaunie et al. 2013: n(γ),k(γ) 0.019-24.8 µm"
           path: "main/MoO3/Lajaunie-gamma.yml"
         - PAGE: Vos
-          name: "Vos et al. 2015: Amorphous; n(γ),k(γ) 0.019-1 µm"
+          name: "Vos et al. 2015: Amorphous; n,k 0.019-1 µm"
           path: "main/MoO3/Vos.yml"
     - BOOK: Nb2O5
       name: "Nb<sub>2</sub>O<sub>5</sub> (Niobium pentoxide)"
