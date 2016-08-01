@@ -2,12 +2,9 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "1) E. Sani and A. Dell'Oro. Optical constants of ethylene glycol over an extremely wide spectral range, <a href=\"http://dx.doi.org/10.1016/j.optmat.2014.04.035\"><i>Optical Materials</i> <b>37</b>, 36-41 (2014)</a> - refractive index<br>2) T. P. Otanicar, P. E. Phelan J. S. Golden. Optical properties of liquids for direct absorption solar thermal energy systems, <a href=\"http://dx.doi.org/10.1016/j.solener.2008.12.009\"><i>Solar Energy</i> <b>83</b>, 969-977 (2009)</a> - extinction coefficient<br>"
-COMMENTS: "n: room temperature, k: 25 °C"
+REFERENCES: "T. P. Otanicar, P. E. Phelan J. S. Golden. Optical properties of liquids for direct absorption solar thermal energy systems, <a href=\"http://dx.doi.org/10.1016/j.solener.2008.12.009\"><i>Solar Energy</i> <b>83</b>, 969-977 (2009)</a>"
+COMMENTS: "25 °C"
 DATA:
-  - type: formula 2
-    range: 0.185 2.8
-    coefficients: 0 0.01778 9.02 1.01887 0.01028
   - type: tabulated k
     data: |
         0.20 1.56E-05

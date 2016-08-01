@@ -1,13 +1,22 @@
 [next release]
+  new data  (thanks to Elisa Sani)
+    organic/C2H6O - ethanol/Sani.yml
+    organic/C2H6O - ethanol/Sani-formula.yml
+    organic/C3H8O - propanol/Sani.yml
+    organic/C3H8O - propanol/Sani-formula.yml
+  modified (re-formatted) data
+    -- organic/C2H6O2 - ethylene glycol/Sani_and_Otanicar.yml 
+    ++ organic/C2H6O2 - ethylene glycol/Otanicar.yml - only Otanicar's absorption data
+    ++ organic/C3H8O - propanol/Sani-formula.yml - dispersion formula for vis/NIR + Sani's absorption data for the range of formula validity
   new data (thanks to Vincent Vandalon, Eindhoven University of Technology, the Netherlands for contributing via GitHub!)
-    Main/MoO3/Vos.yml
-    Main/MoS2/Beal.yml
-    Main/MoS2/Yim-1.99um.yml
-    Main/MoS2/Yim-3.01um.yml
-    Main/MoS2/Yim-19.88um.yml
-    Main/MoS2/Zhang.yml
-    Main/MoSe2/Beal.yml
-    Main/MoTe2/Beal.yml
+    main/MoO3/Vos.yml
+    main/MoS2/Beal.yml
+    main/MoS2/Yim-1.99um.yml
+    main/MoS2/Yim-3.01um.yml
+    main/MoS2/Yim-19.88um.yml
+    main/MoS2/Zhang.yml
+    main/MoSe2/Beal.yml
+    main/MoTe2/Beal.yml
   updates
     main/Si/Chandler-Horowitz.yml: temperature ("Room temperature") added
     main/CrTe/DeBell-20K.yml: author list
