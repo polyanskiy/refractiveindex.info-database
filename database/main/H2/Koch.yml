@@ -2,7 +2,7 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "J. Koch. Über die Dispersion gasförmiger Körper im ultra-violetten Spektrum, Ark. Mat., Astron. Fys. <b>8</b>, Nr. 20 (1913)"
+REFERENCES: "J. Koch. Über die Dispersion gasförmiger Körper im ultra-violetten Spektrum, Ark. Mat. Astron. Fys. <b>8</b>, Nr. 20 (1913)"
 COMMENTS: "14 °C"
 DATA:
   - type: tabulated n
