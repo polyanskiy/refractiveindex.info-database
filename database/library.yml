@@ -681,9 +681,12 @@
     - BOOK: H2
       name: "H<sub>2</sub> (Hydrogen)"
       content:
-        - PAGE: Leonard
-          name: "Leonard 1974: n 0.230209-0.670784 µm"
-          path: "main/H2/Leonard.yml"
+        - PAGE: Peck
+          name: "Peck and Hung 1977: n 0.1680-1.6945 µm"
+          path: "main/H2/Peck.yml"
+        - PAGE: Koch
+          name: "Koch 1913: n 0.2302-0.5462 µm"
+          path: "main/H2/Koch.yml"
     - BOOK: D2
       name: "D<sub>2</sub> (Deuterium)"
       content:

@@ -1,4 +1,8 @@
 [next release]
+  revised Hydrogen data (thanks to Donggyu Jang, Gwangju Institute of Science and Technology, South Korea!)
+    -- main/H2/Leonard.yml
+    ++ main/H2/Peck.yml
+    ++ main/H2/Koch.yml
   new data  (thanks to Elisa Sani)
     organic/C2H6O - ethanol/Sani.yml
     organic/C2H6O - ethanol/Sani-formula.yml
