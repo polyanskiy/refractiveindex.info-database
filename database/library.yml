@@ -867,10 +867,10 @@
       name: "N<sub>2</sub> (Nitrogen)"
       content:
         - PAGE: Peck-0C
-          name: "Peck and Khanna 1965: n 0.47-2.06 µm; 0 °C"
+          name: "Peck and Khanna 1966: n 0.47-2.06 µm; 0 °C"
           path: "main/N2/Peck-0C.yml"
         - PAGE: Peck-15C
-          name: "Peck and Khanna 1965: n 0.47-2.06 µm; 15 °C"
+          name: "Peck and Khanna 1966: n 0.47-2.06 µm; 15 °C"
           path: "main/N2/Peck-15C.yml"
         - PAGE: Griesmann
           name: "Griesmann and Burnett 1999: n 0.145-0.270 µm; 0 °C"
@@ -1007,6 +1007,9 @@
         - PAGE: Kischkat
           name: "Kischkat et al. 2012: Thin film; n,k 1.54-14.29 µm"
           path: "main/Al2O3/Kischkat.yml"
+        - PAGE: Boidin
+          name: "Boidin et al. 2016: Thin film; n 0.3-18 µm"
+          path: "main/Al2O3/Boidin.yml"
     - BOOK: BeO
       name: "BeO (Beryllium oxide)"
       content:

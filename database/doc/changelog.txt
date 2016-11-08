@@ -1,4 +1,6 @@
 [next release]
+  new data (Thanks to Tomáš Halenkovič, University of Pardubice, Czech Republic!)
+    main/Al2O3/Boidin.yml
   revised Hydrogen data (thanks to Donggyu Jang, Gwangju Institute of Science and Technology, South Korea!)
     -- main/H2/Leonard.yml
     ++ main/H2/Peck.yml
@@ -25,7 +27,9 @@
     main/Si/Chandler-Horowitz.yml: temperature ("Room temperature") added
     main/CrTe/DeBell-20K.yml: author list
     main/CrTe/DeBell-80K.yml: author list
-    main/CrTe/DeBell-300K.yml: author list    
+    main/CrTe/DeBell-300K.yml: author list 
+    main/N2/Peck-0C.yml: reference year fixed, INFO added
+    main/N2/Peck-15C.yml: reference year fixed, INFO added
   new data (thanks to Konstantinos Moutzouris, Technological Educational Institute of Athens, Greece!)
     other/human body/liver/Giannios.yml
     other/human body/colon/Giannios-mucosa.yml
