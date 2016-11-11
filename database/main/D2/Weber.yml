@@ -2,8 +2,8 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "P. J. Leonard. Refractive indices, Verdet constants, and polarizabilities of the inert gases, <a href=\"http://dx.doi.org/10.1016/S0092-640X(74)80028-8\"><i>Atomic Data and Nuclear Data Tables</i> <b>14</b>, 21-37 (1974)</a>"
-COMMENTS: "273 K (0 °C)"
+REFERENCES: "Handbook of Optical Materials, Marvin J. Weber. CRC Press 2003 [<a href=\"https://books.google.com/books?id=6VpQDoef05wC&hl=en\">link</a>]<br>*Original souce of data is unknown: \"Handbook...\" cites a paper that doesn't include any information on optical constants of Deuterium."
+COMMENTS: "0 °C"
 DATA:
   - type: tabulated n
     data: |
@@ -25,3 +25,6 @@ DATA:
         0.546074 1.00013766
         0.576959 1.00013731
         0.579065 1.00013727
+INFO:
+    n_is_absolute: true
+    temperature: 0 °C

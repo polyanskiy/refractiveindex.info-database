@@ -68,6 +68,12 @@
     - BOOK: Ar
       name: "Ar (Argon)"
       content:
+        - PAGE: Peck-0C
+          name: "Peck and Fisher 1964: n 0.47-2.06 µm; 0 °C"
+          path: "main/Ar/Peck-0C.yml"
+        - PAGE: Peck-15C
+          name: "Peck and Fisher 1964: n 0.47-2.06 µm; 15 °C"
+          path: "main/Ar/Peck-15C.yml"
         - PAGE: Bideau-Mehu
           name: "Bideau-Mehu et al. 1981: n 0.1404-0.2537 µm"
           path: "main/Ar/Bideau-Mehu.yml"
@@ -690,9 +696,9 @@
     - BOOK: D2
       name: "D<sub>2</sub> (Deuterium)"
       content:
-        - PAGE: Leonard
-          name: "Leonard 1974: n 0.230209-0.579065 µm"
-          path: "main/D2/Leonard.yml"
+        - PAGE: Weber
+          name: "Weber: n 0.230209-0.579065 µm"
+          path: "main/D2/Weber.yml"
     - DIVIDER: "He - Helium"
     - BOOK: He
       name: "He (Helium)"
@@ -1025,6 +1031,9 @@
         - PAGE: Bideau-Mehu
           name: "Bideau-Mehu et al. 1973: n 0.1807-1.6945 µm"
           path: "main/CO2/Bideau-Mehu.yml"
+        - PAGE: Old
+          name: "Old et al. 1971: n 0.480-1.817 µm"
+          path: "main/CO2/Old.yml"
     - BOOK: Dy2O3
       name: "Dy<sub>2</sub>O<sub>3</sub> (Dysprosium oxide)"
       content:

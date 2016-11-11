@@ -1,19 +1,11 @@
 [next release]
   new data (Thanks to Tomáš Halenkovič, University of Pardubice, Czech Republic!)
     main/Al2O3/Boidin.yml
-  revised Hydrogen data (thanks to Donggyu Jang, Gwangju Institute of Science and Technology, South Korea!)
-    -- main/H2/Leonard.yml
-    ++ main/H2/Peck.yml
-    ++ main/H2/Koch.yml
   new data  (thanks to Elisa Sani)
     organic/C2H6O - ethanol/Sani.yml
     organic/C2H6O - ethanol/Sani-formula.yml
     organic/C3H8O - propanol/Sani.yml
     organic/C3H8O - propanol/Sani-formula.yml
-  modified (re-formatted) data
-    -- organic/C2H6O2 - ethylene glycol/Sani_and_Otanicar.yml 
-    ++ organic/C2H6O2 - ethylene glycol/Otanicar.yml - only Otanicar's absorption data
-    ++ organic/C3H8O - propanol/Sani-formula.yml - dispersion formula for vis/NIR + Sani's absorption data for the range of formula validity
   new data (thanks to Vincent Vandalon, Eindhoven University of Technology, the Netherlands for contributing via GitHub!)
     main/MoO3/Vos.yml
     main/MoS2/Beal.yml
@@ -23,13 +15,6 @@
     main/MoS2/Zhang.yml
     main/MoSe2/Beal.yml
     main/MoTe2/Beal.yml
-  updates
-    main/Si/Chandler-Horowitz.yml: temperature ("Room temperature") added
-    main/CrTe/DeBell-20K.yml: author list
-    main/CrTe/DeBell-80K.yml: author list
-    main/CrTe/DeBell-300K.yml: author list 
-    main/N2/Peck-0C.yml: reference year fixed, INFO added
-    main/N2/Peck-15C.yml: reference year fixed, INFO added
   new data (thanks to Konstantinos Moutzouris, Technological Educational Institute of Athens, Greece!)
     other/human body/liver/Giannios.yml
     other/human body/colon/Giannios-mucosa.yml
@@ -37,6 +22,24 @@
     other/human body/colon/Giannios-serosa.yml
   new data (thanks to Volodymyr Multian, Université de Savoie Mont Blanc, France, for providing data in yaml format! Thanks to Ryan Haislmaier and Venkatraman Gopalan, Pennsylvania State University, USA, for providing original data!)
     main/BiFeO3/Kumar.yml
+  new data
+    main/Ar/Peck-0C.yml
+    main/Ar/Peck-15C.yml
+    main/CO2/Old.yml
+  revised Hydrogen data (thanks to Donggyu Jang, Gwangju Institute of Science and Technology, South Korea!)
+    -- main/H2/Leonard.yml
+    ++ main/H2/Peck.yml
+    ++ main/H2/Koch.yml
+  modified (re-formatted) data
+    -- organic/C2H6O2 - ethylene glycol/Sani_and_Otanicar.yml 
+    ++ organic/C2H6O2 - ethylene glycol/Otanicar.yml - only Otanicar's absorption data
+    ++ organic/C3H8O - propanol/Sani-formula.yml - dispersion formula for vis/NIR + Sani's absorption data for the range of formula validity
+  updates
+    - multiple improvements of gas data -
+    main/Si/Chandler-Horowitz.yml: temperature ("Room temperature") added
+    main/CrTe/DeBell-20K.yml: author list
+    main/CrTe/DeBell-80K.yml: author list
+    main/CrTe/DeBell-300K.yml: author list
   bug fixes
     library.yml: fixed "HIKARI-KF" book wrongly named "HIKARI-FK"
 
