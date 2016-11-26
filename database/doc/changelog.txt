@@ -1,5 +1,5 @@
 [next release]
-  new data (Thanks to Tomáš Halenkovič, University of Pardubice, Czech Republic!)
+  new data (thanks to Tomáš Halenkovič, University of Pardubice, Czech Republic!)
     main/Al2O3/Boidin.yml
   new data  (thanks to Elisa Sani)
     organic/C2H6O - ethanol/Sani.yml
@@ -23,8 +23,16 @@
   new data (thanks to Volodymyr Multian, Université de Savoie Mont Blanc, France, for providing data in yaml format! Thanks to Ryan Haislmaier and Venkatraman Gopalan, Pennsylvania State University, USA, for providing original data!)
     main/BiFeO3/Kumar.yml
   new data
+    main/He/Cuthbertson.yml
+    main/Ne/Cuthbertson.yml
+    main/Ar/Cuthbertson.yml
+    main/Kr/Cuthbertson.yml
+    main/Xe/Cuthbertson.yml
     main/Ar/Peck-0C.yml
     main/Ar/Peck-15C.yml
+    main/Ar/Larsen.yml
+    main/Kr/Coch.yml
+    main/Xe/Coch.yml
     main/CO2/Old.yml
   revised Hydrogen data (thanks to Donggyu Jang, Gwangju Institute of Science and Technology, South Korea!)
     -- main/H2/Leonard.yml
@@ -35,11 +43,17 @@
     ++ organic/C2H6O2 - ethylene glycol/Otanicar.yml - only Otanicar's absorption data
     ++ organic/C3H8O - propanol/Sani-formula.yml - dispersion formula for vis/NIR + Sani's absorption data for the range of formula validity
   updates
-    - multiple improvements of gas data -
     main/Si/Chandler-Horowitz.yml: temperature ("Room temperature") added
     main/CrTe/DeBell-20K.yml: author list
     main/CrTe/DeBell-80K.yml: author list
     main/CrTe/DeBell-300K.yml: author list
+    main/D2/Leonard.yml: renamed to Weber.yml, references, info
+    main/He/Mansfield.yml: comments, info
+    main/Ar/Bideau-Mehu.yml: references, range, comments, info
+    main/Ne/Bideau-Mehu.yml: references, range, comments, info
+    main/Kr/Bideau-Mehu.yml: references, range, comments, info
+    main/Xe/Bideau-Mehu.yml: references, range, comments, info
+    main/CO2/Bideau-Mehu.yml: comments, info
   bug fixes
     library.yml: fixed "HIKARI-KF" book wrongly named "HIKARI-FK"
 

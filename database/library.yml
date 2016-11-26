@@ -68,15 +68,21 @@
     - BOOK: Ar
       name: "Ar (Argon)"
       content:
+        - PAGE: Bideau-Mehu
+          name: "Bideau-Mehu et al. 1981: n 0.1404-0.5677 µm"
+          path: "main/Ar/Bideau-Mehu.yml"
         - PAGE: Peck-0C
           name: "Peck and Fisher 1964: n 0.47-2.06 µm; 0 °C"
           path: "main/Ar/Peck-0C.yml"
         - PAGE: Peck-15C
           name: "Peck and Fisher 1964: n 0.47-2.06 µm; 15 °C"
           path: "main/Ar/Peck-15C.yml"
-        - PAGE: Bideau-Mehu
-          name: "Bideau-Mehu et al. 1981: n 0.1404-0.2537 µm"
-          path: "main/Ar/Bideau-Mehu.yml"
+        - PAGE: Larsen
+          name: "Larsén 1934: n 0.2303-0.5677 µm"
+          path: "main/Ar/Larsen.yml"
+        - PAGE: Cuthbertson
+          name: "Cuthbertson and Cuthbertson 1910: n 0.4800-0.6708 µm"
+          path: "main/Ar/Cuthbertson.yml"
     - DIVIDER: "As - Arsenides"
     - BOOK: AlAs
       name: "AlAs (Aluminium arsenide)"
@@ -706,6 +712,9 @@
         - PAGE: Mansfield
           name: "Mansfield and Peck 1969: n 0.4801-2.0586 µm"
           path: "main/He/Mansfield.yml"
+        - PAGE: Cuthbertson
+          name: "Cuthbertson and Cuthbertson 1936: n 0.2753-0.5462 µm"
+          path: "main/He/Cuthbertson.yml"
     - DIVIDER: "Hf - Hafnium"
     - BOOK: Hf
       name: "Hf (Hafnium)"
@@ -795,8 +804,14 @@
       name: "Kr (Krypton)"
       content:
         - PAGE: Bideau-Mehu
-          name: "Bideau-Mehu et al. 1981: n 0.1404-0.2537 µm"
+          name: "Bideau-Mehu et al. 1981: n 0.1404-0.6234 µm"
           path: "main/Kr/Bideau-Mehu.yml"
+        - PAGE: Koch
+          name: "Koch 1949: n 0.2302-0.6234 µm"
+          path: "main/Kr/Koch.yml"
+        - PAGE: Cuthbertson
+          name: "Cuthbertson and Cuthbertson 1910: n 0.4800-0.6708 µm"
+          path: "main/Kr/Cuthbertson.yml"
     - DIVIDER: "Li - Lithium"
     - BOOK: Li
       name: "Li (Lithium)"
@@ -966,8 +981,11 @@
       name: "Ne (Neon)"
       content:
         - PAGE: Bideau-Mehu
-          name: "Bideau-Mehu et al. 1981: n 0.1404-0.2537 µm"
+          name: "Bideau-Mehu et al. 1981: n 0.1404-0.5462 µm"
           path: "main/Ne/Bideau-Mehu.yml"
+        - PAGE: Cuthbertson
+          name: "Cuthbertson and Cuthbertson 1936: n 0.2894-0.5462 µm"
+          path: "main/Ne/Cuthbertson.yml"
     - DIVIDER: "Ni - Nickel"
     - BOOK: Ni
       name: "Ni (Nickel)"
@@ -1947,8 +1965,14 @@
       name: "Xe (Xenon)"
       content:
         - PAGE: Bideau-Mehu
-          name: "Bideau-Mehu et al. 1981: n 0.1404-0.2537 µm"
+          name: "Bideau-Mehu et al. 1981: n 0.1404-0.6234 µm"
           path: "main/Xe/Bideau-Mehu.yml"
+        - PAGE: Koch
+          name: "Koch 1949: n 0.2302-0.6234 µm"
+          path: "main/Xe/Koch.yml"
+        - PAGE: Cuthbertson
+          name: "Cuthbertson and Cuthbertson 1910: n 0.4800-0.6708 µm"
+          path: "main/Xe/Cuthbertson.yml"
     - DIVIDER: "Yb - Ytterbium"
     - BOOK: Yb
       name: "Yb (Ytterbium)"
