@@ -83,6 +83,42 @@
         - PAGE: Cuthbertson
           name: "Cuthbertson and Cuthbertson 1910: n 0.4800-0.6708 µm"
           path: "main/Ar/Cuthbertson.yml"
+        - PAGE: Sinnock-solid-20K
+          name: "Sinnock and Smith 1969: Solid at 20 K; n 0.3612-0.6439 µm"
+          path: "main/Ar/Sinnock-solid-20K.yml"
+        - PAGE: Sinnock-solid-30K
+          name: "Sinnock and Smith 1969: Solid at 30 K; n 0.3612-0.6439 µm"
+          path: "main/Ar/Sinnock-solid-30K.yml"
+        - PAGE: Sinnock-solid-40K
+          name: "Sinnock and Smith 1969: Solid at 40 K; n 0.3612-0.6439 µm"
+          path: "main/Ar/Sinnock-solid-40K.yml"
+        - PAGE: Sinnock-solid-50K
+          name: "Sinnock and Smith 1969: Solid at 50 K; n 0.3612-0.6439 µm"
+          path: "main/Ar/Sinnock-solid-50K.yml"
+        - PAGE: Sinnock-solid-60K
+          name: "Sinnock and Smith 1969: Solid at 60 K; n 0.3612-0.6439 µm"
+          path: "main/Ar/Sinnock-solid-60K.yml"
+        - PAGE: Sinnock-solid-70K
+          name: "Sinnock and Smith 1969: Solid at 70 K; n 0.3612-0.6439 µm"
+          path: "main/Ar/Sinnock-solid-70K.yml"
+        - PAGE: Sinnock-solid-80K
+          name: "Sinnock and Smith 1969: Solid at 80 K; n 0.3612-0.6439 µm"
+          path: "main/Ar/Sinnock-solid-80K.yml"
+        - PAGE: Sinnock-solid-83.81K
+          name: "Sinnock and Smith 1969: Solid at 83.81 K; n 0.3612-0.6439 µm"
+          path: "main/Ar/Sinnock-solid-83.81K.yml"
+        - PAGE: Sinnock-liquid-83.81K
+          name: "Sinnock and Smith 1969: Liquid at 83.81 K; n 0.3612-0.6439 µm"
+          path: "main/Ar/Sinnock-liquid-83.81K.yml"
+        - PAGE: Sinnock-liquid-86K
+          name: "Sinnock and Smith 1969: Liquid at 86 K; n 0.3612-0.6439 µm"
+          path: "main/Ar/Sinnock-liquid-86K.yml"
+        - PAGE: Sinnock-liquid-88K
+          name: "Sinnock and Smith 1969: Liquid at 88 K; n 0.3612-0.6439 µm"
+          path: "main/Ar/Sinnock-liquid-88K.yml"
+        - PAGE: Sinnock-liquid-90K
+          name: "Sinnock and Smith 1969: Liquid at 90 K; n 0.3612-0.6439 µm"
+          path: "main/Ar/Sinnock-liquid-90K.yml"
     - DIVIDER: "As - Arsenides"
     - BOOK: AlAs
       name: "AlAs (Aluminium arsenide)"
@@ -812,6 +848,36 @@
         - PAGE: Cuthbertson
           name: "Cuthbertson and Cuthbertson 1910: n 0.4800-0.6708 µm"
           path: "main/Kr/Cuthbertson.yml"
+        - PAGE: Sinnock-solid-67K
+          name: "Sinnock and Smith 1969: Solid at 67 K; n 0.3631-0.6439 µm"
+          path: "main/Kr/Sinnock-solid-67K.yml"
+        - PAGE: Sinnock-solid-75K
+          name: "Sinnock and Smith 1969: Solid at 75 K; n 0.3631-0.6439 µm"
+          path: "main/Kr/Sinnock-solid-75K.yml"
+        - PAGE: Sinnock-solid-85K
+          name: "Sinnock and Smith 1969: Solid at 85 K; n 0.3631-0.6439 µm"
+          path: "main/Kr/Sinnock-solid-85K.yml"
+        - PAGE: Sinnock-solid-95K
+          name: "Sinnock and Smith 1969: Solid at 95 K; n 0.3631-0.6439 µm"
+          path: "main/Kr/Sinnock-solid-95K.yml"
+        - PAGE: Sinnock-solid-105K
+          name: "Sinnock and Smith 1969: Solid at 105 K; n 0.3631-0.6439 µm"
+          path: "main/Kr/Sinnock-solid-105K.yml"
+        - PAGE: Sinnock-solid-115.95K
+          name: "Sinnock and Smith 1969: Solid at 115.95 K; n 0.3631-0.6439 µm"
+          path: "main/Kr/Sinnock-solid-115.95K.yml"
+        - PAGE: Sinnock-liquid-115.95K
+          name: "Sinnock and Smith 1969: Liquid at 115.95 K; n 0.3631-0.6439 µm"
+          path: "main/Kr/Sinnock-liquid-115.95K.yml"
+        - PAGE: Sinnock-liquid-118K
+          name: "Sinnock and Smith 1969: Liquid at 118 K; n 0.3631-0.6439 µm"
+          path: "main/Kr/Sinnock-liquid-118K.yml"
+        - PAGE: Sinnock-liquid-122K
+          name: "Sinnock and Smith 1969: Liquid at 122 K; n 0.3631-0.6439 µm"
+          path: "main/Kr/Sinnock-liquid-122K.yml"
+        - PAGE: Sinnock-liquid-126K
+          name: "Sinnock and Smith 1969: Liquid at 126 K; n 0.3631-0.6439 µm"
+          path: "main/Kr/Sinnock-liquid-126K.yml"
     - DIVIDER: "Li - Lithium"
     - BOOK: Li
       name: "Li (Lithium)"
@@ -1973,6 +2039,48 @@
         - PAGE: Cuthbertson
           name: "Cuthbertson and Cuthbertson 1910: n 0.4800-0.6708 µm"
           path: "main/Xe/Cuthbertson.yml"
+        - PAGE: Sinnock-solid-80K
+          name: "Sinnock and Smith 1969: Solid at 80 K; n 0.3612-0.6439 µm"
+          path: "main/Xe/Sinnock-solid-80K.yml"
+        - PAGE: Sinnock-solid-90K
+          name: "Sinnock and Smith 1969: Solid at 90 K; n 0.3612-0.6439 µm"
+          path: "main/Xe/Sinnock-solid-90K.yml"
+        - PAGE: Sinnock-solid-100K
+          name: "Sinnock and Smith 1969: Solid at 100 K; n 0.3612-0.6439 µm"
+          path: "main/Xe/Sinnock-solid-100K.yml"
+        - PAGE: Sinnock-solid-110K
+          name: "Sinnock and Smith 1969: Solid at 110 K; n 0.3612-0.6439 µm"
+          path: "main/Xe/Sinnock-solid-110K.yml"
+        - PAGE: Sinnock-solid-120K
+          name: "Sinnock and Smith 1969: Solid at 120 K; n 0.3612-0.6439 µm"
+          path: "main/Xe/Sinnock-solid-120K.yml"
+        - PAGE: Sinnock-solid-130K
+          name: "Sinnock and Smith 1969: Solid at 130 K; n 0.3612-0.6439 µm"
+          path: "main/Xe/Sinnock-solid-130K.yml"
+        - PAGE: Sinnock-solid-140K
+          name: "Sinnock and Smith 1969: Solid at 140 K; n 0.3612-0.6439 µm"
+          path: "main/Xe/Sinnock-solid-140K.yml"
+        - PAGE: Sinnock-solid-150K
+          name: "Sinnock and Smith 1969: Solid at 150 K; n 0.3612-0.6439 µm"
+          path: "main/Xe/Sinnock-solid-150K.yml"
+        - PAGE: Sinnock-solid-161.35K
+          name: "Sinnock and Smith 1969: Solid at 161.35 K; n 0.3612-0.6439 µm"
+          path: "main/Xe/Sinnock-solid-161.35K.yml"
+        - PAGE: Sinnock-liquid-161.35K
+          name: "Sinnock and Smith 1969: Liquid at 161.35 K; n 0.3612-0.6439 µm"
+          path: "main/Xe/Sinnock-liquid-161.35K.yml"
+        - PAGE: Sinnock-liquid-166K
+          name: "Sinnock and Smith 1969: Liquid at 166 K; n 0.3612-0.6439 µm"
+          path: "main/Xe/Sinnock-liquid-166K.yml"
+        - PAGE: Sinnock-liquid-170K
+          name: "Sinnock and Smith 1969: Liquid at 170 K; n 0.3612-0.6439 µm"
+          path: "main/Xe/Sinnock-liquid-170K.yml"
+        - PAGE: Sinnock-liquid-174K
+          name: "Sinnock and Smith 1969: Liquid at 174 K; n 0.3612-0.6439 µm"
+          path: "main/Xe/Sinnock-liquid-174K.yml"
+        - PAGE: Sinnock-liquid-178K
+          name: "Sinnock and Smith 1969: Liquid at 178 K; n 0.3612-0.6439 µm"
+          path: "main/Xe/Sinnock-liquid-178K.yml"
     - DIVIDER: "Yb - Ytterbium"
     - BOOK: Yb
       name: "Yb (Ytterbium)"
@@ -5767,6 +5875,16 @@
 - SHELF: other
   name: "OTHER - miscellaneous materials"
   content:
+    - DIVIDER: "Mixed gases"
+    - BOOK: air
+      name: "Air"
+      content:
+        - PAGE: Ciddor
+          name: "Ciddor 1996: n 0.23-1.690 µm"
+          path: "other/mixed gases/air/Ciddor.yml"
+        - PAGE: Peck
+          name: "Peck and Reeder 1972: n 0.185-1.7 µm"
+          path: "other/mixed gases/air/Peck.yml"
     - DIVIDER: "Alloys"
     - BOOK: Au-Ag
       name: "Au-Ag (Gold-silver alloy)"
@@ -5975,13 +6093,6 @@
         - PAGE: Sultanova
           name: "Sultanova et al. 2009: n 0.4368-1.052 µm"
           path: "other/mixed organic/(C8H8)n-(C3H3N)m/Sultanova.yml"
-    - DIVIDER: "Mixed gases"
-    - BOOK: air
-      name: "Air"
-      content:
-        - PAGE: Ciddor
-          name: "Ciddor 1996: n 0.23-1.690 µm"
-          path: "other/mixed gases/air/Ciddor.yml"
     - DIVIDER: "Commercial plastics"
     - BOOK: CR-39
       name: "CR-39"

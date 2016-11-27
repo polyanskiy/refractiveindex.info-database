@@ -34,6 +34,10 @@
     main/Kr/Coch.yml
     main/Xe/Coch.yml
     main/CO2/Old.yml
+    other/mixed gases/air/Peck.yml
+    main/Ar/Sinnock*.yml (12 data sets for solid and liquid Ar at different temperatures)
+    main/Kr/Sinnock*.yml (10 data sets for solid and liquid Kr at different temperatures)
+    main/Xe/Sinnock*.yml (14 data sets for solid and liquid Xe at different temperatures)
   revised Hydrogen data (thanks to Donggyu Jang, Gwangju Institute of Science and Technology, South Korea!)
     -- main/H2/Leonard.yml
     ++ main/H2/Peck.yml
@@ -54,6 +58,7 @@
     main/Kr/Bideau-Mehu.yml: references, range, comments, info
     main/Xe/Bideau-Mehu.yml: references, range, comments, info
     main/CO2/Bideau-Mehu.yml: comments, info
+    other/mixed gases/air/Ciddor.yml: comments
   bug fixes
     library.yml: fixed "HIKARI-KF" book wrongly named "HIKARI-FK"
 
