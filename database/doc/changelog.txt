@@ -58,6 +58,12 @@
     main/Kr/Bideau-Mehu.yml: references, range, comments, info
     main/Xe/Bideau-Mehu.yml: references, range, comments, info
     main/CO2/Bideau-Mehu.yml: comments, info
+    organic/CH4 - methane/Loria.yml: comments, info
+    organic/CH4 - methane/Rollefson.yml: comments, info
+    organic/CH4 - methane/Martonchik-liquid-111K.yml: comments, info
+    organic/CH4 - methane/Martonchik-liquid-90K.yml: comments, info
+    organic/CH4 - methane/Martonchik-solid-90K.yml: comments, info
+    organic/CH4 - methane/Martonchik-solid-30K.yml: comments, info
     other/mixed gases/air/Ciddor.yml: comments
   bug fixes
     library.yml: fixed "HIKARI-KF" book wrongly named "HIKARI-FK"
