@@ -2110,10 +2110,10 @@
       name: "CH<sub>4</sub> (Methane)"
       content:
         - PAGE: Loria
-          name: "Loria 1909: Gas at 293 K; n 0.5290-0.6585 µm"
+          name: "Loria 1909: Gas at 0 °C; n 0.5290-0.6585 µm"
           path: "organic/CH4 - methane/Loria.yml"
         - PAGE: Rollefson
-          name: "Rollefson and Havens 1940: Gas; n 1.68-14.8 µm"
+          name: "Rollefson and Havens 1940: Gas at 0 °C; n 1.68-14.8 µm"
           path: "organic/CH4 - methane/Rollefson.yml"
         - PAGE: Martonchik-liquid-111K
           name: "Martonchik and Orton 1994: Liquid at 111 K; n,k 0.002-71.43 µm"
@@ -2189,7 +2189,7 @@
       name: "C<sub>2</sub>H<sub>2</sub> (Acetylene)"
       content:
         - PAGE: Loria
-          name: "Loria 1909: Gas at 293 K; n 0.5290-0.6585 µm"
+          name: "Loria 1909: Gas at 0 °C; n 0.5290-0.6585 µm"
           path: "organic/C2H2 - acetylene/Loria.yml"
     - DIVIDER: "Alcohols"
     - BOOK: methanol

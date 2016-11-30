@@ -58,6 +58,7 @@
     main/Kr/Bideau-Mehu.yml: references, range, comments, info
     main/Xe/Bideau-Mehu.yml: references, range, comments, info
     main/CO2/Bideau-Mehu.yml: comments, info
+    organic/C2H2 - acetylene/Loria.yml: comments, info
     organic/CH4 - methane/Loria.yml: comments, info
     organic/CH4 - methane/Rollefson.yml: comments, info
     organic/CH4 - methane/Martonchik-liquid-111K.yml: comments, info
