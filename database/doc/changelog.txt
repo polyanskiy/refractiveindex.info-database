@@ -1,4 +1,4 @@
-[next release]
+2016-12-03
   new data (thanks to Tomáš Halenkovič, University of Pardubice, Czech Republic!)
     main/Al2O3/Boidin.yml
   new data  (thanks to Elisa Sani)
