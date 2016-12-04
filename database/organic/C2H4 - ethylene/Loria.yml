@@ -6,8 +6,8 @@ REFERENCES: "S. Loria Über die Dispersion des Lichtes in gasförmigen Kohlenwas
 COMMENTS: "Standard conditions. 0 °C, 760 torr (101.325 kPa)."
 DATA:
   - type: formula 5
-    range: 0.5461 0.6708
-    coefficients: 1.00054242 7.8813626e-6 -2
+    range: 0.5230 0.6677
+    coefficients: 1.0006303 9.309531e-6 -2
 INFO:
     n_is_absolute: true
     temperature: 0 °C

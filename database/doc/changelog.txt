@@ -1,3 +1,8 @@
+[next release]
+  new data
+    organic/C2H4 - ethylene/Loria.yml
+    organic/C2H6 - ethane/Loria.yml
+
 2016-12-03
   new data (thanks to Tomáš Halenkovič, University of Pardubice, Czech Republic!)
     main/Al2O3/Boidin.yml

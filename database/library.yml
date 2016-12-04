@@ -2127,6 +2127,12 @@
         - PAGE: Martonchik-solid-30K
           name: "Martonchik and Orton 1994: Solid at 30 K; n,k 0.002-100 µm"
           path: "organic/CH4 - methane/Martonchik-solid-30K.yml"
+    - BOOK: ethane
+      name: "C<sub>2</sub>H<sub>6</sub> (Ethane)"
+      content:
+        - PAGE: Loria
+          name: "Loria 1909: Gas at 0 °C; n 0.5230-0.6677 µm"
+          path: "organic/C2H6 - ethane/Loria.yml"
     - BOOK: pentane
       name: "C<sub>5</sub>H<sub>12</sub> (Pentane)"
       content:
@@ -2190,7 +2196,14 @@
       content:
         - PAGE: Loria
           name: "Loria 1909: Gas at 0 °C; n 0.5290-0.6585 µm"
-          path: "organic/C2H2 - acetylene/Loria.yml"
+          path: "organic/C2H2 - acetylene/Loria.yml" - DIVIDER: "Alkynes"
+    - DIVIDER: "Alkenes"
+    - BOOK: ethylene
+      name: "C<sub>2</sub>H<sub>4</sub> (Ethylene)"
+      content:
+        - PAGE: Loria
+          name: "Loria 1909: Gas at 0 °C; n 0.5230-0.6677 µm"
+          path: "organic/C2H4 - ethylene/Loria.yml"
     - DIVIDER: "Alcohols"
     - BOOK: methanol
       name: "CH<sub>3</sub>OH (Methanol)"
