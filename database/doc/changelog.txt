@@ -2,6 +2,9 @@
   new data
     organic/C2H4 - ethylene/Loria.yml
     organic/C2H6 - ethane/Loria.yml
+    main/NaI/Jellison.yml
+  updates
+    main/NaI/Li.yml: comments, info
 
 2016-12-03
   new data (thanks to Tomáš Halenkovič, University of Pardubice, Czech Republic!)

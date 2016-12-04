@@ -797,6 +797,9 @@
     - BOOK: NaI
       name: "NaI (Sodium iodide)"
       content:
+        - PAGE: Jellison
+          name: "Jellison et al. 2012: n 0.436-0.633 µm"
+          path: "main/NaI/Jellison.yml"
         - PAGE: Li
           name: "Li 1976: n 0.25-40 µm"
           path: "main/NaI/Li.yml"
