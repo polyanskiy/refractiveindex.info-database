@@ -5971,73 +5971,101 @@
         - PAGE: Golovashkin-78
           name: "Golovashkin et al. 1970: n,k 0.45-2.6 µm; 78 K"
           path: "other/alloys/V-Ga/Golovashkin-78.yml"
-    - DIVIDER: "Mixed crystals"
-    - BOOK: AlGaAs
-      name: "AlGaAs (Aluminium gallium arsenide)"
+    - DIVIDER: "Semiconductor alloys"
+    - BOOK: AlAs-GaAs
+      name: "AlAs-GaAs (Aluminium gallium arsenide, AlGaAs)"
       content:
         - PAGE: Aspnes-0
           name: "Aspnes et al. 1986: n,k 0.21-0.83 µm; 0% Al"
-          path: "other/mixed crystals/AlGaAs/Aspnes-0.yml"
+          path: "other/semiconductor alloys/AlAs-GaAs/Aspnes-0.yml"
         - PAGE: Aspnes-9.9
           name: "Aspnes et al. 1986: n,k 0.21-0.83 µm; 9.9% Al"
-          path: "other/mixed crystals/AlGaAs/Aspnes-9.9.yml"
+          path: "other/mixed crystals/AlAs-GaAs/Aspnes-9.9.yml"
         - PAGE: Aspnes-19.8
           name: "Aspnes et al. 1986: n,k 0.21-0.83 µm; 19.8% Al"
-          path: "other/mixed crystals/AlGaAs/Aspnes-19.8.yml"
+          path: "other/semiconductor alloys/AlAs-GaAs/Aspnes-19.8.yml"
         - PAGE: Aspnes-31.5
           name: "Aspnes et al. 1986: n,k 0.21-0.83 µm; 31.5% Al"
-          path: "other/mixed crystals/AlGaAs/Aspnes-31.5.yml"
+          path: "other/semiconductor alloys/AlAs-GaAs/Aspnes-31.5.yml"
         - PAGE: Aspnes-41.9
           name: "Aspnes et al. 1986: n,k 0.21-0.83 µm; 41.9% Al"
-          path: "other/mixed crystals/AlGaAs/Aspnes-41.9.yml"
+          path: "other/semiconductor alloys/AlAs-GaAs/Aspnes-41.9.yml"
         - PAGE: Aspnes-49.1
           name: "Aspnes et al. 1986: n,k 0.21-0.83 µm; 49.1% Al"
-          path: "other/mixed crystals/AlGaAs/Aspnes-49.1.yml"
+          path: "other/semiconductor alloys/AlAs-GaAs/Aspnes-49.1.yml"
         - PAGE: Aspnes-59.0
           name: "Aspnes et al. 1986: n,k 0.21-0.83 µm; 59.0% Al"
-          path: "other/mixed crystals/AlGaAs/Aspnes-59.0.yml"
+          path: "other/semiconductor alloys/AlAs-GaAs/Aspnes-59.0.yml"
         - PAGE: Aspnes-70.0
           name: "Aspnes et al. 1986: n,k 0.21-0.83 µm; 70.0% Al"
-          path: "other/mixed crystals/AlGaAs/Aspnes-70.0.yml"
+          path: "other/semiconductor alloys/AlAs-GaAs/Aspnes-70.0.yml"
         - PAGE: Aspnes-80.4
           name: "Aspnes et al. 1986: n,k 0.21-0.83 µm; 80.4% Al"
-          path: "other/mixed crystals/AlGaAs/Aspnes-80.4.yml"
-    - BOOK: AlGaSb
-      name: "AlGaSb (Aluminium gallium antimonide)"
+          path: "other/semiconductor alloys/AlAs-GaAs/Aspnes-80.4.yml"
+    - BOOK: AlSb-GaSb
+      name: "AlSb-GaSb (Aluminium gallium antimonide, AlGaSb)"
       content:
         - PAGE: Ferrini-0
           name: "Ferrini et al. 1998: n,k 0.207-2.480 µm; 0% Al"
-          path: "other/mixed crystals/AlGaSb/Ferrini-0.yml"
+          path: "other/semiconductor alloys/AlSb-GaSb/Ferrini-0.yml"
         - PAGE: Ferrini-10
           name: "Ferrini et al. 1998: n,k 0.207-2.480 µm; 10% Al"
-          path: "other/mixed crystals/AlGaSb/Ferrini-10.yml"
+          path: "other/semiconductor alloys/AlSb-GaSb/Ferrini-10.yml"
         - PAGE: Ferrini-30
           name: "Ferrini et al. 1998: n,k 0.207-2.480 µm; 30% Al"
-          path: "other/mixed crystals/AlGaSb/Ferrini-30.yml"
+          path: "other/semiconductor alloys/AlSb-GaSb/Ferrini-30.yml"
         - PAGE: Ferrini-50
           name: "Ferrini et al. 1998: n,k 0.207-2.480 µm; 50% Al"
-          path: "other/mixed crystals/AlGaSb/Ferrini-50.yml"
-    - BOOK: AlON
-      name: "AlON (Aluminium oxynitride, ALON)"
+          path: "other/semiconductor alloys/AlSb-GaSb/Ferrini-50.yml"
+    - BOOK: AlN-Al2O3
+      name: "AlN-Al<sub>2</sub>O<sub>3</sub> (Aluminium oxynitride, ALON)"
       content:
         - PAGE: Hartnett-6.69
           name: "Hartnett et al. 1998: 6.69 at.% N; n 0.24-5.6 µm"
-          path: "other/mixed crystals/AlON/Hartnett-6.69.yml"
+          path: "other/semiconductor alloys/AlN-Al2O3/Hartnett-6.69.yml"
         - PAGE: Hartnett-5.88
           name: "Hartnett et al. 1998: 5.88 at.% N; n,k 0.24-5.6 µm"
-          path: "other/mixed crystals/AlON/Hartnett-5.88.yml"
+          path: "other/semiconductor alloys/AlN-Al2O3/Hartnett-5.88.yml"
         - PAGE: Hartnett-6.53
           name: "Hartnett et al. 1998: 6.53 at.% N; n,k 0.24-5.6 µm"
-          path: "other/mixed crystals/AlON/Hartnett-6.53.yml"
+          path: "other/semiconductor alloys/AlN-Al2O3/Hartnett-6.53.yml"
         - PAGE: Hartnett-7.17
           name: "Hartnett et al. 1998: 7.17 at.% N; n,k 0.24-5.6 µm"
-          path: "other/mixed crystals/AlON/Hartnett-7.17.yml"
-    - BOOK: GaInP
-      name: "GaInP (Gallium indium phosphide)"
+          path: "other/semiconductor alloys/AlN-Al2O3/Hartnett-7.17.yml"
+    - BOOK: GaP-InP
+      name: "GaP-InP (Gallium indium phosphide, GaInP)"
       content:
         - PAGE: Schubert
           name: "Schubert et al. 1995: n,k 0.250-0.954 µm"
-          path: "other/mixed crystals/GaInP/Schubert.yml"
+          path: "other/semiconductor alloys/GaP-InP/Schubert.yml"
+    - BOOK: Si-Ge
+      name: "Si-Ge (Silicon-germanium, SiGe)"
+      content:
+        - PAGE: Jellison-11
+          name: "Jellison et al. 1993: 11% Si, thin film on Ge; n,k 0.24-0.84 µm"
+          path: "other/semiconductor alloys/Si-Ge/Jellison-11.yml"
+        - PAGE: Jellison-20
+          name: "Jellison et al. 1993: 20% Si, thin film on Ge; n,k 0.24-0.84 µm"
+          path: "other/semiconductor alloys/Si-Ge/Jellison-20.yml"
+        - PAGE: Jellison-28
+          name: "Jellison et al. 1993: 28% Si, thin film on Ge; n,k 0.24-0.84 µm"
+          path: "other/semiconductor alloys/Si-Ge/Jellison-28.yml"
+        - PAGE: Jellison-48
+          name: "Jellison et al. 1993: 48% Si, thin film on Ge; n,k 0.24-0.84 µm"
+          path: "other/semiconductor alloys/Si-Ge/Jellison-48.yml"
+        - PAGE: Jellison-47
+          name: "Jellison et al. 1993: 47% Si, thin film on Si; n,k 0.24-0.84 µm"
+          path: "other/semiconductor alloys/Si-Ge/Jellison-47.yml"
+        - PAGE: Jellison-65
+          name: "Jellison et al. 1993: 65% Si, thin film on Si; n,k 0.24-0.84 µm"
+          path: "other/semiconductor alloys/Si-Ge/Jellison-65.yml"
+        - PAGE: Jellison-85
+          name: "Jellison et al. 1993: 85% Si, thin film on Si; n,k 0.24-0.84 µm"
+          path: "other/semiconductor alloys/Si-Ge/Jellison-85.yml"
+        - PAGE: Jellison-98
+          name: "Jellison et al. 1993: 98% Si, thin film on Si; n,k 0.24-0.84 µm"
+          path: "other/semiconductor alloys/Si-Ge/Jellison-98.yml"
+    - DIVIDER: "Mixed crystals"
     - BOOK: HfO2-Y2O3
       name: "HfO<sub>2</sub>-Y<sub>2</sub>O<sub>3</sub> (Hafnium dioxide - Yttrium oxide)"
       content:
