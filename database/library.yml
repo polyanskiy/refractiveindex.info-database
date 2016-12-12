@@ -6042,28 +6042,28 @@
       name: "Si-Ge (Silicon-germanium, SiGe)"
       content:
         - PAGE: Jellison-11
-          name: "Jellison et al. 1993: 11% Si, thin film on Ge; n,k 0.24-0.84 µm"
+          name: "Jellison et al. 1993: 11% Si, Ge substrate; n,k 0.24-0.84 µm"
           path: "other/semiconductor alloys/Si-Ge/Jellison-11.yml"
         - PAGE: Jellison-20
-          name: "Jellison et al. 1993: 20% Si, thin film on Ge; n,k 0.24-0.84 µm"
+          name: "Jellison et al. 1993: 20% Si, Ge substrate; n,k 0.24-0.84 µm"
           path: "other/semiconductor alloys/Si-Ge/Jellison-20.yml"
         - PAGE: Jellison-28
-          name: "Jellison et al. 1993: 28% Si, thin film on Ge; n,k 0.24-0.84 µm"
+          name: "Jellison et al. 1993: 28% Si, Ge substrate; n,k 0.24-0.84 µm"
           path: "other/semiconductor alloys/Si-Ge/Jellison-28.yml"
         - PAGE: Jellison-48
-          name: "Jellison et al. 1993: 48% Si, thin film on Ge; n,k 0.24-0.84 µm"
+          name: "Jellison et al. 1993: 48% Si, Ge substrate; n,k 0.24-0.84 µm"
           path: "other/semiconductor alloys/Si-Ge/Jellison-48.yml"
         - PAGE: Jellison-47
-          name: "Jellison et al. 1993: 47% Si, thin film on Si; n,k 0.24-0.84 µm"
+          name: "Jellison et al. 1993: 47% Si, Si substrate; n,k 0.24-0.84 µm"
           path: "other/semiconductor alloys/Si-Ge/Jellison-47.yml"
         - PAGE: Jellison-65
-          name: "Jellison et al. 1993: 65% Si, thin film on Si; n,k 0.24-0.84 µm"
+          name: "Jellison et al. 1993: 65% Si, Si substrate; n,k 0.24-0.84 µm"
           path: "other/semiconductor alloys/Si-Ge/Jellison-65.yml"
         - PAGE: Jellison-85
-          name: "Jellison et al. 1993: 85% Si, thin film on Si; n,k 0.24-0.84 µm"
+          name: "Jellison et al. 1993: 85% Si, Si substrate; n,k 0.24-0.84 µm"
           path: "other/semiconductor alloys/Si-Ge/Jellison-85.yml"
         - PAGE: Jellison-98
-          name: "Jellison et al. 1993: 98% Si, thin film on Si; n,k 0.24-0.84 µm"
+          name: "Jellison et al. 1993: 98% Si, Si substrate; n,k 0.24-0.84 µm"
           path: "other/semiconductor alloys/Si-Ge/Jellison-98.yml"
     - DIVIDER: "Mixed crystals"
     - BOOK: HfO2-Y2O3
