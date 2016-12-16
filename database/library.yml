@@ -2199,7 +2199,7 @@
       content:
         - PAGE: Loria
           name: "Loria 1909: Gas at 0 °C; n 0.5290-0.6585 µm"
-          path: "organic/C2H2 - acetylene/Loria.yml" - DIVIDER: "Alkynes"
+          path: "organic/C2H2 - acetylene/Loria.yml"
     - DIVIDER: "Alkenes"
     - BOOK: ethylene
       name: "C<sub>2</sub>H<sub>4</sub> (Ethylene)"

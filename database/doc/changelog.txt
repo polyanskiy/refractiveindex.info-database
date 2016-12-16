@@ -1,10 +1,4 @@
 [next release]
-  data re-arrangement
-    new folder: "other/mixed crystals"
-    other/mixed crystals/AlGaAs ---> other/semiconductor alloys/AlAs-GaAs
-    other/mixed crystals/AlON ---> other/semiconductor alloys/AlN-Al2O3
-    other/mixed crystals/AlGaSb ---> other/semiconductor alloys/AlSb-GaSb
-    other/mixed crystals/GaInP ---> other/semiconductor alloys/GaP-InP 
   new data
     organic/C2H4 - ethylene/Loria.yml
     organic/C2H6 - ethane/Loria.yml
@@ -19,6 +13,14 @@
     other/semiconductor alloys/Si-Ge/Jellison-98.yml
   updates
     main/NaI/Li.yml: comments, info
+    main/N2/Griesmann.yml: comments, info
+    main/SiO2/Malitson.yml: comments, info
+  data re-arrangement
+    new folder: "other/mixed crystals"
+    other/mixed crystals/AlGaAs ---> other/semiconductor alloys/AlAs-GaAs
+    other/mixed crystals/AlON ---> other/semiconductor alloys/AlN-Al2O3
+    other/mixed crystals/AlGaSb ---> other/semiconductor alloys/AlSb-GaSb
+    other/mixed crystals/GaInP ---> other/semiconductor alloys/GaP-InP 
 
 2016-12-03
   new data (thanks to Tomáš Halenkovič, University of Pardubice, Czech Republic!)
