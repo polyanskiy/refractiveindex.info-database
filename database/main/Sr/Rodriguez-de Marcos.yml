@@ -2,7 +2,7 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "L. Rodríguez-de Marcos, J. I. Larruquert, J. A. Aznárez, M. Vidal-Dasilva1, S. García-Cortés, J. A. Méndez, L. Poletto, F. Frassetto, A. M. Malvezzi, D. Bajoni, A. Giglia, N. Mahne, S. Nannarone. Transmittance and optical constants of Sr films in the 6-1220 eV spectral range, <a href=\"http://dx.doi.org/10.1063/1.4729487\"><i>J. Appl. Phys.</i> <b>111</b>, 113533 (2012)</a> (Numerical data kindly provided by Juan Larruquert)"
+REFERENCES: "L. Rodríguez-de Marcos, J. I. Larruquert, J. A. Aznárez, M. Vidal-Dasilva1, S. García-Cortés, J. A. Méndez, L. Poletto, F. Frassetto, A. M. Malvezzi, D. Bajoni, A. Giglia, N. Mahne, S. Nannarone. Transmittance and optical constants of Sr films in the 6-1220 eV spectral range, <a href=\"https://doi.org/10.1063/1.4729487\"><i>J. Appl. Phys.</i> <b>111</b>, 113533 (2012)</a> (Numerical data kindly provided by Juan Larruquert)"
 COMMENTS: "Density: 2.58 g/cm<sup>3</sup>"
 DATA:
   - type: tabulated nk

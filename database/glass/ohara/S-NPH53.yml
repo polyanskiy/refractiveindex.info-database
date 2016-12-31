@@ -5,7 +5,7 @@
 REFERENCES: "1) <a href=\"http://refractiveindex.info/download/data/2015/ohara_2015-12-01.pdf\">OHARA optical glass datasheets 2015-12-01</a><br>2) <a href=\"http://refractiveindex.info/download/data/2015/OHARA_151201.agf\">OHARA Zemax catalog 2015-12-01</a>"
 COMMENTS: "Improved XMT at 370-420"
 DATA:
-  - type: formula 2 
+  - type: formula 2
     range: 0.36 2.4
     coefficients: 0 1.85484904 0.0134621486 0.396194484 0.0631945361 2.43512461 170.864886
   - type: tabulated k

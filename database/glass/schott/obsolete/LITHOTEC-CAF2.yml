@@ -5,7 +5,7 @@
 REFERENCES: "<a href=\"http://refractiveindex.info/download/data/2015/schottzemax-20150722.agf\">SCHOTT Zemax catalog 2015-07-22</a>"
 COMMENTS: "obsolet"
 DATA:
-  - type: formula 2 
+  - type: formula 2
     range: 0.25 2.5
     coefficients: 0 0.617617011 0.00275381936 0.421117656 0.0105900875 3.79711183 1182.67444
   - type: tabulated k

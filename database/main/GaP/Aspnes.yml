@@ -2,7 +2,7 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "D.E. Aspnes and A. A. Studna. Dielectric functions and optical parameters of Si, Ge, GaP, GaAs, GaSb, InP, InAs, and InSb from 1.5 to 6.0 eV, <a href=\"http://dx.doi.org/10.1103/PhysRevB.27.985\"><i>Phys. Rev. B</i> <b>27</b>, 985-1009 (1983)</a>"
+REFERENCES: "D.E. Aspnes and A. A. Studna. Dielectric functions and optical parameters of Si, Ge, GaP, GaAs, GaSb, InP, InAs, and InSb from 1.5 to 6.0 eV, <a href=\"https://doi.org/10.1103/PhysRevB.27.985\"><i>Phys. Rev. B</i> <b>27</b>, 985-1009 (1983)</a>"
 COMMENTS: "Crysal orientation: <110>; Undoped; Room temperature"
 DATA:
   - type: tabulated nk

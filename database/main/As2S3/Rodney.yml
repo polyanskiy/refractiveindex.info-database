@@ -2,7 +2,7 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "W. S. Rodney, I. H. Malitson, and T. A. King. Refractive index of arsenic trisulfide, <a href=\"http://dx.doi.org/10.1364/JOSA.48.000633\"><i>J. Opt. Soc. Am.</i> <b>48</b>, 633-635 (1958)</a>"
+REFERENCES: "W. S. Rodney, I. H. Malitson, and T. A. King. Refractive index of arsenic trisulfide, <a href=\"https://doi.org/10.1364/JOSA.48.000633\"><i>J. Opt. Soc. Am.</i> <b>48</b>, 633-635 (1958)</a>"
 COMMENTS: "25 °C"
 DATA:
   - type: formula 2

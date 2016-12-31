@@ -1,5 +1,38 @@
 [next release]
   new data
+    main/CuO/Brimhall.ym
+    main/Ag/Werner.yml
+    main/Ag/Werner-DFT.yml
+    main/Au/Werner.yml
+    main/Au/Werner-DFT.yml
+    main/Cu/Werner.yml
+    main/Cu/Werner-DFT.yml
+    main/Ni/Werner.yml
+    main/Ni/Werner-DFT.yml
+    main/Pb/Werner.yml
+    main/Pb/Werner-DFT.yml
+    main/Pt/Werner.yml
+    main/Pt/Werner-DFT.yml
+    main/Pd/Werner.yml
+    main/Pd/Werner-DFT.yml
+    main/Fe/Werner.yml
+    main/Fe/Werner-DFT.yml
+    main/Mo/Werner.yml
+    main/Mo/Werner-DFT.yml
+    main/Ta/Werner.yml
+    main/Ta/Werner-DFT.yml
+    main/V/Werner.yml
+    main/V/Werner-DFT.yml
+    main/W/Werner.yml
+    main/W/Werner-DFT.yml
+    main/Co/Werner.yml
+    main/Co/Werner-DFT.yml
+    main/Ti/Werner.yml
+    main/Ti/Werner-DFT.yml
+    main/Zn/Werner.yml
+    main/Zn/Werner-DFT.yml
+    main/Bi/Werner.yml
+    main/Bi/Werner-DFT.yml
     organic/C2H4 - ethylene/Loria.yml
     organic/C2H6 - ethane/Loria.yml
     main/NaI/Jellison.yml
@@ -20,7 +53,12 @@
     other/mixed crystals/AlGaAs ---> other/semiconductor alloys/AlAs-GaAs
     other/mixed crystals/AlON ---> other/semiconductor alloys/AlN-Al2O3
     other/mixed crystals/AlGaSb ---> other/semiconductor alloys/AlSb-GaSb
-    other/mixed crystals/GaInP ---> other/semiconductor alloys/GaP-InP 
+    other/mixed crystals/GaInP ---> other/semiconductor alloys/GaP-InP
+  miscellaneous
+    pages arranged in the reverse chronological order in library.yml
+    "http://dx.doi.org" replaced by "https://doi.org" in all references
+    removed spaces at the end of lines in all files
+    removed newline symbols at the end of all files
 
 2016-12-03
   new data (thanks to Tomáš Halenkovič, University of Pardubice, Czech Republic!)
@@ -67,7 +105,7 @@
     ++ main/H2/Peck.yml
     ++ main/H2/Koch.yml
   modified (re-formatted) data
-    -- organic/C2H6O2 - ethylene glycol/Sani_and_Otanicar.yml 
+    -- organic/C2H6O2 - ethylene glycol/Sani_and_Otanicar.yml
     ++ organic/C2H6O2 - ethylene glycol/Otanicar.yml - only Otanicar's absorption data
     ++ organic/C3H8O - propanol/Sani-formula.yml - dispersion formula for vis/NIR + Sani's absorption data for the range of formula validity
   updates
@@ -254,7 +292,7 @@
   other
     library.yml: Improved classification of organic compounds (alcohols -> alcohols, diols and triols)
     library.yml: Amyl alcohol renamed to Pentanol
-  
+
 2015-05-24
   new data (thanks to Elisa Sani, National Institute of Optics, Firenze, Italy)
     organic/C2H6O2 - ethylene glycol/Sani.yml

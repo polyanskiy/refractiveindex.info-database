@@ -4,7 +4,7 @@
 
 REFERENCES: "1) <a href=\"http://refractiveindex.info/download/data/2015/schott-optical-glass-collection-datasheets-july-2015-us.pdf\">SCHOTT optical glass data sheets 2015-07-22</a><br>2) <a href=\"http://refractiveindex.info/download/data/2015/schottzemax-20150722.agf\">SCHOTT Zemax catalog 2015-07-22</a>"
 DATA:
-  - type: formula 2 
+  - type: formula 2
     range: 0.29 2.5
     coefficients: 0 0.888308131 0.00516900822 0.328964475 0.0161190045 0.984610769 99.7575331
   - type: tabulated k

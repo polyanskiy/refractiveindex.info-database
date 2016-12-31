@@ -2,7 +2,7 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "F. Lemarchand, <i>private communications</i> (2013). Index determination is performed using method explained in:<br>L. Gao, F. Lemarchand, and M. Lequime. Comparison of different dispersion models for single layer optical thin film index determination, <a href=\"http://dx.doi.org/10.1016/j.tsf.2011.07.028\"><i>Thin Solid Films</i> <b>520</b>, 501-509 (2011)</a>"
+REFERENCES: "F. Lemarchand, <i>private communications</i> (2013). Index determination is performed using method explained in:<br>L. Gao, F. Lemarchand, and M. Lequime. Comparison of different dispersion models for single layer optical thin film index determination, <a href=\"https://doi.org/10.1016/j.tsf.2011.07.028\"><i>Thin Solid Films</i> <b>520</b>, 501-509 (2011)</a>"
 COMMENTS: "11.7-nm monolayer deposited using the magnetron sputtering technique; thicknesses determined by X-ray diffraction."
 DATA:
   - type: tabulated nk

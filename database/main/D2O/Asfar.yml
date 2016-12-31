@@ -2,7 +2,7 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "M. N. Afsar and J. B. Hasted. Measurements of the optical constants of liquid H<sub>2</sub>O and D<sub>2</sub>O between 6 and 450 cm<sup>−1</sup>, <a href=\"http://dx.doi.org/10.1364/JOSA.67.000902\"><i>J. Opt. Soc. Am.</i> <b>67</b>, 902-904 (1977)</a>"
+REFERENCES: "M. N. Afsar and J. B. Hasted. Measurements of the optical constants of liquid H<sub>2</sub>O and D<sub>2</sub>O between 6 and 450 cm<sup>−1</sup>, <a href=\"https://doi.org/10.1364/JOSA.67.000902\"><i>J. Opt. Soc. Am.</i> <b>67</b>, 902-904 (1977)</a>"
 COMMENTS: "Heavy water (D<sub>2</sub>O) at 19.5 °C"
 DATA:
   - type: tabulated nk

@@ -2,7 +2,7 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "R. L. Olmon, B. Slovick, T. W. Johnson, D. Shelton, S.-H. Oh, G. D. Boreman, and M. B. Raschke. Optical dielectric function of gold, <a href=\"http://dx.doi.org/10.1103/PhysRevB.86.235147\"><i>Phys Rev. B</i> <b>86</b>, 235147 (2012)</a> (see Supplemental Material for numerical data)"
+REFERENCES: "R. L. Olmon, B. Slovick, T. W. Johnson, D. Shelton, S.-H. Oh, G. D. Boreman, and M. B. Raschke. Optical dielectric function of gold, <a href=\"https://doi.org/10.1103/PhysRevB.86.235147\"><i>Phys Rev. B</i> <b>86</b>, 235147 (2012)</a> (see Supplemental Material for numerical data)"
 COMMENTS: "Single-crystal gold"
 DATA:
   - type: tabulated nk

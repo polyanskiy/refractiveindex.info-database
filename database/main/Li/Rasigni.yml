@@ -2,7 +2,7 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "M. Rasigni and G. Rasigni. Optical constants of lithium deposits as determined from the Kramers-Kronig analysis, <a href=\"http://dx.doi.org/10.1364/JOSA.67.000054\"><i>J. Opt. Soc. Am.</i> <b>67</b>, 54-59 (1977)</a>"
+REFERENCES: "M. Rasigni and G. Rasigni. Optical constants of lithium deposits as determined from the Kramers-Kronig analysis, <a href=\"https://doi.org/10.1364/JOSA.67.000054\"><i>J. Opt. Soc. Am.</i> <b>67</b>, 54-59 (1977)</a>"
 DATA:
   - type: tabulated nk
     data: |

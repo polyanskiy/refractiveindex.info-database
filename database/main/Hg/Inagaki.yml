@@ -2,7 +2,7 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "T. Inagaki, E. T. Arakawa, and M. W. Williams. Optical properties of liquid mercury, <a href=\"http://dx.doi.org/10.1103/PhysRevB.23.5246\"><i>Phys. Rev. B</i> <b>23</b>, 5246-5262 (1981)</a>"
+REFERENCES: "T. Inagaki, E. T. Arakawa, and M. W. Williams. Optical properties of liquid mercury, <a href=\"https://doi.org/10.1103/PhysRevB.23.5246\"><i>Phys. Rev. B</i> <b>23</b>, 5246-5262 (1981)</a>"
 COMMENTS: "Liquid mercury at room temperature"
 DATA:
   - type: tabulated nk

@@ -2,7 +2,7 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "M. Fernández-Perea, J. I. Larruquert, J. A. Aznárez, J. A. Méndez, L. Poletto, F. Frassetto, A. M. Malvezzi, D. Bajoni, A. Giglia, N. Mahne and S. Nannarone. Transmittance and optical constants of Ho films in the 3-1340 eV spectral range, <a href=\"http://dx.doi.org/10.1063/1.3556451\"><i>J. Appl. Phys.</i> <b>109</b>, 083525 (2011)</a> (Numerical data kindly provided by Juan Larruquert)"
+REFERENCES: "M. Fernández-Perea, J. I. Larruquert, J. A. Aznárez, J. A. Méndez, L. Poletto, F. Frassetto, A. M. Malvezzi, D. Bajoni, A. Giglia, N. Mahne and S. Nannarone. Transmittance and optical constants of Ho films in the 3-1340 eV spectral range, <a href=\"https://doi.org/10.1063/1.3556451\"><i>J. Appl. Phys.</i> <b>109</b>, 083525 (2011)</a> (Numerical data kindly provided by Juan Larruquert)"
 COMMENTS: "Density: 8.33 g/cm<sup>3</sup>"
 DATA:
   - type: tabulated nk

@@ -2,7 +2,7 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "A. B. Djurišić and; E. H. Li. Optical properties of graphite, <a href=\"http://dx.doi.org/ 10.1063/1.369370\"><i>J. Appl. Phys.</i> <b>85</b>, 7404-7410 (1999)</a>"
+REFERENCES: "A. B. Djurišić and; E. H. Li. Optical properties of graphite, <a href=\"https://doi.org/ 10.1063/1.369370\"><i>J. Appl. Phys.</i> <b>85</b>, 7404-7410 (1999)</a>"
 COMMENTS: "Graphite. Extraordinary ray (e). Critical analysis and fit of the experimental data from several sources to a modified Lorentz-Drude (LD) model.<br>[<a href=\"http://refractiveindex.info/download/data/1999/Djurisic 1999 - Graphite - e.sce\">Calculation script (Scilab)</a>]"
 DATA:
   - type: tabulated nk

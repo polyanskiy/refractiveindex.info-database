@@ -2,7 +2,7 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "L. Rodríguez-de Marcos, J. I. Larruquert, J. A. Aznárez, M. Fernández-Perea, R. Soufli, J. A. Méndez, S. L. Baker, E. M. Gullikson. Optical constants of SrF<sub>2</sub> thin films in the 25–780-eV spectral range, <a href=\"http://dx.doi.org/10.1063/1.4800099\"><i>J. Appl. Phys.</i> <b>113</b>, 143501 (2013)</a> (Numerical data kindly provided by Juan Larruquert)"
+REFERENCES: "L. Rodríguez-de Marcos, J. I. Larruquert, J. A. Aznárez, M. Fernández-Perea, R. Soufli, J. A. Méndez, S. L. Baker, E. M. Gullikson. Optical constants of SrF<sub>2</sub> thin films in the 25–780-eV spectral range, <a href=\"https://doi.org/10.1063/1.4800099\"><i>J. Appl. Phys.</i> <b>113</b>, 143501 (2013)</a> (Numerical data kindly provided by Juan Larruquert)"
 COMMENTS: "Density: 3.98 g/cm<sup>3</sup>"
 DATA:
   - type: tabulated nk

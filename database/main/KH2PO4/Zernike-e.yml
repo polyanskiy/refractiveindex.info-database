@@ -2,7 +2,7 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "F. Zernike, Jr. Refractive Indices of Ammonium Dihydrogen Phosphate and Potassium Dihydrogen Phosphate between 2000 Å and 1.5 µ, <a href=\"http://dx.doi.org/10.1364/JOSA.54.001215\"><i>J. Opt. Soc. Am.</i> <b>54</b>, 1215-1219 (1964)</a>. Cited in Handbook of Optics, 3rd edition, Vol. 4. McGraw-Hill 2009."
+REFERENCES: "F. Zernike, Jr. Refractive Indices of Ammonium Dihydrogen Phosphate and Potassium Dihydrogen Phosphate between 2000 Å and 1.5 µ, <a href=\"https://doi.org/10.1364/JOSA.54.001215\"><i>J. Opt. Soc. Am.</i> <b>54</b>, 1215-1219 (1964)</a>. Cited in Handbook of Optics, 3rd edition, Vol. 4. McGraw-Hill 2009."
 COMMENTS: "24.8 °C. Extraordinary ray (e)."
 DATA:
   - type: formula 4

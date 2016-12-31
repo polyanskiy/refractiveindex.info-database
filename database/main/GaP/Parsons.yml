@@ -2,7 +2,7 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "D. F. Parsons and P. D. Coleman. Far infrared optical constants of gallium phosphide. <a href=\"http://dx.doi.org/10.1364/AO.10.1683_1\"><i>Appl. Opt.</i> <b>10</b>, 1683_1-1685 (1971)</a>"
+REFERENCES: "D. F. Parsons and P. D. Coleman. Far infrared optical constants of gallium phosphide. <a href=\"https://doi.org/10.1364/AO.10.1683_1\"><i>Appl. Opt.</i> <b>10</b>, 1683_1-1685 (1971)</a>"
 COMMENTS: "Room temperature"
 DATA:
   - type: tabulated n

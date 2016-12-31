@@ -2,7 +2,7 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "K. M. McPeak, S. V. Jayanti, S. J. P. Kress, S. Meyer, S. Iotti, A. Rossinelli, and D. J. Norris. Plasmonic films can easily be better: Rules and recipes, <a href=\"http://dx.doi.org/10.1021/ph5004237\"><i>ACS Photonics</i> <b>2</b>, 326-333 (2015)</a>"
+REFERENCES: "K. M. McPeak, S. V. Jayanti, S. J. P. Kress, S. Meyer, S. Iotti, A. Rossinelli, and D. J. Norris. Plasmonic films can easily be better: Rules and recipes, <a href=\"https://doi.org/10.1021/ph5004237\"><i>ACS Photonics</i> <b>2</b>, 326-333 (2015)</a>"
 COMMENTS: "Thermally evaporated Ag at 50 Å/s with base pressure of 3e-8 Torr, template stripped from Si wafer"
 DATA:
   - type: tabulated nk

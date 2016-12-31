@@ -2,7 +2,7 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "J. Kischkat, S. Peters, B. Gruska, M. Semtsiv, M. Chashnikova, M. Klinkmüller, O. Fedosenko, S. Machulik, A. Aleksandrova, G. Monastyrskyi, Y. Flores, and W. T. Masselink. Mid-infrared optical properties of thin films of aluminum oxide, titanium dioxide, silicon dioxide, aluminum nitride, and silicon nitride, <a href=\"http://dx.doi.org/10.1364/AO.51.006789\"><i>Appl. Opt.</i> <b>51</b>, 6789-6798 (2012)</a> (Numerical data kindly provided by Jan Kischkat)"
+REFERENCES: "J. Kischkat, S. Peters, B. Gruska, M. Semtsiv, M. Chashnikova, M. Klinkmüller, O. Fedosenko, S. Machulik, A. Aleksandrova, G. Monastyrskyi, Y. Flores, and W. T. Masselink. Mid-infrared optical properties of thin films of aluminum oxide, titanium dioxide, silicon dioxide, aluminum nitride, and silicon nitride, <a href=\"https://doi.org/10.1364/AO.51.006789\"><i>Appl. Opt.</i> <b>51</b>, 6789-6798 (2012)</a> (Numerical data kindly provided by Jan Kischkat)"
 COMMENTS: "497-nm single layer on Si substrate. Prepared by room temperature reactive sputter deposition using Al target and 2.0 SCCM O<sub>2</sub> flux.<br>Data on the influence of deposition conditions on the optical properties of the film can be found in the original publication.<br>Data on the refractive index (n) in the visible can be found in the original publication."
 DATA:
   - type: tabulated nk
@@ -1457,4 +1457,3 @@ DATA:
         14.12429 1.92442 0.64819
         14.20455 1.90861 0.61654
         14.28571 1.89145 0.58690
-

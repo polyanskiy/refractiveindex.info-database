@@ -2,7 +2,7 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "R. E. Treharne, A. Seymour-Pierce, K. Durose, K. Hutchings, S. Roncallo, D. Lane, Optical design and fabrication of fully sputtered CdTe/CdS solar cells, <a href=\"http://dx.doi.org/10.1088/1742-6596/286/1/012038\"><i>J. Phys: Conf. Ser.</i> <b>286</b>, 012038, (2011)</a> (Numerical data kindly provided Dr. Robert Treharne)"
+REFERENCES: "R. E. Treharne, A. Seymour-Pierce, K. Durose, K. Hutchings, S. Roncallo, D. Lane, Optical design and fabrication of fully sputtered CdTe/CdS solar cells, <a href=\"https://doi.org/10.1088/1742-6596/286/1/012038\"><i>J. Phys: Conf. Ser.</i> <b>286</b>, 012038, (2011)</a> (Numerical data kindly provided Dr. Robert Treharne)"
 COMMENTS: "An Al doped ZnO film (approx 2% wt. Al) was deposited on to a soda-lime glass substrate using RF magnetron sputtering. The resultant film had a resistivity of 4.7x10<sup>-4</sup> Ω·cm. A variable-angle ellipsometer was used to take amplitude and phase change measurements. The refractive index and extinction coefficient was extracted from a multi-oscillator model fit to the ellipsometry data, as a function of wavelength, from 300 to 900 nm"
 DATA:
   - type: tabulated nk

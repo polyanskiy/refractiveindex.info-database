@@ -5,7 +5,7 @@
 REFERENCES: "<a href=\"http://refractiveindex.info/download/data/2015/schottzemax-20150722.agf\">SCHOTT Zemax catalog 2015-07-22</a>"
 COMMENTS: "was replaced by N-KZFS4"
 DATA:
-  - type: formula 2 
+  - type: formula 2
     range: 0.31 2.5
     coefficients: 0 1.37994218 0.00891159699 0.168496708 0.040533407 0.874885726 69.6628237
   - type: tabulated k

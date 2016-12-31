@@ -2,7 +2,7 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "J. Koch. <i>Kungl. Fysiografiska Sällskapets i Lund Förhandlingar (Proceedings of the Royal Physiographic Society at Lund)</i> <b>19</b>, 173 (1949) (as cited in P. J. Leonard. Refractive indices, Verdet constants, and polarizabilities of the inert gases, <a href=\"http://dx.doi.org/10.1016/S0092-640X(74)80028-8\"><i>Atomic Data and Nuclear Data Tables</i> <b>14</b>, 21-37 (1974)</a>)"
+REFERENCES: "J. Koch. <i>Kungl. Fysiografiska Sällskapets i Lund Förhandlingar (Proceedings of the Royal Physiographic Society at Lund)</i> <b>19</b>, 173 (1949) (as cited in P. J. Leonard. Refractive indices, Verdet constants, and polarizabilities of the inert gases, <a href=\"https://doi.org/10.1016/S0092-640X(74)80028-8\"><i>Atomic Data and Nuclear Data Tables</i> <b>14</b>, 21-37 (1974)</a>)"
 COMMENTS: "Wavelength is λ<sub>air</sub> at 15 °C"
 DATA:
   - type: tabulated n

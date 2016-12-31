@@ -2,7 +2,8 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "I. H. Malitson. Interspecimen comparison of the refractive index of fused silica, <a href=\"http://dx.doi.org/10.1364/JOSA.55.001205\"><i>J. Opt. Soc. Am.</i> <b>55</b>, 1205-1208 (1965)</a>"
+REFERENCES: "I. H. Malitson. Interspecimen comparison of the refractive index of fused silica, <a href=\"https://doi.org/10.1364/JOSA.55.001205\"><i>J. Opt. Soc. Am.</i> <b>55</b>, 1205-1208 (1965)</a>"
+COMMENTS: "Fused silica, 20 °C"
 DATA:
   - type: formula 1
     range: 0.21 3.71

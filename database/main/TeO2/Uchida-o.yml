@@ -2,7 +2,7 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "N. Uchida. Optical properties of single-crystal paratellurite (TeO<sub>2</sub>), <a href=\"http://dx.doi.org/10.1103/PhysRevB.4.3736\"><i>Phys. Rev.B</i> <b>4</b>, 3736-3745 (1971)</a>"
+REFERENCES: "N. Uchida. Optical properties of single-crystal paratellurite (TeO<sub>2</sub>), <a href=\"https://doi.org/10.1103/PhysRevB.4.3736\"><i>Phys. Rev.B</i> <b>4</b>, 3736-3745 (1971)</a>"
 COMMENTS: "Ordinary ray (o)"
 DATA:
   - type: formula 1

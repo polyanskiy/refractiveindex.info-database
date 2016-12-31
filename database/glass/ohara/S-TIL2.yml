@@ -5,7 +5,7 @@
 REFERENCES: "1) <a href=\"http://refractiveindex.info/download/data/2015/ohara_2015-12-01.pdf\">OHARA optical glass datasheets 2015-12-01</a><br>2) <a href=\"http://refractiveindex.info/download/data/2015/OHARA_151201.agf\">OHARA Zemax catalog 2015-12-01</a>"
 COMMENTS: "Recommended - Lightweight"
 DATA:
-  - type: formula 2 
+  - type: formula 2
     range: 0.34 2.4
     coefficients: 0 1.23401499 0.00869507801 0.0959796833 0.0465611429 1.20503991 137.953301
   - type: tabulated k

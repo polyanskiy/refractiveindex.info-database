@@ -9,43 +9,49 @@
     - BOOK: Ag
       name: "Ag (Silver)"
       content:
-        - PAGE: Rakic
-          name: "Rakić 1998: n,k 0.2066-12.40 µm"
-          path: "main/Ag/Rakic.yml"
         - PAGE: McPeak
           name: "McPeak et al. 2015: Thin film; n,k 0.3-1.7 µm"
-          path: "main/Ag/McPeak.yml"  
-        - PAGE: Stahrenberg
-          name: "Stahrenberg et al. 2001: n,k 0.128-0.496 µm"
-          path: "main/Ag/Stahrenberg.yml"
+          path: "main/Ag/McPeak.yml"
         - PAGE: Babar
           name: "Babar and Weaver 2015: n,k 0.2066-12.40 µm"
           path: "main/Ag/Babar.yml"
+        - PAGE: Werner
+          name: "Werner et al. 2009: Experiment; n,k 0.01759-2.480 µm"
+          path: "main/Ag/Werner.yml"
+        - PAGE: Werner-DFT
+          name: "Werner et al. 2009: DFT calculations; n,k 0.01759-2.480 µm"
+          path: "main/Ag/Werner-DFT.yml"
+        - PAGE: Stahrenberg
+          name: "Stahrenberg et al. 2001: n,k 0.128-0.496 µm"
+          path: "main/Ag/Stahrenberg.yml"
+        - PAGE: Rakic
+          name: "Rakić 1998: n,k 0.2066-12.40 µm"
+          path: "main/Ag/Rakic.yml"
+        - PAGE: Windt
+          name: "Windt et al. 1988: n,k 0.0024-0.1216 µm"
+          path: "main/Ag/Windt.yml"
         - PAGE: Hagemann
           name: "Hagemann et al. 1974: n,k 2.48e-6-248 µm"
           path: "main/Ag/Hagemann.yml"
         - PAGE: Johnson
           name: "Johnson and Christy 1972: n,k 0.188-1.937 µm"
           path: "main/Ag/Johnson.yml"
-        - PAGE: Windt
-          name: "Windt et al. 1988: n,k 0.0024-0.1216 µm"
-          path: "main/Ag/Windt.yml"
     - DIVIDER: "Al - Aluminium and aluminates"
     - BOOK: Al
       name: "Al (Aluminium)"
       content:
-        - PAGE: Rakic
-          name: "Rakić 1998: n,k 0.2066-12.40 µm"
-          path: "main/Al/Rakic.yml"
-        - PAGE: Rakic-1995
-          name: "Rakić 1995: 0.00012399-200 µm"
-          path: "main/Al/Rakic-1995.yml"
         - PAGE: McPeak
           name: "McPeak et al. 2015: Thin film; n,k 0.15-1.7 µm"
           path: "main/Al/McPeak.yml"
+        - PAGE: Rakic
+          name: "Rakić 1998: n,k 0.2066-12.40 µm"
+          path: "main/Al/Rakic.yml"
         - PAGE: Larruquert
           name: "Larruquert et al. 1996: n,k 0.077-0.1135 µm"
           path: "main/Al/Larruquert.yml"
+        - PAGE: Rakic-1995
+          name: "Rakić 1995: 0.00012399-200 µm"
+          path: "main/Al/Rakic-1995.yml"
         - PAGE: Ordal
           name: "Ordal et al. 1988: n,k 0.667-200 µm"
           path: "main/Al/Ordal.yml"
@@ -71,18 +77,6 @@
         - PAGE: Bideau-Mehu
           name: "Bideau-Mehu et al. 1981: n 0.1404-0.5677 µm"
           path: "main/Ar/Bideau-Mehu.yml"
-        - PAGE: Peck-0C
-          name: "Peck and Fisher 1964: n 0.47-2.06 µm; 0 °C"
-          path: "main/Ar/Peck-0C.yml"
-        - PAGE: Peck-15C
-          name: "Peck and Fisher 1964: n 0.47-2.06 µm; 15 °C"
-          path: "main/Ar/Peck-15C.yml"
-        - PAGE: Larsen
-          name: "Larsén 1934: n 0.2303-0.5677 µm"
-          path: "main/Ar/Larsen.yml"
-        - PAGE: Cuthbertson
-          name: "Cuthbertson and Cuthbertson 1910: n 0.4800-0.6708 µm"
-          path: "main/Ar/Cuthbertson.yml"
         - PAGE: Sinnock-solid-20K
           name: "Sinnock and Smith 1969: Solid at 20 K; n 0.3612-0.6439 µm"
           path: "main/Ar/Sinnock-solid-20K.yml"
@@ -119,6 +113,18 @@
         - PAGE: Sinnock-liquid-90K
           name: "Sinnock and Smith 1969: Liquid at 90 K; n 0.3612-0.6439 µm"
           path: "main/Ar/Sinnock-liquid-90K.yml"
+        - PAGE: Peck-0C
+          name: "Peck and Fisher 1964: n 0.47-2.06 µm; 0 °C"
+          path: "main/Ar/Peck-0C.yml"
+        - PAGE: Peck-15C
+          name: "Peck and Fisher 1964: n 0.47-2.06 µm; 15 °C"
+          path: "main/Ar/Peck-15C.yml"
+        - PAGE: Larsen
+          name: "Larsén 1934: n 0.2303-0.5677 µm"
+          path: "main/Ar/Larsen.yml"
+        - PAGE: Cuthbertson
+          name: "Cuthbertson and Cuthbertson 1910: n 0.4800-0.6708 µm"
+          path: "main/Ar/Cuthbertson.yml"
     - DIVIDER: "As - Arsenides"
     - BOOK: AlAs
       name: "AlAs (Aluminium arsenide)"
@@ -172,39 +178,12 @@
     - BOOK: Au
       name: "Au (Gold)"
       content:
-        - PAGE: Rakic
-          name: "Rakić 1998: n,k 0.2066-12.40 µm"
-          path: "main/Au/Rakic.yml"
-        - PAGE: Olmon-ev
-          name: "Olmon et al. 2012: Evaporated gold; n,k 0.300-24.93 µm"
-          path: "main/Au/Olmon-ev.yml"
-        - PAGE: Olmon-sc
-          name: "Olmon et al. 2012: Single-crystal gold; n,k 0.300-24.93 µm"
-          path: "main/Au/Olmon-sc.yml"
-        - PAGE: Olmon-ts
-          name: "Olmon et al. 2012: Template-stripped gold; n,k 0.300-24.93 µm"
-          path: "main/Au/Olmon-ts.yml"
         - PAGE: McPeak
           name: "McPeak et al. 2015: Thin film; n,k 0.3-1.7 µm"
           path: "main/Au/McPeak.yml"
         - PAGE: Babar
           name: "Babar and Weaver 2015: n,k 0.2066-12.40 µm"
           path: "main/Au/Babar.yml"
-        - PAGE: Ordal
-          name: "Ordal et al. 1987: n,k 0.667-286 µm"
-          path: "main/Au/Ordal.yml"
-        - PAGE: Windt
-          name: "Windt et al. 1988: n,k 0.0024-0.1216 µm"
-          path: "main/Au/Windt.yml"
-        - PAGE: Hagemann
-          name: "Hagemann et al. 1974: n,k 0.000008266-248 µm"
-          path: "main/Au/Hagemann.yml"
-        - PAGE: Hagemann-2
-          name: "Hagemann et al. 1974 #2: n,k 0.003542-0.8266 µm"
-          path: "main/Au/Hagemann-2.yml"
-        - PAGE: Johnson
-          name: "Johnson and Christy 1972: n,k 0.188-1.937 µm"
-          path: "main/Au/Johnson.yml"
         - PAGE: Lemarchand
           name: "Lemarchand 2013: 3.96-nm film; n,k 0.35-1.8 µm"
           path: "main/Au/Lemarchand-3.96nm.yml"
@@ -217,6 +196,39 @@
         - PAGE: Lemarchand
           name: "Lemarchand 2013: 11.7-nm film; n,k 0.35-1.8 µm"
           path: "main/Au/Lemarchand-11.7nm.yml"
+        - PAGE: Olmon-ev
+          name: "Olmon et al. 2012: Evaporated gold; n,k 0.300-24.93 µm"
+          path: "main/Au/Olmon-ev.yml"
+        - PAGE: Olmon-sc
+          name: "Olmon et al. 2012: Single-crystal gold; n,k 0.300-24.93 µm"
+          path: "main/Au/Olmon-sc.yml"
+        - PAGE: Olmon-ts
+          name: "Olmon et al. 2012: Template-stripped gold; n,k 0.300-24.93 µm"
+          path: "main/Au/Olmon-ts.yml"
+        - PAGE: Werner
+          name: "Werner et al. 2009: Experiment; n,k 0.01759-2.480 µm"
+          path: "main/Au/Werner.yml"
+        - PAGE: Werner-DFT
+          name: "Werner et al. 2009: DFT calculations; n,k 0.01759-2.480 µm"
+          path: "main/Au/Werner-DFT.yml"
+        - PAGE: Rakic
+          name: "Rakić 1998: n,k 0.2066-12.40 µm"
+          path: "main/Au/Rakic.yml"
+        - PAGE: Windt
+          name: "Windt et al. 1988: n,k 0.0024-0.1216 µm"
+          path: "main/Au/Windt.yml"
+        - PAGE: Ordal
+          name: "Ordal et al. 1987: n,k 0.667-286 µm"
+          path: "main/Au/Ordal.yml"
+        - PAGE: Hagemann
+          name: "Hagemann et al. 1974: n,k 0.000008266-248 µm"
+          path: "main/Au/Hagemann.yml"
+        - PAGE: Hagemann-2
+          name: "Hagemann et al. 1974 #2: n,k 0.003542-0.8266 µm"
+          path: "main/Au/Hagemann-2.yml"
+        - PAGE: Johnson
+          name: "Johnson and Christy 1972: n,k 0.188-1.937 µm"
+          path: "main/Au/Johnson.yml"
     - DIVIDER: "B - Boron and borates"
     - BOOK: B
       name: "B (Boron)"
@@ -292,6 +304,12 @@
     - BOOK: Bi
       name: "Bi (Bismuth)"
       content:
+        - PAGE: Werner
+          name: "Werner et al. 2009: Experiment; n,k 0.01759-2.480 µm"
+          path: "main/Bi/Werner.yml"
+        - PAGE: Werner-DFT
+          name: "Werner et al. 2009: DFT calculations; n,k 0.01759-2.480 µm"
+          path: "main/Bi/Werner-DFT.yml"
         - PAGE: Hagemann
           name: "Hagemann et al. 1974: n,k 0.00155-6.199 µm"
           path: "main/Bi/Hagemann.yml"
@@ -348,30 +366,30 @@
     - BOOK: C
       name: "C (Carbon)"
       content:
-        - PAGE: Peter
-          name: "Peter 1923: Diamond; n 0.226-0.760 µm"
-          path: "main/C/Peter.yml"
-        - PAGE: Phillip
-          name: "Phillip and Taft 1964: Diamond; n,k 0.0354-10 µm"
-          path: "main/C/Phillip.yml"
-        - PAGE: Dore
-          name: "Dore et al. 1998: Polycrystalline CVD diamond; n,k 2.5-500 µm"
-          path: "main/C/Dore.yml"
         - PAGE: Larruquert
           name: "Larruquert et al. 2013: Tetrahedral amorphous thin film; n,k 0.01966-10.07 µm"
           path: "main/C/Larruquert.yml"
-        - PAGE: Hagemann
-          name: "Hagemann et al. 1974: Amorphous; n,k 0.00004133-124 µm"
-          path: "main/C/Hagemann.yml"
+        - PAGE: Weber
+          name: "Weber et al. 2010: Graphene; n,k 0.21-1.0 µm"
+          path: "main/C/Weber.yml"
         - PAGE: Djurisic-o
           name: "Djurišić and Li 1999: Graphite; n,k (o); 0.0310-10.332 µm"
           path: "main/C/Djurisic-o.yml"
         - PAGE: Djurisic-e
           name: "Djurišić and Li 1999: Graphite; n,k (e); 0.0310-0.5904 µm"
           path: "main/C/Djurisic-e.yml"
-        - PAGE: Weber
-          name: "Weber et al. 2010: Graphene; n,k 0.21-1.0 µm"
-          path: "main/C/Weber.yml"
+        - PAGE: Dore
+          name: "Dore et al. 1998: Polycrystalline CVD diamond; n,k 2.5-500 µm"
+          path: "main/C/Dore.yml"
+        - PAGE: Hagemann
+          name: "Hagemann et al. 1974: Amorphous; n,k 0.00004133-124 µm"
+          path: "main/C/Hagemann.yml"
+        - PAGE: Phillip
+          name: "Phillip and Taft 1964: Diamond; n,k 0.0354-10 µm"
+          path: "main/C/Phillip.yml"
+        - PAGE: Peter
+          name: "Peter 1923: Diamond; n 0.226-0.760 µm"
+          path: "main/C/Peter.yml"
     - BOOK: CaCO3
       name: "CaCO<sub>3</sub> (Calcium carbonate, Calcite)"
       content:
@@ -390,6 +408,9 @@
     - BOOK: SiC
       name: "SiC (Silicon carbide)"
       content:
+        - PAGE: Larruquert
+          name: "Larruquert et al. 2011: Thin film; n,k 0.006154-131.7 µm"
+          path: "main/SiC/Larruquert.yml"
         - PAGE: Singh-o
           name: "Singh et al. 1971: α-SiC; n(o) 0.488-1.064 µm"
           path: "main/SiC/Singh-o.yml"
@@ -399,9 +420,6 @@
         - PAGE: Shaffer
           name: "Shaffer 1971: β-SiC; n 0.467-0.691 µm"
           path: "main/SiC/Shaffer.yml"
-        - PAGE: Larruquert
-          name: "Larruquert et al. 2011: Thin film; n,k 0.006154-131.7 µm"
-          path: "main/SiC/Larruquert.yml"
     - DIVIDER: "Ca - Calcium"
     - BOOK: Ca
       name: "Ca (Calcium)"
@@ -469,6 +487,12 @@
     - BOOK: Co
       name: "Co (Cobalt)"
       content:
+        - PAGE: Werner
+          name: "Werner et al. 2009: Experiment; n,k 0.01759-2.480 µm"
+          path: "main/Co/Werner.yml"
+        - PAGE: Werner-DFT
+          name: "Werner et al. 2009: DFT calculations; n,k 0.01759-2.480 µm"
+          path: "main/Co/Werner-DFT.yml"
         - PAGE: Johnson
           name: "Johnson and Christy 1974: n,k 0.188-1.937 µm"
           path: "main/Co/Johnson.yml"
@@ -486,18 +510,27 @@
     - BOOK: Cu
       name: "Cu (Copper)"
       content:
-        - PAGE: Rakic
-          name: "Rakić 1998: n,k 0.2066-12.40 µm"
-          path: "main/Cu/Rakic.yml"
         - PAGE: McPeak
           name: "McPeak et al. 2015: Thin film; n,k 0.3-1.7 µm"
           path: "main/Cu/McPeak.yml"
-        - PAGE: Stahrenberg
-          name: "Stahrenberg et al. 2001: n,k 0.128-0.496 µm"
-          path: "main/Cu/Stahrenberg.yml"
         - PAGE: Babar
           name: "Babar and Weaver 2015: n,k 0.2066-12.40 µm"
           path: "main/Cu/Babar.yml"
+        - PAGE: Brimhall
+          name: "Brimhall et al. 2009: n,k 0.0101-0.0421 µm"
+          path: "main/Cu/Brimhall.yml"
+        - PAGE: Werner
+          name: "Werner et al. 2009: Experiment; n,k 0.01759-2.480 µm"
+          path: "main/Cu/Werner.yml"
+        - PAGE: Werner-DFT
+          name: "Werner et al. 2009: DFT calculations; n,k 0.01759-2.480 µm"
+          path: "main/Cu/Werner-DFT.yml"
+        - PAGE: Stahrenberg
+          name: "Stahrenberg et al. 2001: n,k 0.128-0.496 µm"
+          path: "main/Cu/Stahrenberg.yml"
+        - PAGE: Rakic
+          name: "Rakić 1998: n,k 0.2066-12.40 µm"
+          path: "main/Cu/Rakic.yml"
         - PAGE: Ordal
           name: "Ordal et al. 1985: n,k 0.517-55.6 µm"
           path: "main/Cu/Ordal.yml"
@@ -507,9 +540,6 @@
         - PAGE: Johnson
           name: "Johnson and Christy 1972: n,k 0.188-1.937 µm"
           path: "main/Cu/Johnson.yml"
-        - PAGE: Brimhall
-          name: "Brimhall et al. 2009: n,k 0.010-0.035 µm"
-          path: "main/Cu/Brimhall.yml"
     - DIVIDER: "Er - Erbium"
     - BOOK: Er
       name: "Er (Erbium)"
@@ -537,18 +567,18 @@
     - BOOK: CaF2
       name: "CaF<sub>2</sub> (Calcium fluoride)"
       content:
-        - PAGE: Li
-          name: "Li 1980: n 0.15-12.0 µm; 20 °C"
-          path: "main/CaF2/Li.yml"
-        - PAGE: Malitson
-          name: "Malitson 1963: n 0.23-9.7 µm; 24 °C"
-          path: "main/CaF2/Malitson.yml"
         - PAGE: Daimon-20
           name: "Daimon and Masumura 2002: n 0.138-2.326 µm; 20 °C"
           path: "main/CaF2/Daimon-20.yml"
         - PAGE: Daimon-25
           name: "Daimon and Masumura 2002: n 0.138-2.326 µm; 25 °C"
           path: "main/CaF2/Daimon-25.yml"
+        - PAGE: Li
+          name: "Li 1980: n 0.15-12.0 µm; 20 °C"
+          path: "main/CaF2/Li.yml"
+        - PAGE: Malitson
+          name: "Malitson 1963: n 0.23-9.7 µm; 24 °C"
+          path: "main/CaF2/Malitson.yml"
     - BOOK: CsF
       name: "CsF (Cesium fluoride)"
       content:
@@ -594,18 +624,18 @@
     - BOOK: MgF2
       name: "MgF<sub>2</sub> (Magnesium fluoride)"
       content:
-        - PAGE: Li-o
-          name: "Li 1980: n(o) 0.14-7.5 µm"
-          path: "main/MgF2/Li-o.yml"
-        - PAGE: Li-e
-          name: "Li 1980: n(e) 0.14-7.5 µm"
-          path: "main/MgF2/Li-e.yml"
         - PAGE: Dodge-o
           name: "Dodge 1984: n(o) 0.2-7.0 µm"
           path: "main/MgF2/Dodge-o.yml"
         - PAGE: Dodge-e
           name: "Dodge 1984: n(e) 0.2-7.0 µm"
           path: "main/MgF2/Dodge-e.yml"
+        - PAGE: Li-o
+          name: "Li 1980: n(o) 0.14-7.5 µm"
+          path: "main/MgF2/Li-o.yml"
+        - PAGE: Li-e
+          name: "Li 1980: n(e) 0.14-7.5 µm"
+          path: "main/MgF2/Li-e.yml"
     - BOOK: PbF2
       name: "PbF<sub>2</sub> (Lead difluoride)"
       content:
@@ -621,15 +651,15 @@
     - BOOK: SrF2
       name: "SrF<sub>2</sub> (Strontium fluoride)"
       content:
+        - PAGE: Rodriguez-de_Marcos
+          name: "Rodríguez-de Marcos et al. 2013: Thin film; n,k 0.001582-682.2 µm"
+          path: "main/SrF2/Rodriguez-de Marcos.yml"
         - PAGE: Li
           name: "Li 1980: n 0.15-12.0 µm"
           path: "main/SrF2/Li.yml"
         - PAGE: Feldman
           name: "Feldman et al. 1978: n 0.21-11.5 µm"
           path: "main/SrF2/Feldman.yml"
-        - PAGE: Rodriguez-de_Marcos
-          name: "Rodríguez-de Marcos et al. 2013: Thin film; n,k 0.001582-682.2 µm"
-          path: "main/SrF2/Rodriguez-de Marcos.yml"
     - BOOK: ThF4
       name: "ThF<sub>4</sub> (Thorium tetrafluoride)"
       content:
@@ -649,6 +679,12 @@
     - BOOK: Fe
       name: "Fe (Iron)"
       content:
+        - PAGE: Werner
+          name: "Werner et al. 2009: Experiment; n,k 0.01759-2.480 µm"
+          path: "main/Fe/Werner.yml"
+        - PAGE: Werner-DFT
+          name: "Werner et al. 2009: DFT calculations; n,k 0.01759-2.480 µm"
+          path: "main/Fe/Werner-DFT.yml"
         - PAGE: Ordal
           name: "Ordal et al. 1985: n,k 0.52-55.6 µm"
           path: "main/Fe/Ordal.yml"
@@ -665,9 +701,6 @@
     - BOOK: Ge
       name: "Ge (Germanium)"
       content:
-        - PAGE: Icenogle
-          name: "Icenogle et al. 1976: n 2.5-12 µm; 293 K"
-          path: "main/Ge/Icenogle.yml"
         - PAGE: Jellison
           name: "Jellison 1992: n,k 0.234-0.840 µm"
           path: "main/Ge/Jellison.yml"
@@ -704,6 +737,9 @@
         - PAGE: Li-550K
           name: "Li 1980: n 1.9-18 µm; 550 K"
           path: "main/Ge/Li-550K.yml"
+        - PAGE: Icenogle
+          name: "Icenogle et al. 1976: n 2.5-12 µm; 293 K"
+          path: "main/Ge/Icenogle.yml"
     - BOOK: Bi4Ge3O12
       name: "Bi<sub>4</sub>Ge<sub>3</sub>O<sub>12</sub> (Bismuth germanate, BGO)"
       content:
@@ -845,12 +881,6 @@
         - PAGE: Bideau-Mehu
           name: "Bideau-Mehu et al. 1981: n 0.1404-0.6234 µm"
           path: "main/Kr/Bideau-Mehu.yml"
-        - PAGE: Koch
-          name: "Koch 1949: n 0.2302-0.6234 µm"
-          path: "main/Kr/Koch.yml"
-        - PAGE: Cuthbertson
-          name: "Cuthbertson and Cuthbertson 1910: n 0.4800-0.6708 µm"
-          path: "main/Kr/Cuthbertson.yml"
         - PAGE: Sinnock-solid-67K
           name: "Sinnock and Smith 1969: Solid at 67 K; n 0.3631-0.6439 µm"
           path: "main/Kr/Sinnock-solid-67K.yml"
@@ -881,6 +911,12 @@
         - PAGE: Sinnock-liquid-126K
           name: "Sinnock and Smith 1969: Liquid at 126 K; n 0.3631-0.6439 µm"
           path: "main/Kr/Sinnock-liquid-126K.yml"
+        - PAGE: Koch
+          name: "Koch 1949: n 0.2302-0.6234 µm"
+          path: "main/Kr/Koch.yml"
+        - PAGE: Cuthbertson
+          name: "Cuthbertson and Cuthbertson 1910: n 0.4800-0.6708 µm"
+          path: "main/Kr/Cuthbertson.yml"
     - DIVIDER: "Li - Lithium"
     - BOOK: Li
       name: "Li (Lithium)"
@@ -902,12 +938,12 @@
     - BOOK: Mg
       name: "Mg (Magnesium)"
       content:
-        - PAGE: Hagemann
-          name: "Hagemann et al. 1974: n,k 0.0000248-24.8 µm"
-          path: "main/Mg/Hagemann.yml"
         - PAGE: Vidal-Dasilva
           name: "Vidal-Dasilva et al. 2010: n,k 0.0009537-0.04959 µm"
           path: "main/Mg/Vidal-Dasilva.yml"
+        - PAGE: Hagemann
+          name: "Hagemann et al. 1974: n,k 0.0000248-24.8 µm"
+          path: "main/Mg/Hagemann.yml"
     - DIVIDER: "Mn - Manganese"
     - BOOK: Mn
       name: "Mn (Manganese)"
@@ -919,6 +955,12 @@
     - BOOK: Mo
       name: "Mo (Molybdenum)"
       content:
+        - PAGE: Werner
+          name: "Werner et al. 2009: Experiment; n,k 0.01759-2.480 µm"
+          path: "main/Mo/Werner.yml"
+        - PAGE: Werner-DFT
+          name: "Werner et al. 2009: DFT calculations; n,k 0.01759-2.480 µm"
+          path: "main/Mo/Werner-DFT.yml"
         - PAGE: Ordal
           name: "Ordal et al. 1988: n,k 0.667-154 µm"
           path: "main/Mo/Ordal.yml"
@@ -956,27 +998,27 @@
     - BOOK: N2
       name: "N<sub>2</sub> (Nitrogen)"
       content:
+        - PAGE: Griesmann
+          name: "Griesmann and Burnett 1999: n 0.145-0.270 µm; 0 °C"
+          path: "main/N2/Griesmann.yml"
         - PAGE: Peck-0C
           name: "Peck and Khanna 1966: n 0.47-2.06 µm; 0 °C"
           path: "main/N2/Peck-0C.yml"
         - PAGE: Peck-15C
           name: "Peck and Khanna 1966: n 0.47-2.06 µm; 15 °C"
           path: "main/N2/Peck-15C.yml"
-        - PAGE: Griesmann
-          name: "Griesmann and Burnett 1999: n 0.145-0.270 µm; 0 °C"
-          path: "main/N2/Griesmann.yml"
     - BOOK: AlN
       name: "AlN (Aluminium nitride)"
       content:
+        - PAGE: Kischkat
+          name: "Kischkat et al. 2012: Thin film; n,k 1.54-14.29 µm"
+          path: "main/AlN/Kischkat.yml"
         - PAGE: Pastrnak-o
           name: "Pastrňák and Roskovcová 1966: n(o) 0.22-5 µm"
           path: "main/AlN/Pastrnak-o.yml"
         - PAGE: Pastrnak-e
           name: "Pastrňák and Roskovcová 1966: n(e) 0.22-5 µm"
           path: "main/AlN/Pastrnak-e.yml"
-        - PAGE: Kischkat
-          name: "Kischkat et al. 2012: Thin film; n,k 1.54-14.29 µm"
-          path: "main/AlN/Kischkat.yml"
     - BOOK: GaN
       name: "GaN (Gallium nitride)"
       content:
@@ -995,12 +1037,12 @@
     - BOOK: Si3N4
       name: "Si<sub>3</sub>N<sub>4</sub> (Silicon nitride)"
       content:
-        - PAGE: Philipp
-          name: "Philipp 1973: n 0.207-1.24 µm"
-          path: "main/Si3N4/Philipp.yml"
         - PAGE: Kischkat
           name: "Kischkat et al. 2012: Thin film; n,k 1.54-14.29 µm"
           path: "main/Si3N4/Kischkat.yml"
+        - PAGE: Philipp
+          name: "Philipp 1973: n 0.207-1.24 µm"
+          path: "main/Si3N4/Philipp.yml"
     - DIVIDER: "Na - Sodium"
     - BOOK: Na
       name: "Na (Sodium)"
@@ -1059,6 +1101,12 @@
     - BOOK: Ni
       name: "Ni (Nickel)"
       content:
+        - PAGE: Werner
+          name: "Werner et al. 2009: Experiment; n,k 0.01759-2.480 µm"
+          path: "main/Ni/Werner.yml"
+        - PAGE: Werner-DFT
+          name: "Werner et al. 2009: DFT calculations; n,k 0.01759-2.480 µm"
+          path: "main/Ni/Werner-DFT.yml"
         - PAGE: Rakic
           name: "Rakić 1998: n,k 0.2066-12.40 µm"
           path: "main/Ni/Rakic.yml"
@@ -1083,28 +1131,28 @@
           name: "Zhang et al. 2008: n 0.4-1.8 µm; 20 °C"
           path: "main/O2/Zhang.yml"
     - BOOK: Al2O3
-      name: "Al<sub>2</sub>O<sub>3</sub> (Aluminium oxide, Sapphire)"
+      name: "Al<sub>2</sub>O<sub>3</sub> (Aluminium sesquioxide, Sapphire)"
       content:
+        - PAGE: Boidin
+          name: "Boidin et al. 2016: Thin film; n 0.3-18 µm"
+          path: "main/Al2O3/Boidin.yml"
+        - PAGE: Kischkat
+          name: "Kischkat et al. 2012: Thin film; n,k 1.54-14.29 µm"
+          path: "main/Al2O3/Kischkat.yml"
+        - PAGE: Hagemann
+          name: "Hagemann et al. 1974: n,k 0.0007749-0.2066 µm"
+          path: "main/Al2O3/Hagemann.yml"
         - PAGE: Malitson-o
           name: "Malitson and Dodge 1972: Synthetic sapphire; n(o) 0.20-5.0 µm"
           path: "main/Al2O3/Malitson-o.yml"
         - PAGE: Malitson-e
           name: "Malitson and Dodge 1972: Synthetic sapphire; n(e) 0.20-5.0 µm"
           path: "main/Al2O3/Malitson-e.yml"
-        - PAGE: Hagemann
-          name: "Hagemann et al. 1974: n,k 0.0007749-0.2066 µm"
-          path: "main/Al2O3/Hagemann.yml"
         - PAGE: Malitson
           name: "Malitson 1962: Synthetic sapphire; n(o) 0.2652-5.577 µm"
           path: "main/Al2O3/Malitson.yml"
-        - PAGE: Kischkat
-          name: "Kischkat et al. 2012: Thin film; n,k 1.54-14.29 µm"
-          path: "main/Al2O3/Kischkat.yml"
-        - PAGE: Boidin
-          name: "Boidin et al. 2016: Thin film; n 0.3-18 µm"
-          path: "main/Al2O3/Boidin.yml"
     - BOOK: BeO
-      name: "BeO (Beryllium oxide)"
+      name: "BeO (Beryllium monoxide)"
       content:
         - PAGE: Edwards-o
           name: "Edwards and White 1991: n(o) 0.44-7.0 µm"
@@ -1121,8 +1169,14 @@
         - PAGE: Old
           name: "Old et al. 1971: n 0.480-1.817 µm"
           path: "main/CO2/Old.yml"
+    - BOOK: CuO
+      name: "CuO (Copper monoxide)"
+      content:      
+        - PAGE: Brimhall
+          name: "Brimhall et al. 2009: n,k 0.0101-0.0348 µm"
+          path: "main/CuO/Brimhall.yml"
     - BOOK: Dy2O3
-      name: "Dy<sub>2</sub>O<sub>3</sub> (Dysprosium oxide)"
+      name: "Dy<sub>2</sub>O<sub>3</sub> (Dysprosium sesquioxide)"
       content:
         - PAGE: Medenbach
           name: "Medenbach et al. 2001: n 0.435-0.644 µm"
@@ -1137,15 +1191,9 @@
       name: "H<sub>2</sub>O, D<sub>2</sub>O (Water, heavy water, ice)"
       content:
         - DIVIDER: "Liquid water, H2O"
-        - PAGE: Hale
-          name: "Hale and Querry 1973: Water; n,k 0.2-200 µm; 25 °C"
-          path: "main/H2O/Hale.yml"
         - PAGE: Kedenburg
           name: "Kedenburg et al. 2012: Water; n 0.5-1.6 µm, k 0.5-1.75 µm; 20.0 °C"
           path: "main/H2O/Kedenburg.yml"
-        - PAGE: Asfar-H2O
-          name: "Afsar and Hasted 1977: Water; n,k 22.22-1733 µm; 19.0 °C"
-          path: "main/H2O/Asfar.yml"
         - PAGE: Daimon-19.0C
           name: "Daimon and Masumura 2007: Water; n 0.18-1.13 µm; 19.0 °C"
           path: "main/H2O/Daimon-19.0C.yml"
@@ -1158,6 +1206,12 @@
         - PAGE: Daimon-24.0C
           name: "Daimon and Masumura 2007: Water; n 0.18-1.13 µm; 24.0 °C"
           path: "main/H2O/Daimon-24.0C.yml"
+        - PAGE: Asfar-H2O
+          name: "Afsar and Hasted 1977: Water; n,k 22.22-1733 µm; 19.0 °C"
+          path: "main/H2O/Asfar.yml"
+        - PAGE: Hale
+          name: "Hale and Querry 1973: Water; n,k 0.2-200 µm; 25 °C"
+          path: "main/H2O/Hale.yml"
         - DIVIDER: "Water ice"
         - PAGE: Warren
           name: "Warren 1984: Ice; n,k 0.00443-167 µm"
@@ -1176,13 +1230,13 @@
           name: "Wood et al. 1990: Cubic hafnia; n 0.361-5.135 µm"
           path: "other/mixed crystals/HfO2-Y2O3/Wood.yml"
     - BOOK: Lu2O3
-      name: "Lu<sub>2</sub>O<sub>3</sub> (Lutetium oxide)"
+      name: "Lu<sub>2</sub>O<sub>3</sub> (Lutetium sesquioxide)"
       content:
         - PAGE: Medenbach
           name: "Medenbach et al. 2001: n 0.435-0.644 µm"
           path: "main/Lu2O3/Medenbach.yml"
     - BOOK: MgO
-      name: "MgO (Magnesium oxide)"
+      name: "MgO (Magnesium monoxide)"
       content:
         - PAGE: Stephens
           name: "Stephens and Malitson 1952: n 0.36-5.4 µm"
@@ -1193,6 +1247,9 @@
     - BOOK: MoO3
       name: "MoO<sub>3</sub> (Molybdenum trioxide)"
       content:
+        - PAGE: Vos
+          name: "Vos et al. 2015: Amorphous; n,k 0.019-1 µm"
+          path: "main/MoO3/Vos.yml"
         - PAGE: Lajaunie-α
           name: "Lajaunie et al. 2013: n(α),k(α) 0.019-24.8 µm"
           path: "main/MoO3/Lajaunie-alpha.yml"
@@ -1202,9 +1259,6 @@
         - PAGE: Lajaunie-γ
           name: "Lajaunie et al. 2013: n(γ),k(γ) 0.019-24.8 µm"
           path: "main/MoO3/Lajaunie-gamma.yml"
-        - PAGE: Vos
-          name: "Vos et al. 2015: Amorphous; n,k 0.019-1 µm"
-          path: "main/MoO3/Vos.yml"
     - BOOK: Nb2O5
       name: "Nb<sub>2</sub>O<sub>5</sub> (Niobium pentoxide)"
       content:
@@ -1212,7 +1266,7 @@
           name: "Lemarchand 2013: Thin film; n,k 0.25-2.5 µm"
           path: "main/Nb2O5/Lemarchand.yml"
     - BOOK: Sc2O3
-      name: "Sc<sub>2</sub>O<sub>3</sub> (Scandium oxide)"
+      name: "Sc<sub>2</sub>O<sub>3</sub> (Scandium sesquioxide)"
       content:
         - PAGE: Medenbach
           name: "Medenbach et al. 2001: n 0.435-0.644 µm"
@@ -1223,39 +1277,39 @@
     - BOOK: SiO
       name: "SiO (Silicon monoxide)"
       content:
-        - PAGE: Hass
-          name: "Hass and Salzberg 1954: n,k 0.24-14.0 µm"
-          path: "main/SiO/Hass.yml"
         - PAGE: Fernandez-Perea
           name: "Fernandez-Perea et al. 2009: n,k 0.001548-0.1771 µm"
           path: "main/SiO/Fernandez-Perea.yml"
+        - PAGE: Hass
+          name: "Hass and Salzberg 1954: n,k 0.24-14.0 µm"
+          path: "main/SiO/Hass.yml"
     - BOOK: SiO2
       name: "SiO<sub>2</sub> (Silicon dioxide, Silica, Quartz)"
       content:
-        - PAGE: Malitson
-          name: "Malitson 1965: Fused silica; n 0.21-3.71 µm"
-          path: "main/SiO2/Malitson.yml"
-        - PAGE: Ghosh-o
-          name: "Ghosh 1999: α-Quartz, n(o) 0.198-2.0531 µm"
-          path: "main/SiO2/Ghosh-o.yml"
-        - PAGE: Ghosh-e
-          name: "Ghosh 1999: α-Quartz, n(e) 0.198-2.0531 µm"
-          path: "main/SiO2/Ghosh-e.yml"
-        - PAGE: Radhakrishnan-o
-          name: "Radhakrishnan 1951: α-Quartz; n(o) 0.18-3 µm"
-          path: "main/SiO2/Radhakrishnan-o.yml"
-        - PAGE: Radhakrishnan-e
-          name: "Radhakrishnan 1951: α-Quartz; n(e) 0.18-3 µm"
-          path: "main/SiO2/Radhakrishnan-e.yml"
-        - PAGE: Kischkat
-          name: "Kischkat et al. 2012: Thin film; n,k 1.54-14.29 µm"
-          path: "main/SiO2/Kischkat.yml"
         - PAGE: Gao
           name: "Gao et al. 2013: Thin film; n,k 0.252-1.250 µm"
           path: "main/SiO2/Gao.yml"
         - PAGE: Lemarchand
           name: "Lemarchand 2013: Thin film; n,k 0.25-2.5 µm"
           path: "main/SiO2/Lemarchand.yml"
+        - PAGE: Kischkat
+          name: "Kischkat et al. 2012: Thin film; n,k 1.54-14.29 µm"
+          path: "main/SiO2/Kischkat.yml"
+        - PAGE: Ghosh-o
+          name: "Ghosh 1999: α-Quartz, n(o) 0.198-2.0531 µm"
+          path: "main/SiO2/Ghosh-o.yml"
+        - PAGE: Ghosh-e
+          name: "Ghosh 1999: α-Quartz, n(e) 0.198-2.0531 µm"
+          path: "main/SiO2/Ghosh-e.yml"
+        - PAGE: Malitson
+          name: "Malitson 1965: Fused silica; n 0.21-3.71 µm"
+          path: "main/SiO2/Malitson.yml"
+        - PAGE: Radhakrishnan-o
+          name: "Radhakrishnan 1951: α-Quartz; n(o) 0.18-3 µm"
+          path: "main/SiO2/Radhakrishnan-o.yml"
+        - PAGE: Radhakrishnan-e
+          name: "Radhakrishnan 1951: α-Quartz; n(e) 0.18-3 µm"
+          path: "main/SiO2/Radhakrishnan-e.yml"
     - BOOK: Ta2O5
       name: "Ta<sub>2</sub>O<sub>5</sub> (Tantalum pentoxide)"
       content:
@@ -1280,29 +1334,29 @@
     - BOOK: TiO2
       name: "TiO<sub>2</sub> (Titanium dioxide)"
       content:
+        - PAGE: Kischkat
+          name: "Kischkat et al. 2012: Thin film; n,k 1.54-14.29 µm"
+          path: "main/TiO2/Kischkat.yml"
         - PAGE: Devore-o
           name: "Devore 1951: n(o) 0.43-1.53 µm"
           path: "main/TiO2/Devore-o.yml"
         - PAGE: Devore-e
           name: "Devore 1951: n(e) 0.43-1.53 µm"
           path: "main/TiO2/Devore-e.yml"
-        - PAGE: Kischkat
-          name: "Kischkat et al. 2012: Thin film; n,k 1.54-14.29 µm"
-          path: "main/TiO2/Kischkat.yml"
     - BOOK: Y2O3
-      name: "Y<sub>2</sub>O<sub>3</sub> (Yttrium oxide)"
+      name: "Y<sub>2</sub>O<sub>3</sub> (Yttrium sesquioxide)"
       content:
         - PAGE: Nigara
           name: "Nigara 1968: n 0.25-9.6 µm"
           path: "main/Y2O3/Nigara.yml"
     - BOOK: Yb2O3
-      name: "Yb<sub>2</sub>O<sub>3</sub> (Ytterbium oxide)"
+      name: "Yb<sub>2</sub>O<sub>3</sub> (Ytterbium sesquioxide)"
       content:
         - PAGE: Medenbach
           name: "Medenbach et al. 2001: n 0.435-0.644 µm"
           path: "main/Yb2O3/Medenbach.yml"
     - BOOK: ZnO
-      name: "ZnO (Zinc oxide)"
+      name: "ZnO (Zinc monoxide)"
       content:
         - PAGE: Bond-o
           name: "Bond et al. 1965: n(o) 0.45-4.0 µm"
@@ -1347,12 +1401,12 @@
         - PAGE: Aspnes
           name: "Aspnes and Studna 1983: n,k 0.21-0.83 µm"
           path: "main/GaP/Aspnes.yml"
-        - PAGE: Bond
-          name: "Bond 1965: n 0.5-4.0 µm"
-          path: "main/GaP/Bond.yml"
         - PAGE: Parsons
           name: "Parsons and Coleman 1971: n 54.369-366.03 µm"
           path: "main/GaP/Parsons.yml"
+        - PAGE: Bond
+          name: "Bond 1965: n 0.5-4.0 µm"
+          path: "main/GaP/Bond.yml"
     - BOOK: InP
       name: "InP (Indium phosphide)"
       content:
@@ -1435,6 +1489,12 @@
     - BOOK: Pb
       name: "Pb (Lead)"
       content:
+        - PAGE: Werner
+          name: "Werner et al. 2009: Experiment; n,k 0.01759-2.480 µm"
+          path: "main/Pb/Werner.yml"
+        - PAGE: Werner-DFT
+          name: "Werner et al. 2009: DFT calculations; n,k 0.01759-2.480 µm"
+          path: "main/Pb/Werner-DFT.yml"
         - PAGE: Ordal
           name: "Ordal et al. 1987: n,k 0.667-667 µm"
           path: "main/Pb/Ordal.yml"
@@ -1451,15 +1511,21 @@
     - BOOK: Pd
       name: "Pd (Palladium)"
       content:
+        - PAGE: Werner
+          name: "Werner et al. 2009: Experiment; n,k 0.01759-2.480 µm"
+          path: "main/Pd/Werner.yml"
+        - PAGE: Werner-DFT
+          name: "Werner et al. 2009: DFT calculations; n,k 0.01759-2.480 µm"
+          path: "main/Pd/Werner-DFT.yml"
         - PAGE: Rakic
           name: "Rakić 1998: n,k 0.2066-12.40 µm"
           path: "main/Pd/Rakic.yml"
-        - PAGE: Johnson
-          name: "Johnson and Christy 1974: n,k 0.188-1.937 µm"
-          path: "main/Pd/Johnson.yml"
         - PAGE: Windt
           name: "Windt et al. 1988: n,k 0.0024-0.1216 µm"
           path: "main/Pd/Windt.yml"
+        - PAGE: Johnson
+          name: "Johnson and Christy 1974: n,k 0.188-1.937 µm"
+          path: "main/Pd/Johnson.yml"
     - DIVIDER: "Pr - Praseodymium"
     - BOOK: Pr
       name: "Pr (Praseodymium)"
@@ -1471,6 +1537,12 @@
     - BOOK: Pt
       name: "Pt (Platinum)"
       content:
+        - PAGE: Werner
+          name: "Werner et al. 2009: Experiment; n,k 0.01759-2.480 µm"
+          path: "main/Pt/Werner.yml"
+        - PAGE: Werner-DFT
+          name: "Werner et al. 2009: DFT calculations; n,k 0.01759-2.480 µm"
+          path: "main/Pt/Werner-DFT.yml"
         - PAGE: Rakic
           name: "Rakić 1998: n,k 0.2066-12.40 µm"
           path: "main/Pt/Rakic.yml"
@@ -1488,21 +1560,21 @@
     - BOOK: Rh
       name: "Rh (Rhodium)"
       content:
-        - PAGE: Weaver
-          name: "Weaver et al. 1977: n,k 0.20-12.40 µm"
-          path: "main/Rh/Weaver.yml"
+        - PAGE: Windt
+          name: "Windt et al. 1988: n,k 0.0024-0.1216 µm"
+          path: "main/Rh/Windt.yml"
         - PAGE: Arndt
           name: "Arndt et al. 1984: Thin film; n,k 0.40-0.75 µm"
           path: "main/Rh/Arndt.yml"
+        - PAGE: Weaver
+          name: "Weaver et al. 1977: n,k 0.20-12.40 µm"
+          path: "main/Rh/Weaver.yml"
         - PAGE: Coulter-40
           name: "Coulter et al. 1973: Thin film deposited at 40 °C; n,k 0.4047-0.6120 µm"
           path: "main/Rh/Coulter-40.yml"
         - PAGE: Coulter-300
           name: "Coulter et al. 1973: Thin film deposited at 300 °C; n,k 0.4047-0.6120 µm"
           path: "main/Rh/Coulter-300.yml"
-        - PAGE: Windt
-          name: "Windt et al. 1988: n,k 0.0024-0.1216 µm"
-          path: "main/Rh/Windt.yml"
     - DIVIDER: "Ru - Ruthenium"
     - BOOK: Ru
       name: "Ru (Ruthenium)"
@@ -1559,15 +1631,15 @@
     - BOOK: CdS
       name: "CdS (Cadmium sulfide)"
       content:
+        - PAGE: Treharne
+          name: "Treharne et al. 2011: Thin film; n,k 0.3-1.5 µm"
+          path: "main/CdS/Treharne.yml"
         - PAGE: Bieniewski-o
           name: "Bieniewski and Czyzak 1963: n(o) 0.51-1.4 µm"
           path: "main/CdS/Bieniewski-o.yml"
         - PAGE: Bieniewski-e
           name: "Bieniewski and Czyzak 1963: n(e) 0.51-1.4 µm"
           path: "main/CdS/Bieniewski-e.yml"
-        - PAGE: Treharne
-          name: "Treharne et al. 2011: Thin film; n,k 0.3-1.5 µm"
-          path: "main/CdS/Treharne.yml"
     - BOOK: CuGaS2
       name: "CuGaS<sub>2</sub> (Copper gallium sulfide)"
       content:
@@ -1604,12 +1676,6 @@
     - BOOK: MoS2
       name: "MoS<sub>2</sub> (Molybdenum disulfide)"
       content:
-        - PAGE: Beal
-          name: "Beal and Huges 2001: n 0.081–1.236 µm"
-          path: "main/MoS2/Beal.yml"
-        - PAGE: Zhang
-          name: "Zhang et al. 2013: n 0.4-0.75 µm"
-          path: "main/MoS2/Zhang.yml"
         - PAGE: Yim-1.99um
           name: "Yim et al. 2014: 1.99-µm film; n 0.38-0.9 µm"
           path: "main/MoS2/Yim-1.99um.yml"
@@ -1619,6 +1685,12 @@
         - PAGE: Yim-19.88um
           name: "Yim et al. 2014: 19.88-µm film; n 0.38-0.9 µm"
           path: "main/MoS2/Yim-19.88um.yml"
+        - PAGE: Zhang
+          name: "Zhang et al. 2013: n 0.4-0.75 µm"
+          path: "main/MoS2/Zhang.yml"
+        - PAGE: Beal
+          name: "Beal and Huges 2001: n 0.081–1.236 µm"
+          path: "main/MoS2/Beal.yml"
     - BOOK: PbS
       name: "PbS (Lead sulfide)"
       content:
@@ -1641,12 +1713,12 @@
     - BOOK: GaSb
       name: "GaSb (Gallium antimonide)"
       content:
-        - PAGE: Aspnes
-          name: "Aspnes and Studna 1983: n,k 0.21-0.83 µm"
-          path: "main/GaSb/Aspnes.yml"
         - PAGE: Ferrini
           name: "Ferrini et al. 1998: Thin film; n,k 0.207-2.480 µm"
           path: "other/mixed crystals/AlGaSb/Ferrini-0.yml"
+        - PAGE: Aspnes
+          name: "Aspnes and Studna 1983: n,k 0.21-0.83 µm"
+          path: "main/GaSb/Aspnes.yml"
     - BOOK: InSb
       name: "InSb (Indium antimonide)"
       content:
@@ -1744,6 +1816,33 @@
         - PAGE: Green
           name: "Green and Keevers 1995: n 0.25-1.45 µm, k 0.25-1.00 µm"
           path: "main/Si/Green.yml"
+        - PAGE: Vuye-20C
+          name: "Vuye et al. 1993: n,k 0.26-0.83 µm; 20 °C"
+          path: "main/Si/Vuye-20C.yml"
+        - PAGE: Vuye-100C
+          name: "Vuye et al. 1993: n,k 0.26-0.83 µm; 100 °C"
+          path: "main/Si/Vuye-100C.yml"
+        - PAGE: Vuye-150C
+          name: "Vuye et al. 1993: n,k 0.26-0.83 µm; 150 °C"
+          path: "main/Si/Vuye-150C.yml"
+        - PAGE: Vuye-200C
+          name: "Vuye et al. 1993: n,k 0.26-0.83 µm; 200 °C"
+          path: "main/Si/Vuye-200C.yml"
+        - PAGE: Vuye-250C
+          name: "Vuye et al. 1993: n,k 0.26-0.83 µm; 250 °C"
+          path: "main/Si/Vuye-250C.yml"
+        - PAGE: Vuye-300C
+          name: "Vuye et al. 1993: n,k 0.26-0.83 µm; 300 °C"
+          path: "main/Si/Vuye-300C.yml"
+        - PAGE: Vuye-350C
+          name: "Vuye et al. 1993: n,k 0.26-0.83 µm; 350 °C"
+          path: "main/Si/Vuye-350C.yml"
+        - PAGE: Vuye-400C
+          name: "Vuye et al. 1993: n,k 0.26-0.83 µm; 400 °C"
+          path: "main/Si/Vuye-400C.yml"
+        - PAGE: Vuye-450C
+          name: "Vuye et al. 1993: n,k 0.26-0.83 µm; 450 °C"
+          path: "main/Si/Vuye-450C.yml"
         - PAGE: Jellison
           name: "Jellison 1992: n,k 0.234-0.840 µm"
           path: "main/Si/Jellison.yml"
@@ -1753,9 +1852,6 @@
         - PAGE: Edwards
           name: "Edwards and Ochoa 1980: n 2.5-25 µm"
           path: "main/Si/Edwards.yml"
-        - PAGE: Salzberg
-          name: "Salzberg and Villa 1957: n 1.36-11 µm"
-          path: "main/Si/Salzberg.yml"
         - PAGE: Li-100K
           name: "Li 1980: n 1.2-14 µm; 100 K"
           path: "main/Si/Li-100K.yml"
@@ -1798,33 +1894,9 @@
         - PAGE: Li-750K
           name: "Li 1980: n 1.2-14 µm; 750 K"
           path: "main/Si/Li-750K.yml"
-        - PAGE: Vuye-20C
-          name: "Vuye et al. 1993: n,k 0.26-0.83 µm; 20 °C"
-          path: "main/Si/Vuye-20C.yml"
-        - PAGE: Vuye-100C
-          name: "Vuye et al. 1993: n,k 0.26-0.83 µm; 100 °C"
-          path: "main/Si/Vuye-100C.yml"
-        - PAGE: Vuye-150C
-          name: "Vuye et al. 1993: n,k 0.26-0.83 µm; 150 °C"
-          path: "main/Si/Vuye-150C.yml"
-        - PAGE: Vuye-200C
-          name: "Vuye et al. 1993: n,k 0.26-0.83 µm; 200 °C"
-          path: "main/Si/Vuye-200C.yml"
-        - PAGE: Vuye-250C
-          name: "Vuye et al. 1993: n,k 0.26-0.83 µm; 250 °C"
-          path: "main/Si/Vuye-250C.yml"
-        - PAGE: Vuye-300C
-          name: "Vuye et al. 1993: n,k 0.26-0.83 µm; 300 °C"
-          path: "main/Si/Vuye-300C.yml"
-        - PAGE: Vuye-350C
-          name: "Vuye et al. 1993: n,k 0.26-0.83 µm; 350 °C"
-          path: "main/Si/Vuye-350C.yml"
-        - PAGE: Vuye-400C
-          name: "Vuye et al. 1993: n,k 0.26-0.83 µm; 400 °C"
-          path: "main/Si/Vuye-400C.yml"
-        - PAGE: Vuye-450C
-          name: "Vuye et al. 1993: n,k 0.26-0.83 µm; 450 °C"
-          path: "main/Si/Vuye-450C.yml"
+        - PAGE: Salzberg
+          name: "Salzberg and Villa 1957: n 1.36-11 µm"
+          path: "main/Si/Salzberg.yml"
         - DIVIDER: "Amorphous silicon (α-Si)"
         - PAGE: Pierce
           name: "Pierce and Spicer 1972: α-Si; n,k 0.01033-2.066 µm"
@@ -1859,6 +1931,12 @@
     - BOOK: Ta
       name: "Ta (Tantalum)"
       content:
+        - PAGE: Werner
+          name: "Werner et al. 2009: Experiment; n,k 0.01759-2.480 µm"
+          path: "main/Ta/Werner.yml"
+        - PAGE: Werner-DFT
+          name: "Werner et al. 2009: DFT calculations; n,k 0.01759-2.480 µm"
+          path: "main/Ta/Werner-DFT.yml"
         - PAGE: Ordal
           name: "Ordal et al. 1988: n,k 0.667-125 µm"
           path: "main/Ta/Ordal.yml"
@@ -1875,21 +1953,24 @@
     - BOOK: Te
       name: "Te (Tellurium)"
       content:
-        - PAGE: Caldwell-o
-          name: "Caldwell and Fan 1959: n(o) 4.0-14 µm"
-          path: "main/Te/Caldwell-o.yml"
-        - PAGE: Caldwell-e
-          name: "Caldwell and Fan 1959: n(e) 4.0-14 µm"
-          path: "main/Te/Caldwell-e.yml"
         - PAGE: Sherman-o
           name: "Sherman et al. 1970: n(o) 8.5-30.3 µm"
           path: "main/Te/Sherman-o.yml"
         - PAGE: Sherman-e
           name: "Sherman et al. 1970: n(e) 8.5-30.3 µm"
           path: "main/Te/Sherman-e.yml"
+        - PAGE: Caldwell-o
+          name: "Caldwell and Fan 1959: n(o) 4.0-14 µm"
+          path: "main/Te/Caldwell-o.yml"
+        - PAGE: Caldwell-e
+          name: "Caldwell and Fan 1959: n(e) 4.0-14 µm"
+          path: "main/Te/Caldwell-e.yml"
     - BOOK: CdTe
       name: "CdTe (Cadmium telluride)"
       content:
+        - PAGE: Treharne
+          name: "Treharne et al. 2011: Thin film; n,k 0.3-1.5 µm"
+          path: "main/CdTe/Treharne.yml"
         - PAGE: DeBell-300K
           name: "DeBell et al. 1979: n 6-22 µm; 300 K"
           path: "main/CdTe/DeBell-300K.yml"
@@ -1902,9 +1983,6 @@
         - PAGE: Marple
           name: "Marple 1964: n 0.86-2.5 µm"
           path: "main/CdTe/Marple.yml"
-        - PAGE: Treharne
-          name: "Treharne et al. 2011: Thin film; n,k 0.3-1.5 µm"
-          path: "main/CdTe/Treharne.yml"
     - BOOK: MoTe2
       name: "MoTe<sub>2</sub> (Molybdenum ditelluride)"
       content:
@@ -1936,18 +2014,24 @@
     - BOOK: Ti
       name: "Ti (Titanium)"
       content:
+        - PAGE: Werner
+          name: "Werner et al. 2009: Experiment; n,k 0.01759-2.480 µm"
+          path: "main/Ti/Werner.yml"
+        - PAGE: Werner-DFT
+          name: "Werner et al. 2009: DFT calculations; n,k 0.01759-2.480 µm"
+          path: "main/Ti/Werner-DFT.yml"
         - PAGE: Rakic
           name: "Rakić 1998: n,k 0.2066-12.40 µm"
           path: "main/Ti/Rakic.yml"
-        - PAGE: Johnson
-          name: "Johnson and Christy 1974: n,k 0.188-1.937 µm"
-          path: "main/Ti/Johnson.yml"
         - PAGE: Ordal
           name: "Ordal et al. 1988: n,k 0.667-200 µm"
           path: "main/Ti/Ordal.yml"
         - PAGE: Windt
           name: "Windt et al. 1988: n,k 0.0024-0.1216 µm"
           path: "main/Ti/Windt.yml"
+        - PAGE: Johnson
+          name: "Johnson and Christy 1974: n,k 0.188-1.937 µm"
+          path: "main/Ti/Johnson.yml"
         - PAGE: Mash
           name: "Mash and Motulevich 1973: n,k 0.4-10 µm"
           path: "main/Ti/Mash.yml"
@@ -1995,6 +2079,12 @@
     - BOOK: V
       name: "V (Vanadium)"
       content:
+        - PAGE: Werner
+          name: "Werner et al. 2009: Experiment; n,k 0.01759-2.480 µm"
+          path: "main/V/Werner.yml"
+        - PAGE: Werner-DFT
+          name: "Werner et al. 2009: DFT calculations; n,k 0.01759-2.480 µm"
+          path: "main/V/Werner-DFT.yml"
         - PAGE: Johnson
           name: "Johnson and Christy 1974: n,k 0.188-1.937 µm"
           path: "main/V/Johnson.yml"
@@ -2011,6 +2101,12 @@
     - BOOK: W
       name: "W (Tungsten)"
       content:
+        - PAGE: Werner
+          name: "Werner et al. 2009: Experiment; n,k 0.01759-2.480 µm"
+          path: "main/W/Werner.yml"
+        - PAGE: Werner-DFT
+          name: "Werner et al. 2009: DFT calculations; n,k 0.01759-2.480 µm"
+          path: "main/W/Werner-DFT.yml"
         - PAGE: Rakic
           name: "Rakić 1998: n,k 0.2066-12.40 µm"
           path: "main/W/Rakic.yml"
@@ -2039,9 +2135,6 @@
         - PAGE: Koch
           name: "Koch 1949: n 0.2302-0.6234 µm"
           path: "main/Xe/Koch.yml"
-        - PAGE: Cuthbertson
-          name: "Cuthbertson and Cuthbertson 1910: n 0.4800-0.6708 µm"
-          path: "main/Xe/Cuthbertson.yml"
         - PAGE: Sinnock-solid-80K
           name: "Sinnock and Smith 1969: Solid at 80 K; n 0.3612-0.6439 µm"
           path: "main/Xe/Sinnock-solid-80K.yml"
@@ -2084,6 +2177,9 @@
         - PAGE: Sinnock-liquid-178K
           name: "Sinnock and Smith 1969: Liquid at 178 K; n 0.3612-0.6439 µm"
           path: "main/Xe/Sinnock-liquid-178K.yml"
+        - PAGE: Cuthbertson
+          name: "Cuthbertson and Cuthbertson 1910: n 0.4800-0.6708 µm"
+          path: "main/Xe/Cuthbertson.yml"
     - DIVIDER: "Yb - Ytterbium"
     - BOOK: Yb
       name: "Yb (Ytterbium)"
@@ -2095,6 +2191,12 @@
     - BOOK: Zn
       name: "Zn (Zinc)"
       content:
+        - PAGE: Werner
+          name: "Werner et al. 2009: Experiment; n,k 0.01759-2.480 µm"
+          path: "main/Zn/Werner.yml"
+        - PAGE: Werner-DFT
+          name: "Werner et al. 2009: DFT calculations; n,k 0.01759-2.480 µm"
+          path: "main/Zn/Werner-DFT.yml"
         - PAGE: Motulevich
           name: "Motulevich and Shubin 1969: n,k 1.3-10 µm"
           path: "main/Zn/Motulevich.yml"
@@ -2112,12 +2214,6 @@
     - BOOK: methane
       name: "CH<sub>4</sub> (Methane)"
       content:
-        - PAGE: Loria
-          name: "Loria 1909: Gas at 0 °C; n 0.5290-0.6585 µm"
-          path: "organic/CH4 - methane/Loria.yml"
-        - PAGE: Rollefson
-          name: "Rollefson and Havens 1940: Gas at 0 °C; n 1.68-14.8 µm"
-          path: "organic/CH4 - methane/Rollefson.yml"
         - PAGE: Martonchik-liquid-111K
           name: "Martonchik and Orton 1994: Liquid at 111 K; n,k 0.002-71.43 µm"
           path: "organic/CH4 - methane/Martonchik-liquid-111K.yml"
@@ -2130,6 +2226,12 @@
         - PAGE: Martonchik-solid-30K
           name: "Martonchik and Orton 1994: Solid at 30 K; n,k 0.002-100 µm"
           path: "organic/CH4 - methane/Martonchik-solid-30K.yml"
+        - PAGE: Rollefson
+          name: "Rollefson and Havens 1940: Gas at 0 °C; n 1.68-14.8 µm"
+          path: "organic/CH4 - methane/Rollefson.yml"
+        - PAGE: Loria
+          name: "Loria 1909: Gas at 0 °C; n 0.5290-0.6585 µm"
+          path: "organic/CH4 - methane/Loria.yml"
     - BOOK: ethane
       name: "C<sub>2</sub>H<sub>6</sub> (Ethane)"
       content:
@@ -2139,6 +2241,9 @@
     - BOOK: pentane
       name: "C<sub>5</sub>H<sub>12</sub> (Pentane)"
       content:
+        - PAGE: Anderson
+          name: "Anderson 2000: iso-Pentane; n,k 2.0-14.925 µm"
+          path: "organic/C5H12 - pentane/Anderson.yml"
         - PAGE: Kerl-293K
           name: "Kerl and Varchmin 1995: n-Pentane; 293 K; n 0.326-0.644 µm"
           path: "organic/C5H12 - pentane/Kerl-293K.yml"
@@ -2147,13 +2252,10 @@
           path: "organic/C5H12 - pentane/Kerl-313K.yml"
         - PAGE: Kerl-333K
           name: "Kerl and Varchmin 1995: n-Pentane; 333 K; n 0.326-0.644 µm"
-          path: "organic/C5H12 - pentane/Kerl-333K.yml" 
-        - PAGE: Anderson
-          name: "Anderson 2000: iso-Pentane; n,k 2.0-14.925 µm"
-          path: "organic/C5H12 - pentane/Anderson.yml"
+          path: "organic/C5H12 - pentane/Kerl-333K.yml"
     - BOOK: hexane
       name: "C<sub>6</sub>H<sub>14</sub> (Hexane)"
-      content:       
+      content:
         - PAGE: Kozma
           name: "Kozma et al. 2005: n-Hexane; n 0.230-0.6407 µm"
           path: "organic/C6H14 - hexane/Kozma.yml"
@@ -2165,7 +2267,7 @@
           path: "organic/C6H14 - hexane/Kerl-313K.yml"
         - PAGE: Kerl-333K
           name: "Kerl and Varchmin 1995: n-Hexane; 333 K; n 0.326-0.644 µm"
-          path: "organic/C6H14 - hexane/Kerl-333K.yml"  
+          path: "organic/C6H14 - hexane/Kerl-333K.yml"
     - BOOK: heptane
       name: "C<sub>7</sub>H<sub>16</sub> (Heptane)"
       content:
@@ -2241,15 +2343,15 @@
     - BOOK: propanol
       name: "C<sub>3</sub>H<sub>7</sub>OH (Propanol)"
       content:
-        - PAGE: Moutzouris
-          name: "Moutzouris et al. 2013: 1-Propanol; n 0.450-1.551 µm"
-          path: "organic/C3H8O - propanol/Moutzouris.yml"
         - PAGE: Sani
           name: "Sani and Dell'Oro 2016: iso-propanol; n,k 0.185-61 µm"
           path: "organic/C3H8O - propanol/Sani.yml"
         - PAGE: Sani-formula
           name: "Sani and Dell'Oro 2016: iso-propanol; Dispersion formula; n,k 0.185-2.8 µm"
           path: "organic/C3H8O - propanol/Sani-formula.yml"
+        - PAGE: Moutzouris
+          name: "Moutzouris et al. 2013: 1-Propanol; n 0.450-1.551 µm"
+          path: "organic/C3H8O - propanol/Moutzouris.yml"
         - PAGE: Kozma
           name: "Kozma et al. 2005: iso-propanol; n 0.230-0.6407 µm"
           path: "organic/C3H8O - propanol/Kozma.yml"
@@ -2303,16 +2405,16 @@
     - BOOK: glycerol
       name: "C<sub>3</sub>H<sub>5</sub>(OH)<sub>3</sub> (Glycerol)"
       content:
-        - PAGE: Birkhoff
-          name: "Birkhoff et al. 1978: n,k 0.05123-0.61992 µm"
-          path: "organic/C3H8O3 - glycerol/Birkhoff.yml"
         - PAGE: Rheims
           name: "Rheims et al. 1997: n 0.5893-1.05 µm"
           path: "organic/C3H8O3 - glycerol/Rheims.yml"
+        - PAGE: Birkhoff
+          name: "Birkhoff et al. 1978: n,k 0.05123-0.61992 µm"
+          path: "organic/C3H8O3 - glycerol/Birkhoff.yml"
     - DIVIDER: "Esters"
     - BOOK: ethyl_acetate
       name: "C<sub>4</sub>H<sub>8</sub>O<sub>2</sub> (Ethyl acetate, EtOAc, EA)"
-      content:       
+      content:
         - PAGE: Kozma
           name: "Kozma et al. 2005: n 0.2484-0.6407 µm"
           path: "organic/C4H8O2 - ethyl acetate/Kozma.yml"
@@ -2369,18 +2471,18 @@
     - BOOK: toluene
       name: "C<sub>7</sub>H<sub>8</sub> (Toluene)"
       content:
-        - PAGE: Kedenburg
-          name: "Kedenburg et al. 2012: n 0.5-1.6 µm, k 0.5-1.75 µm"
-          path: "organic/C7H8 - toluene/Kedenburg.yml"
         - PAGE: Moutzouris
           name: "Moutzouris et al. 2013: n 0.450-1.551 µm"
           path: "organic/C7H8 - toluene/Moutzouris.yml"
+        - PAGE: Kedenburg
+          name: "Kedenburg et al. 2012: n 0.5-1.6 µm, k 0.5-1.75 µm"
+          path: "organic/C7H8 - toluene/Kedenburg.yml"
         - PAGE: Kozma
           name: "Kozma et al. 2005: n 0.3001-0.6407 µm"
           path: "organic/C7H8 - toluene/Kozma.yml"
     - BOOK: nitrobenzene
       name: "C<sub>6</sub>H<sub>5</sub>NO<sub>2</sub> (Nitrobenzene)"
-      content:      
+      content:
         - PAGE: Kedenburg
           name: "Kedenburg et al. 2012: n 0.5-1.6 µm"
           path: "organic/C6H5NO2 - nitrobenzene/Kedenburg.yml"
@@ -2420,7 +2522,7 @@
           name: "Ghosal et al. 1993: n 1-13 µm"
           path: "organic/CHBr3 - bromoform/Ghosal.yml"
     - BOOK: chloroform
-      name: "CHCl<sub>3</sub> (Chloroform)"  
+      name: "CHCl<sub>3</sub> (Chloroform)"
       content:
         - PAGE: Kedenburg
           name: "Kedenburg et al. 2012: n 0.5-1.6 µm, k 0.5-1.75 µm"
@@ -2428,12 +2530,12 @@
     - BOOK: carbon_tetrachloride
       name: "CCl<sub>4</sub> (Carbon tetrachloride)"
       content:
-        - PAGE: Kedenburg
-          name: "Kedenburg et al. 2012: n 0.5-1.6 µm, k 0.5-1.5 µm"
-          path: "organic/CCl4 - carbon tetrachloride/Kedenburg.yml"
         - PAGE: Moutzouris
           name: "Moutzouris et al. 2013: n 0.450-1.551 µm"
           path: "organic/CCl4 - carbon tetrachloride/Moutzouris.yml"
+        - PAGE: Kedenburg
+          name: "Kedenburg et al. 2012: n 0.5-1.6 µm, k 0.5-1.5 µm"
+          path: "organic/CCl4 - carbon tetrachloride/Kedenburg.yml"
         - PAGE: Ghosal
           name: "Ghosal et al. 1993: n 1-9 µm"
           path: "organic/CCl4 - carbon tetrachloride/Ghosal.yml"
@@ -2459,7 +2561,7 @@
           path: "organic/CH4N2O - urea/Rosker-e.yml"
     - BOOK: dimethyl_sulfoxide
       name: "C<sub>2</sub>H<sub>6</sub>OS (Dimethyl sulfoxide, DMSO)"
-      content:       
+      content:
         - PAGE: Kozma
           name: "Kozma et al. 2005: n 0.23687-0.6407 µm"
           path: "organic/C2H6OS - dimethyl sulfoxide/Kozma.yml"
@@ -6083,7 +6185,7 @@
           path: "other/mixed crystals/In2O3-SnO2/Konig.yml"
         - PAGE: Konig-EMA
           name: "König et al. 2014: EMA layer; n,k 0.25-1.0 µm"
-          path: "other/mixed crystals/In2O3-SnO2/Konig-EMA.yml"       
+          path: "other/mixed crystals/In2O3-SnO2/Konig-EMA.yml"
     - BOOK: TlBr-TlCl
       name: "TlBr-TlCl (Thallium bromo-chloride, KRS-6)"
       content:
@@ -6399,7 +6501,7 @@
         - PAGE: pmma
           name: "PMMA - Poly(methyl methacrylate)"
           path: "organic/(C5O2H8)n - poly(methyl methacrylate)/Szczurowski.yml"
-        - PAGE: pvp 
+        - PAGE: pvp
           name: "PVP - polyvinylpyrrolidone"
           path: "organic/(C6H9NO)n - polyvinylpyrrolidone/Konig.yml"
         - PAGE: ps

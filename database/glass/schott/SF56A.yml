@@ -5,7 +5,7 @@
 REFERENCES: "1) <a href=\"http://refractiveindex.info/download/data/2015/schott-optical-glass-collection-datasheets-july-2015-us.pdf\">SCHOTT optical glass data sheets 2015-07-22</a><br>2) <a href=\"http://refractiveindex.info/download/data/2015/schottzemax-20150722.agf\">SCHOTT Zemax catalog 2015-07-22</a>"
 COMMENTS: "lead containing glass type"
 DATA:
-  - type: formula 2 
+  - type: formula 2
     range: 0.37 2.5
     coefficients: 0 1.70579259 0.0133874699 0.344223052 0.0579561608 1.09601828 121.616024
   - type: tabulated k

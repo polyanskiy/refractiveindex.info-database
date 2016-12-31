@@ -5,7 +5,7 @@
 REFERENCES: "1) <a href=\"http://refractiveindex.info/download/data/2015/schott-optical-glass-collection-datasheets-july-2015-us.pdf\">SCHOTT optical glass data sheets 2015-07-22</a><br>2) <a href=\"http://refractiveindex.info/download/data/2015/schottzemax-20150722.agf\">SCHOTT Zemax catalog 2015-07-22</a>"
 COMMENTS: "i-line glass"
 DATA:
-  - type: formula 2 
+  - type: formula 2
     range: 0.31 2.5
     coefficients: 0 1.28552924 0.0093988626 0.158357622 0.0452566659 0.892175122 110.544829
   - type: tabulated k

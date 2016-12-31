@@ -5,7 +5,7 @@
 REFERENCES: "1) <a href=\"http://refractiveindex.info/download/data/2015/HIKARI_Catalog.pdf\">HIKARI optical glass catalog 2015-04-01</a><br>2) <a href=\"http://refractiveindex.info/download/data/2015/HIKARI.agf\">HIKARI Zemax catalog</a>"
 COMMENTS: "For mold lens"
 DATA:
-  - type: formula 3 
+  - type: formula 3
     range: 0.3888865 2.05809
     coefficients: 3.11291202 -0.0125998729 2 0.0420929946 -2 0.0028996124 -4 -0.000373431538 -6 9.67592867e-05 -8 -9.85184772e-06 -10 5.06525233e-07 -12
   - type: tabulated k

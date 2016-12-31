@@ -2,7 +2,7 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "M. A. Ordal et al. Optical properties of Al, Fe, Ti, Ta, W, and Mo at submillimeter wavelengths, <a href=\"http://dx.doi.org/10.1364/AO.27.001203\"><i>Appl. Opt.</i> <b>27</b>, 1203-1209 (1988)</a>"
+REFERENCES: "M. A. Ordal et al. Optical properties of Al, Fe, Ti, Ta, W, and Mo at submillimeter wavelengths, <a href=\"https://doi.org/10.1364/AO.27.001203\"><i>Appl. Opt.</i> <b>27</b>, 1203-1209 (1988)</a>"
 COMMENTS: "\"We have used a nonresonant cavity to measure, at room temperature, the angle averaged absorptance spectra <i>P</i>(ω) of aluminum, molybdenum, tantalum, titanium, tungsten, and iron in the 30-300-cm<sup>-1</sup> wavenumber region. The real part of the normalized surface impedance spectrum, <i>z</i>(ω) = <i>r</i>(ω) + <i>ix</i>(ω), was determined from <i>P</i>(ω). Measurements were also made on iron from 400 to 4000 cm<sup>-1</sup> using standard reflectance techniques. The <i>r</i>(ω) spectrum was combined with previous measurements by others at higher frequencies and Kramers-Kronig analyses of the resultant combined <i>r</i>(ω) spectra provided <i>ε</i>(ω) = <i>ε</i><sub>1</sub>(ω) + <i>iε</i><sub>2</sub>(ω) and <i>N</i>(ω) = <i>n</i>(o) + <i>ik</i>(ω).\""
 DATA:
   - type: tabulated nk

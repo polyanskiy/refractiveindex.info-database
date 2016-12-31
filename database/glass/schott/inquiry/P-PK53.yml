@@ -5,7 +5,7 @@
 REFERENCES: "<a href=\"http://refractiveindex.info/download/data/2015/schottzemax-20150722.agf\">SCHOTT Zemax catalog 2015-07-22</a>"
 COMMENTS: "inquiry glass. suitable for precision molding"
 DATA:
-  - type: formula 2 
+  - type: formula 2
     range: 0.32 2.5
     coefficients: 0 0.960316767 0.00531032986 0.340437227 0.0175073434 0.777865595 106.87533
   - type: tabulated k

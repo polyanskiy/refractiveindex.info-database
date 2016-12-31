@@ -2,7 +2,7 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "1) J. H. Weaver, C. G. Olson, and D. W. Lynch. Optical investigation of the electronic structure of bulk Rh and Ir, <a href=\"http://dx.doi.org/10.1103/PhysRevB.15.4115\"><i>Phys. Rev. B</i> <b>15</b>, 4115 (1977)</a><br>2) Handbook of Optical Constants of Solids, Edward D. Palik, ed. Academic Press, Boston, 1985<br> (ref. 2 provides numerical values for the graphical data reported in ref. 1)"
+REFERENCES: "1) J. H. Weaver, C. G. Olson, and D. W. Lynch. Optical investigation of the electronic structure of bulk Rh and Ir, <a href=\"https://doi.org/10.1103/PhysRevB.15.4115\"><i>Phys. Rev. B</i> <b>15</b>, 4115 (1977)</a><br>2) Handbook of Optical Constants of Solids, Edward D. Palik, ed. Academic Press, Boston, 1985<br> (ref. 2 provides numerical values for the graphical data reported in ref. 1)"
 DATA:
   - type: tabulated nk
     data: |

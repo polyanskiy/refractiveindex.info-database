@@ -5,7 +5,7 @@
 REFERENCES: "<a href=\"http://refractiveindex.info/download/data/2015/schottzemax-20150722.agf\">SCHOTT Zemax catalog 2015-07-22</a>"
 COMMENTS: "was replaced by N-LAK12"
 DATA:
-  - type: formula 2 
+  - type: formula 2
     range: 0.32 2.5
     coefficients: 0 1.28115389 0.00636439821 0.482607607 0.0213764262 1.16553538 93.2771532
   - type: tabulated k

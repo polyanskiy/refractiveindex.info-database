@@ -5,7 +5,7 @@
 REFERENCES: "<a href=\"http://refractiveindex.info/download/data/2015/schottzemax-20150722.agf\">SCHOTT Zemax catalog 2015-07-22</a>"
 COMMENTS: "inquiry glass"
 DATA:
-  - type: formula 2 
+  - type: formula 2
     range: 0.37 2.5
     coefficients: 0 1.59163762 0.0118623434 0.219908428 0.0594585499 1.46929315 133.310762
   - type: tabulated k

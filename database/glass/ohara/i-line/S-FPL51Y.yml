@@ -5,7 +5,7 @@
 REFERENCES: "1) <a href=\"http://www.ohara-inc.co.jp/en/product/electronics/i_line/data.html\">OHARA i-line glass data</a><br>2) <a href=\"http://refractiveindex.info/download/data/2015/OHARA_151201.agf\">OHARA Zemax catalog 2015-12-01</a>"
 COMMENTS: "Improved XMT at 365"
 DATA:
-  - type: formula 2 
+  - type: formula 2
     range: 0.24 2.4
     coefficients: 0 1.14031443 0.00595466872 0.0771496272 0.0223953953 1.43721957 274.290057
   - type: tabulated k

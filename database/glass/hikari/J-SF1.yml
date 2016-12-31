@@ -4,7 +4,7 @@
 
 REFERENCES: "1) <a href=\"http://refractiveindex.info/download/data/2015/HIKARI_Catalog.pdf\">HIKARI optical glass catalog 2015-04-01</a><br>2) <a href=\"http://refractiveindex.info/download/data/2015/HIKARI.agf\">HIKARI Zemax catalog</a>"
 DATA:
-  - type: formula 3 
+  - type: formula 3
     range: 0.388865 2.05809
     coefficients: 2.8477793 -0.0114171302 2 0.0310426999 -2 0.00254456183 -4 -0.000460296278 -6 0.000102222014 -8 -1.01220546e-05 -10 4.62539051e-07 -12
   - type: tabulated k

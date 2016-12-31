@@ -2,7 +2,7 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "K. Kato and E. Takaoka. Sellmeier and thermo-optic dispersion formulas for KTP, <a href=\"http://dx.doi.org/10.1364/AO.41.005040\"><i>Appl. Opt.</i> <b>41</b>, 5040-5044 (2002)</a>."
+REFERENCES: "K. Kato and E. Takaoka. Sellmeier and thermo-optic dispersion formulas for KTP, <a href=\"https://doi.org/10.1364/AO.41.005040\"><i>Appl. Opt.</i> <b>41</b>, 5040-5044 (2002)</a>."
 COMMENTS: "n<sub>γ</sub>; 20 °C."
 DATA:
   - type: formula 4

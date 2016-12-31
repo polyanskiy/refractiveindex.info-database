@@ -2,7 +2,7 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "A. D. Rakić, A. B. Djurišic, J. M. Elazar, and M. L. Majewski. Optical properties of metallic films for vertical-cavity optoelectronic devices, <a href=\"http://dx.doi.org/10.1364/AO.37.005271\"><i>Appl. Opt.</i> <b>37</b>, 5271-5283 (1998)</a>"
+REFERENCES: "A. D. Rakić, A. B. Djurišic, J. M. Elazar, and M. L. Majewski. Optical properties of metallic films for vertical-cavity optoelectronic devices, <a href=\"https://doi.org/10.1364/AO.37.005271\"><i>Appl. Opt.</i> <b>37</b>, 5271-5283 (1998)</a>"
 COMMENTS: "Fit of the experimental data from several sources to Brendel-Bormann (BB) model"
 DATA:
   - type: tabulated nk

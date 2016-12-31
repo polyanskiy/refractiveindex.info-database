@@ -2,7 +2,7 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "L. Gao, F. Lemarchand, M. Lequime. Refractive index determination of SiO<sub>2</sub> layer in the UV/Vis/NIR range: spectrophotometric reverse engineering on single and bi-layer designs, <a href=\"http://dx.doi.org/10.2971/jeos.2013.13010\"><i>J. Europ. Opt. Soc. Rap. Public.</i> <b>8</b>, 13010 (2013)</a> (Numerical data kindly provided by F. Lemarchand)"
+REFERENCES: "L. Gao, F. Lemarchand, M. Lequime. Refractive index determination of SiO<sub>2</sub> layer in the UV/Vis/NIR range: spectrophotometric reverse engineering on single and bi-layer designs, <a href=\"https://doi.org/10.2971/jeos.2013.13010\"><i>J. Europ. Opt. Soc. Rap. Public.</i> <b>8</b>, 13010 (2013)</a> (Numerical data kindly provided by F. Lemarchand)"
 COMMENTS: "300-nm monolayer deposited on fused silica using the ion assistance electronic beam deposition technique."
 DATA:
   - type: tabulated nk
@@ -507,4 +507,3 @@ DATA:
         1.246 1.469377 0.000000
         1.248 1.469369 0.000000
         1.250 1.469362 0.000000
-          

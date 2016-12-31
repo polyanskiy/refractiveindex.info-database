@@ -5,7 +5,7 @@
 REFERENCES: "1) <a href=\"http://refractiveindex.info/download/data/2015/ohara_2015-12-01.pdf\">OHARA optical glass datasheets 2015-12-01</a><br>2) <a href=\"http://refractiveindex.info/download/data/2015/OHARA_151201.agf\">OHARA Zemax catalog 2015-12-01</a>"
 COMMENTS: "Recommended - Improved Transmittance."
 DATA:
-  - type: formula 2 
+  - type: formula 2
     range: 0.37 2.4
     coefficients: 0 1.87904886 0.014412177 0.369719775 0.063881799 2.33730863 182.66818
   - type: tabulated k

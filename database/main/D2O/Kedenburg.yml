@@ -2,7 +2,7 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "S. Kedenburg, M. Vieweg, T. Gissibl, and H. Giessen. Linear refractive index and absorption measurements of nonlinear optical liquids in the visible and near-infrared spectral region, <a href=\"http://dx.doi.org/10.1364/OME.2.001588\"><i>Opt. Mat. Express</i> <b>2</b>, 1588-1611 (2012)</a>"
+REFERENCES: "S. Kedenburg, M. Vieweg, T. Gissibl, and H. Giessen. Linear refractive index and absorption measurements of nonlinear optical liquids in the visible and near-infrared spectral region, <a href=\"https://doi.org/10.1364/OME.2.001588\"><i>Opt. Mat. Express</i> <b>2</b>, 1588-1611 (2012)</a>"
 COMMENTS: "Heavy water (D<sub>2</sub>O) at 20 °C."
 DATA:
   - type: formula 2
