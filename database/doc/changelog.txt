@@ -46,7 +46,8 @@
     other/semiconductor alloys/Si-Ge/Jellison-85.yml
     other/semiconductor alloys/Si-Ge/Jellison-98.yml
   updates: re-calculated with new scripts, info, references (links to new scripts on GitHub)
-    main/Au/Rakic.yml: 
+    main/Ag/Rakic.yml:
+    main/Au/Rakic.yml:
     main/C/Djurisic-o.yml
     main/C/Djurisic-e.yml
   updates:
