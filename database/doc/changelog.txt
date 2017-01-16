@@ -1,5 +1,6 @@
 [next release]
   new data
+    main/Si3N4/Luke.yml (thanks to Niklas Lüpken, University of Münster, Germany, for suggesting data!))
     main/CuO/Brimhall.ym
     main/Ag/Werner.yml
     main/Ag/Werner-DFT.yml
@@ -44,10 +45,25 @@
     other/semiconductor alloys/Si-Ge/Jellison-65.yml
     other/semiconductor alloys/Si-Ge/Jellison-85.yml
     other/semiconductor alloys/Si-Ge/Jellison-98.yml
-  updates
+  updates: re-calculated with new scripts, info, references (links to new scripts on GitHub)
+    main/Au/Rakic.yml: 
+    main/C/Djurisic-o.yml
+    main/C/Djurisic-e.yml
+  updates:
     main/NaI/Li.yml: comments, info
     main/N2/Griesmann.yml: comments, info
     main/SiO2/Malitson.yml: comments, info
+    main/Ag/Windt.yml: references
+    main/Au/Windt.yml: references
+    main/Al/Ordal.yml: references
+    main/Au/Ordal.yml: references
+    main/Cu/Ordal.yml: references
+    main/Ni/Ordal.yml: references
+    main/Fe/Ordal.yml: references, comments
+    main/Ti/Ordal.yml: references, comments
+    main/Ta/Ordal.yml: references, comments
+    main/W/Ordal.yml: references, comments
+    main/Mo/Ordal.yml: references, comments
   data re-arrangement
     new folder: "other/mixed crystals"
     other/mixed crystals/AlGaAs ---> other/semiconductor alloys/AlAs-GaAs
@@ -55,7 +71,8 @@
     other/mixed crystals/AlGaSb ---> other/semiconductor alloys/AlSb-GaSb
     other/mixed crystals/GaInP ---> other/semiconductor alloys/GaP-InP
   miscellaneous
-    pages arranged in the reverse chronological order in library.yml
+    re-arrangement of "page" in library.yml started: most cited data goes first; the rest is in the reverse chronological order
+    removed unnecessary words "thin film" in library.yml
     "http://dx.doi.org" replaced by "https://doi.org" in all references
     removed spaces at the end of lines in all files
     removed newline symbols at the end of all files

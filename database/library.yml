@@ -9,8 +9,11 @@
     - BOOK: Ag
       name: "Ag (Silver)"
       content:
+        - PAGE: Johnson
+          name: "Johnson and Christy 1972: n,k 0.188-1.937 µm"
+          path: "main/Ag/Johnson.yml"
         - PAGE: McPeak
-          name: "McPeak et al. 2015: Thin film; n,k 0.3-1.7 µm"
+          name: "McPeak et al. 2015: n,k 0.3-1.7 µm"
           path: "main/Ag/McPeak.yml"
         - PAGE: Babar
           name: "Babar and Weaver 2015: n,k 0.2066-12.40 µm"
@@ -33,19 +36,16 @@
         - PAGE: Hagemann
           name: "Hagemann et al. 1974: n,k 2.48e-6-248 µm"
           path: "main/Ag/Hagemann.yml"
-        - PAGE: Johnson
-          name: "Johnson and Christy 1972: n,k 0.188-1.937 µm"
-          path: "main/Ag/Johnson.yml"
     - DIVIDER: "Al - Aluminium and aluminates"
     - BOOK: Al
       name: "Al (Aluminium)"
       content:
-        - PAGE: McPeak
-          name: "McPeak et al. 2015: Thin film; n,k 0.15-1.7 µm"
-          path: "main/Al/McPeak.yml"
         - PAGE: Rakic
           name: "Rakić 1998: n,k 0.2066-12.40 µm"
           path: "main/Al/Rakic.yml"
+        - PAGE: McPeak
+          name: "McPeak et al. 2015: n,k 0.15-1.7 µm"
+          path: "main/Al/McPeak.yml"
         - PAGE: Larruquert
           name: "Larruquert et al. 1996: n,k 0.077-0.1135 µm"
           path: "main/Al/Larruquert.yml"
@@ -178,8 +178,11 @@
     - BOOK: Au
       name: "Au (Gold)"
       content:
+        - PAGE: Johnson
+          name: "Johnson and Christy 1972: n,k 0.188-1.937 µm"
+          path: "main/Au/Johnson.yml"
         - PAGE: McPeak
-          name: "McPeak et al. 2015: Thin film; n,k 0.3-1.7 µm"
+          name: "McPeak et al. 2015: n,k 0.3-1.7 µm"
           path: "main/Au/McPeak.yml"
         - PAGE: Babar
           name: "Babar and Weaver 2015: n,k 0.2066-12.40 µm"
@@ -226,9 +229,6 @@
         - PAGE: Hagemann-2
           name: "Hagemann et al. 1974 #2: n,k 0.003542-0.8266 µm"
           path: "main/Au/Hagemann-2.yml"
-        - PAGE: Johnson
-          name: "Johnson and Christy 1972: n,k 0.188-1.937 µm"
-          path: "main/Au/Johnson.yml"
     - DIVIDER: "B - Boron and borates"
     - BOOK: B
       name: "B (Boron)"
@@ -403,7 +403,7 @@
       name: "B<sub>4</sub>C (Boron carbide)"
       content:
         - PAGE: Larruquert
-          name: "Larruquert et al. 2012: Thin film; n,k 0.001738-21.54 µm"
+          name: "Larruquert et al. 2012: n,k 0.001738-21.54 µm"
           path: "main/B4C/Larruquert.yml"
     - BOOK: SiC
       name: "SiC (Silicon carbide)"
@@ -425,7 +425,7 @@
       name: "Ca (Calcium)"
       content:
         - PAGE: Rodriguez-de_Marcos
-          name: "Rodríguez-de Marcos et al. 2015: Thin film; n,k 0.001234-0.3163 µm"
+          name: "Rodríguez-de Marcos et al. 2015: n,k 0.001234-0.3163 µm"
           path: "main/Ca/Rodriguez-de Marcos.yml"
     - DIVIDER: "Ce - Cerium"
     - BOOK: Ce
@@ -487,15 +487,15 @@
     - BOOK: Co
       name: "Co (Cobalt)"
       content:
+        - PAGE: Johnson
+          name: "Johnson and Christy 1974: n,k 0.188-1.937 µm"
+          path: "main/Co/Johnson.yml"
         - PAGE: Werner
           name: "Werner et al. 2009: Experiment; n,k 0.01759-2.480 µm"
           path: "main/Co/Werner.yml"
         - PAGE: Werner-DFT
           name: "Werner et al. 2009: DFT calculations; n,k 0.01759-2.480 µm"
           path: "main/Co/Werner-DFT.yml"
-        - PAGE: Johnson
-          name: "Johnson and Christy 1974: n,k 0.188-1.937 µm"
-          path: "main/Co/Johnson.yml"
     - DIVIDER: "Cr - Chromium"
     - BOOK: Cr
       name: "Chromium (Cr)"
@@ -510,8 +510,11 @@
     - BOOK: Cu
       name: "Cu (Copper)"
       content:
+        - PAGE: Johnson
+          name: "Johnson and Christy 1972: n,k 0.188-1.937 µm"
+          path: "main/Cu/Johnson.yml"
         - PAGE: McPeak
-          name: "McPeak et al. 2015: Thin film; n,k 0.3-1.7 µm"
+          name: "McPeak et al. 2015: n,k 0.3-1.7 µm"
           path: "main/Cu/McPeak.yml"
         - PAGE: Babar
           name: "Babar and Weaver 2015: n,k 0.2066-12.40 µm"
@@ -537,9 +540,6 @@
         - PAGE: Hagemann
           name: "Hagemann et al. 1974: n,k 0.0000248-248 µm"
           path: "main/Cu/Hagemann.yml"
-        - PAGE: Johnson
-          name: "Johnson and Christy 1972: n,k 0.188-1.937 µm"
-          path: "main/Cu/Johnson.yml"
     - DIVIDER: "Er - Erbium"
     - BOOK: Er
       name: "Er (Erbium)"
@@ -652,7 +652,7 @@
       name: "SrF<sub>2</sub> (Strontium fluoride)"
       content:
         - PAGE: Rodriguez-de_Marcos
-          name: "Rodríguez-de Marcos et al. 2013: Thin film; n,k 0.001582-682.2 µm"
+          name: "Rodríguez-de Marcos et al. 2013: n,k 0.001582-682.2 µm"
           path: "main/SrF2/Rodriguez-de Marcos.yml"
         - PAGE: Li
           name: "Li 1980: n 0.15-12.0 µm"
@@ -955,15 +955,15 @@
     - BOOK: Mo
       name: "Mo (Molybdenum)"
       content:
+        - PAGE: Ordal
+          name: "Ordal et al. 1988: n,k 0.667-154 µm"
+          path: "main/Mo/Ordal.yml"
         - PAGE: Werner
           name: "Werner et al. 2009: Experiment; n,k 0.01759-2.480 µm"
           path: "main/Mo/Werner.yml"
         - PAGE: Werner-DFT
           name: "Werner et al. 2009: DFT calculations; n,k 0.01759-2.480 µm"
           path: "main/Mo/Werner-DFT.yml"
-        - PAGE: Ordal
-          name: "Ordal et al. 1988: n,k 0.667-154 µm"
-          path: "main/Mo/Ordal.yml"
         - PAGE: Windt
           name: "Windt et al. 1988: n,k 0.0024-0.1216 µm"
           path: "main/Mo/Windt.yml"
@@ -1037,8 +1037,11 @@
     - BOOK: Si3N4
       name: "Si<sub>3</sub>N<sub>4</sub> (Silicon nitride)"
       content:
+        - PAGE: Luke
+          name: "Luke et al. 2015: n 0.310-5.504 µm"
+          path: "main/Si3N4/Luke.yml"
         - PAGE: Kischkat
-          name: "Kischkat et al. 2012: Thin film; n,k 1.54-14.29 µm"
+          name: "Kischkat et al. 2012: n,k 1.54-14.29 µm"
           path: "main/Si3N4/Kischkat.yml"
         - PAGE: Philipp
           name: "Philipp 1973: n 0.207-1.24 µm"
@@ -1101,15 +1104,15 @@
     - BOOK: Ni
       name: "Ni (Nickel)"
       content:
+        - PAGE: Rakic
+          name: "Rakić 1998: n,k 0.2066-12.40 µm"
+          path: "main/Ni/Rakic.yml"
         - PAGE: Werner
           name: "Werner et al. 2009: Experiment; n,k 0.01759-2.480 µm"
           path: "main/Ni/Werner.yml"
         - PAGE: Werner-DFT
           name: "Werner et al. 2009: DFT calculations; n,k 0.01759-2.480 µm"
           path: "main/Ni/Werner-DFT.yml"
-        - PAGE: Rakic
-          name: "Rakić 1998: n,k 0.2066-12.40 µm"
-          path: "main/Ni/Rakic.yml"
         - PAGE: Ordal
           name: "Ordal et al. 1987: n,k 0.667-286 µm"
           path: "main/Ni/Ordal.yml"
@@ -1263,7 +1266,7 @@
       name: "Nb<sub>2</sub>O<sub>5</sub> (Niobium pentoxide)"
       content:
         - PAGE: Lemarchand
-          name: "Lemarchand 2013: Thin film; n,k 0.25-2.5 µm"
+          name: "Lemarchand 2013: n,k 0.25-2.5 µm"
           path: "main/Nb2O5/Lemarchand.yml"
     - BOOK: Sc2O3
       name: "Sc<sub>2</sub>O<sub>3</sub> (Scandium sesquioxide)"
@@ -1272,7 +1275,7 @@
           name: "Medenbach et al. 2001: n 0.435-0.644 µm"
           path: "main/Sc2O3/Medenbach.yml"
         - PAGE: Arndt
-          name: "Arndt et al. 1984: Thin film; n 0.40-0.75 µm"
+          name: "Arndt et al. 1984: n 0.40-0.75 µm"
           path: "main/Sc2O3/Arndt.yml"
     - BOOK: SiO
       name: "SiO (Silicon monoxide)"
@@ -1314,13 +1317,13 @@
       name: "Ta<sub>2</sub>O<sub>5</sub> (Tantalum pentoxide)"
       content:
         - PAGE: Bright-amorphous
-          name: "Bright et al. 2013: Amorphous thin film; n,k 0.5-1000 µm"
+          name: "Bright et al. 2013: Amorphous film; n,k 0.5-1000 µm"
           path: "main/Ta2O5/Bright-amorphous.yml"
         - PAGE: Bright-nanocrystalline
-          name: "Bright et al. 2013: Nanocrystalline thin film; n,k 0.5-1000 µm"
+          name: "Bright et al. 2013: Nanocrystalline film; n,k 0.5-1000 µm"
           path: "main/Ta2O5/Bright-nanocrystalline.yml"
         - PAGE: Gao
-          name: "Gao et al. 2012: Thin film; n,k 0.35-1.8 µm"
+          name: "Gao et al. 2012: n,k 0.35-1.8 µm"
           path: "main/Ta2O5/Gao.yml"
     - BOOK: TeO2
       name: "TeO<sub>2</sub> (Tellurium dioxide)"
@@ -1335,7 +1338,7 @@
       name: "TiO<sub>2</sub> (Titanium dioxide)"
       content:
         - PAGE: Kischkat
-          name: "Kischkat et al. 2012: Thin film; n,k 1.54-14.29 µm"
+          name: "Kischkat et al. 2012: n,k 1.54-14.29 µm"
           path: "main/TiO2/Kischkat.yml"
         - PAGE: Devore-o
           name: "Devore 1951: n(o) 0.43-1.53 µm"
@@ -1564,7 +1567,7 @@
           name: "Windt et al. 1988: n,k 0.0024-0.1216 µm"
           path: "main/Rh/Windt.yml"
         - PAGE: Arndt
-          name: "Arndt et al. 1984: Thin film; n,k 0.40-0.75 µm"
+          name: "Arndt et al. 1984: n,k 0.40-0.75 µm"
           path: "main/Rh/Arndt.yml"
         - PAGE: Weaver
           name: "Weaver et al. 1977: n,k 0.20-12.40 µm"
@@ -1714,7 +1717,7 @@
       name: "GaSb (Gallium antimonide)"
       content:
         - PAGE: Ferrini
-          name: "Ferrini et al. 1998: Thin film; n,k 0.207-2.480 µm"
+          name: "Ferrini et al. 1998: n,k 0.207-2.480 µm"
           path: "other/mixed crystals/AlGaSb/Ferrini-0.yml"
         - PAGE: Aspnes
           name: "Aspnes and Studna 1983: n,k 0.21-0.83 µm"
@@ -1925,7 +1928,7 @@
       name: "Sr (Strontium)"
       content:
         - PAGE: Rodriguez-de_Marcos
-          name: "Rodríguez-de Marcos et al. 2012: Thin film; n,k 0.001012-0.2120 µm"
+          name: "Rodríguez-de Marcos et al. 2012: n,k 0.001012-0.2120 µm"
           path: "main/Sr/Rodriguez-de Marcos.yml"
     - DIVIDER: "Ta - Tantalum and Tantalates"
     - BOOK: Ta
@@ -1969,7 +1972,7 @@
       name: "CdTe (Cadmium telluride)"
       content:
         - PAGE: Treharne
-          name: "Treharne et al. 2011: Thin film; n,k 0.3-1.5 µm"
+          name: "Treharne et al. 2011: n,k 0.3-1.5 µm"
           path: "main/CdTe/Treharne.yml"
         - PAGE: DeBell-300K
           name: "DeBell et al. 1979: n 6-22 µm; 300 K"
@@ -6230,7 +6233,7 @@
       name: "Al:ZnO (Aluminium-doped zinc oxide, AZO)"
       content:
         - PAGE: Treharne
-          name: "Treharne et al. 2011: Thin film; n,k 0.3-0.9 µm"
+          name: "Treharne et al. 2011: n,k 0.3-0.9 µm"
           path: "other/doped crystals/Al-ZnO/Treharne.yml"
     - DIVIDER: "Mixed organic compounds"
     - BOOK: (C8H8)n-(C3H3N)m
