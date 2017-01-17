@@ -48,9 +48,19 @@
   updates: re-calculated with new scripts, info, references (links to new scripts on GitHub)
     main/Ag/Rakic.yml:
     main/Au/Rakic.yml:
+    main/Cu/Rakic.yml:
+    main/Al/Rakic.yml:
+    main/Be/Rakic.yml:
+    main/Cr/Rakic.yml:
+    main/Ni/Rakic.yml:
+    main/Pd/Rakic.yml:
+    main/Pt/Rakic.yml:
+    main/Ti/Rakic.yml:
+    main/W/Rakic.yml:
     main/C/Djurisic-o.yml
     main/C/Djurisic-e.yml
   updates:
+    main/H2O/Hale.yml: references
     main/NaI/Li.yml: comments, info
     main/N2/Griesmann.yml: comments, info
     main/SiO2/Malitson.yml: comments, info

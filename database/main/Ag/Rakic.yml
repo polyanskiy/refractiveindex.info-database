@@ -209,4 +209,4 @@ DATA:
         1.2398e+01 1.7540e+01 7.5326e+01
 INFO:
     n_is_absolute: true
-    λ_is_vacuum: 
+    λ_is_vacuum: true

@@ -1194,6 +1194,9 @@
       name: "H<sub>2</sub>O, D<sub>2</sub>O (Water, heavy water, ice)"
       content:
         - DIVIDER: "Liquid water, H2O"
+        - PAGE: Hale
+          name: "Hale and Querry 1973: Water; n,k 0.2-200 µm; 25 °C"
+          path: "main/H2O/Hale.yml"
         - PAGE: Kedenburg
           name: "Kedenburg et al. 2012: Water; n 0.5-1.6 µm, k 0.5-1.75 µm; 20.0 °C"
           path: "main/H2O/Kedenburg.yml"
@@ -1212,9 +1215,6 @@
         - PAGE: Asfar-H2O
           name: "Afsar and Hasted 1977: Water; n,k 22.22-1733 µm; 19.0 °C"
           path: "main/H2O/Asfar.yml"
-        - PAGE: Hale
-          name: "Hale and Querry 1973: Water; n,k 0.2-200 µm; 25 °C"
-          path: "main/H2O/Hale.yml"
         - DIVIDER: "Water ice"
         - PAGE: Warren
           name: "Warren 1984: Ice; n,k 0.00443-167 µm"
@@ -1514,15 +1514,15 @@
     - BOOK: Pd
       name: "Pd (Palladium)"
       content:
+        - PAGE: Rakic
+          name: "Rakić 1998: n,k 0.2066-12.40 µm"
+          path: "main/Pd/Rakic.yml"
         - PAGE: Werner
           name: "Werner et al. 2009: Experiment; n,k 0.01759-2.480 µm"
           path: "main/Pd/Werner.yml"
         - PAGE: Werner-DFT
           name: "Werner et al. 2009: DFT calculations; n,k 0.01759-2.480 µm"
           path: "main/Pd/Werner-DFT.yml"
-        - PAGE: Rakic
-          name: "Rakić 1998: n,k 0.2066-12.40 µm"
-          path: "main/Pd/Rakic.yml"
         - PAGE: Windt
           name: "Windt et al. 1988: n,k 0.0024-0.1216 µm"
           path: "main/Pd/Windt.yml"
@@ -1540,15 +1540,15 @@
     - BOOK: Pt
       name: "Pt (Platinum)"
       content:
+        - PAGE: Rakic
+          name: "Rakić 1998: n,k 0.2066-12.40 µm"
+          path: "main/Pt/Rakic.yml"
         - PAGE: Werner
           name: "Werner et al. 2009: Experiment; n,k 0.01759-2.480 µm"
           path: "main/Pt/Werner.yml"
         - PAGE: Werner-DFT
           name: "Werner et al. 2009: DFT calculations; n,k 0.01759-2.480 µm"
           path: "main/Pt/Werner-DFT.yml"
-        - PAGE: Rakic
-          name: "Rakić 1998: n,k 0.2066-12.40 µm"
-          path: "main/Pt/Rakic.yml"
         - PAGE: Windt
           name: "Windt et al. 1988: n,k 0.0024-0.1216 µm"
           path: "main/Pt/Windt.yml"
@@ -2017,15 +2017,15 @@
     - BOOK: Ti
       name: "Ti (Titanium)"
       content:
+        - PAGE: Rakic
+          name: "Rakić 1998: n,k 0.2066-12.40 µm"
+          path: "main/Ti/Rakic.yml"
         - PAGE: Werner
           name: "Werner et al. 2009: Experiment; n,k 0.01759-2.480 µm"
           path: "main/Ti/Werner.yml"
         - PAGE: Werner-DFT
           name: "Werner et al. 2009: DFT calculations; n,k 0.01759-2.480 µm"
           path: "main/Ti/Werner-DFT.yml"
-        - PAGE: Rakic
-          name: "Rakić 1998: n,k 0.2066-12.40 µm"
-          path: "main/Ti/Rakic.yml"
         - PAGE: Ordal
           name: "Ordal et al. 1988: n,k 0.667-200 µm"
           path: "main/Ti/Ordal.yml"
@@ -2104,15 +2104,15 @@
     - BOOK: W
       name: "W (Tungsten)"
       content:
+        - PAGE: Rakic
+          name: "Rakić 1998: n,k 0.2066-12.40 µm"
+          path: "main/W/Rakic.yml"
         - PAGE: Werner
           name: "Werner et al. 2009: Experiment; n,k 0.01759-2.480 µm"
           path: "main/W/Werner.yml"
         - PAGE: Werner-DFT
           name: "Werner et al. 2009: DFT calculations; n,k 0.01759-2.480 µm"
           path: "main/W/Werner-DFT.yml"
-        - PAGE: Rakic
-          name: "Rakić 1998: n,k 0.2066-12.40 µm"
-          path: "main/W/Rakic.yml"
         - PAGE: Ordal
           name: "Ordal et al. 1988: n,k 0.667-200 µm"
           path: "main/W/Ordal.yml"
