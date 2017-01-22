@@ -74,45 +74,10 @@
     - BOOK: Ar
       name: "Ar (Argon)"
       content:
+        - DIVIDER: "Gas"
         - PAGE: Bideau-Mehu
           name: "Bideau-Mehu et al. 1981: n 0.1404-0.5677 µm"
           path: "main/Ar/Bideau-Mehu.yml"
-        - PAGE: Sinnock-solid-20K
-          name: "Sinnock and Smith 1969: Solid at 20 K; n 0.3612-0.6439 µm"
-          path: "main/Ar/Sinnock-solid-20K.yml"
-        - PAGE: Sinnock-solid-30K
-          name: "Sinnock and Smith 1969: Solid at 30 K; n 0.3612-0.6439 µm"
-          path: "main/Ar/Sinnock-solid-30K.yml"
-        - PAGE: Sinnock-solid-40K
-          name: "Sinnock and Smith 1969: Solid at 40 K; n 0.3612-0.6439 µm"
-          path: "main/Ar/Sinnock-solid-40K.yml"
-        - PAGE: Sinnock-solid-50K
-          name: "Sinnock and Smith 1969: Solid at 50 K; n 0.3612-0.6439 µm"
-          path: "main/Ar/Sinnock-solid-50K.yml"
-        - PAGE: Sinnock-solid-60K
-          name: "Sinnock and Smith 1969: Solid at 60 K; n 0.3612-0.6439 µm"
-          path: "main/Ar/Sinnock-solid-60K.yml"
-        - PAGE: Sinnock-solid-70K
-          name: "Sinnock and Smith 1969: Solid at 70 K; n 0.3612-0.6439 µm"
-          path: "main/Ar/Sinnock-solid-70K.yml"
-        - PAGE: Sinnock-solid-80K
-          name: "Sinnock and Smith 1969: Solid at 80 K; n 0.3612-0.6439 µm"
-          path: "main/Ar/Sinnock-solid-80K.yml"
-        - PAGE: Sinnock-solid-83.81K
-          name: "Sinnock and Smith 1969: Solid at 83.81 K; n 0.3612-0.6439 µm"
-          path: "main/Ar/Sinnock-solid-83.81K.yml"
-        - PAGE: Sinnock-liquid-83.81K
-          name: "Sinnock and Smith 1969: Liquid at 83.81 K; n 0.3612-0.6439 µm"
-          path: "main/Ar/Sinnock-liquid-83.81K.yml"
-        - PAGE: Sinnock-liquid-86K
-          name: "Sinnock and Smith 1969: Liquid at 86 K; n 0.3612-0.6439 µm"
-          path: "main/Ar/Sinnock-liquid-86K.yml"
-        - PAGE: Sinnock-liquid-88K
-          name: "Sinnock and Smith 1969: Liquid at 88 K; n 0.3612-0.6439 µm"
-          path: "main/Ar/Sinnock-liquid-88K.yml"
-        - PAGE: Sinnock-liquid-90K
-          name: "Sinnock and Smith 1969: Liquid at 90 K; n 0.3612-0.6439 µm"
-          path: "main/Ar/Sinnock-liquid-90K.yml"
         - PAGE: Peck-0C
           name: "Peck and Fisher 1964: n 0.47-2.06 µm; 0 °C"
           path: "main/Ar/Peck-0C.yml"
@@ -125,6 +90,44 @@
         - PAGE: Cuthbertson
           name: "Cuthbertson and Cuthbertson 1910: n 0.4800-0.6708 µm"
           path: "main/Ar/Cuthbertson.yml"
+        - DIVIDER: "Liquid"
+        - PAGE: Sinnock-liquid-90K
+          name: "Sinnock and Smith 1969: Liquid at 90 K; n 0.3612-0.6439 µm"
+          path: "main/Ar/Sinnock-liquid-90K.yml"
+        - PAGE: Sinnock-liquid-88K
+          name: "Sinnock and Smith 1969: Liquid at 88 K; n 0.3612-0.6439 µm"
+          path: "main/Ar/Sinnock-liquid-88K.yml"
+        - PAGE: Sinnock-liquid-86K
+          name: "Sinnock and Smith 1969: Liquid at 86 K; n 0.3612-0.6439 µm"
+          path: "main/Ar/Sinnock-liquid-86K.yml"
+        - PAGE: Sinnock-liquid-83.81K
+          name: "Sinnock and Smith 1969: Liquid at 83.81 K; n 0.3612-0.6439 µm"
+          path: "main/Ar/Sinnock-liquid-83.81K.yml"
+        - DIVIDER: "Solid"
+        - PAGE: Sinnock-solid-83.81K
+          name: "Sinnock and Smith 1969: Solid at 83.81 K; n 0.3612-0.6439 µm"
+          path: "main/Ar/Sinnock-solid-83.81K.yml"
+        - PAGE: Sinnock-solid-80K
+          name: "Sinnock and Smith 1969: Solid at 80 K; n 0.3612-0.6439 µm"
+          path: "main/Ar/Sinnock-solid-80K.yml"
+        - PAGE: Sinnock-solid-70K
+          name: "Sinnock and Smith 1969: Solid at 70 K; n 0.3612-0.6439 µm"
+          path: "main/Ar/Sinnock-solid-70K.yml"
+        - PAGE: Sinnock-solid-60K
+          name: "Sinnock and Smith 1969: Solid at 60 K; n 0.3612-0.6439 µm"
+          path: "main/Ar/Sinnock-solid-60K.yml"
+        - PAGE: Sinnock-solid-50K
+          name: "Sinnock and Smith 1969: Solid at 50 K; n 0.3612-0.6439 µm"
+          path: "main/Ar/Sinnock-solid-50K.yml"
+        - PAGE: Sinnock-solid-40K
+          name: "Sinnock and Smith 1969: Solid at 40 K; n 0.3612-0.6439 µm"
+          path: "main/Ar/Sinnock-solid-40K.yml"
+        - PAGE: Sinnock-solid-30K
+          name: "Sinnock and Smith 1969: Solid at 30 K; n 0.3612-0.6439 µm"
+          path: "main/Ar/Sinnock-solid-30K.yml"
+        - PAGE: Sinnock-solid-20K
+          name: "Sinnock and Smith 1969: Solid at 20 K; n 0.3612-0.6439 µm"
+          path: "main/Ar/Sinnock-solid-20K.yml"
     - DIVIDER: "As - Arsenides"
     - BOOK: AlAs
       name: "AlAs (Aluminium arsenide)"
@@ -878,45 +881,48 @@
     - BOOK: Kr
       name: "Kr (Krypton)"
       content:
+        - DIVIDER: "Gas"
         - PAGE: Bideau-Mehu
           name: "Bideau-Mehu et al. 1981: n 0.1404-0.6234 µm"
           path: "main/Kr/Bideau-Mehu.yml"
-        - PAGE: Sinnock-solid-67K
-          name: "Sinnock and Smith 1969: Solid at 67 K; n 0.3631-0.6439 µm"
-          path: "main/Kr/Sinnock-solid-67K.yml"
-        - PAGE: Sinnock-solid-75K
-          name: "Sinnock and Smith 1969: Solid at 75 K; n 0.3631-0.6439 µm"
-          path: "main/Kr/Sinnock-solid-75K.yml"
-        - PAGE: Sinnock-solid-85K
-          name: "Sinnock and Smith 1969: Solid at 85 K; n 0.3631-0.6439 µm"
-          path: "main/Kr/Sinnock-solid-85K.yml"
-        - PAGE: Sinnock-solid-95K
-          name: "Sinnock and Smith 1969: Solid at 95 K; n 0.3631-0.6439 µm"
-          path: "main/Kr/Sinnock-solid-95K.yml"
-        - PAGE: Sinnock-solid-105K
-          name: "Sinnock and Smith 1969: Solid at 105 K; n 0.3631-0.6439 µm"
-          path: "main/Kr/Sinnock-solid-105K.yml"
-        - PAGE: Sinnock-solid-115.95K
-          name: "Sinnock and Smith 1969: Solid at 115.95 K; n 0.3631-0.6439 µm"
-          path: "main/Kr/Sinnock-solid-115.95K.yml"
-        - PAGE: Sinnock-liquid-115.95K
-          name: "Sinnock and Smith 1969: Liquid at 115.95 K; n 0.3631-0.6439 µm"
-          path: "main/Kr/Sinnock-liquid-115.95K.yml"
-        - PAGE: Sinnock-liquid-118K
-          name: "Sinnock and Smith 1969: Liquid at 118 K; n 0.3631-0.6439 µm"
-          path: "main/Kr/Sinnock-liquid-118K.yml"
-        - PAGE: Sinnock-liquid-122K
-          name: "Sinnock and Smith 1969: Liquid at 122 K; n 0.3631-0.6439 µm"
-          path: "main/Kr/Sinnock-liquid-122K.yml"
-        - PAGE: Sinnock-liquid-126K
-          name: "Sinnock and Smith 1969: Liquid at 126 K; n 0.3631-0.6439 µm"
-          path: "main/Kr/Sinnock-liquid-126K.yml"
         - PAGE: Koch
           name: "Koch 1949: n 0.2302-0.6234 µm"
           path: "main/Kr/Koch.yml"
         - PAGE: Cuthbertson
           name: "Cuthbertson and Cuthbertson 1910: n 0.4800-0.6708 µm"
           path: "main/Kr/Cuthbertson.yml"
+        - DIVIDER: "Liquid"
+        - PAGE: Sinnock-liquid-126K
+          name: "Sinnock and Smith 1969: Liquid at 126 K; n 0.3631-0.6439 µm"
+          path: "main/Kr/Sinnock-liquid-126K.yml"
+        - PAGE: Sinnock-liquid-122K
+          name: "Sinnock and Smith 1969: Liquid at 122 K; n 0.3631-0.6439 µm"
+          path: "main/Kr/Sinnock-liquid-122K.yml"
+        - PAGE: Sinnock-liquid-118K
+          name: "Sinnock and Smith 1969: Liquid at 118 K; n 0.3631-0.6439 µm"
+          path: "main/Kr/Sinnock-liquid-118K.yml"
+        - PAGE: Sinnock-liquid-115.95K
+          name: "Sinnock and Smith 1969: Liquid at 115.95 K; n 0.3631-0.6439 µm"
+          path: "main/Kr/Sinnock-liquid-115.95K.yml"
+        - DIVIDER: "Solid"
+        - PAGE: Sinnock-solid-115.95K
+          name: "Sinnock and Smith 1969: Solid at 115.95 K; n 0.3631-0.6439 µm"
+          path: "main/Kr/Sinnock-solid-115.95K.yml"
+        - PAGE: Sinnock-solid-105K
+          name: "Sinnock and Smith 1969: Solid at 105 K; n 0.3631-0.6439 µm"
+          path: "main/Kr/Sinnock-solid-105K.yml"
+        - PAGE: Sinnock-solid-95K
+          name: "Sinnock and Smith 1969: Solid at 95 K; n 0.3631-0.6439 µm"
+          path: "main/Kr/Sinnock-solid-95K.yml"
+        - PAGE: Sinnock-solid-85K
+          name: "Sinnock and Smith 1969: Solid at 85 K; n 0.3631-0.6439 µm"
+          path: "main/Kr/Sinnock-solid-85K.yml"
+        - PAGE: Sinnock-solid-75K
+          name: "Sinnock and Smith 1969: Solid at 75 K; n 0.3631-0.6439 µm"
+          path: "main/Kr/Sinnock-solid-75K.yml"
+        - PAGE: Sinnock-solid-67K
+          name: "Sinnock and Smith 1969: Solid at 67 K; n 0.3631-0.6439 µm"
+          path: "main/Kr/Sinnock-solid-67K.yml"
     - DIVIDER: "Li - Lithium"
     - BOOK: Li
       name: "Li (Lithium)"
@@ -998,15 +1004,15 @@
     - BOOK: N2
       name: "N<sub>2</sub> (Nitrogen)"
       content:
-        - PAGE: Griesmann
-          name: "Griesmann and Burnett 1999: n 0.145-0.270 µm; 0 °C"
-          path: "main/N2/Griesmann.yml"
         - PAGE: Peck-0C
           name: "Peck and Khanna 1966: n 0.47-2.06 µm; 0 °C"
           path: "main/N2/Peck-0C.yml"
         - PAGE: Peck-15C
           name: "Peck and Khanna 1966: n 0.47-2.06 µm; 15 °C"
           path: "main/N2/Peck-15C.yml"
+        - PAGE: Griesmann
+          name: "Griesmann and Burnett 1999: n 0.145-0.270 µm; 0 °C"
+          path: "main/N2/Griesmann.yml"
     - BOOK: AlN
       name: "AlN (Aluminium nitride)"
       content:
@@ -1337,15 +1343,18 @@
     - BOOK: TiO2
       name: "TiO<sub>2</sub> (Titanium dioxide)"
       content:
-        - PAGE: Kischkat
-          name: "Kischkat et al. 2012: n,k 1.54-14.29 µm"
-          path: "main/TiO2/Kischkat.yml"
         - PAGE: Devore-o
           name: "Devore 1951: n(o) 0.43-1.53 µm"
           path: "main/TiO2/Devore-o.yml"
         - PAGE: Devore-e
           name: "Devore 1951: n(e) 0.43-1.53 µm"
           path: "main/TiO2/Devore-e.yml"
+        - PAGE: Bodurov
+          name: "Bodurov et al. 2016: Nanoparticles; n 0.405-0.635 µm"
+          path: "main/TiO2/Bodurov.yml"
+        - PAGE: Kischkat
+          name: "Kischkat et al. 2012: n,k 1.54-14.29 µm"
+          path: "main/TiO2/Kischkat.yml"
     - BOOK: Y2O3
       name: "Y<sub>2</sub>O<sub>3</sub> (Yttrium sesquioxide)"
       content:
@@ -1367,12 +1376,18 @@
         - PAGE: Bond-e
           name: "Bond et al. 1965: n(e) 0.45-4.0 µm"
           path: "main/ZnO/Bond-e.yml"
+        - PAGE: Bodurov
+          name: "Bodurov et al. 2016: Nanoparticles; n 0.405-0.635 µm"
+          path: "main/ZnO/Bodurov.yml"
     - BOOK: ZrO2
       name: "ZrO<sub>2</sub> (Zirconium dioxide, Zirconia)"
       content:
         - PAGE: Wood
-          name: "Wood and Nassau 1982: Cubic zirconia; n 0.361-5.135 µm"
+          name: "Wood and Nassau 1982: Cubic zirconia stabilized with yttria; n 0.361-5.135 µm"
           path: "other/mixed crystals/ZrO2-Y2O3/Wood.yml"
+        - PAGE: Bodurov
+          name: "Bodurov et al. 2016: Nanoparticles; n 0.405-0.635 µm"
+          path: "main/ZrO2/Bodurov.yml"
     - DIVIDER: "P - Phosphides and phosphates"
     - BOOK: BP
       name: "BP (Boron phosphide)"
@@ -2132,57 +2147,60 @@
     - BOOK: Xe
       name: "Xe (Xenon)"
       content:
+        - DIVIDER: "Gas"
         - PAGE: Bideau-Mehu
           name: "Bideau-Mehu et al. 1981: n 0.1404-0.6234 µm"
           path: "main/Xe/Bideau-Mehu.yml"
         - PAGE: Koch
           name: "Koch 1949: n 0.2302-0.6234 µm"
           path: "main/Xe/Koch.yml"
-        - PAGE: Sinnock-solid-80K
-          name: "Sinnock and Smith 1969: Solid at 80 K; n 0.3612-0.6439 µm"
-          path: "main/Xe/Sinnock-solid-80K.yml"
-        - PAGE: Sinnock-solid-90K
-          name: "Sinnock and Smith 1969: Solid at 90 K; n 0.3612-0.6439 µm"
-          path: "main/Xe/Sinnock-solid-90K.yml"
-        - PAGE: Sinnock-solid-100K
-          name: "Sinnock and Smith 1969: Solid at 100 K; n 0.3612-0.6439 µm"
-          path: "main/Xe/Sinnock-solid-100K.yml"
-        - PAGE: Sinnock-solid-110K
-          name: "Sinnock and Smith 1969: Solid at 110 K; n 0.3612-0.6439 µm"
-          path: "main/Xe/Sinnock-solid-110K.yml"
-        - PAGE: Sinnock-solid-120K
-          name: "Sinnock and Smith 1969: Solid at 120 K; n 0.3612-0.6439 µm"
-          path: "main/Xe/Sinnock-solid-120K.yml"
-        - PAGE: Sinnock-solid-130K
-          name: "Sinnock and Smith 1969: Solid at 130 K; n 0.3612-0.6439 µm"
-          path: "main/Xe/Sinnock-solid-130K.yml"
-        - PAGE: Sinnock-solid-140K
-          name: "Sinnock and Smith 1969: Solid at 140 K; n 0.3612-0.6439 µm"
-          path: "main/Xe/Sinnock-solid-140K.yml"
-        - PAGE: Sinnock-solid-150K
-          name: "Sinnock and Smith 1969: Solid at 150 K; n 0.3612-0.6439 µm"
-          path: "main/Xe/Sinnock-solid-150K.yml"
-        - PAGE: Sinnock-solid-161.35K
-          name: "Sinnock and Smith 1969: Solid at 161.35 K; n 0.3612-0.6439 µm"
-          path: "main/Xe/Sinnock-solid-161.35K.yml"
-        - PAGE: Sinnock-liquid-161.35K
-          name: "Sinnock and Smith 1969: Liquid at 161.35 K; n 0.3612-0.6439 µm"
-          path: "main/Xe/Sinnock-liquid-161.35K.yml"
-        - PAGE: Sinnock-liquid-166K
-          name: "Sinnock and Smith 1969: Liquid at 166 K; n 0.3612-0.6439 µm"
-          path: "main/Xe/Sinnock-liquid-166K.yml"
-        - PAGE: Sinnock-liquid-170K
-          name: "Sinnock and Smith 1969: Liquid at 170 K; n 0.3612-0.6439 µm"
-          path: "main/Xe/Sinnock-liquid-170K.yml"
-        - PAGE: Sinnock-liquid-174K
-          name: "Sinnock and Smith 1969: Liquid at 174 K; n 0.3612-0.6439 µm"
-          path: "main/Xe/Sinnock-liquid-174K.yml"
-        - PAGE: Sinnock-liquid-178K
-          name: "Sinnock and Smith 1969: Liquid at 178 K; n 0.3612-0.6439 µm"
-          path: "main/Xe/Sinnock-liquid-178K.yml"
         - PAGE: Cuthbertson
           name: "Cuthbertson and Cuthbertson 1910: n 0.4800-0.6708 µm"
           path: "main/Xe/Cuthbertson.yml"
+        - DIVIDER: "Liquid"
+        - PAGE: Sinnock-liquid-178K
+          name: "Sinnock and Smith 1969: Liquid at 178 K; n 0.3612-0.6439 µm"
+          path: "main/Xe/Sinnock-liquid-178K.yml"
+        - PAGE: Sinnock-liquid-174K
+          name: "Sinnock and Smith 1969: Liquid at 174 K; n 0.3612-0.6439 µm"
+          path: "main/Xe/Sinnock-liquid-174K.yml"
+        - PAGE: Sinnock-liquid-170K
+          name: "Sinnock and Smith 1969: Liquid at 170 K; n 0.3612-0.6439 µm"
+          path: "main/Xe/Sinnock-liquid-170K.yml"
+        - PAGE: Sinnock-liquid-166K
+          name: "Sinnock and Smith 1969: Liquid at 166 K; n 0.3612-0.6439 µm"
+          path: "main/Xe/Sinnock-liquid-166K.yml"
+        - PAGE: Sinnock-liquid-161.35K
+          name: "Sinnock and Smith 1969: Liquid at 161.35 K; n 0.3612-0.6439 µm"
+          path: "main/Xe/Sinnock-liquid-161.35K.yml"
+        - DIVIDER: "Solid"
+        - PAGE: Sinnock-solid-161.35K
+          name: "Sinnock and Smith 1969: Solid at 161.35 K; n 0.3612-0.6439 µm"
+          path: "main/Xe/Sinnock-solid-161.35K.yml"
+        - PAGE: Sinnock-solid-150K
+          name: "Sinnock and Smith 1969: Solid at 150 K; n 0.3612-0.6439 µm"
+          path: "main/Xe/Sinnock-solid-150K.yml"
+        - PAGE: Sinnock-solid-140K
+          name: "Sinnock and Smith 1969: Solid at 140 K; n 0.3612-0.6439 µm"
+          path: "main/Xe/Sinnock-solid-140K.yml"
+        - PAGE: Sinnock-solid-130K
+          name: "Sinnock and Smith 1969: Solid at 130 K; n 0.3612-0.6439 µm"
+          path: "main/Xe/Sinnock-solid-130K.yml"
+        - PAGE: Sinnock-solid-120K
+          name: "Sinnock and Smith 1969: Solid at 120 K; n 0.3612-0.6439 µm"
+          path: "main/Xe/Sinnock-solid-120K.yml"
+        - PAGE: Sinnock-solid-110K
+          name: "Sinnock and Smith 1969: Solid at 110 K; n 0.3612-0.6439 µm"
+          path: "main/Xe/Sinnock-solid-110K.yml"
+        - PAGE: Sinnock-solid-100K
+          name: "Sinnock and Smith 1969: Solid at 100 K; n 0.3612-0.6439 µm"
+          path: "main/Xe/Sinnock-solid-100K.yml"
+        - PAGE: Sinnock-solid-90K
+          name: "Sinnock and Smith 1969: Solid at 90 K; n 0.3612-0.6439 µm"
+          path: "main/Xe/Sinnock-solid-90K.yml"
+        - PAGE: Sinnock-solid-80K
+          name: "Sinnock and Smith 1969: Solid at 80 K; n 0.3612-0.6439 µm"
+          path: "main/Xe/Sinnock-solid-80K.yml"
     - DIVIDER: "Yb - Ytterbium"
     - BOOK: Yb
       name: "Yb (Ytterbium)"
@@ -2217,6 +2235,9 @@
     - BOOK: methane
       name: "CH<sub>4</sub> (Methane)"
       content:
+        - PAGE: Rollefson
+          name: "Rollefson and Havens 1940: Gas at 0 °C; n 1.68-14.8 µm"
+          path: "organic/CH4 - methane/Rollefson.yml"
         - PAGE: Martonchik-liquid-111K
           name: "Martonchik and Orton 1994: Liquid at 111 K; n,k 0.002-71.43 µm"
           path: "organic/CH4 - methane/Martonchik-liquid-111K.yml"
@@ -2229,9 +2250,6 @@
         - PAGE: Martonchik-solid-30K
           name: "Martonchik and Orton 1994: Solid at 30 K; n,k 0.002-100 µm"
           path: "organic/CH4 - methane/Martonchik-solid-30K.yml"
-        - PAGE: Rollefson
-          name: "Rollefson and Havens 1940: Gas at 0 °C; n 1.68-14.8 µm"
-          path: "organic/CH4 - methane/Rollefson.yml"
         - PAGE: Loria
           name: "Loria 1909: Gas at 0 °C; n 0.5290-0.6585 µm"
           path: "organic/CH4 - methane/Loria.yml"
@@ -2244,9 +2262,6 @@
     - BOOK: pentane
       name: "C<sub>5</sub>H<sub>12</sub> (Pentane)"
       content:
-        - PAGE: Anderson
-          name: "Anderson 2000: iso-Pentane; n,k 2.0-14.925 µm"
-          path: "organic/C5H12 - pentane/Anderson.yml"
         - PAGE: Kerl-293K
           name: "Kerl and Varchmin 1995: n-Pentane; 293 K; n 0.326-0.644 µm"
           path: "organic/C5H12 - pentane/Kerl-293K.yml"
@@ -2256,6 +2271,9 @@
         - PAGE: Kerl-333K
           name: "Kerl and Varchmin 1995: n-Pentane; 333 K; n 0.326-0.644 µm"
           path: "organic/C5H12 - pentane/Kerl-333K.yml"
+        - PAGE: Anderson
+          name: "Anderson 2000: iso-Pentane; n,k 2.0-14.925 µm"
+          path: "organic/C5H12 - pentane/Anderson.yml"
     - BOOK: hexane
       name: "C<sub>6</sub>H<sub>14</sub> (Hexane)"
       content:
@@ -2286,9 +2304,6 @@
     - BOOK: octane
       name: "C<sub>8</sub>H<sub>18</sub> (Octane)"
       content:
-        - PAGE: Anderson
-          name: "Anderson 2000: iso-Octane; n,k 2.006-23 µm"
-          path: "organic/C8H18 - octane/Anderson.yml"
         - PAGE: Kerl-293K
           name: "Kerl and Varchmin 1995: n-Octane; 293 K; n 0.326-0.644 µm"
           path: "organic/C8H18 - octane/Kerl-293K.yml"
@@ -2298,6 +2313,9 @@
         - PAGE: Kerl-333K
           name: "Kerl and Varchmin 1995: n-Octane; 333 K; n 0.326-0.644 µm"
           path: "organic/C8H18 - octane/Kerl-333K.yml"
+        - PAGE: Anderson
+          name: "Anderson 2000: iso-Octane; n,k 2.006-23 µm"
+          path: "organic/C8H18 - octane/Anderson.yml"
     - DIVIDER: "Alkynes"
     - BOOK: acetylene
       name: "C<sub>2</sub>H<sub>2</sub> (Acetylene)"
@@ -2316,18 +2334,21 @@
     - BOOK: methanol
       name: "CH<sub>3</sub>OH (Methanol)"
       content:
+        - PAGE: El-Kashef
+          name: "El-Kashef 2000: n 0.4-0.8 µm"
+          path: "organic/CH4O - methanol/El-Kashef.yml"
         - PAGE: Moutzouris
           name: "Moutzouris et al. 2013: n 0.450-1.551 µm"
           path: "organic/CH4O - methanol/Moutzouris.yml"
         - PAGE: Kozma
           name: "Kozma et al. 2005: n 0.230-0.6407 µm"
           path: "organic/CH4O - methanol/Kozma.yml"
-        - PAGE: El-Kashef
-          name: "El-Kashef 2000: n 0.4-0.8 µm"
-          path: "organic/CH4O - methanol/El-Kashef.yml"
     - BOOK: ethanol
       name: "C<sub>2</sub>H<sub>5</sub>OH (Ethanol)"
       content:
+        - PAGE: Rheims
+          name: "Rheims et al. 1997: n 0.4765-0.83 µm"
+          path: "organic/C2H6O - ethanol/Rheims.yml"
         - PAGE: Sani
           name: "Sani and Dell'Oro 2016: n,k 0.185-61 µm"
           path: "organic/C2H6O - ethanol/Sani.yml"
@@ -2340,12 +2361,12 @@
         - PAGE: Kozma
           name: "Kozma et al. 2005: n 0.230-0.6407 µm"
           path: "organic/C2H6O - ethanol/Kozma.yml"
-        - PAGE: Rheims
-          name: "Rheims et al. 1997: n 0.4765-0.83 µm"
-          path: "organic/C2H6O - ethanol/Rheims.yml"
     - BOOK: propanol
       name: "C<sub>3</sub>H<sub>7</sub>OH (Propanol)"
       content:
+        - PAGE: Kozma
+          name: "Kozma et al. 2005: iso-propanol; n 0.230-0.6407 µm"
+          path: "organic/C3H8O - propanol/Kozma.yml"
         - PAGE: Sani
           name: "Sani and Dell'Oro 2016: iso-propanol; n,k 0.185-61 µm"
           path: "organic/C3H8O - propanol/Sani.yml"
@@ -2355,21 +2376,18 @@
         - PAGE: Moutzouris
           name: "Moutzouris et al. 2013: 1-Propanol; n 0.450-1.551 µm"
           path: "organic/C3H8O - propanol/Moutzouris.yml"
-        - PAGE: Kozma
-          name: "Kozma et al. 2005: iso-propanol; n 0.230-0.6407 µm"
-          path: "organic/C3H8O - propanol/Kozma.yml"
     - BOOK: butanol
       name: "C<sub>4</sub>H<sub>9</sub>OH (Butanol)"
       content:
+        - PAGE: El-Kashef
+          name: "El-Kashef 2000: n 0.4-0.8 µm"
+          path: "organic/C4H10O - butanol/El-Kashef.yml"
         - PAGE: Moutzouris-n
           name: "Moutzouris et al. 2013: n-Butanol; n 0.450-1.551 µm"
           path: "organic/C4H10O - butanol/Moutzouris-n.yml"
         - PAGE: Moutzouris-iso
           name: "Moutzouris et al. 2013: iso-Butanol; n 0.450-1.551 µm"
           path: "organic/C4H10O - butanol/Moutzouris-iso.yml"
-        - PAGE: El-Kashef
-          name: "El-Kashef 2000: n 0.4-0.8 µm"
-          path: "organic/C4H10O - butanol/El-Kashef.yml"
     - BOOK: pentanol
       name: "C<sub>5</sub>H<sub>11</sub>OH (Pentanol, amyl alcohol)"
       content:
@@ -2383,15 +2401,15 @@
     - BOOK: ethylene_glycol
       name: "C<sub>2</sub>H<sub>4</sub>(OH)<sub>2</sub> (Ethylene glycol)"
       content:
+        - PAGE: Otanicar
+          name: "Otanicar 2009: k 0.2-1.5 µm"
+          path: "organic/C2H6O2 - ethylene glycol/Otanicar.yml"
         - PAGE: Sani
           name: "Sani and Dell'Oro 2014: n,k 0.185-55.0 µm"
           path: "organic/C2H6O2 - ethylene glycol/Sani.yml"
         - PAGE: Sani-formula
           name: "Sani and Dell'Oro 2014: Dispersion formula; n,k 0.185-2.8 µm"
           path: "organic/C2H6O2 - ethylene glycol/Sani-formula.yml"
-        - PAGE: Otanicar
-          name: "Otanicar 2009: k 0.2-1.5 µm"
-          path: "organic/C2H6O2 - ethylene glycol/Otanicar.yml"
         - PAGE: Kozma
           name: "Kozma et al. 2005: n 0.230-0.6407 µm"
           path: "organic/C2H6O2 - ethylene glycol/Kozma.yml"
@@ -2443,12 +2461,12 @@
     - BOOK: cyclohexane
       name: "C<sub>6</sub>H<sub>12</sub> (Cyclohexane)"
       content:
-        - PAGE: Kozma
-          name: "Kozma et al. 2005: n 0.230-0.6407 µm"
-          path: "organic/C6H12 - cyclohexane/Kozma.yml"
         - PAGE: Rheims
           name: "Rheims et al. 1997: n 0.4765-0.83 µm"
           path: "organic/C6H12 - cyclohexane/Rheims.yml"
+        - PAGE: Kozma
+          name: "Kozma et al. 2005: n 0.230-0.6407 µm"
+          path: "organic/C6H12 - cyclohexane/Kozma.yml"
         - PAGE: Kerl-293K
           name: "Kerl and Varchmin 1995: 293 K; n 0.326-0.644 µm"
           path: "organic/C6H12 - cyclohexane/Kerl-293K.yml"
@@ -2474,12 +2492,12 @@
     - BOOK: toluene
       name: "C<sub>7</sub>H<sub>8</sub> (Toluene)"
       content:
-        - PAGE: Moutzouris
-          name: "Moutzouris et al. 2013: n 0.450-1.551 µm"
-          path: "organic/C7H8 - toluene/Moutzouris.yml"
         - PAGE: Kedenburg
           name: "Kedenburg et al. 2012: n 0.5-1.6 µm, k 0.5-1.75 µm"
           path: "organic/C7H8 - toluene/Kedenburg.yml"
+        - PAGE: Moutzouris
+          name: "Moutzouris et al. 2013: n 0.450-1.551 µm"
+          path: "organic/C7H8 - toluene/Moutzouris.yml"
         - PAGE: Kozma
           name: "Kozma et al. 2005: n 0.3001-0.6407 µm"
           path: "organic/C7H8 - toluene/Kozma.yml"
@@ -2533,12 +2551,12 @@
     - BOOK: carbon_tetrachloride
       name: "CCl<sub>4</sub> (Carbon tetrachloride)"
       content:
-        - PAGE: Moutzouris
-          name: "Moutzouris et al. 2013: n 0.450-1.551 µm"
-          path: "organic/CCl4 - carbon tetrachloride/Moutzouris.yml"
         - PAGE: Kedenburg
           name: "Kedenburg et al. 2012: n 0.5-1.6 µm, k 0.5-1.5 µm"
           path: "organic/CCl4 - carbon tetrachloride/Kedenburg.yml"
+        - PAGE: Moutzouris
+          name: "Moutzouris et al. 2013: n 0.450-1.551 µm"
+          path: "organic/CCl4 - carbon tetrachloride/Moutzouris.yml"
         - PAGE: Ghosal
           name: "Ghosal et al. 1993: n 1-9 µm"
           path: "organic/CCl4 - carbon tetrachloride/Ghosal.yml"
@@ -2546,12 +2564,12 @@
     - BOOK: acetonitrile
       name: "C<sub>2</sub>H<sub>3</sub>N (Acetonitrile)"
       content:
-        - PAGE: Moutzouris
-          name: "Moutzouris et al. 2013: n 0.450-1.551 µm"
-          path: "organic/C2H3N - acetonitrile/Moutzouris.yml"
         - PAGE: Kozma
           name: "Kozma et al. 2005: n 0.230-0.6407 µm"
           path: "organic/C2H3N - acetonitrile/Kozma.yml"
+        - PAGE: Moutzouris
+          name: "Moutzouris et al. 2013: n 0.450-1.551 µm"
+          path: "organic/C2H3N - acetonitrile/Moutzouris.yml"
     - DIVIDER: "Other non-polymer compounds"
     - BOOK: urea
       name: "CH<sub>4</sub>N<sub>2</sub>O (Urea)"
@@ -2587,18 +2605,33 @@
           name: "Rheims et al. 1997: n 0.5893-1.05 µm"
           path: "organic/C9H8O - cinnamaldehyde/Rheims.yml"
     - DIVIDER: "Polymers"
-    - BOOK: poly(methyl_methacrylate)
-      name: "(C<sub>5</sub>O<sub>2</sub>H<sub>8</sub>)<sub>n</sub> (Poly(methyl methacrylate), PMMA)"
+    - BOOK: polyvinyl_alcohol
+      name: "(C<sub>2</sub>H<sub>4</sub>O)<sub>n</sub> (Polyvinyl alcohol, PVA)"
       content:
-        - PAGE: Beadie
-          name: "Beadie et al. 2015: n 0.42-1.62 µm"
-          path: "organic/(C5O2H8)n - poly(methyl methacrylate)/Beadie.yml"
-        - PAGE: Szczurowski
-          name: "Szczurowski 2013: n 0.4047-1.083 µm"
-          path: "organic/(C5O2H8)n - poly(methyl methacrylate)/Szczurowski.yml"
+        - PAGE: Bodurov
+          name: "Bodurov et al. 2016: n 0.405-0.635 µm"
+          path: "organic/(C2H4O)n - polyvinyl alcohol/Bodurov.yml"
+    - BOOK: polylactic_acid
+      name: "(C<sub>3</sub>H<sub>4</sub>O<sub>2</sub>)<sub>n</sub> (Polylactic acid, PLA)"
+      content:
+        - PAGE: Bodurov
+          name: "Bodurov et al. 2016: PDLA; n 0.405-0.635 µm"
+          path: "organic/(C3H4O2)n - polylactic acid/Bodurov.yml"
+    - BOOK: poly(methyl_methacrylate)
+      name: "(C<sub>5</sub>H<sub>8</sub>O<sub>2</sub>)<sub>n</sub> (Poly(methyl methacrylate), PMMA)"
+      content:
         - PAGE: Sultanova
           name: "Sultanova et al. 2009: n 0.4368-1.052 µm"
-          path: "organic/(C5O2H8)n - poly(methyl methacrylate)/Sultanova.yml"
+          path: "organic/(C5H8O2)n - poly(methyl methacrylate)/Sultanova.yml"
+        - PAGE: Bodurov
+          name: "Bodurov et al. 2016: n 0.405-0.635 µm"
+          path: "organic/(C5H8O2)n - poly(methyl methacrylate)/Bodurov.yml"
+        - PAGE: Beadie
+          name: "Beadie et al. 2015: n 0.42-1.62 µm"
+          path: "organic/(C5H8O2)n - poly(methyl methacrylate)/Beadie.yml"
+        - PAGE: Szczurowski
+          name: "Szczurowski 2013: n 0.4047-1.083 µm"
+          path: "organic/(C5H8O2)n - poly(methyl methacrylate)/Szczurowski.yml"
     - BOOK: polyvinylpyrrolidone
       name: "(C<sub>6</sub>H<sub>9</sub>NO)<sub>n</sub> (Polyvinylpyrrolidone, PVP)"
       content:
@@ -6043,6 +6076,18 @@
         - PAGE: Rioux-Au0Ag100
           name: "Rioux et al. 2014: n,k 0.27-1.2 µm; 100% Ag"
           path: "other/alloys/Au-Ag/Rioux-Au0Ag100.yml"
+    - BOOK: Cu-Zn
+      name: "Cu-Zn (Copper-zinc alloy, Brass)"
+      content:
+        - PAGE: Querry-Cu90Zn10
+          name: "Querry 1985: n,k 0.21-55.6 µm; 90% Cu 10% Zn"
+          path: "other/alloys/Cu-Zn/Querry-Cu90Zn10.yml"
+        - PAGE: Querry-Cu85Zn15
+          name: "Querry 1985: n,k 0.21-55.6 µm; 85% Cu 15% Zn"
+          path: "other/alloys/Cu-Zn/Querry-Cu85Zn15.yml"
+        - PAGE: Querry-Cu70Zn30
+          name: "Querry 1985: n,k 0.21-55.6 µm; 70% Cu 30% Zn"
+          path: "other/alloys/Cu-Zn/Querry-Cu70Zn30.yml"
     - BOOK: Nb-Sn
       name: "Nb-Sn (Niobium-tin alloy)"
       content:
@@ -6474,6 +6519,9 @@
         - PAGE: aluminium
           name: "Aluminium (Al)"
           path: "main/Al/Rakic.yml"
+        - PAGE: "brass"
+          name: "Brass (Cu-Zn alloy)"
+          path: "other/alloys/Cu-Zn/Querry-Cu70Zn30.yml"
         - PAGE: copper
           name: "Copper (Cu)"
           path: "main/Cu/Rakic.yml"

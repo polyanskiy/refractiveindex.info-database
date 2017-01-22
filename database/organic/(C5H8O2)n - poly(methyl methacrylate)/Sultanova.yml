@@ -7,7 +7,7 @@ COMMENTS: "20 °C"
 DATA:
   - type: formula 2
     range: 0.4368 1.052
-    coefficients: 0 1.2969 0.011721
+    coefficients: 0 1.1819 0.011313
 INFO:
     n_is_absolute: false
     λ_is_vacuum: false

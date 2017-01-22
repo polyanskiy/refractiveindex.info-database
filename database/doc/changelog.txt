@@ -1,4 +1,15 @@
 [next release]
+  new data (thanks to Jinmu Staddon, Dennis Group, Springfield, MA, USA, for recommending data)
+    other/alloys/Cu-Zn/Querry-Cu90Zn10.yml
+    other/alloys/Cu-Zn/Querry-Cu85Zn15.yml
+    other/alloys/Cu-Zn/Querry-Cu70Zn30.yml
+  new data (thanks to Ppof. Ivan Bodurov, Plovdiv University, Bulgaria, for submitting data!)
+    main/ZnO/Bodurov.yml
+    main/ZrO2/Bodurov.yml
+    main/TiO2/Bodurov.yml
+    organic/(C5H8O2)n - poly(methyl methacrylate)/Bodurov.yml
+    organic/C2H4O)n - polyvinyl alcohol/Bodurov.yml
+    organic/(C3H4O2)n - polylactic acid/Bodurov.yml
   new data
     main/Si3N4/Luke.yml (thanks to Niklas Lüpken, University of Münster, Germany, for suggesting data!))
     main/CuO/Brimhall.ym
@@ -45,6 +56,7 @@
     other/semiconductor alloys/Si-Ge/Jellison-65.yml
     other/semiconductor alloys/Si-Ge/Jellison-85.yml
     other/semiconductor alloys/Si-Ge/Jellison-98.yml
+  
   updates: re-calculated with new scripts, info, references (links to new scripts on GitHub)
     main/Ag/Rakic.yml:
     main/Au/Rakic.yml:
@@ -75,6 +87,15 @@
     main/Ta/Ordal.yml: references, comments
     main/W/Ordal.yml: references, comments
     main/Mo/Ordal.yml: references, comments
+    organic/(C5H8O2)n - poly(methyl methacrylate)/Sultanova.yml: references, info
+    organic/(C6H10O5)n - cellulose/Sultanova.yml: references, info
+    organic/C8H8 - styrene/Sultanova.yml: references, info
+    organic/(C8H8)n - polystyren/Sultanova.yml: references, info
+    organic/(C16H14O3)n - polycarbonate/Sultanova.yml: references, info
+    other/mixed organic/(C8H8)n-(C3H3N)m/Sultanova.yml: references, info
+    other/commercial plastics/Optorez1330/Sultanova.yml: references, info
+    other/commercial plastics/ZeonexE48R/Sultanova.yml: references, info
+    other/commercial plastics/NAS-21/Sultanova.yml: references, info
   data re-arrangement
     new folder: "other/mixed crystals"
     other/mixed crystals/AlGaAs ---> other/semiconductor alloys/AlAs-GaAs
