@@ -1731,9 +1731,6 @@
     - BOOK: GaSb
       name: "GaSb (Gallium antimonide)"
       content:
-        - PAGE: Ferrini
-          name: "Ferrini et al. 1998: n,k 0.207-2.480 µm"
-          path: "other/mixed crystals/AlGaSb/Ferrini-0.yml"
         - PAGE: Aspnes
           name: "Aspnes and Studna 1983: n,k 0.21-0.83 µm"
           path: "main/GaSb/Aspnes.yml"
@@ -6130,7 +6127,7 @@
           path: "other/semiconductor alloys/AlAs-GaAs/Aspnes-0.yml"
         - PAGE: Aspnes-9.9
           name: "Aspnes et al. 1986: n,k 0.21-0.83 µm; 9.9% Al"
-          path: "other/mixed crystals/AlAs-GaAs/Aspnes-9.9.yml"
+          path: "other/semiconductor alloys/AlAs-GaAs/Aspnes-9.9.yml"
         - PAGE: Aspnes-19.8
           name: "Aspnes et al. 1986: n,k 0.21-0.83 µm; 19.8% Al"
           path: "other/semiconductor alloys/AlAs-GaAs/Aspnes-19.8.yml"
