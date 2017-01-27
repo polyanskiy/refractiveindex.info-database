@@ -9,6 +9,7 @@
     - BOOK: Ag
       name: "Ag (Silver)"
       content:
+        - DIVIDER: "Experimental data"
         - PAGE: Johnson
           name: "Johnson and Christy 1972: n,k 0.188-1.937 µm"
           path: "main/Ag/Johnson.yml"
@@ -19,23 +20,24 @@
           name: "Babar and Weaver 2015: n,k 0.2066-12.40 µm"
           path: "main/Ag/Babar.yml"
         - PAGE: Werner
-          name: "Werner et al. 2009: Experiment; n,k 0.01759-2.480 µm"
+          name: "Werner et al. 2009: n,k 0.01759-2.480 µm"
           path: "main/Ag/Werner.yml"
-        - PAGE: Werner-DFT
-          name: "Werner et al. 2009: DFT calculations; n,k 0.01759-2.480 µm"
-          path: "main/Ag/Werner-DFT.yml"
         - PAGE: Stahrenberg
           name: "Stahrenberg et al. 2001: n,k 0.128-0.496 µm"
           path: "main/Ag/Stahrenberg.yml"
-        - PAGE: Rakic
-          name: "Rakić 1998: n,k 0.2066-12.40 µm"
-          path: "main/Ag/Rakic.yml"
         - PAGE: Windt
           name: "Windt et al. 1988: n,k 0.0024-0.1216 µm"
           path: "main/Ag/Windt.yml"
         - PAGE: Hagemann
           name: "Hagemann et al. 1974: n,k 2.48e-6-248 µm"
           path: "main/Ag/Hagemann.yml"
+        - DIVIDER: "Models and simulations"
+        - PAGE: Rakic
+          name: "Rakić 1998: Brendel-Bormann model; n,k 0.2066-12.40 µm"
+          path: "main/Ag/Rakic.yml"
+        - PAGE: Werner-DFT
+          name: "Werner et al. 2009: DFT calculations; n,k 0.01759-2.480 µm"
+          path: "main/Ag/Werner-DFT.yml"
     - DIVIDER: "Al - Aluminium and aluminates"
     - BOOK: Al
       name: "Al (Aluminium)"
@@ -138,15 +140,15 @@
     - BOOK: GaAs
       name: "GaAs (Gallium arsenide)"
       content:
+        - PAGE: Aspnes
+          name: "Aspnes et al. 1986: n,k 0.21-0.83 µm"
+          path: "main/GaAs/Aspnes.yml"
         - PAGE: Skauli
           name: "Skauli et al. 2003: n 0.97-17 µm"
           path: "main/GaAs/Skauli.yml"
         - PAGE: Jellison
           name: "Jellison 1992: n,k 0.234-0.840 µm"
           path: "main/GaAs/Jellison.yml"
-        - PAGE: Aspnes
-          name: "Aspnes et al. 1986: n,k 0.21-0.83 µm"
-          path: "main/GaAs/Aspnes.yml"
         - PAGE: Kachare
           name: "Kachare et al. 1976: n 1.4-11 µm"
           path: "main/GaAs/Kachare.yml"
@@ -682,18 +684,23 @@
     - BOOK: Fe
       name: "Fe (Iron)"
       content:
-        - PAGE: Werner
-          name: "Werner et al. 2009: Experiment; n,k 0.01759-2.480 µm"
-          path: "main/Fe/Werner.yml"
-        - PAGE: Werner-DFT
-          name: "Werner et al. 2009: DFT calculations; n,k 0.01759-2.480 µm"
-          path: "main/Fe/Werner-DFT.yml"
-        - PAGE: Ordal
-          name: "Ordal et al. 1985: n,k 0.52-55.6 µm"
-          path: "main/Fe/Ordal.yml"
+        - DIVIDER: "Experimental data"
         - PAGE: Johnson
           name: "Johnson and Christy 1974: n,k 0.188-1.937 µm"
           path: "main/Fe/Johnson.yml"
+        - PAGE: Werner
+          name: "Werner et al. 2009: n,k 0.01759-2.480 µm"
+          path: "main/Fe/Werner.yml"
+        - PAGE: Ordal
+          name: "Ordal et al. 1985: n,k 0.52-55.6 µm"
+          path: "main/Fe/Ordal.yml"
+        - PAGE: Querry
+          name: "Querry 1985: n,k 0.21-55.6 µm"
+          path: "main/Fe/Querry.yml"
+        - DIVIDER: "Models and simulations"
+        - PAGE: Werner-DFT
+          name: "Werner et al. 2009: DFT calculations; n,k 0.01759-2.480 µm"
+          path: "main/Fe/Werner-DFT.yml" 
     - BOOK: BiFeO3
       name: "BiFeO3 (Bismuth ferrite, BFO)"
       content:
@@ -704,12 +711,12 @@
     - BOOK: Ge
       name: "Ge (Germanium)"
       content:
-        - PAGE: Jellison
-          name: "Jellison 1992: n,k 0.234-0.840 µm"
-          path: "main/Ge/Jellison.yml"
         - PAGE: Aspnes
           name: "Aspnes and Studna 1983: n,k 0.21-0.83 µm"
           path: "main/Ge/Aspnes.yml"
+        - PAGE: Jellison
+          name: "Jellison 1992: n,k 0.234-0.840 µm"
+          path: "main/Ge/Jellison.yml"
         - PAGE: Li-100K
           name: "Li 1980: n 1.9-18 µm; 100 K"
           path: "main/Ge/Li-100K.yml"
@@ -1142,24 +1149,32 @@
     - BOOK: Al2O3
       name: "Al<sub>2</sub>O<sub>3</sub> (Aluminium sesquioxide, Sapphire)"
       content:
+        - DIVIDER: "Crystal"
+        - PAGE: Malitson-o
+          name: "Malitson and Dodge 1972: Sapphire; n(o) 0.20-5.0 µm"
+          path: "main/Al2O3/Malitson-o.yml"
+        - PAGE: Malitson-e
+          name: "Malitson and Dodge 1972: Sapphire; n(e) 0.20-5.0 µm"
+          path: "main/Al2O3/Malitson-e.yml"
+        - PAGE: Querry-o
+          name: "Querry 1985: Sapphire; n,k(o) 0.21-55.6 µm"
+          path: "main/Al2O3/Querry-o.yml"
+        - PAGE: Querry-e
+          name: "Querry 1985: Sapphire; n,k(e) 0.21-55.6 µm"
+          path: "main/Al2O3/Querry-e.yml"
+        - PAGE: Malitson
+          name: "Malitson 1962: Sapphire; n(o) 0.2652-5.577 µm"
+          path: "main/Al2O3/Malitson.yml"
+        - DIVIDER: "Thin film"
+        - PAGE: Hagemann
+          name: "Hagemann et al. 1974: Thin film; n,k 0.0007749-0.2066 µm"
+          path: "main/Al2O3/Hagemann.yml"
         - PAGE: Boidin
           name: "Boidin et al. 2016: Thin film; n 0.3-18 µm"
           path: "main/Al2O3/Boidin.yml"
         - PAGE: Kischkat
           name: "Kischkat et al. 2012: Thin film; n,k 1.54-14.29 µm"
           path: "main/Al2O3/Kischkat.yml"
-        - PAGE: Hagemann
-          name: "Hagemann et al. 1974: n,k 0.0007749-0.2066 µm"
-          path: "main/Al2O3/Hagemann.yml"
-        - PAGE: Malitson-o
-          name: "Malitson and Dodge 1972: Synthetic sapphire; n(o) 0.20-5.0 µm"
-          path: "main/Al2O3/Malitson-o.yml"
-        - PAGE: Malitson-e
-          name: "Malitson and Dodge 1972: Synthetic sapphire; n(e) 0.20-5.0 µm"
-          path: "main/Al2O3/Malitson-e.yml"
-        - PAGE: Malitson
-          name: "Malitson 1962: Synthetic sapphire; n(o) 0.2652-5.577 µm"
-          path: "main/Al2O3/Malitson.yml"
     - BOOK: BeO
       name: "BeO (Beryllium monoxide)"
       content:
@@ -1413,12 +1428,12 @@
     - BOOK: GaP
       name: "GaP (Gallium phosphide)"
       content:
-        - PAGE: Jellison
-          name: "Jellison 1992: n,k 0.234-0.840 µm"
-          path: "main/GaP/Jellison.yml"
         - PAGE: Aspnes
           name: "Aspnes and Studna 1983: n,k 0.21-0.83 µm"
           path: "main/GaP/Aspnes.yml"
+        - PAGE: Jellison
+          name: "Jellison 1992: n,k 0.234-0.840 µm"
+          path: "main/GaP/Jellison.yml"
         - PAGE: Parsons
           name: "Parsons and Coleman 1971: n 54.369-366.03 µm"
           path: "main/GaP/Parsons.yml"
@@ -1734,6 +1749,9 @@
         - PAGE: Aspnes
           name: "Aspnes and Studna 1983: n,k 0.21-0.83 µm"
           path: "main/GaSb/Aspnes.yml"
+        - PAGE: Ferrini
+          name: "Ferrini et al. 1998: n,k 0.207-2.480 µm"
+          path: "other/semiconductor alloys/AlSb-GaSb/Ferrini-0.yml"
     - BOOK: InSb
       name: "InSb (Indium antimonide)"
       content:
@@ -1825,6 +1843,9 @@
       name: "Si (Silicon)"
       content:
         - DIVIDER: "Crystalline silicon"
+        - PAGE: Aspnes
+          name: "Aspnes and Studna 1983: n,k 0.21-0.83 µm"
+          path: "main/Si/Aspnes.yml"
         - PAGE: Chandler-Horowitz
           name: "Chandler-Horowitz and Amirtharaj 2005: n 2.5-22.222 µm, k 6.25-23.256 µm"
           path: "main/Si/Chandler-Horowitz.yml"
@@ -1861,9 +1882,6 @@
         - PAGE: Jellison
           name: "Jellison 1992: n,k 0.234-0.840 µm"
           path: "main/Si/Jellison.yml"
-        - PAGE: Aspnes
-          name: "Aspnes and Studna 1983: n,k 0.21-0.83 µm"
-          path: "main/Si/Aspnes.yml"
         - PAGE: Edwards
           name: "Edwards and Ochoa 1980: n 2.5-25 µm"
           path: "main/Si/Edwards.yml"
@@ -2232,24 +2250,27 @@
     - BOOK: methane
       name: "CH<sub>4</sub> (Methane)"
       content:
+        - DIVIDER:"Gas"
         - PAGE: Rollefson
           name: "Rollefson and Havens 1940: Gas at 0 °C; n 1.68-14.8 µm"
-          path: "organic/CH4 - methane/Rollefson.yml"
+          path: "organic/CH4 - methane/Rollefson.yml" 
+        - PAGE: Loria
+          name: "Loria 1909: Gas at 0 °C; n 0.5290-0.6585 µm"
+          path: "organic/CH4 - methane/Loria.yml"  
+        - DIVIDER:"Liquid"
         - PAGE: Martonchik-liquid-111K
           name: "Martonchik and Orton 1994: Liquid at 111 K; n,k 0.002-71.43 µm"
           path: "organic/CH4 - methane/Martonchik-liquid-111K.yml"
         - PAGE: Martonchik-liquid-90K
           name: "Martonchik and Orton 1994: Liquid at 90 K; n,k 0.002-71.43 µm"
           path: "organic/CH4 - methane/Martonchik-liquid-90K.yml"
+        - DIVIDER:"Solid"
         - PAGE: Martonchik-solid-90K
           name: "Martonchik and Orton 1994: Solid at 90 K; n,k 0.002-100 µm"
           path: "organic/CH4 - methane/Martonchik-solid-90K.yml"
         - PAGE: Martonchik-solid-30K
           name: "Martonchik and Orton 1994: Solid at 30 K; n,k 0.002-100 µm"
           path: "organic/CH4 - methane/Martonchik-solid-30K.yml"
-        - PAGE: Loria
-          name: "Loria 1909: Gas at 0 °C; n 0.5290-0.6585 µm"
-          path: "organic/CH4 - methane/Loria.yml"
     - BOOK: ethane
       name: "C<sub>2</sub>H<sub>6</sub> (Ethane)"
       content:
@@ -6548,15 +6569,15 @@
       content:
         - PAGE: pmma
           name: "PMMA - Poly(methyl methacrylate)"
-          path: "organic/(C5O2H8)n - poly(methyl methacrylate)/Szczurowski.yml"
+          path: "organic/(C5H8O2)n - poly(methyl methacrylate)/Sultanova.yml"
         - PAGE: pvp
-          name: "PVP - polyvinylpyrrolidone"
+          name: "PVP - Polyvinylpyrrolidone"
           path: "organic/(C6H9NO)n - polyvinylpyrrolidone/Konig.yml"
         - PAGE: ps
-          name: "PS - polystyren"
+          name: "PS - Polystyren"
           path: "organic/(C8H8)n - polystyren/Sultanova.yml"
         - PAGE: pc
-          name: "PC - polycarbonate"
+          name: "PC - Polycarbonate"
           path: "organic/(C16H14O3)n - polycarbonate/Sultanova.yml"
         - PAGE: Cellulose
           name: "Cellulose"
@@ -6588,6 +6609,9 @@
         - PAGE: salt
           name: "Salt (NaCl)"
           path: "main/NaCl/Li.yml"
+        - PAGE: sapphire
+          name: "Sapphire (Al2O3)"
+          path: "main/Al2O3/Malitson-o.yml
         - PAGE: silicon
           name: "Silicon (Si)"
           path: "main/Si/Vuye-20C.yml"

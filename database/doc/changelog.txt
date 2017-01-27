@@ -3,6 +3,9 @@
     other/alloys/Cu-Zn/Querry-Cu90Zn10.yml
     other/alloys/Cu-Zn/Querry-Cu85Zn15.yml
     other/alloys/Cu-Zn/Querry-Cu70Zn30.yml
+    main/Al2O3/Querry-o.yml
+    main/Al2O3/Querry-e.yml
+    main/Fe/Querry.yml
   new data (thanks to Ppof. Ivan Bodurov, Plovdiv University, Bulgaria, for submitting data!)
     main/ZnO/Bodurov.yml
     main/ZrO2/Bodurov.yml
