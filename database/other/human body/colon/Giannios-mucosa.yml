@@ -7,9 +7,9 @@ COMMENTS: "24 °C ± 2 °C."
 DATA:
   - type: formula 5
     range: 0.45 1.551
-    coefficients: 1.321743411 0.009941336 -2 –0.000890957 -4
+    coefficients: 1.321743411 0.009941336 -2 -0.000890957 -4
   - type: tabulated k
-    data:
+    data: |
         0.450 0.0059731
         0.453 0.0059505
         0.456 0.0059280
