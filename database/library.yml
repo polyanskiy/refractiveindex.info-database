@@ -1147,23 +1147,23 @@
           name: "Zhang et al. 2008: n 0.4-1.8 µm; 20 °C"
           path: "main/O2/Zhang.yml"
     - BOOK: Al2O3
-      name: "Al<sub>2</sub>O<sub>3</sub> (Aluminium sesquioxide, Sapphire)"
+      name: "Al<sub>2</sub>O<sub>3</sub> (Aluminium sesquioxide, Sapphire, Alumina)"
       content:
         - DIVIDER: "Crystal"
         - PAGE: Malitson-o
-          name: "Malitson and Dodge 1972: Sapphire; n(o) 0.20-5.0 µm"
+          name: "Malitson and Dodge 1972: α-Al2O3 (Sapphire); n(o) 0.20-5.0 µm"
           path: "main/Al2O3/Malitson-o.yml"
         - PAGE: Malitson-e
-          name: "Malitson and Dodge 1972: Sapphire; n(e) 0.20-5.0 µm"
+          name: "Malitson and Dodge 1972: α-Al2O3 (Sapphire); n(e) 0.20-5.0 µm"
           path: "main/Al2O3/Malitson-e.yml"
         - PAGE: Querry-o
-          name: "Querry 1985: Sapphire; n,k(o) 0.21-55.6 µm"
+          name: "Querry 1985: α-Al2O3 (Sapphire); n,k(o) 0.21-55.6 µm"
           path: "main/Al2O3/Querry-o.yml"
         - PAGE: Querry-e
-          name: "Querry 1985: Sapphire; n,k(e) 0.21-55.6 µm"
+          name: "Querry 1985: α-Al2O3 (Sapphire); n,k(e) 0.21-55.6 µm"
           path: "main/Al2O3/Querry-e.yml"
         - PAGE: Malitson
-          name: "Malitson 1962: Sapphire; n(o) 0.2652-5.577 µm"
+          name: "Malitson 1962: α-Al2O3 (Sapphire); n(o) 0.2652-5.577 µm"
           path: "main/Al2O3/Malitson.yml"
         - DIVIDER: "Thin film"
         - PAGE: Hagemann
@@ -1204,7 +1204,16 @@
       content:
         - PAGE: Medenbach
           name: "Medenbach et al. 2001: n 0.435-0.644 µm"
-          path: "main/Dy2O3/Medenbach.yml"
+          path: "main/Dy2O3/Medenbach.yml"- BOOK: Al2O3
+    - BOOK: Fe2O3
+      name: "Fe<sub>2</sub>O<sub>3</sub> (Iron sesquioxide, Hematite)"
+      content:
+        - PAGE: Querry-o
+          name: "Querry 1985: α-Fe2O3 (Hematite); n,k(o) 0.21-55.6 µm"
+          path: "main/Fe2O3/Querry-o.yml"
+        - PAGE: Querry-e
+          name: "Querry 1985: α-Fe2O3 (Hematite); n,k(e) 0.21-55.6 µm"
+          path: "main/Fe2O3/Querry-e.yml"
     - BOOK: GeO2
       name: "GeO<sub>2</sub> (Germanium dioxide, Germania)"
       content:
@@ -6611,7 +6620,7 @@
           path: "main/NaCl/Li.yml"
         - PAGE: sapphire
           name: "Sapphire (Al2O3)"
-          path: "main/Al2O3/Malitson-o.yml
+          path: "main/Al2O3/Malitson-o.yml"
         - PAGE: silicon
           name: "Silicon (Si)"
           path: "main/Si/Vuye-20C.yml"
