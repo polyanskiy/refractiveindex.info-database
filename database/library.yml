@@ -1214,6 +1214,12 @@
         - PAGE: Querry-e
           name: "Querry 1985: α-Fe2O3 (Hematite); n,k(e) 0.21-55.6 µm"
           path: "main/Fe2O3/Querry-e.yml"
+    - BOOK: Fe3O4
+      name: "Fe<sub>3</sub>O<sub>4</sub> (Iron(II,III) oxide, Magnetite)"
+      content:
+        - PAGE: Querry
+          name: "Querry 1985: n,k 0.21-55.6 µm"
+          path: "main/Fe3O4/Querry.yml"
     - BOOK: GeO2
       name: "GeO<sub>2</sub> (Germanium dioxide, Germania)"
       content:

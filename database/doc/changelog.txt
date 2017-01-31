@@ -6,6 +6,9 @@
     main/Al2O3/Querry-o.yml
     main/Al2O3/Querry-e.yml
     main/Fe/Querry.yml
+    main/Fe2O3/Querry-o.yml
+    main/Fe2O3/Querry-e.yml
+    main/Fe3O4/Querry.ym
   new data (thanks to Ppof. Ivan Bodurov, Plovdiv University, Bulgaria, for submitting data!)
     main/ZnO/Bodurov.yml
     main/ZrO2/Bodurov.yml
