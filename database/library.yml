@@ -1204,7 +1204,7 @@
       content:
         - PAGE: Medenbach
           name: "Medenbach et al. 2001: n 0.435-0.644 µm"
-          path: "main/Dy2O3/Medenbach.yml"- BOOK: Al2O3
+          path: "main/Dy2O3/Medenbach.yml"
     - BOOK: Fe2O3
       name: "Fe<sub>2</sub>O<sub>3</sub> (Iron sesquioxide, Hematite)"
       content:
@@ -2259,21 +2259,21 @@
     - BOOK: methane
       name: "CH<sub>4</sub> (Methane)"
       content:
-        - DIVIDER:"Gas"
+        - DIVIDER: "Gas"
         - PAGE: Rollefson
           name: "Rollefson and Havens 1940: Gas at 0 °C; n 1.68-14.8 µm"
           path: "organic/CH4 - methane/Rollefson.yml" 
         - PAGE: Loria
           name: "Loria 1909: Gas at 0 °C; n 0.5290-0.6585 µm"
           path: "organic/CH4 - methane/Loria.yml"  
-        - DIVIDER:"Liquid"
+        - DIVIDER: "Liquid"
         - PAGE: Martonchik-liquid-111K
           name: "Martonchik and Orton 1994: Liquid at 111 K; n,k 0.002-71.43 µm"
           path: "organic/CH4 - methane/Martonchik-liquid-111K.yml"
         - PAGE: Martonchik-liquid-90K
           name: "Martonchik and Orton 1994: Liquid at 90 K; n,k 0.002-71.43 µm"
           path: "organic/CH4 - methane/Martonchik-liquid-90K.yml"
-        - DIVIDER:"Solid"
+        - DIVIDER: "Solid"
         - PAGE: Martonchik-solid-90K
           name: "Martonchik and Orton 1994: Solid at 90 K; n,k 0.002-100 µm"
           path: "organic/CH4 - methane/Martonchik-solid-90K.yml"
