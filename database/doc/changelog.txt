@@ -80,8 +80,12 @@
     main/C/Djurisic-o.yml
     main/C/Djurisic-e.yml
   updates:
-    main/TiO2/Devore-o.yml: references
-    main/TiO2/Devore-e.yml: references
+    main/TiO2/Devore-o.yml: references, formula
+    main/TiO2/Devore-e.yml: references, formula
+    main/Pb5Ge3O11/Simon-o.yml:formula
+    main/Pb5Ge3O11/Simon-e.yml:formula
+    organic/CH4N2O - urea/Rosker-o.yml:formula
+    other/mixed crystals/TlBr-TlCl/Hettner.yml:formula
     main/H2O/Hale.yml: references
     main/NaI/Li.yml: comments, info
     main/N2/Griesmann.yml: comments, info

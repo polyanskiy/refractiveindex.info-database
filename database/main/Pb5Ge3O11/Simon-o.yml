@@ -7,4 +7,4 @@ COMMENTS: "Ordinary ray (o). 21 °C."
 DATA:
   - type: formula 4
     range: 0.45 0.70
-    coefficients: 2.470 1.687 2 0.06146 1
+    coefficients: 2.470 1.687 2 0.06146 1 0 0 0 1

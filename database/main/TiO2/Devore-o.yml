@@ -7,4 +7,4 @@ COMMENTS: "Ordinary ray (o); Room temperature."
 DATA:
   - type: formula 4
     range: 0.43 1.53
-    coefficients: 5.913 0.2441 0 0.0803 1
+    coefficients: 5.913 0.2441 0 0.0803 1 0 0 0 1
