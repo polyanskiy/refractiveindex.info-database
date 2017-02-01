@@ -1373,18 +1373,24 @@
     - BOOK: TiO2
       name: "TiO<sub>2</sub> (Titanium dioxide)"
       content:
+        - DIVIDER: "Crystal"
         - PAGE: Devore-o
           name: "Devore 1951: n(o) 0.43-1.53 µm"
           path: "main/TiO2/Devore-o.yml"
         - PAGE: Devore-e
           name: "Devore 1951: n(e) 0.43-1.53 µm"
           path: "main/TiO2/Devore-e.yml"
-        - PAGE: Bodurov
-          name: "Bodurov et al. 2016: Nanoparticles; n 0.405-0.635 µm"
-          path: "main/TiO2/Bodurov.yml"
+        - DIVIDER: "Thin film"
         - PAGE: Kischkat
           name: "Kischkat et al. 2012: n,k 1.54-14.29 µm"
           path: "main/TiO2/Kischkat.yml"
+        - PAGE: Siefke
+          name: "Siefke et al. 2016: n,k 0.120-125 µm"
+          path: "main/TiO2/Siefke.yml"
+        - DIVIDER: "Nanoparticles"
+        - PAGE: Bodurov
+          name: "Bodurov et al. 2016: n 0.405-0.635 µm"
+          path: "main/TiO2/Bodurov.yml"
     - BOOK: Y2O3
       name: "Y<sub>2</sub>O<sub>3</sub> (Yttrium sesquioxide)"
       content:

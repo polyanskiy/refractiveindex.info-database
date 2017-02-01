@@ -1,4 +1,15 @@
 [next release]
+  new data (thanks to Thomas Siefke, Friedrich-Schiller-University Jena, Germany, for submitting data in yaml format!)
+    main/TiO2/Siefke.yml
+  new data (thanks to Niklas Lüpken, University of Münster, Germany, for suggesting data!)
+    main/Si3N4/Luke.yml
+  new data (thanks to Ppof. Ivan Bodurov, Plovdiv University, Bulgaria, for submitting data!)
+    main/ZnO/Bodurov.yml
+    main/ZrO2/Bodurov.yml
+    main/TiO2/Bodurov.yml
+    organic/(C5H8O2)n - poly(methyl methacrylate)/Bodurov.yml
+    organic/C2H4O)n - polyvinyl alcohol/Bodurov.yml
+    organic/(C3H4O2)n - polylactic acid/Bodurov.yml
   new data (thanks to Jinmu Staddon, Dennis Group, Springfield, MA, USA, for recommending data)
     other/alloys/Cu-Zn/Querry-Cu90Zn10.yml
     other/alloys/Cu-Zn/Querry-Cu85Zn15.yml
@@ -8,16 +19,8 @@
     main/Fe/Querry.yml
     main/Fe2O3/Querry-o.yml
     main/Fe2O3/Querry-e.yml
-    main/Fe3O4/Querry.ym
-  new data (thanks to Ppof. Ivan Bodurov, Plovdiv University, Bulgaria, for submitting data!)
-    main/ZnO/Bodurov.yml
-    main/ZrO2/Bodurov.yml
-    main/TiO2/Bodurov.yml
-    organic/(C5H8O2)n - poly(methyl methacrylate)/Bodurov.yml
-    organic/C2H4O)n - polyvinyl alcohol/Bodurov.yml
-    organic/(C3H4O2)n - polylactic acid/Bodurov.yml
+    main/Fe3O4/Querry.yml
   new data
-    main/Si3N4/Luke.yml (thanks to Niklas Lüpken, University of Münster, Germany, for suggesting data!))
     main/CuO/Brimhall.ym
     main/Ag/Werner.yml
     main/Ag/Werner-DFT.yml
@@ -62,7 +65,6 @@
     other/semiconductor alloys/Si-Ge/Jellison-65.yml
     other/semiconductor alloys/Si-Ge/Jellison-85.yml
     other/semiconductor alloys/Si-Ge/Jellison-98.yml
-  
   updates: re-calculated with new scripts, info, references (links to new scripts on GitHub)
     main/Ag/Rakic.yml:
     main/Au/Rakic.yml:
@@ -78,6 +80,8 @@
     main/C/Djurisic-o.yml
     main/C/Djurisic-e.yml
   updates:
+    main/TiO2/Devore-o.yml: references
+    main/TiO2/Devore-e.yml: references
     main/H2O/Hale.yml: references
     main/NaI/Li.yml: comments, info
     main/N2/Griesmann.yml: comments, info
