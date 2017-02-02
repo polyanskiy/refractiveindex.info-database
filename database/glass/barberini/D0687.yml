@@ -2,7 +2,7 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "<a href=\"http://refractiveindex.info/download/data/2011/barberini/d06870-v-513-e.pdf\">Barberini D0587 glass specifications, 2011-01</a>"
+REFERENCES: "<a href=\"https://refractiveindex.info/download/data/2011/barberini/d06870-v-513-e.pdf\">Barberini D0587 glass specifications, 2011-01</a>"
 COMMENTS: "20 °C<br>Photochromic Glass; Colour: clear; Application: Lower segment glass for photochromic ophthalmic crown glass"
 DATA:
   - type: tabulated n

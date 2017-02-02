@@ -1325,30 +1325,33 @@
     - BOOK: SiO2
       name: "SiO<sub>2</sub> (Silicon dioxide, Silica, Quartz)"
       content:
-        - PAGE: Gao
-          name: "Gao et al. 2013: Thin film; n,k 0.252-1.250 µm"
-          path: "main/SiO2/Gao.yml"
-        - PAGE: Lemarchand
-          name: "Lemarchand 2013: Thin film; n,k 0.25-2.5 µm"
-          path: "main/SiO2/Lemarchand.yml"
-        - PAGE: Kischkat
-          name: "Kischkat et al. 2012: Thin film; n,k 1.54-14.29 µm"
-          path: "main/SiO2/Kischkat.yml"
+        - DIVIDER: "Fused silica"
+        - PAGE: Malitson
+          name: "Malitson 1965: Fused silica; n 0.21-3.71 µm"
+          path: "main/SiO2/Malitson.yml"
+        - DIVIDER: "Crystal"
         - PAGE: Ghosh-o
           name: "Ghosh 1999: α-Quartz, n(o) 0.198-2.0531 µm"
           path: "main/SiO2/Ghosh-o.yml"
         - PAGE: Ghosh-e
           name: "Ghosh 1999: α-Quartz, n(e) 0.198-2.0531 µm"
           path: "main/SiO2/Ghosh-e.yml"
-        - PAGE: Malitson
-          name: "Malitson 1965: Fused silica; n 0.21-3.71 µm"
-          path: "main/SiO2/Malitson.yml"
         - PAGE: Radhakrishnan-o
           name: "Radhakrishnan 1951: α-Quartz; n(o) 0.18-3 µm"
           path: "main/SiO2/Radhakrishnan-o.yml"
         - PAGE: Radhakrishnan-e
           name: "Radhakrishnan 1951: α-Quartz; n(e) 0.18-3 µm"
           path: "main/SiO2/Radhakrishnan-e.yml"
+        - DIVIDER: "Thin film"
+        - PAGE: Kischkat
+          name: "Kischkat et al. 2012: Thin film; n,k 1.54-14.29 µm"
+          path: "main/SiO2/Kischkat.yml"
+        - PAGE: Gao
+          name: "Gao et al. 2013: Thin film; n,k 0.252-1.250 µm"
+          path: "main/SiO2/Gao.yml"
+        - PAGE: Lemarchand
+          name: "Lemarchand 2013: Thin film; n,k 0.25-2.5 µm"
+          path: "main/SiO2/Lemarchand.yml"
     - BOOK: Ta2O5
       name: "Ta<sub>2</sub>O<sub>5</sub> (Tantalum pentoxide)"
       content:
@@ -1375,21 +1378,21 @@
       content:
         - DIVIDER: "Crystal"
         - PAGE: Devore-o
-          name: "Devore 1951: n(o) 0.43-1.53 µm"
+          name: "Devore 1951: Crystal; n(o) 0.43-1.53 µm"
           path: "main/TiO2/Devore-o.yml"
         - PAGE: Devore-e
-          name: "Devore 1951: n(e) 0.43-1.53 µm"
+          name: "Devore 1951: Crystal; n(e) 0.43-1.53 µm"
           path: "main/TiO2/Devore-e.yml"
         - DIVIDER: "Thin film"
         - PAGE: Kischkat
-          name: "Kischkat et al. 2012: n,k 1.54-14.29 µm"
+          name: "Kischkat et al. 2012: Thin film; n,k 1.54-14.29 µm"
           path: "main/TiO2/Kischkat.yml"
         - PAGE: Siefke
-          name: "Siefke et al. 2016: n,k 0.120-125 µm"
+          name: "Siefke et al. 2016: Thin film; n,k 0.120-125 µm"
           path: "main/TiO2/Siefke.yml"
         - DIVIDER: "Nanoparticles"
         - PAGE: Bodurov
-          name: "Bodurov et al. 2016: n 0.405-0.635 µm"
+          name: "Bodurov et al. 2016: Nanoparticles; n 0.405-0.635 µm"
           path: "main/TiO2/Bodurov.yml"
     - BOOK: Y2O3
       name: "Y<sub>2</sub>O<sub>3</sub> (Yttrium sesquioxide)"
@@ -1406,21 +1409,25 @@
     - BOOK: ZnO
       name: "ZnO (Zinc monoxide)"
       content:
+        - DIVIDER: "Crystal"
         - PAGE: Bond-o
           name: "Bond et al. 1965: n(o) 0.45-4.0 µm"
           path: "main/ZnO/Bond-o.yml"
         - PAGE: Bond-e
           name: "Bond et al. 1965: n(e) 0.45-4.0 µm"
           path: "main/ZnO/Bond-e.yml"
+        - DIVIDER: "Nanoparticles"
         - PAGE: Bodurov
           name: "Bodurov et al. 2016: Nanoparticles; n 0.405-0.635 µm"
           path: "main/ZnO/Bodurov.yml"
     - BOOK: ZrO2
       name: "ZrO<sub>2</sub> (Zirconium dioxide, Zirconia)"
       content:
+        - DIVIDER: "Crystal"
         - PAGE: Wood
           name: "Wood and Nassau 1982: Cubic zirconia stabilized with yttria; n 0.361-5.135 µm"
           path: "other/mixed crystals/ZrO2-Y2O3/Wood.yml"
+        - DIVIDER: "Nanoparticles"
         - PAGE: Bodurov
           name: "Bodurov et al. 2016: Nanoparticles; n 0.405-0.635 µm"
           path: "main/ZrO2/Bodurov.yml"

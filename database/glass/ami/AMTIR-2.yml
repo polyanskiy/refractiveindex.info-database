@@ -2,7 +2,7 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "<a href=\"http://refractiveindex.info/download/data/2013/AMTIR-2%20Information.pdf\">Amorphous Materials AMTIR-2 Information (2013)</a> - downloaded 2014-01-11"
+REFERENCES: "<a href=\"https://refractiveindex.info/download/data/2013/AMTIR-2%20Information.pdf\">Amorphous Materials AMTIR-2 Information (2013)</a> - downloaded 2014-01-11"
 DATA:
   - type: formula 1
     range: 1 13

@@ -2,7 +2,7 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "1) <a href=\"http://refractiveindex.info/download/data/2014/VITRON%20IG-4%20Datenblatt%20Juni%202014.pdf\">VITRON datasheet IG-4 June 2014</a><br>2) Dr. Rolf Henkel (VITRON Spezialwerkstoffe GmbH) - private communications"
+REFERENCES: "1) <a href=\"https://refractiveindex.info/download/data/2014/VITRON%20IG-4%20Datenblatt%20Juni%202014.pdf\">VITRON datasheet IG-4 June 2014</a><br>2) Dr. Rolf Henkel (VITRON Spezialwerkstoffe GmbH) - private communications"
 COMMENTS: "Room temperature. Refractive index is relative to air at standard conditions; Wavelength in dispersion formula is as measured in air and expressed in micrometers."
 DATA:
   - type: formula 1

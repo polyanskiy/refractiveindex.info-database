@@ -2,7 +2,7 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "<a href=\"http://refractiveindex.info/download/data/2010/barberini/d67260_68260-pss-e.pdf\">Barberini D6726/D6826 glass specifications, 2010-11</a>"
+REFERENCES: "<a href=\"https://refractiveindex.info/download/data/2010/barberini/d67260_68260-pss-e.pdf\">Barberini D6726/D6826 glass specifications, 2010-11</a>"
 COMMENTS: "20 °C<br>Photochromic Glass; Colour: grey-brown; Application: Glass sensitive to light for corrective lenses and sun glare filter; luminous transmittance range 89% (τ<sub>0</sub>) / 26% (τ<sub>1</sub>) or filter categories 0 / 2 respectively and UV-absorption"
 DATA:
   - type: tabulated n

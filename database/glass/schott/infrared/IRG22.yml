@@ -2,7 +2,7 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "<a href=\"http://refractiveindex.info/download/data/2013/schott-infrared-chalcogenide-glasses-irg22-october-2013-us.pdf\">SCHOTT Infrared Chalcogenide Glasses - IRG 22 Product flyer (Version May 2013)</a>"
+REFERENCES: "<a href=\"https://refractiveindex.info/download/data/2013/schott-infrared-chalcogenide-glasses-irg22-october-2013-us.pdf\">SCHOTT Infrared Chalcogenide Glasses - IRG 22 Product flyer (Version May 2013)</a>"
 COMMENTS: "20 °C"
 DATA:
   - type: formula 2
