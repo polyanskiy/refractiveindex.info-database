@@ -1203,7 +1203,7 @@
       name: "Cu<sub>2</sub>O (Copper(I) oxide)"
       content:
         - PAGE: Querry
-          name: "Querry 1985: n,k(o) 2.5-55.6 µm"
+          name: "Querry 1985: n,k 2.5-55.6 µm"
           path: "main/Cu2O/Querry.yml"
     - BOOK: Dy2O3
       name: "Dy<sub>2</sub>O<sub>3</sub> (Dysprosium sesquioxide)"
@@ -1422,6 +1422,10 @@
         - PAGE: Bond-e
           name: "Bond et al. 1965: n(e) 0.45-4.0 µm"
           path: "main/ZnO/Bond-e.yml"
+        - DIVIDER: "Pellet"
+        - PAGE: Querry
+          name: "Querry 1985: n,k 0.21-55.6 µm"
+          path: "main/ZnO/Querry.yml"
         - DIVIDER: "Nanoparticles"
         - PAGE: Bodurov
           name: "Bodurov et al. 2016: Nanoparticles; n 0.405-0.635 µm"
