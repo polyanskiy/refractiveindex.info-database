@@ -183,6 +183,7 @@
     - BOOK: Au
       name: "Au (Gold)"
       content:
+        - DIVIDER: "Experimental data"
         - PAGE: Johnson
           name: "Johnson and Christy 1972: n,k 0.188-1.937 µm"
           path: "main/Au/Johnson.yml"
@@ -216,12 +217,6 @@
         - PAGE: Werner
           name: "Werner et al. 2009: Experiment; n,k 0.01759-2.480 µm"
           path: "main/Au/Werner.yml"
-        - PAGE: Werner-DFT
-          name: "Werner et al. 2009: DFT calculations; n,k 0.01759-2.480 µm"
-          path: "main/Au/Werner-DFT.yml"
-        - PAGE: Rakic
-          name: "Rakić 1998: n,k 0.2066-12.40 µm"
-          path: "main/Au/Rakic.yml"
         - PAGE: Windt
           name: "Windt et al. 1988: n,k 0.0024-0.1216 µm"
           path: "main/Au/Windt.yml"
@@ -234,6 +229,13 @@
         - PAGE: Hagemann-2
           name: "Hagemann et al. 1974 #2: n,k 0.003542-0.8266 µm"
           path: "main/Au/Hagemann-2.yml"
+        - DIVIDER: "Models and simulations"
+        - PAGE: Rakic
+          name: "Rakić 1998: Brendel-Bormann model; n,k 0.2066-12.40 µm"
+          path: "main/Au/Rakic.yml"
+        - PAGE: Werner-DFT
+          name: "Werner et al. 2009: DFT calculations; n,k 0.01759-2.480 µm"
+          path: "main/Au/Werner-DFT.yml"
     - DIVIDER: "B - Boron and borates"
     - BOOK: B
       name: "B (Boron)"
@@ -371,30 +373,35 @@
     - BOOK: C
       name: "C (Carbon)"
       content:
-        - PAGE: Larruquert
-          name: "Larruquert et al. 2013: Tetrahedral amorphous thin film; n,k 0.01966-10.07 µm"
-          path: "main/C/Larruquert.yml"
-        - PAGE: Weber
-          name: "Weber et al. 2010: Graphene; n,k 0.21-1.0 µm"
-          path: "main/C/Weber.yml"
-        - PAGE: Djurisic-o
-          name: "Djurišić and Li 1999: Graphite; n,k (o); 0.0310-10.332 µm"
-          path: "main/C/Djurisic-o.yml"
-        - PAGE: Djurisic-e
-          name: "Djurišić and Li 1999: Graphite; n,k (e); 0.0310-0.5904 µm"
-          path: "main/C/Djurisic-e.yml"
-        - PAGE: Dore
-          name: "Dore et al. 1998: Polycrystalline CVD diamond; n,k 2.5-500 µm"
-          path: "main/C/Dore.yml"
-        - PAGE: Hagemann
-          name: "Hagemann et al. 1974: Amorphous; n,k 0.00004133-124 µm"
-          path: "main/C/Hagemann.yml"
+        - DIVIDER: "Diamond"
         - PAGE: Phillip
           name: "Phillip and Taft 1964: Diamond; n,k 0.0354-10 µm"
           path: "main/C/Phillip.yml"
         - PAGE: Peter
           name: "Peter 1923: Diamond; n 0.226-0.760 µm"
           path: "main/C/Peter.yml"
+        - DIVIDER: "CVD Diamond"
+        - PAGE: Dore
+          name: "Dore et al. 1998: Polycrystalline CVD diamond; n,k 2.5-500 µm"
+          path: "main/C/Dore.yml"
+        - DIVIDER: "Amorphous thin film"
+        - PAGE: Larruquert
+          name: "Larruquert et al. 2013: Tetrahedral amorphous thin film; n,k 0.01966-10.07 µm"
+          path: "main/C/Larruquert.yml"
+        - PAGE: Hagemann
+          name: "Hagemann et al. 1974: Amorphous; n,k 0.00004133-124 µm"
+          path: "main/C/Hagemann.yml"
+        - DIVIDER: "Graphite"
+        - PAGE: Djurisic-o
+          name: "Djurišić and Li 1999: Graphite; n,k (o); 0.0310-10.332 µm"
+          path: "main/C/Djurisic-o.yml"
+        - PAGE: Djurisic-e
+          name: "Djurišić and Li 1999: Graphite; n,k (e); 0.0310-0.5904 µm"
+          path: "main/C/Djurisic-e.yml"
+        - DIVIDER: "Graphene"
+        - PAGE: Weber
+          name: "Weber et al. 2010: Graphene; n,k 0.21-1.0 µm"
+          path: "main/C/Weber.yml"
     - BOOK: CaCO3
       name: "CaCO<sub>3</sub> (Calcium carbonate, Calcite)"
       content:
@@ -413,9 +420,7 @@
     - BOOK: SiC
       name: "SiC (Silicon carbide)"
       content:
-        - PAGE: Larruquert
-          name: "Larruquert et al. 2011: Thin film; n,k 0.006154-131.7 µm"
-          path: "main/SiC/Larruquert.yml"
+        - DIVIDER: "Crystal"
         - PAGE: Singh-o
           name: "Singh et al. 1971: α-SiC; n(o) 0.488-1.064 µm"
           path: "main/SiC/Singh-o.yml"
@@ -425,6 +430,10 @@
         - PAGE: Shaffer
           name: "Shaffer 1971: β-SiC; n 0.467-0.691 µm"
           path: "main/SiC/Shaffer.yml"
+        - DIVIDER: "Thin film"
+        - PAGE: Larruquert
+          name: "Larruquert et al. 2011: Thin film; n,k 0.006154-131.7 µm"
+          path: "main/SiC/Larruquert.yml"
     - DIVIDER: "Ca - Calcium"
     - BOOK: Ca
       name: "Ca (Calcium)"
@@ -492,12 +501,14 @@
     - BOOK: Co
       name: "Co (Cobalt)"
       content:
+        - DIVIDER: "Experimental data"
         - PAGE: Johnson
           name: "Johnson and Christy 1974: n,k 0.188-1.937 µm"
           path: "main/Co/Johnson.yml"
         - PAGE: Werner
           name: "Werner et al. 2009: Experiment; n,k 0.01759-2.480 µm"
           path: "main/Co/Werner.yml"
+        - DIVIDER: "Models and simulations"
         - PAGE: Werner-DFT
           name: "Werner et al. 2009: DFT calculations; n,k 0.01759-2.480 µm"
           path: "main/Co/Werner-DFT.yml"
@@ -505,16 +516,19 @@
     - BOOK: Cr
       name: "Chromium (Cr)"
       content:
-        - PAGE: Rakic
-          name: "Rakić 1998: n,k 0.2066-12.40 µm"
-          path: "main/Cr/Rakic.yml"
+        - DIVIDER: "Experimental data"
         - PAGE: Johnson
           name: "Johnson and Christy 1974: n,k 0.188-1.937 µm"
           path: "main/Cr/Johnson.yml"
+        - DIVIDER: "Models and simulations"
+        - PAGE: Rakic
+          name: "Rakić 1998: Brendel-Bormann model; n,k 0.2066-12.40 µm"
+          path: "main/Cr/Rakic.yml"
     - DIVIDER: "Cu - Copper"
     - BOOK: Cu
       name: "Cu (Copper)"
       content:
+        - DIVIDER: "Experimental data"
         - PAGE: Johnson
           name: "Johnson and Christy 1972: n,k 0.188-1.937 µm"
           path: "main/Cu/Johnson.yml"
@@ -530,21 +544,22 @@
         - PAGE: Werner
           name: "Werner et al. 2009: Experiment; n,k 0.01759-2.480 µm"
           path: "main/Cu/Werner.yml"
-        - PAGE: Werner-DFT
-          name: "Werner et al. 2009: DFT calculations; n,k 0.01759-2.480 µm"
-          path: "main/Cu/Werner-DFT.yml"
         - PAGE: Stahrenberg
           name: "Stahrenberg et al. 2001: n,k 0.128-0.496 µm"
           path: "main/Cu/Stahrenberg.yml"
-        - PAGE: Rakic
-          name: "Rakić 1998: n,k 0.2066-12.40 µm"
-          path: "main/Cu/Rakic.yml"
         - PAGE: Ordal
           name: "Ordal et al. 1985: n,k 0.517-55.6 µm"
           path: "main/Cu/Ordal.yml"
         - PAGE: Hagemann
           name: "Hagemann et al. 1974: n,k 0.0000248-248 µm"
           path: "main/Cu/Hagemann.yml"
+        - DIVIDER: "Models and simulations"
+        - PAGE: Rakic
+          name: "Rakić 1998: Brendel-Bormann model; n,k 0.2066-12.40 µm"
+          path: "main/Cu/Rakic.yml"
+        - PAGE: Werner-DFT
+          name: "Werner et al. 2009: DFT calculations; n,k 0.01759-2.480 µm"
+          path: "main/Cu/Werner-DFT.yml"
     - DIVIDER: "Er - Erbium"
     - BOOK: Er
       name: "Er (Erbium)"
@@ -572,6 +587,9 @@
     - BOOK: CaF2
       name: "CaF<sub>2</sub> (Calcium fluoride)"
       content:
+        - PAGE: Malitson
+          name: "Malitson 1963: n 0.23-9.7 µm; 24 °C"
+          path: "main/CaF2/Malitson.yml"
         - PAGE: Daimon-20
           name: "Daimon and Masumura 2002: n 0.138-2.326 µm; 20 °C"
           path: "main/CaF2/Daimon-20.yml"
@@ -581,9 +599,6 @@
         - PAGE: Li
           name: "Li 1980: n 0.15-12.0 µm; 20 °C"
           path: "main/CaF2/Li.yml"
-        - PAGE: Malitson
-          name: "Malitson 1963: n 0.23-9.7 µm; 24 °C"
-          path: "main/CaF2/Malitson.yml"
     - BOOK: CsF
       name: "CsF (Cesium fluoride)"
       content:

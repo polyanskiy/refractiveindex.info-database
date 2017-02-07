@@ -2,8 +2,8 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "T. Siefke, S. Kroker, K. Pfeiffer, O. Puffky, K. Dietrich, D. Franta, I. Ohlídal, A. Szeghalmi, E.-B. Kley, A. Tünnermann. Materials pushing the application limits of wire grid polarizers further into the deep ultraviolet spectral range, <a href=\"http://dx.doi.org/10.1002/adom.201600250\"><i>Adv. Opt. Mater.</i> <b>4</b>, 1780–1786 (2016)</a> (Numerical data kindly provided by Thomas Siefke)"
-COMMENTS: "<b>Film:</b> prepaired by ALD, 350 nm TiO<sub>2</sub>.<br><b>Measurement:</b> ellipsometer Jobin Yvon UVISEL2 VUV: 1.5-8.7 eV; ellipsometer Jobin Yvon UVISEL: 0.6-6.5 eV; ellipsometer Woollam IRVASE: 300-6500 cm<sup>-1</sup>; spectrophotometer McPhersom VUVas 2000: 5.6-10.3 eV; spectrophotometer Perkin Elmer Lambda 1050: 0.5-6.7 eV; spectrophotometer Bruker Vertex 80v: 80-7500 cm<sup>-1</sup>.<br><b>Fit model:</b> universal dispersion model."
+REFERENCES: "T. Siefke, S. Kroker, K. Pfeiffer, O. Puffky, K. Dietrich, D. Franta, I. Ohlídal, A. Szeghalmi, E.-B. Kley, A. Tünnermann. Materials pushing the application limits of wire grid polarizers further into the deep ultraviolet spectral range, <a href=\"https://doi.org/10.1002/adom.201600250\"><i>Adv. Opt. Mater.</i> <b>4</b>, 1780–1786 (2016)</a> (Numerical data kindly provided by Thomas Siefke)"
+COMMENTS: "<b>Film:</b> prepaired by ALD, 350 nm TiO<sub>2</sub>. See <a href=\"https://doi.org/10.1088/0957-4484/26/2/024003\">Ratzsch et al. <i>Nanotechnology</i> <b>26</b>, 024003 (2015)</a>.<br><b>Measurement:</b> ellipsometer Jobin Yvon UVISEL2 VUV: 1.5-8.7 eV; ellipsometer Jobin Yvon UVISEL: 0.6-6.5 eV; ellipsometer Woollam IRVASE: 300-6500 cm<sup>-1</sup>; spectrophotometer McPhersom VUVas 2000: 5.6-10.3 eV; spectrophotometer Perkin Elmer Lambda 1050: 0.5-6.7 eV; spectrophotometer Bruker Vertex 80v: 80-7500 cm<sup>-1</sup>.<br><b>Fit model:</b> universal dispersion model. See <a href=\"https://doi.org/10.1364/AO.54.009108\">Franta et al. <i>Appl. Opt.</i> <b>54</b>, 9108-9119 (2015)</a>."
 DATA:
   - type: tabulated nk
     data: |
