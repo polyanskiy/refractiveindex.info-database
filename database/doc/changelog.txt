@@ -22,6 +22,7 @@
     main/Fe3O4/Querry.yml
     main/Cu2O/Querry.yml
     main/ZnO/Querry.yml
+    main/Cu/Querry.yml
   new data
     main/CuO/Brimhall.ym
     main/Ag/Werner.yml

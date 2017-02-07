@@ -550,6 +550,9 @@
         - PAGE: Ordal
           name: "Ordal et al. 1985: n,k 0.517-55.6 µm"
           path: "main/Cu/Ordal.yml"
+        - PAGE: Querry
+          name: "Querry 1985: n,k 0.21-55.6 µm"
+          path: "main/Cu/Querry.yml"
         - PAGE: Hagemann
           name: "Hagemann et al. 1974: n,k 0.0000248-248 µm"
           path: "main/Cu/Hagemann.yml"
