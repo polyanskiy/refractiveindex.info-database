@@ -1,4 +1,6 @@
 [next release]
+  new date (Thanks to Jonas Scheuner, University of Bern, Switzerland, for recommending a very useful reference!)
+    main/SiO2/Popova.yml
   new data (thanks to Thomas Siefke, Friedrich-Schiller-University Jena, Germany, for submitting data in yaml format!)
     main/TiO2/Siefke.yml
   new data (thanks to Niklas Lüpken, University of Münster, Germany, for suggesting data!)
@@ -16,6 +18,7 @@
     other/alloys/Cu-Zn/Querry-Cu70Zn30.yml
     main/Al2O3/Querry-o.yml
     main/Al2O3/Querry-e.yml
+    main/Al2O3/Querry.yml
     main/Fe/Querry.yml
     main/Fe2O3/Querry-o.yml
     main/Fe2O3/Querry-e.yml
@@ -23,6 +26,12 @@
     main/Cu2O/Querry.yml
     main/ZnO/Querry.yml
     main/Cu/Querry.yml
+    main/C/Querry-DixonKS2.yml
+    main/C/Querry-DixonHPN2.yml
+    main/C/Querry-Dixon200-10.yml
+    main/C/Querry-AsburyMicro260.yml
+    main/C/Querry-Dixon1102.yml
+    main/C/Querry-Asbury3222.yml
   new data
     main/CuO/Brimhall.ym
     main/Ag/Werner.yml
@@ -83,6 +92,7 @@
     main/C/Djurisic-o.yml
     main/C/Djurisic-e.yml
   updates:
+    main/SiO2/Malitson.yml: range, references (added reference confirming validity of the formula in an extended wavelength range)
     main/TiO2/Devore-o.yml: references, formula
     main/TiO2/Devore-e.yml: references, formula
     main/Pb5Ge3O11/Simon-o.yml:formula

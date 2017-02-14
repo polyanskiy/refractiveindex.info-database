@@ -371,7 +371,7 @@
           path: "main/TlBr/Schroter.yml"
     - DIVIDER: "C - Carbon, carbides and carbonates"
     - BOOK: C
-      name: "C (Carbon)"
+      name: "C (Carbon, diamond, graphite)"
       content:
         - DIVIDER: "Diamond"
         - PAGE: Phillip
@@ -398,6 +398,24 @@
         - PAGE: Djurisic-e
           name: "Djurišić and Li 1999: Graphite; n,k (e); 0.0310-0.5904 µm"
           path: "main/C/Djurisic-e.yml"
+        - PAGE: Querry-DixonKS2
+          name: "Querry 1985: Graphite pellet, Dixon KS-2; n,k 0.21-55.6 µm"
+          path: "main/C/Querry-DixonKS2.yml"
+        - PAGE: Querry-DixonHPN2
+          name: "Querry 1985: Graphite pellet, Dixon HPN-2; n,k 0.20-55.6 µm"
+          path: "main/C/Querry-DixonHPN2.yml"
+        - PAGE: Querry-Dixon200-10
+          name: "Querry 1985: Graphite pellet, Dixon 200-10; n,k 0.21-55.6 µm"
+          path: "main/C/Querry-Dixon200-10.yml"
+        - PAGE: Querry-AsburyMicro260
+          name: "Querry 1985: Graphite pellet, Asbury Micro 260; n,k 0.21-55.6 µm"
+          path: "main/C/Querry-AsburyMicro260.yml"
+        - PAGE: Querry-Dixon1102
+          name: "Querry 1985: Intercalated graphite pellet, Dixon 1102; n,k 0.20-55.6 µm"
+          path: "main/C/Querry-Dixon1102.yml"
+        - PAGE: Querry-Asbury3222
+          name: "Querry 1985: Intercalated graphite pellet, Asbury 3222; n,k 0.20-55.6 µm"
+          path: "main/C/Querry-Asbury3222.yml"
         - DIVIDER: "Graphene"
         - PAGE: Weber
           name: "Weber et al. 2010: Graphene; n,k 0.21-1.0 µm"
@@ -542,7 +560,7 @@
           name: "Brimhall et al. 2009: n,k 0.0101-0.0421 µm"
           path: "main/Cu/Brimhall.yml"
         - PAGE: Werner
-          name: "Werner et al. 2009: Experiment; n,k 0.01759-2.480 µm"
+          name: "Werner et al. 2009: n,k 0.01759-2.480 µm"
           path: "main/Cu/Werner.yml"
         - PAGE: Stahrenberg
           name: "Stahrenberg et al. 2001: n,k 0.128-0.496 µm"
@@ -1193,6 +1211,9 @@
         - PAGE: Kischkat
           name: "Kischkat et al. 2012: Thin film; n,k 1.54-14.29 µm"
           path: "main/Al2O3/Kischkat.yml"
+        - PAGE: Querry
+          name: "Querry 1985: Thin film (oxidized Al mirror); n,k 0.21-12.5 µm"
+          path: "main/Al2O3/Querry.yml"
     - BOOK: BeO
       name: "BeO (Beryllium monoxide)"
       content:
@@ -1351,8 +1372,11 @@
       content:
         - DIVIDER: "Fused silica"
         - PAGE: Malitson
-          name: "Malitson 1965: Fused silica; n 0.21-3.71 µm"
+          name: "Malitson 1965: Fused silica; n 0.21-6.7 µm"
           path: "main/SiO2/Malitson.yml"
+        - PAGE: Popova
+          name: "Popova et al. 1972: Fused silica; n 7-50 µm"
+          path: "main/SiO2/Popova.yml"
         - DIVIDER: "Crystal"
         - PAGE: Ghosh-o
           name: "Ghosh 1999: α-Quartz, n(o) 0.198-2.0531 µm"
