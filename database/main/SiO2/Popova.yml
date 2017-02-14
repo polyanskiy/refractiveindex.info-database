@@ -3,6 +3,7 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: "1) S. Popova, T. Tolstykh, V. Vorobev. Optical characteristics of amorphous quartz in the 1400–200 cm<sup>-1</sup> region, <i>Opt. Spectrosc.</i> <b>33</b>, 444–445 (1972), as cited in Ref. 2<br>2) R. Kitamura, L. Pilon, M. Jonasz. Optical constants of silica glass from extreme ultraviolet to far infrared at near room temperature, <a href=\"https://doi.org/10.1364/AO.46.008118\"><i>Appl. Opt.</i> <b>33</b>, 8118-8133 (2007)</a><br><sup>*</sup> Ref. 2 provides a model for calculating optical constants; model parameters are derived by fitting experimental data from Ref. 1.<br>[<a href=\"https://github.com/polyanskiy/refractiveindex.info-scripts/blob/master/scripts/Kitamura%202007%20-%20Fused%20silica.py\">Calculation script (Python)</a>]"
+COMMENTS: "Room temperature."
 DATA:
   - type: tabulated nk
     data: |
