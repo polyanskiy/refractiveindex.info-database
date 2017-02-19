@@ -416,6 +416,10 @@
         - PAGE: Querry-Asbury3222
           name: "Querry 1985: Intercalated graphite pellet, Asbury 3222; n,k 0.20-55.6 µm"
           path: "main/C/Querry-Asbury3222.yml"
+        - DIVIDER: "Pyrolytic carbon"
+        - PAGE: Querry-Pyrolytic
+          name: "Querry 1985: Pyrolytic carbon; n,k 0.21-55.6 µm"
+          path: "main/C/Querry-Pyrolytic.yml"
         - DIVIDER: "Graphene"
         - PAGE: Weber
           name: "Weber et al. 2010: Graphene; n,k 0.21-1.0 µm"

@@ -32,6 +32,7 @@
     main/C/Querry-AsburyMicro260.yml
     main/C/Querry-Dixon1102.yml
     main/C/Querry-Asbury3222.yml
+    main/C/Querry-Pyrolytic.yml
   new data
     main/CuO/Brimhall.ym
     main/Ag/Werner.yml
