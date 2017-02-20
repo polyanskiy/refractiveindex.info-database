@@ -6389,6 +6389,25 @@
         - PAGE: Sultanova
           name: "Sultanova et al. 2009: n 0.4368-1.052 µm"
           path: "other/mixed organic/(C8H8)n-(C3H3N)m/Sultanova.yml"
+    - BOOK: C6H4S4:C12H4N4
+      name: "C<sub>6</sub>H<sub>4</sub>S<sub>4</sub>:C<sub>12</sub>H<sub>4</sub>N<sub>4</sub> (Tetrathiafulvalene:tetracyanoquinodimethane, TTF:TCNQ )"
+      content:
+        - PAGE: Querry
+          name: "Querry 1985: n,k 0.21-55.6 µm"
+          path: "other/mixed organic/C6H4S4-C12H4N4/Querry.yml"
+    - DIVIDER: "Mixed organic/inorganic compounds"
+    - BOOK: Cu:C12H4N4
+      name: "Cu:C<sub>12</sub>H<sub>4</sub>N<sub>4</sub> (Copper:tetracyanoquinodimethane, Cu:TCNQ )"
+      content:
+        - PAGE: Querry
+          name: "Querry 1985: n,k 0.21-55.6 µm"
+          path: "other/mixed organic-inorganic/Cu-C12H4N4/Querry.yml"
+    - BOOK: Li:C12H4N4
+      name: "Li:C<sub>12</sub>H<sub>4</sub>N<sub>4</sub> (Lithium:tetracyanoquinodimethane, Li:TCNQ )"
+      content:
+        - PAGE: Querry
+          name: "Querry 1985: n,k 0.21-55.6 µm"
+          path: "other/mixed organic-inorganic/Li-C12H4N4/Querry.yml"
     - DIVIDER: "Commercial plastics"
     - BOOK: CR-39
       name: "CR-39"

@@ -33,6 +33,9 @@
     main/C/Querry-Dixon1102.yml
     main/C/Querry-Asbury3222.yml
     main/C/Querry-Pyrolytic.yml
+    other/mixed organic/C6H4S4-C12H4N4/Querry.yml
+    other/mixed organic-inorganic/Cu-C12H4N4/Querry.yml
+    other/mixed organic-inorganic/Li-C12H4N4/Querry.yml
   new data
     main/CuO/Brimhall.ym
     main/Ag/Werner.yml
