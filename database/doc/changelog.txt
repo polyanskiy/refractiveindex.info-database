@@ -37,7 +37,18 @@
     other/mixed organic-inorganic/Cu-C12H4N4/Querry.yml
     other/mixed organic-inorganic/Li-C12H4N4/Querry.yml
   new data
-    main/CuO/Brimhall.ym
+    main/Ag/Rakic-LD.yml
+    main/Au/Rakic-LD.yml
+    main/Cu/Rakic-LD.yml
+    main/Al/Rakic-LD.yml
+    main/Be/Rakic-LD.yml
+    main/Cr/Rakic-LD.yml
+    main/Ni/Rakic-LD.yml
+    main/Pd/Rakic-LD.yml
+    main/Pt/Rakic-LD.yml
+    main/Ti/Rakic-LD.yml
+    main/W/Rakic.yml; 
+    main/CuO/Brimhall.yml
     main/Ag/Werner.yml
     main/Ag/Werner-DFT.yml
     main/Au/Werner.yml
@@ -81,21 +92,22 @@
     other/semiconductor alloys/Si-Ge/Jellison-65.yml
     other/semiconductor alloys/Si-Ge/Jellison-85.yml
     other/semiconductor alloys/Si-Ge/Jellison-98.yml
-  updates: re-calculated with new scripts, info, references (links to new scripts on GitHub)
-    main/Ag/Rakic.yml:
-    main/Au/Rakic.yml:
-    main/Cu/Rakic.yml:
-    main/Al/Rakic.yml:
-    main/Be/Rakic.yml:
-    main/Cr/Rakic.yml:
-    main/Ni/Rakic.yml:
-    main/Pd/Rakic.yml:
-    main/Pt/Rakic.yml:
-    main/Ti/Rakic.yml:
-    main/W/Rakic.yml:
+  updates: re-calculated with new scripts, updated range, info, references (links to new scripts on GitHub)
+    main/Ag/Rakic.yml; renamed to Rakic-BB.yml
+    main/Au/Rakic.yml; renamed to Rakic-BB.yml
+    main/Cu/Rakic.yml; renamed to Rakic-BB.yml
+    main/Al/Rakic.yml; renamed to Rakic-BB.yml
+    main/Be/Rakic.yml; renamed to Rakic-BB.yml
+    main/Cr/Rakic.yml; renamed to Rakic-BB.yml
+    main/Ni/Rakic.yml; renamed to Rakic-BB.yml
+    main/Pd/Rakic.yml; renamed to Rakic-BB.yml
+    main/Pt/Rakic.yml; renamed to Rakic-BB.yml
+    main/Ti/Rakic.yml; renamed to Rakic-BB.yml
+    main/W/Rakic.yml; renamed to Rakic-BB.yml
     main/C/Djurisic-o.yml
     main/C/Djurisic-e.yml
   updates:
+    main/Al/Rakic-1985.yml: renamed to Rakic.yml
     main/SiO2/Malitson.yml: range, references (added reference confirming validity of the formula in an extended wavelength range)
     main/TiO2/Devore-o.yml: references, formula
     main/TiO2/Devore-e.yml: references, formula

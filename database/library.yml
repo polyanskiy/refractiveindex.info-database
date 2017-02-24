@@ -32,9 +32,12 @@
           name: "Hagemann et al. 1974: n,k 2.48e-6-248 µm"
           path: "main/Ag/Hagemann.yml"
         - DIVIDER: "Models and simulations"
-        - PAGE: Rakic
-          name: "Rakić 1998: Brendel-Bormann model; n,k 0.2066-12.40 µm"
-          path: "main/Ag/Rakic.yml"
+        - PAGE: Rakic-BB
+          name: "Rakić et al. 1998: Brendel-Bormann model; n,k 0.248-12.4 µm"
+          path: "main/Ag/Rakic-BB.yml"
+        - PAGE: Rakic-LD
+          name: "Rakić et al. 1998: Lorentz-Drude model; n,k 0.248-12.4 µm"
+          path: "main/Ag/Rakic-LD.yml"
         - PAGE: Werner-DFT
           name: "Werner et al. 2009: DFT calculations; n,k 0.01759-2.480 µm"
           path: "main/Ag/Werner-DFT.yml"
@@ -42,8 +45,9 @@
     - BOOK: Al
       name: "Al (Aluminium)"
       content:
+        - DIVIDER: "Experimental data"
         - PAGE: Rakic
-          name: "Rakić 1998: n,k 0.2066-12.40 µm"
+          name: "Rakić 1995: 0.00012399-200 µm"
           path: "main/Al/Rakic.yml"
         - PAGE: McPeak
           name: "McPeak et al. 2015: n,k 0.15-1.7 µm"
@@ -51,15 +55,19 @@
         - PAGE: Larruquert
           name: "Larruquert et al. 1996: n,k 0.077-0.1135 µm"
           path: "main/Al/Larruquert.yml"
-        - PAGE: Rakic-1995
-          name: "Rakić 1995: 0.00012399-200 µm"
-          path: "main/Al/Rakic-1995.yml"
         - PAGE: Ordal
           name: "Ordal et al. 1988: n,k 0.667-200 µm"
           path: "main/Al/Ordal.yml"
         - PAGE: Hagemann
           name: "Hagemann et al. 1974: n,k 0.00001033-1240 µm"
           path: "main/Al/Hagemann.yml"
+        - DIVIDER: "Models and simulations"
+        - PAGE: Rakic-BB
+          name: "Rakić et al. 1998: Brendel-Bormann model; n,k 0.0620-248 µm"
+          path: "main/Al/Rakic-BB.yml"
+        - PAGE: Rakic-LD
+          name: "Rakić et al. 1998: Lorentz-Drude model; n,k 0.0620-248 µm"
+          path: "main/Al/Rakic-LD.yml"
     - BOOK: MgAl2O4
       name: "MgAl<sub>2</sub>O<sub>4</sub> (Magnesium aluminate, spinel)"
       content:
@@ -230,9 +238,12 @@
           name: "Hagemann et al. 1974 #2: n,k 0.003542-0.8266 µm"
           path: "main/Au/Hagemann-2.yml"
         - DIVIDER: "Models and simulations"
-        - PAGE: Rakic
-          name: "Rakić 1998: Brendel-Bormann model; n,k 0.2066-12.40 µm"
-          path: "main/Au/Rakic.yml"
+        - PAGE: Rakic-BB
+          name: "Rakić et al. 1998: Brendel-Bormann model; n,k 0.248-6.20 µm"
+          path: "main/Au/Rakic-BB.yml"
+        - PAGE: Rakic-LD
+          name: "Rakić et al. 1998: Lorentz-Drude model; n,k 0.248-6.20 µm"
+          path: "main/Au/Rakic-LD.yml"
         - PAGE: Werner-DFT
           name: "Werner et al. 2009: DFT calculations; n,k 0.01759-2.480 µm"
           path: "main/Au/Werner-DFT.yml"
@@ -304,9 +315,12 @@
     - BOOK: Be
       name: "Be (Beryllium)"
       content:
-        - PAGE: Rakic
-          name: "Rakić 1998: n,k 0.2066-12.40 µm"
-          path: "main/Be/Rakic.yml"
+        - PAGE: Rakic-BB
+          name: "Rakić et al. 1998: Brendel-Bormann model; n,k 0.248-62.0 µm"
+          path: "main/Be/Rakic-BB.yml"
+        - PAGE: Rakic-LD
+          name: "Rakić et al. 1998: Lorentz-Drude model; n,k 0.248-62.0 µm"
+          path: "main/Be/Rakic-LD.yml"
     - DIVIDER: "Bi - Bismuth"
     - BOOK: Bi
       name: "Bi (Bismuth)"
@@ -543,9 +557,12 @@
           name: "Johnson and Christy 1974: n,k 0.188-1.937 µm"
           path: "main/Cr/Johnson.yml"
         - DIVIDER: "Models and simulations"
-        - PAGE: Rakic
-          name: "Rakić 1998: Brendel-Bormann model; n,k 0.2066-12.40 µm"
-          path: "main/Cr/Rakic.yml"
+        - PAGE: Rakic-BB
+          name: "Rakić et al. 1998: Brendel-Bormann model; n,k 0.248-62.0 µm"
+          path: "main/Cr/Rakic-BB.yml"
+        - PAGE: Rakic-LD
+          name: "Rakić et al. 1998: Lorentz-Drude model; n,k 0.248-62.0 µm"
+          path: "main/Cr/Rakic-LD.yml"
     - DIVIDER: "Cu - Copper"
     - BOOK: Cu
       name: "Cu (Copper)"
@@ -579,9 +596,12 @@
           name: "Hagemann et al. 1974: n,k 0.0000248-248 µm"
           path: "main/Cu/Hagemann.yml"
         - DIVIDER: "Models and simulations"
-        - PAGE: Rakic
-          name: "Rakić 1998: Brendel-Bormann model; n,k 0.2066-12.40 µm"
-          path: "main/Cu/Rakic.yml"
+        - PAGE: Rakic-BB
+          name: "Rakić et al. 1998: Brendel-Bormann model; n,k 0.207-12.4 µm"
+          path: "main/Cu/Rakic-BB.yml"
+        - PAGE: Rakic-LD
+          name: "Rakić et al. 1998: Lorentz-Drude model; n,k 0.207-12.4 µm"
+          path: "main/Cu/Rakic-LD.yml"
         - PAGE: Werner-DFT
           name: "Werner et al. 2009: DFT calculations; n,k 0.01759-2.480 µm"
           path: "main/Cu/Werner-DFT.yml"
@@ -1157,21 +1177,26 @@
     - BOOK: Ni
       name: "Ni (Nickel)"
       content:
-        - PAGE: Rakic
-          name: "Rakić 1998: n,k 0.2066-12.40 µm"
-          path: "main/Ni/Rakic.yml"
-        - PAGE: Werner
-          name: "Werner et al. 2009: Experiment; n,k 0.01759-2.480 µm"
-          path: "main/Ni/Werner.yml"
-        - PAGE: Werner-DFT
-          name: "Werner et al. 2009: DFT calculations; n,k 0.01759-2.480 µm"
-          path: "main/Ni/Werner-DFT.yml"
-        - PAGE: Ordal
-          name: "Ordal et al. 1987: n,k 0.667-286 µm"
-          path: "main/Ni/Ordal.yml"
+        - DIVIDER: "Experimental data"
         - PAGE: Johnson
           name: "Johnson and Christy 1974: n,k 0.188-1.937 µm"
           path: "main/Ni/Johnson.yml"
+        - PAGE: Werner
+          name: "Werner et al. 2009: Experiment; n,k 0.01759-2.480 µm"
+          path: "main/Ni/Werner.yml"
+        - PAGE: Ordal
+          name: "Ordal et al. 1987: n,k 0.667-286 µm"
+          path: "main/Ni/Ordal.yml"
+        - DIVIDER: "Models and simulations"
+        - PAGE: Rakic-BB
+          name: "Rakić et al. 1998: Brendel-Bormann model; n,k 0.248-6.20 µm"
+          path: "main/Ni/Rakic-BB.yml"
+        - PAGE: Rakic-LD
+          name: "Rakić et al. 1998: Lorentz-Drude model; n,k 0.248-6.20 µm"
+          path: "main/Ni/Rakic-LD.yml"
+        - PAGE: Werner-DFT
+          name: "Werner et al. 2009: DFT calculations; n,k 0.01759-2.480 µm"
+          path: "main/Ni/Werner-DFT.yml"
     - DIVIDER: "Os - Osmium"
     - BOOK: Os
       name: "Os (Osmium)"
@@ -1628,21 +1653,26 @@
     - BOOK: Pd
       name: "Pd (Palladium)"
       content:
-        - PAGE: Rakic
-          name: "Rakić 1998: n,k 0.2066-12.40 µm"
-          path: "main/Pd/Rakic.yml"
-        - PAGE: Werner
-          name: "Werner et al. 2009: Experiment; n,k 0.01759-2.480 µm"
-          path: "main/Pd/Werner.yml"
-        - PAGE: Werner-DFT
-          name: "Werner et al. 2009: DFT calculations; n,k 0.01759-2.480 µm"
-          path: "main/Pd/Werner-DFT.yml"
-        - PAGE: Windt
-          name: "Windt et al. 1988: n,k 0.0024-0.1216 µm"
-          path: "main/Pd/Windt.yml"
+        - DIVIDER: "Experimental data"
         - PAGE: Johnson
           name: "Johnson and Christy 1974: n,k 0.188-1.937 µm"
           path: "main/Pd/Johnson.yml"
+        - PAGE: Werner
+          name: "Werner et al. 2009: Experiment; n,k 0.01759-2.480 µm"
+          path: "main/Pd/Werner.yml"
+        - PAGE: Windt
+          name: "Windt et al. 1988: n,k 0.0024-0.1216 µm"
+          path: "main/Pd/Windt.yml"
+        - DIVIDER: "Models and simulations"
+        - PAGE: Rakic-BB
+          name: "Rakić et al. 1998: Brendel-Bormann model; n,k 0.248-12.4 µm"
+          path: "main/Pd/Rakic-BB.yml"
+        - PAGE: Rakic-LD
+          name: "Rakić et al. 1998: Lorentz-Drude model; n,k 0.248-12.4 µm"
+          path: "main/Pd/Rakic-LD.yml"
+        - PAGE: Werner-DFT
+          name: "Werner et al. 2009: DFT calculations; n,k 0.01759-2.480 µm"
+          path: "main/Pd/Werner-DFT.yml"
     - DIVIDER: "Pr - Praseodymium"
     - BOOK: Pr
       name: "Pr (Praseodymium)"
@@ -1654,18 +1684,23 @@
     - BOOK: Pt
       name: "Pt (Platinum)"
       content:
-        - PAGE: Rakic
-          name: "Rakić 1998: n,k 0.2066-12.40 µm"
-          path: "main/Pt/Rakic.yml"
-        - PAGE: Werner
-          name: "Werner et al. 2009: Experiment; n,k 0.01759-2.480 µm"
-          path: "main/Pt/Werner.yml"
-        - PAGE: Werner-DFT
-          name: "Werner et al. 2009: DFT calculations; n,k 0.01759-2.480 µm"
-          path: "main/Pt/Werner-DFT.yml"
+        - DIVIDER: "Experimental data"
         - PAGE: Windt
           name: "Windt et al. 1988: n,k 0.0024-0.1216 µm"
           path: "main/Pt/Windt.yml"
+        - PAGE: Werner
+          name: "Werner et al. 2009: Experiment; n,k 0.01759-2.480 µm"
+          path: "main/Pt/Werner.yml"
+        - DIVIDER: "Models and simulations"
+        - PAGE: Rakic-BB
+          name: "Rakić et al. 1998: Brendel-Bormann model; n,k 0.248-12.4 µm"
+          path: "main/Pt/Rakic-BB.yml"
+        - PAGE: Rakic-LD
+          name: "Rakić et al. 1998: Lorentz-Drude model; n,k 0.248-12.4 µm"
+          path: "main/Pt/Rakic-LD.yml"
+        - PAGE: Werner-DFT
+          name: "Werner et al. 2009: DFT calculations; n,k 0.01759-2.480 µm"
+          path: "main/Pt/Werner-DFT.yml"
     - DIVIDER: "Re - Rhenium"
     - BOOK: Re
       name: "Re (Rhenium)"
@@ -2131,27 +2166,32 @@
     - BOOK: Ti
       name: "Ti (Titanium)"
       content:
-        - PAGE: Rakic
-          name: "Rakić 1998: n,k 0.2066-12.40 µm"
-          path: "main/Ti/Rakic.yml"
+        - DIVIDER: "Experimental data"
+        - PAGE: Johnson
+          name: "Johnson and Christy 1974: n,k 0.188-1.937 µm"
+          path: "main/Ti/Johnson.yml"
         - PAGE: Werner
-          name: "Werner et al. 2009: Experiment; n,k 0.01759-2.480 µm"
+          name: "Werner et al. 2009: n,k 0.01759-2.480 µm"
           path: "main/Ti/Werner.yml"
-        - PAGE: Werner-DFT
-          name: "Werner et al. 2009: DFT calculations; n,k 0.01759-2.480 µm"
-          path: "main/Ti/Werner-DFT.yml"
         - PAGE: Ordal
           name: "Ordal et al. 1988: n,k 0.667-200 µm"
           path: "main/Ti/Ordal.yml"
         - PAGE: Windt
           name: "Windt et al. 1988: n,k 0.0024-0.1216 µm"
           path: "main/Ti/Windt.yml"
-        - PAGE: Johnson
-          name: "Johnson and Christy 1974: n,k 0.188-1.937 µm"
-          path: "main/Ti/Johnson.yml"
         - PAGE: Mash
           name: "Mash and Motulevich 1973: n,k 0.4-10 µm"
           path: "main/Ti/Mash.yml"
+        - DIVIDER: "Models and simulations"
+        - PAGE: Rakic-BB
+          name: "Rakić et al. 1998: Brendel-Bormann model; n,k 0.248-31.0 µm"
+          path: "main/Ti/Rakic-BB.yml"
+        - PAGE: Rakic-LD
+          name: "Rakić et al. 1998: Lorentz-Drude model; n,k 0.248-31.0 µm"
+          path: "main/Ti/Rakic-LD.yml"
+        - PAGE: Werner-DFT
+          name: "Werner et al. 2009: DFT calculations; n,k 0.01759-2.480 µm"
+          path: "main/Ti/Werner-DFT.yml"
     - BOOK: BaTiO3
       name: "BaTiO<sub>3</sub> (Barium titanate)"
       content:
@@ -2218,21 +2258,26 @@
     - BOOK: W
       name: "W (Tungsten)"
       content:
-        - PAGE: Rakic
-          name: "Rakić 1998: n,k 0.2066-12.40 µm"
-          path: "main/W/Rakic.yml"
-        - PAGE: Werner
-          name: "Werner et al. 2009: Experiment; n,k 0.01759-2.480 µm"
-          path: "main/W/Werner.yml"
-        - PAGE: Werner-DFT
-          name: "Werner et al. 2009: DFT calculations; n,k 0.01759-2.480 µm"
-          path: "main/W/Werner-DFT.yml"
+        - DIVIDER: "Experimental data"
         - PAGE: Ordal
           name: "Ordal et al. 1988: n,k 0.667-200 µm"
           path: "main/W/Ordal.yml"
+        - PAGE: Werner
+          name: "Werner et al. 2009: n,k 0.01759-2.480 µm"
+          path: "main/W/Werner.yml"
         - PAGE: Windt
           name: "Windt et al. 1988: n,k 0.0024-0.1216 µm"
           path: "main/W/Windt.yml"
+        - DIVIDER: "Models and simulations"
+        - PAGE: Rakic-BB
+          name: "Rakić et al. 1998: Brendel-Bormann model; n,k 0.248-12.4 µm"
+          path: "main/W/Rakic-BB.yml"
+        - PAGE: Rakic-LD
+          name: "Rakić et al. 1998: Lorentz-Drude model; n,k 0.248-12.4 µm"
+          path: "main/W/Rakic-LD.yml"
+        - PAGE: Werner-DFT
+          name: "Werner et al. 2009: DFT calculations; n,k 0.01759-2.480 µm"
+          path: "main/W/Werner-DFT.yml"
     - BOOK: CaWO4
       name: "CaWO<sub>4</sub> (Calcium tungstate)"
       content:
@@ -6639,16 +6684,16 @@
       content:
         - PAGE: aluminium
           name: "Aluminium (Al)"
-          path: "main/Al/Rakic.yml"
+          path: "main/Al/Rakic-BB.yml"
         - PAGE: "brass"
           name: "Brass (Cu-Zn alloy)"
           path: "other/alloys/Cu-Zn/Querry-Cu70Zn30.yml"
         - PAGE: copper
           name: "Copper (Cu)"
-          path: "main/Cu/Rakic.yml"
+          path: "main/Cu/Rakic-BB.yml"
         - PAGE: gold
           name: "Gold (Au)"
-          path: "main/Au/Rakic.yml"
+          path: "main/Au/Rakic-BB.yml"
         - PAGE: iron
           name: "Iron (Fe)"
           path: "main/Fe/Johnson.yml"
@@ -6660,10 +6705,10 @@
           path: "main/Hg/Inagaki.yml"
         - PAGE: platinum
           name: "Platinum (Pt)"
-          path: "main/Pt/Rakic.yml"
+          path: "main/Pt/Rakic-BB.yml"
         - PAGE: silver
           name: "Silver (Ag)"
-          path: "main/Ag/Rakic.yml"
+          path: "main/Ag/Rakic-BB.yml"
         - PAGE: titanium
           name: "Titanium (Ti)"
           path: "main/Ti/Johnson.yml"
