@@ -1,5 +1,7 @@
 [next release]
-  new date (Thanks to Jonas Scheuner, University of Bern, Switzerland, for recommending a very useful reference!)
+  new data (thanks to Luca Bergamini for submitting data in yaml format!)
+    main/TiN/Pfluger.yml
+  new data (Thanks to Jonas Scheuner, University of Bern, Switzerland, for recommending a very useful reference!)
     main/SiO2/Popova.yml
   new data (thanks to Thomas Siefke, Friedrich-Schiller-University Jena, Germany, for submitting data in yaml format!)
     main/TiO2/Siefke.yml
@@ -36,6 +38,7 @@
     other/mixed organic/C6H4S4-C12H4N4/Querry.yml
     other/mixed organic-inorganic/Cu-C12H4N4/Querry.yml
     other/mixed organic-inorganic/Li-C12H4N4/Querry.yml
+    main/NaCl/Querry.yml
   new data
     main/Ag/Rakic-LD.yml
     main/Au/Rakic-LD.yml

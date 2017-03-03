@@ -521,6 +521,9 @@
         - PAGE: Li
           name: "Li 1976: n 0.20-30 µm"
           path: "main/NaCl/Li.yml"
+        - PAGE: Querry
+          name: "Querry 1987: n,k 0.22-167 µm"
+          path: "main/NaCl/Querry.yml"
     - BOOK: RbCl
       name: "RbCl (Rubidium chloride)"
       content:
@@ -1119,6 +1122,12 @@
         - PAGE: Philipp
           name: "Philipp 1973: n 0.207-1.24 µm"
           path: "main/Si3N4/Philipp.yml"
+    - BOOK: TiN
+      name: "TiN (Titanium nitride)"
+      content:
+        - PAGE: Pfluger
+          name: "Pflüger et al. 1984: n 0.0311-2.48 µm"
+          path: "main/TiN/Pfluger.yml"
     - DIVIDER: "Na - Sodium"
     - BOOK: Na
       name: "Na (Sodium)"
