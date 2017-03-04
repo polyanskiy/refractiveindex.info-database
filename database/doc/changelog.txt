@@ -39,6 +39,9 @@
     other/mixed organic-inorganic/Cu-C12H4N4/Querry.yml
     other/mixed organic-inorganic/Li-C12H4N4/Querry.yml
     main/NaCl/Querry.yml
+    main/KCl/Querry.yml
+    main/CsI/Querry.yml
+    main/CsBr/Querry.yml
   new data
     main/Ag/Rakic-LD.yml
     main/Au/Rakic-LD.yml

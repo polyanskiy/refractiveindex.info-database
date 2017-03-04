@@ -346,7 +346,10 @@
       content:
         - PAGE: Li
           name: "Li 1976: n 0.21-55 µm; 20 °C"
-          path: "main/CsBr/Li.yml"
+          path: "main/CsBr/Li.yml"l"
+        - PAGE: Querry
+          name: "Querry 1987: n,k 0.213-149 µm"
+          path: "main/CsBr/Querry.yml"
         - PAGE: Rodney
           name: "Rodney and Spindler 1953: n 0.365-39 µm; 27 °C"
           path: "main/CsBr/Rodney.yml"
@@ -509,6 +512,9 @@
         - PAGE: Li
           name: "Li 1976: n 0.18-35 µm"
           path: "main/KCl/Li.yml"
+        - PAGE: Querry
+          name: "Querry 1987: n,k 0.22-167 µm"
+          path: "main/KCl/Querry.yml"
     - BOOK: LiCl
       name: "LiCl (Lithium chloride)"
       content:
@@ -886,10 +892,13 @@
       name: "CsI (Cesium iodide)"
       content:
         - PAGE: Li
-          name: "Li 1976: n 0.25-67 µm; 20 °C"
+          name: "Li 1976: n 0.25-67 µm"
           path: "main/CsI/Li.yml"
+        - PAGE: Querry
+          name: "Querry 1987: n,k 0.22-167 µm"
+          path: "main/CsI/Querry.yml"
         - PAGE: Rodney
-          name: "Rodney 1955: 0.2967-50 µm; 24 °C"
+          name: "Rodney 1955: 0.2967-50 µm"
           path: "main/CsI/Rodney.yml"
     - BOOK: KI
       name: "KI (Potassium iodide)"
