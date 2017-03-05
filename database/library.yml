@@ -635,6 +635,9 @@
         - PAGE: Li
           name: "Li 1980: n 0.15-15.0 µm"
           path: "main/BaF2/Li.yml"
+        - PAGE: Querry
+          name: "Querry 1987: n,k 0.220-167 µm"
+          path: "main/BaF2/Querry.yml"
         - PAGE: Malitson
           name: "Malitson 1964: n 0.2652-10.346 µm"
           path: "main/BaF2/Malitson.yml"
@@ -1135,7 +1138,7 @@
       name: "TiN (Titanium nitride)"
       content:
         - PAGE: Pfluger
-          name: "Pflüger et al. 1984: n 0.0311-2.48 µm"
+          name: "Pflüger et al. 1984: n,k 0.0311-2.48 µm"
           path: "main/TiN/Pfluger.yml"
     - DIVIDER: "Na - Sodium"
     - BOOK: Na
@@ -1873,6 +1876,9 @@
         - PAGE: Debenham
           name: "Debenham 1984: Cubic ZnS; n 0.405-13 µm"
           path: "main/ZnS/Debenham.yml"
+        - PAGE: Querry
+          name: "Querry 1987: n,k 0.220-167 µm"
+          path: "main/ZnS/Querry.yml"
     - DIVIDER: "Sb - Antimonides"
     - BOOK: AlSb
       name: "AlSb (Aluminium antimonide)"
@@ -1945,12 +1951,15 @@
     - BOOK: ZnSe
       name: "ZnSe (Zinc selenide)"
       content:
-        - PAGE: Connolly
-          name: "Connolly et al. 1979: n 0.54-18.2 µm"
-          path: "main/ZnSe/Connolly.yml"
         - PAGE: Marple
           name: "Marple 1964: n 0.48-2.5 µm"
           path: "main/ZnSe/Marple.yml"
+        - PAGE: Querry
+          name: "Querry 1987: n,k 0.500-21.7 µm"
+          path: "main/ZnSe/Querry.yml"
+        - PAGE: Connolly
+          name: "Connolly et al. 1979: n 0.54-18.2 µm"
+          path: "main/ZnSe/Connolly.yml"
     - BOOK: AgGaSe2
       name: "AgGaSe<sub>2</sub> (Silver gallium selenide, AGSe)"
       content:
@@ -6674,6 +6683,38 @@
         - PAGE: Giannios-serosa
           name: "Giannios et al. 2016: Serosa; n,k 0.45-1.551 µm"
           path: "other/human body/colon/Giannios-serosa.yml"
+    - DIVIDER: "Soots"
+    - BOOK: acetylene_soot
+      name: "Acetylene soot"
+      content:
+        - PAGE: Dlazell
+          name: "Dalzell and Sarofim 1969: n,k 0.4358-10 µm"
+          path: "other/soots/acetylene soot/Dalzell.yml"
+    - BOOK: propane_soot
+      name: "Propanee soot"
+      content:
+        - PAGE: Dlazell
+          name: "Dalzell and Sarofim 1969: n,k 0.4358-10 µm"
+          path: "other/soots/propane soot/Dalzell.yml"
+    - DIVIDER: "Clays
+    - BOOK: montmorillonite
+      name: "Montmorillonite"
+      content:
+        - PAGE: Querry
+          name: "Querry 1987: n,k 2.5-200 µm"
+          path: "other/clays/montmorillonite/Querry.yml"
+    - BOOK: kaolinite
+      name: "Kaolinite"
+      content:
+        - PAGE: Querry
+          name: "Querry 1987: n,k 2.5-200 µm"
+          path: "other/clays/kaolinite/Querry.yml"
+    - BOOK: illite
+      name: "Illite"
+      content:
+        - PAGE: Querry
+          name: "Querry 1987: n,k 2.5-200 µm"
+          path: "other/clays/illite/Querry.yml"
     - DIVIDER: "Exotic stuff"
     - BOOK: metamaterials
       name: "Metamaterials"
@@ -6681,19 +6722,6 @@
         - PAGE: Valentine
           name: "Valentine et al. 2008: Metamaterial; n 1.200-1.775 µm"
           path: "other/exotic/metamaterials/Valentine.yml"
-    - DIVIDER: "Other"
-    - BOOK: "acetylene_soot"
-      name: "Acetylene soot"
-      content:
-        - PAGE: Dlazell
-          name: "Dalzell and Sarofim 1969: n,k 0.4358-10 µm"
-          path: "other/other/soot/acetylene soot - Dalzell.yml"
-    - BOOK: "propane_soot"
-      name: "Propanee soot"
-      content:
-        - PAGE: Dlazell
-          name: "Dalzell and Sarofim 1969: n,k 0.4358-10 µm"
-          path: "other/other/soot/propane soot - Dalzell.yml"
 - SHELF: 3d
   name: "3D - selected data for 3D artists"
   content:
@@ -6822,7 +6850,7 @@
       content:
         - PAGE: "acetylene_soot"
           name: "Acetylene soot"
-          path: "other/other/soot/acetylene soot - Dalzell.yml"
+          path: "other/soots/acetylene soot/Dalzell.yml"
         - PAGE: "propane_soot"
           name: "Propanee soot"
-          path: "other/other/soot/propane soot - Dalzell.yml"
+          path: "other/soots/propane soot/Dalzell.yml"

@@ -42,6 +42,12 @@
     main/KCl/Querry.yml
     main/CsI/Querry.yml
     main/CsBr/Querry.yml
+    main/BaF2/Querry.yml
+    main/ZnS/Querry.yml
+    main/ZnSe/Querry.yml
+    other/clays/montmorillonite/Querry.yml
+    other/clays/kaolinite/Querry.yml
+    other/clays/illite/Querry.yml
   new data
     main/Ag/Rakic-LD.yml
     main/Au/Rakic-LD.yml
@@ -151,6 +157,8 @@
     other/mixed crystals/AlON ---> other/semiconductor alloys/AlN-Al2O3
     other/mixed crystals/AlGaSb ---> other/semiconductor alloys/AlSb-GaSb
     other/mixed crystals/GaInP ---> other/semiconductor alloys/GaP-InP
+    other/other/soot/acetylene soot - Dalzell.yml ---> other/soots/acetylene soot/Dalzell.yml
+    other/other/soot/propane soot - Dalzell.yml ---> other/soots/propane soot/Dalzell.yml
   miscellaneous
     re-arrangement of "page" in library.yml started: most cited data goes first; the rest is in the reverse chronological order
     removed unnecessary words "thin film" in library.yml
