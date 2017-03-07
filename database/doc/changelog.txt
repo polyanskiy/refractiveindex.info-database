@@ -48,6 +48,12 @@
     other/clays/montmorillonite/Querry.yml
     other/clays/kaolinite/Querry.yml
     other/clays/illite/Querry.yml
+    other/soots/diesel soot/Querry-NMSU.yml
+    other/soots/diesel soot/Querry-NMSU-heated.yml
+    other/soots/diesel soot/Querry-UMKC.yml
+    main/CaSO4/Querry-alpha.yml
+    main/CaSO4/Querry-beta.yml
+    main/CaSO4/Querry-gamma.yml
   new data
     main/Ag/Rakic-LD.yml
     main/Au/Rakic-LD.yml
