@@ -54,6 +54,11 @@
     main/CaSO4/Querry-alpha.yml
     main/CaSO4/Querry-beta.yml
     main/CaSO4/Querry-gamma.yml
+    main/CaMg(CO3)2/Querry-o.yml
+    main/CaMg(CO3)2/Querry-e.yml
+    main/Mo/Querry.yml
+    main/Zr/Querry.yml
+    main/Mn/Querry.yml
   new data
     main/Ag/Rakic-LD.yml
     main/Au/Rakic-LD.yml

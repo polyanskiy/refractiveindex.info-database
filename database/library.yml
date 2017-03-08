@@ -223,7 +223,7 @@
           name: "Olmon et al. 2012: Template-stripped gold; n,k 0.300-24.93 µm"
           path: "main/Au/Olmon-ts.yml"
         - PAGE: Werner
-          name: "Werner et al. 2009: Experiment; n,k 0.01759-2.480 µm"
+          name: "Werner et al. 2009: n,k 0.01759-2.480 µm"
           path: "main/Au/Werner.yml"
         - PAGE: Windt
           name: "Windt et al. 1988: n,k 0.0024-0.1216 µm"
@@ -325,15 +325,17 @@
     - BOOK: Bi
       name: "Bi (Bismuth)"
       content:
-        - PAGE: Werner
-          name: "Werner et al. 2009: Experiment; n,k 0.01759-2.480 µm"
-          path: "main/Bi/Werner.yml"
-        - PAGE: Werner-DFT
-          name: "Werner et al. 2009: DFT calculations; n,k 0.01759-2.480 µm"
-          path: "main/Bi/Werner-DFT.yml"
+        - DIVIDER: "Experimental data"
         - PAGE: Hagemann
           name: "Hagemann et al. 1974: n,k 0.00155-6.199 µm"
           path: "main/Bi/Hagemann.yml"
+        - PAGE: Werner
+          name: "Werner et al. 2009: n,k 0.01759-2.480 µm"
+          path: "main/Bi/Werner.yml"
+        - DIVIDER: "Models and simulations"
+        - PAGE: Werner-DFT
+          name: "Werner et al. 2009: DFT calculations; n,k 0.01759-2.480 µm"
+          path: "main/Bi/Werner-DFT.yml"
     - DIVIDER: "Br - Bromides"
     - BOOK: AgBr
       name: "AgBr (Silver bromide)"
@@ -441,15 +443,6 @@
         - PAGE: Weber
           name: "Weber et al. 2010: Graphene; n,k 0.21-1.0 µm"
           path: "main/C/Weber.yml"
-    - BOOK: CaCO3
-      name: "CaCO<sub>3</sub> (Calcium carbonate, Calcite)"
-      content:
-        - PAGE: Ghosh-o
-          name: "Ghosh 1999: n(o) 0.204-2.172 µm"
-          path: "main/CaCO3/Ghosh-o.yml"
-        - PAGE: Ghosh-e
-          name: "Ghosh 1999: n(e) 0.204-2.172 µm"
-          path: "main/CaCO3/Ghosh-e.yml"
     - BOOK: B4C
       name: "B<sub>4</sub>C (Boron carbide)"
       content:
@@ -473,6 +466,24 @@
         - PAGE: Larruquert
           name: "Larruquert et al. 2011: Thin film; n,k 0.006154-131.7 µm"
           path: "main/SiC/Larruquert.yml"
+    - BOOK: CaCO3
+      name: "CaCO<sub>3</sub> (Calcium carbonate, Calcite)"
+      content:
+        - PAGE: Ghosh-o
+          name: "Ghosh 1999: n(o) 0.204-2.172 µm"
+          path: "main/CaCO3/Ghosh-o.yml"
+        - PAGE: Ghosh-e
+          name: "Ghosh 1999: n(e) 0.204-2.172 µm"
+          path: "main/CaCO3/Ghosh-e.yml"
+    - BOOK: CaMg(CO3)2
+      name: "CaMg(CO<sub>3</sub>)<sub>2</sub> (Calcium magnesium carbonate, Dolomite)"
+      content:
+        - PAGE: Querry-o
+          name: "Querry 1987: n,k(o) 2.5-40 µm"
+          path: "main/CaMg(CO3)2/Querry-o.yml"
+        - PAGE: Querry-e
+          name: "Querry 1987: n,k(e) 2.5-50 µm"
+          path: "main/CaMg(CO3)2/Querry-e.yml"
     - DIVIDER: "Ca - Calcium"
     - BOOK: Ca
       name: "Ca (Calcium)"
@@ -551,7 +562,7 @@
           name: "Johnson and Christy 1974: n,k 0.188-1.937 µm"
           path: "main/Co/Johnson.yml"
         - PAGE: Werner
-          name: "Werner et al. 2009: Experiment; n,k 0.01759-2.480 µm"
+          name: "Werner et al. 2009: n,k 0.01759-2.480 µm"
           path: "main/Co/Werner.yml"
         - DIVIDER: "Models and simulations"
         - PAGE: Werner-DFT
@@ -1026,12 +1037,12 @@
     - BOOK: Mg
       name: "Mg (Magnesium)"
       content:
-        - PAGE: Vidal-Dasilva
-          name: "Vidal-Dasilva et al. 2010: n,k 0.0009537-0.04959 µm"
-          path: "main/Mg/Vidal-Dasilva.yml"
         - PAGE: Hagemann
           name: "Hagemann et al. 1974: n,k 0.0000248-24.8 µm"
           path: "main/Mg/Hagemann.yml"
+        - PAGE: Vidal-Dasilva
+          name: "Vidal-Dasilva et al. 2010: n,k 0.0009537-0.04959 µm"
+          path: "main/Mg/Vidal-Dasilva.yml"
     - DIVIDER: "Mn - Manganese"
     - BOOK: Mn
       name: "Mn (Manganese)"
@@ -1039,22 +1050,30 @@
         - PAGE: Johnson
           name: "Johnson and Christy 1974: n,k 0.188-1.937 µm"
           path: "main/Mn/Johnson.yml"
+        - PAGE: Querry
+          name: "Querry 1987: n,k 0.220-55.6 µm"
+          path: "main/Mn/Querry.yml"
     - DIVIDER: "Mo - Molybdenum and molybdates"
     - BOOK: Mo
       name: "Mo (Molybdenum)"
       content:
+        - DIVIDER: "Experimental data"
         - PAGE: Ordal
           name: "Ordal et al. 1988: n,k 0.667-154 µm"
           path: "main/Mo/Ordal.yml"
         - PAGE: Werner
-          name: "Werner et al. 2009: Experiment; n,k 0.01759-2.480 µm"
+          name: "Werner et al. 2009: n,k 0.01759-2.480 µm"
           path: "main/Mo/Werner.yml"
-        - PAGE: Werner-DFT
-          name: "Werner et al. 2009: DFT calculations; n,k 0.01759-2.480 µm"
-          path: "main/Mo/Werner-DFT.yml"
         - PAGE: Windt
           name: "Windt et al. 1988: n,k 0.0024-0.1216 µm"
           path: "main/Mo/Windt.yml"
+        - PAGE: Querry
+          name: "Querry 1987: n,k 0.206-167 µm"
+          path: "main/Mo/Querry.yml"
+        - DIVIDER: "Models and simulations"
+        - PAGE: Werner-DFT
+          name: "Werner et al. 2009: DFT calculations; n,k 0.01759-2.480 µm"
+          path: "main/Mo/Werner-DFT.yml"
     - BOOK: CaMoO4
       name: "CaMoO<sub>4</sub> (Calcium molybdate)"
       content:
@@ -1203,7 +1222,7 @@
           name: "Johnson and Christy 1974: n,k 0.188-1.937 µm"
           path: "main/Ni/Johnson.yml"
         - PAGE: Werner
-          name: "Werner et al. 2009: Experiment; n,k 0.01759-2.480 µm"
+          name: "Werner et al. 2009: n,k 0.01759-2.480 µm"
           path: "main/Ni/Werner.yml"
         - PAGE: Ordal
           name: "Ordal et al. 1987: n,k 0.667-286 µm"
@@ -1385,13 +1404,13 @@
           name: "Vos et al. 2015: Amorphous; n,k 0.019-1 µm"
           path: "main/MoO3/Vos.yml"
         - PAGE: Lajaunie-α
-          name: "Lajaunie et al. 2013: n(α),k(α) 0.019-24.8 µm"
+          name: "Lajaunie et al. 2013: n,k(α) 0.019-24.8 µm"
           path: "main/MoO3/Lajaunie-alpha.yml"
         - PAGE: Lajaunie-β
-          name: "Lajaunie et al. 2013: n(β),k(β) 0.019-24.8 µm"
+          name: "Lajaunie et al. 2013: n,k(β) 0.019-24.8 µm"
           path: "main/MoO3/Lajaunie-beta.yml"
         - PAGE: Lajaunie-γ
-          name: "Lajaunie et al. 2013: n(γ),k(γ) 0.019-24.8 µm"
+          name: "Lajaunie et al. 2013: n,k(γ) 0.019-24.8 µm"
           path: "main/MoO3/Lajaunie-gamma.yml"
     - BOOK: Nb2O5
       name: "Nb<sub>2</sub>O<sub>5</sub> (Niobium pentoxide)"
@@ -1652,15 +1671,13 @@
     - BOOK: Pb
       name: "Pb (Lead)"
       content:
-        - PAGE: Werner
-          name: "Werner et al. 2009: Experiment; n,k 0.01759-2.480 µm"
-          path: "main/Pb/Werner.yml"
-        - PAGE: Werner-DFT
-          name: "Werner et al. 2009: DFT calculations; n,k 0.01759-2.480 µm"
-          path: "main/Pb/Werner-DFT.yml"
+        - DIVIDER: "Experimental data"
         - PAGE: Ordal
           name: "Ordal et al. 1987: n,k 0.667-667 µm"
           path: "main/Pb/Ordal.yml"
+        - PAGE: Werner
+          name: "Werner et al. 2009: n,k 0.01759-2.480 µm"
+          path: "main/Pb/Werner.yml"
         - PAGE: Golovashkin-293
           name: "Golovashkin and Motulevich 1968: n,k 0.45-12 µm; 293 K"
           path: "main/Pb/Golovashkin-293.yml"
@@ -1670,6 +1687,10 @@
         - PAGE: Golovashkin-4.2
           name: "Golovashkin and Motulevich 1968: n,k 0.54-12 µm; 4.2 K"
           path: "main/Pb/Golovashkin-4.2.yml"
+        - DIVIDER: "Models and simulations"
+        - PAGE: Werner-DFT
+          name: "Werner et al. 2009: DFT calculations; n,k 0.01759-2.480 µm"
+          path: "main/Pb/Werner-DFT.yml"
     - DIVIDER: "Pd - Palladium"
     - BOOK: Pd
       name: "Pd (Palladium)"
@@ -1679,7 +1700,7 @@
           name: "Johnson and Christy 1974: n,k 0.188-1.937 µm"
           path: "main/Pd/Johnson.yml"
         - PAGE: Werner
-          name: "Werner et al. 2009: Experiment; n,k 0.01759-2.480 µm"
+          name: "Werner et al. 2009: n,k 0.01759-2.480 µm"
           path: "main/Pd/Werner.yml"
         - PAGE: Windt
           name: "Windt et al. 1988: n,k 0.0024-0.1216 µm"
@@ -1710,7 +1731,7 @@
           name: "Windt et al. 1988: n,k 0.0024-0.1216 µm"
           path: "main/Pt/Windt.yml"
         - PAGE: Werner
-          name: "Werner et al. 2009: Experiment; n,k 0.01759-2.480 µm"
+          name: "Werner et al. 2009: n,k 0.01759-2.480 µm"
           path: "main/Pt/Werner.yml"
         - DIVIDER: "Models and simulations"
         - PAGE: Rakic-BB
@@ -1883,13 +1904,13 @@
       name: "CaSO<sub>4</sub> (Calcium sulfate)"
       content:
         - PAGE: Querry-α
-          name: "Querry 1987: n(α),k(α) 2.50-55.6 µm"
+          name: "Querry 1987: n,k(α) 2.50-55.6 µm"
           path: "main/CaSO4/Querry-alpha.yml"
         - PAGE: Querry-β
-          name: "Querry 1987: n(β),k(β) 2.50-55.6 µm"
+          name: "Querry 1987: n,k(β) 2.50-55.6 µm"
           path: "main/CaSO4/Querry-beta.yml"
         - PAGE: Querry-γ
-          name: "Querry 1987: n(γ),k(γ) 2.50-55.6 µm"
+          name: "Querry 1987: n,k(γ) 2.50-55.6 µm"
           path: "main/CaSO4/Querry-gamma.yml"
     - DIVIDER: "Sb - Antimonides"
     - BOOK: AlSb
@@ -2122,18 +2143,20 @@
     - BOOK: Ta
       name: "Ta (Tantalum)"
       content:
-        - PAGE: Werner
-          name: "Werner et al. 2009: Experiment; n,k 0.01759-2.480 µm"
-          path: "main/Ta/Werner.yml"
-        - PAGE: Werner-DFT
-          name: "Werner et al. 2009: DFT calculations; n,k 0.01759-2.480 µm"
-          path: "main/Ta/Werner-DFT.yml"
+        - DIVIDER: "Experimental data"
         - PAGE: Ordal
           name: "Ordal et al. 1988: n,k 0.667-125 µm"
           path: "main/Ta/Ordal.yml"
+        - PAGE: Werner
+          name: "Werner et al. 2009: n,k 0.01759-2.480 µm"
+          path: "main/Ta/Werner.yml"
         - PAGE: Windt
           name: "Windt et al. 1988: n,k 0.0024-0.1216 µm"
           path: "main/Ta/Windt.yml"
+        - DIVIDER: "Models and simulations"
+        - PAGE: Werner-DFT
+          name: "Werner et al. 2009: DFT calculations; n,k 0.01759-2.480 µm"
+          path: "main/Ta/Werner-DFT.yml"
     - BOOK: KTaO3
       name: "KTaO<sub>3</sub> (Potassium tantalate)"
       content:
@@ -2275,15 +2298,17 @@
     - BOOK: V
       name: "V (Vanadium)"
       content:
-        - PAGE: Werner
-          name: "Werner et al. 2009: Experiment; n,k 0.01759-2.480 µm"
-          path: "main/V/Werner.yml"
-        - PAGE: Werner-DFT
-          name: "Werner et al. 2009: DFT calculations; n,k 0.01759-2.480 µm"
-          path: "main/V/Werner-DFT.yml"
+        - DIVIDER: "Experimental data"
         - PAGE: Johnson
           name: "Johnson and Christy 1974: n,k 0.188-1.937 µm"
           path: "main/V/Johnson.yml"
+        - PAGE: Werner
+          name: "Werner et al. 2009: n,k 0.01759-2.480 µm"
+          path: "main/V/Werner.yml"
+        - DIVIDER: "Models and simulations"
+        - PAGE: Werner-DFT
+          name: "Werner et al. 2009: DFT calculations; n,k 0.01759-2.480 µm"
+          path: "main/V/Werner-DFT.yml"
     - BOOK: YVO4
       name: "YVO<sub>4</sub> (Yttrium vanadate)"
       content:
@@ -2395,15 +2420,20 @@
     - BOOK: Zn
       name: "Zn (Zinc)"
       content:
+        - DIVIDER: "Experimental data"
         - PAGE: Werner
-          name: "Werner et al. 2009: Experiment; n,k 0.01759-2.480 µm"
+          name: "Werner et al. 2009: n,k 0.01759-2.480 µm"
           path: "main/Zn/Werner.yml"
-        - PAGE: Werner-DFT
-          name: "Werner et al. 2009: DFT calculations; n,k 0.01759-2.480 µm"
-          path: "main/Zn/Werner-DFT.yml"
+        - PAGE: Querry
+          name: "Querry 1987: n,k 0.360-55.6 µm"
+          path: "main/Zn/Querry.yml"
         - PAGE: Motulevich
           name: "Motulevich and Shubin 1969: n,k 1.3-10 µm"
           path: "main/Zn/Motulevich.yml"
+        - DIVIDER: "Models and simulations"
+        - PAGE: Werner-DFT
+          name: "Werner et al. 2009: DFT calculations; n,k 0.01759-2.480 µm"
+          path: "main/Zn/Werner-DFT.yml"     
     - DIVIDER: "Zr - Zirconium"
     - BOOK: Zr
       name: "Zr (Zirconium)"
@@ -2411,6 +2441,9 @@
         - PAGE: Windt
           name: "Windt et al. 1988: n,k 0.0024-0.1216 µm"
           path: "main/Zr/Windt.yml"
+        - PAGE: Querry
+          name: "Querry 1987: n,k 0.220-55.6 µm"
+          path: "main/Zr/Querry.yml"
 - SHELF: organic
   name: "ORGANIC - organic materials"
   content:
