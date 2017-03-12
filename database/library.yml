@@ -466,6 +466,18 @@
         - PAGE: Larruquert
           name: "Larruquert et al. 2011: Thin film; n,k 0.006154-131.7 µm"
           path: "main/SiC/Larruquert.yml"
+    - BOOK: TiC
+      name: "TiC (Titanium carbide)"
+      content:
+        - PAGE: Pfluger
+          name: "Pflüger et al. 1984: n,k 0.0311-2.48 µm"
+          path: "main/TiC/Pfluger.yml"
+    - BOOK: VC
+      name: "VC (Vanadium carbide)"
+      content:
+        - PAGE: Pfluger
+          name: "Pflüger et al. 1984: n,k 0.0311-2.48 µm"
+          path: "main/VC/Pfluger.yml"
     - BOOK: CaCO3
       name: "CaCO<sub>3</sub> (Calcium carbonate, Calcite)"
       content:
@@ -1159,6 +1171,12 @@
         - PAGE: Pfluger
           name: "Pflüger et al. 1984: n,k 0.0311-2.48 µm"
           path: "main/TiN/Pfluger.yml"
+    - BOOK: VN
+      name: "VN (Vanadium nitride)"
+      content:
+        - PAGE: Pfluger
+          name: "Pflüger et al. 1984: n,k 0.0311-2.48 µm"
+          path: "main/VN/Pfluger.yml"
     - DIVIDER: "Na - Sodium"
     - BOOK: Na
       name: "Na (Sodium)"

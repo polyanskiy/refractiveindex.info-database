@@ -1,6 +1,9 @@
 [next release]
   new data (thanks to Luca Bergamini for submitting data in yaml format!)
     main/TiN/Pfluger.yml
+    main/TiC/Pfluger.yml
+    main/VN/Pfluger.yml
+    main/VC/Pfluger.yml
   new data (Thanks to Jonas Scheuner, University of Bern, Switzerland, for recommending a very useful reference!)
     main/SiO2/Popova.yml
   new data (thanks to Thomas Siefke, Friedrich-Schiller-University Jena, Germany, for submitting data in yaml format!)
