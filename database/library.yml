@@ -2676,6 +2676,14 @@
         - PAGE: Krauter
           name: "Krauter et al. 2015: n 0.45-0.70 µm"
           path: "organic/C11H12O2 - ethyl cinnamate/Krauter.yml"
+    - BOOK: diethyl_phthalate
+      name: "C<sub>12</sub>H<sub>14</sub>O<sub>4</sub> (Diethyl phthalate, DEP)"
+        - PAGE: Querry-NIR
+          name: "Querry 1987: Near-infrared; n,k 0.81-2.5 µm"
+          path: "organic/C12H14O4 - diethyl phthalate/Querry-NIR.yml"
+        - PAGE: Querry-IR
+          name: "Querry 1987: Infrared; n,k 2.5-56 µm"
+          path: "organic/C12H14O4 - diethyl phthalate/Querry-IR.yml"
     - DIVIDER: "Cycloalkanes"
     - BOOK: cyclohexane
       name: "C<sub>6</sub>H<sub>12</sub> (Cyclohexane)"
@@ -2805,6 +2813,27 @@
         - PAGE: Kozma
           name: "Kozma et al. 2005: n 0.23687-0.6407 µm"
           path: "organic/C2H6OS - dimethyl sulfoxide/Kozma.yml"
+    - BOOK: dimethyl_methylphosphonate
+      name: "C<sub>3</sub>H<sub>9</sub>O<sub>3</sub>P (Dimethyl methylphosphonate, DMMP)"
+        - PAGE: Querry-NIR
+          name: "Querry 1987: Near-infrared; n,k 0.80-2.5 µm"
+          path: "organic/C3H9O3P - dimethyl methylphosphonate/Querry-NIR.yml"
+        - PAGE: Querry-IR
+          name: "Querry 1987: Infrared; n,k 2.5-56 µm"
+          path: "organic/C3H9O3P - dimethyl methylphosphonate/Querry-IR.yml"
+    - BOOK: diethyl_sulfite
+      name: "C<sub>4</sub>H<sub>10</sub>O<sub>3</sub>S (Diethyl sulfite, DES)"
+        - PAGE: Querry
+          name: "Querry 1987: n,k 0.270-19.6 µm"
+          path: "organic/C4H10O3S - diethyl sulfite/Querry.yml"
+    - BOOK: diisopropyl_methylphosphonate
+      name: "C<sub>7</sub>H<sub>17</sub>O3P (Diisopropyl methylphosphonate, DIMP)"
+        - PAGE: Querry-NIR
+          name: "Querry 1987: Near-infrared; n,k 0.81-2.5 µm"
+          path: "organic/C7H17O3P - diisopropyl methylphosphonate/Querry-NIR.yml"
+        - PAGE: Querry-IR
+          name: "Querry 1987: Infrared; n,k 2.5-56 µm"
+          path: "organic/C7H17O3P - diisopropyl methylphosphonate/Querry-IR.yml"
     - BOOK: potassium_hydrogen_phthalate
       name: "C<sub>8</sub>H<sub>5</sub>KO<sub>4</sub> (Potassium hydrogen phthalate, KHP)"
       content:
@@ -2830,6 +2859,14 @@
         - PAGE: Bodurov
           name: "Bodurov et al. 2016: n 0.405-0.635 µm"
           path: "organic/(C2H4O)n - polyvinyl alcohol/Bodurov.yml"
+    - BOOK: polydimethylsiloxane
+      name: "(C<sub>2</sub>H<sub>6</sub>OSi)<sub>n</sub> (Polydimethylsiloxane, PDMS)"
+        - PAGE: Querry-NIR
+          name: "Querry 1987: Near-infrared; n,k 0.82-2.5 µm"
+          path: "organic/(C2H6OSi)n - polydimethylsiloxane/Querry-NIR.yml"
+        - PAGE: Querry-IR
+          name: "Querry 1987: Infrared; n,k 2.5-56 µm"
+          path: "organic/(C2H6OSi)n - polydimethylsiloxane/Querry-IR.yml"
     - BOOK: polylactic_acid
       name: "(C<sub>3</sub>H<sub>4</sub>O<sub>2</sub>)<sub>n</sub> (Polylactic acid, PLA)"
       content:

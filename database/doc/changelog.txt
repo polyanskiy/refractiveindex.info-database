@@ -59,6 +59,16 @@
     main/Mo/Querry.yml
     main/Zr/Querry.yml
     main/Mn/Querry.yml
+    main/Zn/Querry.yml
+    organic/(C2H6OSi)n - polydimethylsiloxane/Querry-NIR.yml
+    organic/(C2H6OSi)n - polydimethylsiloxane/Querry-IR.yml
+    organic/C3H9O3P - dimethyl methylphosphonate/Querry-NIR.yml
+    organic/C3H9O3P - dimethyl methylphosphonate/Querry-IR.yml
+    organic/C7H17O3P - diisopropyl methylphosphonate/Querry-NIR.yml
+    organic/C7H17O3P - diisopropyl methylphosphonate/Querry-IR.yml
+    organic/C12H14O4 - diethyl phthalate/Querry-NIR.yml
+    organic/C12H14O4 - diethyl phthalate/Querry-IR.yml
+    organic/C4H10O3S - diethyl sulfite/Querry.yml
   new data
     main/Ag/Rakic-LD.yml
     main/Au/Rakic-LD.yml
@@ -142,8 +152,8 @@
     main/NaI/Li.yml: comments, info
     main/N2/Griesmann.yml: comments, info
     main/SiO2/Malitson.yml: comments, info
-    main/Ag/Windt.yml: references
-    main/Au/Windt.yml: references
+    main/*/Windt.yml: references
+    main/*/Boyd*.yml: references
     main/Al/Ordal.yml: references
     main/Au/Ordal.yml: references
     main/Cu/Ordal.yml: references
