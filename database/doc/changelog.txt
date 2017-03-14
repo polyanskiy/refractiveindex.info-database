@@ -1,4 +1,6 @@
-[next release]
+
+============================== 2017-03-14 ==============================
+
   new data (thanks to Luca Bergamini for submitting data in yaml format!)
     main/TiN/Pfluger.yml
     main/TiC/Pfluger.yml
@@ -191,7 +193,8 @@
     removed spaces at the end of lines in all files
     removed newline symbols at the end of all files
 
-2016-12-03
+============================== 2016-12-03 ==============================
+
   new data (thanks to Tomáš Halenkovič, University of Pardubice, Czech Republic!)
     main/Al2O3/Boidin.yml
   new data  (thanks to Elisa Sani)
@@ -262,7 +265,8 @@
   bug fixes
     library.yml: fixed "HIKARI-KF" book wrongly named "HIKARI-FK"
 
-2016-05-25
+============================== 2016-05-25 ==============================
+
   bug fixes (thanks to Julian Stark, Institut für Lasertechnologien in der Medizin und Messtechnik, Ulm, Germany!)
     main/Pb/Golovashkin-293.yml - fixed a bug in numerical data
   bug fixes (thanks to Thibault North!) - fixed glass INFO and comments wrongly imported from Zemax catalog
@@ -307,7 +311,8 @@
     main/H2O/* (added INFO sectoin)
     main/D2O/* (added INFO sectoin)
 
-2016-01-31
+============================== 2016-01-31 ==============================
+
   bug fixes (thanks to Thibault North!)
     fixed path to organic/CH6H6 - benzene.Moutzouris.yml in library.yml
     added main/Ti/Rakic.yml to library.yml
@@ -363,7 +368,8 @@
     glass/ohara/*.yml
     glass/schott/*.yml
 
-2015-12-01
+============================== 2015-12-01 ==============================
+
   better data (thanks to Elisa Sani)
     organic/C2H6O2 - ethylene glycol/Sani.yml
   removed data (dispersion formulae for select ranges from Sani.yml; Sani1.yml formula for vis/NIR is also included in Sani_and_Otanicar.yml)
@@ -388,7 +394,8 @@
   other
     library.yml: ' - ' replaced by ': ' in page names
 
-2015-08-18
+============================== 2015-08-18 ==============================
+
   !!! version to be uploaded on GitHub !!!
   new data (thanks to Juan I. Larruquert, Instituto de Optica, Madrid, Spain for providing numerical data)
     main/B4C/Larruquert.yml
@@ -402,7 +409,8 @@
     main/Tm/Garcia-Cortes.yml renamed to main/Tm/Vidal-Dasilva.yml; Record in library.yml updated accordingly
     removed legacy main/C/Amorphous.yml
 
-2015-07-05
+============================== 2015-07-05 ==============================
+
   new data (thanks to Kevin McPeak, ETH Zürich, Switzerland for providing data in yaml format!)
     main/Ag/McPeak.yml
     main/Al/McPeak.yml
@@ -424,7 +432,8 @@
     library.yml: Improved classification of organic compounds (alcohols -> alcohols, diols and triols)
     library.yml: Amyl alcohol renamed to Pentanol
 
-2015-05-24
+============================== 2015-05-24 ==============================
+
   new data (thanks to Elisa Sani, National Institute of Optics, Firenze, Italy)
     organic/C2H6O2 - ethylene glycol/Sani.yml
     organic/C2H6O2 - ethylene glycol/Sani1.yml
@@ -445,7 +454,8 @@
     "Numerical data kindly provided by..." notes modified to use same format across the database
     library.yml: added missing "n,k" in the names of some pages (in Ag, Al, Au, Cu)
 
-2015-03-11
+============================== 2015-03-11 ==============================
+
   new data
     organic/C5H12 - pentane/Anderson.yml
     organic/C8H18 - octane/Anderson.yml
@@ -468,7 +478,8 @@
     organic/CCl4 - carbon tetrachloride/Moutzouris.yml
     organic/CH4O - methanol/Moutzouris.yml
 
-2015-02-15
+============================== 2015-02-15 ==============================
+
   new data (thanks to Vamsi Borra, University of Toledo for very useful input)
     main/In/Golovashkin-295.yml
     main/In/Golovashkin-4.2.yml
@@ -505,12 +516,14 @@
     added "MISCELLANEOUS" book to "3D" shelf
     added acetylene and propane soot to "3D" shelf
 
-2015-01-17
+============================== 2015-01-17 ==============================
+
   !!! refractiveindex.info database is released to public domain via CC0 1.0 Universal Public Domain Dedication !!!
   bug fixes
     glass/schott/inquiry/N-BAF3 - added closing quotation mark in the "COMMENTS:" field
 
-2015-01-01
+============================== 2015-01-01 ==============================
+
   data relevant to 3D rendering assembled in a separate shelf (thanks to Thomas Coote, Pinewood Studios for useful feedback)
   new data
     glass/ohara/S-FPL55.yml
@@ -522,7 +535,8 @@
     main/MgF2/Li-o.yml
     main/MgF2/Li-e.yml
 
-2014-11-08
+============================== 2014-11-08 ==============================
+
   !!! LICENSE (LGPL) ADDED !!!
   new data (thanks to Mikael Malmström, KTH Royal Institute of Technology, Stockholm, Sweden for suggesting data and Jan Kischkat, Humboldt University Berlin, Germany for providing numerical data)
     main/SiO2/Kischkat.yml
@@ -548,7 +562,8 @@
   other
     added a comment to all optical glass entries about refractive index and wavelength being relative to air (thanks to Rod Vance for the idea)
 
-2014-09-29
+============================== 2014-09-29 ==============================
+
   new data
     main/H2O/Kedenburg.yml
     main/D2O/Kedenburg.yml
@@ -576,7 +591,8 @@
         "Glass"   -> "GLASS - glasses"
         "Other"   -> "OTHER - miscellaneous materials"
 
-2014-07-21
+============================== 2014-07-21 ==============================
+
   format modification for better following YAML specifications (thanks to Pavel Dmitriev, National Research University of Information Technologies, Mechanics and Optics, St. Petersburg, Russia for reporting a bug and for useful advices on format update)
     'DATA: [n,k,nk]' and 'FORMULA: [1-9]' key/value pairs are replaced by '  - type: tabulated [n,k,nk]' and '  - type formula [1-9]' sub-enties of the 'DATA:' key respectively.
   new data
@@ -584,14 +600,16 @@
   updated data
     glass/vitron/*.yml (thanks to Dr. Rolf Henkel, VITRON Spezialwerkstoffe GmbH)
 
-2014-07-05
+============================== 2014-07-05 ==============================
+
   bug fixes (thanks to Joel Murray for reporting most of these bugs)
     removed not used files with not relevant content (main/AlCu/AlCu.yml and main/AlSb/AlSb.yml)
     corrected link to 'Hagemann 1974 - DESY report SR-74-7.pdf' in several files
     removed extra newline symbols in the REFERENCES field in many files
     replaced /n by /r/n everywhere (previously booth notations for newline were used inconsistently)
 
-2014-07-01
+============================== 2014-07-01 ==============================
+
   new data
     ITO (In2O3-SnO2): data provided by Dr. Tobias König, University of Bayreuth, Germany
       other/mixed crystals/In2O3-SnO2/Konig.yml
