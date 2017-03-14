@@ -166,6 +166,7 @@
     main/Ta/Ordal.yml: references, comments
     main/W/Ordal.yml: references, comments
     main/Mo/Ordal.yml: references, comments
+    main/AlSb/Zollner.yml: references(author list)
     organic/(C5H8O2)n - poly(methyl methacrylate)/Sultanova.yml: references, info
     organic/(C6H10O5)n - cellulose/Sultanova.yml: references, info
     organic/C8H8 - styrene/Sultanova.yml: references, info
