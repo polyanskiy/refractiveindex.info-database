@@ -348,7 +348,7 @@
       content:
         - PAGE: Li
           name: "Li 1976: n 0.21-55 µm; 20 °C"
-          path: "main/CsBr/Li.yml"l"
+          path: "main/CsBr/Li.yml"
         - PAGE: Querry
           name: "Querry 1987: n,k 0.213-149 µm"
           path: "main/CsBr/Querry.yml"
@@ -2696,6 +2696,7 @@
           path: "organic/C11H12O2 - ethyl cinnamate/Krauter.yml"
     - BOOK: diethyl_phthalate
       name: "C<sub>12</sub>H<sub>14</sub>O<sub>4</sub> (Diethyl phthalate, DEP)"
+      content:
         - PAGE: Querry-NIR
           name: "Querry 1987: Near-infrared; n,k 0.81-2.5 µm"
           path: "organic/C12H14O4 - diethyl phthalate/Querry-NIR.yml"
@@ -2833,6 +2834,7 @@
           path: "organic/C2H6OS - dimethyl sulfoxide/Kozma.yml"
     - BOOK: dimethyl_methylphosphonate
       name: "C<sub>3</sub>H<sub>9</sub>O<sub>3</sub>P (Dimethyl methylphosphonate, DMMP)"
+      content:
         - PAGE: Querry-NIR
           name: "Querry 1987: Near-infrared; n,k 0.80-2.5 µm"
           path: "organic/C3H9O3P - dimethyl methylphosphonate/Querry-NIR.yml"
@@ -2841,11 +2843,13 @@
           path: "organic/C3H9O3P - dimethyl methylphosphonate/Querry-IR.yml"
     - BOOK: diethyl_sulfite
       name: "C<sub>4</sub>H<sub>10</sub>O<sub>3</sub>S (Diethyl sulfite, DES)"
+      content:
         - PAGE: Querry
           name: "Querry 1987: n,k 0.270-19.6 µm"
           path: "organic/C4H10O3S - diethyl sulfite/Querry.yml"
     - BOOK: diisopropyl_methylphosphonate
       name: "C<sub>7</sub>H<sub>17</sub>O3P (Diisopropyl methylphosphonate, DIMP)"
+      content:
         - PAGE: Querry-NIR
           name: "Querry 1987: Near-infrared; n,k 0.81-2.5 µm"
           path: "organic/C7H17O3P - diisopropyl methylphosphonate/Querry-NIR.yml"
@@ -2879,6 +2883,7 @@
           path: "organic/(C2H4O)n - polyvinyl alcohol/Bodurov.yml"
     - BOOK: polydimethylsiloxane
       name: "(C<sub>2</sub>H<sub>6</sub>OSi)<sub>n</sub> (Polydimethylsiloxane, PDMS)"
+      content:
         - PAGE: Querry-NIR
           name: "Querry 1987: Near-infrared; n,k 0.82-2.5 µm"
           path: "organic/(C2H6OSi)n - polydimethylsiloxane/Querry-NIR.yml"
@@ -6795,22 +6800,20 @@
       content:
         - PAGE: Dlazell
           name: "Dalzell and Sarofim 1969: n,k 0.4358-10 µm"
-          path: "other/soots/propane soot/Dalzell.yml
+          path: "other/soots/propane soot/Dalzell.yml"
     - BOOK: diesel_soot
       name: "Diesel soot"
       content:
         - PAGE: Querry-NMSU
           name: "Querry 1987: Sample 1; n,k 0.260-55.6 µm"
           path: "other/soots/diesel soot/Querry-NMSU.yml"
-      content:
         - PAGE: Querry-NMSU-heated
           name: "Querry 1987: Sample 1, heated; n,k 0.260-55.6 µm"
           path: "other/soots/diesel soot/Querry-NMSU-heated.yml"
-      content:
         - PAGE: Querry-UMKC
           name: "Querry 1987: Sample 2; n,k 2.50-55.6 µm"
           path: "other/soots/diesel soot/Querry-UMKC.yml"
-    - DIVIDER: "Clays
+    - DIVIDER: "Clays"
     - BOOK: montmorillonite
       name: "Montmorillonite"
       content:
