@@ -2,7 +2,7 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "T. A. F. König, P. A. Ledin, J. Kerszulis, M. A. Mahmoud; M. A. El-Sayed, J. R. Reynolds and V. V. Tsukruk. Electrically tunable plasmonic behavior of nanocube-polymer nanomaterials induced by a redox-active electrochromic polymer, <a href=\"https://doi.org/10.1021/nn501601e\"><i>ACS Nano</i> <b>8</b>, 6182-6192  (2014)</a><br>(Numerical data provided by Tobias König)"
+REFERENCES: "T. A. F. König, P. A. Ledin, J. Kerszulis, M. A. Mahmoud; M. A. El-Sayed, J. R. Reynolds and V. V. Tsukruk. Electrically tunable plasmonic behavior of nanocube-polymer nanomaterials induced by a redox-active electrochromic polymer, <a href=\"https://doi.org/10.1021/nn501601e\"><i>ACS Nano</i> <b>8</b>, 6182-6192 (2014)</a> (Numerical data kindly provided by Tobias König)"
 COMMENTS: "Optical constants of roughness layer (effective medium approximation (EMA) layer), thickness d=2nm, add this layer to ITO refractive index layer (setup: BK7+ITO(d=72nm)+EMA(d=2nm)), ITO purchased from Delta Technology (CG-60IN-CUV), 15-25 ohms, ITO on BK7. ITO includes a separate roughness layer (see EMA)"
 DATA:
   - type: tabulated nk

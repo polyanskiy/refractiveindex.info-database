@@ -1418,9 +1418,7 @@
     - BOOK: MoO3
       name: "MoO<sub>3</sub> (Molybdenum trioxide)"
       content:
-        - PAGE: Vos
-          name: "Vos et al. 2015: Amorphous; n,k 0.019-1 µm"
-          path: "main/MoO3/Vos.yml"
+        - DIVIDER: "Crystal"
         - PAGE: Lajaunie-α
           name: "Lajaunie et al. 2013: n,k(α) 0.019-24.8 µm"
           path: "main/MoO3/Lajaunie-alpha.yml"
@@ -1430,6 +1428,13 @@
         - PAGE: Lajaunie-γ
           name: "Lajaunie et al. 2013: n,k(γ) 0.019-24.8 µm"
           path: "main/MoO3/Lajaunie-gamma.yml"
+        - DIVIDER: "Thin film"
+        - PAGE: Vos
+          name: "Vos et al. 2015: Thin film; n,k 0.019-1 µm"
+          path: "main/MoO3/Vos.yml"
+        - PAGE: Stelling
+          name: "Stelling et al. 2017: Thin film; n,k 0.301-0.899 µm"
+          path: "main/MoO3/Stelling.yml"
     - BOOK: Nb2O5
       name: "Nb<sub>2</sub>O<sub>5</sub> (Niobium pentoxide)"
       content:
@@ -1462,7 +1467,7 @@
           name: "Malitson 1965: Fused silica; n 0.21-6.7 µm"
           path: "main/SiO2/Malitson.yml"
         - PAGE: Popova
-          name: "Popova et al. 1972: Fused silica; n 7-50 µm"
+          name: "Popova et al. 1972: Fused silica; n,k 7-50 µm"
           path: "main/SiO2/Popova.yml"
         - DIVIDER: "Crystal"
         - PAGE: Ghosh-o
@@ -1551,6 +1556,10 @@
         - PAGE: Bond-e
           name: "Bond et al. 1965: n(e) 0.45-4.0 µm"
           path: "main/ZnO/Bond-e.yml"
+        - DIVIDER: "Thin film"
+        - PAGE: Stelling
+          name: "Stelling et al. 2017: n,k 0.302-1.685 µm"
+          path: "main/ZnO/Stelling.yml"
         - DIVIDER: "Pellet"
         - PAGE: Querry
           name: "Querry 1985: n,k 0.21-55.6 µm"
@@ -1934,40 +1943,58 @@
     - BOOK: AlSb
       name: "AlSb (Aluminium antimonide)"
       content:
+        - DIVIDER: "Experimental data"
         - PAGE: Zollner
-          name: "Zollner et al. 1989: n,k 0.2138-0.8856 µm"
+          name: "Zollner et al. 1989: n,k 0.214-0.886 µm"
           path: "main/AlSb/Zollner.yml"
+        - DIVIDER: "Models and simulations"
+        - PAGE: Adachi
+          name: "Adachi 1990: n,k 0.207-12.4 µm"
+          path: "main/AlSb/Adachi.yml"
+        - PAGE: Djurisic
+          name: "Djurišić et al. 2000: n,k 0.207-12.4 µm"
+          path: "main/AlSb/Djurisic.yml"
     - BOOK: GaSb
       name: "GaSb (Gallium antimonide)"
       content:
+        - DIVIDER: "Experimental data"
         - PAGE: Aspnes
-          name: "Aspnes and Studna 1983: n,k 0.21-0.83 µm"
+          name: "Aspnes and Studna 1983: n,k 0.207-0.827 µm"
           path: "main/GaSb/Aspnes.yml"
         - PAGE: Ferrini
-          name: "Ferrini et al. 1998: n,k 0.207-2.480 µm"
+          name: "Ferrini et al. 1998: n,k 0.207-2.48 µm"
           path: "other/semiconductor alloys/AlSb-GaSb/Ferrini-0.yml"
+        - DIVIDER: "Models and simulations"
+        - PAGE: Djurisic
+          name: "Djurišić et al. 2000: n,k 0.207-2.48 µm"
+          path: "main/GaSb/Djurisic.yml"
     - BOOK: InSb
       name: "InSb (Indium antimonide)"
       content:
+        - DIVIDER: "Experimental data"
         - PAGE: Aspnes
-          name: "Aspnes and Studna 1983: n,k 0.21-0.83 µm"
+          name: "Aspnes and Studna 1983: n,k 0.207-0.827 µm"
           path: "main/InSb/Aspnes.yml"
+        - DIVIDER: "Models and simulations"
+        - PAGE: Djurisic
+          name: "Djurišić et al. 2000: n,k 0.207-0.827 µm"
+          path: "main/InSb/Djurisic.yml"
     - DIVIDER: "Sc - Scandium"
     - BOOK: Sc
       name: "Sc (Scandium)"
       content:
         - PAGE: Larruquert
-          name: "Larruquert et al. 2004: n,k 0.001240-0.1898 µm"
+          name: "Larruquert et al. 2004: n,k 0.00124-0.190 µm"
           path: "main/Sc/Larruquert.yml"
     - DIVIDER: "Se - Selenium and selenides"
     - BOOK: Se
       name: "Se (Selenium)"
       content:
         - PAGE: Campel-o
-          name: "Campel and Johnson 1969: n(o) 1.064-10.6 µm"
+          name: "Campel and Johnson 1969: n(o) 1.06-10.6 µm"
           path: "main/Se/Campel-o.yml"
         - PAGE: Campel-e
-          name: "Campel and Johnson 1969: n(e) 1.064-10.6 µm"
+          name: "Campel and Johnson 1969: n(e) 1.06-10.6 µm"
           path: "main/Se/Campel-e.yml"
     - BOOK: CdSe
       name: "CdSe (Cadmium selenide)"
@@ -2002,6 +2029,7 @@
     - BOOK: ZnSe
       name: "ZnSe (Zinc selenide)"
       content:
+        - DIVIDER: "Experimental data"
         - PAGE: Marple
           name: "Marple 1964: n 0.48-2.5 µm"
           path: "main/ZnSe/Marple.yml"
@@ -2011,6 +2039,10 @@
         - PAGE: Connolly
           name: "Connolly et al. 1979: n 0.54-18.2 µm"
           path: "main/ZnSe/Connolly.yml"
+        - DIVIDER: "Models and simulations"
+        - PAGE: Adachi
+          name: "Adachi and Taguchi 1991: n,k 0.234-0.827 µm"
+          path: "main/ZnSe/Adachi.yml"
     - BOOK: AgGaSe2
       name: "AgGaSe<sub>2</sub> (Silver gallium selenide, AGSe)"
       content:
@@ -3110,7 +3142,7 @@
       content:
         - PAGE: Pilkington-Optiwhite
           name: "Pilkington Optiwhite™ (Low iron glass)"
-          path: "glass/nsg/Pilkington-Optiwhite.yml"
+          path: "glass/nsg/Pilkington-Optiwhite.yml"       
     - DIVIDER: "Display glass"
     - BOOK: CORNING-display
       name: "CORNING - display"
@@ -6567,11 +6599,23 @@
           name: "Sultanova et al. 2009: n 0.4368-1.052 µm"
           path: "other/mixed organic/(C8H8)n-(C3H3N)m/Sultanova.yml"
     - BOOK: C6H4S4:C12H4N4
-      name: "C<sub>6</sub>H<sub>4</sub>S<sub>4</sub>:C<sub>12</sub>H<sub>4</sub>N<sub>4</sub> (Tetrathiafulvalene:tetracyanoquinodimethane, TTF:TCNQ )"
+      name: "C<sub>6</sub>H<sub>4</sub>S<sub>4</sub>:C<sub>12</sub>H<sub>4</sub>N<sub>4</sub> (Tetrathiafulvalene:tetracyanoquinodimethane, TTF:TCNQ)"
       content:
         - PAGE: Querry
           name: "Querry 1985: n,k 0.21-55.6 µm"
           path: "other/mixed organic/C6H4S4-C12H4N4/Querry.yml"
+    - BOOK: PTB7:PC71BM
+      name: "PTB7:PC71BM"
+      content:
+        - PAGE: Stelling
+          name: "Stelling et al. 2017: n,k 0.302-1.685 µm"
+          path: "other/mixed organic/PTB7-PC71BM/Stelling.yml"
+    - BOOK: P3HT:PC61BM
+      name: "P3HT:PC61BM"
+      content:
+        - PAGE: Stelling
+          name: "Stelling et al. 2017: n,k 0.247-1.685 µm"
+          path: "other/mixed organic/P3HT-PC61BM/Stelling.yml"
     - DIVIDER: "Mixed organic/inorganic compounds"
     - BOOK: Cu:C12H4N4
       name: "Cu:C<sub>12</sub>H<sub>4</sub>N<sub>4</sub> (Copper:tetracyanoquinodimethane, Cu:TCNQ )"

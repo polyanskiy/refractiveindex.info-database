@@ -1,3 +1,24 @@
+============================== next release ==============================
+
+  new data
+    main/AlSb/Adachi.yml
+    main/ZnSe/Adachi.yml
+    main/AlSb/Djurisic.yml
+    main/GaSb/Djurisic.yml
+    main/InSb/Djurisic.yml
+  new data (thanks to Tobias König for submitting data!)
+    main/ZnO/Stelling.yml
+    main/MoO3/Stelling.yml
+    other/mixed organic/PTB7-PC71BM/Stelling.yml
+    other/mixed organic/P3HT-PC61BM/Stelling.yml
+  updates:
+    other/mixed crystals/In2O3-SnO2/Konig.yml: references
+    other/mixed crystals/In2O3-SnO2/Konig-EMA.yml: references
+    organic/(C6H9NO)n - polyvinylpyrrolidone/Konig.yml: references
+    other/mixed crystals/In2O3-SnO2/Moerland.yml: references
+    main/B/Fernandez-Perea.yml: references
+    main/Sc/Larruquert.yml: references
+
 ============================== 2017-03-25 ==============================
 
   multiple bug fixes in library.yml (thanks to Thibault North!)
@@ -88,7 +109,7 @@
     main/Pd/Rakic-LD.yml
     main/Pt/Rakic-LD.yml
     main/Ti/Rakic-LD.yml
-    main/W/Rakic.yml; 
+    main/W/Rakic-LD.yml
     main/CuO/Brimhall.yml
     main/Ag/Werner.yml
     main/Ag/Werner-DFT.yml
