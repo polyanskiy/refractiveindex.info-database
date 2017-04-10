@@ -148,9 +148,10 @@
     - BOOK: GaAs
       name: "GaAs (Gallium arsenide)"
       content:
+        - DIVIDER: "Experimental data"
         - PAGE: Aspnes
           name: "Aspnes et al. 1986: n,k 0.21-0.83 µm"
-          path: "main/GaAs/Aspnes.yml"
+          path: "main/GaAs/Aspnes.yml""
         - PAGE: Skauli
           name: "Skauli et al. 2003: n 0.97-17 µm"
           path: "main/GaAs/Skauli.yml"
@@ -160,6 +161,10 @@
         - PAGE: Kachare
           name: "Kachare et al. 1976: n 1.4-11 µm"
           path: "main/GaAs/Kachare.yml"
+        - DIVIDER: "Models and simulations"
+        - PAGE: Ozaki
+          name: "Ozaki and Adachi 1995: n,k 0.221-1.03 µm"
+          path: "main/GaAs/Ozaki.yml
     - BOOK: InAs
       name: "InAs (Indium arsenide)"
       content:

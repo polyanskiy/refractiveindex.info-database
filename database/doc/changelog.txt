@@ -1,6 +1,7 @@
 ============================== next release ==============================
 
   new data
+    main/GaAs/Ozaki.yml
     main/AlSb/Adachi.yml
     main/ZnSe/Adachi.yml
     main/AlSb/Djurisic.yml
@@ -12,6 +13,8 @@
     other/mixed organic/PTB7-PC71BM/Stelling.yml
     other/mixed organic/P3HT-PC61BM/Stelling.yml
   updates:
+    main/Ta2O5/Bright-amorphous.yml: recalculated with updated script, references
+    main/Ta2O5/Bright-nanocrystalline.yml: recalculated with updated script, references
     other/mixed crystals/In2O3-SnO2/Konig.yml: references
     other/mixed crystals/In2O3-SnO2/Konig-EMA.yml: references
     organic/(C6H9NO)n - polyvinylpyrrolidone/Konig.yml: references
