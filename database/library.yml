@@ -142,9 +142,14 @@
     - BOOK: AlAs
       name: "AlAs (Aluminium arsenide)"
       content:
+        - DIVIDER: "Experimental data"
         - PAGE: Fern
           name: "Fern and Onton 1971: n 0.56-2.2 µm"
           path: "main/AlAs/Fern.yml"
+        - DIVIDER: "Models and simulations"
+        - PAGE: Rakic
+          name: "Rakić and Majewski 1996: n,k 0.221-2.48 µm"
+          path: "main/AlAs/Rakic.yml"
     - BOOK: GaAs
       name: "GaAs (Gallium arsenide)"
       content:
@@ -162,6 +167,9 @@
           name: "Kachare et al. 1976: n 1.4-11 µm"
           path: "main/GaAs/Kachare.yml"
         - DIVIDER: "Models and simulations"
+        - PAGE: Rakic
+          name: "Rakić and Majewski 1996: n,k 0.207-12.4 µm"
+          path: "main/GaAs/Rakic.yml"
         - PAGE: Ozaki
           name: "Ozaki and Adachi 1995: n,k 0.221-1.03 µm"
           path: "main/GaAs/Ozaki.yml"

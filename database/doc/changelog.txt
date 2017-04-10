@@ -1,6 +1,8 @@
 ============================== next release ==============================
 
   new data
+    main/AlAs/Rakic.yml
+    main/GaAs/Rakic.yml
     main/GaAs/Ozaki.yml
     main/AlSb/Adachi.yml
     main/ZnSe/Adachi.yml
