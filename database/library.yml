@@ -1934,12 +1934,17 @@
     - BOOK: ZnS
       name: "ZnS (Zinc sulfide)"
       content:
+        - DIVIDER: "Experimental data"
         - PAGE: Debenham
           name: "Debenham 1984: Cubic ZnS; n 0.405-13 µm"
           path: "main/ZnS/Debenham.yml"
         - PAGE: Querry
           name: "Querry 1987: n,k 0.220-167 µm"
           path: "main/ZnS/Querry.yml"
+        - DIVIDER: "Models and simulations"
+        - PAGE: Ozaki
+          name: "Ozaki and Adachi 1993: Cubic ZnS; n,k 0.221-1.03 µm"
+          path: "main/ZnS/Ozaki.yml"
     - BOOK: CaSO4
       name: "CaSO<sub>4</sub> (Calcium sulfate)"
       content:
@@ -2245,6 +2250,10 @@
     - BOOK: CdTe
       name: "CdTe (Cadmium telluride)"
       content:
+        - DIVIDER: "Experimental data"
+        - PAGE: Marple
+          name: "Marple 1964: n 0.86-2.5 µm"
+          path: "main/CdTe/Marple.yml"
         - PAGE: Treharne
           name: "Treharne et al. 2011: n,k 0.3-1.5 µm"
           path: "main/CdTe/Treharne.yml"
@@ -2257,9 +2266,10 @@
         - PAGE: DeBell-20K
           name: "DeBell et al. 1979: n 6-22 µm; 20 K"
           path: "main/CdTe/DeBell-20K.yml"
-        - PAGE: Marple
-          name: "Marple 1964: n 0.86-2.5 µm"
-          path: "main/CdTe/Marple.yml"
+        - DIVIDER: "Models and simulations"
+        - PAGE: Adachi
+          name: "Adachi et al. 1993: n,k 0.221-1.13 µm"
+          path: "main/CdTe/Adachi.yml"
     - BOOK: MoTe2
       name: "MoTe<sub>2</sub> (Molybdenum ditelluride)"
       content:

@@ -4,8 +4,10 @@
     main/AlAs/Rakic.yml
     main/GaAs/Rakic.yml
     main/GaAs/Ozaki.yml
+    main/ZnS/Ozaki.yml
     main/AlSb/Adachi.yml
     main/ZnSe/Adachi.yml
+    main/CdTe/Adachi.yml
     main/AlSb/Djurisic.yml
     main/GaSb/Djurisic.yml
     main/InSb/Djurisic.yml
