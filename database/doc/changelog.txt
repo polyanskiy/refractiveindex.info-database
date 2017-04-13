@@ -1,6 +1,7 @@
 ============================== next release ==============================
 
   new data
+    main/PbSe/Suzuki.yml
     main/AlAs/Rakic.yml
     main/GaAs/Rakic.yml
     main/GaAs/Ozaki.yml

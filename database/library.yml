@@ -2041,9 +2041,14 @@
     - BOOK: PbSe
       name: "PbSe (Lead selenide)"
       content:
+        - DIVIDER: "Experimental data"
         - PAGE: Zemel
-          name: "Zemel et al. 1965: 5-10 µm"
+          name: "Zemel et al. 1965: n 5-10 µm"
           path: "main/PbSe/Zemel.yml"
+        - DIVIDER: "Models and simulations"
+        - PAGE: Suzuki
+          name: "Suzuki et al. 1995: n,k 0.230-1.08 µm"
+          path: "main/PbSe/Suzuki.yml"
     - BOOK: ZnSe
       name: "ZnSe (Zinc selenide)"
       content:
