@@ -1154,12 +1154,23 @@
     - BOOK: GaN
       name: "GaN (Gallium nitride)"
       content:
+        - DIVIDER: "Experimental data"
         - PAGE: Barker-o
           name: "Barker and Ilegems 1973: n(o) 0.35-10 µm"
           path: "main/GaN/Barker-o.yml"
         - PAGE: Barker-e
           name: "Barker and Ilegems 1973: n(e) 0.35-10 µm"
           path: "main/GaN/Barker-e.yml"
+        - PAGE: Lin-wurtzite
+          name: "Lin et al. 1993: n(e) 0.37-0.99 µm"
+          path: "main/GaN/Lin-wurtzite.yml"
+        - PAGE: Lin-zincblende
+          name: "Lin et al. 1993: Zincblende; n 0.37-0.99 µm"
+          path: "main/GaN/Lin-zincblende.yml"
+        - DIVIDER: "Models and simulations"
+        - PAGE: Kawashima
+          name: "Kawashima et al. 1997: thin film; n,k 0.131-0.919 µm"
+          path: "main/GaN/Kawashima.yml"
     - BOOK: NH3
       name: "NH<sub>3</sub> (Ammonia)"
       content:
@@ -1865,15 +1876,23 @@
     - BOOK: CdS
       name: "CdS (Cadmium sulfide)"
       content:
-        - PAGE: Treharne
-          name: "Treharne et al. 2011: Thin film; n,k 0.3-1.5 µm"
-          path: "main/CdS/Treharne.yml"
+        - DIVIDER: "Experimental data"
         - PAGE: Bieniewski-o
           name: "Bieniewski and Czyzak 1963: n(o) 0.51-1.4 µm"
           path: "main/CdS/Bieniewski-o.yml"
         - PAGE: Bieniewski-e
           name: "Bieniewski and Czyzak 1963: n(e) 0.51-1.4 µm"
           path: "main/CdS/Bieniewski-e.yml"
+        - PAGE: Treharne
+          name: "Treharne et al. 2011: Thin film; n,k 0.3-1.5 µm"
+          path: "main/CdS/Treharne.yml"
+        - DIVIDER: "Models and simulations"
+        - PAGE: Ninomiya-o
+          name: "Ninomiya and Adachi 1995: n,k(o) 0.218-1.03 µm"
+          path: "main/CdS/Ninomiya-o.yml"
+        - PAGE: Ninomiya-e
+          name: "Ninomiya and Adachi 1995: n,k(e) 0.218-1.03 µm"
+          path: "main/CdS/Ninomiya-e.yml"
     - BOOK: CuGaS2
       name: "CuGaS<sub>2</sub> (Copper gallium sulfide)"
       content:

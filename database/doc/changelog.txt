@@ -1,6 +1,11 @@
 ============================== next release ==============================
 
   new data
+    main/GaN/Lin-wurtzite.yml
+    main/GaN/Lin-zincblende.yml
+    main/GaN/Kawashima.yml
+    main/CdS/Ninomiya-o.yml
+    main/CdS/Ninomiya-e.yml
     main/PbSe/Suzuki.yml
     main/AlAs/Rakic.yml
     main/GaAs/Rakic.yml
@@ -26,6 +31,10 @@
     other/mixed crystals/In2O3-SnO2/Moerland.yml: references
     main/B/Fernandez-Perea.yml: references
     main/Sc/Larruquert.yml: references
+    main/GaN/Barker-o.yml: comments, references
+    main/GaN/Barker-o.yml: comments, references
+  bug fixes
+    main/Al2O3/Querry-e.yml: data (Thanks to Philipp Franz, Paul-Drude-Institut für Festkörperelektronik, Berlin, Germany)
 
 ============================== 2017-03-25 ==============================
 
