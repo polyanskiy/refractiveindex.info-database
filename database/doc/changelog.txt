@@ -1,6 +1,9 @@
 ============================== next release ==============================
 
   new data
+    main/CdSe/Ninomiya-o.yml
+    main/CdSe/Ninomiya-e.yml
+    main/CdSe/Ninomiya-cubic.yml
     main/GaN/Lin-wurtzite.yml
     main/GaN/Lin-zincblende.yml
     main/GaN/Kawashima.yml

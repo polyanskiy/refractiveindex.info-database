@@ -2036,12 +2036,23 @@
     - BOOK: CdSe
       name: "CdSe (Cadmium selenide)"
       content:
+        - DIVIDER: "Experimental data"
         - PAGE: Lisitsa-o
           name: "Lisitsa et al. 1969: n(o) 1.01-22.0 µm"
           path: "main/CdSe/Lisitsa-o.yml"
         - PAGE: Lisitsa-e
           name: "Lisitsa et al. 1969: n(e) 1.01-22.0 µm"
           path: "main/CdSe/Lisitsa-e.yml"
+        - DIVIDER: "Models and simulations"
+        - PAGE: Ninomiya-o
+          name: "Ninomiya and Adachi 1995: n,k(o) 0.234-1.03 µm"
+          path: "main/CdSe/Ninomiya-o.yml"
+        - PAGE: Ninomiya-e
+          name: "Ninomiya and Adachi 1995: n,k(e) 0.234-1.03 µm"
+          path: "main/CdSe/Ninomiya-e.yml"
+        - PAGE: Ninomiya-cubic
+          name: "Ninomiya and Adachi 1995: Cubic; n,k 0.207-0.827 µm"
+          path: "main/CdSe/Ninomiya-cubic.yml"
     - BOOK: GaSe
       name: "GaSe (Gallium selenide)"
       content:
