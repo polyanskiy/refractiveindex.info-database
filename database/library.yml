@@ -2327,12 +2327,12 @@
       name: "ZnTe (Zinc telluride)"
       content:
         - DIVIDER: "Experimental data"
-        - PAGE: Li
-          name: "Li 1984: n 0.55-30 µm;"
-          path: "main/ZnTe/Li.yml"
         - PAGE: Marple
           name: "Marple 1964: n 0.58-2.5 µm"
           path: "main/ZnTe/Marple.yml"
+        - PAGE: Li
+          name: "Li 1984: n 0.55-30 µm;"
+          path: "main/ZnTe/Li.yml"
         - DIVIDER: "Models and simulations"
         - PAGE: Sato
           name: "Sato and Adachi 1993: n,k 0.221-0.827 µm"
