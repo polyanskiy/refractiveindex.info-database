@@ -1,6 +1,7 @@
 ============================== next release ==============================
 
   new data
+    main/ZnTe/SatSo.yml
     main/CdSe/Ninomiya-o.yml
     main/CdSe/Ninomiya-e.yml
     main/CdSe/Ninomiya-cubic.yml
