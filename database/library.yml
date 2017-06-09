@@ -1389,6 +1389,9 @@
         - PAGE: Hale
           name: "Hale and Querry 1973: Water; n,k 0.2-200 µm; 25 °C"
           path: "main/H2O/Hale.yml"
+        - PAGE: Wang
+          name: "Wang et al. 2017: Water; k 1.2-1.9 µm; 22 °C"
+          path: "main/H2O/Wang.yml"
         - PAGE: Kedenburg
           name: "Kedenburg et al. 2012: Water; n 0.5-1.6 µm, k 0.5-1.75 µm; 20.0 °C"
           path: "main/H2O/Kedenburg.yml"
@@ -1415,6 +1418,9 @@
         - PAGE: Kedenburg-D2O
           name: "Kedenburg et al. 2012: Heavy water; n 0.5-1.6 µm, k 0.5-1.75 µm"
           path: "main/D2O/Kedenburg.yml"
+        - PAGE: Wang-D2O
+          name: "Wang et al. 2016: Heavy water; k 1.2-2.6 µm"
+          path: "main/D2O/Wang.yml"
         - PAGE: Asfar-D2O
           name: "Afsar and Hasted 1977: Heavy water; n,k 250-2000 µm"
           path: "main/D2O/Asfar.yml"
@@ -2761,6 +2767,9 @@
         - PAGE: Rheims
           name: "Rheims et al. 1997: n 0.5893-1.05 µm"
           path: "organic/C3H8O3 - glycerol/Rheims.yml"
+        - PAGE: Wang
+          name: "Wang et al. 2017: k 1.2-1.9 µm"
+          path: "organic/C3H8O3 - glycerol/Wang.yml"
         - PAGE: Birkhoff
           name: "Birkhoff et al. 1978: n,k 0.05123-0.61992 µm"
           path: "organic/C3H8O3 - glycerol/Birkhoff.yml"
@@ -6824,6 +6833,25 @@
         - PAGE: Cargille
           name: "Cargille"
           path: "other/index-matching liquids/cargille/acrylic_matching_liquid.yml"
+    - DIVIDER: "Immersion oils"
+    - BOOK: Leica_Type_F
+      name: "Leica Type F"
+      content:
+        - PAGE: Wang
+          name: "Wang et al. 2017: k 1.2-1.9 µm"
+          path: "other/immersion oils/Leica Type F/Wang.yml"
+    - BOOK: Olympus_IMMOIL-F30CC
+      name: "Olympus IMMOIL-F30CC"
+      content:
+        - PAGE: Wang
+          name: "Wang et al. 2017: k 1.2-1.9 µm"
+          path: "other/immersion oils/Olympus IMMOIL-F30CC/Wang.yml"
+    - BOOK: Sigma_Aldrich_M5904
+      name: "Sigma Aldrich M5904"
+      content:
+        - PAGE: Wang
+          name: "Wang et al. 2017: k 1.2-1.9 µm"
+          path: "other/immersion oils/Sigma Aldrich M5904/Wang.yml"
     - DIVIDER: "Optical adhesives"
     - BOOK: Optical_adhesives
       name: "Optical adhesives"

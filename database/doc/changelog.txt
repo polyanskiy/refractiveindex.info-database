@@ -1,7 +1,7 @@
 ============================== next release ==============================
 
   new data
-    main/ZnTe/SatSo.yml
+    main/ZnTe/Sato.yml
     main/CdSe/Ninomiya-o.yml
     main/CdSe/Ninomiya-e.yml
     main/CdSe/Ninomiya-cubic.yml
@@ -21,12 +21,24 @@
     main/AlSb/Djurisic.yml
     main/GaSb/Djurisic.yml
     main/InSb/Djurisic.yml
+  new data (Thanks to Ke Wang, Shenzhen University, China, for submitting data!)
+    organic/C3H8O3 - glycerol/Wang.yml
+    main/H2O/Wang.yml
+    main/D2O/Wang.yml
+    other/immersion oils/Leica Type F/Wang.yml
+    other/immersion oils/Olympus IMMOIL-F30CC/Wang.yml
+    other/immersion oils/Sigma Aldrich M5904/Wang.yml
   new data (thanks to Tobias König for submitting data!)
     main/ZnO/Stelling.yml
     main/MoO3/Stelling.yml
     other/mixed organic/PTB7-PC71BM/Stelling.yml
     other/mixed organic/P3HT-PC61BM/Stelling.yml
   updates:
+    other/index-matching liquids/cargille/BK7_matching_liquid.yml: info
+    other/index-matching liquids/cargille/fused_silica_matching_liquid-06350.yml: info
+    other/index-matching liquids/cargille/fused_silica_matching_liquid-50350.yml: info
+    other/index-matching liquids/cargille/acrylic_matching_liquid.yml: info
+    organic/C3H8O3 - glycerol/Birkhoff.yml: references
     main/Ta2O5/Bright-amorphous.yml: recalculated with updated script, references
     main/Ta2O5/Bright-nanocrystalline.yml: recalculated with updated script, references
     other/mixed crystals/In2O3-SnO2/Konig.yml: references

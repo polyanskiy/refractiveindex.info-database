@@ -8,3 +8,5 @@ DATA:
   - type: formula 5
     range: 0.31 1.55
     coefficients: 1.502787 455872.4E-8 -2 9.844856E-5 -4
+INFO:
+    temperature: 25 °C
