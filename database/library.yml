@@ -2134,12 +2134,36 @@
         - PAGE: Aspnes
           name: "Aspnes and Studna 1983: n,k 0.21-0.83 µm"
           path: "main/Si/Aspnes.yml"
+        - PAGE: Schinke
+          name: "Schinke et al. 2015: k 0.25-1.45 µm"
+          path: "main/Si/Schinke.yml"
+        - PAGE: Green-2008
+          name: "Green 2008: n,k 0.25-1.45 µm"
+          path: "main/Si/Green-2008.yml"
         - PAGE: Chandler-Horowitz
           name: "Chandler-Horowitz and Amirtharaj 2005: n 2.5-22.222 µm, k 6.25-23.256 µm"
           path: "main/Si/Chandler-Horowitz.yml"
-        - PAGE: Green
+        - PAGE: Sik-25C
+          name: "Šik et al. 1998: n,k 0.29-0.62 µm; 25 °C"
+          path: "main/Si/Sik-25C.yml"
+        - PAGE: Sik-250C
+          name: "Šik et al. 1998: n,k 0.29-0.62 µm; 250 °C"
+          path: "main/Si/Sik-250C.yml"
+        - PAGE: Sik-500C
+          name: "Šik et al. 1998: n,k 0.29-0.62 µm; 500 °C"
+          path: "main/Si/Sik-500C.yml"
+        - PAGE: Sik-700C
+          name: "Šik et al. 1998: n,k 0.29-0.62 µm; 700 °C"
+          path: "main/Si/Sik-700C.yml"
+        - PAGE: Sik-850C
+          name: "Šik et al. 1998: n,k 0.29-0.62 µm; 850 °C"
+          path: "main/Si/Sik-850C.yml"
+        - PAGE: Green-1995
           name: "Green and Keevers 1995: n 0.25-1.45 µm, k 0.25-1.00 µm"
-          path: "main/Si/Green.yml"
+          path: "main/Si/Green-1995.yml"
+        - PAGE: Daub
+          name: "Daub and Würfel 1995: k 0.941-1.42 µm"
+          path: "main/Si/Daub.yml"
         - PAGE: Vuye-20C
           name: "Vuye et al. 1993: n,k 0.26-0.83 µm; 20 °C"
           path: "main/Si/Vuye-20C.yml"

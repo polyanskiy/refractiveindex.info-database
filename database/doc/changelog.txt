@@ -1,5 +1,13 @@
 ============================== next release ==============================
-
+  new data (Thanks to MK8J, for submitting data in YAML format via GitHub!)
+    main/Si/Daub.yml
+    main/Si/Green-2008.yml
+    main/Si/Schinke.yml
+    main/Si/Sik-25C.yml
+    main/Si/Sik-250C.yml
+    main/Si/Sik-500C.yml
+    main/Si/Sik-700C.yml
+    main/Si/Sik-850C.yml
   new data
     main/ZnTe/Sato.yml
     main/CdSe/Ninomiya-o.yml
@@ -34,6 +42,7 @@
     other/mixed organic/PTB7-PC71BM/Stelling.yml
     other/mixed organic/P3HT-PC61BM/Stelling.yml
   updates:
+    main/Si/Green.yml: renamed to "Green-1995.yml"
     organic/CH4 - methane/Rollefson.yml: references
     other/index-matching liquids/cargille/BK7_matching_liquid.yml: info
     other/index-matching liquids/cargille/fused_silica_matching_liquid-06350.yml: info

@@ -1,15 +1,10 @@
-
 # this file is part of refractiveindex.info database
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-Schinke, C., Christian Peest, P., Schmidt, J., Brendel, R., Bothe, K., Vogt, M.R., Kröger, I., Winter, S., Schirmacher, A., Lim, S., Nguyen, H.T., MacDonald, D., 2015. Uncertainty analysis for the coefficient of band-to-band absorption of crystalline silicon. AIP Advances 5, 67168. doi:10.1063/1.4923379
-
-
-REFERENCES: "Schinke, C., Christian Peest, P., Schmidt, J., Brendel, R., Bothe, K., Vogt, M.R., Kröger, I., Winter, S., Schirmacher, A., Lim, S., Nguyen, H.T., MacDonald, D., Uncertainty analysis for the coefficient of band-to-band absorption of crystalline silicon.
-<a href=\"http://dx.doi.org/10.1063%2F1.4923379"><i>AIP Advances</i> <b>5</b>, 67168 (20015)</a>"
-
-COMMENTS: Band-to-band absorption coefficient, Doping: 2.76×10<sup>15</sup> cm<sup>-3</sup> - 5.76×10<sup>15</sup> cm<sup>-3</sup>Temperature: 295 K. Original paper contains uncertainty for each wavelength.
+REFERENCES: "C. Schinke, P. Christian Peest, J. Schmidt, R. Brendel,  K. Bothe, M. R. Vogt, I. Kröger, S. Winter, A. Schirmacher, S. Lim, H. T. Nguyen, D. MacDonald. Uncertainty analysis for the coefficient of band-to-band absorption of crystalline silicon.
+<a href=\"http://dx.doi.org/10.1063%2F1.4923379\"><i>AIP Advances</i> <b>5</b>, 67168 (2015)</a>"
+COMMENTS: "Band-to-band absorption coefficient. Relative uncertainties of the absorption coefficient: 0.4% at 0.250 µm, 11% at 0.6 µm, 1.4% at 1 µm, 12% at 1.2 µm and 180% at 1.45 µm. Temperature: 295 K."
 DATA:
   - type: tabulated k
     data: |

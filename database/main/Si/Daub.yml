@@ -1,10 +1,9 @@
-
 # this file is part of refractiveindex.info database
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "Daub, E., Würfel, P., Ultralow values of the absorption coefficient of Si obtained from luminescence., <a href=\"http://dx.doi.org/10.1103%2FPhysRevLett.74.1020\"><i>Physical Review Letters</i> <b>74</b>, 1020–1023 (1995)</a>"
-COMMENTS: "Band-to-band absorption coefficient, Doping: 3.3×10<sup>16</sup> cm<sup>-3</sup> and 3.3×10<sup>16</sup> cm<sup>-3</sup>8.43×10<sup>14</sup>cm<sup>-3</sup>, temperature: 295 K"
+REFERENCES: "E. Daub, P. Würfel. Ultralow values of the absorption coefficient of Si obtained from luminescence, <a href=\"http://dx.doi.org/10.1103%2FPhysRevLett.74.1020\"><i>Phys. Rev. Lett.</i> <b>74</b>, 1020–1023 (1995)</a>"
+COMMENTS: "Band-to-band absorption coefficient. Temperature: 295 K."
 DATA:
   - type: tabulated k
     data: |
