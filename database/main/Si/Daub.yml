@@ -2,7 +2,7 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "E. Daub, P. Würfel. Ultralow values of the absorption coefficient of Si obtained from luminescence, <a href=\"http://dx.doi.org/10.1103%2FPhysRevLett.74.1020\"><i>Phys. Rev. Lett.</i> <b>74</b>, 1020–1023 (1995)</a>"
+REFERENCES: "E. Daub. <i>Photolumineszenz von Silizium</i> Ph.D. dissertation, Dept. Phys., University of Karlsruhe, Karlsruhe, Germany, 1995 (as cited in C. Schinke, D. Hinken, J. Schmidt, K. Bothe, R. Brendel. Modeling the spectral luminescence emission of silicon solar cells and wafers, <a href=\"https://doi.org/10.1109/JPHOTOV.2013.2263985\"><i>IEEE J. Photovolt.</i> <b>3</b>, 1038-1052 (2013)</a>)"
 COMMENTS: "Band-to-band absorption coefficient. Temperature: 295 K."
 DATA:
   - type: tabulated k

@@ -42,6 +42,9 @@
     other/mixed organic/PTB7-PC71BM/Stelling.yml
     other/mixed organic/P3HT-PC61BM/Stelling.yml
   updates:
+    main/YVO4/Shi-o.yml: references
+    main/YVO4/Shi-e.yml: references
+    main/InP/Pettit.yml: references
     main/Si/Green.yml: renamed to "Green-1995.yml"
     organic/CH4 - methane/Rollefson.yml: references
     other/index-matching liquids/cargille/BK7_matching_liquid.yml: info

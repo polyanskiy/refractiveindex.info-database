@@ -2161,6 +2161,9 @@
         - PAGE: Green-1995
           name: "Green and Keevers 1995: n 0.25-1.45 µm, k 0.25-1.00 µm"
           path: "main/Si/Green-1995.yml"
+        - PAGE: Daub
+          name: "Daub 1995: k 0.94-1.42 µm"
+          path: "main/Si/Daub.yml"
         - PAGE: Vuye-20C
           name: "Vuye et al. 1993: n,k 0.26-0.83 µm; 20 °C"
           path: "main/Si/Vuye-20C.yml"
