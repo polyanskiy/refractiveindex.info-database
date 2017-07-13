@@ -1,5 +1,5 @@
 ============================== next release ==============================
-  new data (Thanks to MK8J, for submitting data in YAML format via GitHub!)
+  new data (Thanks to Mattias "MK8J", for submitting data in YAML format via GitHub!)
     main/Si/Daub.yml
     main/Si/Green-2008.yml
     main/Si/Schinke.yml
@@ -9,6 +9,16 @@
     main/Si/Sik-700C.yml
     main/Si/Sik-850C.yml
   new data
+    main/GaP/Adachi.yml
+    main/GaAs/Adachi.yml
+    main/GaSb/Adachi.yml
+    main/InP/Adachi.yml
+    main/InAs/Adachi.yml
+    main/InSb/Adachi.yml
+    other/semiconductor alloys/AlAs-GaAs/Adachi-0.315.yml
+    other/semiconductor alloys/AlAs-GaAs/Adachi-0.315.yml
+    other/semiconductor alloys/GaAs-InAs/Adachi.yml
+    other/semiconductor alloys/GaAs-InAs-GaP-InP/Adachi.yml
     main/ZnTe/Sato.yml
     main/CdSe/Ninomiya-o.yml
     main/CdSe/Ninomiya-e.yml

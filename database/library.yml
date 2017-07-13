@@ -31,7 +31,6 @@
         - PAGE: Hagemann
           name: "Hagemann et al. 1974: n,k 2.48e-6-248 µm"
           path: "main/Ag/Hagemann.yml"
-        - DIVIDER: "Models and simulations"
         - PAGE: Rakic-BB
           name: "Rakić et al. 1998: Brendel-Bormann model; n,k 0.248-12.4 µm"
           path: "main/Ag/Rakic-BB.yml"
@@ -167,6 +166,9 @@
           name: "Kachare et al. 1976: n 1.4-11 µm"
           path: "main/GaAs/Kachare.yml"
         - DIVIDER: "Models and simulations"
+        - PAGE: Adachi
+          name: "Adachi 1989: n,k 0.207-12.4 µm"
+          path: "main/GaAs/Adachi.yml"
         - PAGE: Rakic
           name: "Rakić and Majewski 1996: n,k 0.207-12.4 µm"
           path: "main/GaAs/Rakic.yml"
@@ -176,12 +178,17 @@
     - BOOK: InAs
       name: "InAs (Indium arsenide)"
       content:
+        - DIVIDER: "Experimental data"
         - PAGE: Aspnes
           name: "Aspnes and Studna 1983: n,k 0.21-0.83 µm"
           path: "main/InAs/Aspnes.yml"
         - PAGE: Lorimor
           name: "Lorimor and Spitzer 1965: n 3.7-31.3 µm"
           path: "main/InAs/Lorimor.yml"
+        - DIVIDER: "Models and simulations"
+        - PAGE: Adachi
+          name: "Adachi 1989: n,k 0.207-12.4 µm"
+          path: "main/InAs/Adachi.yml"
     - BOOK: CdGeAs2
       name: "CdGeAs<sub>2</sub> (Cadmium germanium arsenide)"
       content:
@@ -1634,6 +1641,7 @@
     - BOOK: GaP
       name: "GaP (Gallium phosphide)"
       content:
+        - DIVIDER: "Experimental data"
         - PAGE: Aspnes
           name: "Aspnes and Studna 1983: n,k 0.21-0.83 µm"
           path: "main/GaP/Aspnes.yml"
@@ -1646,15 +1654,24 @@
         - PAGE: Bond
           name: "Bond 1965: n 0.5-4.0 µm"
           path: "main/GaP/Bond.yml"
+        - DIVIDER: "Models and simulations"
+        - PAGE: Adachi
+          name: "Adachi 1989: n,k 0.207-12.4 µm"
+          path: "main/GaP/Adachi.yml"
     - BOOK: InP
       name: "InP (Indium phosphide)"
       content:
+        - DIVIDER: "Experimental data"
         - PAGE: Aspnes
           name: "Aspnes and Studna 1983: n,k 0.21-0.83 µm"
           path: "main/InP/Aspnes.yml"
         - PAGE: Pettit
           name: "Pettit and Turner 1965: n 0.95-10 µm"
           path: "main/InP/Pettit.yml"
+        - DIVIDER: "Models and simulations"
+        - PAGE: Adachi
+          name: "Adachi 1989: n,k 0.207-12.4 µm"
+          path: "main/InP/Adachi.yml"
     - BOOK: ZnGeP2
       name: "ZnGeP<sub>2</sub> (Zinc germanium phosphide, ZGP)"
       content:
@@ -2008,6 +2025,9 @@
           name: "Ferrini et al. 1998: n,k 0.207-2.48 µm"
           path: "other/semiconductor alloys/AlSb-GaSb/Ferrini-0.yml"
         - DIVIDER: "Models and simulations"
+        - PAGE: Adachi
+          name: "Adachi 1989: n,k 0.207-12.4 µm"
+          path: "main/GaSb/Adachi.yml"
         - PAGE: Djurisic
           name: "Djurišić et al. 2000: n,k 0.207-2.48 µm"
           path: "main/GaSb/Djurisic.yml"
@@ -2019,6 +2039,9 @@
           name: "Aspnes and Studna 1983: n,k 0.207-0.827 µm"
           path: "main/InSb/Aspnes.yml"
         - DIVIDER: "Models and simulations"
+        - PAGE: Adachi
+          name: "Adachi 1989: n,k 0.207-12.4 µm"
+          path: "main/InSb/Adachi.yml"
         - PAGE: Djurisic
           name: "Djurišić et al. 2000: n,k 0.207-0.827 µm"
           path: "main/InSb/Djurisic.yml"
@@ -6532,6 +6555,7 @@
     - BOOK: AlAs-GaAs
       name: "AlAs-GaAs (Aluminium gallium arsenide, AlGaAs)"
       content:
+        - DIVIDER: "Experimental data"
         - PAGE: Aspnes-0
           name: "Aspnes et al. 1986: n,k 0.21-0.83 µm; 0% Al"
           path: "other/semiconductor alloys/AlAs-GaAs/Aspnes-0.yml"
@@ -6559,6 +6583,13 @@
         - PAGE: Aspnes-80.4
           name: "Aspnes et al. 1986: n,k 0.21-0.83 µm; 80.4% Al"
           path: "other/semiconductor alloys/AlAs-GaAs/Aspnes-80.4.yml"
+        - DIVIDER: "Models and simulations"
+        - PAGE: Adachi-0.315
+          name: "Adachi 1989: n,k 0.207-12.4 µm; 31.5% Al"
+          path: "other/semiconductor alloys/AlAs-GaAs/Adachi-0.315.yml"
+        - PAGE: Adachi-0.700
+          name: "Adachi 1989: n,k 0.207-12.4 µm; 70.0% Al"
+          path: "other/semiconductor alloys/AlAs-GaAs/Adachi-0.700.yml"
     - BOOK: AlSb-GaSb
       name: "AlSb-GaSb (Aluminium gallium antimonide, AlGaSb)"
       content:
@@ -6589,12 +6620,24 @@
         - PAGE: Hartnett-7.17
           name: "Hartnett et al. 1998: 7.17 at.% N; n,k 0.24-5.6 µm"
           path: "other/semiconductor alloys/AlN-Al2O3/Hartnett-7.17.yml"
+    - BOOK: GaAs-InAs
+      name: "GaAs-InAs (Gallium indium arsenide, GaInAs)"
+      content:
+        - PAGE: Adachi
+          name: "Adachi 1989: n,k 0.207-12.4 µm"
+          path: "other/semiconductor alloys/GaAs-InAs/Adachi.yml"
     - BOOK: GaP-InP
       name: "GaP-InP (Gallium indium phosphide, GaInP)"
       content:
         - PAGE: Schubert
           name: "Schubert et al. 1995: n,k 0.250-0.954 µm"
           path: "other/semiconductor alloys/GaP-InP/Schubert.yml"
+    - BOOK: GaAs-InAs-GaP-InP
+      name: "GaAs-InAs-GaP-InP (Gallium indium arsenide phosphide, GaInAsP)"
+      content:
+        - PAGE: Adachi
+          name: "Adachi 1989: n,k 0.207-12.4 µm"
+          path: "other/semiconductor alloys/GaAs-InAs-GaP-InP/Adachi.yml"
     - BOOK: Si-Ge
       name: "Si-Ge (Silicon-germanium, SiGe)"
       content:
