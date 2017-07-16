@@ -6665,6 +6665,13 @@
         - PAGE: Jellison-98
           name: "Jellison et al. 1993: 98% Si, Si substrate; n,k 0.24-0.84 µm"
           path: "other/semiconductor alloys/Si-Ge/Jellison-98.yml"
+    - DIVIDER: "Intermetallics"
+    - BOOK: AuAl2
+      name: "AuAl<sub>2</sub> (Gold-aluminium intermetallic, Purple plague)"
+      content:
+        - PAGE: Supansomboon
+          name: "Supansomboon et al. 2008: n,k 0.300-1.32 µm"
+          path: "other/intermetallics/AuAl2/Supansomboon.yml"
     - DIVIDER: "Mixed crystals"
     - BOOK: HfO2-Y2O3
       name: "HfO<sub>2</sub>-Y<sub>2</sub>O<sub>3</sub> (Hafnium dioxide - Yttrium oxide)"

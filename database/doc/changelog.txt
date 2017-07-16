@@ -1,4 +1,6 @@
 ============================== next release ==============================
+  new data (Thans to Telmo for submitting data in YAML format!)
+    other/intermetallics/AuAl2/Supansomboon.yml
   new data (Thanks to Mattias "MK8J", for submitting data in YAML format via GitHub!)
     main/Si/Daub.yml
     main/Si/Green-2008.yml
