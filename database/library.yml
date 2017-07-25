@@ -3029,6 +3029,9 @@
     - BOOK: polyvinyl_alcohol
       name: "(C<sub>2</sub>H<sub>4</sub>O)<sub>n</sub> (Polyvinyl alcohol, PVA)"
       content:
+        - PAGE: Schnepf
+          name: "Schnepf et al. 2017: n 0.3-1.5 µm"
+          path: "organic/(C2H4O)n - polyvinyl alcohol/Schnepf.yml"
         - PAGE: Bodurov
           name: "Bodurov et al. 2016: n 0.405-0.635 µm"
           path: "organic/(C2H4O)n - polyvinyl alcohol/Bodurov.yml"

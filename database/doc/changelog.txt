@@ -1,7 +1,10 @@
 ============================== next release ==============================
-  new data (Thans to Telmo for submitting data in YAML format!)
+  
+  new data (thanks to Tobias König for submitting data!)
+    organic/(C2H4O)n - polyvinyl alcohol/Schnepf.yml
+  new data (thans to Telmo for submitting data in YAML format!)
     other/intermetallics/AuAl2/Supansomboon.yml
-  new data (Thanks to Mattias "MK8J", for submitting data in YAML format via GitHub!)
+  new data (thanks to Mattias "MK8J", for submitting data in YAML format via GitHub!)
     main/Si/Daub.yml
     main/Si/Green-2008.yml
     main/Si/Schinke.yml
@@ -41,7 +44,7 @@
     main/AlSb/Djurisic.yml
     main/GaSb/Djurisic.yml
     main/InSb/Djurisic.yml
-  new data (Thanks to Ke Wang, Shenzhen University, China, for submitting data!)
+  new data (thanks to Ke Wang, Shenzhen University, China, for submitting data!)
     organic/C3H8O3 - glycerol/Wang.yml
     main/H2O/Wang.yml
     main/D2O/Wang.yml
@@ -54,6 +57,7 @@
     other/mixed organic/PTB7-PC71BM/Stelling.yml
     other/mixed organic/P3HT-PC61BM/Stelling.yml
   updates:
+    main/MoO3/Stelling.yml: references
     main/YVO4/Shi-o.yml: references
     main/YVO4/Shi-e.yml: references
     main/InP/Pettit.yml: references
@@ -75,7 +79,7 @@
     main/GaN/Barker-o.yml: comments, references
     main/GaN/Barker-o.yml: comments, references
   bug fixes
-    main/Al2O3/Querry-e.yml: data (Thanks to Philipp Franz, Paul-Drude-Institut für Festkörperelektronik, Berlin, Germany)
+    main/Al2O3/Querry-e.yml: data (thanks to Philipp Franz, Paul-Drude-Institut für Festkörperelektronik, Berlin, Germany)
 
 ============================== 2017-03-25 ==============================
 
@@ -88,7 +92,7 @@
     main/TiC/Pfluger.yml
     main/VN/Pfluger.yml
     main/VC/Pfluger.yml
-  new data (Thanks to Jonas Scheuner, University of Bern, Switzerland, for recommending a very useful reference!)
+  new data (thanks to Jonas Scheuner, University of Bern, Switzerland, for recommending a very useful reference!)
     main/SiO2/Popova.yml
   new data (thanks to Thomas Siefke, Friedrich-Schiller-University Jena, Germany, for submitting data in yaml format!)
     main/TiO2/Siefke.yml
@@ -309,8 +313,8 @@
     main/Ar/Peck-0C.yml
     main/Ar/Peck-15C.yml
     main/Ar/Larsen.yml
-    main/Kr/Coch.yml
-    main/Xe/Coch.yml
+    main/Kr/Koch.yml
+    main/Xe/Koch.yml
     main/CO2/Old.yml
     other/mixed gases/air/Peck.yml
     main/Ar/Sinnock*.yml (12 data sets for solid and liquid Ar at different temperatures)
