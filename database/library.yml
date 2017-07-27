@@ -6963,7 +6963,7 @@
           path: "other/resists/Micro resist EpoClad.yml"
     - DIVIDER: "Perovskite"
     - BOOK: CH3NH3PbI3
-      name: "CH3NH3PbI3"
+      name: "CH3NH3PbI3 (Methylammonium lead iodide, MAPbI3)"
       content:
         - PAGE: Leguy
           name: "Leguy et al. 2015; n,k 0.249-0.789 µm"
@@ -6971,6 +6971,9 @@
         - PAGE: Leguy-hydrated
           name: "Leguy et al. 2015; Hydrated; n,k 0.249-0.427 µm"
           path: "other/perovskite/CH3NH3PbI3/Leguy-hydrated.yml"
+        - PAGE: Ball
+          name: "Ball et al. 2015; n,k 0.3-0.9 µm"
+          path: "other/perovskite/CH3NH3PbI3/Ball.yml"
         - PAGE: Phillips
           name: "Phillips et al. 2015: n,k 0.3-1.5 µm"
           path: "other/perovskite/CH3NH3PbI3/Phillips.yml"

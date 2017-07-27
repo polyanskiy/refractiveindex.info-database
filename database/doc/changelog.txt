@@ -1,9 +1,21 @@
 ============================== next release ==============================
   
+  new data
+    other/perovskite/CH3NH3PbI3/Ball.yml (thanks to Sam Stranks, University of Cambridge, UK!)
+    other/intermetallics/AuAl2/Supansomboon.yml (thans to Telmo for submitting data in YAML format!)
   new data (thanks to Tobias König for submitting data!)
     organic/(C2H4O)n - polyvinyl alcohol/Schnepf.yml
-  new data (thans to Telmo for submitting data in YAML format!)
-    other/intermetallics/AuAl2/Supansomboon.yml
+    main/ZnO/Stelling.yml
+    main/MoO3/Stelling.yml
+    other/mixed organic/PTB7-PC71BM/Stelling.yml
+    other/mixed organic/P3HT-PC61BM/Stelling.yml
+  new data (thanks to Ke Wang, Shenzhen University, China, for submitting data!)
+    organic/C3H8O3 - glycerol/Wang.yml
+    main/H2O/Wang.yml
+    main/D2O/Wang.yml
+    other/immersion oils/Leica Type F/Wang.yml
+    other/immersion oils/Olympus IMMOIL-F30CC/Wang.yml
+    other/immersion oils/Sigma Aldrich M5904/Wang.yml
   new data (thanks to Mattias "MK8J", for submitting data in YAML format via GitHub!)
     main/Si/Daub.yml
     main/Si/Green-2008.yml
@@ -44,18 +56,6 @@
     main/AlSb/Djurisic.yml
     main/GaSb/Djurisic.yml
     main/InSb/Djurisic.yml
-  new data (thanks to Ke Wang, Shenzhen University, China, for submitting data!)
-    organic/C3H8O3 - glycerol/Wang.yml
-    main/H2O/Wang.yml
-    main/D2O/Wang.yml
-    other/immersion oils/Leica Type F/Wang.yml
-    other/immersion oils/Olympus IMMOIL-F30CC/Wang.yml
-    other/immersion oils/Sigma Aldrich M5904/Wang.yml
-  new data (thanks to Tobias König for submitting data!)
-    main/ZnO/Stelling.yml
-    main/MoO3/Stelling.yml
-    other/mixed organic/PTB7-PC71BM/Stelling.yml
-    other/mixed organic/P3HT-PC61BM/Stelling.yml
   updates:
     main/MoO3/Stelling.yml: references
     main/YVO4/Shi-o.yml: references
