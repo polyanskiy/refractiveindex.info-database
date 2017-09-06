@@ -19,6 +19,9 @@
         - PAGE: Babar
           name: "Babar and Weaver 2015: n,k 0.2066-12.40 µm"
           path: "main/Ag/Babar.yml"
+        - PAGE: Wu
+          name: "Wu et al. 2014: n,k 0.29-1.00 µm"
+          path: "main/Ag/Wu.yml"
         - PAGE: Werner
           name: "Werner et al. 2009: n,k 0.01759-2.480 µm"
           path: "main/Ag/Werner.yml"
@@ -31,6 +34,7 @@
         - PAGE: Hagemann
           name: "Hagemann et al. 1974: n,k 2.48e-6-248 µm"
           path: "main/Ag/Hagemann.yml"
+        - DIVIDER: "Models and simulations"
         - PAGE: Rakic-BB
           name: "Rakić et al. 1998: Brendel-Bormann model; n,k 0.248-12.4 µm"
           path: "main/Ag/Rakic-BB.yml"

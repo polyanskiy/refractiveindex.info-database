@@ -1,6 +1,7 @@
-============================== next release ==============================
+============================== 2017-09-05 ==============================
   
   new data
+    main/Ag/Wu.yml  (thanks to Yanwen Wu, University of Texas at Austin, TX, USA!)
     other/perovskite/CH3NH3PbI3/Ball.yml (thanks to Sam Stranks, University of Cambridge, UK!)
     other/intermetallics/AuAl2/Supansomboon.yml (thans to Telmo for submitting data in YAML format!)
   new data (thanks to Tobias König for submitting data!)
