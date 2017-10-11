@@ -6989,6 +6989,12 @@
           name: "Otanicar et al. 2009: k 0.2-1.5 µm"
           path: "other/heat transfer fluids/Therminol VP-1/Otanicar.yml"
     - DIVIDER: "Human body"
+    - BOOK: blood
+      name: "Blood"
+      content:
+        - PAGE: Rowe
+          name: "Rowe et al. 2017: n,k 2-15 µm"
+          path: "other/human body/blood/Rowe.yml"
     - BOOK: liver
       name: "Liver"
       content:

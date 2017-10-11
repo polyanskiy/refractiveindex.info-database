@@ -1,3 +1,11 @@
+============================== next release ==============================
+  new data
+    other/human body/blood/Rowe.yml (thanks to David Rowe, University of Southampton, UK, for providing numerical data!)
+  updates
+    other/human body/liver/Giannios.yml: references
+  bug fixes
+    added a new line at the end of each file (thanks to Thibault North!)
+
 ============================== 2017-09-05 ==============================
   
   new data
