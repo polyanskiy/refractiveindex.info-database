@@ -1,4 +1,11 @@
 ============================== next release ==============================
+  new data (thanks to Giovanni Perotto, Tufts University, Medford, MA, USA)
+    other/silk/Bombyx mori/Perotto.yml
+    other/silk/Bombyx mori/Perotto-uncrystallized.yml
+    other/silk/Bombyx mori/Perotto-crystallized.yml
+    other/silk/Antheraea mylitta/Perotto.yml
+    other/silk/Samia ricini/Perotto.yml
+    other/silk/Antheraea assamensis/Perotto.yml
   new data
     other/human body/blood/Rowe.yml (thanks to David Rowe, University of Southampton, UK, for providing numerical data!)
   updates

@@ -7057,6 +7057,37 @@
         - PAGE: Querry
           name: "Querry 1987: n,k 2.5-200 µm"
           path: "other/clays/illite/Querry.yml"
+    - DIVIDER: "Silk"
+    - BOOK: Bombyx_mori
+      name: "Bombyx mori (silkworm) silk"
+      content:
+        - PAGE: Perotto
+          name: "Perotto et al. 2017: Native fibroin film; n 0.3-1.7 µm"
+          path: "other/silk/Bombyx mori/Perotto.yml"
+        - PAGE: Perotto-uncrystallized
+          name: "Perotto et al. 2017: Uncrystallized fibroin film; n 0.3-1.7 µm"
+          path: "other/silk/Bombyx mori/Perotto-uncrystallized.yml"
+        - PAGE: Perotto-crystallized
+          name: "Perotto et al. 2017: Crystallized fibroin film; n 0.3-1.7 µm"
+          path: "other/silk/Bombyx mori/Perotto-crystallized.yml"
+    - BOOK: Antheraea_mylitta
+      name: "Antheraea mylitta silk"
+      content:
+        - PAGE: Perotto
+          name: "Perotto et al. 2017: Fibroin film; n 0.3-1.7 µm"
+          path: "other/silk/Antheraea mylitta/Perotto.yml"
+    - BOOK: Samia_ricini
+      name: "Samia ricini (eri silkworm) silk"
+      content:
+        - PAGE: Perotto
+          name: "Perotto et al. 2017: Fibroin film; n 0.3-1.7 µm"
+          path: "other/silk/Samia ricini/Perotto.yml"
+    - BOOK: Antheraea_assamensis
+      name: "Antheraea assamensis silk"
+      content:
+        - PAGE: Perotto
+          name: "Perotto et al. 2017: Fibroin film; n 0.3-1.7 µm"
+          path: "other/silk/Antheraea assamensis/Perotto.yml"
     - DIVIDER: "Exotic stuff"
     - BOOK: metamaterials
       name: "Metamaterials"
