@@ -1,5 +1,10 @@
 ============================== next release ==============================
-  new data (thanks to Giovanni Perotto, Tufts University, Medford, MA, USA)
+
+  new data (thanks to Valentyn Volkov, University of Southern Denmark, for submitting data in YAML format!)
+    main/Au/Yakubovsky-25nm.yml
+    main/Au/Yakubovsky-53nm.yml
+    main/Au/Yakubovsky-117nm.yml
+  new data (thanks to Giovanni Perotto, Istituto Italiano di Tecnologia, Genova, Italy)
     other/silk/Bombyx mori/Perotto.yml
     other/silk/Bombyx mori/Perotto-uncrystallized.yml
     other/silk/Bombyx mori/Perotto-crystallized.yml
@@ -12,6 +17,7 @@
     other/human body/liver/Giannios.yml: references
   bug fixes
     added a new line at the end of each file (thanks to Thibault North!)
+    page id's for Lemarchand's Au data changed to 'Lemarchand-3.96nm', 'Lemarchand-4.62nm', 'Lemarchand-5.77nm', and 'Lemarchand-11.7' (was simply 'Lemarcand' in all cases)
 
 ============================== 2017-09-05 ==============================
   

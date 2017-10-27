@@ -219,22 +219,31 @@
         - PAGE: Johnson
           name: "Johnson and Christy 1972: n,k 0.188-1.937 µm"
           path: "main/Au/Johnson.yml"
+        - PAGE: Yakubovsky-25nm
+          name: "Yakubovsky et al. 2017: 25-nm film; n,k 0.3-2 µm"
+          path: "main/Au/Yakubovsky-25nm.yml"
+        - PAGE: Yakubovsky-53nm
+          name: "Yakubovsky et al. 2017: 53-nm film; n,k 0.3-2 µm"
+          path: "main/Au/Yakubovsky-53nm.yml"
+        - PAGE: Yakubovsky-117nm
+          name: "Yakubovsky et al. 2017: 117-nm film; n,k 0.3-2 µm"
+          path: "main/Au/Yakubovsky-117nm.yml"
         - PAGE: McPeak
           name: "McPeak et al. 2015: n,k 0.3-1.7 µm"
           path: "main/Au/McPeak.yml"
         - PAGE: Babar
           name: "Babar and Weaver 2015: n,k 0.2066-12.40 µm"
           path: "main/Au/Babar.yml"
-        - PAGE: Lemarchand
+        - PAGE: Lemarchand-3.96nm
           name: "Lemarchand 2013: 3.96-nm film; n,k 0.35-1.8 µm"
           path: "main/Au/Lemarchand-3.96nm.yml"
-        - PAGE: Lemarchand
+        - PAGE: Lemarchand-4.62nm
           name: "Lemarchand 2013: 4.62-nm film; n,k 0.35-1.8 µm"
           path: "main/Au/Lemarchand-4.62nm.yml"
-        - PAGE: Lemarchand
+        - PAGE: Lemarchand-5.77nm
           name: "Lemarchand 2013: 5.77-nm film; n,k 0.35-1.8 µm"
           path: "main/Au/Lemarchand-5.77nm.yml"
-        - PAGE: Lemarchand
+        - PAGE: Lemarchand-11.7nm
           name: "Lemarchand 2013: 11.7-nm film; n,k 0.35-1.8 µm"
           path: "main/Au/Lemarchand-11.7nm.yml"
         - PAGE: Olmon-ev
@@ -7074,19 +7083,19 @@
       name: "Antheraea mylitta silk"
       content:
         - PAGE: Perotto
-          name: "Perotto et al. 2017: Fibroin film; n 0.3-1.7 µm"
+          name: "Perotto et al. 2017: Fibroin film; n 0.3-1.695 µm"
           path: "other/silk/Antheraea mylitta/Perotto.yml"
     - BOOK: Samia_ricini
       name: "Samia ricini (eri silkworm) silk"
       content:
         - PAGE: Perotto
-          name: "Perotto et al. 2017: Fibroin film; n 0.3-1.7 µm"
+          name: "Perotto et al. 2017: Fibroin film; n 0.3-1.695 µm"
           path: "other/silk/Samia ricini/Perotto.yml"
     - BOOK: Antheraea_assamensis
       name: "Antheraea assamensis silk"
       content:
         - PAGE: Perotto
-          name: "Perotto et al. 2017: Fibroin film; n 0.3-1.7 µm"
+          name: "Perotto et al. 2017: Fibroin film; n 0.3-1.695 µm"
           path: "other/silk/Antheraea assamensis/Perotto.yml"
     - DIVIDER: "Exotic stuff"
     - BOOK: metamaterials
