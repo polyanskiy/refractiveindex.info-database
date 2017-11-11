@@ -1,5 +1,11 @@
 ============================== next release ==============================
 
+  !!! update of database structure !!! ffffff 
+    added "info" - optional additional information that can be associated with shelves, books and pages
+    informatin is stored in .html files located in the '/info' folder
+    "info" key in used in the 'library.yml' for specifying the path to the corresponding .html file
+    data files ('.yml') are moved from '/' to '/data' folder
+    "path" key is replaced by "data" in 'library.yml'
   new data (thanks to Valentyn Volkov, University of Southern Denmark, for submitting data in YAML format!)
     main/Au/Yakubovsky-25nm.yml
     main/Au/Yakubovsky-53nm.yml
@@ -18,6 +24,8 @@
   bug fixes
     added a new line at the end of each file (thanks to Thibault North!)
     page id's for Lemarchand's Au data changed to 'Lemarchand-3.96nm', 'Lemarchand-4.62nm', 'Lemarchand-5.77nm', and 'Lemarchand-11.7' (was simply 'Lemarcand' in all cases)
+  miscellaneous
+    colons in id's of several pages replaced by dashes (e.g. Mg:LiTaO3 -> Mg-LiTaO3)
 
 ============================== 2017-09-05 ==============================
   
