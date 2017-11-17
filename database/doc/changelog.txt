@@ -1,6 +1,6 @@
 ============================== next release ==============================
 
-  !!! update of database structure !!! ffffff 
+  !!! update of database structure !!! 
     added "info" - optional additional information that can be associated with shelves, books and pages
     informatin is stored in .html files located in the '/info' folder
     "info" key in used in the 'library.yml' for specifying the path to the corresponding .html file
@@ -8,7 +8,9 @@
     "path" key is replaced by "data" in 'library.yml'
     "INFO" key is replaced by "SPECS" in data files
   new data
+    other/mixed gases/air/Mathar-1.3.yml
     other/mixed gases/air/Mathar-2.8.yml
+    other/mixed gases/air/Mathar-7.5.yml
   new data (thanks to Valentyn Volkov, University of Southern Denmark, for submitting data in YAML format!)
     main/Au/Yakubovsky-25nm.yml
     main/Au/Yakubovsky-53nm.yml

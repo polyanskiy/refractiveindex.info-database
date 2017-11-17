@@ -6952,6 +6952,9 @@
         - PAGE: Ciddor
           name: "Ciddor 1996: n 0.23-1.690 µm"
           data: "other/mixed gases/air/Ciddor.yml"
+        - PAGE: Mathar-1.3
+          name: "Mathar 2007: n 1.3-2.5 µm"
+          data: "other/mixed gases/air/Mathar-1.3.yml"
         - PAGE: Mathar-2.8
           name: "Mathar 2007: n 2.8-4.2 µm"
           data: "other/mixed gases/air/Mathar-2.8.yml"
