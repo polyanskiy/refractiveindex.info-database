@@ -6958,6 +6958,9 @@
         - PAGE: Mathar-2.8
           name: "Mathar 2007: n 2.8-4.2 µm"
           data: "other/mixed gases/air/Mathar-2.8.yml"
+        - PAGE: Mathar-4.35
+          name: "Mathar 2007: n 4.35-5.2 µm"
+          data: "other/mixed gases/air/Mathar-4.35.yml"
         - PAGE: Mathar-7.5
           name: "Mathar 2007: n 7.5-14.1 µm"
           data: "other/mixed gases/air/Mathar-7.5.yml"
