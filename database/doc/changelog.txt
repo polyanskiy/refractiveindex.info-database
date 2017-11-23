@@ -26,6 +26,7 @@
   new data (thanks to David Rowe, University of Southampton, UK, for providing numerical data!)
     other/human body/blood/Rowe.yml
   updates
+    other/mixed gases/air/Cyddor.yml: reference to calculation script
     other/human body/liver/Giannios.yml: references
   bug fixes
     added a new line at the end of each file (thanks to Thibault North!)
