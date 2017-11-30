@@ -7043,6 +7043,22 @@
         - PAGE: Golovashkin-55
           name: "Golovashkin et al. 1971: n,k 1-8 µm; 55 wt% Sn"
           data: "other/alloys/Nb-Sn/Golovashkin-55.yml"
+    - BOOK: Ni-Fe
+      name: "Ni-Fe (Nickel-iron alloy, Permalloy)"
+      info: "other/Ni-Fe.html"
+      content:
+        - PAGE: Tikuisis_gold150nm
+          name: "Tikuišis et al. 2017: n,k 0.193-1.69 µm; gold-coated, 150 nm"
+          data: "other/alloys/Ni-Fe/Tikuisis_gold150nm.yml"
+        - PAGE: Tikuisis_gold10nm
+          name: "Tikuišis et al. 2017: n,k 0.193-1.69 µm; gold-coated, 10 nm"
+          data: "other/alloys/Ni-Fe/Tikuisis_gold10nm.yml"
+        - PAGE: Tikuisis_bare150nm
+          name: "Tikuišis et al. 2017: n,k 0.193-1.69 µm; bare, 150 nm"
+          data: "other/alloys/Ni-Fe/Tikuisis_bare150nm.yml"
+        - PAGE: Tikuisis_bare10nm
+          name: "Tikuišis et al. 2017: n,k 0.193-1.69 µm; bare, 10 nm"
+          data: "other/alloys/Ni-Fe/Tikuisis_bare10nm.yml"
     - BOOK: V-Ga
       name: "V-Ga (Vanadium-gallium alloy)"
       info: "other/V-Ga.html"

@@ -7,6 +7,12 @@
     data files ('.yml') are moved from '/' to '/data' folder
     "path" key is replaced by "data" in 'library.yml'
     "INFO" key is replaced by "SPECS" in data files
+  new data(thanks to Matteo Pancaldi, nanoGUNE, San Sebastián, Spain, for suggesting data and initial submission in YAML format!
+           thanks to Kristupas K. Tikuišis, Charles University, Prague, Czech Republic, for providing updated data in YAML format!)
+    other/alloys/Ni-Fe/Tikuisis_gold150nm.yml
+    other/alloys/Ni-Fe/Tikuisis_gold10nm.yml
+    other/alloys/Ni-Fe/Tikuisis_bare150nm.yml
+    other/alloys/Ni-Fe/Tikuisis_bare10nm.yml
   new data
     other/mixed gases/air/Mathar-1.3.yml
     other/mixed gases/air/Mathar-2.8.yml
