@@ -532,7 +532,6 @@ DATA:
         2.314E+01 4.431E+01 1.431E+02
         2.400E+01 4.694E+01 1.471E+02
         2.492E+01 4.979E+01 1.514E+02
-
 SPECS:
     n_is_absolute: true
     λ_is_vacuum: true
