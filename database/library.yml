@@ -14,6 +14,9 @@
         - PAGE: Johnson
           name: "Johnson and Christy 1972: n,k 0.188-1.937 µm"
           data: "main/Ag/Johnson.yml"
+        - PAGE: Yang
+          name: "Yang et al. 2015: n,k 0.270-24.92 µm"
+          data: "main/Ag/Yang.yml"
         - PAGE: McPeak
           name: "McPeak et al. 2015: n,k 0.3-1.7 µm"
           data: "main/Ag/McPeak.yml"
@@ -3179,6 +3182,13 @@
         - PAGE: Ghosal
           name: "Ghosal et al. 1993: n 1-13 µm"
           data: "organic/CHBr3 - bromoform/Ghosal.yml"
+    - BOOK: dichloromethane
+      name: "CH<sub>2</sub>Cl<sub>2</sub> (Dichloromethane)"
+      info: "organic/dichloromethane.html"
+      content:
+        - PAGE: Bertie
+          name: "Bertie et al. 1995: n,k 1.54-12.5 µm"
+          data: "organic/CH2Cl2 - dichloromethane/Bertie.yml"
     - BOOK: chloroform
       name: "CHCl<sub>3</sub> (Chloroform)"
       info: "organic/chloroform.html"

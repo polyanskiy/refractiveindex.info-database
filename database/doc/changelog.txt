@@ -7,6 +7,8 @@
     data files ('.yml') are moved from '/' to '/data' folder
     "path" key is replaced by "data" in 'library.yml'
     "INFO" key is replaced by "SPECS" in data files
+  new data (thanks to Naser Otman, Dalhousie University, Canada, for suggesting data!)
+    main/Ag/Yang.yml
   new data(thanks to Matteo Pancaldi, nanoGUNE, San Sebastián, Spain, for suggesting data and initial submission in YAML format!
            thanks to Kristupas K. Tikuišis, Charles University, Prague, Czech Republic, for providing updated data in YAML format!)
     other/alloys/Ni-Fe/Tikuisis_gold150nm.yml
@@ -31,6 +33,8 @@
     other/silk/Antheraea assamensis/Perotto.yml
   new data (thanks to David Rowe, University of Southampton, UK, for providing numerical data!)
     other/human body/blood/Rowe.yml
+  new data (thanks to David Rowe for preparing data!)
+    organic/C2H2Cl2 - dichloromethane/Bertie.yml
   updates
     other/mixed gases/air/Cyddor.yml: reference to calculation script
     other/human body/liver/Giannios.yml: references
