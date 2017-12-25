@@ -1,0 +1,60 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+REFERENCES: "<a href=\"http://refractiveindex.info/download/data/2017/CDGM-ZEMAX201709.agf\">CDGM Zemax catalog 2017-09</a>"
+DATA:
+  - type: formula 3 
+    range: 0.365 1.014
+    coefficients: 2.87982167 -0.0147537347 2 0.0188595645 -2 0.000746887433 -4 -6.23723325e-05 -6 3.88098485e-06 -8
+  - type: tabulated k
+    data: |
+        0.280 5.8937E-06
+        0.290 4.8549E-06
+        0.300 3.8662E-06
+        0.310 2.9212E-06
+        0.320 2.0906E-06
+        0.330 1.4169E-06
+        0.340 9.1904E-07
+        0.350 5.6976E-07
+        0.360 3.5322E-07
+        0.370 2.2001E-07
+        0.380 1.3607E-07
+        0.390 9.7732E-08
+        0.400 7.4066E-08
+        0.420 5.3908E-08
+        0.440 4.5817E-08
+        0.460 2.9402E-08
+        0.480 2.2987E-08
+        0.500 1.5947E-08
+        0.550 1.7542E-08
+        0.600 1.9137E-08
+        0.650 3.6335E-08
+        0.700 3.3523E-08
+        0.800 3.8312E-08
+        0.850 1.3542E-08
+        0.900 1.4338E-08
+        0.950 1.5135E-08
+        1.000 1.5931E-08
+        1.060 1.6887E-08
+        1.200 1.9118E-08
+        1.400 7.8260E-08
+        1.600 8.9440E-08
+        1.800 2.4560E-07
+        2.000 7.3281E-07
+        2.200 2.4784E-06
+        2.400 9.5976E-06
+SPECS:
+    n_is_absolute: false
+    λ_is_vacuum: false
+    temperature: 20.0 °C
+    coefficients_of_thermal_dispersion: 2.45e-06 1.45e-08 -7.86e-11 2.61e-07 4.57e-10 0.292
+    n_d: 1.713004
+    V_d: 53.868142
+    glass_code: 713538
+    glass_status: standard
+    density: 3.74 g/cm<sup>3</sup>
+    coefficient_of_thermal_expansion_1: 5.5e-06 K<sup>-1</sup>
+    coefficient_of_thermal_expansion_2: 7.3e-06 K<sup>-1</sup>
+    ΔP_gF: -0.0119
+    climatic_resistance: 1.0

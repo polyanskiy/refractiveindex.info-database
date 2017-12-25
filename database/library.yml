@@ -3751,63 +3751,6 @@
           name: "BD-2"
           data: "glass/lightpath/BD-2.yml"
     - DIVIDER: "Optical glass - SCHOTT"
-    - BOOK: SCHOTT-FK
-      name: "SCHOTT - FK (Fluorite crown)"
-      info: "glass/SCHOTT.html"
-      content:
-        - PAGE: FK5HTi
-          name: "FK5HTi"
-          data: "glass/schott/FK5HTi.yml"
-        - PAGE: N-FK5
-          name: "N-FK5"
-          data: "glass/schott/N-FK5.yml"
-        - PAGE: N-FK51A
-          name: "N-FK51A"
-          data: "glass/schott/N-FK51A.yml"
-          info: "glass/FK51A.html"
-        - PAGE: N-FK58
-          name: "N-FK58"
-          data: "glass/schott/N-FK58.yml"
-    - BOOK: SCHOTT-PK
-      name: "SCHOTT - PK (Phosphate crown)"
-      info: "glass/SCHOTT.html"
-      content:
-        - PAGE: N-PK51
-          name: "N-PK51"
-          data: "glass/schott/N-PK51.yml"
-        - PAGE: N-PK52A
-          name: "N-PK52A"
-          data: "glass/schott/N-PK52A.yml"
-    - BOOK: SCHOTT-PSK
-      name: "SCHOTT - PSK (Dense phosphate crown)"
-      info: "glass/SCHOTT.html"
-      content:
-        - PAGE: N-PSK3
-          name: "N-PSK3"
-          data: "glass/schott/N-PSK3.yml"
-        - PAGE: N-PSK53A
-          name: "N-PSK53A"
-          data: "glass/schott/N-PSK53A.yml"
-    - BOOK: SCHOTT-BK
-      name: "SCHOTT - BK (Borosilicate crown)"
-      info: "glass/SCHOTT.html"
-      content:
-        - PAGE: N-BK7
-          name: "SCHOTT N-BK7®"
-          data: "glass/schott/N-BK7.yml"
-          info: "glass/BK7.html"
-        - PAGE: N-BK7HT
-          name: "N-BK7HT"
-          data: "glass/schott/N-BK7HT.yml"
-        - PAGE: N-BK7HTi
-          name: "N-BK7HTi"
-          data: "glass/schott/N-BK7HTi.yml"
-        - PAGE: N-BK10
-          name: "N-BK10"
-          data: "glass/schott/N-BK10.yml"
-        - PAGE: P-BK7
-          name: "P-BK7"
-          data: "glass/schott/P-BK7.yml"
     - BOOK: SCHOTT-K
       name: "SCHOTT - K (Crown)"
       info: "glass/SCHOTT.html"
@@ -3824,50 +3767,6 @@
         - PAGE: N-ZK7
           name: "N-ZK7"
           data: "glass/schott/N-ZK7.yml"
-    - BOOK: SCHOTT-BaK
-      name: "SCHOTT - BaK (Barium crown)"
-      info: "glass/SCHOTT.html"
-      content:
-        - PAGE: N-BAK1
-          name: "N-BAK1"
-          data: "glass/schott/N-BAK1.yml"
-          info: "glass/BAK1.html"
-        - PAGE: N-BAK2
-          name: "N-BAK2"
-          data: "glass/schott/N-BAK2.yml"
-        - PAGE: N-BAK4
-          name: "N-BAK4"
-          data: "glass/schott/N-BAK4.yml"
-        - PAGE: N-BAK4HT
-          name: "N-BAK4HT"
-          data: "glass/schott/N-BAK4HT.yml"
-    - BOOK: SCHOTT-BaF
-      name: "SCHOTT - BaF (Barium flint)"
-      info: "glass/SCHOTT.html"
-      content:
-        - PAGE: N-BAF4
-          name: "N-BAF4"
-          data: "glass/schott/N-BAF4.yml"
-        - PAGE: N-BAF10
-          name: "N-BAF10"
-          data: "glass/schott/N-BAF10.yml"
-          info: "glass/BAF10.html"
-        - PAGE: N-BAF51
-          name: "N-BAF51"
-          data: "glass/schott/N-BAF51.yml"
-        - PAGE: N-BAF52
-          name: "N-BAF52"
-          data: "glass/schott/N-BAF52.yml"
-    - BOOK: SCHOTT-BaLF
-      name: "SCHOTT - BaLF (Barium light flint)"
-      info: "glass/SCHOTT.html"
-      content:
-        - PAGE: N-BALF4
-          name: "N-BALF4"
-          data: "glass/schott/N-BALF4.yml"
-        - PAGE: N-BALF5
-          name: "N-BALF5"
-          data: "glass/schott/N-BALF5.yml"
     - BOOK: SCHOTT-SK
       name: "SCHOTT - SK (Dense crown)"
       info: "glass/SCHOTT.html"
@@ -3905,15 +3804,8 @@
         - PAGE: P-SK60
           name: "P-SK60"
           data: "glass/schott/P-SK60.yml"
-    - BOOK: SCHOTT-KF
-      name: "SCHOTT - KF (Crown/flint)"
-      info: "glass/SCHOTT.html"
-      content:
-        - PAGE: N-KF9
-          name: "N-KF9"
-          data: "glass/schott/N-KF9.yml"
     - BOOK: SCHOTT-SSK
-      name: "SCHOTT - SSK (Very dense flint)"
+      name: "SCHOTT - SSK (Very dense crown)"
       info: "glass/SCHOTT.html"
       content:
         - PAGE: N-SSK2
@@ -3925,6 +3817,60 @@
         - PAGE: N-SSK8
           name: "N-SSK8"
           data: "glass/schott/N-SSK8.yml"
+    - BOOK: SCHOTT-BK
+      name: "SCHOTT - BK (Borosilicate crown)"
+      info: "glass/SCHOTT.html"
+      content:
+        - PAGE: N-BK7
+          name: "SCHOTT N-BK7®"
+          data: "glass/schott/N-BK7.yml"
+          info: "glass/BK7.html"
+        - PAGE: N-BK7HT
+          name: "N-BK7HT"
+          data: "glass/schott/N-BK7HT.yml"
+        - PAGE: N-BK7HTi
+          name: "N-BK7HTi"
+          data: "glass/schott/N-BK7HTi.yml"
+        - PAGE: N-BK10
+          name: "N-BK10"
+          data: "glass/schott/N-BK10.yml"
+        - PAGE: P-BK7
+          name: "P-BK7"
+          data: "glass/schott/P-BK7.yml"
+    - BOOK: SCHOTT-BaK
+      name: "SCHOTT - BaK (Barium crown)"
+      info: "glass/SCHOTT.html"
+      content:
+        - PAGE: N-BAK1
+          name: "N-BAK1"
+          data: "glass/schott/N-BAK1.yml"
+          info: "glass/BAK1.html"
+        - PAGE: N-BAK2
+          name: "N-BAK2"
+          data: "glass/schott/N-BAK2.yml"
+        - PAGE: N-BAK4
+          name: "N-BAK4"
+          data: "glass/schott/N-BAK4.yml"
+        - PAGE: N-BAK4HT
+          name: "N-BAK4HT"
+          data: "glass/schott/N-BAK4HT.yml"
+    - BOOK: SCHOTT-FK
+      name: "SCHOTT - FK (Fluor crown)"
+      info: "glass/SCHOTT.html"
+      content:
+        - PAGE: FK5HTi
+          name: "FK5HTi"
+          data: "glass/schott/FK5HTi.yml"
+        - PAGE: N-FK5
+          name: "N-FK5"
+          data: "glass/schott/N-FK5.yml"
+        - PAGE: N-FK51A
+          name: "N-FK51A"
+          data: "glass/schott/N-FK51A.yml"
+          info: "glass/FK51A.html"
+        - PAGE: N-FK58
+          name: "N-FK58"
+          data: "glass/schott/N-FK58.yml"
     - BOOK: SCHOTT-LaK
       name: "SCHOTT - LaK (Lanthanum crown)"
       info: "glass/SCHOTT.html"
@@ -3965,26 +3911,26 @@
         - PAGE: P-LAK35
           name: "P-LAK35"
           data: "glass/schott/P-LAK35.yml"
-    - BOOK: SCHOTT-LLF
-      name: "SCHOTT - LLF (Very light flint)"
+    - BOOK: SCHOTT-PK
+      name: "SCHOTT - PK (Phosphate crown)"
       info: "glass/SCHOTT.html"
       content:
-        - PAGE: LLF1
-          name: "LLF1"
-          data: "glass/schott/LLF1.yml"
-        - PAGE: LLF1HTi
-          name: "LLF1HTi"
-          data: "glass/schott/LLF1HTi.yml"
-    - BOOK: SCHOTT-LF
-      name: "SCHOTT - LF (Light flint)"
+        - PAGE: N-PK51
+          name: "N-PK51"
+          data: "glass/schott/N-PK51.yml"
+        - PAGE: N-PK52A
+          name: "N-PK52A"
+          data: "glass/schott/N-PK52A.yml"
+    - BOOK: SCHOTT-PSK
+      name: "SCHOTT - PSK (Dense phosphate crown)"
       info: "glass/SCHOTT.html"
       content:
-        - PAGE: LF5
-          name: "LF5"
-          data: "glass/schott/LF5.yml"
-        - PAGE: LF5HTi
-          name: "LF5HTi"
-          data: "glass/schott/LF5HTi.yml"
+        - PAGE: N-PSK3
+          name: "N-PSK3"
+          data: "glass/schott/N-PSK3.yml"
+        - PAGE: N-PSK53A
+          name: "N-PSK53A"
+          data: "glass/schott/N-PSK53A.yml"
     - BOOK: SCHOTT-F
       name: "SCHOTT - F (Flint)"
       info: "glass/SCHOTT.html"
@@ -4001,94 +3947,26 @@
         - PAGE: N-F2
           name: "N-F2"
           data: "glass/schott/N-F2.yml"
-    - BOOK: SCHOTT-BaSF
-      name: "SCHOTT - BaSF (Barium dense flint)"
+    - BOOK: SCHOTT-LF
+      name: "SCHOTT - LF (Light flint)"
       info: "glass/SCHOTT.html"
       content:
-        - PAGE: N-BASF2
-          name: "N-BASF2"
-          data: "glass/schott/N-BASF2.yml"
-        - PAGE: N-BASF64
-          name: "N-BASF64"
-          data: "glass/schott/N-BASF64.yml"
-    - BOOK: SCHOTT-LaF
-      name: "SCHOTT - LaF (Lanthanum flint)"
+        - PAGE: LF5
+          name: "LF5"
+          data: "glass/schott/LF5.yml"
+        - PAGE: LF5HTi
+          name: "LF5HTi"
+          data: "glass/schott/LF5HTi.yml"
+    - BOOK: SCHOTT-LLF
+      name: "SCHOTT - LLF (Very light flint)"
       info: "glass/SCHOTT.html"
       content:
-        - PAGE: LAFN7
-          name: "LAFN7"
-          data: "glass/schott/LAFN7.yml"
-        - PAGE: N-LAF2
-          name: "N-LAF2"
-          data: "glass/schott/N-LAF2.yml"
-        - PAGE: N-LAF7
-          name: "N-LAF7"
-          data: "glass/schott/N-LAF7.yml"
-        - PAGE: N-LAF21
-          name: "N-LAF21"
-          data: "glass/schott/N-LAF21.yml"
-        - PAGE: N-LAF33
-          name: "N-LAF33"
-          data: "glass/schott/N-LAF33.yml"
-        - PAGE: N-LAF34
-          name: "N-LAF34"
-          data: "glass/schott/N-LAF34.yml"
-        - PAGE: N-LAF35
-          name: "N-LAF35"
-          data: "glass/schott/N-LAF35.yml"
-        - PAGE: P-LAF37
-          name: "P-LAF37"
-          data: "glass/schott/P-LAF37.yml"
-    - BOOK: SCHOTT-LaSF
-      name: "SCHOTT - LaSF (Lanthanum dense flint)"
-      info: "glass/SCHOTT.html"
-      content:
-        - PAGE: LASF35
-          name: "LASF35"
-          data: "glass/schott/LASF35.yml"
-        - PAGE: N-LASF9
-          name: "N-LASF9"
-          data: "glass/schott/N-LASF9.yml"
-          info: "glass/LASF9.html"
-        - PAGE: N-LASF9HT
-          name: "N-LASF9HT"
-          data: "glass/schott/N-LASF9HT.yml"
-        - PAGE: N-LASF31A
-          name: "N-LASF31A"
-          data: "glass/schott/N-LASF31A.yml"
-        - PAGE: N-LASF40
-          name: "N-LASF40"
-          data: "glass/schott/N-LASF40.yml"
-        - PAGE: N-LASF41
-          name: "N-LASF41"
-          data: "glass/schott/N-LASF41.yml"
-        - PAGE: N-LASF43
-          name: "N-LASF43"
-          data: "glass/schott/N-LASF43.yml"
-        - PAGE: N-LASF44
-          name: "N-LASF44"
-          data: "glass/schott/N-LASF44.yml"
-        - PAGE: N-LASF45
-          name: "N-LASF45"
-          data: "glass/schott/N-LASF45.yml"
-        - PAGE: N-LASF45HT
-          name: "N-LASF45HT"
-          data: "glass/schott/N-LASF45HT.yml"
-        - PAGE: N-LASF46A
-          name: "N-LASF46A"
-          data: "glass/schott/N-LASF46A.yml"
-        - PAGE: N-LASF46B
-          name: "N-LASF46B"
-          data: "glass/schott/N-LASF46B.yml"
-        - PAGE: P-LASF47
-          name: "P-LASF47"
-          data: "glass/schott/P-LASF47.yml"
-        - PAGE: P-LASF50
-          name: "P-LASF50"
-          data: "glass/schott/P-LASF50.yml"
-        - PAGE: P-LASF51
-          name: "P-LASF51"
-          data: "glass/schott/P-LASF51.yml"
+        - PAGE: LLF1
+          name: "LLF1"
+          data: "glass/schott/LLF1.yml"
+        - PAGE: LLF1HTi
+          name: "LLF1HTi"
+          data: "glass/schott/LLF1HTi.yml"
     - BOOK: SCHOTT-SF
       name: "SCHOTT - SF (Dense flint)"
       info: "glass/SCHOTT.html"
@@ -4211,6 +4089,128 @@
         - PAGE: N-KZFS11
           name: "N-KZFS11"
           data: "glass/schott/N-KZFS11.yml"
+    - BOOK: SCHOTT-BaF
+      name: "SCHOTT - BaF (Barium flint)"
+      info: "glass/SCHOTT.html"
+      content:
+        - PAGE: N-BAF4
+          name: "N-BAF4"
+          data: "glass/schott/N-BAF4.yml"
+        - PAGE: N-BAF10
+          name: "N-BAF10"
+          data: "glass/schott/N-BAF10.yml"
+          info: "glass/BAF10.html"
+        - PAGE: N-BAF51
+          name: "N-BAF51"
+          data: "glass/schott/N-BAF51.yml"
+        - PAGE: N-BAF52
+          name: "N-BAF52"
+          data: "glass/schott/N-BAF52.yml"
+    - BOOK: SCHOTT-BaLF
+      name: "SCHOTT - BaLF (Barium light flint)"
+      info: "glass/SCHOTT.html"
+      content:
+        - PAGE: N-BALF4
+          name: "N-BALF4"
+          data: "glass/schott/N-BALF4.yml"
+        - PAGE: N-BALF5
+          name: "N-BALF5"
+          data: "glass/schott/N-BALF5.yml"
+    - BOOK: SCHOTT-BaSF
+      name: "SCHOTT - BaSF (Barium dense flint)"
+      info: "glass/SCHOTT.html"
+      content:
+        - PAGE: N-BASF2
+          name: "N-BASF2"
+          data: "glass/schott/N-BASF2.yml"
+        - PAGE: N-BASF64
+          name: "N-BASF64"
+          data: "glass/schott/N-BASF64.yml"
+    - BOOK: SCHOTT-LaF
+      name: "SCHOTT - LaF (Lanthanum flint)"
+      info: "glass/SCHOTT.html"
+      content:
+        - PAGE: LAFN7
+          name: "LAFN7"
+          data: "glass/schott/LAFN7.yml"
+        - PAGE: N-LAF2
+          name: "N-LAF2"
+          data: "glass/schott/N-LAF2.yml"
+        - PAGE: N-LAF7
+          name: "N-LAF7"
+          data: "glass/schott/N-LAF7.yml"
+        - PAGE: N-LAF21
+          name: "N-LAF21"
+          data: "glass/schott/N-LAF21.yml"
+        - PAGE: N-LAF33
+          name: "N-LAF33"
+          data: "glass/schott/N-LAF33.yml"
+        - PAGE: N-LAF34
+          name: "N-LAF34"
+          data: "glass/schott/N-LAF34.yml"
+        - PAGE: N-LAF35
+          name: "N-LAF35"
+          data: "glass/schott/N-LAF35.yml"
+        - PAGE: P-LAF37
+          name: "P-LAF37"
+          data: "glass/schott/P-LAF37.yml"
+    - BOOK: SCHOTT-LaSF
+      name: "SCHOTT - LaSF (Lanthanum dense flint)"
+      info: "glass/SCHOTT.html"
+      content:
+        - PAGE: LASF35
+          name: "LASF35"
+          data: "glass/schott/LASF35.yml"
+        - PAGE: N-LASF9
+          name: "N-LASF9"
+          data: "glass/schott/N-LASF9.yml"
+          info: "glass/LASF9.html"
+        - PAGE: N-LASF9HT
+          name: "N-LASF9HT"
+          data: "glass/schott/N-LASF9HT.yml"
+        - PAGE: N-LASF31A
+          name: "N-LASF31A"
+          data: "glass/schott/N-LASF31A.yml"
+        - PAGE: N-LASF40
+          name: "N-LASF40"
+          data: "glass/schott/N-LASF40.yml"
+        - PAGE: N-LASF41
+          name: "N-LASF41"
+          data: "glass/schott/N-LASF41.yml"
+        - PAGE: N-LASF43
+          name: "N-LASF43"
+          data: "glass/schott/N-LASF43.yml"
+        - PAGE: N-LASF44
+          name: "N-LASF44"
+          data: "glass/schott/N-LASF44.yml"
+        - PAGE: N-LASF45
+          name: "N-LASF45"
+          data: "glass/schott/N-LASF45.yml"
+        - PAGE: N-LASF45HT
+          name: "N-LASF45HT"
+          data: "glass/schott/N-LASF45HT.yml"
+        - PAGE: N-LASF46A
+          name: "N-LASF46A"
+          data: "glass/schott/N-LASF46A.yml"
+        - PAGE: N-LASF46B
+          name: "N-LASF46B"
+          data: "glass/schott/N-LASF46B.yml"
+        - PAGE: P-LASF47
+          name: "P-LASF47"
+          data: "glass/schott/P-LASF47.yml"
+        - PAGE: P-LASF50
+          name: "P-LASF50"
+          data: "glass/schott/P-LASF50.yml"
+        - PAGE: P-LASF51
+          name: "P-LASF51"
+          data: "glass/schott/P-LASF51.yml"
+    - BOOK: SCHOTT-KF
+      name: "SCHOTT - KF (Crownflint)"
+      info: "glass/SCHOTT.html"
+      content:
+        - PAGE: N-KF9
+          name: "N-KF9"
+          data: "glass/schott/N-KF9.yml"
     - BOOK: SCHOTT-inquiry
       name: "SCHOTT - Inquiry glasses"
       info: "glass/SCHOTT.html"
@@ -4905,67 +4905,6 @@
           name: "PBM18Y"
           data: "glass/ohara/i-line/PBM18Y.yml"
     - DIVIDER: "Optical glass - HIKARI"
-    - BOOK: HIKARI-FK
-      name: "HIKARI - FK (Fluorite crown)"
-      info: "glass/HIKARI.html"
-      content:
-        - PAGE: J-FK5
-          name: "J-FK5"
-          data: "glass/hikari/J-FK5.yml"
-        - PAGE: J-FK01
-          name: "J-FK01"
-          data: "glass/hikari/J-FK01.yml"
-        - PAGE: J-FKH1
-          name: "J-FKH1"
-          data: "glass/hikari/J-FKH1.yml"
-        - PAGE: J-FKH2
-          name: "J-FKH2"
-          data: "glass/hikari/J-FKH2.yml"
-    - BOOK: HIKARI-PK
-      name: "HIKARI - PK (Phosphate crown)"
-      info: "glass/HIKARI.html"
-      content:
-        - PAGE: J-PKH1
-          name: "J-PKH1"
-          data: "glass/hikari/J-PKH1.yml"
-    - BOOK: HIKARI-PSK
-      name: "HIKARI - PSK (Dense phosphate crown)"
-      info: "glass/HIKARI.html"
-      content:
-        - PAGE: J-PSK02
-          name: "J-PSK02"
-          data: "glass/hikari/J-PSK02.yml"
-        - PAGE: J-PSK03
-          name: "J-PSK03"
-          data: "glass/hikari/J-PSK03.yml"
-        - PAGE: J-PSKH1
-          name: "J-PSKH1"
-          data: "glass/hikari/J-PSKH1.yml"
-        - PAGE: J-PSKH4
-          name: "J-PSKH4"
-          data: "glass/hikari/J-PSKH4.yml"
-    - BOOK: HIKARI-BK
-      name: "HIKARI - BK (Borosilicate crown)"
-      info: "glass/HIKARI.html"
-      content:
-        - PAGE: J-BK7A
-          name: "J-BK7A"
-          data: "glass/hikari/J-BK7A.yml"
-          info: "glass/BK7.html"
-    - BOOK: HIKARI-BaK
-      name: "HIKARI - BaK (Barium crown)"
-      info: "glass/HIKARI.html"
-      content:
-        - PAGE: J-BAK1
-          name: "J-BAK1"
-          data: "glass/hikari/J-BAK1.yml"
-          info: "glass/BAK1.html"
-        - PAGE: J-BAK2
-          name: "J-BAK2"
-          data: "glass/hikari/J-BAK2.yml"
-        - PAGE: J-BAK4
-          name: "J-BAK4"
-          data: "glass/hikari/J-BAK4.yml"
     - BOOK: HIKARI-K
       name: "HIKARI - K (Crown)"
       info: "glass/HIKARI.html"
@@ -4976,66 +4915,6 @@
         - PAGE: EJ-K5
           name: "J-K5"
           data: "glass/hikari/J-K5.yml"
-    - BOOK: HIKARI-KzF
-      name: "HIKARI - KzF (Special short flint)"
-      info: "glass/HIKARI.html"
-      content:
-        - PAGE: J-KZFH1
-          name: "J-KZFH1"
-          data: "glass/hikari/J-KZFH1.yml"
-    - BOOK: HIKARI-KF
-      name: "HIKARI - KF (Crown/flint)"
-      info: "glass/HIKARI.html"
-      content:
-        - PAGE: J-KF6
-          name: "J-KF6"
-          data: "glass/hikari/J-KF6.yml"
-    - BOOK: HIKARI-BaLF
-      name: "HIKARI - BaLF (Barium light flint)"
-      info: "glass/HIKARI.html"
-      content:
-        - PAGE: J-BALF4
-          name: "J-BALF4"
-          data: "glass/hikari/J-BALF4.yml"
-    - BOOK: HIKARI-BaF
-      name: "HIKARI - BaF (Barium flint)"
-      info: "glass/HIKARI.html"
-      content:
-        - PAGE: J-BAF3
-          name: "J-BAF3"
-          data: "glass/hikari/J-BAF3.yml"
-        - PAGE: J-BAF4
-          name: "J-BAF4"
-          data: "glass/hikari/J-BAF4.yml"
-        - PAGE: J-BAF8
-          name: "J-BAF8"
-          data: "glass/hikari/J-BAF8.yml"
-        - PAGE: J-BAF10
-          name: "J-BAF10"
-          data: "glass/hikari/J-BAF10.yml"
-          info: "glass/BAF10.html"
-        - PAGE: J-BAF11
-          name: "J-BAF11"
-          data: "glass/hikari/J-BAF11.yml"
-        - PAGE: J-BAF12
-          name: "J-BAF12"
-          data: "glass/hikari/J-BAF12.yml"
-    - BOOK: HIKARI-BaSF
-      name: "HIKARI - BaSF (Barium dense flint)"
-      info: "glass/HIKARI.html"
-      content:
-        - PAGE: J-BASF2
-          name: "J-BASF2"
-          data: "glass/hikari/J-BASF2.yml"
-        - PAGE: J-BASF6
-          name: "J-BASF6"
-          data: "glass/hikari/J-BASF6.yml"
-        - PAGE: J-BASF7
-          name: "J-BASF7"
-          data: "glass/hikari/J-BASF7.yml"
-        - PAGE: J-BASF8
-          name: "J-BASF8"
-          data: "glass/hikari/J-BASF8.yml"
     - BOOK: HIKARI-SK
       name: "HIKARI - SK (Dense crown)"
       info: "glass/HIKARI.html"
@@ -5071,7 +4950,7 @@
           name: "J-SK18"
           data: "glass/hikari/J-SK18.yml"
     - BOOK: HIKARI-SSK
-      name: "HIKARI - SSK (Very dense flint)"
+      name: "HIKARI - SSK (Very dense crown)"
       info: "glass/HIKARI.html"
       content:
         - PAGE: J-SSK1
@@ -5083,32 +4962,119 @@
         - PAGE: J-SSK8
           name: "J-SSK8"
           data: "glass/hikari/J-SSK8.yml"
-    - BOOK: HIKARI-LLF
-      name: "HIKARI - LLF (Very light flint)"
+    - BOOK: HIKARI-BK
+      name: "HIKARI - BK (Borosilicate crown)"
       info: "glass/HIKARI.html"
       content:
-        - PAGE: J-LLF1
-          name: "J-LLF1"
-          data: "glass/hikari/J-LLF1.yml"
-        - PAGE: J-LLF2
-          name: "J-LLF2"
-          data: "glass/hikari/J-LLF2.yml"
-        - PAGE: J-LLF6
-          name: "J-LLF6"
-          data: "glass/hikari/J-LLF6.yml"
-    - BOOK: HIKARI-LF
-      name: "HIKARI - LF (Light flint)"
+        - PAGE: J-BK7A
+          name: "J-BK7A"
+          data: "glass/hikari/J-BK7A.yml"
+          info: "glass/BK7.html"
+    - BOOK: HIKARI-BaK
+      name: "HIKARI - BaK (Barium crown)"
       info: "glass/HIKARI.html"
       content:
-        - PAGE: J-LF5
-          name: "J-LF5"
-          data: "glass/hikari/J-LF5.yml"
-        - PAGE: J-LF6
-          name: "J-LF6"
-          data: "glass/hikari/J-LF6.yml"
-        - PAGE: J-LF7
-          name: "J-LF7"
-          data: "glass/hikari/J-LF7.yml"
+        - PAGE: J-BAK1
+          name: "J-BAK1"
+          data: "glass/hikari/J-BAK1.yml"
+          info: "glass/BAK1.html"
+        - PAGE: J-BAK2
+          name: "J-BAK2"
+          data: "glass/hikari/J-BAK2.yml"
+        - PAGE: J-BAK4
+          name: "J-BAK4"
+          data: "glass/hikari/J-BAK4.yml"
+    - BOOK: HIKARI-FK
+      name: "HIKARI - FK (Fluor crown)"
+      info: "glass/HIKARI.html"
+      content:
+        - PAGE: J-FK5
+          name: "J-FK5"
+          data: "glass/hikari/J-FK5.yml"
+        - PAGE: J-FK01
+          name: "J-FK01"
+          data: "glass/hikari/J-FK01.yml"
+        - PAGE: J-FKH1
+          name: "J-FKH1"
+          data: "glass/hikari/J-FKH1.yml"
+        - PAGE: J-FKH2
+          name: "J-FKH2"
+          data: "glass/hikari/J-FKH2.yml"
+    - BOOK: HIKARI-LaK
+      name: "HIKARI - LaK (Lanthanum crown)"
+      info: "glass/HIKARI.html"
+      content:
+        - PAGE: J-LAK7
+          name: "J-LAK7"
+          data: "glass/hikari/J-LAK7.yml"
+        - PAGE: J-LAK7R
+          name: "J-LAK7R"
+          data: "glass/hikari/J-LAK7R.yml"
+        - PAGE: J-LAK8
+          name: "J-LAK8"
+          data: "glass/hikari/J-LAK8.yml"
+        - PAGE: J-LAK9
+          name: "J-LAK9"
+          data: "glass/hikari/J-LAK9.yml"
+        - PAGE: J-LAK10
+          name: "J-LAK10"
+          data: "glass/hikari/J-LAK10.yml"
+        - PAGE: J-LAK12
+          name: "J-LAK12"
+          data: "glass/hikari/J-LAK12.yml"
+        - PAGE: J-LAK13
+          name: "J-LAK13"
+          data: "glass/hikari/J-LAK13.yml"
+        - PAGE: J-LAK14
+          name: "J-LAK14"
+          data: "glass/hikari/J-LAK14.yml"
+        - PAGE: J-LAK18
+          name: "J-LAK18"
+          data: "glass/hikari/J-LAK18.yml"
+        - PAGE: J-LAK01
+          name: "J-LAK01"
+          data: "glass/hikari/J-LAK01.yml"
+        - PAGE: J-LAK02
+          name: "J-LAK02"
+          data: "glass/hikari/J-LAK02.yml"
+        - PAGE: J-LAK04
+          name: "J-LAK04"
+          data: "glass/hikari/J-LAK04.yml"
+        - PAGE: J-LAK06
+          name: "J-LAK06"
+          data: "glass/hikari/J-LAK06.yml"
+        - PAGE: J-LAK09
+          name: "J-LAK09"
+          data: "glass/hikari/J-LAK09.yml"
+        - PAGE: J-LAK011
+          name: "J-LAK011"
+          data: "glass/hikari/J-LAK011.yml"
+        - PAGE: J-LASKH2
+          name: "J-LASKH2"
+          data: "glass/hikari/J-LASKH2.yml"
+    - BOOK: HIKARI-PK
+      name: "HIKARI - PK (Phosphate crown)"
+      info: "glass/HIKARI.html"
+      content:
+        - PAGE: J-PKH1
+          name: "J-PKH1"
+          data: "glass/hikari/J-PKH1.yml"
+    - BOOK: HIKARI-PSK
+      name: "HIKARI - PSK (Dense phosphate crown)"
+      info: "glass/HIKARI.html"
+      content:
+        - PAGE: J-PSK02
+          name: "J-PSK02"
+          data: "glass/hikari/J-PSK02.yml"
+        - PAGE: J-PSK03
+          name: "J-PSK03"
+          data: "glass/hikari/J-PSK03.yml"
+        - PAGE: J-PSKH1
+          name: "J-PSKH1"
+          data: "glass/hikari/J-PSKH1.yml"
+        - PAGE: J-PSKH4
+          name: "J-PSKH4"
+          data: "glass/hikari/J-PSKH4.yml"
     - BOOK: HIKARI-F
       name: "HIKARI - F (Flint)"
       info: "glass/HIKARI.html"
@@ -5131,6 +5097,32 @@
         - PAGE: J-F16
           name: "J-F16"
           data: "glass/hikari/J-F16.yml"
+    - BOOK: HIKARI-LF
+      name: "HIKARI - LF (Light flint)"
+      info: "glass/HIKARI.html"
+      content:
+        - PAGE: J-LF5
+          name: "J-LF5"
+          data: "glass/hikari/J-LF5.yml"
+        - PAGE: J-LF6
+          name: "J-LF6"
+          data: "glass/hikari/J-LF6.yml"
+        - PAGE: J-LF7
+          name: "J-LF7"
+          data: "glass/hikari/J-LF7.yml"
+    - BOOK: HIKARI-LLF
+      name: "HIKARI - LLF (Very light flint)"
+      info: "glass/HIKARI.html"
+      content:
+        - PAGE: J-LLF1
+          name: "J-LLF1"
+          data: "glass/hikari/J-LLF1.yml"
+        - PAGE: J-LLF2
+          name: "J-LLF2"
+          data: "glass/hikari/J-LLF2.yml"
+        - PAGE: J-LLF6
+          name: "J-LLF6"
+          data: "glass/hikari/J-LLF6.yml"
     - BOOK: HIKARI-SF
       name: "HIKARI - SF (Dense flint)"
       info: "glass/HIKARI.html"
@@ -5189,58 +5181,52 @@
         - PAGE: J-SFH2
           name: "J-SFH2"
           data: "glass/hikari/J-SFH2.yml"
-    - BOOK: HIKARI-LaK
-      name: "HIKARI - LaK (Lanthanum crown)"
+    - BOOK: HIKARI-BaF
+      name: "HIKARI - BaF (Barium flint)"
       info: "glass/HIKARI.html"
       content:
-        - PAGE: J-LAK7
-          name: "J-LAK7"
-          data: "glass/hikari/J-LAK7.yml"
-        - PAGE: J-LAK7R
-          name: "J-LAK7R"
-          data: "glass/hikari/J-LAK7R.yml"
-        - PAGE: J-LAK8
-          name: "J-LAK8"
-          data: "glass/hikari/J-LAK8.yml"
-        - PAGE: J-LAK9
-          name: "J-LAK9"
-          data: "glass/hikari/J-LAK9.yml"
-        - PAGE: J-LAK10
-          name: "J-LAK10"
-          data: "glass/hikari/J-LAK10.yml"
-        - PAGE: J-LAK12
-          name: "J-LAK12"
-          data: "glass/hikari/J-LAK12.yml"
-        - PAGE: J-LAK13
-          name: "J-LAK13"
-          data: "glass/hikari/J-LAK13.yml"
-        - PAGE: J-LAK14
-          name: "J-LAK14"
-          data: "glass/hikari/J-LAK14.yml"
-        - PAGE: J-LAK18
-          name: "J-LAK18"
-          data: "glass/hikari/J-LAK18.yml"
-        - PAGE: J-LAK01
-          name: "J-LAK01"
-          data: "glass/hikari/J-LAK01.yml"
-        - PAGE: J-LAK02
-          name: "J-LAK02"
-          data: "glass/hikari/J-LAK02.yml"
-        - PAGE: J-LAK04
-          name: "J-LAK04"
-          data: "glass/hikari/J-LAK04.yml"
-        - PAGE: J-LAK06
-          name: "J-LAK06"
-          data: "glass/hikari/J-LAK06.yml"
-        - PAGE: J-LAK09
-          name: "J-LAK09"
-          data: "glass/hikari/J-LAK09.yml"
-        - PAGE: J-LAK011
-          name: "J-LAK011"
-          data: "glass/hikari/J-LAK011.yml"
-        - PAGE: J-LASKH2
-          name: "J-LASKH2"
-          data: "glass/hikari/J-LASKH2.yml"
+        - PAGE: J-BAF3
+          name: "J-BAF3"
+          data: "glass/hikari/J-BAF3.yml"
+        - PAGE: J-BAF4
+          name: "J-BAF4"
+          data: "glass/hikari/J-BAF4.yml"
+        - PAGE: J-BAF8
+          name: "J-BAF8"
+          data: "glass/hikari/J-BAF8.yml"
+        - PAGE: J-BAF10
+          name: "J-BAF10"
+          data: "glass/hikari/J-BAF10.yml"
+          info: "glass/BAF10.html"
+        - PAGE: J-BAF11
+          name: "J-BAF11"
+          data: "glass/hikari/J-BAF11.yml"
+        - PAGE: J-BAF12
+          name: "J-BAF12"
+          data: "glass/hikari/J-BAF12.yml"
+    - BOOK: HIKARI-BaLF
+      name: "HIKARI - BaLF (Barium light flint)"
+      info: "glass/HIKARI.html"
+      content:
+        - PAGE: J-BALF4
+          name: "J-BALF4"
+          data: "glass/hikari/J-BALF4.yml"
+    - BOOK: HIKARI-BaSF
+      name: "HIKARI - BaSF (Barium dense flint)"
+      info: "glass/HIKARI.html"
+      content:
+        - PAGE: J-BASF2
+          name: "J-BASF2"
+          data: "glass/hikari/J-BASF2.yml"
+        - PAGE: J-BASF6
+          name: "J-BASF6"
+          data: "glass/hikari/J-BASF6.yml"
+        - PAGE: J-BASF7
+          name: "J-BASF7"
+          data: "glass/hikari/J-BASF7.yml"
+        - PAGE: J-BASF8
+          name: "J-BASF8"
+          data: "glass/hikari/J-BASF8.yml"
     - BOOK: HIKARI-LaF
       name: "HIKARI - LaF (Lanthanum flint)"
       info: "glass/HIKARI.html"
@@ -5351,6 +5337,20 @@
         - PAGE: J-LASFH24
           name: "J-LASFH24"
           data: "glass/hikari/J-LASFH24.yml"
+    - BOOK: HIKARI-KzF
+      name: "HIKARI - KzF (Special short flint)"
+      info: "glass/HIKARI.html"
+      content:
+        - PAGE: J-KZFH1
+          name: "J-KZFH1"
+          data: "glass/hikari/J-KZFH1.yml"
+    - BOOK: HIKARI-KF
+      name: "HIKARI - KF (Crownflint)"
+      info: "glass/HIKARI.html"
+      content:
+        - PAGE: J-KF6
+          name: "J-KF6"
+          data: "glass/hikari/J-KF6.yml"
     - BOOK: HIKARI-molding
       name: "HIKARI - Glasses for precision molding"
       info: "glass/HIKARI.html"
@@ -5407,6 +5407,145 @@
           name: "Q-LASFH59S"
           data: "glass/hikari/Q-LASFH59S.yml"
     - DIVIDER: "Optical glass - CDGM"
+    - BOOK: CDGM-K
+      name: "CDGM - K (Crown)"
+      info: "glass/CDGM.html"
+      content:
+        - PAGE: K4A
+          name: "K4A"
+          data: "glass/cdgm/K4A.yml"
+        - PAGE: H-K1
+          name: "H-K1"
+          data: "glass/cdgm/H-K1.yml"
+        - PAGE: H-K2
+          name: "H-K2"
+          data: "glass/cdgm/H-K2.yml"
+        - PAGE: H-K3
+          name: "H-K3"
+          data: "glass/cdgm/H-K3.yml"
+        - PAGE: H-K5
+          name: "H-K5"
+          data: "glass/cdgm/H-K5.yml"
+        - PAGE: H-K6
+          name: "H-K6"
+          data: "glass/cdgm/H-K6.yml"
+        - PAGE: H-K7
+          name: "H-K7"
+          data: "glass/cdgm/H-K7.yml"
+        - PAGE: H-K8
+          name: "H-K8"
+          data: "glass/cdgm/H-K8.yml"
+        - PAGE: D-K9
+          name: "D-K9"
+          data: "glass/cdgm/D-K9.yml"
+        - PAGE: H-K9L
+          name: "H-K9L"
+          data: "glass/cdgm/H-K9L.yml"
+          info: "glass/BK7.html"
+        - PAGE: H-K9LGT
+          name: "H-K9LGT"
+          data: "glass/cdgm/H-K9LGT.yml"
+        - PAGE: H-K9Lstar
+          name: "H-K9Lstar"
+          data: "glass/cdgm/H-K9Lstar.yml"
+        - PAGE: H-K10
+          name: "H-K10"
+          data: "glass/cdgm/H-K10.yml"
+        - PAGE: H-K11
+          name: "H-K11"
+          data: "glass/cdgm/H-K11.yml"
+        - PAGE: H-K12
+          name: "H-K12"
+          data: "glass/cdgm/H-K12.yml"
+        - PAGE: H-K50
+          name: "H-K50"
+          data: "glass/cdgm/H-K50.yml"
+        - PAGE: H-K51
+          name: "H-K51"
+          data: "glass/cdgm/H-K51.yml"
+        - PAGE: D-K59
+          name: "D-K59"
+          data: "glass/cdgm/D-K59.yml"
+    - BOOK: CDGM-QK
+      name: "CDGM - QK (Light crown)"
+      info: "glass/CDGM.html"
+      content:
+        - PAGE: H-QK1
+          name: "H-QK1"
+          data: "glass/cdgm/H-QK1.yml"
+        - PAGE: H-QK3L
+          name: "H-QK3L"
+          data: "glass/cdgm/H-QK3L.yml"
+    - BOOK: CDGM-ZK
+      name: "CDGM - ZK (Dense crown)"
+      info: "glass/CDGM.html"
+      content:
+        - PAGE: H-ZK1
+          name: "H-ZK1"
+          data: "glass/cdgm/H-ZK1.yml"
+        - PAGE: D-ZK2
+          name: "D-ZK2"
+          data: "glass/cdgm/D-ZK2.yml"
+        - PAGE: H-ZK2
+          name: "H-ZK2"
+          data: "glass/cdgm/H-ZK2.yml"
+        - PAGE: D-ZK3
+          name: "D-ZK3"
+          data: "glass/cdgm/D-ZK3.yml"
+        - PAGE: H-ZK3
+          name: "H-ZK3"
+          data: "glass/cdgm/H-ZK3.yml"
+        - PAGE: H-ZK3A
+          name: "H-ZK3A"
+          data: "glass/cdgm/H-ZK3A.yml"
+        - PAGE: H-ZK4
+          name: "H-ZK4"
+          data: "glass/cdgm/H-ZK4.yml"
+        - PAGE: H-ZK5
+          name: "H-ZK5"
+          data: "glass/cdgm/H-ZK5.yml"
+        - PAGE: H-ZK6
+          name: "H-ZK6"
+          data: "glass/cdgm/H-ZK6.yml"
+        - PAGE: H-ZK7
+          name: "H-ZK7"
+          data: "glass/cdgm/H-ZK7.yml"
+        - PAGE: H-ZK8
+          name: "H-ZK8"
+          data: "glass/cdgm/H-ZK8.yml"
+        - PAGE: H-ZK9A
+          name: "H-ZK9A"
+          data: "glass/cdgm/H-ZK9A.yml"
+        - PAGE: H-ZK9B
+          name: "H-ZK9B"
+          data: "glass/cdgm/H-ZK9B.yml"
+        - PAGE: H-ZK10
+          name: "H-ZK10"
+          data: "glass/cdgm/H-ZK10.yml"
+        - PAGE: H-ZK10L
+          name: "H-ZK10L"
+          data: "glass/cdgm/H-ZK10L.yml"
+        - PAGE: H-ZK11
+          name: "H-ZK11"
+          data: "glass/cdgm/H-ZK11.yml"
+        - PAGE: H-ZK14
+          name: "H-ZK14"
+          data: "glass/cdgm/H-ZK14.yml"
+        - PAGE: H-ZK20
+          name: "H-ZK20"
+          data: "glass/cdgm/H-ZK20.yml"
+        - PAGE: H-ZK21
+          name: "H-ZK21"
+          data: "glass/cdgm/H-ZK21.yml"
+        - PAGE: H-ZK50
+          name: "H-ZK50"
+          data: "glass/cdgm/H-ZK50.yml"
+        - PAGE: H-ZK50GT
+          name: "H-ZK50GT"
+          data: "glass/cdgm/H-ZK50GT.yml"
+        - PAGE: D-ZK79
+          name: "D-ZK79"
+          data: "glass/cdgm/D-ZK79.yml"
     - BOOK: CDGM-BAK
       name: "CDGM - BAK (Barium crown)"
       info: "glass/CDGM.html"
@@ -5432,280 +5571,134 @@
         - PAGE: H-BAK7
           name: "H-BAK7"
           data: "glass/cdgm/H-BAK7.yml"
+        - PAGE: H-BAK7GT
+          name: "H-BAK7GT"
+          data: "glass/cdgm/H-BAK7GT.yml"
         - PAGE: H-BAK8
           name: "H-BAK8"
           data: "glass/cdgm/H-BAK8.yml"
           info: "glass/BAK1.html"
-    - BOOK: CDGM-BAF
-      name: "CDGM - BAF (Barium flint)"
-      info: "glass/CDGM.html"
-      content:
-        - PAGE: BAF3
-          name: "BAF3"
-          data: "glass/cdgm/BAF3.yml"
-        - PAGE: BAF4
-          name: "BAF4"
-          data: "glass/cdgm/BAF4.yml"
-        - PAGE: BAF5
-          name: "BAF5"
-          data: "glass/cdgm/BAF5.yml"
-        - PAGE: BAF6
-          name: "BAF6"
-          data: "glass/cdgm/BAF6.yml"
-        - PAGE: BAF7
-          name: "BAF7"
-          data: "glass/cdgm/BAF7.yml"
-        - PAGE: BAF8
-          name: "BAF8"
-          data: "glass/cdgm/BAF8.yml"
-    - BOOK: CDGM-K
-      name: "CDGM - K (Crown)"
-      info: "glass/CDGM.html"
-      content:
-        - PAGE: K4A
-          name: "K4A"
-          data: "glass/cdgm/K4A.yml"
-        - PAGE: H-K5
-          name: "H-K5"
-          data: "glass/cdgm/H-K5.yml"
-        - PAGE: H-K6
-          name: "H-K6"
-          data: "glass/cdgm/H-K6.yml"
-        - PAGE: H-K7
-          name: "H-K7"
-          data: "glass/cdgm/H-K7.yml"
-        - PAGE: H-K9L
-          name: "H-K9L"
-          data: "glass/cdgm/H-K9L.yml"
-          info: "glass/BK7.html"
-        - PAGE: H-K10
-          name: "H-K10"
-          data: "glass/cdgm/H-K10.yml"
-        - PAGE: H-K11
-          name: "H-K11"
-          data: "glass/cdgm/H-K11.yml"
-        - PAGE: H-K50
-          name: "H-K50"
-          data: "glass/cdgm/H-K50.yml"
-        - PAGE: H-K51
-          name: "H-K51"
-          data: "glass/cdgm/H-K51.yml"
-        - PAGE: H-K51A
-          name: "H-K51A"
-          data: "glass/cdgm/H-K51A.yml"
     - BOOK: CDGM-FK
-      name: "CDGM - FK (Crown flint)"
+      name: "CDGM - FK (Fluor crown)"
       info: "glass/CDGM.html"
       content:
         - PAGE: H-KF6
           name: "H-KF6"
           data: "glass/cdgm/H-KF6.yml"
-    - BOOK: CDGM-ZBAF
-      name: "CDGM - ZBAF (Dense barium flint)"
+        - PAGE: D-FK61
+          name: "D-FK61"
+          data: "glass/cdgm/D-FK61.yml"
+        - PAGE: H-FK61
+          name: "H-FK61"
+          data: "glass/cdgm/H-FK61.yml"
+        - PAGE: H-FK61B
+          name: "H-FK61B"
+          data: "glass/cdgm/H-FK61B.yml"
+        - PAGE: H-FK71
+          name: "H-FK71"
+          data: "glass/cdgm/H-FK71.yml"
+    - BOOK: CDGM-LAK
+      name: "CDGM - LAK (Lanthanum crown)"
       info: "glass/CDGM.html"
       content:
-        - PAGE: ZBAF1
-          name: "ZBAF1"
-          data: "glass/cdgm/ZBAF1.yml"
-        - PAGE: ZBAF2
-          name: "ZBAF2"
-          data: "glass/cdgm/ZBAF2.yml"
-        - PAGE: ZBAF4
-          name: "ZBAF4"
-          data: "glass/cdgm/ZBAF4.yml"
-        - PAGE: H-ZBAF3
-          name: "H-ZBAF3"
-          data: "glass/cdgm/H-ZBAF3.yml"
-        - PAGE: H-ZBAF5
-          name: "H-ZBAF5"
-          data: "glass/cdgm/H-ZBAF5.yml"
-        - PAGE: H-ZBAF16
-          name: "H-ZBAF16"
-          data: "glass/cdgm/H-ZBAF16.yml"
-        - PAGE: H-ZBAF20
-          name: "H-ZBAF20"
-          data: "glass/cdgm/H-ZBAF20.yml"
-        - PAGE: H-ZBAF21
-          name: "H-ZBAF21"
-          data: "glass/cdgm/H-ZBAF21.yml"
-        - PAGE: H-ZBAF50
-          name: "H-ZBAF50"
-          data: "glass/cdgm/H-ZBAF50.yml"
-        - PAGE: H-ZBAF52
-          name: "H-ZBAF52"
-          data: "glass/cdgm/H-ZBAF52.yml"
-          info: "glass/BAF10.html"
-    - BOOK: CDGM-ZK
-      name: "CDGM - ZK (Dense crown)"
+        - PAGE: H-LAK1
+          name: "H-LAK1"
+          data: "glass/cdgm/H-LAK1.yml"
+        - PAGE: H-LAK2A
+          name: "H-LAK2A"
+          data: "glass/cdgm/H-LAK2A.yml"
+        - PAGE: H-LAK3
+          name: "H-LAK3"
+          data: "glass/cdgm/H-LAK3.yml"
+        - PAGE: H-LAK4L
+          name: "H-LAK4L"
+          data: "glass/cdgm/H-LAK4L.yml"
+        - PAGE: D-LAK5
+          name: "D-LAK5"
+          data: "glass/cdgm/D-LAK5.yml"
+        - PAGE: H-LAK5A
+          name: "H-LAK5A"
+          data: "glass/cdgm/H-LAK5A.yml"
+        - PAGE: D-LAK6
+          name: "D-LAK6"
+          data: "glass/cdgm/D-LAK6.yml"
+        - PAGE: H-LAK6A
+          name: "H-LAK6A"
+          data: "glass/cdgm/H-LAK6A.yml"
+        - PAGE: H-LAK7A
+          name: "H-LAK7A"
+          data: "glass/cdgm/H-LAK7A.yml"
+        - PAGE: H-LAK8A
+          name: "H-LAK8A"
+          data: "glass/cdgm/H-LAK8A.yml"
+        - PAGE: H-LAK8B
+          name: "H-LAK8B"
+          data: "glass/cdgm/H-LAK8B.yml"
+        - PAGE: H-LAK10
+          name: "H-LAK10"
+          data: "glass/cdgm/H-LAK10.yml"
+        - PAGE: H-LAK11
+          name: "H-LAK11"
+          data: "glass/cdgm/H-LAK11.yml"
+        - PAGE: H-LAK12
+          name: "H-LAK12"
+          data: "glass/cdgm/H-LAK12.yml"
+        - PAGE: H-LAK50A
+          name: "H-LAK50A"
+          data: "glass/cdgm/H-LAK50A.yml"
+        - PAGE: H-LAK51A
+          name: "H-LAK51A"
+          data: "glass/cdgm/H-LAK51A.yml"
+        - PAGE: H-LAK52
+          name: "H-LAK52"
+          data: "glass/cdgm/H-LAK52.yml"
+        - PAGE: H-LAK53A
+          name: "H-LAK53A"
+          data: "glass/cdgm/H-LAK53A.yml"
+        - PAGE: H-LAK53B
+          name: "H-LAK53B"
+          data: "glass/cdgm/H-LAK53B.yml"
+        - PAGE: H-LAK54
+          name: "H-LAK54"
+          data: "glass/cdgm/H-LAK54.yml"
+        - PAGE: H-LAK59A
+          name: "H-LAK59A"
+          data: "glass/cdgm/H-LAK59A.yml"
+        - PAGE: H-LAK61
+          name: "H-LAK61"
+          data: "glass/cdgm/H-LAK61.yml"
+        - PAGE: H-LAK67
+          name: "H-LAK67"
+          data: "glass/cdgm/H-LAK67.yml"
+        - PAGE: D-LAK70
+          name: "D-LAK70"
+          data: "glass/cdgm/D-LAK70.yml"
+    - BOOK: CDGM-PK
+      name: "CDGM - PK (Phosphate crown)"
       info: "glass/CDGM.html"
       content:
-        - PAGE: H-ZK1
-          name: "H-ZK1"
-          data: "glass/cdgm/H-ZK1.yml"
-        - PAGE: H-ZK2
-          name: "H-ZK2"
-          data: "glass/cdgm/H-ZK2.yml"
-        - PAGE: H-ZK3
-          name: "H-ZK3"
-          data: "glass/cdgm/H-ZK3.yml"
-        - PAGE: H-ZK4
-          name: "H-ZK4"
-          data: "glass/cdgm/H-ZK4.yml"
-        - PAGE: H-ZK5
-          name: "H-ZK5"
-          data: "glass/cdgm/H-ZK5.yml"
-        - PAGE: H-ZK6
-          name: "H-ZK6"
-          data: "glass/cdgm/H-ZK6.yml"
-        - PAGE: H-ZK7
-          name: "H-ZK7"
-          data: "glass/cdgm/H-ZK7.yml"
-        - PAGE: H-ZK8
-          name: "H-ZK8"
-          data: "glass/cdgm/H-ZK8.yml"
-        - PAGE: H-ZK9A
-          name: "H-ZK9A"
-          data: "glass/cdgm/H-ZK9A.yml"
-        - PAGE: H-ZK10
-          name: "H-ZK10"
-          data: "glass/cdgm/H-ZK10.yml"
-        - PAGE: H-ZK10L
-          name: "H-ZK10L"
-          data: "glass/cdgm/H-ZK10L.yml"
-        - PAGE: H-ZK11
-          name: "H-ZK11"
-          data: "glass/cdgm/H-ZK11.yml"
-        - PAGE: H-ZK14
-          name: "H-ZK14"
-          data: "glass/cdgm/H-ZK14.yml"
-        - PAGE: H-ZK21
-          name: "H-ZK21"
-          data: "glass/cdgm/H-ZK21.yml"
-        - PAGE: H-ZK50
-          name: "H-ZK50"
-          data: "glass/cdgm/H-ZK50.yml"
-    - BOOK: CDGM-ZF
-      name: "CDGM - ZF (Dense flint)"
+        - PAGE: D-PK3
+          name: "D-PK3"
+          data: "glass/cdgm/D-PK3.yml"
+    - BOOK: CDGM-ZPK
+      name: "CDGM - ZPK (Dense phosphate crown)"
       info: "glass/CDGM.html"
       content:
-        - PAGE: ZF1
-          name: "ZF1"
-          data: "glass/cdgm/ZF1.yml"
-        - PAGE: ZF2
-          name: "ZF2"
-          data: "glass/cdgm/ZF2.yml"
-          info: "glass/SF5.html"
-        - PAGE: ZF3
-          name: "ZF3"
-          data: "glass/cdgm/ZF3.yml"
-        - PAGE: ZF4
-          name: "ZF4"
-          data: "glass/cdgm/ZF4.yml"
-          info: "glass/SF10.html"
-        - PAGE: ZF5
-          name: "ZF5"
-          data: "glass/cdgm/ZF5.yml"
-        - PAGE: ZF6
-          name: "ZF6"
-          data: "glass/cdgm/ZF6.yml"
-        - PAGE: ZF7L
-          name: "ZF7L"
-          data: "glass/cdgm/ZF7L.yml"
-        - PAGE: ZF8
-          name: "ZF8"
-          data: "glass/cdgm/ZF8.yml"
-        - PAGE: ZF10
-          name: "ZF10"
-          data: "glass/cdgm/ZF10.yml"
-        - PAGE: ZF11
-          name: "ZF11"
-          data: "glass/cdgm/ZF11.yml"
-        - PAGE: ZF12
-          name: "ZF12"
-          data: "glass/cdgm/ZF12.yml"
-        - PAGE: ZF13
-          name: "ZF13"
-          data: "glass/cdgm/ZF13.yml"
-          info: "glass/SF11.html"
-        - PAGE: ZF50
-          name: "ZF50"
-          data: "glass/cdgm/ZF50.yml"
-        - PAGE: ZF51
-          name: "ZF51"
-          data: "glass/cdgm/ZF51.yml"
-        - PAGE: H-ZF1
-          name: "H-ZF1"
-          data: "glass/cdgm/H-ZF1.yml"
-        - PAGE: H-ZF2
-          name: "H-ZF2"
-          data: "glass/cdgm/H-ZF2.yml"
-        - PAGE: H-ZF3
-          name: "H-ZF3"
-          data: "glass/cdgm/H-ZF3.yml"
-        - PAGE: H-ZF4
-          name: "H-ZF4"
-          data: "glass/cdgm/H-ZF4.yml"
-        - PAGE: H-ZF5
-          name: "H-ZF5"
-          data: "glass/cdgm/H-ZF5.yml"
-        - PAGE: H-ZF6
-          name: "H-ZF6"
-          data: "glass/cdgm/H-ZF6.yml"
-        - PAGE: H-ZF7LA
-          name: "H-ZF7LA"
-          data: "glass/cdgm/H-ZF7LA.yml"
-        - PAGE: H-ZF10
-          name: "H-ZF10"
-          data: "glass/cdgm/H-ZF10.yml"
-        - PAGE: H-ZF11
-          name: "H-ZF11"
-          data: "glass/cdgm/H-ZF11.yml"
-        - PAGE: H-ZF12
-          name: "H-ZF12"
-          data: "glass/cdgm/H-ZF12.yml"
-        - PAGE: H-ZF13
-          name: "H-ZF13"
-          data: "glass/cdgm/H-ZF13.yml"
-        - PAGE: H-ZF50
-          name: "H-ZF50"
-          data: "glass/cdgm/H-ZF50.yml"
-        - PAGE: H-ZF52A
-          name: "H-ZF52A"
-          data: "glass/cdgm/H-ZF52A.yml"
-        - PAGE: H-ZF62
-          name: "H-ZF62"
-          data: "glass/cdgm/H-ZF62.yml"
-    - BOOK: CDGM-ZLAF
-      name: "CDGM - ZLAF (Dense lanthanum flint)"
-      info: "glass/CDGM.html"
-      content:
-        - PAGE: H-ZLAF50B
-          name: "H-ZLAF50B"
-          data: "glass/cdgm/H-ZLAF50B.yml"
-        - PAGE: H-ZLAF51
-          name: "H-ZLAF51"
-          data: "glass/cdgm/H-ZLAF51.yml"
-        - PAGE: H-ZLAF52
-          name: "H-ZLAF52"
-          data: "glass/cdgm/H-ZLAF52.yml"
-        - PAGE: H-ZLAF53A
-          name: "H-ZLAF53A"
-          data: "glass/cdgm/H-ZLAF53A.yml"
-        - PAGE: H-ZLAF55A
-          name: "H-ZLAF55A"
-          data: "glass/cdgm/H-ZLAF55A.yml"
-        - PAGE: H-ZLAF56A
-          name: "H-ZLAF56A"
-          data: "glass/cdgm/H-ZLAF56A.yml"
-        - PAGE: H-ZLAF66
-          name: "H-ZLAF66"
-          data: "glass/cdgm/H-ZLAF66.yml"
-        - PAGE: H-ZLAF68
-          name: "H-ZLAF68"
-          data: "glass/cdgm/H-ZLAF68.yml"
-        - PAGE: H-ZLAF75
-          name: "H-ZLAF75"
-          data: "glass/cdgm/H-ZLAF75.yml"
+        - PAGE: D-ZPK1A
+          name: "D-ZPK1A"
+          data: "glass/cdgm/D-ZPK1A.yml"
+        - PAGE: H-ZPK1A
+          name: "H-ZPK1A"
+          data: "glass/cdgm/H-ZPK1A.yml"
+        - PAGE: H-ZPK2A
+          name: "H-ZPK2A"
+          data: "glass/cdgm/H-ZPK2A.yml"
+        - PAGE: H-ZPK3
+          name: "H-ZPK3"
+          data: "glass/cdgm/H-ZPK3.yml"
+        - PAGE: H-ZPK5
+          name: "H-ZPK5"
+          data: "glass/cdgm/H-ZPK5.yml"
     - BOOK: CDGM-F
       name: "CDGM - F (Flint)"
       info: "glass/CDGM.html"
@@ -5713,15 +5706,24 @@
         - PAGE: F1
           name: "F1"
           data: "glass/cdgm/F1.yml"
+        - PAGE: H-F1
+          name: "H-F1"
+          data: "glass/cdgm/H-F1.yml"
         - PAGE: F2
           name: "F2"
           data: "glass/cdgm/F2.yml"
+        - PAGE: H-f2
+          name: "H-F2"
+          data: "glass/cdgm/H-F2.yml"
         - PAGE: F3
           name: "F3"
           data: "glass/cdgm/F3.yml"
         - PAGE: F4
           name: "F4"
           data: "glass/cdgm/F4.yml"
+        - PAGE: H-F4
+          name: "H-F4"
+          data: "glass/cdgm/H-F4.yml"
         - PAGE: F5
           name: "F5"
           data: "glass/cdgm/F5.yml"
@@ -5734,115 +5736,12 @@
         - PAGE: F13
           name: "F13"
           data: "glass/cdgm/F13.yml"
-        - PAGE: H-F1
-          name: "H-F1"
-          data: "glass/cdgm/H-F1.yml"
-        - PAGE: H-F4
-          name: "H-F4"
-          data: "glass/cdgm/H-F4.yml"
         - PAGE: H-F13
           name: "H-F13"
           data: "glass/cdgm/H-F13.yml"
         - PAGE: H-F51
           name: "H-F51"
           data: "glass/cdgm/H-F51.yml"
-    - BOOK: CDGM-FK
-      name: "CDGM - FK (Fluor crown)"
-      info: "glass/CDGM.html"
-      content:
-        - PAGE: H-FK61
-          name: "H-FK61"
-          data: "glass/cdgm/H-FK61.yml"
-    - BOOK: CDGM-LAK
-      name: "CDGM - LAK (Lanthanum crown)"
-      info: "glass/CDGM.html"
-      content:
-        - PAGE: H-LAK3
-          name: "H-LAK3"
-          data: "glass/cdgm/H-LAK3.yml"
-        - PAGE: H-LAK4L
-          name: "H-LAK4L"
-          data: "glass/cdgm/H-LAK4L.yml"
-        - PAGE: H-LAK5A
-          name: "H-LAK5A"
-          data: "glass/cdgm/H-LAK5A.yml"
-        - PAGE: H-LAK7
-          name: "H-LAK7"
-          data: "glass/cdgm/H-LAK7.yml"
-        - PAGE: H-LAK8A
-          name: "H-LAK8A"
-          data: "glass/cdgm/H-LAK8A.yml"
-        - PAGE: H-LAK10
-          name: "H-LAK10"
-          data: "glass/cdgm/H-LAK10.yml"
-        - PAGE: H-LAK50
-          name: "H-LAK50"
-          data: "glass/cdgm/H-LAK50.yml"
-        - PAGE: H-LAK51
-          name: "H-LAK51"
-          data: "glass/cdgm/H-LAK51.yml"
-        - PAGE: H-LAK52
-          name: "H-LAK52"
-          data: "glass/cdgm/H-LAK52.yml"
-        - PAGE: H-LAK53A
-          name: "H-LAK53A"
-          data: "glass/cdgm/H-LAK53A.yml"
-        - PAGE: H-LAK54
-          name: "H-LAK54"
-          data: "glass/cdgm/H-LAK54.yml"
-        - PAGE: H-LAK61
-          name: "H-LAK61"
-          data: "glass/cdgm/H-LAK61.yml"
-        - PAGE: H-LAK67
-          name: "H-LAK67"
-          data: "glass/cdgm/H-LAK67.yml"
-    - BOOK: CDGM-LAF
-      name: "CDGM - LAF (Lanthanum flint)"
-      info: "glass/CDGM.html"
-      content:
-        - PAGE: H-LAF2
-          name: "H-LAF2"
-          data: "glass/cdgm/H-LAF2.yml"
-        - PAGE: H-LAF3
-          name: "H-LAF3"
-          data: "glass/cdgm/H-LAF3.yml"
-        - PAGE: H-LAF4
-          name: "H-LAF4"
-          data: "glass/cdgm/H-LAF4.yml"
-        - PAGE: H-LAF6LA
-          name: "H-LAF6LA"
-          data: "glass/cdgm/H-LAF6LA.yml"
-        - PAGE: H-LAF10L
-          name: "H-LAF10L"
-          data: "glass/cdgm/H-LAF10L.yml"
-        - PAGE: H-LAF50A
-          name: "H-LAF50A"
-          data: "glass/cdgm/H-LAF50A.yml"
-        - PAGE: H-LAF52
-          name: "H-LAF52"
-          data: "glass/cdgm/H-LAF52.yml"
-        - PAGE: H-LAF53
-          name: "H-LAF53"
-          data: "glass/cdgm/H-LAF53.yml"
-        - PAGE: H-LAF54
-          name: "H-LAF54"
-          data: "glass/cdgm/H-LAF54.yml"
-        - PAGE: H-LAF62
-          name: "H-LAF62"
-          data: "glass/cdgm/H-LAF62.yml"
-    - BOOK: CDGM-QK
-      name: "CDGM - QK (Light crown)"
-      info: "glass/CDGM.html"
-      content:
-        - PAGE: H-QK1
-          name: "H-QK1"
-          data: "glass/cdgm/H-QK1.yml"
-        - PAGE: H-QK3
-          name: "H-QK3"
-          data: "glass/cdgm/H-QK3.yml"
-        - PAGE: H-QK3L
-          name: "H-QK3L"
-          data: "glass/cdgm/H-QK3L.yml"
     - BOOK: CDGM-QF
       name: "CDGM - QF (Light flint)"
       info: "glass/CDGM.html"
@@ -5850,39 +5749,178 @@
         - PAGE: QF1
           name: "QF1"
           data: "glass/cdgm/QF1.yml"
+        - PAGE: H-QF1
+          name: "H-QF1"
+          data: "glass/cdgm/H-QF1.yml"
         - PAGE: QF3
           name: "QF3"
           data: "glass/cdgm/QF3.yml"
+        - PAGE: H-QF3
+          name: "H-QF3"
+          data: "glass/cdgm/H-QF3.yml"
         - PAGE: QF5
           name: "QF5"
           data: "glass/cdgm/QF5.yml"
         - PAGE: QF6
           name: "QF6"
           data: "glass/cdgm/QF6.yml"
+        - PAGE: H-QF6A
+          name: "H-QF6A"
+          data: "glass/cdgm/H-QF6A.yml"
         - PAGE: QF8
           name: "QF8"
           data: "glass/cdgm/QF8.yml"
-        - PAGE: QF50
-          name: "QF50"
-          data: "glass/cdgm/QF50.yml"
-        - PAGE: H-QF1
-          name: "H-QF1"
-          data: "glass/cdgm/H-QF1.yml"
-        - PAGE: H-QF3
-          name: "H-QF3"
-          data: "glass/cdgm/H-QF3.yml"
-        - PAGE: H-QF6
-          name: "H-QF6"
-          data: "glass/cdgm/H-QF6.yml"
         - PAGE: H-QF8
           name: "H-QF8"
           data: "glass/cdgm/H-QF8.yml"
-        - PAGE: H-QF50
-          name: "H-QF50"
-          data: "glass/cdgm/H-QF50.yml"
+        - PAGE: H-QF14
+          name: "H-QF14"
+          data: "glass/cdgm/H-QF14.yml"
+        - PAGE: QF50
+          name: "QF50"
+          data: "glass/cdgm/QF50.yml"
+        - PAGE: H-QF50A
+          name: "H-QF50A"
+          data: "glass/cdgm/H-QF50A.yml"
         - PAGE: H-QF56
           name: "H-QF56"
           data: "glass/cdgm/H-QF56.yml"
+    - BOOK: CDGM-ZF
+      name: "CDGM - ZF (Dense flint)"
+      info: "glass/CDGM.html"
+      content:
+        - PAGE: ZF1
+          name: "ZF1"
+          data: "glass/cdgm/ZF1.yml"
+        - PAGE: H-ZF1
+          name: "H-ZF1"
+          data: "glass/cdgm/H-ZF1.yml"
+        - PAGE: ZF2
+          name: "ZF2"
+          data: "glass/cdgm/ZF2.yml"
+          info: "glass/SF5.html"
+        - PAGE: H-ZF2
+          name: "H-ZF2"
+          data: "glass/cdgm/H-ZF2.yml"
+        - PAGE: ZF3
+          name: "ZF3"
+          data: "glass/cdgm/ZF3.yml"
+        - PAGE: H-ZF3
+          name: "H-ZF3"
+          data: "glass/cdgm/H-ZF3.yml"
+        - PAGE: ZF4
+          name: "ZF4"
+          data: "glass/cdgm/ZF4.yml"
+          info: "glass/SF10.html"
+        - PAGE: H-ZF4A
+          name: "H-ZF4A"
+          data: "glass/cdgm/H-ZF4A.yml"
+        - PAGE: H-ZF4AGT
+          name: "H-ZF4AGT"
+          data: "glass/cdgm/H-ZF4AGT.yml"
+        - PAGE: ZF5
+          name: "ZF5"
+          data: "glass/cdgm/ZF5.yml"
+        - PAGE: H-ZF5
+          name: "H-ZF5"
+          data: "glass/cdgm/H-ZF5.yml"
+        - PAGE: ZF6
+          name: "ZF6"
+          data: "glass/cdgm/ZF6.yml"
+        - PAGE: H-ZF6
+          name: "H-ZF6"
+          data: "glass/cdgm/H-ZF6.yml"
+        - PAGE: ZF7
+          name: "ZF7"
+          data: "glass/cdgm/ZF7.yml"
+        - PAGE: ZF7L
+          name: "ZF7L"
+          data: "glass/cdgm/ZF7L.yml"
+        - PAGE: ZF7LGT
+          name: "ZF7LGT"
+          data: "glass/cdgm/ZF7LGT.yml"
+        - PAGE: H-ZF7LA
+          name: "H-ZF7LA"
+          data: "glass/cdgm/H-ZF7LA.yml"
+        - PAGE: H-ZF7LAGT
+          name: "H-ZF7LAGT"
+          data: "glass/cdgm/H-ZF7LAGT.yml"
+        - PAGE: ZF8
+          name: "ZF8"
+          data: "glass/cdgm/ZF8.yml"
+        - PAGE: ZF10
+          name: "ZF10"
+          data: "glass/cdgm/ZF10.yml"
+        - PAGE: D-ZF10
+          name: "D-ZF10"
+          data: "glass/cdgm/D-ZF10.yml"
+        - PAGE: H-ZF10
+          name: "H-ZF10"
+          data: "glass/cdgm/H-ZF10.yml"
+        - PAGE: ZF11
+          name: "ZF11"
+          data: "glass/cdgm/ZF11.yml"
+        - PAGE: H-ZF11
+          name: "H-ZF11"
+          data: "glass/cdgm/H-ZF11.yml"
+        - PAGE: ZF12
+          name: "ZF12"
+          data: "glass/cdgm/ZF12.yml"
+        - PAGE: H-ZF12
+          name: "H-ZF12"
+          data: "glass/cdgm/H-ZF12.yml"
+        - PAGE: ZF13
+          name: "ZF13"
+          data: "glass/cdgm/ZF13.yml"
+          info: "glass/SF11.html"
+        - PAGE: H-ZF13
+          name: "H-ZF13"
+          data: "glass/cdgm/H-ZF13.yml"
+        - PAGE: H-ZF13GT
+          name: "H-ZF13GT"
+          data: "glass/cdgm/H-ZF13GT.yml"
+        - PAGE: H-ZF39
+          name: "H-ZF39"
+          data: "glass/cdgm/H-ZF39.yml"
+        - PAGE: ZF50
+          name: "ZF50"
+          data: "glass/cdgm/ZF50.yml"
+        - PAGE: H-ZF50
+          name: "H-ZF50"
+          data: "glass/cdgm/H-ZF50.yml"
+        - PAGE: ZF51
+          name: "ZF51"
+          data: "glass/cdgm/ZF51.yml"
+        - PAGE: ZF52
+          name: "ZF52"
+          data: "glass/cdgm/ZF52.yml"
+        - PAGE: H-ZF52
+          name: "H-ZF52"
+          data: "glass/cdgm/H-ZF52.yml"
+        - PAGE: H-ZF52A
+          name: "H-ZF52A"
+          data: "glass/cdgm/H-ZF52A.yml"
+        - PAGE: H-ZF52GT
+          name: "H-ZF52GT"
+          data: "glass/cdgm/H-ZF52GT.yml"
+        - PAGE: H-ZF52TT
+          name: "H-ZF52TT"
+          data: "glass/cdgm/H-ZF52TT.yml"
+        - PAGE: H-ZF62
+          name: "H-ZF62"
+          data: "glass/cdgm/H-ZF62.yml"
+        - PAGE: H-ZF71
+          name: "H-ZF71"
+          data: "glass/cdgm/H-ZF71.yml"
+        - PAGE: H-ZF72A
+          name: "H-ZF72A"
+          data: "glass/cdgm/H-ZF72A.yml"
+        - PAGE: H-ZF88
+          name: "H-ZF88"
+          data: "glass/cdgm/H-ZF88.yml"
+        - PAGE: D-ZF93
+          name: "D-ZF93"
+          data: "glass/cdgm/D-ZF93.yml"
     - BOOK: CDGM-TF
       name: "CDGM - TF (Special flint)"
       info: "glass/CDGM.html"
@@ -5890,61 +5928,274 @@
         - PAGE: TF3
           name: "TF3"
           data: "glass/cdgm/TF3.yml"
-    - BOOK: CDGM-D
-      name: "CDGM - D- (Low softening glass)"
+        - PAGE: H-TF3L
+          name: "H-TF3L"
+          data: "glass/cdgm/H-TF3L.yml"
+        - PAGE: H-TF5
+          name: "H-TF5"
+          data: "glass/cdgm/H-TF5.yml"
+        - PAGE: H-TF8
+          name: "H-TF8"
+          data: "glass/cdgm/H-TF8.yml"
+    - BOOK: CDGM-BAF
+      name: "CDGM - BAF (Barium flint)"
       info: "glass/CDGM.html"
       content:
-        - PAGE: D-ZK2L
-          name: "D-ZK2L"
-          data: "glass/cdgm/D-ZK2L.yml"
-        - PAGE: D-K9L
-          name: "D-K9L"
-          data: "glass/cdgm/D-K9L.yml"
-        - PAGE: D-LAK70
-          name: "D-LAK70"
-          data: "glass/cdgm/D-LAK70.yml"
+        - PAGE: BAF2
+          name: "BAF2"
+          data: "glass/cdgm/BAF2.yml"
+        - PAGE: H-BAF2
+          name: "H-BAF2"
+          data: "glass/cdgm/H-BAF2.yml"
+        - PAGE: H-BAF3
+          name: "H-BAF3"
+          data: "glass/cdgm/H-BAF3.yml"
+        - PAGE: BAF4
+          name: "BAF4"
+          data: "glass/cdgm/BAF4.yml"
+        - PAGE: H-BAF4
+          name: "H-BAF4"
+          data: "glass/cdgm/H-BAF4.yml"
+        - PAGE: BAF5
+          name: "BAF5"
+          data: "glass/cdgm/BAF5.yml"
+        - PAGE: H-BAF5
+          name: "H-BAF5"
+          data: "glass/cdgm/H-BAF5.yml"
+        - PAGE: H-BAF6
+          name: "H-BAF6"
+          data: "glass/cdgm/H-BAF6.yml"
+        - PAGE: BAF7
+          name: "BAF7"
+          data: "glass/cdgm/BAF7.yml"
+        - PAGE: H-BAF7
+          name: "H-BAF7"
+          data: "glass/cdgm/H-BAF7.yml"
+        - PAGE: H-BAF8
+          name: "H-BAF8"
+          data: "glass/cdgm/H-BAF8.yml"
+    - BOOK: CDGM-ZBAF
+      name: "CDGM - ZBAF (Dense barium flint)"
+      info: "glass/CDGM.html"
+      content:
+        - PAGE: H-ZBAF1
+          name: "H-ZBAF1"
+          data: "glass/cdgm/H-ZBAF1.yml"
+        - PAGE: ZBAF2
+          name: "ZBAF2"
+          data: "glass/cdgm/ZBAF2.yml"
+        - PAGE: H-ZBAF3
+          name: "H-ZBAF3"
+          data: "glass/cdgm/H-ZBAF3.yml"
+        - PAGE: H-ZBAF4
+          name: "H-ZBAF4"
+          data: "glass/cdgm/H-ZBAF4.yml"
+        - PAGE: H-ZBAF5
+          name: "H-ZBAF5"
+          data: "glass/cdgm/H-ZBAF5.yml"
+        - PAGE: H-ZBAF16
+          name: "H-ZBAF16"
+          data: "glass/cdgm/H-ZBAF16.yml"
+        - PAGE: ZBAF17
+          name: "ZBAF17"
+          data: "glass/cdgm/ZBAF17.yml"
+        - PAGE: H-ZBAF20
+          name: "H-ZBAF20"
+          data: "glass/cdgm/H-ZBAF20.yml"
+        - PAGE: H-ZBAF21
+          name: "H-ZBAF21"
+          data: "glass/cdgm/H-ZBAF21.yml"
+        - PAGE: H-ZBAF50
+          name: "H-ZBAF50"
+          data: "glass/cdgm/H-ZBAF50.yml"
+        - PAGE: ZBAF51
+          name: "ZBAF51"
+          data: "glass/cdgm/ZBAF51.yml"
+        - PAGE: H-ZBAF52
+          name: "H-ZBAF52"
+          data: "glass/cdgm/H-ZBAF52.yml"
+          info: "glass/BAF10.html"
+    - BOOK: CDGM-LAF
+      name: "CDGM - LAF (Lanthanum flint)"
+      info: "glass/CDGM.html"
+      content:
+        - PAGE: H-LAF1
+          name: "H-LAF1"
+          data: "glass/cdgm/H-LAF1.yml"
+        - PAGE: H-LAF2
+          name: "H-LAF2"
+          data: "glass/cdgm/H-LAF2.yml"
+        - PAGE: H-LAF3B
+          name: "H-LAF3B"
+          data: "glass/cdgm/H-LAF3B.yml"
+        - PAGE: H-LAF4
+          name: "H-LAF4"
+          data: "glass/cdgm/H-LAF4.yml"
+        - PAGE: H-LAF4GT
+          name: "H-LAF4GT"
+          data: "glass/cdgm/H-LAF4GT.yml"
+        - PAGE: H-LAFL5
+          name: "H-LAFL5"
+          data: "glass/cdgm/H-LAFL5.yml"
+        - PAGE: H-LAF6LA
+          name: "H-LAF6LA"
+          data: "glass/cdgm/H-LAF6LA.yml"
+        - PAGE: H-LAF7
+          name: "H-LAF7"
+          data: "glass/cdgm/H-LAF7.yml"
+        - PAGE: H-LAF10LA
+          name: "H-LAF10LA"
+          data: "glass/cdgm/H-LAF10LA.yml"
+        - PAGE: D-LAF050
+          name: "D-LAF050"
+          data: "glass/cdgm/D-LAF050.yml"
+        - PAGE: D-LAF50
+          name: "D-LAF50"
+          data: "glass/cdgm/D-LAF50.yml"
+        - PAGE: H-LAF50B
+          name: "H-LAF50B"
+          data: "glass/cdgm/H-LAF50B.yml"
+        - PAGE: H-LAF51
+          name: "H-LAF51"
+          data: "glass/cdgm/H-LAF51.yml"
+        - PAGE: H-LAF52
+          name: "H-LAF52"
+          data: "glass/cdgm/H-LAF52.yml"
+        - PAGE: D-LAF53
+          name: "D-LAF53"
+          data: "glass/cdgm/D-LAF53.yml"
+        - PAGE: H-LAF53
+          name: "H-LAF53"
+          data: "glass/cdgm/H-LAF53.yml"
+        - PAGE: H-LAF54
+          name: "H-LAF54"
+          data: "glass/cdgm/H-LAF54.yml"
+        - PAGE: H-LAF55
+          name: "H-LAF55"
+          data: "glass/cdgm/H-LAF55.yml"
+        - PAGE: H-LAF62
+          name: "H-LAF62"
+          data: "glass/cdgm/H-LAF62.yml"
         - PAGE: D-LAF79
           name: "D-LAF79"
           data: "glass/cdgm/D-LAF79.yml"
+        - PAGE: D-LAF82L
+          name: "D-LAF82L"
+          data: "glass/cdgm/D-LAF82L.yml"
+    - BOOK: CDGM-ZLAF
+      name: "CDGM - ZLAF (Dense lanthanum flint)"
+      info: "glass/CDGM.html"
+      content:
+        - PAGE: H-ZLAF1
+          name: "H-ZLAF1"
+          data: "glass/cdgm/H-ZLAF1.yml"
+        - PAGE: H-ZLAF2A
+          name: "H-ZLAF2A"
+          data: "glass/cdgm/H-ZLAF2A.yml"
+        - PAGE: H-ZLAF3
+          name: "H-ZLAF3"
+          data: "glass/cdgm/H-ZLAF3.yml"
+        - PAGE: H-ZLAF4LA
+          name: "H-ZLAF4LA"
+          data: "glass/cdgm/H-ZLAF4LA.yml"
+        - PAGE: D-ZLAF50
+          name: "D-ZLAF50"
+          data: "glass/cdgm/D-ZLAF50.yml"
+        - PAGE: H-ZLAF50D
+          name: "H-ZLAF50D"
+          data: "glass/cdgm/H-ZLAF50D.yml"
+        - PAGE: H-ZLAF50E
+          name: "H-ZLAF50E"
+          data: "glass/cdgm/H-ZLAF50E.yml"
+        - PAGE: H-ZLAF51
+          name: "H-ZLAF51"
+          data: "glass/cdgm/H-ZLAF51.yml"
+        - PAGE: D-ZLAF52LA
+          name: "D-ZLAF52LA"
+          data: "glass/cdgm/D-ZLAF52LA.yml"
+        - PAGE: H-ZLAF52
+          name: "H-ZLAF52"
+          data: "glass/cdgm/H-ZLAF52.yml"
+        - PAGE: H-ZLAF52A
+          name: "H-ZLAF52A"
+          data: "glass/cdgm/H-ZLAF52A.yml"
+        - PAGE: H-ZLAF53B
+          name: "H-ZLAF53B"
+          data: "glass/cdgm/H-ZLAF53B.yml"
+        - PAGE: H-ZLAF53BGT
+          name: "H-ZLAF53BGT"
+          data: "glass/cdgm/H-ZLAF53BGT.yml"
+        - PAGE: H-ZLAF55C
+          name: "H-ZLAF55C"
+          data: "glass/cdgm/H-ZLAF55C.yml"
+        - PAGE: H-ZLAF55D
+          name: "H-ZLAF55D"
+          data: "glass/cdgm/H-ZLAF55D.yml"
+        - PAGE: H-ZLAF56B
+          name: "H-ZLAF56B"
+          data: "glass/cdgm/H-ZLAF56B.yml"
+        - PAGE: D-ZLAF61
+          name: "D-ZLAF61"
+          data: "glass/cdgm/D-ZLAF61.yml"
+        - PAGE: H-ZLAF66
+          name: "H-ZLAF66"
+          data: "glass/cdgm/H-ZLAF66.yml"
+        - PAGE: H-ZLAF66GT
+          name: "H-ZLAF66GT"
+          data: "glass/cdgm/H-ZLAF66GT.yml"
+        - PAGE: D-ZLAF67
+          name: "D-ZLAF67"
+          data: "glass/cdgm/D-ZLAF67.yml"
+        - PAGE: H-ZLAF68B
+          name: "H-ZLAF68B"
+          data: "glass/cdgm/H-ZLAF68B.yml"
+        - PAGE: H-ZLAF68C
+          name: "H-ZLAF68C"
+          data: "glass/cdgm/H-ZLAF68C.yml"
+        - PAGE: H-ZLAF68N
+          name: "H-ZLAF68N"
+          data: "glass/cdgm/H-ZLAF68N.yml"
+        - PAGE: H-ZLAF69
+          name: "H-ZLAF69"
+          data: "glass/cdgm/H-ZLAF69.yml"
+        - PAGE: H-ZLAF71
+          name: "H-ZLAF71"
+          data: "glass/cdgm/H-ZLAF71.yml"
+        - PAGE: H-ZLAF75A
+          name: "H-ZLAF75A"
+          data: "glass/cdgm/H-ZLAF75A.yml"
+        - PAGE: H-ZLAF75B
+          name: "H-ZLAF75B"
+          data: "glass/cdgm/H-ZLAF75B.yml"
+        - PAGE: H-ZLAF76
+          name: "H-ZLAF76"
+          data: "glass/cdgm/H-ZLAF76.yml"
+        - PAGE: H-ZLAF78B
+          name: "H-ZLAF78B"
+          data: "glass/cdgm/H-ZLAF78B.yml"
+        - PAGE: D-ZLAF81
+          name: "D-ZLAF81"
+          data: "glass/cdgm/D-ZLAF81.yml"
+        - PAGE: D-ZLAF85L
+          name: "D-ZLAF85L"
+          data: "glass/cdgm/D-ZLAF85L.yml"
+        - PAGE: H-ZLAF89L
+          name: "H-ZLAF89L"
+          data: "glass/cdgm/H-ZLAF89L.yml"
+        - PAGE: H-ZLAF90
+          name: "H-ZLAF90"
+          data: "glass/cdgm/H-ZLAF90.yml"
+        - PAGE: H-ZLAF92
+          name: "H-ZLAF92"
+          data: "glass/cdgm/H-ZLAF92.yml"
+    - BOOK: CDGM-KF
+      name: "CDGM - KF (Crownflint)"
+      info: "glass/CDGM.html"
+      content:
+        - PAGE: H-KF6
+          name: "H-KF6"
+          data: "glass/cdgm/H-KF6.yml"
     - DIVIDER: "Optical glass - HOYA"
-    - BOOK: HOYA-FC
-      name: "HOYA - FC (Fluor crown)"
-      info: "glass/HOYA.html"
-      content:
-        - PAGE: FC5
-          name: "FC5"
-          data: "glass/hoya/FC5.yml"
-    - BOOK: HOYA-FCD
-      name: "HOYA - FCD (Dense fluor crown)"
-      info: "glass/HOYA.html"
-      content:
-        - PAGE: FCD1
-          name: "FCD1"
-          data: "glass/hoya/FCD1.yml"
-        - PAGE: FCD10
-          name: "FCD10"
-          data: "glass/hoya/FCD10.yml"
-    - BOOK: HOYA-PCD
-      name: "HOYA - PCD (Dense phosphate crown)"
-      info: "glass/HOYA.html"
-      content:
-        - PAGE: PCD4
-          name: "PCD4"
-          data: "glass/hoya/PCD4.yml"
-        - PAGE: M-PCD4
-          name: "M-PCD4"
-          data: "glass/hoya/M-PCD4.yml"
-        - PAGE: M-PCD51
-          name: "M-PCD51"
-          data: "glass/hoya/M-PCD51.yml"
-    - BOOK: HOYA-BSD
-      name: "HOYA - BSD (Boro silicate crown)"
-      info: "glass/HOYA.html"
-      content:
-        - PAGE: BSC7
-          name: "BSC7"
-          data: "glass/hoya/BSC7.yml"
-          info: "glass/BK7.html"
     - BOOK: HOYA-C
       name: "HOYA - C (Crown)"
       info: "glass/HOYA.html"
@@ -5952,6 +6203,21 @@
         - PAGE: E-C3
           name: "E-C3"
           data: "glass/hoya/E-C3.yml"
+    - BOOK: HOYA-ADC
+      name: "HOYA - ADC (Abnormal dispersion crown)"
+      info: "glass/HOYA.html"
+      content:
+        - PAGE: ADC1
+          name: "ADC1"
+          data: "glass/hoya/ADC1.yml"
+    - BOOK: HOYA-BSD
+      name: "HOYA - BSD (Borosilicate crown)"
+      info: "glass/HOYA.html"
+      content:
+        - PAGE: BSC7
+          name: "BSC7"
+          data: "glass/hoya/BSC7.yml"
+          info: "glass/BK7.html"
     - BOOK: HOYA-BaC
       name: "HOYA - BaC (Barium crown)"
       info: "glass/HOYA.html"
@@ -6009,13 +6275,23 @@
         - PAGE: E-BACED20
           name: "E-BACED20"
           data: "glass/hoya/E-BACED20.yml"
-    - BOOK: HOYA-LaCL
-      name: "HOYA - LaCL (Light lanthanum crown)"
+    - BOOK: HOYA-FC
+      name: "HOYA - FC (Fluor crown)"
       info: "glass/HOYA.html"
       content:
-        - PAGE: LACL60
-          name: "LACL60"
-          data: "glass/hoya/LACL60.yml"
+        - PAGE: FC5
+          name: "FC5"
+          data: "glass/hoya/FC5.yml"
+    - BOOK: HOYA-FCD
+      name: "HOYA - FCD (Dense fluor crown)"
+      info: "glass/HOYA.html"
+      content:
+        - PAGE: FCD1
+          name: "FCD1"
+          data: "glass/hoya/FCD1.yml"
+        - PAGE: FCD10
+          name: "FCD10"
+          data: "glass/hoya/FCD10.yml"
     - BOOK: HOYA-LaC
       name: "HOYA - LaC (Lanthanum crown)"
       info: "glass/HOYA.html"
@@ -6044,6 +6320,33 @@
         - PAGE: M-LAC130
           name: "M-LAC130"
           data: "glass/hoya/M-LAC130.yml"
+    - BOOK: HOYA-LaCL
+      name: "HOYA - LaCL (Light lanthanum crown)"
+      info: "glass/HOYA.html"
+      content:
+        - PAGE: LACL60
+          name: "LACL60"
+          data: "glass/hoya/LACL60.yml"
+    - BOOK: HOYA-LBC
+      name: "HOYA - LBC"
+      info: "glass/HOYA.html"
+      content:
+        - PAGE: LBC3N
+          name: "LBC3N"
+          data: "glass/hoya/LBC3N.yml"
+    - BOOK: HOYA-PCD
+      name: "HOYA - PCD (Dense phosphate crown)"
+      info: "glass/HOYA.html"
+      content:
+        - PAGE: PCD4
+          name: "PCD4"
+          data: "glass/hoya/PCD4.yml"
+        - PAGE: M-PCD4
+          name: "M-PCD4"
+          data: "glass/hoya/M-PCD4.yml"
+        - PAGE: M-PCD51
+          name: "M-PCD51"
+          data: "glass/hoya/M-PCD51.yml"
     - BOOK: HOYA-TaC
       name: "HOYA - TaC (Tantalum crown)"
       info: "glass/HOYA.html"
@@ -6060,50 +6363,6 @@
         - PAGE: TAC8
           name: "TAC8"
           data: "glass/hoya/TAC8.yml"
-    - BOOK: HOYA-CF
-      name: "HOYA - CF (Crown flint)"
-      info: "glass/HOYA.html"
-      content:
-        - PAGE: E-CF6
-          name: "E-CF6"
-          data: "glass/hoya/E-CF6.yml"
-    - BOOK: HOYA-FEL
-      name: "HOYA - FEL (Extra light flint)"
-      info: "glass/HOYA.html"
-      content:
-        - PAGE: E-FEL1
-          name: "E-FEL1"
-          data: "glass/hoya/E-FEL1.yml"
-        - PAGE: E-FEL2
-          name: "E-FEL2"
-          data: "glass/hoya/E-FEL2.yml"
-        - PAGE: E-FEL6
-          name: "E-FEL6"
-          data: "glass/hoya/E-FEL6.yml"
-    - BOOK: HOYA-BaF
-      name: "HOYA - BaF (Barium flint)"
-      info: "glass/HOYA.html"
-      content:
-        - PAGE: BAF10
-          name: "BAF10"
-          data: "glass/hoya/BAF10.yml"
-          info: "glass/BAF10.html"
-        - PAGE: BAF11
-          name: "BAF11"
-          data: "glass/hoya/BAF11.yml"
-        - PAGE: E-BAF8
-          name: "E-BAF8"
-          data: "glass/hoya/E-BAF8.yml"
-    - BOOK: HOYA-FL
-      name: "HOYA - FL (Light flint)"
-      info: "glass/HOYA-FL.html"
-      content:
-        - PAGE: E-FL5
-          name: "E-FL5"
-          data: "glass/hoya/E-FL5.yml"
-        - PAGE: E-FL6
-          name: "E-FL6"
-          data: "glass/hoya/E-FL6.yml"
     - BOOK: HOYA-F
       name: "HOYA - F (Flint)"
       info: "glass/HOYA.html"
@@ -6123,19 +6382,29 @@
         - PAGE: E-F8
           name: "E-F8"
           data: "glass/hoya/E-F8.yml"
-    - BOOK: HOYA-BaFD
-      name: "HOYA - BaFD (Dense barium flint)"
+    - BOOK: HOYA-FL
+      name: "HOYA - FL (Light flint)"
+      info: "glass/HOYA-FL.html"
+      content:
+        - PAGE: E-FL5
+          name: "E-FL5"
+          data: "glass/hoya/E-FL5.yml"
+        - PAGE: E-FL6
+          name: "E-FL6"
+          data: "glass/hoya/E-FL6.yml"
+    - BOOK: HOYA-FEL
+      name: "HOYA - FEL (Extra light flint)"
       info: "glass/HOYA.html"
       content:
-        - PAGE: BAFD7
-          name: "BAFD7"
-          data: "glass/hoya/BAFD7.yml"
-        - PAGE: BAFD8
-          name: "BAFD8"
-          data: "glass/hoya/BAFD8.yml"
-        - PAGE: BAFD15
-          name: "BAFD15"
-          data: "glass/hoya/BAFD15.yml"
+        - PAGE: E-FEL1
+          name: "E-FEL1"
+          data: "glass/hoya/E-FEL1.yml"
+        - PAGE: E-FEL2
+          name: "E-FEL2"
+          data: "glass/hoya/E-FEL2.yml"
+        - PAGE: E-FEL6
+          name: "E-FEL6"
+          data: "glass/hoya/E-FEL6.yml"
     - BOOK: HOYA-FD
       name: "HOYA - FD (Dense flint)"
       info: "glass/HOYA.html"
@@ -6203,6 +6472,43 @@
         - PAGE: M-FDS910
           name: "M-FDS910"
           data: "glass/hoya/M-FDS910.yml"
+    - BOOK: HOYA-ADF
+      name: "HOYA - ADF (Abnormal dispersion flint)"
+      info: "glass/HOYA.html"
+      content:
+        - PAGE: E-ADF10
+          name: "E-ADF10"
+          data: "glass/hoya/E-ADF10.yml"
+        - PAGE: E-ADF50
+          name: "E-ADF50"
+          data: "glass/hoya/E-ADF50.yml"
+    - BOOK: HOYA-BaF
+      name: "HOYA - BaF (Barium flint)"
+      info: "glass/HOYA.html"
+      content:
+        - PAGE: BAF10
+          name: "BAF10"
+          data: "glass/hoya/BAF10.yml"
+          info: "glass/BAF10.html"
+        - PAGE: BAF11
+          name: "BAF11"
+          data: "glass/hoya/BAF11.yml"
+        - PAGE: E-BAF8
+          name: "E-BAF8"
+          data: "glass/hoya/E-BAF8.yml"
+    - BOOK: HOYA-BaFD
+      name: "HOYA - BaFD (Dense barium flint)"
+      info: "glass/HOYA.html"
+      content:
+        - PAGE: BAFD7
+          name: "BAFD7"
+          data: "glass/hoya/BAFD7.yml"
+        - PAGE: BAFD8
+          name: "BAFD8"
+          data: "glass/hoya/BAFD8.yml"
+        - PAGE: BAFD15
+          name: "BAFD15"
+          data: "glass/hoya/BAFD15.yml"
     - BOOK: HOYA-FF
       name: "HOYA - FF (Fluor flint)"
       info: "glass/HOYA.html"
@@ -6213,13 +6519,6 @@
         - PAGE: FF8
           name: "FF8"
           data: "glass/hoya/FF8.yml"
-    - BOOK: HOYA-LaFL
-      name: "HOYA - LaFL (Light lanthanum flint)"
-      info: "glass/HOYA.html"
-      content:
-        - PAGE: LAFL2
-          name: "LAFL2"
-          data: "glass/hoya/LAFL2.yml"
     - BOOK: HOYA-LaF
       name: "HOYA - LaF (Lanthanum flint)"
       info: "glass/HOYA.html"
@@ -6236,6 +6535,13 @@
         - PAGE: M-LAF81
           name: "M-LAF81"
           data: "glass/hoya/M-LAF81.yml"
+    - BOOK: HOYA-LaFL
+      name: "HOYA - LaFL (Light lanthanum flint)"
+      info: "glass/HOYA.html"
+      content:
+        - PAGE: LAFL2
+          name: "LAFL2"
+          data: "glass/hoya/LAFL2.yml"
     - BOOK: HOYA-NbF
       name: "HOYA - NbF (Niobium flint)"
       info: "glass/HOYA.html"
@@ -6249,34 +6555,6 @@
         - PAGE: M-NBF1
           name: "M-NBF1"
           data: "glass/hoya/M-NBF1.yml"
-    - BOOK: HOYA-TaF
-      name: "HOYA - TaF (Tantalum flint)"
-      info: "glass/HOYA.html"
-      content:
-        - PAGE: TAF1
-          name: "TAF1"
-          data: "glass/hoya/TAF1.yml"
-        - PAGE: TAF2
-          name: "TAF2"
-          data: "glass/hoya/TAF2.yml"
-        - PAGE: TAF3
-          name: "TAF3"
-          data: "glass/hoya/TAF3.yml"
-        - PAGE: TAF4
-          name: "TAF4"
-          data: "glass/hoya/TAF4.yml"
-        - PAGE: TAF5
-          name: "TAF5"
-          data: "glass/hoya/TAF5.yml"
-        - PAGE: M-TAF31
-          name: "M-TAF31"
-          data: "glass/hoya/M-TAF31.yml"
-        - PAGE: M-TAF101
-          name: "M-TAF101"
-          data: "glass/hoya/M-TAF101.yml"
-        - PAGE: M-TAF401
-          name: "M-TAF401"
-          data: "glass/hoya/M-TAF401.yml"
     - BOOK: HOYA-NbFD
       name: "HOYA - NbFD (Dense niobium flint)"
       info: "glass/HOYA.html"
@@ -6308,6 +6586,34 @@
         - PAGE: M-NBFD130
           name: "M-NBFD130"
           data: "glass/hoya/M-NBFD130.yml"
+    - BOOK: HOYA-TaF
+      name: "HOYA - TaF (Tantalum flint)"
+      info: "glass/HOYA.html"
+      content:
+        - PAGE: TAF1
+          name: "TAF1"
+          data: "glass/hoya/TAF1.yml"
+        - PAGE: TAF2
+          name: "TAF2"
+          data: "glass/hoya/TAF2.yml"
+        - PAGE: TAF3
+          name: "TAF3"
+          data: "glass/hoya/TAF3.yml"
+        - PAGE: TAF4
+          name: "TAF4"
+          data: "glass/hoya/TAF4.yml"
+        - PAGE: TAF5
+          name: "TAF5"
+          data: "glass/hoya/TAF5.yml"
+        - PAGE: M-TAF31
+          name: "M-TAF31"
+          data: "glass/hoya/M-TAF31.yml"
+        - PAGE: M-TAF101
+          name: "M-TAF101"
+          data: "glass/hoya/M-TAF101.yml"
+        - PAGE: M-TAF401
+          name: "M-TAF401"
+          data: "glass/hoya/M-TAF401.yml"
     - BOOK: HOYA-TaFD
       name: "HOYA - TaFD (Dense tantalum flint)"
       info: "glass/HOYA.html"
@@ -6333,53 +6639,14 @@
         - PAGE: M-TAFD305
           name: "M-TAFD305"
           data: "glass/hoya/M-TAFD305.yml"
-    - BOOK: HOYA-ADC
-      name: "HOYA - ADC (Abnormal dispersion crown)"
+    - BOOK: HOYA-CF
+      name: "HOYA - CF (Crownflint)"
       info: "glass/HOYA.html"
       content:
-        - PAGE: ADC1
-          name: "ADC1"
-          data: "glass/hoya/ADC1.yml"
-    - BOOK: HOYA-ADF
-      name: "HOYA - ADF (Abnormal dispersion flint)"
-      info: "glass/HOYA.html"
-      content:
-        - PAGE: E-ADF10
-          name: "E-ADF10"
-          data: "glass/hoya/E-ADF10.yml"
-        - PAGE: E-ADF50
-          name: "E-ADF50"
-          data: "glass/hoya/E-ADF50.yml"
-    - BOOK: HOYA-LBC
-      name: "HOYA - LBC"
-      info: "glass/HOYA.html"
-      content:
-        - PAGE: LBC3N
-          name: "LBC3N"
-          data: "glass/hoya/LBC3N.yml"
+        - PAGE: E-CF6
+          name: "E-CF6"
+          data: "glass/hoya/E-CF6.yml"
     - DIVIDER: "Optical glass - SUMITA"
-    - BOOK: SUMITA-FK
-      name: "SUMITA - FK (Fluorite crown)"
-      info: "glass/SUMITA.html"
-      content:
-        - PAGE: K-FK5
-          name: "K-FK5"
-          data: "glass/sumita/K-FK5.yml"
-    - BOOK: SUMITA-PSK
-      name: "SUMITA - PSK (Dense phosphate crown)"
-      info: "glass/SUMITA.html"
-      content:
-        - PAGE: K-PSKn2
-          name: "K-PSKn2"
-          data: "glass/sumita/K-PSKn2.yml"
-    - BOOK: SUMITA-BK
-      name: "SUMITA - BK Borosilicate crown)"
-      info: "glass/SUMITA.html"
-      content:
-        - PAGE: K-BK7
-          name: "K-BK7"
-          data: "glass/sumita/K-BK7.yml"
-          info: "glass/BK7.html"
     - BOOK: SUMITA-SK
       name: "SUMITA - SK (Dense crown)"
       info: "glass/SUMITA.html"
@@ -6411,98 +6678,21 @@
         - PAGE: K-SK18RH
           name: "K-SK18RH"
           data: "glass/sumita/K-SK18RH.yml"
-    - BOOK: SUMITA-BPG
-      name: "SUMITA - BPG"
+    - BOOK: SUMITA-BK
+      name: "SUMITA - BK (Borosilicate crown)"
       info: "glass/SUMITA.html"
       content:
-        - PAGE: K-BPG2
-          name: "K-BPG2"
-          data: "glass/sumita/K-BPG2.yml"
-    - BOOK: SUMITA-SSK
-      name: "SUMITA - SSK (Very dense flint)"
+        - PAGE: K-BK7
+          name: "K-BK7"
+          data: "glass/sumita/K-BK7.yml"
+          info: "glass/BK7.html"
+    - BOOK: SUMITA-FK
+      name: "SUMITA - FK (Fluor crown)"
       info: "glass/SUMITA.html"
       content:
-        - PAGE: K-SSK1
-          name: "K-SSK1"
-          data: "glass/sumita/K-SSK1.yml"
-        - PAGE: K-SSK3
-          name: "K-SSK3"
-          data: "glass/sumita/K-SSK3.yml"
-        - PAGE: K-SSK4
-          name: "K-SSK4"
-          data: "glass/sumita/K-SSK4.yml"
-        - PAGE: K-SSK9
-          name: "K-SSK9"
-          data: "glass/sumita/K-SSK9.yml"
-    - BOOK: SUMITA-BaF
-      name: "SUMITA - BaF (Barium flint)"
-      info: "glass/SUMITA.html"
-      content:
-        - PAGE: K-BaF8
-          name: "K-BaF8"
-          data: "glass/sumita/K-BaF8.yml"
-        - PAGE: K-BaF9
-          name: "K-BaF9"
-          data: "glass/sumita/K-BaF9.yml"
-        - PAGE: K-BaFn1
-          name: "K-BaFn1"
-          data: "glass/sumita/K-BaFn1.yml"
-        - PAGE: K-BaFn3
-          name: "K-BaFn3"
-          data: "glass/sumita/K-BaFn3.yml"
-    - BOOK: SUMITA-BaSF
-      name: "SUMITA - BaSF (Barium dense flint)"
-      info: "glass/SUMITA.html"
-      content:
-        - PAGE: K-BaSF4
-          name: "K-BaSF4"
-          data: "glass/sumita/K-BaSF4.yml"
-        - PAGE: K-BaSF5
-          name: "K-BaSF5"
-          data: "glass/sumita/K-BaSF5.yml"
-        - PAGE: K-BaSF12
-          name: "K-BaSF12"
-          data: "glass/sumita/K-BaSF12.yml"
-    - BOOK: SUMITA-SFLD
-      name: "SUMITA - SFLD"
-      info: "glass/SUMITA.html"
-      content:
-        - PAGE: K-SFLD1
-          name: "K-SFLD1"
-          data: "glass/sumita/K-SFLD1.yml"
-        - PAGE: K-SFLD2
-          name: "K-SFLD2"
-          data: "glass/sumita/K-SFLD2.yml"
-        - PAGE: K-SFLD4
-          name: "K-SFLD4"
-          data: "glass/sumita/K-SFLD4.yml"
-        - PAGE: K-SFLD5
-          name: "K-SFLD5"
-          data: "glass/sumita/K-SFLD5.yml"
-          info: "glass/SF5.html"
-        - PAGE: K-SFLD6
-          name: "K-SFLD6"
-          data: "glass/sumita/K-SFLD6.yml"
-        - PAGE: K-SFLD8
-          name: "K-SFLD8"
-          data: "glass/sumita/K-SFLD8.yml"
-        - PAGE: K-SFLD10
-          name: "K-SFLD10"
-          data: "glass/sumita/K-SFLD10.yml"
-          info: "glass/SF10.html"
-        - PAGE: K-SFLD11
-          name: "K-SFLD11"
-          data: "glass/sumita/K-SFLD11.yml"
-          info: "glass/SF11.html"
-        - PAGE: K-SFLD14
-          name: "K-SFLD14"
-          data: "glass/sumita/K-SFLD14.yml"
-        - PAGE: K-SFLD66
-          name: "K-SFLD66"
-          data: "glass/sumita/K-SFLD66.yml"
-        - PAGE: K-SFLDn3
-          name: "K-SFLDn3"
-          data: "glass/sumita/K-SFLDn3.yml"
+        - PAGE: K-FK5
+          name: "K-FK5"
+          data: "glass/sumita/K-FK5.yml"
     - BOOK: SUMITA-LaK
       name: "SUMITA - LaK (Lanthanum crown)"
       info: "glass/SUMITA.html"
@@ -6556,6 +6746,58 @@
         - PAGE: K-LaSKn1
           name: "K-LaSKn1"
           data: "glass/sumita/K-LaSKn1.yml"
+    - BOOK: SUMITA-PSK
+      name: "SUMITA - PSK (Dense phosphate crown)"
+      info: "glass/SUMITA.html"
+      content:
+        - PAGE: K-PSKn2
+          name: "K-PSKn2"
+          data: "glass/sumita/K-PSKn2.yml"
+    - BOOK: SUMITA-SSK
+      name: "SUMITA - SSK (Very dense flint)"
+      info: "glass/SUMITA.html"
+      content:
+        - PAGE: K-SSK1
+          name: "K-SSK1"
+          data: "glass/sumita/K-SSK1.yml"
+        - PAGE: K-SSK3
+          name: "K-SSK3"
+          data: "glass/sumita/K-SSK3.yml"
+        - PAGE: K-SSK4
+          name: "K-SSK4"
+          data: "glass/sumita/K-SSK4.yml"
+        - PAGE: K-SSK9
+          name: "K-SSK9"
+          data: "glass/sumita/K-SSK9.yml"
+    - BOOK: SUMITA-BaF
+      name: "SUMITA - BaF (Barium flint)"
+      info: "glass/SUMITA.html"
+      content:
+        - PAGE: K-BaF8
+          name: "K-BaF8"
+          data: "glass/sumita/K-BaF8.yml"
+        - PAGE: K-BaF9
+          name: "K-BaF9"
+          data: "glass/sumita/K-BaF9.yml"
+        - PAGE: K-BaFn1
+          name: "K-BaFn1"
+          data: "glass/sumita/K-BaFn1.yml"
+        - PAGE: K-BaFn3
+          name: "K-BaFn3"
+          data: "glass/sumita/K-BaFn3.yml"
+    - BOOK: SUMITA-BaSF
+      name: "SUMITA - BaSF (Barium dense flint)"
+      info: "glass/SUMITA.html"
+      content:
+        - PAGE: K-BaSF4
+          name: "K-BaSF4"
+          data: "glass/sumita/K-BaSF4.yml"
+        - PAGE: K-BaSF5
+          name: "K-BaSF5"
+          data: "glass/sumita/K-BaSF5.yml"
+        - PAGE: K-BaSF12
+          name: "K-BaSF12"
+          data: "glass/sumita/K-BaSF12.yml"
     - BOOK: SUMITA-LaF
       name: "SUMITA - LaF (Lanthanum flint)"
       info: "glass/SUMITA.html"
@@ -6630,6 +6872,53 @@
         - PAGE: K-LaSFn22
           name: "K-LaSFn22"
           data: "glass/sumita/K-LaSFn22.yml"
+    - BOOK: SUMITA-SFLD
+      name: "SUMITA - SFLD"
+      info: "glass/SUMITA.html"
+      content:
+        - PAGE: K-SFLD1
+          name: "K-SFLD1"
+          data: "glass/sumita/K-SFLD1.yml"
+        - PAGE: K-SFLD2
+          name: "K-SFLD2"
+          data: "glass/sumita/K-SFLD2.yml"
+        - PAGE: K-SFLD4
+          name: "K-SFLD4"
+          data: "glass/sumita/K-SFLD4.yml"
+        - PAGE: K-SFLD5
+          name: "K-SFLD5"
+          data: "glass/sumita/K-SFLD5.yml"
+          info: "glass/SF5.html"
+        - PAGE: K-SFLD6
+          name: "K-SFLD6"
+          data: "glass/sumita/K-SFLD6.yml"
+        - PAGE: K-SFLD8
+          name: "K-SFLD8"
+          data: "glass/sumita/K-SFLD8.yml"
+        - PAGE: K-SFLD10
+          name: "K-SFLD10"
+          data: "glass/sumita/K-SFLD10.yml"
+          info: "glass/SF10.html"
+        - PAGE: K-SFLD11
+          name: "K-SFLD11"
+          data: "glass/sumita/K-SFLD11.yml"
+          info: "glass/SF11.html"
+        - PAGE: K-SFLD14
+          name: "K-SFLD14"
+          data: "glass/sumita/K-SFLD14.yml"
+        - PAGE: K-SFLD66
+          name: "K-SFLD66"
+          data: "glass/sumita/K-SFLD66.yml"
+        - PAGE: K-SFLDn3
+          name: "K-SFLDn3"
+          data: "glass/sumita/K-SFLDn3.yml"
+    - BOOK: SUMITA-BPG
+      name: "SUMITA - BPG"
+      info: "glass/SUMITA.html"
+      content:
+        - PAGE: K-BPG2
+          name: "K-BPG2"
+          data: "glass/sumita/K-BPG2.yml"
     - BOOK: SUMITA-molding
       name: "SUMITA - Glasses for precision molding"
       info: "glass/SUMITA.html"
@@ -6749,6 +7038,14 @@
           name: "K-ZnSF8"
           data: "glass/sumita/K-ZnSF8.yml"
     - DIVIDER: "Optical glass - LZOS"
+    - BOOK: LZOS-K
+      name: "LZOS - K (Crown)"
+      info: "glass/LZOS.html"
+      content:
+        - PAGE: K8
+          name: "K8"
+          data: "glass/lzos/K8.yml"
+          info: "glass/BK7.html"
     - BOOK: LZOS-LK
       name: "LZOS - LK (Light crown)"
       info: "glass/LZOS.html"
@@ -6765,30 +7062,6 @@
         - PAGE: LK7
           name: "LK7"
           data: "glass/lzos/LK7.yml"
-    - BOOK: LZOS-K
-      name: "LZOS - K (Crown)"
-      info: "glass/LZOS.html"
-      content:
-        - PAGE: K8
-          name: "K8"
-          data: "glass/lzos/K8.yml"
-          info: "glass/BK7.html"
-    - BOOK: LZOS-BK
-      name: "LZOS - BK (Barium crown)"
-      info: "glass/LZOS.html"
-      content:
-        - PAGE: BK4
-          name: "BK4"
-          data: "glass/lzos/BK4.yml"
-        - PAGE: BK6
-          name: "BK6"
-          data: "glass/lzos/BK6.yml"
-        - PAGE: BK8
-          name: "BK8"
-          data: "glass/lzos/BK8.yml"
-        - PAGE: BK10
-          name: "BK10"
-          data: "glass/lzos/BK10.yml"
     - BOOK: LZOS-TK
       name: "LZOS - TK (Dense crown)"
       info: "glass/LZOS.html"
@@ -6846,57 +7119,22 @@
         - PAGE: OK4
           name: "OK4"
           data: "glass/lzos/OK4.yml"
-    - BOOK: LZOS-KF
-      name: "LZOS - KF (Crown flint)"
+    - BOOK: LZOS-BK
+      name: "LZOS - BK (Barium crown)"
       info: "glass/LZOS.html"
       content:
-        - PAGE: KF6
-          name: "KF6"
-          data: "glass/lzos/KF6.yml"
-        - PAGE: KF7
-          name: "KF7"
-          data: "glass/lzos/KF7.yml"
-    - BOOK: LZOS-BF
-      name: "LZOS - BF (Barium flint)"
-      info: "glass/LZOS.html"
-      content:
-        - PAGE: BF1
-          name: "BF1"
-          data: "glass/lzos/BF1.yml"
-        - PAGE: BF8
-          name: "BF8"
-          data: "glass/lzos/BF8.yml"
-        - PAGE: BF11
-          name: "BF11"
-          data: "glass/lzos/BF11.yml"
-        - PAGE: BF16
-          name: "BF16"
-          data: "glass/lzos/BF16.yml"
-        - PAGE: BF21
-          name: "BF21"
-          data: "glass/lzos/BF21.yml"
-        - PAGE: BF24
-          name: "BF24"
-          data: "glass/lzos/BF24.yml"
-        - PAGE: BF25
-          name: "BF25"
-          data: "glass/lzos/BF25.yml"
-        - PAGE: BF28
-          name: "BF28"
-          data: "glass/lzos/BF28.yml"
-    - BOOK: LZOS-LF
-      name: "LZOS - LF (Light flint)"
-      info: "glass/LZOS.html"
-      content:
-        - PAGE: LF5
-          name: "LF5"
-          data: "glass/lzos/LF5.yml"
-        - PAGE: LF7
-          name: "LF7"
-          data: "glass/lzos/LF7.yml"
-        - PAGE: LF9
-          name: "LF9"
-          data: "glass/lzos/LF9.yml"
+        - PAGE: BK4
+          name: "BK4"
+          data: "glass/lzos/BK4.yml"
+        - PAGE: BK6
+          name: "BK6"
+          data: "glass/lzos/BK6.yml"
+        - PAGE: BK8
+          name: "BK8"
+          data: "glass/lzos/BK8.yml"
+        - PAGE: BK10
+          name: "BK10"
+          data: "glass/lzos/BK10.yml"
     - BOOK: LZOS-F
       name: "LZOS - F (Flint)"
       info: "glass/LZOS.html"
@@ -6916,6 +7154,19 @@
         - PAGE: F13
           name: "F13"
           data: "glass/lzos/F13.yml"
+    - BOOK: LZOS-LF
+      name: "LZOS - LF (Light flint)"
+      info: "glass/LZOS.html"
+      content:
+        - PAGE: LF5
+          name: "LF5"
+          data: "glass/lzos/LF5.yml"
+        - PAGE: LF7
+          name: "LF7"
+          data: "glass/lzos/LF7.yml"
+        - PAGE: LF9
+          name: "LF9"
+          data: "glass/lzos/LF9.yml"
     - BOOK: LZOS-TF
       name: "LZOS - TF (Dense flint)"
       info: "glass/LZOS.html"
@@ -6951,6 +7202,44 @@
         - PAGE: OF1
           name: "OF1"
           data: "glass/lzos/OF1.yml"
+    - BOOK: LZOS-BF
+      name: "LZOS - BF (Barium flint)"
+      info: "glass/LZOS.html"
+      content:
+        - PAGE: BF1
+          name: "BF1"
+          data: "glass/lzos/BF1.yml"
+        - PAGE: BF8
+          name: "BF8"
+          data: "glass/lzos/BF8.yml"
+        - PAGE: BF11
+          name: "BF11"
+          data: "glass/lzos/BF11.yml"
+        - PAGE: BF16
+          name: "BF16"
+          data: "glass/lzos/BF16.yml"
+        - PAGE: BF21
+          name: "BF21"
+          data: "glass/lzos/BF21.yml"
+        - PAGE: BF24
+          name: "BF24"
+          data: "glass/lzos/BF24.yml"
+        - PAGE: BF25
+          name: "BF25"
+          data: "glass/lzos/BF25.yml"
+        - PAGE: BF28
+          name: "BF28"
+          data: "glass/lzos/BF28.yml"
+    - BOOK: LZOS-KF
+      name: "LZOS - KF (Crownflint)"
+      info: "glass/LZOS.html"
+      content:
+        - PAGE: KF6
+          name: "KF6"
+          data: "glass/lzos/KF6.yml"
+        - PAGE: KF7
+          name: "KF7"
+          data: "glass/lzos/KF7.yml"
 - SHELF: other
   name: "OTHER - miscellaneous materials"
   content:

@@ -2,9 +2,54 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "<a href=\"http://www.cdgmgd.com/en/asp/\">CDGM Optical Glass Products Database</a>"
-COMMENTS: "Refractive index is relative to air at standard conditions; Wavelength in dispersion formula is as measured in air and expressed in micrometers"
+REFERENCES: "<a href=\"http://refractiveindex.info/download/data/2017/CDGM-ZEMAX201709.agf\">CDGM Zemax catalog 2017-09</a>"
 DATA:
-  - type: formula 3
-    range: 0.365 0.7065
-    coefficients: 2.2327899 -2.3935783E-3 2 1.7551661E-2 -2 -1.596414E-3 -4 2.2482718E-4 -6 -1.0648924E-5 -8
+  - type: formula 3 
+    range: 0.365 1.014
+    coefficients: 2.24187488 -0.00891932146 2 0.0126251741 -2 -0.000298598739 -4 5.95648836e-05 -6 -2.58633231e-06 -8
+  - type: tabulated k
+    data: |
+        0.320 8.9294E-06
+        0.330 3.6405E-06
+        0.340 1.5209E-06
+        0.350 6.9202E-07
+        0.360 3.3384E-07
+        0.370 1.8218E-07
+        0.380 1.2030E-07
+        0.390 7.2215E-08
+        0.400 5.1341E-08
+        0.420 4.3734E-08
+        0.440 3.8729E-08
+        0.460 3.3094E-08
+        0.480 3.0681E-08
+        0.500 2.7950E-08
+        0.550 2.1939E-08
+        0.600 2.3933E-08
+        0.650 2.0732E-08
+        0.700 2.2326E-08
+        0.800 2.5516E-08
+        0.850 2.0323E-08
+        0.900 2.1518E-08
+        0.950 2.2714E-08
+        1.000 2.3909E-08
+        1.060 2.5344E-08
+        1.200 1.9118E-08
+        1.400 2.4783E-07
+        1.600 6.3822E-08
+        1.800 8.6203E-08
+        2.000 4.8477E-07
+        2.200 2.3979E-06
+        2.400 5.2414E-06
+SPECS:
+    n_is_absolute: false
+    λ_is_vacuum: false
+    temperature: 20.0 °C
+    coefficients_of_thermal_dispersion: 7.37e-06 2.2e-08 -6.81e-12 4.56e-07 4.32e-10 0.199
+    n_d: 1.508021
+    V_d: 61.061308
+    glass_code: 508611
+    density: 2.43 g/cm<sup>3</sup>
+    coefficient_of_thermal_expansion_1: 4.7e-06 K<sup>-1</sup>
+    coefficient_of_thermal_expansion_2: 5.2e-06 K<sup>-1</sup>
+    ΔP_gF: -0.0045
+    climatic_resistance: 1.0

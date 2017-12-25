@@ -7,6 +7,8 @@
     data files ('.yml') are moved from '/' to '/data' folder
     "path" key is replaced by "data" in 'library.yml'
     "INFO" key is replaced by "SPECS" in data files
+  new/updated data
+    glass/cdgm/* - updated to the latest zemax catalogue (obtained from cdgm web-site)
   new data (thanks to Naser Otman, Dalhousie University, Canada, for suggesting data!)
     main/Ag/Yang.yml
   new data(thanks to Matteo Pancaldi, nanoGUNE, San Sebastián, Spain, for suggesting data and initial submission in YAML format!
@@ -43,6 +45,7 @@
     page id's for Lemarchand's Au data changed to 'Lemarchand-3.96nm', 'Lemarchand-4.62nm', 'Lemarchand-5.77nm', and 'Lemarchand-11.7' (was simply 'Lemarcand' in all cases)
   miscellaneous
     colons in id's of several pages replaced by dashes (e.g. Mg:LiTaO3 -> Mg-LiTaO3)
+    optical glasses re-arranged in library.yml
 
 ============================== 2017-09-05 ==============================
   

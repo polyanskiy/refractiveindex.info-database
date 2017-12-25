@@ -2,9 +2,52 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "<a href=\"http://www.cdgmgd.com/en/asp/\">CDGM Optical Glass Products Database</a>"
-COMMENTS: "Refractive index is relative to air at standard conditions; Wavelength in dispersion formula is as measured in air and expressed in micrometers"
+REFERENCES: "<a href=\"http://refractiveindex.info/download/data/2017/CDGM-ZEMAX201709.agf\">CDGM Zemax catalog 2017-09</a>"
 DATA:
-  - type: formula 3
-    range: 0.365 0.7065
-    coefficients: 3.1633746 -1.327628E-2 2 3.1133309E-2 -2 8.352338E-4 -4 2.9980499E-6 -6 2.5568853E-6 -8
+  - type: formula 3 
+    range: 0.365 1.014
+    coefficients: 3.16163938 -0.0127262423 2 0.0325482205 -2 0.000373836955 -4 6.46085816e-05 -6 7.28177708e-08 -8
+  - type: tabulated k
+    data: |
+        0.340 1.0585E-05
+        0.350 4.4826E-06
+        0.360 1.8188E-06
+        0.370 8.4704E-07
+        0.380 4.5608E-07
+        0.390 2.9270E-07
+        0.400 1.8681E-07
+        0.420 1.0180E-07
+        0.440 6.3599E-08
+        0.460 2.5714E-08
+        0.480 2.6832E-08
+        0.500 1.1955E-08
+        0.550 1.3150E-08
+        0.600 1.4345E-08
+        0.650 1.5541E-08
+        0.700 1.6736E-08
+        0.800 1.9127E-08
+        0.850 6.7675E-09
+        0.900 7.1656E-09
+        0.950 7.5636E-09
+        1.000 7.9617E-09
+        1.060 8.4394E-09
+        1.200 9.5541E-09
+        1.400 3.3473E-08
+        1.600 5.1032E-08
+        1.800 1.4396E-07
+        2.000 4.8477E-07
+        2.200 1.4217E-06
+        2.400 5.8283E-06
+SPECS:
+    n_is_absolute: false
+    λ_is_vacuum: false
+    temperature: 20.0 °C
+    coefficients_of_thermal_dispersion: 8.54e-06 1.58e-08 -6.65e-11 6.98e-07 1.18e-09 0.253
+    n_d: 1.804505
+    V_d: 39.639509
+    glass_code: 805396
+    density: 4.41 g/cm<sup>3</sup>
+    coefficient_of_thermal_expansion_1: 5.2e-06 K<sup>-1</sup>
+    coefficient_of_thermal_expansion_2: 6.8e-06 K<sup>-1</sup>
+    ΔP_gF: -0.0052
+    climatic_resistance: 1.0

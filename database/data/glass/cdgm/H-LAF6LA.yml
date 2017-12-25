@@ -2,9 +2,53 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "<a href=\"http://www.cdgmgd.com/en/asp/\">CDGM Optical Glass Products Database</a>"
-COMMENTS: "Refractive index is relative to air at standard conditions; Wavelength in dispersion formula is as measured in air and expressed in micrometers"
+REFERENCES: "<a href=\"http://refractiveindex.info/download/data/2017/CDGM-ZEMAX201709.agf\">CDGM Zemax catalog 2017-09</a>"
 DATA:
-  - type: formula 3
-    range: 0.365 0.7065
-    coefficients: 3.0170177 -1.3625149E-2 2 2.4142489E-2 -2 5.9520693E-4 -4 -1.2146589E-5 -6 1.4445534E-6 -8
+  - type: formula 3 
+    range: 0.365 1.014
+    coefficients: 3.01970241 -0.0158473652 2 0.0227654052 -2 0.000979523125 -4 -6.86654467e-05 -6 4.74327269e-06 -8
+  - type: tabulated k
+    data: |
+        0.320 6.7718E-06
+        0.330 3.5375E-06
+        0.340 1.9859E-06
+        0.350 1.1998E-06
+        0.360 7.4875E-07
+        0.370 4.6814E-07
+        0.380 2.9851E-07
+        0.390 1.9864E-07
+        0.400 1.3658E-07
+        0.420 8.1192E-08
+        0.440 5.6476E-08
+        0.460 4.0489E-08
+        0.480 3.0681E-08
+        0.500 2.3945E-08
+        0.550 1.3150E-08
+        0.600 1.4345E-08
+        0.650 1.5541E-08
+        0.700 1.6736E-08
+        0.800 1.2745E-08
+        0.850 1.3542E-08
+        0.900 1.4338E-08
+        0.950 1.5135E-08
+        1.000 1.5931E-08
+        1.060 1.6887E-08
+        1.200 1.9118E-08
+        1.400 2.2304E-08
+        1.600 2.5490E-08
+        1.800 1.1505E-07
+        2.000 5.6702E-07
+        2.200 1.8057E-06
+        2.400 8.2273E-06
+SPECS:
+    n_is_absolute: false
+    λ_is_vacuum: false
+    temperature: 20.0 °C
+    n_d: 1.757003
+    V_d: 47.713789
+    glass_code: 757477
+    density: 4.06 g/cm<sup>3</sup>
+    coefficient_of_thermal_expansion_1: 5.7e-06 K<sup>-1</sup>
+    coefficient_of_thermal_expansion_2: 6.9e-06 K<sup>-1</sup>
+    ΔP_gF: -0.0098
+    climatic_resistance: 1.0

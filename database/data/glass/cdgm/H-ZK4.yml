@@ -2,9 +2,56 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "<a href=\"http://www.cdgmgd.com/en/asp/\">CDGM Optical Glass Products Database</a>"
-COMMENTS: "Refractive index is relative to air at standard conditions; Wavelength in dispersion formula is as measured in air and expressed in micrometers"
+REFERENCES: "<a href=\"http://refractiveindex.info/download/data/2017/CDGM-ZEMAX201709.agf\">CDGM Zemax catalog 2017-09</a>"
 DATA:
-  - type: formula 3
-    range: 0.365 0.7065
-    coefficients: 2.5471835 -1.0171432E-2 2 1.4459817E-2 -2 3.7319498E-4 -4 -2.157459E-5 -6 1.5112115E-6 -8
+  - type: formula 3 
+    range: 0.365 1.014
+    coefficients: 2.54489747 -0.00883488409 2 0.0159113795 -2 -5.14042928e-05 -4 3.62073286e-05 -6 -1.50010238e-06 -8
+  - type: tabulated k
+    data: |
+        0.300 8.3713E-06
+        0.310 5.4451E-06
+        0.320 3.2416E-06
+        0.330 1.8733E-06
+        0.340 1.0435E-06
+        0.350 5.8690E-07
+        0.360 3.3063E-07
+        0.370 1.8532E-07
+        0.380 1.1401E-07
+        0.390 7.8574E-08
+        0.400 5.1341E-08
+        0.420 3.6968E-08
+        0.440 3.1655E-08
+        0.460 2.9402E-08
+        0.480 2.6832E-08
+        0.500 2.3945E-08
+        0.550 1.7542E-08
+        0.600 2.3933E-08
+        0.650 2.5928E-08
+        0.700 2.7922E-08
+        0.800 2.5516E-08
+        0.850 4.7515E-08
+        0.900 3.5900E-08
+        0.950 3.7894E-08
+        1.000 2.3909E-08
+        1.060 1.6887E-08
+        1.200 1.9118E-08
+        1.400 2.2304E-08
+        1.600 5.1032E-08
+        1.800 2.3104E-07
+        2.000 5.3407E-07
+        2.200 1.7282E-06
+        2.400 3.6047E-06
+SPECS:
+    n_is_absolute: false
+    λ_is_vacuum: false
+    temperature: 20.0 °C
+    coefficients_of_thermal_dispersion: 6.94e-07 1.7e-08 -7.12e-11 3.52e-07 4e-11 0.267
+    n_d: 1.608813
+    V_d: 58.880649
+    glass_code: 609589
+    density: 3.53 g/cm<sup>3</sup>
+    coefficient_of_thermal_expansion_1: 6.3e-06 K<sup>-1</sup>
+    coefficient_of_thermal_expansion_2: 7.9e-06 K<sup>-1</sup>
+    ΔP_gF: -0.0018
+    climatic_resistance: 2.0
