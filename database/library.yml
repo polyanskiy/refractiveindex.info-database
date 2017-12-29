@@ -3474,10 +3474,6 @@
           name: "E-FD5 (HOYA)"
           data: "glass/hoya/E-FD5.yml"
           info: "glass/HOYA.html"
-        - PAGE: SUMITA
-          name: "K-SFLD5 (SUMITA)"
-          data: "glass/sumita/K-SFLD5.yml"
-          info: "glass/SUMITA.html"
     - BOOK: SF10
       name: "SF10"
       info: "glass/SF10.html"
@@ -3498,10 +3494,6 @@
           name: "E-FD10 (HOYA)"
           data: "glass/hoya/E-FD10.yml"
           info: "glass/HOYA.html"
-        - PAGE: SUMITA
-          name: "K-SFLD10 (SUMITA)"
-          data: "glass/sumita/K-SFLD10.yml"
-          info: "glass/SUMITA.html"
     - BOOK: SF11
       name: "SF11"
       info: "glass/SF11.html"
@@ -6666,15 +6658,12 @@
         - PAGE: K-SK15
           name: "K-SK15"
           data: "glass/sumita/K-SK15.yml"
-        - PAGE: K-SK16
-          name: "K-SK16"
-          data: "glass/sumita/K-SK16.yml"
-        - PAGE: K-SK18
-          name: "K-SK18"
-          data: "glass/sumita/K-SK18.yml"
         - PAGE: K-SK16RH
           name: "K-SK16RH"
           data: "glass/sumita/K-SK16RH.yml"
+        - PAGE: K-SK18
+          name: "K-SK18"
+          data: "glass/sumita/K-SK18.yml"
         - PAGE: K-SK18RH
           name: "K-SK18RH"
           data: "glass/sumita/K-SK18RH.yml"
@@ -6718,9 +6707,6 @@
         - PAGE: K-LaK12
           name: "K-LaK12"
           data: "glass/sumita/K-LaK12.yml"
-        - PAGE: K-LaK13
-          name: "K-LaK13"
-          data: "glass/sumita/K-LaK13.yml"
         - PAGE: K-LaK14
           name: "K-LaK14"
           data: "glass/sumita/K-LaK14.yml"
@@ -6730,12 +6716,18 @@
         - PAGE: K-LaKn2
           name: "K-LaKn2"
           data: "glass/sumita/K-LaKn2.yml"
+        - PAGE: K-LaKn4
+          name: "K-LaKn4"
+          data: "glass/sumita/K-LaKn4.yml"
+        - PAGE: K-LaKn5
+          name: "K-LaKn5"
+          data: "glass/sumita/K-LaKn5.yml"
         - PAGE: K-LaKn7
           name: "K-LaKn7"
           data: "glass/sumita/K-LaKn7.yml"
-        - PAGE: K-LaKn12
-          name: "K-LaKn12"
-          data: "glass/sumita/K-LaKn12.yml"
+        - PAGE: K-LaKn11
+          name: "K-LaKn11"
+          data: "glass/sumita/K-LaKn11.yml"
         - PAGE: K-LaKn14
           name: "K-LaKn14"
           data: "glass/sumita/K-LaKn14.yml"
@@ -6750,6 +6742,42 @@
       name: "SUMITA - PSK (Dense phosphate crown)"
       info: "glass/SUMITA.html"
       content:
+        - PAGE: K-PSK11
+          name: "K-PSK11"
+          data: "glass/sumita/K-PSK11.yml"
+        - PAGE: K-PSK11(M)
+          name: "K-PSK11(M)"
+          data: "glass/sumita/K-PSK11(M).yml"
+        - PAGE: K-PSK100
+          name: "K-PSK100"
+          data: "glass/sumita/K-PSK100.yml"
+        - PAGE: K-PSK100(M)
+          name: "K-PSK100(M)"
+          data: "glass/sumita/K-PSK100(M).yml"
+        - PAGE: K-PSK200
+          name: "K-PSK200"
+          data: "glass/sumita/K-PSK200.yml"
+        - PAGE: K-PSK200(M)
+          name: "K-PSK200(M)"
+          data: "glass/sumita/K-PSK200(M).yml"
+        - PAGE: K-PSK300
+          name: "K-PSK300"
+          data: "glass/sumita/K-PSK300.yml"
+        - PAGE: K-PSK300(M)
+          name: "K-PSK300(M)"
+          data: "glass/sumita/K-PSK300(M).yml"
+        - PAGE: K-PSK400
+          name: "K-PSK400"
+          data: "glass/sumita/K-PSK400.yml"
+        - PAGE: K-PSK400(M)
+          name: "K-PSK400(M)"
+          data: "glass/sumita/K-PSK400(M).yml"
+        - PAGE: K-PSK500
+          name: "K-PSK500"
+          data: "glass/sumita/K-PSK500.yml"
+        - PAGE: K-PSK500(M)
+          name: "K-PSK500(M)"
+          data: "glass/sumita/K-PSK500(M).yml"
         - PAGE: K-PSKn2
           name: "K-PSKn2"
           data: "glass/sumita/K-PSKn2.yml"
@@ -6795,9 +6823,6 @@
         - PAGE: K-BaSF5
           name: "K-BaSF5"
           data: "glass/sumita/K-BaSF5.yml"
-        - PAGE: K-BaSF12
-          name: "K-BaSF12"
-          data: "glass/sumita/K-BaSF12.yml"
     - BOOK: SUMITA-LaF
       name: "SUMITA - LaF (Lanthanum flint)"
       info: "glass/SUMITA.html"
@@ -6805,24 +6830,12 @@
         - PAGE: K-LaF2
           name: "K-LaF2"
           data: "glass/sumita/K-LaF2.yml"
-        - PAGE: K-LaF3
-          name: "K-LaF3"
-          data: "glass/sumita/K-LaF3.yml"
-        - PAGE: K-LaFn1
-          name: "K-LaFn1"
-          data: "glass/sumita/K-LaFn1.yml"
-        - PAGE: K-LaFn2
-          name: "K-LaFn2"
-          data: "glass/sumita/K-LaFn2.yml"
         - PAGE: K-LaFn3
           name: "K-LaFn3"
           data: "glass/sumita/K-LaFn3.yml"
         - PAGE: K-LaFn5
           name: "K-LaFn5"
           data: "glass/sumita/K-LaFn5.yml"
-        - PAGE: K-LaFn9
-          name: "K-LaFn9"
-          data: "glass/sumita/K-LaFn9.yml"
         - PAGE: K-LaFn11
           name: "K-LaFn11"
           data: "glass/sumita/K-LaFn11.yml"
@@ -6872,6 +6885,9 @@
         - PAGE: K-LaSFn22
           name: "K-LaSFn22"
           data: "glass/sumita/K-LaSFn22.yml"
+        - PAGE: K-LaSFn23
+          name: "K-LaSFn23"
+          data: "glass/sumita/K-LaSFn23.yml"
     - BOOK: SUMITA-SFLD
       name: "SUMITA - SFLD"
       info: "glass/SUMITA.html"
@@ -6879,26 +6895,18 @@
         - PAGE: K-SFLD1
           name: "K-SFLD1"
           data: "glass/sumita/K-SFLD1.yml"
-        - PAGE: K-SFLD2
-          name: "K-SFLD2"
-          data: "glass/sumita/K-SFLD2.yml"
+        - PAGE: K-SFLDn3
+          name: "K-SFLDn3"
+          data: "glass/sumita/K-SFLDn3.yml"
         - PAGE: K-SFLD4
           name: "K-SFLD4"
           data: "glass/sumita/K-SFLD4.yml"
-        - PAGE: K-SFLD5
-          name: "K-SFLD5"
-          data: "glass/sumita/K-SFLD5.yml"
-          info: "glass/SF5.html"
         - PAGE: K-SFLD6
           name: "K-SFLD6"
           data: "glass/sumita/K-SFLD6.yml"
         - PAGE: K-SFLD8
           name: "K-SFLD8"
           data: "glass/sumita/K-SFLD8.yml"
-        - PAGE: K-SFLD10
-          name: "K-SFLD10"
-          data: "glass/sumita/K-SFLD10.yml"
-          info: "glass/SF10.html"
         - PAGE: K-SFLD11
           name: "K-SFLD11"
           data: "glass/sumita/K-SFLD11.yml"
@@ -6909,9 +6917,6 @@
         - PAGE: K-SFLD66
           name: "K-SFLD66"
           data: "glass/sumita/K-SFLD66.yml"
-        - PAGE: K-SFLDn3
-          name: "K-SFLDn3"
-          data: "glass/sumita/K-SFLDn3.yml"
     - BOOK: SUMITA-BPG
       name: "SUMITA - BPG"
       info: "glass/SUMITA.html"
@@ -6919,124 +6924,375 @@
         - PAGE: K-BPG2
           name: "K-BPG2"
           data: "glass/sumita/K-BPG2.yml"
-    - BOOK: SUMITA-molding
-      name: "SUMITA - Glasses for precision molding"
+    - BOOK: SUMITA-BOC
+      name: "SUMITA - BOC"
+      info: "glass/SUMITA.html"
+      content:
+        - PAGE: K-BOC20
+          name: "K-BOC20"
+          data: "glass/sumita/K-BOC20.yml"
+        - PAGE: K-BOC30
+          name: "K-BOC30"
+          data: "glass/sumita/K-BOC30.yml"
+    - BOOK: SUMITA-CaFK
+      name: "SUMITA - CaFK"
       info: "glass/SUMITA.html"
       content:
         - PAGE: K-CaFK95
           name: "K-CaFK95"
           data: "glass/sumita/K-CaFK95.yml"
-        - PAGE: K-PFK80
-          name: "K-PFK80"
-          data: "glass/sumita/K-PFK80.yml"
-        - PAGE: K-PFK85
-          name: "K-PFK85"
-          data: "glass/sumita/K-PFK85.yml"
-        - PAGE: K-PFK90
-          name: "K-PFK90"
-          data: "glass/sumita/K-PFK90.yml"
-        - PAGE: K-GFK68
-          name: "K-GFK68"
-          data: "glass/sumita/K-GFK68.yml"
-        - PAGE: K-GFK70
-          name: "K-GFK70"
-          data: "glass/sumita/K-GFK70.yml"
+        - PAGE: K-CaFK95(M)
+          name: "K-CaFK95(M)"
+          data: "glass/sumita/K-CaFK95(M).yml"
+    - BOOK: SUMITA-CD
+      name: "SUMITA - CD"
+      info: "glass/SUMITA.html"
+      content:
         - PAGE: K-CD45
           name: "K-CD45"
           data: "glass/sumita/K-CD45.yml"
+        - PAGE: K-CD45(M)
+          name: "K-CD45(M)"
+          data: "glass/sumita/K-CD45(M).yml"
         - PAGE: K-CD120
           name: "K-CD120"
           data: "glass/sumita/K-CD120.yml"
+        - PAGE: K-CD120(M)
+          name: "K-CD120(M)"
+          data: "glass/sumita/K-CD120(M).yml"
+    - BOOK: SUMITA-CSK
+      name: "SUMITA - CSK"
+      info: "glass/SUMITA.html"
+      content:
         - PAGE: K-CSK120
           name: "K-CSK120"
           data: "glass/sumita/K-CSK120.yml"
+        - PAGE: K-CSK120(M)
+          name: "K-CSK120(M)"
+          data: "glass/sumita/K-CSK120(M).yml"
+    - BOOK: SUMITA-FIR
+      name: "SUMITA - FIR"
+      info: "glass/SUMITA.html"
+      content:
+        - PAGE: K-FIR97UV
+          name: "K-FIR97UV"
+          data: "glass/sumita/K-FIR97UV.yml"
+        - PAGE: K-FIR98UV
+          name: "K-FIR98UV"
+          data: "glass/sumita/K-FIR98UV.yml"
+    - BOOK: SUMITA-GIR
+      name: "SUMITA - GIR"
+      info: "glass/SUMITA.html"
+      content:
+        - PAGE: K-GIR79
+          name: "K-GIR79"
+          data: "glass/sumita/K-GIR79.yml"
+        - PAGE: K-GIR140
+          name: "K-GIR140"
+          data: "glass/sumita/K-GIR140.yml"
+    - BOOK: SUMITA-GFK
+      name: "SUMITA - GFK"
+      info: "glass/SUMITA.html"
+      content:
+        - PAGE: K-GFK68
+          name: "K-GFK68"
+          data: "glass/sumita/K-GFK68.yml"
+        - PAGE: K-GFK68(M)
+          name: "K-GFK68(M)"
+          data: "glass/sumita/K-GFK68(M).yml"
+        - PAGE: K-GFK70
+          name: "K-GFK70"
+          data: "glass/sumita/K-GFK70.yml"
+        - PAGE: K-GFK70(M)
+          name: "K-GFK70(M)"
+          data: "glass/sumita/K-GFK70(M).yml"
+    - BOOK: SUMITA-LaFK
+      name: "SUMITA - LaFK"
+      info: "glass/SUMITA.html"
+      content:
         - PAGE: K-LaFK50
           name: "K-LaFK50"
           data: "glass/sumita/K-LaFK50.yml"
+        - PAGE: K-LaFK50(M)
+          name: "K-LaFK50(M)"
+          data: "glass/sumita/K-LaFK50(M).yml"
+        - PAGE: K-LaFK50T
+          name: "K-LaFK50T"
+          data: "glass/sumita/K-LaFK50T.yml"
+        - PAGE: K-LaFK50T(M)
+          name: "K-LaFK50T(M)"
+          data: "glass/sumita/K-LaFK50T(M).yml"
         - PAGE: K-LaFK55
           name: "K-LaFK55"
           data: "glass/sumita/K-LaFK55.yml"
+        - PAGE: K-LaFK55(M)
+          name: "K-LaFK55(M)"
+          data: "glass/sumita/K-LaFK55(M).yml"
+        - PAGE: K-LaFK58
+          name: "K-LaFK58"
+          data: "glass/sumita/K-LaFK58.yml"
+        - PAGE: K-LaFK58(M)
+          name: "K-LaFK58(M)"
+          data: "glass/sumita/K-LaFK58(M).yml"
         - PAGE: K-LaFK60
           name: "K-LaFK60"
           data: "glass/sumita/K-LaFK60.yml"
+        - PAGE: K-LaFK60(M)
+          name: "K-LaFK60(M)"
+          data: "glass/sumita/K-LaFK60(M).yml"
+        - PAGE: K-LaFK65
+          name: "K-LaFK65"
+          data: "glass/sumita/K-LaFK65.yml"
+        - PAGE: K-LaFK65(M)
+          name: "K-LaFK65(M)"
+          data: "glass/sumita/K-LaFK65(M).yml"
+    - BOOK: SUMITA-LCV
+      name: "SUMITA - LCV"
+      info: "glass/SUMITA.html"
+      content:
+        - PAGE: K-LCV93
+          name: "K-LCV93"
+          data: "glass/sumita/K-LCV93.yml"
+        - PAGE: K-LCV93(M)
+          name: "K-LCV93(M)"
+          data: "glass/sumita/K-LCV93(M).yml"
+    - BOOK: SUMITA-PBK
+      name: "SUMITA - PBK"
+      info: "glass/SUMITA.html"
+      content:
         - PAGE: K-PBK40
           name: "K-PBK40"
           data: "glass/sumita/K-PBK40.yml"
+        - PAGE: K-PBK40(M)
+          name: "K-PBK40(M)"
+          data: "glass/sumita/K-PBK40(M).yml"
         - PAGE: K-PBK50
           name: "K-PBK50"
           data: "glass/sumita/K-PBK50.yml"
+        - PAGE: K-PBK50(M)
+          name: "K-PBK50(M)"
+          data: "glass/sumita/K-PBK50(M).yml"
+    - BOOK: SUMITA-PFK
+      name: "SUMITA - PFK"
+      info: "glass/SUMITA.html"
+      content:
+        - PAGE: K-PFK80
+          name: "K-PFK80"
+          data: "glass/sumita/K-PFK80.yml"
+        - PAGE: K-PFK80(M)
+          name: "K-PFK80(M)"
+          data: "glass/sumita/K-PFK80(M).yml"
+        - PAGE: K-PFK85
+          name: "K-PFK85"
+          data: "glass/sumita/K-PFK85.yml"
+        - PAGE: K-PFK85(M)
+          name: "K-PFK85(M)"
+          data: "glass/sumita/K-PFK85(M).yml"
+        - PAGE: K-PFK90
+          name: "K-PFK90"
+          data: "glass/sumita/K-PFK90.yml"
+        - PAGE: K-PFK90(M)
+          name: "K-PFK90(M)"
+          data: "glass/sumita/K-PFK90(M).yml"
+    - BOOK: SUMITA-PG
+      name: "SUMITA - PG"
+      info: "glass/SUMITA.html"
+      content:
         - PAGE: K-PG325
           name: "K-PG325"
           data: "glass/sumita/K-PG325.yml"
+        - PAGE: K-PG325(M)
+          name: "K-PG325(M)"
+          data: "glass/sumita/K-PG325(M).yml"
         - PAGE: K-PG375
           name: "K-PG375"
           data: "glass/sumita/K-PG375.yml"
+        - PAGE: K-PG375(M)
+          name: "K-PG375(M)"
+          data: "glass/sumita/K-PG375(M).yml"
         - PAGE: K-PG395
           name: "K-PG395"
           data: "glass/sumita/K-PG395.yml"
+        - PAGE: K-PG395(M)
+          name: "K-PG395(M)"
+          data: "glass/sumita/K-PG395(M).yml"
+    - BOOK: SUMITA-PMK
+      name: "SUMITA - PMK"
+      info: "glass/SUMITA.html"
+      content:
         - PAGE: K-PMK30
           name: "K-PMK30"
           data: "glass/sumita/K-PMK30.yml"
+        - PAGE: K-PMK30(M)
+          name: "K-PMK30(M)"
+          data: "glass/sumita/K-PMK30(M).yml"
+    - BOOK: SUMITA-PSF
+      name: "SUMITA - PSF"
+      info: "glass/SUMITA.html"
+      content:
         - PAGE: K-PSFn1
           name: "K-PSFn1"
           data: "glass/sumita/K-PSFn1.yml"
+        - PAGE: K-PSFn1(M)
+          name: "K-PSFn1(M)"
+          data: "glass/sumita/K-PSFn1(M).yml"
         - PAGE: K-PSFn2
           name: "K-PSFn2"
           data: "glass/sumita/K-PSFn2.yml"
+        - PAGE: K-PSFn2(M)
+          name: "K-PSFn2(M)"
+          data: "glass/sumita/K-PSFn2(M).yml"
         - PAGE: K-PSFn3
           name: "K-PSFn3"
           data: "glass/sumita/K-PSFn3.yml"
+        - PAGE: K-PSFn3(M)
+          name: "K-PSFn3(M)"
+          data: "glass/sumita/K-PSFn3(M).yml"
         - PAGE: K-PSFn4
           name: "K-PSFn4"
           data: "glass/sumita/K-PSFn4.yml"
+        - PAGE: K-PSFn4(M)
+          name: "K-PSFn4(M)"
+          data: "glass/sumita/K-PSFn4(M).yml"
         - PAGE: K-PSFn5
           name: "K-PSFn5"
           data: "glass/sumita/K-PSFn5.yml"
+        - PAGE: K-PSFn5(M)
+          name: "K-PSFn5(M)"
+          data: "glass/sumita/K-PSFn5(M).yml"
+        - PAGE: K-PSFn173
+          name: "K-PSFn173"
+          data: "glass/sumita/K-PSFn173.yml"
+        - PAGE: K-PSFn173(M)
+          name: "K-PSFn173(M)"
+          data: "glass/sumita/K-PSFn173(M).yml"
         - PAGE: K-PSFn202
           name: "K-PSFn202"
           data: "glass/sumita/K-PSFn202.yml"
+        - PAGE: K-PSFn202(M)
+          name: "K-PSFn202(M)"
+          data: "glass/sumita/K-PSFn202(M).yml"
+        - PAGE: K-PSFn203
+          name: "K-PSFn203"
+          data: "glass/sumita/K-PSFn203.yml"
+        - PAGE: K-PSFn203(M)
+          name: "K-PSFn203(M)"
+          data: "glass/sumita/K-PSFn203(M).yml"
         - PAGE: K-PSFn214
           name: "K-PSFn214"
           data: "glass/sumita/K-PSFn214.yml"
-        - PAGE: K-PSK11
-          name: "K-PSK11"
-          data: "glass/sumita/K-PSK11.yml"
-        - PAGE: K-PSK100
-          name: "K-PSK100"
-          data: "glass/sumita/K-PSK100.yml"
-        - PAGE: K-PSK200
-          name: "K-PSK200"
-          data: "glass/sumita/K-PSK200.yml"
+        - PAGE: K-PSFn214(M)
+          name: "K-PSFn214(M)"
+          data: "glass/sumita/K-PSFn214(M).yml"
+        - PAGE: K-PSFn215
+          name: "K-PSFn215"
+          data: "glass/sumita/K-PSFn215.yml"
+    - BOOK: SUMITA-SKF
+      name: "SUMITA - SKF"
+      info: "glass/SUMITA.html"
+      content:
         - PAGE: K-SKF6
           name: "K-SKF6"
           data: "glass/sumita/K-SKF6.yml"
+        - PAGE: K-SKF6(M)
+          name: "K-SKF6(M)"
+          data: "glass/sumita/K-SKF6(M).yml"
+    - BOOK: SUMITA-SKLD
+      name: "SUMITA - SKLD"
+      info: "glass/SUMITA.html"
+      content:
+        - PAGE: K-SKLD120
+          name: "K-SKLD120"
+          data: "glass/sumita/K-SKLD120.yml"
+        - PAGE: K-SKLD120(M)
+          name: "K-SKLD120(M)"
+          data: "glass/sumita/K-SKLD120(M).yml"
+    - BOOK: SUMITA-VC
+      name: "SUMITA - VC"
+      info: "glass/SUMITA.html"
+      content:
         - PAGE: K-VC78
           name: "K-VC78"
           data: "glass/sumita/K-VC78.yml"
+        - PAGE: K-VC78(M)
+          name: "K-VC78(M)"
+          data: "glass/sumita/K-VC78(M).yml"
         - PAGE: K-VC79
           name: "K-VC79"
           data: "glass/sumita/K-VC79.yml"
+        - PAGE: K-VC79(M)
+          name: "K-VC79(M)"
+          data: "glass/sumita/K-VC79(M).yml"
         - PAGE: K-VC80
           name: "K-VC80"
           data: "glass/sumita/K-VC80.yml"
+        - PAGE: K-VC80(M)
+          name: "K-VC80(M)"
+          data: "glass/sumita/K-VC80(M).yml"
         - PAGE: K-VC82
           name: "K-VC82"
           data: "glass/sumita/K-VC82.yml"
+        - PAGE: K-VC82(M)
+          name: "K-VC82(M)"
+          data: "glass/sumita/K-VC82(M).yml"
         - PAGE: K-VC89
           name: "K-VC89"
           data: "glass/sumita/K-VC89.yml"
+        - PAGE: K-VC89(M)
+          name: "K-VC89(M)"
+          data: "glass/sumita/K-VC89(M).yml"
         - PAGE: K-VC90
           name: "K-VC90"
           data: "glass/sumita/K-VC90.yml"
+        - PAGE: K-VC90(M)
+          name: "K-VC90(M)"
+          data: "glass/sumita/K-VC90(M).yml"
         - PAGE: K-VC91
           name: "K-VC91"
           data: "glass/sumita/K-VC91.yml"
+        - PAGE: K-VC91(M)
+          name: "K-VC91(M)"
+          data: "glass/sumita/K-VC91(M).yml"
         - PAGE: K-VC99
           name: "K-VC99"
           data: "glass/sumita/K-VC99.yml"
+        - PAGE: K-VC99(M)
+          name: "K-VC99(M)"
+          data: "glass/sumita/K-VC99(M).yml"
+        - PAGE: K-VC100
+          name: "K-VC100"
+          data: "glass/sumita/K-VC100.yml"
+        - PAGE: K-VC100(M)
+          name: "K-VC100(M)"
+          data: "glass/sumita/K-VC100(M).yml"
+        - PAGE: K-VC179
+          name: "K-VC179"
+          data: "glass/sumita/K-VC179.yml"
+        - PAGE: K-VC179(M)
+          name: "K-VC179(M)"
+          data: "glass/sumita/K-VC179(M).yml"
+        - PAGE: K-VC181
+          name: "K-VC181"
+          data: "glass/sumita/K-VC181.yml"
+        - PAGE: K-VC181(M)
+          name: "K-VC181(M)"
+          data: "glass/sumita/K-VC181(M).yml"
+        - PAGE: K-VC185
+          name: "K-VC185"
+          data: "glass/sumita/K-VC185.yml"
+        - PAGE: K-VC185(M)
+          name: "K-VC185(M)"
+          data: "glass/sumita/K-VC185(M).yml"
+    - BOOK: SUMITA-ZnSF
+      name: "SUMITA - ZnSF"
+      info: "glass/SUMITA.html"
+      content:
         - PAGE: K-ZnSF8
           name: "K-ZnSF8"
           data: "glass/sumita/K-ZnSF8.yml"
+        - PAGE: K-ZnSF8(M)
+          name: "K-ZnSF8(M)"
+          data: "glass/sumita/K-ZnSF8(M).yml"
     - DIVIDER: "Optical glass - LZOS"
     - BOOK: LZOS-K
       name: "LZOS - K (Crown)"

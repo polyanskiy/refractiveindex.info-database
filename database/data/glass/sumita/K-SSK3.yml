@@ -2,9 +2,49 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "<a href=\"http://www.sumita-opt.co.jp/en/catalog.htm\">Sumita Optical Glass Data Book</a>"
-COMMENTS: "Refractive index is relative to air at standard conditions; Wavelength in dispersion formula is as measured in air and expressed in micrometers"
+REFERENCES: "<a href=\"http://refractiveindex.info/download/data/2017/sumita_2017-02-02.agf\">SUMITA Zemax catalog 2017-02-02</a> (obtained from <a href=\"http://www.sumita-opt.co.jp/en/download/\">http://www.sumita-opt.co.jp</a>)"
 DATA:
-  - type: formula 3
-    range: 0.365 1.548
-    coefficients: 2.5581178 -9.3433459E-3 2 1.7279508E-2 -2 3.4232239E-4 -4 -8.1515194E-6 -6 1.1314454E-6 -8
+  - type: formula 3 
+    range: 0.36 1.55
+    coefficients: 2.5591851 -0.0099057522 2 0.016577727 -2 0.00054738619 -4 -3.5329686e-05 -6 2.4596919e-06 -8
+  - type: tabulated k
+    data: |
+        0.290 1.2227E-05
+        0.300 9.5908E-06
+        0.310 6.1104E-06
+        0.320 3.7095E-06
+        0.330 2.1679E-06
+        0.340 1.2673E-06
+        0.350 7.2796E-07
+        0.360 4.1216E-07
+        0.370 2.2637E-07
+        0.380 1.5511E-07
+        0.390 1.0736E-07
+        0.400 7.4066E-08
+        0.420 5.0514E-08
+        0.440 4.9366E-08
+        0.460 4.4192E-08
+        0.480 2.6832E-08
+        0.500 2.3945E-08
+        0.550 2.1939E-08
+        0.600 1.9137E-08
+        0.650 3.1129E-08
+        0.700 2.7922E-08
+        0.800 3.8312E-08
+        1.060 3.3809E-08
+        1.500 5.9833E-08
+        2.000 3.8663E-07
+SPECS:
+    n_is_absolute: false
+    λ_is_vacuum: false
+    temperature: 20.0 °C
+    coefficients_of_thermal_dispersion: 8.96e-06 1.89e-08 -2.12e-10 6.71e-07 9.18e-10 0.191
+    n_d: 1.61484
+    V_d: 51.1
+    glass_code: 615511
+    density: 3.37 g/cm<sup>3</sup>
+    coefficient_of_thermal_expansion_1: 5.6e-06 K<sup>-1</sup>
+    coefficient_of_thermal_expansion_2: 7.2e-06 K<sup>-1</sup>
+    ΔP_gF: -0.0072
+    climatic_resistance: 1.0
+    acid_resistance: 4.0

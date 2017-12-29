@@ -2,9 +2,47 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "<a href=\"http://www.sumita-opt.co.jp/en/catalog.htm\">Sumita Optical Glass Data Book</a>"
-COMMENTS: "Refractive index is relative to air at standard conditions; Wavelength in dispersion formula is as measured in air and expressed in micrometers"
+REFERENCES: "<a href=\"http://refractiveindex.info/download/data/2017/sumita_2017-02-02.agf\">SUMITA Zemax catalog 2017-02-02</a> (obtained from <a href=\"http://www.sumita-opt.co.jp/en/download/\">http://www.sumita-opt.co.jp</a>)"
 DATA:
-  - type: formula 3
-    range: 0.365 1.548
-    coefficients: 2.8797142 -1.5009518E-2 2 1.933782E-2 -2 4.8379963E-4 -4 -1.1367908E-5 -6 7.0484275E-7 -8
+  - type: formula 3 
+    range: 0.36 1.55
+    coefficients: 2.8797142 -0.015009518 2 0.01933782 -2 0.00048379963 -4 -1.1367908e-05 -6 7.0484275e-07 -8
+  - type: tabulated k
+    data: |
+        0.310 8.1330E-06
+        0.320 5.2750E-06
+        0.330 3.4384E-06
+        0.340 2.2090E-06
+        0.350 1.3950E-06
+        0.360 8.5101E-07
+        0.370 5.3094E-07
+        0.380 3.3883E-07
+        0.390 2.2856E-07
+        0.400 1.6998E-07
+        0.420 1.1216E-07
+        0.440 9.2241E-08
+        0.460 8.5176E-08
+        0.480 6.9381E-08
+        0.500 6.0135E-08
+        0.550 5.2839E-08
+        0.600 4.7987E-08
+        0.650 4.6764E-08
+        0.700 2.7922E-08
+        0.800 1.2745E-08
+        1.060 1.6887E-08
+        1.500 2.3897E-08
+        2.000 4.6837E-07
+SPECS:
+    n_is_absolute: false
+    λ_is_vacuum: false
+    temperature: 20.0 °C
+    coefficients_of_thermal_dispersion: 9.91e-07 1.3e-08 -2.26e-10 5.21e-07 4.99e-10 0.162
+    n_d: 1.71300
+    V_d: 53.9
+    glass_code: 713539
+    density: 3.79 g/cm<sup>3</sup>
+    coefficient_of_thermal_expansion_1: 4.9e-06 K<sup>-1</sup>
+    coefficient_of_thermal_expansion_2: 7.5e-06 K<sup>-1</sup>
+    ΔP_gF: -0.0065
+    climatic_resistance: 1.0
+    acid_resistance: 4.0

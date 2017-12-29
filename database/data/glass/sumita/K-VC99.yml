@@ -2,9 +2,47 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "<a href=\"http://www.sumita-opt.co.jp/en/catalog.htm\">Sumita Optical Glass Data Book</a>"
-COMMENTS: "Glass for Precision Molding. Refractive index is relative to air at standard conditions; Wavelength in dispersion formula is as measured in air and expressed in micrometers."
+REFERENCES: "<a href=\"http://refractiveindex.info/download/data/2017/sumita_2017-02-02.agf\">SUMITA Zemax catalog 2017-02-02</a> (obtained from <a href=\"http://www.sumita-opt.co.jp/en/download/\">http://www.sumita-opt.co.jp</a>)"
 DATA:
-  - type: formula 3
-    range: 0.365 1.548
-    coefficients: 3.3294765 -1.5324675E-2 2 3.1941277E-2 -2 1.0078745E-3 -4 -2.8400554E-5 -6 3.488686E-6 -8
+  - type: formula 3 
+    range: 0.36 1.55
+    coefficients: 3.3294765 -0.015324675 2 0.031941277 -2 0.0010078745 -4 -2.8400554e-05 -6 3.488686e-06 -8
+  - type: tabulated k
+    data: |
+        0.310 1.2621E-05
+        0.320 6.3688E-06
+        0.330 3.8709E-06
+        0.340 2.4995E-06
+        0.350 1.5559E-06
+        0.360 9.7713E-07
+        0.370 6.0232E-07
+        0.380 3.7285E-07
+        0.390 2.5204E-07
+        0.400 1.8007E-07
+        0.420 1.1908E-07
+        0.440 8.5059E-08
+        0.460 7.0220E-08
+        0.480 4.9982E-08
+        0.500 3.5972E-08
+        0.550 2.1939E-08
+        0.600 2.3933E-08
+        0.650 3.1129E-08
+        0.700 3.3523E-08
+        0.800 1.2745E-08
+        1.060 1.6887E-08
+        1.500 2.3897E-08
+        2.000 4.3563E-07
+SPECS:
+    n_is_absolute: false
+    λ_is_vacuum: false
+    temperature: 20.0 °C
+    coefficients_of_thermal_dispersion: 4.51e-06 1.51e-08 -2.57e-10 7.41e-07 8.37e-10 0.205
+    n_d: 1.85060
+    V_d: 41.6
+    glass_code: 851416
+    density: 5.15 g/cm<sup>3</sup>
+    coefficient_of_thermal_expansion_1: 6e-06 K<sup>-1</sup>
+    coefficient_of_thermal_expansion_2: 7.3e-06 K<sup>-1</sup>
+    ΔP_gF: -0.0102
+    climatic_resistance: 1.0
+    acid_resistance: 2.0

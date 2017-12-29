@@ -8,7 +8,8 @@
     "path" key is replaced by "data" in 'library.yml'
     "INFO" key is replaced by "SPECS" in data files
   new/updated data
-    glass/cdgm/* - updated to the latest zemax catalogue (obtained from cdgm web-site)
+    glass/cdgm/* - updated to the latest zemax catalogue
+    glass/sumita/* - updated to the latest zemax catalogue
   new data (thanks to Naser Otman, Dalhousie University, Canada, for suggesting data!)
     main/Ag/Yang.yml
   new data(thanks to Matteo Pancaldi, nanoGUNE, San Sebastián, Spain, for suggesting data and initial submission in YAML format!
