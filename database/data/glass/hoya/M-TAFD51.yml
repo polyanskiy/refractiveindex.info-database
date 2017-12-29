@@ -2,9 +2,59 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "<a href=\"http://www.hoyaoptics.com/products/document_library.htm\">HOYA Optical Glass Master Datasheet</a>"
-COMMENTS: "Refractive index is relative to air at standard conditions; Wavelength in dispersion formula is as measured in air and expressed in micrometers"
+REFERENCES: "<a href=\"http://refractiveindex.info/download/data/2017/hoya_2017-04-01.agf\">HOYA Zemax catalog 2017-04-01</a> (obtained from <a href=\"http://www.hoya-opticalworld.com/english/datadownload/\">http://www.hoya-opticalworld.com</a>)"
+COMMENTS: "Glass for molded optics lens"
 DATA:
-  - type: formula 3
-    range: 0.35 1.55
-    coefficients: 3.2276820 -1.4538160E-2 2 2.9212100E-2 -2 1.0570620E-3 -4 -4.7871620E-5 -6 4.5572390E-6 -8
+  - type: formula 3 
+    range: 0.36501 1.01398
+    coefficients: 3.227682 -0.01453816 2 0.0292121 -2 0.001057062 -4 -4.787162e-05 -6 4.557239e-06 -8
+  - type: tabulated k
+    data: |
+        0.340 6.4263E-06
+        0.350 3.1476E-06
+        0.360 1.5359E-06
+        0.370 8.1192E-07
+        0.380 4.8434E-07
+        0.390 3.1666E-07
+        0.400 2.2075E-07
+        0.420 1.3296E-07
+        0.440 9.2241E-08
+        0.460 6.6490E-08
+        0.480 4.6114E-08
+        0.500 2.7950E-08
+        0.550 8.7623E-09
+        0.600 4.7770E-09
+        0.650 5.1751E-09
+        0.700 5.5732E-09
+        0.750 2.3921E-08
+        0.780 1.8649E-08
+        0.800 6.3694E-09
+        0.830 1.3223E-08
+        0.850 6.7675E-09
+        0.900 1.4338E-08
+        0.950 7.5636E-09
+        1.000 7.9617E-09
+        1.050 8.3598E-09
+        1.060 2.5344E-08
+        1.100 1.7525E-08
+        1.200 9.5541E-09
+        1.300 1.0350E-08
+        1.400 3.3473E-08
+        1.500 4.7842E-08
+        1.550 4.9437E-08
+SPECS:
+    n_is_absolute: false
+    λ_is_vacuum: false
+    temperature: 20.0 °C
+    coefficients_of_thermal_dispersion: 7.04481e-06 0.0 0.0 0.0 0.0 0.0
+    n_d: 1.82080
+    V_d: 42.71
+    glass_code: 821427
+    glass_status: standard
+    density: 5.01 g/cm<sup>3</sup>
+    coefficient_of_thermal_expansion_1: 6.4e-06 K<sup>-1</sup>
+    coefficient_of_thermal_expansion_2: 7.7e-06 K<sup>-1</sup>
+    ΔP_gF: -0.0072
+    climatic_resistance: 1.0
+    stain_resistance: 2.0
+    acid_resistance: 3.0

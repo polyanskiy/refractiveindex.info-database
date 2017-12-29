@@ -6195,15 +6195,8 @@
         - PAGE: E-C3
           name: "E-C3"
           data: "glass/hoya/E-C3.yml"
-    - BOOK: HOYA-ADC
-      name: "HOYA - ADC (Abnormal dispersion crown)"
-      info: "glass/HOYA.html"
-      content:
-        - PAGE: ADC1
-          name: "ADC1"
-          data: "glass/hoya/ADC1.yml"
-    - BOOK: HOYA-BSD
-      name: "HOYA - BSD (Borosilicate crown)"
+    - BOOK: HOYA-BSC
+      name: "HOYA - BSC (Borosilicate crown)"
       info: "glass/HOYA.html"
       content:
         - PAGE: BSC7
@@ -6230,33 +6223,48 @@
         - PAGE: BACD5
           name: "BACD5"
           data: "glass/hoya/BACD5.yml"
+        - PAGE: M-BACD5N
+          name: "M-BACD5N"
+          data: "glass/hoya/M-BACD5N.yml"
+        - PAGE: MC-BACD5N
+          name: "MC-BACD5N"
+          data: "glass/hoya/MC-BACD5N.yml"
+        - PAGE: MP-BACD5N
+          name: "MP-BACD5N"
+          data: "glass/hoya/MP-BACD5N.yml"
+        - PAGE: E-BACD10
+          name: "E-BACD10"
+          data: "glass/hoya/E-BACD10.yml"
         - PAGE: BACD11
           name: "BACD11"
           data: "glass/hoya/BACD11.yml"
+        - PAGE: M-BACD12
+          name: "M-BACD12"
+          data: "glass/hoya/M-BACD12.yml"
+        - PAGE: MC-BACD12
+          name: "MC-BACD12"
+          data: "glass/hoya/MC-BACD12.yml"
+        - PAGE: MP-BACD12
+          name: "MP-BACD12"
+          data: "glass/hoya/MP-BACD12.yml"
         - PAGE: BACD14
           name: "BACD14"
           data: "glass/hoya/BACD14.yml"
         - PAGE: BACD15
           name: "BACD15"
           data: "glass/hoya/BACD15.yml"
+        - PAGE: M-BACD15
+          name: "M-BACD15"
+          data: "glass/hoya/M-BACD15.yml"
+        - PAGE: MP-BACD15
+          name: "MP-BACD15"
+          data: "glass/hoya/MP-BACD15.yml"
         - PAGE: BACD16
           name: "BACD16"
           data: "glass/hoya/BACD16.yml"
         - PAGE: BACD18
           name: "BACD18"
           data: "glass/hoya/BACD18.yml"
-        - PAGE: E-BACD10
-          name: "E-BACD10"
-          data: "glass/hoya/E-BACD10.yml"
-        - PAGE: M-BACD12
-          name: "M-BACD12"
-          data: "glass/hoya/M-BACD12.yml"
-        - PAGE: M-BACD15
-          name: "M-BACD15"
-          data: "glass/hoya/M-BACD15.yml"
-        - PAGE: M-BACD5N
-          name: "M-BACD5N"
-          data: "glass/hoya/M-BACD5N.yml"
     - BOOK: HOYA-BaCED
       name: "HOYA - BaCED (Extra dense barium crown)"
       info: "glass/HOYA.html"
@@ -6281,9 +6289,45 @@
         - PAGE: FCD1
           name: "FCD1"
           data: "glass/hoya/FCD1.yml"
+        - PAGE: FCD1B
+          name: "FCD1B"
+          data: "glass/hoya/FCD1B.yml"
+        - PAGE: M-FCD1
+          name: "M-FCD1"
+          data: "glass/hoya/M-FCD1.yml"
+        - PAGE: MC-FCD1-M20
+          name: "MC-FCD1-M20"
+          data: "glass/hoya/MC-FCD1-M20.yml"
+        - PAGE: MP-FCD1-M20
+          name: "MP-FCD1-M20"
+          data: "glass/hoya/MP-FCD1-M20.yml"
         - PAGE: FCD10
           name: "FCD10"
           data: "glass/hoya/FCD10.yml"
+        - PAGE: FCD10A
+          name: "FCD10A"
+          data: "glass/hoya/FCD10A.yml"
+        - PAGE: FCD100
+          name: "FCD100"
+          data: "glass/hoya/FCD100.yml"
+        - PAGE: M-FCD500
+          name: "M-FCD500"
+          data: "glass/hoya/M-FCD500.yml"
+        - PAGE: MC-FCD500-20
+          name: "MC-FCD500-20"
+          data: "glass/hoya/MC-FCD500-20.yml"
+        - PAGE: MP-FCD500-20
+          name: "MP-FCD500-20"
+          data: "glass/hoya/MP-FCD500-20.yml"
+        - PAGE: FCD505
+          name: "FCD505"
+          data: "glass/hoya/FCD505.yml"
+        - PAGE: FCD515
+          name: "FCD515"
+          data: "glass/hoya/FCD515.yml"
+        - PAGE: FCD705
+          name: "FCD705"
+          data: "glass/hoya/FCD705.yml"
     - BOOK: HOYA-LaC
       name: "HOYA - LaC (Lanthanum crown)"
       info: "glass/HOYA.html"
@@ -6294,6 +6338,12 @@
         - PAGE: LAC8
           name: "LAC8"
           data: "glass/hoya/LAC8.yml"
+        - PAGE: M-LAC8
+          name: "M-LAC8"
+          data: "glass/hoya/M-LAC8.yml"
+        - PAGE: MP-LAC8-30
+          name: "MP-LAC8-30"
+          data: "glass/hoya/MP-LAC8-30.yml"
         - PAGE: LAC9
           name: "LAC9"
           data: "glass/hoya/LAC9.yml"
@@ -6309,9 +6359,21 @@
         - PAGE: LAC14
           name: "LAC14"
           data: "glass/hoya/LAC14.yml"
+        - PAGE: M-LAC14
+          name: "M-LAC14"
+          data: "glass/hoya/M-LAC14.yml"
+        - PAGE: MP-LAC14-80
+          name: "MP-LAC14-80"
+          data: "glass/hoya/MP-LAC14-80.yml"
         - PAGE: M-LAC130
           name: "M-LAC130"
           data: "glass/hoya/M-LAC130.yml"
+        - PAGE: MC-LAC130
+          name: "MC-LAC130"
+          data: "glass/hoya/MC-LAC130.yml"
+        - PAGE: MP-LAC130
+          name: "MP-LAC130"
+          data: "glass/hoya/MP-LAC130.yml"
     - BOOK: HOYA-LaCL
       name: "HOYA - LaCL (Light lanthanum crown)"
       info: "glass/HOYA.html"
@@ -6336,9 +6398,27 @@
         - PAGE: M-PCD4
           name: "M-PCD4"
           data: "glass/hoya/M-PCD4.yml"
+        - PAGE: MC-PCD4-40
+          name: "MC-PCD4-40"
+          data: "glass/hoya/MC-PCD4-40.yml"
+        - PAGE: MP-PCD4-40
+          name: "MP-PCD4-40"
+          data: "glass/hoya/MP-PCD4-40.yml"
+        - PAGE: PCD40
+          name: "PCD40"
+          data: "glass/hoya/PCD40.yml"
+        - PAGE: PCD51
+          name: "PCD51"
+          data: "glass/hoya/PCD51.yml"
         - PAGE: M-PCD51
           name: "M-PCD51"
           data: "glass/hoya/M-PCD51.yml"
+        - PAGE: MC-PCD51-70
+          name: "MC-PCD51-70"
+          data: "glass/hoya/MC-PCD51-70.yml"
+        - PAGE: MP-PCD51-70
+          name: "MP-PCD51-70"
+          data: "glass/hoya/MP-PCD51-70.yml"
     - BOOK: HOYA-TaC
       name: "HOYA - TaC (Tantalum crown)"
       info: "glass/HOYA.html"
@@ -6355,6 +6435,18 @@
         - PAGE: TAC8
           name: "TAC8"
           data: "glass/hoya/TAC8.yml"
+        - PAGE: M-TAC60
+          name: "M-TAC60"
+          data: "glass/hoya/M-TAC60.yml"
+        - PAGE: MP-TAC60-90
+          name: "MP-TAC60-90"
+          data: "glass/hoya/MP-TAC60-90.yml"
+        - PAGE: M-TAC80
+          name: "M-TAC80"
+          data: "glass/hoya/M-TAC80.yml"
+        - PAGE: MP-TAC80-60
+          name: "MP-TAC80-60"
+          data: "glass/hoya/MP-TAC80-60.yml"
     - BOOK: HOYA-F
       name: "HOYA - F (Flint)"
       info: "glass/HOYA.html"
@@ -6401,15 +6493,6 @@
       name: "HOYA - FD (Dense flint)"
       info: "glass/HOYA.html"
       content:
-        - PAGE: FD60
-          name: "FD60"
-          data: "glass/hoya/FD60.yml"
-        - PAGE: FD110
-          name: "FD110"
-          data: "glass/hoya/FD110.yml"
-        - PAGE: FD140
-          name: "FD140"
-          data: "glass/hoya/FD140.yml"
         - PAGE: E-FD1
           name: "E-FD1"
           data: "glass/hoya/E-FD1.yml"
@@ -6439,31 +6522,88 @@
         - PAGE: E-FD15
           name: "E-FD15"
           data: "glass/hoya/E-FD15.yml"
-        - PAGE: M-FD60
-          name: "M-FD60"
-          data: "glass/hoya/M-FD60.yml"
+        - PAGE: FD60
+          name: "FD60"
+          data: "glass/hoya/FD60.yml"
+        - PAGE: FD60-W
+          name: "FD60-W"
+          data: "glass/hoya/FD60-W.yml"
         - PAGE: M-FD80
           name: "M-FD80"
           data: "glass/hoya/M-FD80.yml"
+        - PAGE: MP-FD80
+          name: "MP-FD80"
+          data: "glass/hoya/MP-FD80.yml"
+        - PAGE: FD110
+          name: "FD110"
+          data: "glass/hoya/FD110.yml"
+        - PAGE: FD140
+          name: "FD140"
+          data: "glass/hoya/FD140.yml"
+        - PAGE: FD225
+          name: "FD225"
+          data: "glass/hoya/FD225.yml"
     - BOOK: HOYA-FDS
       name: "HOYA - FDS (Special dense flint)"
       info: "glass/HOYA.html"
       content:
-        - PAGE: FDS18
-          name: "FDS18"
-          data: "glass/hoya/FDS18.yml"
-        - PAGE: FDS30
-          name: "FDS30"
-          data: "glass/hoya/FDS30.yml"
-        - PAGE: FDS90
-          name: "FDS90"
-          data: "glass/hoya/FDS90.yml"
         - PAGE: E-FDS1
           name: "E-FDS1"
           data: "glass/hoya/E-FDS1.yml"
+        - PAGE: E-FDS1-W
+          name: "E-FDS1-W"
+          data: "glass/hoya/E-FDS1-W.yml"
+        - PAGE: M-FDS1
+          name: "M-FDS1"
+          data: "glass/hoya/M-FDS1.yml"
+        - PAGE: MP-FDS1
+          name: "MP-FDS1"
+          data: "glass/hoya/MP-FDS1.yml"
+        - PAGE: E-FDS2
+          name: "E-FDS2"
+          data: "glass/hoya/E-FDS2.yml"
+        - PAGE: M-FDS2
+          name: "M-FDS2"
+          data: "glass/hoya/M-FDS2.yml"
+        - PAGE: MC-FDS2
+          name: "MC-FDS2"
+          data: "glass/hoya/MC-FDS2.yml"
+        - PAGE: MP-FDS2
+          name: "MP-FDS2"
+          data: "glass/hoya/MP-FDS2.yml"
+        - PAGE: E-FDS3
+          name: "E-FDS3"
+          data: "glass/hoya/E-FDS3.yml"
+        - PAGE: FDS16-W
+          name: "FDS16-W"
+          data: "glass/hoya/FDS16-W.yml"
+        - PAGE: FDS18
+          name: "FDS18"
+          data: "glass/hoya/FDS18.yml"
+        - PAGE: FDS18-W
+          name: "FDS18-W"
+          data: "glass/hoya/FDS18-W.yml"
+        - PAGE: FDS24
+          name: "FDS24"
+          data: "glass/hoya/FDS24.yml"
+        - PAGE: FDS90
+          name: "FDS90"
+          data: "glass/hoya/FDS90.yml"
+        - PAGE: FDS90(P)
+          name: "FDS90(P)"
+          data: "glass/hoya/FDS90(P).yml"
+        - PAGE: FDS90-SG
+          name: "FDS90-SG"
+          data: "glass/hoya/FDS90-SG.yml"
         - PAGE: M-FDS910
           name: "M-FDS910"
           data: "glass/hoya/M-FDS910.yml"
+        - PAGE: MC-FDS910-50
+          name: "MC-FDS910-50"
+          data: "glass/hoya/MC-FDS910-50.yml"
+        - PAGE: MP-FDS910-50
+          name: "MP-FDS910-50"
+          data: "glass/hoya/MP-FDS910-50.yml"
     - BOOK: HOYA-ADF
       name: "HOYA - ADF (Abnormal dispersion flint)"
       info: "glass/HOYA.html"
@@ -6498,9 +6638,6 @@
         - PAGE: BAFD8
           name: "BAFD8"
           data: "glass/hoya/BAFD8.yml"
-        - PAGE: BAFD15
-          name: "BAFD15"
-          data: "glass/hoya/BAFD15.yml"
     - BOOK: HOYA-FF
       name: "HOYA - FF (Fluor flint)"
       info: "glass/HOYA.html"
@@ -6527,13 +6664,9 @@
         - PAGE: M-LAF81
           name: "M-LAF81"
           data: "glass/hoya/M-LAF81.yml"
-    - BOOK: HOYA-LaFL
-      name: "HOYA - LaFL (Light lanthanum flint)"
-      info: "glass/HOYA.html"
-      content:
-        - PAGE: LAFL2
-          name: "LAFL2"
-          data: "glass/hoya/LAFL2.yml"
+        - PAGE: MP-LAF81
+          name: "MP-LAF81"
+          data: "glass/hoya/MP-LAF81.yml"
     - BOOK: HOYA-NbF
       name: "HOYA - NbF (Niobium flint)"
       info: "glass/HOYA.html"
@@ -6541,12 +6674,15 @@
         - PAGE: NBF1
           name: "NBF1"
           data: "glass/hoya/NBF1.yml"
-        - PAGE: NBF2
-          name: "NBF2"
-          data: "glass/hoya/NBF2.yml"
         - PAGE: M-NBF1
           name: "M-NBF1"
           data: "glass/hoya/M-NBF1.yml"
+        - PAGE: MC-NBF1
+          name: "MC-NBF1"
+          data: "glass/hoya/MC-NBF1.yml"
+        - PAGE: MP-NBF1
+          name: "MP-NBF1"
+          data: "glass/hoya/MP-NBF1.yml"
     - BOOK: HOYA-NbFD
       name: "HOYA - NbFD (Dense niobium flint)"
       info: "glass/HOYA.html"
@@ -6557,6 +6693,12 @@
         - PAGE: NBFD10
           name: "NBFD10"
           data: "glass/hoya/NBFD10.yml"
+        - PAGE: M-NBFD10
+          name: "M-NBFD10"
+          data: "glass/hoya/M-NBFD10.yml"
+        - PAGE: MP-NBFD10-20
+          name: "MP-NBFD10-20"
+          data: "glass/hoya/MP-NBFD10-20.yml"
         - PAGE: NBFD11
           name: "NBFD11"
           data: "glass/hoya/NBFD11.yml"
@@ -6569,15 +6711,18 @@
         - PAGE: NBFD15
           name: "NBFD15"
           data: "glass/hoya/NBFD15.yml"
-        - PAGE: M-NBFD10
-          name: "M-NBFD10"
-          data: "glass/hoya/M-NBFD10.yml"
-        - PAGE: M-NBFD82
-          name: "M-NBFD82"
-          data: "glass/hoya/M-NBFD82.yml"
+        - PAGE: NBFD15-W
+          name: "NBFD15-W"
+          data: "glass/hoya/NBFD15-W.yml"
         - PAGE: M-NBFD130
           name: "M-NBFD130"
           data: "glass/hoya/M-NBFD130.yml"
+        - PAGE: MP-NBFD130
+          name: "MP-NBFD130"
+          data: "glass/hoya/MP-NBFD130.yml"
+        - PAGE: MC-NBFD135
+          name: "MC-NBFD135"
+          data: "glass/hoya/MC-NBFD135.yml"
     - BOOK: HOYA-TaF
       name: "HOYA - TaF (Tantalum flint)"
       info: "glass/HOYA.html"
@@ -6585,12 +6730,21 @@
         - PAGE: TAF1
           name: "TAF1"
           data: "glass/hoya/TAF1.yml"
+        - PAGE: M-TAF1
+          name: "M-TAF1"
+          data: "glass/hoya/M-TAF1.yml"
+        - PAGE: MC-TAF1
+          name: "MC-TAF1"
+          data: "glass/hoya/MC-TAF1.yml"
         - PAGE: TAF2
           name: "TAF2"
           data: "glass/hoya/TAF2.yml"
         - PAGE: TAF3
           name: "TAF3"
           data: "glass/hoya/TAF3.yml"
+        - PAGE: TAF3D
+          name: "TAF3D"
+          data: "glass/hoya/TAF3D.yml"
         - PAGE: TAF4
           name: "TAF4"
           data: "glass/hoya/TAF4.yml"
@@ -6600,12 +6754,39 @@
         - PAGE: M-TAF31
           name: "M-TAF31"
           data: "glass/hoya/M-TAF31.yml"
+        - PAGE: MC-TAF31-15
+          name: "MC-TAF31-15"
+          data: "glass/hoya/MC-TAF31-15.yml"
+        - PAGE: MP-TAF31-15
+          name: "MP-TAF31-15"
+          data: "glass/hoya/MP-TAF31-15.yml"
         - PAGE: M-TAF101
           name: "M-TAF101"
           data: "glass/hoya/M-TAF101.yml"
+        - PAGE: MC-TAF101-100
+          name: "MC-TAF101-100"
+          data: "glass/hoya/MC-TAF101-100.yml"
+        - PAGE: MP-TAF101-100
+          name: "MP-TAF101-100"
+          data: "glass/hoya/MP-TAF101-100.yml"
+        - PAGE: M-TAF105
+          name: "M-TAF105"
+          data: "glass/hoya/M-TAF105.yml"
+        - PAGE: MC-TAF105
+          name: "MC-TAF105"
+          data: "glass/hoya/MC-TAF105.yml"
+        - PAGE: MP-TAF105
+          name: "MP-TAF105"
+          data: "glass/hoya/MP-TAF105.yml"
         - PAGE: M-TAF401
           name: "M-TAF401"
           data: "glass/hoya/M-TAF401.yml"
+        - PAGE: MC-TAF401
+          name: "MC-TAF401"
+          data: "glass/hoya/MC-TAF401.yml"
+        - PAGE: MP-TAF401
+          name: "MP-TAF401"
+          data: "glass/hoya/MP-TAF401.yml"
     - BOOK: HOYA-TaFD
       name: "HOYA - TaFD (Dense tantalum flint)"
       info: "glass/HOYA.html"
@@ -6613,26 +6794,77 @@
         - PAGE: TAFD5F
           name: "TAFD5F"
           data: "glass/hoya/TAFD5F.yml"
+        - PAGE: TAFD5G
+          name: "TAFD5G"
+          data: "glass/hoya/TAFD5G.yml"
         - PAGE: TAFD25
           name: "TAFD25"
           data: "glass/hoya/TAFD25.yml"
         - PAGE: TAFD30
           name: "TAFD30"
           data: "glass/hoya/TAFD30.yml"
+        - PAGE: TAFD32
+          name: "TAFD32"
+          data: "glass/hoya/TAFD32.yml"
+        - PAGE: TAFD33
+          name: "TAFD33"
+          data: "glass/hoya/TAFD33.yml"
+        - PAGE: TAFD35
+          name: "TAFD35"
+          data: "glass/hoya/TAFD35.yml"
+        - PAGE: TAFD37
+          name: "TAFD37"
+          data: "glass/hoya/TAFD37.yml"
+        - PAGE: TAFD37A
+          name: "TAFD37A"
+          data: "glass/hoya/TAFD37A.yml"
         - PAGE: TAFD40
           name: "TAFD40"
           data: "glass/hoya/TAFD40.yml"
+        - PAGE: TAFD45
+          name: "TAFD45"
+          data: "glass/hoya/TAFD45.yml"
         - PAGE: M-TAFD51
           name: "M-TAFD51"
           data: "glass/hoya/M-TAFD51.yml"
-        - PAGE: M-TAFD301
-          name: "M-TAFD301"
-          data: "glass/hoya/M-TAFD301.yml"
+        - PAGE: MC-TAFD51-50
+          name: "MC-TAFD51-50"
+          data: "glass/hoya/MC-TAFD51-50.yml"
+        - PAGE: MP-TAFD51-50
+          name: "MP-TAFD51-50"
+          data: "glass/hoya/MP-TAFD51-50.yml"
+        - PAGE: TAFD55
+          name: "TAFD55"
+          data: "glass/hoya/TAFD55.yml"
+        - PAGE: TAFD65
+          name: "TAFD65"
+          data: "glass/hoya/TAFD65.yml"
         - PAGE: M-TAFD305
           name: "M-TAFD305"
           data: "glass/hoya/M-TAFD305.yml"
+        - PAGE: MC-TAFD305
+          name: "MC-TAFD305"
+          data: "glass/hoya/MC-TAFD305.yml"
+        - PAGE: MP-TAFD305
+          name: "MP-TAFD305"
+          data: "glass/hoya/MP-TAFD305.yml"
+        - PAGE: M-TAFD307
+          name: "M-TAFD307"
+          data: "glass/hoya/M-TAFD307.yml"
+        - PAGE: MC-TAFD307
+          name: "MC-TAFD307"
+          data: "glass/hoya/MC-TAFD307.yml"
+        - PAGE: MP-TAFD307
+          name: "MP-TAFD307"
+          data: "glass/hoya/MP-TAFD307.yml"
+        - PAGE: M-TAFD405
+          name: "M-TAFD405"
+          data: "glass/hoya/M-TAFD405.yml"
+        - PAGE: MP-TAFD405
+          name: "MP-TAFD405"
+          data: "glass/hoya/MP-TAFD405.yml"
     - BOOK: HOYA-CF
-      name: "HOYA - CF (Crownflint)"
+      name: "HOYA - CF (Crown flint)"
       info: "glass/HOYA.html"
       content:
         - PAGE: E-CF6
@@ -8394,4 +8626,4 @@
           data: "other/soots/propane soot/Dalzell.yml"
         - PAGE: diesel_soot
           name: "Diesel soot"
-          data: "other/soots/diesel soot/Querry-NMSU.yml"
+          data: "other/soots/diesel soot/Querry-NMSU.yml"

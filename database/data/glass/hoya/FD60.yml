@@ -2,9 +2,56 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "<a href=\"http://www.hoyaoptics.com/products/document_library.htm\">HOYA Optical Glass Master Datasheet</a>"
-COMMENTS: "Refractive index is relative to air at standard conditions; Wavelength in dispersion formula is as measured in air and expressed in micrometers"
+REFERENCES: "<a href=\"http://refractiveindex.info/download/data/2017/hoya_2017-04-01.agf\">HOYA Zemax catalog 2017-04-01</a> (obtained from <a href=\"http://www.hoya-opticalworld.com/english/datadownload/\">http://www.hoya-opticalworld.com</a>)"
+COMMENTS: "General glass Type"
 DATA:
-  - type: formula 3
-    range: 0.37 1.55
-    coefficients: 3.1171483 -1.1616277E-2 2 4.4864975E-2 -2 1.6588491E-3 -4 2.5716854E-5 -6 1.4757657E-5 -8
+  - type: formula 3 
+    range: 0.36501 1.01398
+    coefficients: 3.1171483 -0.011616277 2 0.044864975 -2 0.0016588491 -4 2.5716854e-05 -6 1.4757657e-05 -8
+  - type: tabulated k
+    data: |
+        0.360 1.2229E-05
+        0.370 4.2765E-06
+        0.380 1.5498E-06
+        0.390 6.6934E-07
+        0.400 3.7452E-07
+        0.420 2.1036E-07
+        0.440 1.5389E-07
+        0.460 1.3042E-07
+        0.480 1.0848E-07
+        0.500 8.4446E-08
+        0.550 3.9569E-08
+        0.600 3.3540E-08
+        0.650 5.1986E-08
+        0.700 3.9130E-08
+        0.750 2.9916E-08
+        0.780 1.8649E-08
+        0.800 1.2745E-08
+        0.830 6.6082E-09
+        0.850 1.3542E-08
+        0.900 1.4338E-08
+        0.950 2.2714E-08
+        1.000 2.3909E-08
+        1.050 2.5105E-08
+        1.060 2.5344E-08
+        1.100 1.7525E-08
+        1.200 1.9118E-08
+        1.300 2.0711E-08
+        1.400 2.2304E-08
+        1.500 4.7842E-08
+        1.550 3.7059E-08
+SPECS:
+    n_is_absolute: false
+    λ_is_vacuum: false
+    temperature: 20.0 °C
+    coefficients_of_thermal_dispersion: -5.29e-06 9.6e-09 -5.1e-11 1.06e-06 1.34e-09 0.282
+    n_d: 1.80518
+    V_d: 25.46
+    glass_code: 805255
+    density: 3.36 g/cm<sup>3</sup>
+    coefficient_of_thermal_expansion_1: 8.8e-06 K<sup>-1</sup>
+    coefficient_of_thermal_expansion_2: 1.09e-05 K<sup>-1</sup>
+    ΔP_gF: 0.0132
+    climatic_resistance: 1.0
+    stain_resistance: 1.0
+    acid_resistance: 1.0
