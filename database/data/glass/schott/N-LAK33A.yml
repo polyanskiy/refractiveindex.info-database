@@ -2,10 +2,10 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "1) <a href=\"https://refractiveindex.info/download/data/2015/schott-optical-glass-collection-datasheets-july-2015-us.pdf\">SCHOTT optical glass data sheets 2015-07-22</a><br>2) <a href=\"https://refractiveindex.info/download/data/2015/schottzemax-20150722.agf\">SCHOTT Zemax catalog 2015-07-22</a>"
-COMMENTS: "will become inquiry glass as of Jan 2015. not recommended for new design"
+REFERENCES: "<a href=\"http://refractiveindex.info/download/data/2017/schott_2017-01-20b.agf\">SCHOTT Zemax catalog 2017-01-20b</a> (obtained from <a href=\"http://www.schott.com/advanced_optics/english/download/\">http://www.schott.com</a>)"
+COMMENTS: "inquiry glass        "
 DATA:
-  - type: formula 2
+  - type: formula 2 
     range: 0.32 2.5
     coefficients: 0 1.44116999 0.00680933877 0.571749501 0.0222291824 1.16605226 80.9379555
   - type: tabulated k
@@ -41,7 +41,7 @@ SPECS:
     n_d: 1.75393
     V_d: 52.27
     glass_code: 754523.422
-    glass_status: standard
+    glass_status: special
     density: 4.216 g/cm<sup>3</sup>
     coefficient_of_thermal_expansion_1: 5.8e-06 K<sup>-1</sup>
     coefficient_of_thermal_expansion_2: 7.02e-06 K<sup>-1</sup>

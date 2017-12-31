@@ -2,10 +2,10 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "1) <a href=\"https://refractiveindex.info/download/data/2015/schott-optical-glass-collection-datasheets-july-2015-us.pdf\">SCHOTT optical glass data sheets 2015-07-22</a><br>2) <a href=\"https://refractiveindex.info/download/data/2015/schottzemax-20150722.agf\">SCHOTT Zemax catalog 2015-07-22</a>"
-COMMENTS: "suitable for precision molding"
+REFERENCES: "<a href=\"http://refractiveindex.info/download/data/2017/schott_2017-01-20b.agf\">SCHOTT Zemax catalog 2017-01-20b</a> (obtained from <a href=\"http://www.schott.com/advanced_optics/english/download/\">http://www.schott.com</a>)"
+COMMENTS: "suitable for precision molding        "
 DATA:
-  - type: formula 2
+  - type: formula 2 
     range: 0.3 2.5
     coefficients: 0 1.40790442 0.00784382378 0.143381417 0.0287769365 1.16513947 105.373397
   - type: tabulated k
@@ -48,7 +48,7 @@ SPECS:
     coefficient_of_thermal_expansion_1: 7.06e-06 K<sup>-1</sup>
     coefficient_of_thermal_expansion_2: 8.85e-06 K<sup>-1</sup>
     ΔP_gF: -0.0037
-    climatic_resistance: 3.5
+    climatic_resistance: 3.0
     stain_resistance: 5.0
     acid_resistance: 53.4
     alkali_resistance: 2.3

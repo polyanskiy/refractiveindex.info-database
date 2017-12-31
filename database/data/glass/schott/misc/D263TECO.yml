@@ -2,10 +2,10 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "<a href=\"https://refractiveindex.info/download/data/2015/schottzemax-20150722.agf\">SCHOTT Zemax catalog 2015-07-22</a>"
+REFERENCES: "<a href=\"http://refractiveindex.info/download/data/2017/schott_2017-01-20b.agf\">SCHOTT Zemax catalog 2017-01-20b</a> (obtained from <a href=\"http://www.schott.com/advanced_optics/english/download/\">http://www.schott.com</a>)"
 COMMENTS: "Clear borosilicate glass of high chemical resistance"
 DATA:
-  - type: formula 2
+  - type: formula 2 
     range: 0.334 2.325
     coefficients: 0 1.23795755 0.00863080926 0.0466468888 0.0469074501 2.46700556 264.146296
   - type: tabulated k

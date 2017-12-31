@@ -2,10 +2,10 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "1) <a href=\"https://refractiveindex.info/download/data/2015/ohara_2015-12-01.pdf\">OHARA optical glass datasheets 2015-12-01</a><br>2) <a href=\"https://refractiveindex.info/download/data/2015/OHARA_151201.agf\">OHARA Zemax catalog 2015-12-01</a>"
+REFERENCES: "<a href=\"http://refractiveindex.info/download/data/2017/ohara_2017-11-30.agf\">OHARA Zemax catalog 2017-11-30</a> (obtained from <a href=\"http://www.ohara-inc.co.jp/en/product/optical/list/\">http://www.ohara-inc.co.jp</a>)<br>See also <a href=\"http://refractiveindex.info/download/data/2017/ohara_2017-11-30.pdf\">OHARA glass data sheets</a>"
 COMMENTS: "Recommended"
 DATA:
-  - type: formula 2
+  - type: formula 2 
     range: 0.365 2.325
     coefficients: 0 2.17884378 0.0115760879 0.325508683 0.0495982503 1.70608646 128.91358
   - type: tabulated k
@@ -41,7 +41,6 @@ SPECS:
     coefficients_of_thermal_dispersion: 2.48e-06 9.67e-09 -3.51e-12 8.57e-07 9.77e-10 0.258
     n_d: 1.905250
     V_d: 35.036826
-    glass_status: standard
     density: 4.83 g/cm<sup>3</sup>
     coefficient_of_thermal_expansion_1: 7e-06 K<sup>-1</sup>
     climatic_resistance: 1.0

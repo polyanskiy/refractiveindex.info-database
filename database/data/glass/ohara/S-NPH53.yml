@@ -2,10 +2,10 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "1) <a href=\"https://refractiveindex.info/download/data/2015/ohara_2015-12-01.pdf\">OHARA optical glass datasheets 2015-12-01</a><br>2) <a href=\"https://refractiveindex.info/download/data/2015/OHARA_151201.agf\">OHARA Zemax catalog 2015-12-01</a>"
-COMMENTS: "Improved XMT at 370-420"
+REFERENCES: "<a href=\"http://refractiveindex.info/download/data/2017/ohara_2017-11-30.agf\">OHARA Zemax catalog 2017-11-30</a> (obtained from <a href=\"http://www.ohara-inc.co.jp/en/product/optical/list/\">http://www.ohara-inc.co.jp</a>)<br>See also <a href=\"http://refractiveindex.info/download/data/2017/ohara_2017-11-30.pdf\">OHARA glass data sheets</a>"
+COMMENTS: "Improved XMT at 370-420 "
 DATA:
-  - type: formula 2
+  - type: formula 2 
     range: 0.36 2.4
     coefficients: 0 1.85484904 0.0134621486 0.396194484 0.0631945361 2.43512461 170.864886
   - type: tabulated k
@@ -42,7 +42,6 @@ SPECS:
     n_d: 1.846660
     V_d: 23.883950
     glass_code: 847239
-    glass_status: standard
     density: 3.78 g/cm<sup>3</sup>
     coefficient_of_thermal_expansion_1: 7.4e-06 K<sup>-1</sup>
     coefficient_of_thermal_expansion_2: 9e-06 K<sup>-1</sup>
