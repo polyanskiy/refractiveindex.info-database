@@ -13,6 +13,7 @@
     glass/hoya/* - updated to the latest zemax catalog
     glass/schott/* - updated to the latest zemax catalog
     glass/ohara/* - updated to the latest zemax catalog
+    glass/hikari/* - updated to the latest zemax catalog
   new data (thanks to Naser Otman, Dalhousie University, Canada, for suggesting data!)
     main/Ag/Yang.yml
   new data(thanks to Matteo Pancaldi, nanoGUNE, San Sebastián, Spain, for suggesting data and initial submission in YAML format!
