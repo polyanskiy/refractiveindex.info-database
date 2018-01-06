@@ -2,12 +2,12 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "1) <a href=\"https://refractiveindex.info/download/data/2015/HIKARI_Catalog.pdf\">HIKARI optical glass catalog 2015-04-01</a><br>2) <a href=\"https://refractiveindex.info/download/data/2015/HIKARI.agf\">HIKARI Zemax catalog</a>"
-COMMENTS: "For mold lens"
+REFERENCES: "<a href=\"http://refractiveindex.info/download/data/2017/nikon_2017-11.agf\">NIKON Zemax catalog 2017-11</a> (obtained from <a href=\"http://www.nikon.com/products/glass/lineup/materials/optical/\">http://www.nikon.com</a>)<br>See also <a href=\"http://refractiveindex.info/download/data/2017/hikari_2017-04-01.pdf\">HIKARI glass data sheets</a>"
+COMMENTS: "For	mold	lens"
 DATA:
-  - type: formula 3
+  - type: formula 2 
     range: 0.365015 2.05809
-    coefficients: 2.10025148 -0.00458689757 2 -2.09903123e-05 4 0.00685727645 -2 2.32345667e-05 -4 4.89859472e-06 -6 -1.82336191e-07 -8
+    coefficients: 0 2.10025148 -0.00458689757 -2.09903123e-05 0.00685727645 2.32345667e-05 4.89859472e-06 -1.82336191e-07 0.0
   - type: tabulated k
     data: |
         0.300 7.6845E-06
@@ -45,6 +45,7 @@ SPECS:
     n_is_absolute: false
     λ_is_vacuum: false
     temperature: 23.0 °C
+    coefficients_of_thermal_dispersion: -1.998e-05 -7.2484e-09 -1.0199e-12 3.9343e-07 3.3572e-10 0.10375
     n_d: 1.455620
     V_d: 91.307727
     density: 3.67 g/cm<sup>3</sup>
