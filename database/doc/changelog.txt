@@ -45,6 +45,9 @@
   updates
     other/mixed gases/air/Cyddor.yml: reference to calculation script
     other/human body/liver/Giannios.yml: references
+    main/Ag/Johnson.yml: references
+    main/Au/Johnson.yml: references
+    main/Cu/Johnson.yml: references
   bug fixes
     added a new line at the end of each file (thanks to Thibault North!)
     page id's for Lemarchand's Au data changed to 'Lemarchand-3.96nm', 'Lemarchand-4.62nm', 'Lemarchand-5.77nm', and 'Lemarchand-11.7' (was simply 'Lemarcand' in all cases)
