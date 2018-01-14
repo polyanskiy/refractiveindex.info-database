@@ -2684,12 +2684,36 @@
       name: "YVO<sub>4</sub> (Yttrium vanadate)"
       info: "main/YVO4.html"
       content:
-        - PAGE: Shi-o
-          name: "Shi et al. 2001: n(o) 0.48-1.34 µm"
-          data: "main/YVO4/Shi-o.yml"
-        - PAGE: Shi-e
-          name: "Shi et al. 2001: n(e) 0.48-1.34 µm"
-          data: "main/YVO4/Shi-e.yml"
+        - PAGE: Shi-o-20C
+          name: "Shi et al. 2001: n(o) 0.48-1.34 µm; 20 °C"
+          data: "main/YVO4/Shi-o-20C.yml"
+        - PAGE: Shi-e-20C
+          name: "Shi et al. 2001: n(e) 0.48-1.34 µm; 20 °C"
+          data: "main/YVO4/Shi-e-20C.yml"
+        - PAGE: Shi-o-50C
+          name: "Shi et al. 2001: n(o) 0.48-1.34 µm; 50 °C"
+          data: "main/YVO4/Shi-o-50C.yml"
+        - PAGE: Shi-e-50C
+          name: "Shi et al. 2001: n(e) 0.48-1.34 µm; 50 °C"
+          data: "main/YVO4/Shi-e-50C.yml"
+        - PAGE: Shi-o-80C
+          name: "Shi et al. 2001: n(o) 0.48-1.34 µm; 80 °C"
+          data: "main/YVO4/Shi-o-80C.yml"
+        - PAGE: Shi-e-80C
+          name: "Shi et al. 2001: n(e) 0.48-1.34 µm; 80 °C"
+          data: "main/YVO4/Shi-e-80C.yml"
+        - PAGE: Shi-o-110C
+          name: "Shi et al. 2001: n(o) 0.48-1.34 µm; 110 °C"
+          data: "main/YVO4/Shi-o-110C.yml"
+        - PAGE: Shi-e-110C
+          name: "Shi et al. 2001: n(e) 0.48-1.34 µm; 110 °C"
+          data: "main/YVO4/Shi-e-110C.yml"
+        - PAGE: Shi-o-140C
+          name: "Shi et al. 2001: n(o) 0.48-1.34 µm; 140 °C"
+          data: "main/YVO4/Shi-o-140C.yml"
+        - PAGE: Shi-e-140C
+          name: "Shi et al. 2001: n(e) 0.48-1.34 µm; 140 °C"
+          data: "main/YVO4/Shi-e-140C.yml"
     - DIVIDER: "W - Tungsten and tungstates"
     - BOOK: W
       name: "W (Tungsten)"

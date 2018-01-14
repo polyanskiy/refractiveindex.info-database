@@ -14,6 +14,18 @@
     glass/schott/* - updated to the latest zemax catalog
     glass/ohara/* - updated to the latest zemax catalog
     glass/hikari/* - updated to the latest zemax catalog
+  updated data (thanks to Heinrich Grabmayr, Ludwig Maximilian University of Munich, Germany, for finding a bug in a formula)
+    main/YVO4/Shi-o.yml - fixed formuls, renamed to Shi-o-20C
+    main/YVO4/Shi-e.yml - renamed to Shi-e-20C
+  new data
+    main/YVO4/Shi-o-50C.yml
+    main/YVO4/Shi-e-50C.yml
+    main/YVO4/Shi-o-80C.yml
+    main/YVO4/Shi-e-80C.yml
+    main/YVO4/Shi-o-110C.yml
+    main/YVO4/Shi-e-110C.yml
+    main/YVO4/Shi-o-140C.yml
+    main/YVO4/Shi-e-140C.yml
   new data (thanks to Naser Otman, Dalhousie University, Canada, for suggesting data!)
     main/Ag/Yang.yml
   new data(thanks to Matteo Pancaldi, nanoGUNE, San Sebastián, Spain, for suggesting data and initial submission in YAML format!
