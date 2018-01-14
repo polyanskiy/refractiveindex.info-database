@@ -2681,7 +2681,7 @@
           name: "Werner et al. 2009: DFT calculations; n,k 0.01759-2.480 µm"
           data: "main/V/Werner-DFT.yml"
     - BOOK: YVO4
-      name: "YVO<sub>4</sub> (Yttrium vanadate)"
+      name: "YVO<sub>4</sub> (Yttrium orthovanadate)"
       info: "main/YVO4.html"
       content:
         - PAGE: Shi-o-20C
