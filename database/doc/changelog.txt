@@ -14,9 +14,19 @@
     glass/schott/* - updated to the latest zemax catalog
     glass/ohara/* - updated to the latest zemax catalog
     glass/hikari/* - updated to the latest zemax catalog
+  updated data (thanks to Hui Zhang, Pekin University, China, for providing numerical data in YAML format!)
+    main/MoS2/Zhang.yml
+  bug fixes
+    main/MoO3/Vos.yml: references
+    main/MoS2/Yim-1.99um.yml: references
+    main/MoS2/Yim-3.01um.yml: references
+    main/MoS2/Yim-19.88um.yml: references
+    main/MoS2/Beal.yml: references
+    main/MoSe2/Beal.yml: references
+    main/MoTe2/Beal.yml: references
   updated data (thanks to Heinrich Grabmayr, Ludwig Maximilian University of Munich, Germany, for finding a bug in a formula)
-    main/YVO4/Shi-o.yml - fixed formuls, renamed to Shi-o-20C
-    main/YVO4/Shi-e.yml - renamed to Shi-e-20C
+    main/YVO4/Shi-o.yml: fixed formuls, renamed to Shi-o-20C
+    main/YVO4/Shi-e.yml: renamed to Shi-e-20C
   new data
     main/YVO4/Shi-o-50C.yml
     main/YVO4/Shi-e-50C.yml
