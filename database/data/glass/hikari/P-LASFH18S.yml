@@ -5,9 +5,9 @@
 REFERENCES: "<a href=\"http://refractiveindex.info/download/data/2017/nikon_2017-11.agf\">NIKON Zemax catalog 2017-11</a> (obtained from <a href=\"http://www.nikon.com/products/glass/lineup/materials/optical/\">http://www.nikon.com</a>)<br>See also <a href=\"http://refractiveindex.info/download/data/2017/hikari_2017-04-01.pdf\">HIKARI glass data sheets</a>"
 COMMENTS: "Low	Tg	glass"
 DATA:
-  - type: formula 2 
+  - type: formula 3 
     range: 0.4 0.7
-    coefficients: 0 3.32566886 -0.0131396072 0.0340298328 0.000803745646 1.03681091e-05 2.05840857e-06 -0.000123587896 0.0
+    coefficients: 3.32566886 -0.0131396072 2 0.0340298328 -2 0.000803745646 -4 1.03681091e-05 -6 2.05840857e-06 -8 -0.000123587896 4
   - type: tabulated k
     data: |
         0.330 1.2093E-05
