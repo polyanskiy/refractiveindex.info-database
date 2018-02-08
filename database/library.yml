@@ -1547,7 +1547,7 @@
           name: "Daimon and Masumura 2007: Water; n 0.18-1.13 µm; 24.0 °C"
           data: "main/H2O/Daimon-24.0C.yml"
         - PAGE: Segelstein
-          name: "Segelstein 1981: Water; n,k 0.34-1.0e7 µm; 25 °C"
+          name: "Segelstein 1981: Water; n,k 0.034-1.0e7 µm; 25 °C"
           data: "main/H2O/Segelstein.yml"
         - PAGE: Asfar-H2O
           name: "Afsar and Hasted 1977: Water; n,k 22.22-1733 µm; 19.0 °C"
