@@ -28,6 +28,7 @@
     main/YVO4/Shi-o.yml: fixed formuls, renamed to Shi-o-20C
     main/YVO4/Shi-e.yml: renamed to Shi-e-20C
   new data
+    main/H2O/Segelstein.yml
     main/YVO4/Shi-o-50C.yml
     main/YVO4/Shi-e-50C.yml
     main/YVO4/Shi-o-80C.yml
@@ -65,6 +66,7 @@
   new data (thanks to David Rowe for preparing data!)
     organic/C2H2Cl2 - dichloromethane/Bertie.yml
   updates
+    main/H2O/Hale.yml: references
     other/mixed gases/air/Cyddor.yml: reference to calculation script
     other/human body/liver/Giannios.yml: references
     main/Ag/Johnson.yml: references
