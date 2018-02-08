@@ -2,7 +2,7 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "G. M. Hale and M. R. Querry. Optical constants of water in the 200-nm to 200-µm wavelength region, <a href=\"https://doi.org/10.1364/AO.12.000555\"><i>Appl. Opt.</i> <b>12</b>, 555-563 (1973)</a>"
+REFERENCES: "G. M. Hale and M. R. Querry. Optical constants of water in the 200-nm to 200-µm wavelength region, <a href=\"https://doi.org/10.1364/AO.12.000555\"><i>Appl. Opt.</i> <b>12</b>, 555-563 (1973)</a><br>See also <a href=\"https://refractiveindex.info/?shelf=main&book=H2O&page=Segelstein\"><i>Segelstein 1981</i></a> for more recent data from the same group."
 COMMENTS: "Liquid water (H<sub>2</sub>O) at 25 °C"
 DATA:
   - type: tabulated nk
