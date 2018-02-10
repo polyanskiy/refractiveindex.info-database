@@ -1,4 +1,4 @@
-============================== next release ==============================
+============================== 2018-02-10 ==============================
 
   !!! update of database structure !!! 
     added "info" - optional additional information that can be associated with shelves, books and pages
