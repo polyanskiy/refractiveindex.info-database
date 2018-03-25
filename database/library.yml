@@ -9919,6 +9919,12 @@
         - PAGE: MicroresistEpoClad
           name: "Micro resist EpoClad"
           data: "other/resists/Micro resist EpoClad.yml"
+        - PAGE: Microchem_SU8_2000
+          name: "Microchem SU-8 2000"
+          data: "other/resists/Microchem SU-8 2000.yml"
+        - PAGE: Microchem_SU8_3000
+          name: "Microchem SU-8 3000"
+          data: "other/resists/Microchem SU-8 3000.yml"
     - DIVIDER: "Perovskite"
     - BOOK: CH3NH3PbI3
       name: "CH3NH3PbI3 (Methylammonium lead iodide, MAPbI3)"

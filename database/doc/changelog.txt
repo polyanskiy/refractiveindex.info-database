@@ -4,6 +4,9 @@
     main/CeF3/Rodriguez-de Marcos.yml
     main/LaF3/Rodriguez-de Marcos.yml
     main/MgF2/Rodriguez-de Marcos.yml
+  new data (thanks to Valkai Sándor!)
+    other/resists/Microchem SU-8 2000.yml
+    other/resists/Microchem SU-8 3000.yml
 
 
 ============================== 2018-02-10 ==============================
@@ -86,6 +89,7 @@
   miscellaneous
     colons in id's of several pages replaced by dashes (e.g. Mg:LiTaO3 -> Mg-LiTaO3)
     optical glasses re-arranged in library.yml
+    
 
 ============================== 2017-09-05 ==============================
   
@@ -170,10 +174,12 @@
     main/GaN/Barker-o.yml: comments, references
   bug fixes
     main/Al2O3/Querry-e.yml: data (thanks to Philipp Franz, Paul-Drude-Institut für Festkörperelektronik, Berlin, Germany)
+    
 
 ============================== 2017-03-25 ==============================
 
   multiple bug fixes in library.yml (thanks to Thibault North!)
+  
 
 ============================== 2017-03-14 ==============================
 
@@ -440,6 +446,7 @@
     other/mixed gases/air/Ciddor.yml: comments
   bug fixes
     library.yml: fixed "HIKARI-KF" book wrongly named "HIKARI-FK"
+    
 
 ============================== 2016-05-25 ==============================
 
@@ -486,6 +493,7 @@
     main/BaB2O4/Eimerl-e.yml (updated authors list)
     main/H2O/* (added INFO sectoin)
     main/D2O/* (added INFO sectoin)
+    
 
 ============================== 2016-01-31 ==============================
 
@@ -543,6 +551,7 @@
     glass/hikari/*.yml
     glass/ohara/*.yml
     glass/schott/*.yml
+    
 
 ============================== 2015-12-01 ==============================
 
@@ -569,6 +578,7 @@
     fixed encoding error in main/Ag3AsS3/Hulme-e.yml (thanks to Thibault North!)
   other
     library.yml: ' - ' replaced by ': ' in page names
+    
 
 ============================== 2015-08-18 ==============================
 
@@ -584,6 +594,7 @@
     corrected publication date of main/Ho/Fernandez-Perea.yml data in library.yml (2008->2011)
     main/Tm/Garcia-Cortes.yml renamed to main/Tm/Vidal-Dasilva.yml; Record in library.yml updated accordingly
     removed legacy main/C/Amorphous.yml
+    
 
 ============================== 2015-07-05 ==============================
 
@@ -607,6 +618,7 @@
   other
     library.yml: Improved classification of organic compounds (alcohols -> alcohols, diols and triols)
     library.yml: Amyl alcohol renamed to Pentanol
+    
 
 ============================== 2015-05-24 ==============================
 
@@ -629,6 +641,7 @@
   small improvements
     "Numerical data kindly provided by..." notes modified to use same format across the database
     library.yml: added missing "n,k" in the names of some pages (in Ag, Al, Au, Cu)
+    
 
 ============================== 2015-03-11 ==============================
 
@@ -653,6 +666,7 @@
     organic/C7H8 - toluene/Moutzouris.yml
     organic/CCl4 - carbon tetrachloride/Moutzouris.yml
     organic/CH4O - methanol/Moutzouris.yml
+    
 
 ============================== 2015-02-15 ==============================
 
@@ -691,12 +705,14 @@
     added Pb and Ti "3D" shelf
     added "MISCELLANEOUS" book to "3D" shelf
     added acetylene and propane soot to "3D" shelf
+    
 
 ============================== 2015-01-17 ==============================
 
   !!! refractiveindex.info database is released to public domain via CC0 1.0 Universal Public Domain Dedication !!!
   bug fixes
     glass/schott/inquiry/N-BAF3 - added closing quotation mark in the "COMMENTS:" field
+    
 
 ============================== 2015-01-01 ==============================
 
@@ -710,6 +726,7 @@
     main/SrF2/Li.yml
     main/MgF2/Li-o.yml
     main/MgF2/Li-e.yml
+    
 
 ============================== 2014-11-08 ==============================
 
@@ -737,6 +754,7 @@
       "divider:" -> "DIVIDER:"
   other
     added a comment to all optical glass entries about refractive index and wavelength being relative to air (thanks to Rod Vance for the idea)
+    
 
 ============================== 2014-09-29 ==============================
 
@@ -766,6 +784,7 @@
         "Organic" -> "ORGANIC - organic materials"
         "Glass"   -> "GLASS - glasses"
         "Other"   -> "OTHER - miscellaneous materials"
+        
 
 ============================== 2014-07-21 ==============================
 
@@ -775,6 +794,7 @@
     main/GaAs/Skauli.yml
   updated data
     glass/vitron/*.yml (thanks to Dr. Rolf Henkel, VITRON Spezialwerkstoffe GmbH)
+    
 
 ============================== 2014-07-05 ==============================
 
@@ -783,6 +803,7 @@
     corrected link to 'Hagemann 1974 - DESY report SR-74-7.pdf' in several files
     removed extra newline symbols in the REFERENCES field in many files
     replaced /n by /r/n everywhere (previously booth notations for newline were used inconsistently)
+    
 
 ============================== 2014-07-01 ==============================
 
