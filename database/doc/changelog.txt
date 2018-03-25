@@ -1,3 +1,11 @@
+============================== Next release ==============================
+
+  new data (thanks to Juan I. Larruquert for providing numerical data!)
+    main/CeF3/Rodriguez-de Marcos.yml
+    main/LaF3/Rodriguez-de Marcos.yml
+    main/MgF2/Rodriguez-de Marcos.yml
+
+
 ============================== 2018-02-10 ==============================
 
   !!! update of database structure !!! 

@@ -765,6 +765,13 @@
         - PAGE: Li
           name: "Li 1980: n 0.15-12.0 µm; 20 °C"
           data: "main/CaF2/Li.yml"
+    - BOOK: CeF3
+      name: "CeF<sub>3</sub> (Cerium trifluoride)"
+      info: "main/CeF3.html"
+      content:
+        - PAGE: Rodriguez-de_Marcos
+          name: "Rodríguez-de Marcos et al. 2017: n,k 0.03-2.0 µm"
+          data: "main/CeF3/Rodriguez-de Marcos.yml"
     - BOOK: CsF
       name: "CsF (Cesium fluoride)"
       info: "main/CsF.html"
@@ -783,12 +790,17 @@
       name: "LaF<sub>3</sub> (Lanthanum fluoride)"
       info: "main/LaF3.html"
       content:
+        - DIVIDER: "Crystal"
         - PAGE: Laihoa-o
           name: "Laihoa and Lakkistoa 1983: n(o) 0.35-0.70 µm"
           data: "main/LaF3/Laihoa-o.yml"
         - PAGE: Laihoa-e
           name: "Laihoa and Lakkistoa 1983: n(e) 0.35-0.70 µm"
           data: "main/LaF3/Laihoa-e.yml"
+        - DIVIDER: "Thin film"
+        - PAGE: Rodriguez-de_Marcos
+          name: "Rodríguez-de Marcos et al. 2017: n,k 0.03-2.0 µm"
+          data: "main/LaF3/Rodriguez-de Marcos.yml"
     - BOOK: LiF
       name: "LiF (Lithium fluoride)"
       info: "main/LiF.html"
@@ -817,6 +829,7 @@
       name: "MgF<sub>2</sub> (Magnesium fluoride)"
       info: "main/MgF2.html"
       content:
+        - DIVIDER: "Crystal"
         - PAGE: Dodge-o
           name: "Dodge 1984: n(o) 0.2-7.0 µm"
           data: "main/MgF2/Dodge-o.yml"
@@ -829,6 +842,10 @@
         - PAGE: Li-e
           name: "Li 1980: n(e) 0.14-7.5 µm"
           data: "main/MgF2/Li-e.yml"
+        - DIVIDER: "Thin film"
+        - PAGE: Rodriguez-de_Marcos
+          name: "Rodríguez-de Marcos et al. 2017: n,k 0.03-2.0 µm"
+          data: "main/MgF2/Rodriguez-de Marcos.yml"
     - BOOK: PbF2
       name: "PbF<sub>2</sub> (Lead difluoride)"
       info: "main/PbF2.html"
@@ -3451,8 +3468,8 @@
       content:
         - PAGE: SCHOTT
           name: "N-BAK1 (SCHOTT)"
-          info: "glass/SCHOTT.html"
           data: "glass/schott/N-BAK1.yml"
+          info: "glass/SCHOTT.html"
         - PAGE: OHARA
           name: "S-BAL11 (OHARA)"
           data: "glass/ohara/S-BAL11.yml"
