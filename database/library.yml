@@ -10033,6 +10033,27 @@
       name: "Bombyx mori (silkworm) silk"
       info: "other/silk.html"
       content:
+        - PAGE: Bucciarelli-FPP_FA_Ex
+          name: "Bucciarelli et al. 2018: Photocrosslinkable fibroin film, crosslinked; n 0.4-1.5 µm"
+          data: "other/silk/Bombyx mori/Bucciarelli-FPP_FA_Ex.yml"
+        - PAGE: Bucciarelli-FPP_FA_Unex
+          name: "Bucciarelli et al. 2018: Photocrosslinkable fibroin film, uncrosslinked; n 0.4-1.5 µm"
+          data: "other/silk/Bombyx mori/Bucciarelli-FPP_FA_Unex.yml"
+        - PAGE: Bucciarelli-rSF_FA
+          name: "Bucciarelli et al. 2018: Pure fibroin film, formed using formic acid; n 0.4-1.5 µm"
+          data: "other/silk/Bombyx mori/Bucciarelli-rSF_FA.yml"
+        - PAGE: Bucciarelli-rSF_H2O
+          name: "Bucciarelli et al. 2018: Pure fibroin film, formed using water; n 0.4-1.5 µm"
+          data: "other/silk/Bombyx mori/Bucciarelli-rSF_H2O.yml"
+        - PAGE: Bucciarelli-SPP_FA_Ex
+          name: "Bucciarelli et al. 2018: Photocrosslinkable sericin film, crosslinked; n 0.4-1.5 µm"
+          data: "other/silk/Bombyx mori/Bucciarelli-SPP_FA_Ex.yml"
+        - PAGE: Bucciarelli-SPP_FA_Unex
+          name: "Bucciarelli et al. 2018: Photocrosslinkable sericin film, uncrosslinked; n 0.4-1.5 µm"
+          data: "other/silk/Bombyx mori/Bucciarelli-SPP_FA_Unex.yml"
+        - PAGE: Bucciarelli-SN_FA
+          name: "Bucciarelli et al. 2018: Sericin film; n 0.4-1.5 µm"
+          data: "other/silk/Bombyx mori/Bucciarelli-SN_FA.yml"
         - PAGE: Perotto
           name: "Perotto et al. 2017: Native fibroin film; n 0.3-1.7 µm"
           data: "other/silk/Bombyx mori/Perotto.yml"

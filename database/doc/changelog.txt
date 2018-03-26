@@ -7,6 +7,14 @@
   new data (thanks to Valkai Sándor!)
     other/resists/Microchem SU-8 2000.yml
     other/resists/Microchem SU-8 3000.yml
+  new data (thanks to Alessio Bucciarelli, University of Trento, Italy!)
+    other/silk/Bombyx mori/Bucciarelli-FPP_FA_Ex.yml
+    other/silk/Bombyx mori/Bucciarelli-FPP_FA_Unex.yml
+    other/silk/Bombyx mori/Bucciarelli-rSF_FA.yml
+    other/silk/Bombyx mori/Bucciarelli-rSF_H2O.yml
+    other/silk/Bombyx mori/Bucciarelli-SPP_FA_Ex.yml
+    other/silk/Bombyx mori/Bucciarelli-SPP_FA_Unex.yml
+    other/silk/Bombyx mori/Bucciarelli-SN_FA.yml
 
 
 ============================== 2018-02-10 ==============================
