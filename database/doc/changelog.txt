@@ -4,6 +4,8 @@
     main/CeF3/Rodriguez-de Marcos.yml
     main/LaF3/Rodriguez-de Marcos.yml
     main/MgF2/Rodriguez-de Marcos.yml
+    main/SiO2/Rodriguez-de Marcos.yml
+    main/Ta2O5/Rodriguez-de Marcos.yml
   new data (thanks to Valkai Sándor!)
     other/resists/Microchem SU-8 2000.yml
     other/resists/Microchem SU-8 3000.yml

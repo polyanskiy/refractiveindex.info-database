@@ -1683,6 +1683,9 @@
         - PAGE: Kischkat
           name: "Kischkat et al. 2012: Thin film; n,k 1.54-14.29 µm"
           data: "main/SiO2/Kischkat.yml"
+        - PAGE: Rodriguez-de_Marcos
+          name: "Rodríguez-de Marcos et al. 2016: Thin film; n,k 0.03-1.5 µm"
+          data: "main/SiO2/Rodriguez-de Marcos.yml"
         - PAGE: Gao
           name: "Gao et al. 2013: Thin film; n,k 0.252-1.250 µm"
           data: "main/SiO2/Gao.yml"
@@ -1699,6 +1702,9 @@
         - PAGE: Bright-nanocrystalline
           name: "Bright et al. 2013: Nanocrystalline film; n,k 0.5-1000 µm"
           data: "main/Ta2O5/Bright-nanocrystalline.yml"
+        - PAGE: Rodriguez-de_Marcos
+          name: "Rodríguez-de Marcos et al. 2016: n,k 0.03-1.5 µm"
+          data: "main/Ta2O5/Rodriguez-de Marcos.yml"
         - PAGE: Gao
           name: "Gao et al. 2012: n,k 0.35-1.8 µm"
           data: "main/Ta2O5/Gao.yml"
