@@ -492,3 +492,4 @@ DATA:
 SPECS:
     n_is_absolute: true
     λ_is_vacuum: true
+    deposition_temperature: 250 °C
