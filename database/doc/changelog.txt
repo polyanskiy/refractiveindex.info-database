@@ -1,5 +1,7 @@
 ============================== Next release ==============================
 
+  new data (thanks to Andreas Vinnberg for suggestion!)
+    main/SF6/Vukovic.yml
   new data (thanks to Juan I. Larruquert for providing numerical data!)
     main/CeF3/Rodriguez-de Marcos.yml
     main/LaF3/Rodriguez-de Marcos.yml

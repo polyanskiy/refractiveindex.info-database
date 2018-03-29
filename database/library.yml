@@ -860,6 +860,13 @@
         - PAGE: Li
           name: "Li 1976: n 0.15-25 µm"
           data: "main/RbF/Li.yml"
+    - BOOK: SF6
+      name: "SF<sub>6</sub6> (Sulphur hexafluoride)"
+      info: "main/SF6.html"
+      content:
+        - PAGE: Vukovic
+          name: "Vukovic et al. 1996: n 0.4-1.5 µm"
+          data: "main/SF6/Vukovic.yml"
     - BOOK: SrF2
       name: "SrF<sub>2</sub> (Strontium fluoride)"
       info: "main/SrF2.html"
