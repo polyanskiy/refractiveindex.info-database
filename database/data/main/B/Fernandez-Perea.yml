@@ -3,7 +3,7 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: "M. Fernández-Perea, J. I. Larruquert, J. A. Aznárez, J. A. Méndez, M. Vidal-Dasilva, E. Gullikson, A. Aquila, R. Soufli, and J. L. G. Fierro. Optical constants of electron-beam evaporated boron films in the 6.8-900eV photon energy range, <a href=\"https://doi.org/10.1364/JOSAA.24.003800\"><i>J. Opt. Soc. Am. A</i> <b>24</b>, 3800-3807 (2007)</a> (Numerical data kindly provided by Juan Larruquert)"
-COMMENTS: "Density: 2.10 g/cm<sup>3</sup>"
+COMMENTS: "Density: 2.10 g/cm<sup>3</sup>. Film deposited at room temperature."
 DATA:
   - type: tabulated nk
     data: |

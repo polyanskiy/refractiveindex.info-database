@@ -3,7 +3,7 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: "1) J. I. Larruquert et al.. Optical constants of aluminum films in the extreme ultraviolet interval of 82-77 nm, <a href=\"https://doi.org/10.1364/AO.35.005692\"><i>Appl. Opt.</i> <b>35</b>, 5692-5697 (1996)</a><br>2) J. I. Larruquert et al.. Far-ultraviolet reflectance measurements and optical constants of unoxidized aluminum films, <a href=\"https://doi.org/10.1364/AO.34.004892\"><i>Appl. Opt.</i> <b>34</b>, 4892-4899 (1995)</a>"
-COMMENTS: "Optical constants are obtained from reflectance measurements versus angle of incidence"
+COMMENTS: "Optical constants are obtained from reflectance measurements versus angle of incidence. Film deposited at room temperature."
 DATA:
   - type: tabulated nk
     data: |

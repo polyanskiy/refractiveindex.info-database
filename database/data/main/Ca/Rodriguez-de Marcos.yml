@@ -3,7 +3,7 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: "L. Rodríguez-de Marcos, J. I. Larruquert, M. Vidal-Dasilva, J. A. Aznárez, S. García-Cortés, J. A. Méndez, L. Poletto, F. Frassetto, A. M. Malvezzi, D. Bajoni, A. Giglia, N. Mahne, S. Nannarone. Transmittance and optical constants of Ca films in the 4–1000 eV spectral range, <a href=\"https://doi.org/10.1364/AO.54.001910\"><i>Appl. Opt.</i> <b>54</b>, 1910-1917 (2015)</a> (Numerical data kindly provided by Juan Larruquert)"
-COMMENTS: "Density: 1.55 g/cm<sup>3</sup>"
+COMMENTS: "Density: 1.55 g/cm<sup>3</sup>. Film deposited at room temperature."
 DATA:
   - type: tabulated nk
     data: |

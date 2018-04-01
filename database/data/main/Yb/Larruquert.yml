@@ -3,7 +3,7 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: "1) J. I. Larruquert, J. A. Aznarez, J. A.Méndez, and J. Calvo-Angós. Optical properties of ytterbium films in the far and the extreme ultraviolet, <a href=\"https://doi.org/10.1364/AO.42.004566\"><i>Appl. Opt.</i> <b>42</b>, 4566-4572 (2003)</a><br>2) M. Fernández-Perea, J. I. Larruquert, J. A. Aznárez, J. A. Méndez, L. Poletto, D. Garoli, A. M. Malvezzi, A. Giglia, and S. Nannarone. Optical constants of Yb films in the 23-1700 eV range, <a href=\"https://doi.org/10.1364/JOSAA.24.003691\"><i>J. Opt. Soc. Am. A</i> <b>24</b>, 3691-3699 (2007)</a> (Numerical data kindly provided by Juan Larruquert)"
-COMMENTS: "Density: 6.81 g/cm<sup>3</sup>"
+COMMENTS: "Density: 6.81 g/cm<sup>3</sup>. Film deposited at room temperature."
 DATA:
   - type: tabulated nk
     data: |
