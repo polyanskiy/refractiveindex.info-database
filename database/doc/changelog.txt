@@ -1,5 +1,8 @@
 ============================== Next release ==============================
 
+  updated data
+    all data co-authored by J. I. Larruquert: add deposition temperature and specs
+    main/Al/Larruquert.yml: references
   new data (thanks to Andreas Vinnberg for suggestion!)
     main/SF6/Vukovic.yml
   new data (thanks to Juan I. Larruquert for providing numerical data!)
