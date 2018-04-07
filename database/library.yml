@@ -1124,6 +1124,14 @@
         - PAGE: Windt
           name: "Windt et al. 1988: 0.0024-0.1216 µm"
           data: "main/Ir/Windt.yml"
+    - DIVIDER: "K - Potassium"
+    - BOOK: K
+      name: "K (Potassium)"
+      info: "main/K.html"
+      content:
+        - PAGE: Smith
+          name: "Smith 1969: n,k 0.313-2.24 µm"
+          data: "main/K/Smith.yml"
     - DIVIDER: "Kr - Krypton"
     - BOOK: Kr
       name: "Kr (Krypton)"
@@ -1177,10 +1185,10 @@
       info: "main/Li.html"
       content:
         - PAGE: Rasigni
-          name: "Rasigni and Rasigni 1977: n,k 0.1164-8.266 µm"
+          name: "Rasigni and Rasigni 1977: n,k 0.116-8.27 µm"
           data: "main/Li/Rasigni.yml"
         - PAGE: Inagaki
-          name: "Inagaki et al. 1976: n,k 0.326-2.066 µm"
+          name: "Inagaki et al. 1976: n,k 0.326-2.07 µm"
           data: "main/Li/Inagaki.yml"
     - DIVIDER: "Lu - Lutetium"
     - BOOK: Lu
@@ -1351,8 +1359,11 @@
       name: "Na (Sodium)"
       info: "main/Na.html"
       content:
+        - PAGE: Smith
+          name: "Smith 1969: n,k 0.313-2.24 µm"
+          data: "main/Na/Smith.yml"
         - PAGE: Inagaki
-          name: "Inagaki et al. 1976: n,k 0.326-2.066 µm"
+          name: "Inagaki et al. 1976: n,k 0.326-2.07 µm"
           data: "main/Na/Inagaki.yml"
     - DIVIDER: "Nb - Niobium and niobates"
     - BOOK: Nb

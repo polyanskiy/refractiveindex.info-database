@@ -1,8 +1,6 @@
 ============================== Next release ==============================
 
-  updated data
-    all data co-authored by J. I. Larruquert: add deposition temperature and specs
-    main/Al/Larruquert.yml: references
+
   new data (thanks to Andreas Vinnberg for suggestion!)
     main/SF6/Vukovic.yml
   new data (thanks to Juan I. Larruquert for providing numerical data!)
@@ -22,6 +20,14 @@
     other/silk/Bombyx mori/Bucciarelli-SPP_FA_Ex.yml
     other/silk/Bombyx mori/Bucciarelli-SPP_FA_Unex.yml
     other/silk/Bombyx mori/Bucciarelli-SN_FA.yml
+  new data
+    main/Na/Smith.yml
+    main/K/Smith.yml
+  updated data
+    all data co-authored by J. I. Larruquert: add deposition temperature and specs
+    main/Al/Larruquert.yml: references
+    main/Na/Inagaki.yml: references, specs
+    main/Li/Inagaki.yml: references, specs
 
 
 ============================== 2018-02-10 ==============================
