@@ -999,6 +999,9 @@
       name: "H<sub>2</sub> (Hydrogen)"
       info: "main/H2.html"
       content:
+        - PAGE: Smith
+          name: "Smith et al. 1976: n 0.168-0.289 µm"
+          data: "main/H2/Smith.yml"
         - PAGE: Peck
           name: "Peck and Hung 1977: n 0.1680-1.6945 µm"
           data: "main/H2/Peck.yml"
@@ -1017,12 +1020,15 @@
       name: "He (Helium)"
       info: "main/He.html"
       content:
-        - PAGE: Mansfield
-          name: "Mansfield and Peck 1969: n 0.4801-2.0586 µm"
-          data: "main/He/Mansfield.yml"
         - PAGE: Cuthbertson
           name: "Cuthbertson and Cuthbertson 1936: n 0.2753-0.5462 µm"
           data: "main/He/Cuthbertson.yml"
+        - PAGE: Smith
+          name: "Smith et al. 1976: n 0.168-0.288 µm"
+          data: "main/He/Smith.yml"
+        - PAGE: Mansfield
+          name: "Mansfield and Peck 1969: n 0.4801-2.0586 µm"
+          data: "main/He/Mansfield.yml"
     - DIVIDER: "Hf - Hafnium"
     - BOOK: Hf
       name: "Hf (Hafnium)"
@@ -1141,6 +1147,9 @@
         - PAGE: Bideau-Mehu
           name: "Bideau-Mehu et al. 1981: n 0.1404-0.6234 µm"
           data: "main/Kr/Bideau-Mehu.yml"
+        - PAGE: Smith
+          name: "Smith et al. 1976: n 0.164-0.298 µm"
+          data: "main/Kr/Smith.yml"
         - PAGE: Koch
           name: "Koch 1949: n 0.2302-0.6234 µm"
           data: "main/Kr/Koch.yml"
@@ -1454,6 +1463,9 @@
       name: "O<sub>2</sub> (Oxygen)"
       info: "main/O2.html"
       content:
+        - PAGE: Smith
+          name: "Smith et al. 1976: n 0.168-0.289 µm"
+          data: "main/O2/Smith.yml"
         - PAGE: Zhang
           name: "Zhang et al. 2008: n 0.4-1.8 µm; 20 °C"
           data: "main/O2/Zhang.yml"
@@ -1500,6 +1512,13 @@
         - PAGE: Edwards-e
           name: "Edwards and White 1991: n(e) 0.44-7.0 µm"
           data: "main/BeO/Edwards-e.yml"
+    - BOOK: CO
+      name: "CO (Carbon monoxide)"
+      info: "main/CO1.html"
+      content:
+        - PAGE: Smith
+          name: "Smith et al. 1976: n 0.168-0.289 µm"
+          data: "main/CO1/Smith.yml"
     - BOOK: CO2
       name: "CO<sub>2</sub> (Carbon dioxide)"
       info: "main/CO2.html"
