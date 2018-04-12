@@ -21,13 +21,18 @@
     other/silk/Bombyx mori/Bucciarelli-SPP_FA_Unex.yml
     other/silk/Bombyx mori/Bucciarelli-SN_FA.yml
   new data
-    main/Na/Smith.yml
-    main/K/Smith.yml
     main/He/Smith.yml
     main/H2/Smith.yml
     main/O2/Smith.yml
     main/CO1/Smith.yml
     main/Kr/Smith.yml
+    main/Na/Smith.yml
+    main/K/Smith.yml
+    main/Mo/Kirillova.yml
+    main/Cs/Ives.yml
+    main/Rb/Ives.yml
+    main/K/Ives.yml
+    main/Na/Ives.yml
   updated data
     all data co-authored by J. I. Larruquert: add deposition temperature and specs
     main/Al/Larruquert.yml: references

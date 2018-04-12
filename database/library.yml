@@ -676,6 +676,14 @@
         - PAGE: Rakic-LD
           name: "Rakić et al. 1998: Lorentz-Drude model; n,k 0.248-62.0 µm"
           data: "main/Cr/Rakic-LD.yml"
+    - DIVIDER: "Cs - Caesium"
+    - BOOK: Cs
+      name: "Cs (Caesium)"
+      info: "main/Cs.html"
+      content:
+        - PAGE: Ives
+          name: "Ives and Briggs 1937: n,k 0.2536-0.5780 µm"
+          data: "main/Cs/Ives.yml"
     - DIVIDER: "Cu - Copper"
     - BOOK: Cu
       name: "Cu (Copper)"
@@ -1138,6 +1146,9 @@
         - PAGE: Smith
           name: "Smith 1969: n,k 0.313-2.24 µm"
           data: "main/K/Smith.yml"
+        - PAGE: Ives
+          name: "Ives and Briggs 1936: n,k 0.2536-0.5780 µm"
+          data: "main/K/Ives.yml"
     - DIVIDER: "Kr - Krypton"
     - BOOK: Kr
       name: "Kr (Krypton)"
@@ -1247,6 +1258,9 @@
         - PAGE: Querry
           name: "Querry 1987: n,k 0.206-167 µm"
           data: "main/Mo/Querry.yml"
+        - PAGE: Kirillova
+          name: "Kirillova et al. 1971: n,k 0.265-20 µm"
+          data: "main/Mo/Kirillova.yml"
         - DIVIDER: "Models and simulations"
         - PAGE: Werner-DFT
           name: "Werner et al. 2009: DFT calculations; n,k 0.01759-2.480 µm"
@@ -1374,6 +1388,9 @@
         - PAGE: Inagaki
           name: "Inagaki et al. 1976: n,k 0.326-2.07 µm"
           data: "main/Na/Inagaki.yml"
+        - PAGE: Ives
+          name: "Ives and Briggs 1937: n,k 0.2536-0.5780 µm"
+          data: "main/Na/Ives.yml"
     - DIVIDER: "Nb - Niobium and niobates"
     - BOOK: Nb
       name: "Nb (Niobium)"
@@ -2040,6 +2057,14 @@
         - PAGE: Werner-DFT
           name: "Werner et al. 2009: DFT calculations; n,k 0.01759-2.480 µm"
           data: "main/Pt/Werner-DFT.yml"
+    - DIVIDER: "Rb - Rubidium"
+    - BOOK: Rb
+      name: "Rb (Rubidium)"
+      info: "main/Rb.html"
+      content:
+        - PAGE: Ives
+          name: "Ives and Briggs 1937: n,k 0.2536-0.5780 µm"
+          data: "main/Rb/Ives.yml"
     - DIVIDER: "Re - Rhenium"
     - BOOK: Re
       name: "Re (Rhenium)"
