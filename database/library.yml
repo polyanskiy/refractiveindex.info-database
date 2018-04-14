@@ -517,13 +517,21 @@
       name: "SiC (Silicon carbide)"
       info: "main/SiC.html"
       content:
-        - DIVIDER: "Crystal"
+        - DIVIDER: "3C-SiC (α-SiC) crystal"
         - PAGE: Singh-o
           name: "Singh et al. 1971: α-SiC; n(o) 0.488-1.064 µm"
           data: "main/SiC/Singh-o.yml"
         - PAGE: Singh-e
           name: "Singh et al. 1971: α-SiC; n(e) 0.488-1.064 µm"
           data: "main/SiC/Singh-e.yml"
+        - DIVIDER: "4H-SiC crystal"
+        - PAGE: Fischer-o
+          name: "Fischer et al. 2017: 4H-SiC; n(o) 17-150 µm"
+          data: "main/SiC/Fischer-o.yml"
+        - PAGE: Fischer-e
+          name: "Fischer et al. 2017: 4H-SiC; n(e) 17-150 µm"
+          data: "main/SiC/Fischer-e.yml"
+        - DIVIDER: "6H-SiC (β-SiC) crystal"
         - PAGE: Shaffer
           name: "Shaffer 1971: β-SiC; n 0.467-0.691 µm"
           data: "main/SiC/Shaffer.yml"
