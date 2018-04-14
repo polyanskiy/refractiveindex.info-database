@@ -33,6 +33,16 @@
     main/Rb/Ives.yml
     main/K/Ives.yml
     main/Na/Ives.yml
+    main/K/Sutherland.yml
+    main/Cs/Whang.yml
+    main/Rb/Whang.yml
+    main/Li/Callcott.yml
+    main/Na/Althoff.yml
+    main/K/Althoff.yml
+    main/Cs/Monin.yml
+    main/Rb/Monin.yml
+    main/Na/Monin.yml
+    main/K/Monin.yml
   updated data
     all data co-authored by J. I. Larruquert: add deposition temperature and specs
     main/Al/Larruquert.yml: references

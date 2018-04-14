@@ -680,7 +680,14 @@
     - BOOK: Cs
       name: "Cs (Caesium)"
       info: "main/Cs.html"
+      info: "main/Cu.html"
       content:
+        - PAGE: Monin
+          name: "Monin and Boutry 1974: n,k 0.254-0.620 µm; 195 K"
+          data: "main/Cs/Monin.yml"
+        - PAGE: Whang
+          name: "Whang et al. 1971: n,k 0.1294-0.3444 µm"
+          data: "main/Cs/Whang.yml"
         - PAGE: Ives
           name: "Ives and Briggs 1937: n,k 0.2536-0.5780 µm"
           data: "main/Cs/Ives.yml"
@@ -1146,8 +1153,17 @@
         - PAGE: Smith
           name: "Smith 1969: n,k 0.313-2.24 µm"
           data: "main/K/Smith.yml"
+        - PAGE: Monin
+          name: "Monin and Boutry 1974: n,k 0.254-0.620 µm; 195 K"
+          data: "main/K/Monin.yml"
+        - PAGE: Sutherland
+          name: "Sutherland and Arakawa 1968: n 0.128-0.313 µm"
+          data: "main/K/Sutherland.yml"
+        - PAGE: Althoff
+          name: "Althoff and Hertz 1967: n,k 2.5-10.15 µm"
+          data: "main/K/Althoff.yml"
         - PAGE: Ives
-          name: "Ives and Briggs 1936: n,k 0.2536-0.5780 µm"
+          name: "Ives and Briggs 1936: n,k 0.254-0.578 µm"
           data: "main/K/Ives.yml"
     - DIVIDER: "Kr - Krypton"
     - BOOK: Kr
@@ -1156,60 +1172,63 @@
       content:
         - DIVIDER: "Gas"
         - PAGE: Bideau-Mehu
-          name: "Bideau-Mehu et al. 1981: n 0.1404-0.6234 µm"
+          name: "Bideau-Mehu et al. 1981: n 0.140-0.623 µm"
           data: "main/Kr/Bideau-Mehu.yml"
         - PAGE: Smith
           name: "Smith et al. 1976: n 0.164-0.298 µm"
           data: "main/Kr/Smith.yml"
         - PAGE: Koch
-          name: "Koch 1949: n 0.2302-0.6234 µm"
+          name: "Koch 1949: n 0.230-0.623 µm"
           data: "main/Kr/Koch.yml"
         - PAGE: Cuthbertson
-          name: "Cuthbertson and Cuthbertson 1910: n 0.4800-0.6708 µm"
+          name: "Cuthbertson and Cuthbertson 1910: n 0.480-0.671 µm"
           data: "main/Kr/Cuthbertson.yml"
         - DIVIDER: "Liquid"
         - PAGE: Sinnock-liquid-126K
-          name: "Sinnock and Smith 1969: Liquid at 126 K; n 0.3631-0.6439 µm"
+          name: "Sinnock and Smith 1969: Liquid at 126 K; n 0.363-0.644 µm"
           data: "main/Kr/Sinnock-liquid-126K.yml"
         - PAGE: Sinnock-liquid-122K
-          name: "Sinnock and Smith 1969: Liquid at 122 K; n 0.3631-0.6439 µm"
+          name: "Sinnock and Smith 1969: Liquid at 122 K; n 0.363-0.644 µm"
           data: "main/Kr/Sinnock-liquid-122K.yml"
         - PAGE: Sinnock-liquid-118K
-          name: "Sinnock and Smith 1969: Liquid at 118 K; n 0.3631-0.6439 µm"
+          name: "Sinnock and Smith 1969: Liquid at 118 K; n 0.363-0.644 µm"
           data: "main/Kr/Sinnock-liquid-118K.yml"
         - PAGE: Sinnock-liquid-115.95K
-          name: "Sinnock and Smith 1969: Liquid at 115.95 K; n 0.3631-0.6439 µm"
+          name: "Sinnock and Smith 1969: Liquid at 115.95 K; n 0.363-0.644 µm"
           data: "main/Kr/Sinnock-liquid-115.95K.yml"
         - DIVIDER: "Solid"
         - PAGE: Sinnock-solid-115.95K
-          name: "Sinnock and Smith 1969: Solid at 115.95 K; n 0.3631-0.6439 µm"
+          name: "Sinnock and Smith 1969: Solid at 115.95 K; n 0.363-0.644 µm"
           data: "main/Kr/Sinnock-solid-115.95K.yml"
         - PAGE: Sinnock-solid-105K
-          name: "Sinnock and Smith 1969: Solid at 105 K; n 0.3631-0.6439 µm"
+          name: "Sinnock and Smith 1969: Solid at 105 K; n 0.363-0.644 µm"
           data: "main/Kr/Sinnock-solid-105K.yml"
         - PAGE: Sinnock-solid-95K
-          name: "Sinnock and Smith 1969: Solid at 95 K; n 0.3631-0.6439 µm"
+          name: "Sinnock and Smith 1969: Solid at 95 K; n 0.363-0.644 µm"
           data: "main/Kr/Sinnock-solid-95K.yml"
         - PAGE: Sinnock-solid-85K
-          name: "Sinnock and Smith 1969: Solid at 85 K; n 0.3631-0.6439 µm"
+          name: "Sinnock and Smith 1969: Solid at 85 K; n 0.363-0.644 µm"
           data: "main/Kr/Sinnock-solid-85K.yml"
         - PAGE: Sinnock-solid-75K
-          name: "Sinnock and Smith 1969: Solid at 75 K; n 0.3631-0.6439 µm"
+          name: "Sinnock and Smith 1969: Solid at 75 K; n 0.363-0.644 µm"
           data: "main/Kr/Sinnock-solid-75K.yml"
         - PAGE: Sinnock-solid-67K
-          name: "Sinnock and Smith 1969: Solid at 67 K; n 0.3631-0.6439 µm"
+          name: "Sinnock and Smith 1969: Solid at 67 K; n 0.363-0.644 µm"
           data: "main/Kr/Sinnock-solid-67K.yml"
     - DIVIDER: "Li - Lithium"
     - BOOK: Li
       name: "Li (Lithium)"
       info: "main/Li.html"
       content:
-        - PAGE: Rasigni
-          name: "Rasigni and Rasigni 1977: n,k 0.116-8.27 µm"
-          data: "main/Li/Rasigni.yml"
         - PAGE: Inagaki
           name: "Inagaki et al. 1976: n,k 0.326-2.07 µm"
           data: "main/Li/Inagaki.yml"
+        - PAGE: Rasigni
+          name: "Rasigni and Rasigni 1977: n,k 0.116-8.27 µm"
+          data: "main/Li/Rasigni.yml"
+        - PAGE: Callcott
+          name: "Callcott and Arakawa 1974: n,k 0.115-0.207 µm"
+          data: "main/Li/Callcott.yml"
     - DIVIDER: "Lu - Lutetium"
     - BOOK: Lu
       name: "Lu (Lutetium)"
@@ -1388,6 +1407,12 @@
         - PAGE: Inagaki
           name: "Inagaki et al. 1976: n,k 0.326-2.07 µm"
           data: "main/Na/Inagaki.yml"
+        - PAGE: Monin
+          name: "Monin and Boutry 1974: n,k 0.254-0.620 µm"
+          data: "main/Na/Monin.yml"
+        - PAGE: Althoff
+          name: "Althoff and Hertz 1967: n,k 2.25-10.15 µm"
+          data: "main/Na/Althoff.yml"
         - PAGE: Ives
           name: "Ives and Briggs 1937: n,k 0.2536-0.5780 µm"
           data: "main/Na/Ives.yml"
@@ -2062,8 +2087,14 @@
       name: "Rb (Rubidium)"
       info: "main/Rb.html"
       content:
+        - PAGE: Monin
+          name: "Monin and Boutry 1974: n,k 0.254-0.620 µm; 195 K"
+          data: "main/Rb/Monin.yml"
+        - PAGE: Whang
+          name: "Whang et al. 1972: n,k 0.117-0.380 µm"
+          data: "main/Rb/Whang.yml"
         - PAGE: Ives
-          name: "Ives and Briggs 1937: n,k 0.2536-0.5780 µm"
+          name: "Ives and Briggs 1937: n,k 0.254-0.578 µm"
           data: "main/Rb/Ives.yml"
     - DIVIDER: "Re - Rhenium"
     - BOOK: Re
