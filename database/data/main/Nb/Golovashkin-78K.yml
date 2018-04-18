@@ -3,7 +3,7 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: "A. I. Golovashkin, I. E. Leksina, G. P. Motulevich and A. A. Shubin. The optical properties of niobium, <a href=\"http://jetp.ac.ru/cgi-bin/e/index/e/29/1/p27?a=list\"><i>Sov. Phys. JETP</i> <b>29</b>, 27-34 (1969)</a>"
-COMMENTS: "78 K (-195 °C)"
+COMMENTS: "78 K (-195.15 °C)"
 DATA:
   - type: tabulated nk
     data: |
@@ -68,3 +68,5 @@ DATA:
         6.60 4.75 38.2
         8.20 6.15 50.5
         9.20 6.45 58.5
+SPECS:
+    temperature: 78 K

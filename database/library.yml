@@ -69,6 +69,9 @@
         - PAGE: Hagemann
           name: "Hagemann et al. 1974: n,k 0.00001033-1240 µm"
           data: "main/Al/Hagemann.yml"
+        - PAGE: Mathewson
+          name: "Mathewson and Myers 1971: n,k 0.496-1.77 µm"
+          data: "main/Al/Mathewson.yml"
         - DIVIDER: "Models and simulations"
         - PAGE: Rakic-BB
           name: "Rakić et al. 1998: Brendel-Bormann model; n,k 0.0620-248 µm"
@@ -517,7 +520,7 @@
       name: "SiC (Silicon carbide)"
       info: "main/SiC.html"
       content:
-        - DIVIDER: "3C-SiC (α-SiC) crystal"
+        - DIVIDER: "6H-SiC (α-SiC) crystal"
         - PAGE: Singh-o
           name: "Singh et al. 1971: α-SiC; n(o) 0.488-1.064 µm"
           data: "main/SiC/Singh-o.yml"
@@ -531,7 +534,7 @@
         - PAGE: Fischer-e
           name: "Fischer et al. 2017: 4H-SiC; n(e) 17-150 µm"
           data: "main/SiC/Fischer-e.yml"
-        - DIVIDER: "6H-SiC (β-SiC) crystal"
+        - DIVIDER: "3C-SiC (β-SiC) crystal"
         - PAGE: Shaffer
           name: "Shaffer 1971: β-SiC; n 0.467-0.691 µm"
           data: "main/SiC/Shaffer.yml"
@@ -578,6 +581,9 @@
       name: "Ca (Calcium)"
       info: "main/Ca.html"
       content:
+        - PAGE: Mathewson
+          name: "Mathewson and Myers 1971: n,k 0.340-1.65 µm"
+          data: "main/Ca/Mathewson.yml"
         - PAGE: Rodriguez-de_Marcos
           name: "Rodríguez-de Marcos et al. 2015: n,k 0.001234-0.3163 µm"
           data: "main/Ca/Rodriguez-de Marcos.yml"
@@ -690,14 +696,17 @@
       info: "main/Cs.html"
       info: "main/Cu.html"
       content:
+        - PAGE: Smith
+          name: "Smith 1970: n,k 0.313-2.42 µm"
+          data: "main/Cs/Smith.yml"
         - PAGE: Monin
           name: "Monin and Boutry 1974: n,k 0.254-0.620 µm; 195 K"
           data: "main/Cs/Monin.yml"
         - PAGE: Whang
-          name: "Whang et al. 1971: n,k 0.1294-0.3444 µm"
+          name: "Whang et al. 1971: n,k 0.129-0.344 µm"
           data: "main/Cs/Whang.yml"
         - PAGE: Ives
-          name: "Ives and Briggs 1937: n,k 0.2536-0.5780 µm"
+          name: "Ives and Briggs 1937: n,k 0.254-0.578 µm"
           data: "main/Cs/Ives.yml"
     - DIVIDER: "Cu - Copper"
     - BOOK: Cu
@@ -1026,17 +1035,17 @@
           name: "Smith et al. 1976: n 0.168-0.289 µm"
           data: "main/H2/Smith.yml"
         - PAGE: Peck
-          name: "Peck and Hung 1977: n 0.1680-1.6945 µm"
+          name: "Peck and Hung 1977: n 0.168-1.695 µm"
           data: "main/H2/Peck.yml"
         - PAGE: Koch
-          name: "Koch 1913: n 0.2302-0.5462 µm"
+          name: "Koch 1913: n 0.230-0.546 µm"
           data: "main/H2/Koch.yml"
     - BOOK: D2
       name: "D<sub>2</sub> (Deuterium)"
       info: "main/D2.html"
       content:
         - PAGE: Weber
-          name: "Weber: n 0.230209-0.579065 µm"
+          name: "Weber: n 0.230-0.579 µm"
           data: "main/D2/Weber.yml"
     - DIVIDER: "He - Helium"
     - BOOK: He
@@ -1044,13 +1053,13 @@
       info: "main/He.html"
       content:
         - PAGE: Cuthbertson
-          name: "Cuthbertson and Cuthbertson 1936: n 0.2753-0.5462 µm"
+          name: "Cuthbertson and Cuthbertson 1936: n 0.275-0.546 µm"
           data: "main/He/Cuthbertson.yml"
         - PAGE: Smith
           name: "Smith et al. 1976: n 0.168-0.288 µm"
           data: "main/He/Smith.yml"
         - PAGE: Mansfield
-          name: "Mansfield and Peck 1969: n 0.4801-2.0586 µm"
+          name: "Mansfield and Peck 1969: n 0.480-2.06 µm"
           data: "main/He/Mansfield.yml"
     - DIVIDER: "Hf - Hafnium"
     - BOOK: Hf
@@ -1058,7 +1067,7 @@
       info: "main/Hf.html"
       content:
         - PAGE: Windt
-          name: "Windt et al. 1988: n,k 0.0024-0.1216 µm"
+          name: "Windt et al. 1988: n,k 0.00240-0.122 µm"
           data: "main/Hf/Windt.yml"
     - DIVIDER: "Hg - Mercury"
     - BOOK: Hg
@@ -1066,7 +1075,7 @@
       info: "main/Hg.html"
       content:
         - PAGE: Inagaki
-          name: "Inagaki et al. 1981: n,k 0.06358-6.19921 µm"
+          name: "Inagaki et al. 1981: n,k 0.0636-6.20 µm"
           data: "main/Hg/Inagaki.yml"
     - DIVIDER: "Ho - Holmium"
     - BOOK: Ho
@@ -1136,12 +1145,18 @@
       name: "In (Indium)"
       info: "main/In.html"
       content:
-        - PAGE: Golovashkin-295
+        - PAGE: Mathewson-298K
+          name: "Mathewson and Myers 1971: n,k 0.344-1.77 µm; 298 K"
+          data: "main/In/Mathewson-298K.yml"
+        - PAGE: Mathewson-140K
+          name: "Mathewson and Myers 1971: n,k 0.344-1.77 µm; 140 K"
+          data: "main/In/Mathewson-140K.yml"
+        - PAGE: Golovashkin-295K
           name: "Golovashkin et al. 1967: n,k 0.55-10 µm; 295 K"
-          data: "main/In/Golovashkin-295.yml"
-        - PAGE: Golovashkin-4.2
+          data: "main/In/Golovashkin-295K.yml"
+        - PAGE: Golovashkin-4.2K
           name: "Golovashkin et al. 1967: n,k 0.55-10 µm; 4.2 K"
-          data: "main/In/Golovashkin-4.2.yml"
+          data: "main/In/Golovashkin-4.2K.yml"
     - DIVIDER: "Ir - Iridium"
     - BOOK: Ir
       name: "Ir (Iridium)"
@@ -1164,6 +1179,9 @@
         - PAGE: Monin
           name: "Monin and Boutry 1974: n,k 0.254-0.620 µm; 195 K"
           data: "main/K/Monin.yml"
+        - PAGE: Whang
+          name: "Whang et al. 1972: n,k 0.116-0.315 µm"
+          data: "main/K/Whang.yml"
         - PAGE: Sutherland
           name: "Sutherland and Arakawa 1968: n 0.128-0.313 µm"
           data: "main/K/Sutherland.yml"
@@ -1228,12 +1246,18 @@
       name: "Li (Lithium)"
       info: "main/Li.html"
       content:
-        - PAGE: Inagaki
-          name: "Inagaki et al. 1976: n,k 0.326-2.07 µm"
-          data: "main/Li/Inagaki.yml"
+        - PAGE: Mathewson-298K
+          name: "Mathewson and Myers 1971: n,k 0.326-1.77 µm; 298 K"
+          data: "main/Li/Mathewson-298K.yml"
+        - PAGE: Mathewson-140K
+          name: "Mathewson and Myers 1971: n,k 0.340-1.77 µm; 140 K"
+          data: "main/Li/Mathewson-140K.yml"
         - PAGE: Rasigni
           name: "Rasigni and Rasigni 1977: n,k 0.116-8.27 µm"
           data: "main/Li/Rasigni.yml"
+        - PAGE: Inagaki
+          name: "Inagaki et al. 1976: n,k 0.326-2.07 µm"
+          data: "main/Li/Inagaki.yml"
         - PAGE: Callcott
           name: "Callcott and Arakawa 1974: n,k 0.115-0.207 µm"
           data: "main/Li/Callcott.yml"
@@ -1432,15 +1456,15 @@
         - PAGE: Windt
           name: "Windt et al. 1988: n,k 0.0024-0.1216 µm"
           data: "main/Nb/Windt.yml"
-        - PAGE: Golovashkin-293
+        - PAGE: Golovashkin-293K
           name: "Golovashkin et al. 1969: n,k 0.40-10 µm; 293 K"
-          data: "main/Nb/Golovashkin-293.yml"
-        - PAGE: Golovashkin-78
+          data: "main/Nb/Golovashkin-293K.yml"
+        - PAGE: Golovashkin-78K
           name: "Golovashkin et al. 1969: n,k 0.40-9.2 µm; 78 K"
-          data: "main/Nb/Golovashkin-78.yml"
-        - PAGE: Golovashkin-4.2
+          data: "main/Nb/Golovashkin-78K.yml"
+        - PAGE: Golovashkin-4.2K
           name: "Golovashkin et al. 1969: n,k 0.40-9.2 µm; 4.2 K"
-          data: "main/Nb/Golovashkin-4.2.yml"
+          data: "main/Nb/Golovashkin-4.2K.yml"
     - BOOK: KNbO3
       name: "KNbO<sub>3</sub> (Potassium niobate)"
       info: "main/KNbO3.html"
@@ -2022,15 +2046,21 @@
         - PAGE: Werner
           name: "Werner et al. 2009: n,k 0.01759-2.480 µm"
           data: "main/Pb/Werner.yml"
-        - PAGE: Golovashkin-293
+        - PAGE: Mathewson-298K
+          name: "Mathewson and Myers 1971: n,k 0.344-1.77 µm; 298 K"
+          data: "main/Pb/Mathewson-298K.yml"
+        - PAGE: Mathewson-140K
+          name: "Mathewson and Myers 1971: n,k 0.344-1.77 µm; 140 K"
+          data: "main/Pb/Mathewson-140K.yml"
+        - PAGE: Golovashkin-293K
           name: "Golovashkin and Motulevich 1968: n,k 0.45-12 µm; 293 K"
-          data: "main/Pb/Golovashkin-293.yml"
-        - PAGE: Golovashkin-78
+          data: "main/Pb/Golovashkin-293K.yml"
+        - PAGE: Golovashkin-78K
           name: "Golovashkin and Motulevich 1968: n,k 0.45-12 µm; 78 K"
-          data: "main/Pb/Golovashkin-78.yml"
-        - PAGE: Golovashkin-4.2
+          data: "main/Pb/Golovashkin-78K.yml"
+        - PAGE: Golovashkin-4.2K
           name: "Golovashkin and Motulevich 1968: n,k 0.54-12 µm; 4.2 K"
-          data: "main/Pb/Golovashkin-4.2.yml"
+          data: "main/Pb/Golovashkin-4.2K.yml"
         - DIVIDER: "Models and simulations"
         - PAGE: Werner-DFT
           name: "Werner et al. 2009: DFT calculations; n,k 0.01759-2.480 µm"
@@ -2095,6 +2125,9 @@
       name: "Rb (Rubidium)"
       info: "main/Rb.html"
       content:
+        - PAGE: Smith
+          name: "Smith 1969: n,k 0.313-2.24 µm"
+          data: "main/Rb/Smith.yml"
         - PAGE: Monin
           name: "Monin and Boutry 1974: n,k 0.254-0.620 µm; 195 K"
           data: "main/Rb/Monin.yml"
@@ -2596,15 +2629,15 @@
       name: "Sn (Tin)"
       info: "main/Sn.html"
       content:
-        - PAGE: Golovashkin-293
+        - PAGE: Golovashkin-293K
           name: "Golovashkin and Motulevich 1964: n,k 0.73-12 µm; 293 K"
-          data: "main/Sn/Golovashkin-293.yml"
-        - PAGE: Golovashkin-78
+          data: "main/Sn/Golovashkin-293K.yml"
+        - PAGE: Golovashkin-78K
           name: "Golovashkin and Motulevich 1964: n,k 0.73-12 µm; 78 K"
-          data: "main/Sn/Golovashkin-78.yml"
-        - PAGE: Golovashkin-4.2
+          data: "main/Sn/Golovashkin-78K.yml"
+        - PAGE: Golovashkin-4.2K
           name: "Golovashkin and Motulevich 1964: n,k 0.73-12 µm; 4.2 K"
-          data: "main/Sn/Golovashkin-4.2.yml"
+          data: "main/Sn/Golovashkin-4.2K.yml"
     - DIVIDER: "Sr - Strontium"
     - BOOK: Sr
       name: "Sr (Strontium)"
@@ -9568,12 +9601,12 @@
       name: "V-Ga (Vanadium-gallium alloy)"
       info: "other/V-Ga.html"
       content:
-        - PAGE: Golovashkin-293
+        - PAGE: Golovashkin-293K
           name: "Golovashkin et al. 1970: n,k 0.45-10 µm; 293 K"
-          data: "other/alloys/V-Ga/Golovashkin-293.yml"
-        - PAGE: Golovashkin-78
+          data: "other/alloys/V-Ga/Golovashkin-293K.yml"
+        - PAGE: Golovashkin-78K
           name: "Golovashkin et al. 1970: n,k 0.45-2.6 µm; 78 K"
-          data: "other/alloys/V-Ga/Golovashkin-78.yml"
+          data: "other/alloys/V-Ga/Golovashkin-78K.yml"
     - DIVIDER: "Semiconductor alloys"
     - BOOK: AlAs-GaAs
       name: "AlAs-GaAs (Aluminium gallium arsenide, AlGaAs)"
@@ -10228,7 +10261,7 @@
           info: "main/Fe.html"
         - PAGE: lead
           name: "Lead (Pb)"
-          data: "main/Pb/Golovashkin-293.yml"
+          data: "main/Pb/Golovashkin-293K.yml"
           info: "main/Pb.html"
         - PAGE: mercury
           name: "Mercury (Hg)"

@@ -3,7 +3,7 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: "A. I. Golovashkin and G. P. Motulevich. Optical properties of lead in the visible and infrared spectral ranges, <a href=\"http://jetp.ac.ru/cgi-bin/e/index/e/26/5/p881?a=list\"><i>Sov. Phys. JETP</i> <b>26</b>, 881-887 (1968)</a>"
-COMMENTS: "4.2 K (-269 °C)"
+COMMENTS: "4.2 K (-268.95 °C)"
 DATA:
   - type: tabulated nk
     data: |
@@ -77,3 +77,5 @@ DATA:
         10.0 6.70 55.90
         11.0 7.90 61.30
         12.0 9.20 66.50
+SPECS:
+    temperature: 4.2 K

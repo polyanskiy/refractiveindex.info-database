@@ -2,8 +2,8 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "A. I. Golovashkin, I. S. Levchenko, G. P. Motulevich, A .A. Shubin. The optical properties of niobium, <a href=\"http://jetp.ac.ru/cgi-bin/e/index/e/24/6/p1093?a=list\"><i>Sov. Phys. JETP</i> <b>24</b>, 1093-1099 (1967)</a>"
-COMMENTS: "4.2 K (-269 °C)"
+REFERENCES: "A. I. Golovashkin, I. S. Levchenko, G. P. Motulevich, A .A. Shubin. The optical properties of indium, <a href=\"http://jetp.ac.ru/cgi-bin/e/index/e/24/6/p1093?a=list\"><i>Sov. Phys. JETP</i> <b>24</b>, 1093-1100 (1967)</a>"
+COMMENTS: "4.2 K (-268.95 °C)"
 DATA:
   - type: tabulated nk
     data: |
@@ -60,3 +60,5 @@ DATA:
         6 4.2 38.7
         8 7.5 50.6
         10 13.5 62.3
+SPECS:
+    temperature: 4.2 K

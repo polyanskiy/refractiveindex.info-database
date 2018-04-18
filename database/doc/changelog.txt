@@ -30,6 +30,8 @@
     main/Kr/Smith.yml
     main/Na/Smith.yml
     main/K/Smith.yml
+    main/Rb/Smith.yml
+    main/Cs/Smith.yml
     main/Mo/Kirillova.yml
     main/Cs/Ives.yml
     main/Rb/Ives.yml
@@ -37,7 +39,8 @@
     main/Na/Ives.yml
     main/K/Sutherland.yml
     main/Cs/Whang.yml
-    main/Rb/Whang.yml
+    main/Rb/Whang.
+    main/K/Whang.yml
     main/Li/Callcott.yml
     main/Na/Althoff.yml
     main/K/Althoff.yml
@@ -45,11 +48,32 @@
     main/Rb/Monin.yml
     main/Na/Monin.yml
     main/K/Monin.yml
+    main/Al/Mathewson-298.yml
+    main/Ca/Mathewson-298.yml
+    main/Pb/Mathewson-298K.yml
+    main/Pb/Mathewson-140K.yml
+    main/In/Mathewson-298K.yml
+    main/In/Mathewson-140K.yml
+    main/Li/Mathewson-298K.yml 
+    main/Li/Mathewson-140K.yml
   updated data
     all data co-authored by J. I. Larruquert: add deposition temperature and specs
     main/Al/Larruquert.yml: references
     main/Na/Inagaki.yml: references, specs
     main/Li/Inagaki.yml: references, specs
+    main/In/Golovashkin-295.yml: comments, references, specs, rename to Golovashkin-295K.yml
+    main/In/Golovashkin-4.2.yml: comments, references, specs, rename to Golovashkin-4.2K.yml
+    main/Nb/Golovashkin-293.yml: comments, specs, rename to Golovashkin-293K.yml
+    main/Nb/Golovashkin-78.yml: comments, specs, rename to Golovashkin-78K.yml
+    main/Nb/Golovashkin-4.2.yml: comments, specs, rename to Golovashkin-4.2K.yml
+    main/Pb/Golovashkin-293.yml: comments, specs, rename to Golovashkin-293K.yml
+    main/Pb/Golovashkin-78.yml: comments, specs, rename to Golovashkin-78K.yml
+    main/Pb/Golovashkin-4.2.yml: comments, specs, rename to Golovashkin-4.2K.yml
+    main/Sn/Golovashkin-293.yml: comments, specs, rename to Golovashkin-293K.yml
+    main/Sn/Golovashkin-78.yml: comments, specs, rename to Golovashkin-78K.yml
+    main/Sn/Golovashkin-4.2.yml: comments, specs, rename to Golovashkin-4.2K.yml
+    other/alloys/V-Ga/Golovashkin-293.yml: comments, specs, rename to Golovashkin-293K.yml
+    other/alloys/V-Ga/Golovashkin-78.yml: comments, specs, rename to Golovashkin-78K.yml
 
 
 ============================== 2018-02-10 ==============================
