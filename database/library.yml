@@ -2421,14 +2421,14 @@
       name: "Se (Selenium)"
       info: "main/Se.html"
       content:
-        - DIVIDER: "Experimental data: bulk, thick film"
+        - DIVIDER: "Crystal"
         - PAGE: Campel-o
           name: "Campel and Johnson 1969: n(o) 1.06-10.6 µm"
           data: "main/Se/Campel-o.yml"
         - PAGE: Campel-e
           name: "Campel and Johnson 1969: n(e) 1.06-10.6 µm"
           data: "main/Se/Campel-e.yml"
-        - DIVIDER: "Experimental data: thin film"
+        - DIVIDER: "Thin film"
         - PAGE: Ciesielski
           name: "Ciesielski et al. 2018: 25-nm film; n,k 0.2-2 µm"
           data: "main/Se/Ciesielski.yml"
@@ -2707,7 +2707,7 @@
       name: "Te (Tellurium)"
       info: "main/Te.html"
       content:
-        - DIVIDER: "Bulk, thick film"
+        - DIVIDER: "Crystal"
         - PAGE: Sherman-o
           name: "Sherman et al. 1970: n(o) 8.5-30.3 µm"
           data: "main/Te/Sherman-o.yml"
