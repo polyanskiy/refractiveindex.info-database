@@ -1,5 +1,15 @@
 ============================== Next release ==============================
 
+  new data (thanks to Arkadiusz Ciesielski, University of Warsaw, Poland, for providing numerical data in YAML format!)
+    main/Ag/Ciesielski.yml
+    main/Ag/Ciesielski-Ge.yml
+    main/Ag/Ciesielski-Ni.yml
+    main/Au/Ciesielski.yml
+    main/Au/Ciesielski-Ge.yml
+    main/Ge/Ciesielski-20nm
+    main/Ge/Ciesielski-20nm
+    main/Se/Ciesielski.yml
+    main/Te/Ciesielski.yml
   new data (thanks to Johannes Bühler and Marco Fischer, University of Konstanz, Germany, for providing numerical data in YAML format!)
     main/SiC/Fischer-o.yml
     main/SiC/Fischer-e.yml
