@@ -544,7 +544,19 @@
         - PAGE: Singh-e
           name: "Singh et al. 1971: α-SiC; n(e) 0.488-1.064 µm"
           data: "main/SiC/Singh-e.yml"
+        - PAGE: Wang-6H-o
+          name: "Wang et al. 2013: 6H-SiC; n(o) 0.436-2.33 µm"
+          data: "main/SiC/Wang-6H-o.yml"
+        - PAGE: Wang-6H-e
+          name: "Wang et al. 2013: 6H-SiC; n(e) 0.436-2.33 µm"
+          data: "main/SiC/Wang-6H-e.yml"
         - DIVIDER: "4H-SiC crystal"
+        - PAGE: Wang-4H-o
+          name: "Wang et al. 2013: 4H-SiC; n(o) 0.405-5 µm"
+          data: "main/SiC/Wang-4H-o.yml"
+        - PAGE: Wang-4H-e
+          name: "Wang et al. 2013: 4H-SiC; n(e) 0.405-2.33 µm"
+          data: "main/SiC/Wang-4H-e.yml"
         - PAGE: Fischer-o
           name: "Fischer et al. 2017: 4H-SiC; n(o) 17-150 µm"
           data: "main/SiC/Fischer-o.yml"

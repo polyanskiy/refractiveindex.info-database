@@ -13,6 +13,10 @@
   new data (thanks to Johannes Bühler and Marco Fischer, University of Konstanz, Germany, for providing numerical data in YAML format!)
     main/SiC/Fischer-o.yml
     main/SiC/Fischer-e.yml
+    main/SiC/Wang-6H-o.yml
+    main/SiC/Wang-6H-e.yml
+    main/SiC/Wang-4H-o.yml
+    main/SiC/Wang-4H-e.yml
   new data (thanks to Andreas Vinnberg for suggestion!)
     main/SF6/Vukovic.yml
   new data (thanks to Juan I. Larruquert for providing numerical data!)
