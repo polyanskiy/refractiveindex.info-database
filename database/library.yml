@@ -723,7 +723,6 @@
     - BOOK: Cs
       name: "Cs (Caesium)"
       info: "main/Cs.html"
-      info: "main/Cu.html"
       content:
         - PAGE: Smith
           name: "Smith 1970: n,k 0.313-2.42 µm"
@@ -5459,7 +5458,6 @@
     - BOOK: OHARA-NBH
       name: "OHARA - NBH (Niobate, high-index)"
       info: "glass/OHARA.html"
-      content:
       content:
         - PAGE: L-NBH54
           name: "L-NBH54"
