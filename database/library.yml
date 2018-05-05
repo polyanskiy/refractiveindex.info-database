@@ -1475,21 +1475,29 @@
       name: "Na (Sodium)"
       info: "main/Na.html"
       content:
+        - DIVIDER: "Solid"
         - PAGE: Smith
           name: "Smith 1969: n,k 0.313-2.24 µm"
           data: "main/Na/Smith.yml"
         - PAGE: Inagaki
           name: "Inagaki et al. 1976: n,k 0.326-2.07 µm"
-          data: "main/Na/Inagaki.yml"
+          data: "main/Na/Inagaki.yml"     
         - PAGE: Monin
           name: "Monin and Boutry 1974: n,k 0.254-0.620 µm"
           data: "main/Na/Monin.yml"
+        - PAGE: Yamaguchi
+          name: "Yamaguchi and Hanyu 1971: n,k 0.200-0.600 µm"
+          data: "main/Na/Yamaguchi.yml" 
         - PAGE: Althoff
           name: "Althoff and Hertz 1967: n,k 2.25-10.2 µm"
           data: "main/Na/Althoff.yml"
         - PAGE: Ives
           name: "Ives and Briggs 1937: n,k 0.254-0.578 µm"
           data: "main/Na/Ives.yml"
+        - DIVIDER: "Liquid"
+        - PAGE: Inagaki-liquid
+          name: "Inagaki et al. 1976: Liquid @ 120 °C; n,k 0.335-2.00 µm"
+          data: "main/Na/Inagaki-liquid.yml"
     - DIVIDER: "Nb - Niobium and niobates"
     - BOOK: Nb
       name: "Nb (Niobium)"
@@ -2173,6 +2181,9 @@
         - PAGE: Monin
           name: "Monin and Boutry 1974: n,k 0.254-0.620 µm; 195 K"
           data: "main/Rb/Monin.yml"
+        - PAGE: Yamaguchi
+          name: "Yamaguchi and Hanyu 1973: n,k 0.200-0.600 µm"
+          data: "main/Rb/Yamaguchi.yml" 
         - PAGE: Whang
           name: "Whang et al. 1972: n,k 0.117-0.380 µm"
           data: "main/Rb/Whang.yml"
