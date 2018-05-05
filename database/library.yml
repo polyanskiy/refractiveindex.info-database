@@ -327,16 +327,22 @@
       info: "main/BaB2O4.html"
       content:
         - PAGE: Eimerl-o
-          name: "Eimerl et al. 1987: BBO; n(o) 0.22-1.06 µm"
+          name: "Eimerl et al. 1987: n(o) 0.22-1.06 µm"
           data: "main/BaB2O4/Eimerl-o.yml"
         - PAGE: Eimerl-e
-          name: "Eimerl et al. 1987: BBO; n(e) 0.22-1.06 µm"
+          name: "Eimerl et al. 1987: n(e) 0.22-1.06 µm"
           data: "main/BaB2O4/Eimerl-e.yml"
+        - PAGE: Tamosauskas-o
+          name: "Tamošauskas et al. 2018: n(o) 0.188-5.2 µm"
+          data: "main/BaB2O4/Tamosauskas-o.yml"
+        - PAGE: Tamosauskas-e
+          name: "Tamošauskas et al. 2018: n(e) 0.188-5.2 µm"
+          data: "main/BaB2O4/Tamosauskas-e.yml"
         - PAGE: Zhang-o
-          name: "Zhang et al. 2000: BBO; n(o) 0.64-3.18 µm"
+          name: "Zhang et al. 2000: n(o) 0.64-3.18 µm"
           data: "main/BaB2O4/Zhang-o.yml"
         - PAGE: Zhang-e
-          name: "Zhang et al. 2000: BBO; n(e) 0.64-3.18 µm"
+          name: "Zhang et al. 2000: n(e) 0.64-3.18 µm"
           data: "main/BaB2O4/Zhang-e.yml"
     - BOOK: BiB3O6
       name: "BiB<sub>3</sub>O<sub>6</sub> (Bismuth triborate, BiBO)"
@@ -2547,7 +2553,7 @@
           name: "Aspnes and Studna 1983: n,k 0.21-0.83 µm"
           data: "main/Si/Aspnes.yml"
         - PAGE: Schinke
-          name: "Schinke et al. 2015: k 0.25-1.45 µm"
+          name: "Schinke et al. 2015: n,k 0.25-1.45 µm"
           data: "main/Si/Schinke.yml"
         - PAGE: Green-2008
           name: "Green 2008: n,k 0.25-1.45 µm"
@@ -3774,6 +3780,9 @@
         - PAGE: Rubin-IR
           name: "Rubin 1985: Far-infared; n,k 5-300 µm"
           data: "glass/misc/soda-lime/Rubin-IR.yml"
+        - PAGE: Vogt-10ppm
+          name: "Vogt et al. 2016: 10 ppm Fe2O3; n,k 0.25-1.7 µm"
+          data: "glass/misc/soda-lime/Vogt-10ppm.yml"
     - BOOK: SCHOTT-multipurpose
       name: "SCHOTT - multiple purpose"
       info: "glass/SCHOTT.html"
@@ -9909,6 +9918,20 @@
         - PAGE: mono
           name: "Monomer; n 0.58929 µm"
           data: "other/commercial plastics/CR-39/mono.yml"
+    - BOOK: EVASKY_S87
+      name: "EVASKY S87"
+      info: "organic/ethylene-vinyl acetate.html"
+      content:
+        - PAGE: Vogt
+          name: "Vogt et al. 2016: n,k 0.25-2.5 µm"
+          data: "other/commercial plastics/EVASKY S87/Vogt.yml"
+    - BOOK: EVASKY_S88
+      name: "EVASKY S88"
+      info: "organic/ethylene-vinyl acetate.html"
+      content:
+        - PAGE: Vogt
+          name: "Vogt et al. 2016: n,k 0.25-2.5 µm"
+          data: "other/commercial plastics/EVASKY S88/Vogt.yml"
     - BOOK: NAS-21
       name: "NAS-21"
       info: "other/NAS-21.html"
@@ -10021,6 +10044,20 @@
         - PAGE: Li-e
           name: "Li et al. 2005: n(e) 0.450-0.656 µm"
           data: "other/liquid crystals/TL-216/Li-e.yml"
+    - DIVIDER: "Anti-reflective coatings"
+    - BOOK: SiN
+      name: "SiN"
+      info: "other/anti-reflective coatings.html"
+      content:
+        - PAGE: Vogt-1.91
+          name: "Vogt 2015: n=1.91@633nm; n,k 0.25-1.7"
+          data: "other/anti-reflective coatings/SiN/Vogt-1.91.yml"
+        - PAGE: Vogt-2.09
+          name: "Vogt 2015: n=2.09@633nm; n,k 0.25-1.7"
+          data: "other/anti-reflective coatings/SiN/Vogt-2.09.yml"
+        - PAGE: Vogt-2.13
+          name: "Vogt 2015: n=2.13@633nm; n,k 0.25-1.7"
+          data: "other/anti-reflective coatings/SiN/Vogt-2.13.yml"
     - DIVIDER: "Index matching liquids"
     - BOOK: BK7_matching_liquid
       name: "BK matching liquid"

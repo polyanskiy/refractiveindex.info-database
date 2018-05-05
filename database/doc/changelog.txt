@@ -1,5 +1,16 @@
 ============================== Next release ==============================
 
+  new data (thanks to Gintaras Tamošauskas, Vilnus University, Lithuania, for suggesting data!)
+    main/BaB2O4/Tamosauskas-o.yml
+    main/BaB2O4/Tamosauskas-e.yml
+  new data (thanks to Malte Vogt, Institute for Solar Energy Research in Hamelin, Germany, for providing numerical data in YAML format!)
+    other/commercial plastics/EVASKY S87/Vogt.yml
+    other/commercial plastics/EVASKY S88/Vogt.yml
+    other/anti-reflective coatings/SiN/Vogt-1.91.yml
+    other/anti-reflective coatings/SiN/Vogt-2.09.yml
+    other/anti-reflective coatings/SiN/Vogt-2.13.yml
+    glass/misc/soda-lime/Vogt-10ppm.yml
+    main/Si/Schinke.yml (added data for n)
   new data (thanks to Arkadiusz Ciesielski, University of Warsaw, Poland, for providing numerical data in YAML format!)
     main/Ag/Ciesielski.yml
     main/Ag/Ciesielski-Ge.yml
@@ -62,8 +73,8 @@
     main/Rb/Monin.yml
     main/Na/Monin.yml
     main/K/Monin.yml
-    main/Al/Mathewson-298.yml
-    main/Ca/Mathewson-298.yml
+    main/Al/Mathewson.yml
+    main/Ca/Mathewson.yml
     main/Pb/Mathewson-298K.yml
     main/Pb/Mathewson-140K.yml
     main/In/Mathewson-298K.yml
@@ -88,6 +99,7 @@
     main/Sn/Golovashkin-4.2.yml: comments, specs, rename to Golovashkin-4.2K.yml
     other/alloys/V-Ga/Golovashkin-293.yml: comments, specs, rename to Golovashkin-293K.yml
     other/alloys/V-Ga/Golovashkin-78.yml: comments, specs, rename to Golovashkin-78K.yml
+    glass/misc/soda-lime/Rubin*.yml: references
 
 
 ============================== 2018-02-10 ==============================
