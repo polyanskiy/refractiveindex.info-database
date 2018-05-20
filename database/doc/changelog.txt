@@ -10,6 +10,7 @@
     other/anti-reflective coatings/SiN/Vogt-2.09.yml
     other/anti-reflective coatings/SiN/Vogt-2.13.yml
     glass/misc/soda-lime/Vogt-10ppm.yml
+    glass/misc/soda-lime/Vogt-703ppm.yml
   new data (thanks to Arkadiusz Ciesielski, University of Warsaw, Poland, for providing numerical data in YAML format!)
     main/Ag/Ciesielski.yml
     main/Ag/Ciesielski-Ge.yml

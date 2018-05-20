@@ -3794,6 +3794,9 @@
         - PAGE: Vogt-10ppm
           name: "Vogt et al. 2016: 10 ppm Fe2O3; n,k 0.25-1.7 µm"
           data: "glass/misc/soda-lime/Vogt-10ppm.yml"
+        - PAGE: Vogt-703ppm
+          name: "Vogt et al. 2016: 703 ppm Fe2O3; n,k 0.30-1.69 µm"
+          data: "glass/misc/soda-lime/Vogt-703ppm.yml"
     - BOOK: SCHOTT-multipurpose
       name: "SCHOTT - multiple purpose"
       info: "glass/SCHOTT.html"
