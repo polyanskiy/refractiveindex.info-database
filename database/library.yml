@@ -9978,6 +9978,12 @@
         - PAGE: Li-e
           name: "Li et al. 2005: n(e) 0.450-0.656 µm"
           data: "other/liquid crystals/5CB/Li-e.yml"
+        - PAGE: Tkachenko-o
+          name: "Tkachenko et al. 2006: n(o) 0.532-1.7 µm"
+          data: "other/liquid crystals/5CB/Tkachenko-o.yml"
+        - PAGE: Tkachenko-e
+          name: "Tkachenko et al. 2006: n(e) 0.532-1.7 µm"
+          data: "other/liquid crystals/5CB/Tkachenko-e.yml"
     - BOOK: 5PCH
       name: "5PCH (4-trans-pentylcyclohexylcyanobenzene)"
       info: "other/liquid crystals.html"
@@ -9998,6 +10004,12 @@
         - PAGE: Li-e
           name: "Li et al. 2005: n(e) 0.450-0.656 µm"
           data: "other/liquid crystals/E7/Li-e.yml"
+        - PAGE: Tkachenko-o
+          name: "Tkachenko et al. 2006: n(o) 0.532-1.7 µm"
+          data: "other/liquid crystals/E7/Tkachenko-o.yml"
+        - PAGE: Tkachenko-e
+          name: "Tkachenko et al. 2006: n(e) 0.532-1.7 µm"
+          data: "other/liquid crystals/E7/Tkachenko-e.yml"
     - BOOK: E44
       name: "E44"
       info: "other/liquid crystals.html"

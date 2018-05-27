@@ -1,5 +1,10 @@
 ============================== Next release ==============================
 
+  new data (thanks  to Larry Heki for suggesting data!)
+    other/liquid crystals/E7/Tkachenko-o.yml
+	other/liquid crystals/E7/Tkachenko-e.yml
+    other/liquid crystals/5CB/Tkachenko-o.yml
+	other/liquid crystals/5CB/Tkachenko-e.yml
   new data (thanks to Gintaras Tamošauskas, Vilnus University, Lithuania, for suggesting data!)
     main/BaB2O4/Tamosauskas-o.yml
     main/BaB2O4/Tamosauskas-e.yml
@@ -85,7 +90,8 @@
     main/Na/Yamaguchi.yml
     main/Rb/Yamaguchi.yml
   updated data
-    all data co-authored by J. I. Larruquert: add deposition temperature and specs
+    liquid crystal data by Li et al: add temperature to specs
+	all data co-authored by J. I. Larruquert: add deposition temperature and specs
     main/Al/Larruquert.yml: references
     main/Na/Inagaki.yml: references, specs
     main/Li/Inagaki.yml: references, specs
