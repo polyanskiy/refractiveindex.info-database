@@ -3590,6 +3590,13 @@
         - PAGE: Sultanova
           name: "Sultanova et al. 2009: n 0.437-1.05 µm"
           data: "organic/(C6H10O5)n - cellulose/Sultanova.yml"
+    - BOOK: poly(N-isopropylacrylamide)
+      name: "(C<sub>6</sub>H<sub>11</sub>NO)<sub>n</sub> (Poly(N-isopropylacrylamide), PNIPA)"
+      info: "organic/poly(N-isopropylacrylamide).html"
+      content:
+        - PAGE: Brasse
+          name: "Brasse et al. 2018: n,k 0.246-1.69 µm"
+          data: "organic/(C6H11NO)n - poly(N-isopropylacrylamide)/Brasse.yml"
     - BOOK: polystyren
       name: "(C<sub>8</sub>H<sub>8</sub>)<sub>n</sub> (Polystyrene, PS)"
       info: "organic/polystyren.html"
@@ -3791,6 +3798,9 @@
         - PAGE: Rubin-IR
           name: "Rubin 1985: Far-infared; n,k 5-300 µm"
           data: "glass/misc/soda-lime/Rubin-IR.yml"
+        - PAGE: Vogt-5ppm
+          name: "Vogt et al. 2016: 5 ppm Fe2O3; n,k 0.30-1.69 µm"
+          data: "glass/misc/soda-lime/Vogt-5ppm.yml"
         - PAGE: Vogt-10ppm
           name: "Vogt et al. 2016: 10 ppm Fe2O3; n,k 0.25-1.7 µm"
           data: "glass/misc/soda-lime/Vogt-10ppm.yml"

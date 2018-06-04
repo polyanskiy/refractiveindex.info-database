@@ -1,5 +1,7 @@
-============================== Next release ==============================
+﻿============================== Next release ==============================
 
+  new data (thanks to Tobias König for submitting data!)
+    organic/(C6H11NO)n - poly(N-isopropylacrylamide)/Brasse.yml
   new data (thanks  to Larry Heki for suggesting data!)
     other/liquid crystals/E7/Tkachenko-o.yml
 	other/liquid crystals/E7/Tkachenko-e.yml
@@ -14,6 +16,7 @@
     other/anti-reflective coatings/SiN/Vogt-1.91.yml
     other/anti-reflective coatings/SiN/Vogt-2.09.yml
     other/anti-reflective coatings/SiN/Vogt-2.13.yml
+    glass/misc/soda-lime/Vogt-5ppm.yml
     glass/misc/soda-lime/Vogt-10ppm.yml
     glass/misc/soda-lime/Vogt-703ppm.yml
   new data (thanks to Arkadiusz Ciesielski, University of Warsaw, Poland, for providing numerical data in YAML format!)
