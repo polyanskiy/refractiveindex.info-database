@@ -1008,5 +1008,5 @@ DATA:
         5.7992e-01 1.5019e+00 7.2634e-03
         5.9040e-01 1.5012e+00 7.1261e-03
 SPECS:
-    n_is_absolute: true
-    λ_is_vacuum: true
+    n_absolute: true
+    λ_vacuum: true

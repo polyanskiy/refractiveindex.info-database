@@ -37,13 +37,15 @@ DATA:
         2.200 1.4217E-06
         2.400 4.0245E-06
 SPECS:
-    n_is_absolute: false
-    λ_is_vacuum: false
+    n_absolute: false
+    λ_vacuum: false
     temperature: 23.0 °C
     n_d: 1.699998
     V_d: 48.078853
     glass_code: 700481
     glass_status: preferred
     density: 3.69 g/cm<sup>3</sup>
-    coefficient_of_thermal_expansion_1: 9.1e-06 K<sup>-1</sup>
+    thermal_expansion:
+      - temperature_range: -30 70 °C
+        coefficient: 9.1e-06 K<sup>-1</sup>
     ΔP_gF: -0.0043

@@ -1602,5 +1602,5 @@ DATA:
         0.28696722 1.8721044 1.8375833
         0.323113894 1.9507722 1.9289333
 SPECS:
-    n_is_absolute: true
-    λ_is_vacuum: true
+    n_absolute: true
+    λ_vacuum: true

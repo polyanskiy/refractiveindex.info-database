@@ -29,8 +29,8 @@ DATA:
         0.650 5.1751E-09
         0.700 -0.0000E+00
 SPECS:
-    n_is_absolute: false
-    λ_is_vacuum: false
+    n_absolute: false
+    λ_vacuum: false
     temperature: 20.0 °C
     n_d: 1.671629
     V_d: 38.797887

@@ -158,5 +158,5 @@ DATA:
         1.653123 0.9891 11.0644
         2.479684 1.8892 17.0892
 SPECS:
-    n_is_absolute: true
-    λ_is_vacuum: true
+    n_absolute: true
+    λ_vacuum: true

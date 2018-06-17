@@ -33,12 +33,14 @@ DATA:
         2.200 1.1579E-06
         2.400 1.9487E-06
 SPECS:
-    n_is_absolute: false
-    λ_is_vacuum: false
+    n_absolute: false
+    λ_vacuum: false
     temperature: 23.0 °C
     n_d: 1.808090
     V_d: 22.787261
     glass_status: preferred
     density: 3.32 g/cm<sup>3</sup>
-    coefficient_of_thermal_expansion_1: 1.09e-05 K<sup>-1</sup>
+    thermal_expansion:
+      - temperature_range: -30 70 °C
+        coefficient: 1.09e-05 K<sup>-1</sup>
     ΔP_gF: 0.0236

@@ -9,7 +9,7 @@ DATA:
     range: 0.4679 2.0587
     coefficients: 6.432135E-5 2.8606021E-2 144
 SPECS:
-    n_is_absolute: true
-    λ_is_vacuum: true
+    n_absolute: true
+    λ_vacuum: true
     temperature: 15 °C
     pressure: 101325 Pa

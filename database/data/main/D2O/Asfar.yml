@@ -16,6 +16,6 @@ DATA:
         1000 2.43 0.915
         2000 3.02 1.146
 SPECS:
-    n_is_absolute: true
-    λ_is_vacuum: true
+    n_absolute: true
+    λ_vacuum: true
     temperature: 19.5 °C

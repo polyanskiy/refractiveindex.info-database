@@ -39,14 +39,18 @@ DATA:
         2.200 1.6319E-06
         2.400 2.4414E-06
 SPECS:
-    n_is_absolute: false
-    λ_is_vacuum: false
+    n_absolute: false
+    λ_vacuum: false
     temperature: 25.0 °C
-    coefficients_of_thermal_dispersion: -1.48e-06 1.41e-08 -1.47e-11 8.54e-07 6.15e-10 0.229
+    thermal_dispersion:
+      - type: "Schott formula"
+        coefficients: -1.48e-06 1.41e-08 -1.47e-11 8.54e-07 6.15e-10 0.229
     n_d: 1.581591
     V_d: 40.855991
     density: 3.27 g/cm<sup>3</sup>
-    coefficient_of_thermal_expansion_1: 9.1e-06 K<sup>-1</sup>
+    thermal_expansion:
+      - temperature_range: -30 70 °C
+        coefficient: 9.1e-06 K<sup>-1</sup>
     ΔP_gF: -0.0013
     climatic_resistance: 2.0
     acid_resistance: 1.0

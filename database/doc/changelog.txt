@@ -1,12 +1,14 @@
 ﻿============================== Next release ==============================
 
+  new data (thanks to Kimberly Clifton, LightPath Technologies, Inc., Orlando, FL, USA!)  
+	glass/lightpath/BD6.yml
   new data (thanks to Tobias König for submitting data!)
     organic/(C6H11NO)n - poly(N-isopropylacrylamide)/Brasse.yml
-  new data (thanks  to Larry Heki for suggesting data!)
+  new data (thanks to Larry Heki for suggesting data!)
     other/liquid crystals/E7/Tkachenko-o.yml
-	other/liquid crystals/E7/Tkachenko-e.yml
+    other/liquid crystals/E7/Tkachenko-e.yml
     other/liquid crystals/5CB/Tkachenko-o.yml
-	other/liquid crystals/5CB/Tkachenko-e.yml
+    other/liquid crystals/5CB/Tkachenko-e.yml
   new data (thanks to Gintaras Tamošauskas, Vilnus University, Lithuania, for suggesting data!)
     main/BaB2O4/Tamosauskas-o.yml
     main/BaB2O4/Tamosauskas-e.yml
@@ -94,7 +96,7 @@
     main/Rb/Yamaguchi.yml
   updated data
     liquid crystal data by Li et al: add temperature to specs
-	all data co-authored by J. I. Larruquert: add deposition temperature and specs
+    all data co-authored by J. I. Larruquert: add deposition temperature and specs
     main/Al/Larruquert.yml: references
     main/Na/Inagaki.yml: references, specs
     main/Li/Inagaki.yml: references, specs
@@ -113,6 +115,8 @@
     other/alloys/V-Ga/Golovashkin-78.yml: comments, specs, rename to Golovashkin-78K.yml
     glass/misc/soda-lime/Rubin*.yml: references
     main/Si/Schinke.yml: add data for n (thanks to Malte Vogt!)
+  miscellaneous
+    clean-up and expansion of "SPECS": use YAML flexibility to challenge Zemax materials catalog file format (.agf)
 
 
 ============================== 2018-02-10 ==============================

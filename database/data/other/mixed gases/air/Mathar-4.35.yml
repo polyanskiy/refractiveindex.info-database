@@ -94,7 +94,7 @@ DATA:
         5.19 1.000272741304
         5.20 1.000272738855
 SPECS:
-    n_is_absolute: true
-    λ_is_vacuum: true
+    n_absolute: true
+    λ_vacuum: true
     temperature: 15 °C
     pressure: 101325 Pa

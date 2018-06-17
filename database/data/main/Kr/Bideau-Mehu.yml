@@ -9,6 +9,6 @@ DATA:
     range: 0.1404 0.6234
     coefficients: 0 0.00253637 65.4742 0.00273649 73.698 0.0620802 181.08
 SPECS:
-    n_is_absolute: true
+    n_absolute: true
     temperature: 0 °C
     pressure: 101325 Pa

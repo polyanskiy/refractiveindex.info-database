@@ -490,6 +490,6 @@ DATA:
         1.99940E+00 1.617315 0.000979
         2.01700E+00 1.617296 0.000971
 SPECS:
-    n_is_absolute: true
-    λ_is_vacuum: true
+    n_absolute: true
+    λ_vacuum: true
     deposition_temperature: 250 °C

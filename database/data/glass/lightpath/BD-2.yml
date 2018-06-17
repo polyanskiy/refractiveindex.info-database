@@ -19,3 +19,19 @@ DATA:
         12 2.5942 1.241E-5
         13 2.5892 2.069E-5
         14 2.5843 2.228E-5
+SPECS:
+    n_absolute: false
+    λ_vacuum: false
+    density: 4.67 g/cm<sup>3</sup>
+    hardness: 
+      - type: Knoop
+        value: 150 knoop
+    elasticity_modulus:
+      - type: Young
+        value: 22.1 GPa
+    thermal_expansion:
+        coefficient: 14e-06 K<sup>-1</sup>
+    thermal_dispersion:
+      - type: "dn_rel/dT"
+        value: 91e-6 K<sup>-1</sup>
+    max_exposure_temperature: 140 °C

@@ -45,6 +45,6 @@ DATA:
         1.65312 1.58999 16.47811
         1.77120 1.75488 17.75048
 SPECS:
-    n_is_absolute: true
-    λ_is_vacuum: true
+    n_absolute: true
+    λ_vacuum: true
     temperature: 298 K

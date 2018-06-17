@@ -9,6 +9,6 @@ DATA:
     range: 0.405 0.635
     coefficients: 0 3.3037 0.1987971
 SPECS:
-    n_is_absolute: false
-    λ_is_vacuum: false
+    n_absolute: false
+    λ_vacuum: false
     temperature: 24 °C

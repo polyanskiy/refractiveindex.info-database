@@ -28,15 +28,18 @@ DATA:
         2.325 2.2284E-06
         2.500 2.8383E-06
 SPECS:
-    n_is_absolute: false
-    λ_is_vacuum: false
+    n_absolute: false
+    λ_vacuum: false
     n_d: 1.92286
     V_d: 20.88
     glass_code: 923209.603
     glass_status: preferred
     density: 6.025 g/cm<sup>3</sup>
-    coefficient_of_thermal_expansion_1: 9.01e-06 K<sup>-1</sup>
-    coefficient_of_thermal_expansion_2: 1.148e-05 K<sup>-1</sup>
+    thermal_expansion:
+      - temperature_range: -30 70 °C
+        coefficient: 9.01e-06 K<sup>-1</sup>
+      - temperature_range: 20 300 °C
+        coefficient: 1.148e-05 K<sup>-1</sup>
     ΔP_gF: 0.0197
     climatic_resistance: 2.0
     stain_resistance: 5.0

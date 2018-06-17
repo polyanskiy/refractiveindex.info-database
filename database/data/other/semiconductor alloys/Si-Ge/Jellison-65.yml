@@ -111,8 +111,8 @@ DATA:
         0.830 3.865 0.016
         0.840 3.844 0.013
 SPECS:
-    n_is_absolute: true
-    λ_is_vacuum: false
+    n_absolute: true
+    λ_vacuum: false
     x: 0.65
     thickness: 8 μm
     substrate: Si

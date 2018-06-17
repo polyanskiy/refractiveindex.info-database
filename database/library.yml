@@ -3591,7 +3591,7 @@
           name: "Sultanova et al. 2009: n 0.437-1.05 µm"
           data: "organic/(C6H10O5)n - cellulose/Sultanova.yml"
     - BOOK: poly(N-isopropylacrylamide)
-      name: "(C<sub>6</sub>H<sub>11</sub>NO)<sub>n</sub> (Poly(N-isopropylacrylamide), PNIPA)"
+      name: "(C<sub>6</sub>H<sub>11</sub>NO)<sub>n</sub> (Poly(N-isopropylacrylamide), PNIPAM)"
       info: "organic/poly(N-isopropylacrylamide).html"
       content:
         - PAGE: Brasse
@@ -4054,6 +4054,9 @@
         - PAGE: BD-2
           name: "BD-2"
           data: "glass/lightpath/BD-2.yml"
+        - PAGE: BD6
+          name: "BD6"
+          data: "glass/lightpath/BD6.yml"
     - DIVIDER: "Optical glass - SCHOTT"
     - BOOK: SCHOTT-K
       name: "SCHOTT - K (Crown)"

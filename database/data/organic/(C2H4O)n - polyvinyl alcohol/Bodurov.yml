@@ -9,8 +9,8 @@ DATA:
     range: 0.405 0.635
     coefficients: 0 1.1490 0.1234783
 SPECS:
-    n_is_absolute: false
-    λ_is_vacuum: false
+    n_absolute: false
+    λ_vacuum: false
     temperature: 24 °C
     film_thickness: 10 μm
     substrate: glass

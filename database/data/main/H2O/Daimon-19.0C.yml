@@ -9,6 +9,6 @@ DATA:
     range: 0.182 1.129
     coefficients: 0 5.672526103E-1 5.085550461E-3 1.736581125E-1 1.814938654E-2 2.121531502E-2 2.617260739E-2 1.138493213E-1 1.073888649E1
 SPECS:
-    n_is_absolute: true
-    λ_is_vacuum: true
+    n_absolute: true
+    λ_vacuum: true
     temperature: 19.0 °C
