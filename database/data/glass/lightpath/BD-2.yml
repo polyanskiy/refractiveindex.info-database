@@ -34,4 +34,4 @@ SPECS:
     thermal_dispersion:
       - type: "dn_rel/dT"
         value: 91e-6 K<sup>-1</sup>
-    max_exposure_temperature: 140 °C
+    transition_temperature: 278 °C

@@ -36,5 +36,5 @@ SPECS:
         temperature_range: 0 40 °C
         λ: 10 µm
         value: 30.5e-6 K<sup>-1</sup>
-    max_exposure_temperature: 140 °C
+    transition_temperature: 140 °C
     
