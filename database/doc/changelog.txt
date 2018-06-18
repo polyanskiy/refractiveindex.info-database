@@ -1,5 +1,8 @@
 ﻿============================== Next release ==============================
 
+  new data (thanks to Samuel Philippian, IL, USA!)  
+	main/Ir/Hass-40C.yml
+	main/Ir/Hass-3000C.yml
   new data (thanks to Kimberly Clifton, LightPath Technologies, Inc., Orlando, FL, USA!)  
 	glass/lightpath/BD6.yml
   new data (thanks to Tobias König for submitting data!)

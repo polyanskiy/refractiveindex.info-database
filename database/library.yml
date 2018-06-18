@@ -1204,12 +1204,15 @@
       name: "Ir (Iridium)"
       info: "main/Ir.html"
       content:
-        - PAGE: Ordal
-          name: "Ordal et al. 1988: n,k 0.667-286 µm"
-          data: "main/Fe/Ordal.yml"
         - PAGE: Windt
           name: "Windt et al. 1988: 0.0024-0.122 µm"
           data: "main/Ir/Windt.yml"
+        - PAGE: Hass-40C
+          name: "Hass et al. 1967: n,k 0.005-0.546 µm; deposited at 40 °C"
+          data: "main/Ir/Hass-40C.yml"
+        - PAGE: Hass-300C
+          name: "Hass et al. 1967: n,k 0.005-0.546 µm; deposited at 300 °C"
+          data: "main/Ir/Hass-300C.yml"
     - DIVIDER: "K - Potassium"
     - BOOK: K
       name: "K (Potassium)"
