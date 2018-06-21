@@ -1577,20 +1577,6 @@
         - PAGE: Werner-DFT
           name: "Werner et al. 2009: DFT calculations; n,k 0.0176-2.48 µm"
           data: "main/Ni/Werner-DFT.yml"
-    - DIVIDER: "Os - Osmium"
-    - BOOK: Os
-      name: "Os (Osmium)"
-      info: "main/Os.html"
-      content:
-        - PAGE: Windt
-          name: "Windt et al. 1988: n,k 0.0024-0.122 µm"
-          data: "main/Os/Windt.yml"
-        - PAGE: Nemoshkalenko-o
-          name: "Nemoshkalenko et al. 1968: n,k(o) 0.24-15 µm"
-          data: "main/Os/Nemoshkalenko-o.yml"
-        - PAGE: Nemoshkalenko-e
-          name: "Nemoshkalenko et al. 1968: n,k(e) 0.25-8.0 µm"
-          data: "main/Os/Nemoshkalenko-e.yml"
     - DIVIDER: "O - Oxygen and oxides"
     - BOOK: O2
       name: "O<sub>2</sub> (Oxygen)"
@@ -1959,6 +1945,20 @@
         - PAGE: Bodurov
           name: "Bodurov et al. 2016: Nanoparticles; n 0.405-0.635 µm"
           data: "main/ZrO2/Bodurov.yml"
+    - DIVIDER: "Os - Osmium"
+    - BOOK: Os
+      name: "Os (Osmium)"
+      info: "main/Os.html"
+      content:
+        - PAGE: Windt
+          name: "Windt et al. 1988: n,k 0.0024-0.122 µm"
+          data: "main/Os/Windt.yml"
+        - PAGE: Nemoshkalenko-o
+          name: "Nemoshkalenko et al. 1968: n,k(o) 0.24-15 µm"
+          data: "main/Os/Nemoshkalenko-o.yml"
+        - PAGE: Nemoshkalenko-e
+          name: "Nemoshkalenko et al. 1968: n,k(e) 0.25-8.0 µm"
+          data: "main/Os/Nemoshkalenko-e.yml"
     - DIVIDER: "P - Phosphides and phosphates"
     - BOOK: BP
       name: "BP (Boron phosphide)"
