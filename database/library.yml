@@ -1585,6 +1585,12 @@
         - PAGE: Windt
           name: "Windt et al. 1988: n,k 0.0024-0.122 µm"
           data: "main/Os/Windt.yml"
+        - PAGE: Nemoshkalenko-o
+          name: "Nemoshkalenko et al. 1968: n,k(o) 0.24-15 µm"
+          data: "main/Os/Nemoshkalenko-o.yml"
+        - PAGE: Nemoshkalenko-e
+          name: "Nemoshkalenko et al. 1968: n,k(e) 0.25-8.0 µm"
+          data: "main/Os/Nemoshkalenko-e.yml"
     - DIVIDER: "O - Oxygen and oxides"
     - BOOK: O2
       name: "O<sub>2</sub> (Oxygen)"
