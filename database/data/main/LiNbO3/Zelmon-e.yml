@@ -6,5 +6,5 @@ REFERENCES: "D. E. Zelmon, D. L. Small, and D. Jundt. Infrared corrected Sellmei
 COMMENTS: "21 °C. Extraordinary ray (e). Congruently grown lithium niobate."
 DATA:
   - type: formula 2
-    range: 0.4 5.0
+    wavelength_range: 0.4 5.0
     coefficients: 0 2.9804 0.02047 0.5981 0.0666 8.9543 416.08

@@ -6,7 +6,7 @@ REFERENCES: "<a href=\"http://refractiveindex.info/download/data/2017/nikon_2017
 COMMENTS: "Low	Tg	glass"
 DATA:
   - type: formula 3 
-    range: 0.4 0.7
+    wavelength_range: 0.4 0.7
     coefficients: 3.07248878 -0.0130910046 2 0.0257175166 -2 0.000468797447 -4 8.26140166e-06 -6 4.96911029e-07 -8 -0.000149735345 4
   - type: tabulated k
     data: |
@@ -44,13 +44,13 @@ DATA:
         2.400 6.2740E-06
 SPECS:
     n_absolute: false
-    λ_vacuum: false
+    wavelength_vacuum: false
     temperature: 23.0 °C
-    n_d: 1.773870
-    V_d: 47.253126
+    nd: 1.773870
+    Vd: 47.253126
     glass_status: preferred
     density: 4.63 g/cm<sup>3</sup>
     thermal_expansion:
       - temperature_range: -30 70 °C
         coefficient: 7.4e-06 K<sup>-1</sup>
-    ΔP_gF: -0.0088
+    dPgF: -0.0088

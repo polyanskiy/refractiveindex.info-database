@@ -6,5 +6,5 @@ REFERENCES: "1) G. D. Boyd, E. Buehler, F. G Storz, J. H. Wernick. Linear and no
 COMMENTS: "Ordinary ray (e)"
 DATA:
   - type: formula 2
-    range: 0.7 11.5
+    wavelength_range: 0.7 11.5
     coefficients: 3.6006 5.6912 0.1437 1.1316 700

@@ -6,5 +6,5 @@ REFERENCES: "M. Simon et al.. Refractive indices of photorefractive bismuth tita
 COMMENTS: "Extraordinary ray (e). 21 °C."
 DATA:
   - type: formula 4
-    range: 0.45 0.70
+    wavelength_range: 0.45 0.70
     coefficients: 2.358 1.929 2 0.05780 1 0 0 0 1

@@ -6,5 +6,5 @@ REFERENCES: "N. P. Barnes and D. J. Gettemy. Temperature variation of the refrac
 COMMENTS: "Room temperature. Ordinary ray (o)."
 DATA:
   - type: formula 2
-    range: 0.225 2.6
+    wavelength_range: 0.225 2.6
     coefficients: 0.38757 0.70757 0.00931 0.18849 50.99741

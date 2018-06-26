@@ -6,5 +6,5 @@ REFERENCES: "K. Luke, Y. Okawachi, M. R. E. Lamont, A. L. Gaeta, M. Lipson. Broa
 COMMENTS: "340 nm Si<sub>3</sub>N<sub>4</sub> on 3.1 μm of thermal SiO<sub>2</sub> on silicon."
 DATA:
   - type: formula 1
-    range: 0.310 5.504
+    wavelength_range: 0.310 5.504
     coefficients: 0 3.0249 0.1353406 40314 1239.842

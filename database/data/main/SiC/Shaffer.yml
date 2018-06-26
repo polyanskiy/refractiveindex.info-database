@@ -6,5 +6,5 @@ REFERENCES: "P. T. B. Shaffer. Refractive index, dispersion, and birefringence o
 COMMENTS: "β-SiC (zincblende crystal structure)"
 DATA:
   - type: formula 5
-    range: 0.467 0.691
+    wavelength_range: 0.467 0.691
     coefficients: 2.5538 0.0342 -2

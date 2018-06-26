@@ -1,5 +1,8 @@
 ﻿============================== Next release ==============================
 
+  !!! format modification !!! 
+    'range' key in dispersion formulas replaced by 'wavelength_range'
+	clean-up and expansion of "SPECS": YAML flexibility allows to include more data and organize it better than Zemax materials catalog file format (.agf)
   new data (thanks to Samuel Philippian, IL, USA!)  
 	main/Ir/Hass-40C.yml
 	main/Ir/Hass-3000C.yml
@@ -63,6 +66,7 @@
     other/silk/Bombyx mori/Bucciarelli-SPP_FA_Unex.yml
     other/silk/Bombyx mori/Bucciarelli-SN_FA.yml
   new data
+    glass/schott/infrared/IRG27.yml
     main/He/Smith.yml
     main/H2/Smith.yml
     main/O2/Smith.yml
@@ -100,6 +104,8 @@
     main/Na/Yamaguchi.yml
     main/Rb/Yamaguchi.yml
   updated data
+    glass/schott/infrared/*.yml
+	glass/lightpath/*.yml
     liquid crystal data by Li et al: add temperature to specs
     all data co-authored by J. I. Larruquert: add deposition temperature and specs
     main/Al/Larruquert.yml: references
@@ -120,8 +126,6 @@
     other/alloys/V-Ga/Golovashkin-78.yml: comments, specs, rename to Golovashkin-78K.yml
     glass/misc/soda-lime/Rubin*.yml: references
     main/Si/Schinke.yml: add data for n (thanks to Malte Vogt!)
-  miscellaneous
-    clean-up and expansion of "SPECS": use YAML flexibility to challenge Zemax materials catalog file format (.agf)
 
 
 ============================== 2018-02-10 ==============================

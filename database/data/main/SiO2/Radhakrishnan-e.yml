@@ -6,5 +6,5 @@ REFERENCES: "1) T. Radhakrishnan. Further Studies on the Temperature Variation o
 COMMENTS: "18 °C"
 DATA:
   - type: formula 1
-    range: 0.18 3
+    wavelength_range: 0.18 3
     coefficients: 0 0.665721 0.060 0.503511 0.106 0.214792 0.119 0.539173 8.792 1.807613 19.70

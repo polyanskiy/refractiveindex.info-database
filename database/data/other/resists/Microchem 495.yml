@@ -6,5 +6,5 @@ REFERENCES: "<a href=\"https://refractiveindex.info/download/data/2001/MicroChem
 COMMENTS: "Microchem 495 PMMA resist"
 DATA:
   - type: formula 5
-    range: 0.2 1.1
+    wavelength_range: 0.2 1.1
     coefficients: 1.491 0.003427 -2 0.0001819 -4

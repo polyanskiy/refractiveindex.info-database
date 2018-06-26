@@ -6,10 +6,10 @@ REFERENCES: "C. R. Mansfield and E. R. Peck. Dispersion of helium, <a href=\"htt
 COMMENTS: "Standard conditions: 0 °C, 760 torr (101.325 kPa)."
 DATA:
   - type: formula 6
-    range: 0.4801 2.0586
+    wavelength_range: 0.4801 2.0586
     coefficients: 0 0.01470091 423.98
 SPECS:
     n_absolute: true
-    λ_vacuum: true
+    wavelength_vacuum: true
     temperature: 0 °C
     pressure: 101325 Pa

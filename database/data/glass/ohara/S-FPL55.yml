@@ -6,7 +6,7 @@ REFERENCES: "<a href=\"http://refractiveindex.info/download/data/2017/ohara_2017
 COMMENTS: "Recommended -The unique relative partial dispersion."
 DATA:
   - type: formula 2 
-    range: 0.365 2.325
+    wavelength_range: 0.365 2.325
     coefficients: 0 0.839067682 0.00795286639 0.214083503 -0.00232581717 1.47914677 340.0437
   - type: tabulated k
     data: |
@@ -44,18 +44,18 @@ DATA:
         2.400 5.7382E-08
 SPECS:
     n_absolute: false
-    λ_vacuum: false
+    wavelength_vacuum: false
     temperature: 25.0 °C
     thermal_dispersion:
       - type: "Schott formula"
         coefficients: -2.1e-05 -7.63e-09 1.24e-11 2.82e-07 1.8e-10 0.224
-    n_d: 1.438750
-    V_d: 94.661059
+    nd: 1.438750
+    Vd: 94.661059
     density: 3.59 g/cm<sup>3</sup>
     thermal_expansion:
       - temperature_range: -30 70 °C
         coefficient: 1.36e-05 K<sup>-1</sup>
-    ΔP_gF: 0.0457
+    dPgF: 0.0457
     climatic_resistance: 2.0
     acid_resistance: 52.1
     phosphate_resistance: 4.1

@@ -6,5 +6,5 @@ REFERENCES: "M. Daimon and A. Masumura. High-accuracy measurements of the refrac
 COMMENTS: "25 °C, Nitrogen atmosphere"
 DATA:
   - type: formula 2
-    range: 0.138 2.326
+    wavelength_range: 0.138 2.326
     coefficients: 0 0.437387571 0.00173799328 0.449211397 0.00782718648 0.152068715 0.0124086125 13.0020420 4039.76541

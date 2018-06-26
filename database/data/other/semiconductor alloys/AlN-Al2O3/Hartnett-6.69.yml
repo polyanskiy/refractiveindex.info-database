@@ -6,5 +6,5 @@ REFERENCES: "T. M. Hartnett et al.. Optical properties of ALON (aluminum oxynitr
 COMMENTS: "Nitrogen content: 6.69 at.%"
 DATA:
   - type: formula 1
-    range: 0.24 5.6
+    wavelength_range: 0.24 5.6
     coefficients: 0 2.1375 0.10256 4.5817 18.868

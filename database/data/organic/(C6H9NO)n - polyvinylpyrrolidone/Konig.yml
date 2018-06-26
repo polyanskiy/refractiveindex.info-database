@@ -6,7 +6,7 @@ REFERENCES: "T. A. F. König, P. A. Ledin, J. Kerszulis, M. A. Mahmoud; M. A. El
 COMMENTS: "Optical constants of poly(vinylpyrrolidone) (PVP)"
 DATA:
   - type: formula 5
-    range: 0.375 1
+    wavelength_range: 0.375 1
     coefficients: 1.5151 0.00279 -2 5.0756E-4 -4
   - type: tabulated nk
     data: |

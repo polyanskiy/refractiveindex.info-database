@@ -6,5 +6,5 @@ REFERENCES: "I. Z. Kozma, P. Krok, and E. Riedle. Direct measurement of the grou
 COMMENTS: "22 °C"
 DATA:
   - type: formula 5
-    range: 0.2484 0.6407
+    wavelength_range: 0.2484 0.6407
     coefficients: 1.3662 3.3477e-3 -2 -1.3323046e-5 -4 2.87492e-6 -6

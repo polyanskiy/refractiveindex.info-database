@@ -6,5 +6,5 @@ REFERENCES: "J. J. Carvajal, P. Segonds, A. Peña, J. Zaccaro, B. Boulanger, F. 
 COMMENTS: "Rb<sub>0.955</sub>Ti<sub>0.955</sub>Nb<sub>0.045</sub>OPO<sub>4</sub>; n<sub>β</sub>; 293 K (20 °C)."
 DATA:
   - type: formula 4
-    range: 0.4 1.5
+    wavelength_range: 0.4 1.5
     coefficients: 1.1320 2.0885 2 0.0278 1 0 0 0 1 -0.0096 2

@@ -6,5 +6,5 @@ REFERENCES: "1) W. J. Tropf and M. E. Thomas, Magnesium aluminum spinel (MgAlO<s
 COMMENTS: "Room temperature"
 DATA:
   - type: formula 1
-    range: 0.35 5.5
+    wavelength_range: 0.35 5.5
     coefficients: 0 1.8938 0.09942 3.0755 15.826

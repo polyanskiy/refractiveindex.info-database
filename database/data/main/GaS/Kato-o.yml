@@ -6,5 +6,5 @@ REFERENCES: "K. Kato and N. Umemura. Sellmeier equations for GaS and GaSe and th
 COMMENTS: "Room temperature. Ordinary ray (o)."
 DATA:
   - type: formula 4
-    range: 0.633 10.591
+    wavelength_range: 0.633 10.591
     coefficients: 7.12996 0.26073 0 0.04627 1 127.335 0 258.431 1

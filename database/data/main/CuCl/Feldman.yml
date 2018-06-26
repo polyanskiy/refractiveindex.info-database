@@ -6,5 +6,5 @@ REFERENCES: "A. Feldman and D. Horowitz. Refractive Index of Cuprous Chloride, <
 COMMENTS: "Room temperature"
 DATA:
   - type: formula 4
-    range: 0.43 2.5
+    wavelength_range: 0.43 2.5
     coefficients: 3.580 0.03162 2 0.1642 1 0 0 0 1 0.09288 -2

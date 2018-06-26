@@ -6,5 +6,5 @@ REFERENCES: "1) M. Debenham. Refractive indices of zinc sulfide in the 0.405-13-
 COMMENTS: "Cubic ZnS, 20 °C"
 DATA:
   - type: formula 4
-    range: 0.405 13
+    wavelength_range: 0.405 13
     coefficients: 8.393 0.14383 0 0.2421 2 4430.99 0 36.71 2

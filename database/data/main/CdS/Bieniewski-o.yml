@@ -6,5 +6,5 @@ REFERENCES: "1) T. M. Bieniewski and S. J. Czyzak. Refractive indexes of single 
 COMMENTS: "Ordinary ray (o). 25 °C."
 DATA:
   - type: formula 4
-    range: 0.51 1.4
+    wavelength_range: 0.51 1.4
     coefficients: 5.1792 0.23504 0 0.083591 1 0.036927 0 0.23504 1

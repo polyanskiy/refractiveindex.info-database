@@ -6,7 +6,7 @@ REFERENCES: "<a href=\"http://refractiveindex.info/download/data/2017/nikon_2017
 COMMENTS: "For	mold	lens"
 DATA:
   - type: formula 3 
-    range: 0.388865 2.05809
+    wavelength_range: 0.388865 2.05809
     coefficients: 3.12617289 -0.0131750117 2 -5.65591169e-05 4 0.027406042 -2 0.000635024687 -4 -3.03984369e-06 -6 1.4020084e-06 -8
   - type: tabulated k
     data: |
@@ -43,16 +43,16 @@ DATA:
         2.400 4.9917E-06
 SPECS:
     n_absolute: false
-    λ_vacuum: false
+    wavelength_vacuum: false
     temperature: 23.0 °C
     thermal_dispersion:
       - type: "Schott formula"
         coefficients: 6.8374e-06 1.1824e-08 -1.6343e-12 8.1436e-07 9.5581e-10 0.18204
-    n_d: 1.790630
-    V_d: 44.984543
+    nd: 1.790630
+    Vd: 44.984543
     density: 4.68 g/cm<sup>3</sup>
     thermal_expansion:
       - temperature_range: -30 70 °C
         coefficient: 5.8e-06 K<sup>-1</sup>
-    ΔP_gF: -0.0093
+    dPgF: -0.0093
     phosphate_resistance: 1.0

@@ -6,5 +6,5 @@ REFERENCES: "D. Eimerl, L. Davis, S. Velsko, E. K. Graham and A. Zalkin. Optical
 COMMENTS: "Beta barium borate (ß-BaB<sub>2</sub>O<sub>4</sub>, BBO). Extraordinary ray (e)."
 DATA:
   - type: formula 4
-    range: 0.22 1.06
+    wavelength_range: 0.22 1.06
     coefficients: 2.3730 0.0128 0 0.0156 1 0 0 0 1 -0.0044 2

@@ -6,5 +6,5 @@ REFERENCES: "1) W. L. Bond. Measurement of the refractive indices of several cry
 COMMENTS: "Extraordinary ray (e). Room temperature."
 DATA:
   - type: formula 4
-    range: 0.45 4.0
+    wavelength_range: 0.45 4.0
     coefficients: 2.80333 0.94470 2 0.3004 2 0 0 0 1 -0.00714 2

@@ -6,5 +6,5 @@ REFERENCES: "A. Bucciarelli, V. Mulloni, D.Maniglio, R. K. Pal, V. K. Yadavalli,
 COMMENTS: "Pure fibroin (regenerated silk fibroin) film. Formed using water."
 DATA:
   - type: formula 5
-    range: 0.4 1.5
+    wavelength_range: 0.4 1.5
     coefficients: 1.533 4.3e-3 -2 2e-4 -4

@@ -6,7 +6,7 @@ REFERENCES: "1) E. Sani and A. Dell'Oro. Optical constants of ethylene glycol ov
 COMMENTS: "Room temperature"
 DATA:
   - type: formula 2
-    range: 0.185 2.8
+    wavelength_range: 0.185 2.8
     coefficients: 0 0.01778 9.02 1.01887 0.01028
   - type: tabulated k
     data: |

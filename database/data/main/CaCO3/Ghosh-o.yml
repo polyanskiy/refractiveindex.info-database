@@ -6,5 +6,5 @@ REFERENCES: "G. Ghosh. Dispersion-equation coefficients for the refractive index
 COMMENTS: "Ordinary ray (o). Room temperature."
 DATA:
   - type: formula 2
-    range: 0.204 2.172
+    wavelength_range: 0.204 2.172
     coefficients: 0.73358749 0.96464345 1.94325203e-2 1.82831454 120

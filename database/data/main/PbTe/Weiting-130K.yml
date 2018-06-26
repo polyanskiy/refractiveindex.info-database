@@ -6,5 +6,5 @@ REFERENCES: "F. Weiting and Y. Yixun. Temperature effects on the refractive inde
 COMMENTS: "130 K (-143 °C)"
 DATA:
   - type: formula 4
-    range: 5.189 12.51
+    wavelength_range: 5.189 12.51
     coefficients: 1 33.851 2 3.6068 1 0 0 0 1 -0.009763 2

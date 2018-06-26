@@ -6,7 +6,7 @@ REFERENCES: "<a href=\"http://refractiveindex.info/download/data/2017/hoya_2017-
 COMMENTS: "Recommended glass type"
 DATA:
   - type: formula 3 
-    range: 0.36501 1.01398
+    wavelength_range: 0.36501 1.01398
     coefficients: 3.672962 -0.0151805 2 0.0457187 -2 0.002186221 -4 -9.93742e-05 -6 1.490466e-05 -8
   - type: tabulated k
     data: |
@@ -42,13 +42,13 @@ DATA:
         1.550 2.4694E-08
 SPECS:
     n_absolute: false
-    λ_vacuum: false
+    wavelength_vacuum: false
     temperature: 20.0 °C
     thermal_dispersion:
       - type: "Schott formula"
         coefficients: 8.36e-07 9.08e-09 -4.59e-11 9.61e-07 1.39e-09 0.246
-    n_d: 1.95375
-    V_d: 32.32
+    nd: 1.95375
+    Vd: 32.32
     glass_code: 954323
     glass_status: standard
     density: 5.1 g/cm<sup>3</sup>

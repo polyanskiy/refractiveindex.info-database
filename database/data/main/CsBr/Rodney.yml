@@ -6,5 +6,5 @@ REFERENCES: "W. S. Rodney and R. J. Spindler. Refractive index of cesium bromide
 COMMENTS: "27 °C"
 DATA:
   - type: formula 1
-    range: 0.365 39
+    wavelength_range: 0.365 39
     coefficients: 0 0.9533786 0.0905643 0.8303809 0.1671517 2.847172 119.0155

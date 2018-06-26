@@ -6,7 +6,7 @@ REFERENCES: "<a href=\"http://refractiveindex.info/download/data/2017/hoya_2017-
 COMMENTS: "Preforms for Precision molding"
 DATA:
   - type: formula 3 
-    range: 0.36501 1.01398
+    wavelength_range: 0.36501 1.01398
     coefficients: 2.761638 -0.01132633 2 0.02865346 -2 0.001529038 -4 -8.743577e-05 -6 1.496579e-05 -8
   - type: tabulated k
     data: |
@@ -42,13 +42,13 @@ DATA:
         1.550 7.4230E-08
 SPECS:
     n_absolute: false
-    λ_vacuum: false
+    wavelength_vacuum: false
     temperature: 20.0 °C
     thermal_dispersion:
       - type: "Schott formula"
         coefficients: -8.15303e-06 0.0 0.0 0.0 0.0 0.0
-    n_d: 1.68893
-    V_d: 31.16
+    nd: 1.68893
+    Vd: 31.16
     glass_code: 689312
     glass_status: standard
     density: 3.26 g/cm<sup>3</sup>
@@ -57,7 +57,7 @@ SPECS:
         coefficient: 1.15e-05 K<sup>-1</sup>
       - temperature_range: 20 300 °C
         coefficient: 1.43e-05 K<sup>-1</sup>
-    ΔP_gF: 0.0115
+    dPgF: 0.0115
     climatic_resistance: 3.0
     stain_resistance: 3.0
     acid_resistance: 3.0

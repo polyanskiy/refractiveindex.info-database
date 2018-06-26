@@ -6,10 +6,10 @@ REFERENCES: "1) I. H. Malitson and M. J. Dodge. Refractive Index and Birefringen
 COMMENTS: "Synthetic sapphire, Ordinary ray (o), 20 °C"
 DATA:
   - type: formula 1
-    range: 0.20 5.0
+    wavelength_range: 0.20 5.0
     coefficients: 0 1.4313493 0.0726631 0.65054713 0.1193242 5.3414021 18.028251
 SPECS:
     n_absolute: false
-    λ_vacuum: false
+    wavelength_vacuum: false
     temperature: 20 °C
     direction: o

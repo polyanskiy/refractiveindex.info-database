@@ -6,5 +6,5 @@ REFERENCES: "H. El-Kashef. The necessary requirements imposed on polar dielectri
 COMMENTS: "20 °C"
 DATA:
   - type: formula 5
-    range: 0.4 0.8
+    wavelength_range: 0.4 0.8
     coefficients: 1.340964 10708.022E-6 -2

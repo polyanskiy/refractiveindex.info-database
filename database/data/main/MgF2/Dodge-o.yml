@@ -6,5 +6,5 @@ REFERENCES: "M. J. Dodge. Refractive properties of magnesium fluoride, <a href=\
 COMMENTS: "19 °C. Ordinary ray (o)."
 DATA:
   - type: formula 1
-    range: 0.2 7.0
+    wavelength_range: 0.2 7.0
     coefficients: 0 0.48755108 0.04338408 0.39875031 0.09461442 2.3120353 23.793604

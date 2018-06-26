@@ -6,5 +6,5 @@ REFERENCES: "F. Peter. Über Brechungsindizes und Absorptionskonstanten des Diam
 COMMENTS: "Cubic carbon (diamond). Room temperature; no temperature effect on refractive index was observed in the temperature interval 10 - 30 °C"
 DATA:
   - type: formula 1
-    range: 0.226 0.760
+    wavelength_range: 0.226 0.760
     coefficients: 0 0.3306 0.1750 4.3356 0.1060

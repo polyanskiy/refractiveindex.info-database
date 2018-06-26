@@ -6,5 +6,5 @@ REFERENCES: "I. H. Malitson, as cited in Handbook of Optics, 3rd edition, Vol. 4
 COMMENTS: "Ordinary ray (o)"
 DATA:
   - type: formula 1
-    range: 0.44 1.08
+    wavelength_range: 0.44 1.08
     coefficients: 0 3.54642 0.18518 0.58270 0.033764

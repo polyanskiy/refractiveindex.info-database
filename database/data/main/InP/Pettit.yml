@@ -7,5 +7,5 @@ of semiconductors with diamond and zinc-blende structures, <i>Sov. Phys. Semicon
 COMMENTS: "Room temperature"
 DATA:
   - type: formula 1
-    range: 0.95 10
+    wavelength_range: 0.95 10
     coefficients: 6.255 2.316 0.6263 2.765 32.935

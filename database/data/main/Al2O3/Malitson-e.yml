@@ -6,5 +6,5 @@ REFERENCES: "1) I. H. Malitson and M. J. Dodge. Refractive Index and Birefringen
 COMMENTS: "Synthetic sapphire, Extraordinary ray (e), 20 °C"
 DATA:
   - type: formula 1
-    range: 0.20 5.0
+    wavelength_range: 0.20 5.0
     coefficients: 0 1.5039759 0.0740288 0.55069141 0.1216529 6.5927379 20.072248

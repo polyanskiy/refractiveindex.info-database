@@ -6,5 +6,5 @@ REFERENCES: "O. G. Lorimor and W. G. Spitzer. Infrared refractive index and abso
 COMMENTS: "Room temperature"
 DATA:
   - type: formula 1
-    range: 3.7 31.3
+    wavelength_range: 3.7 31.3
     coefficients: 10.1 0.71 2.551 2.75 45.66

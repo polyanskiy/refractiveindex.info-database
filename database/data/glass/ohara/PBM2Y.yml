@@ -6,7 +6,7 @@ REFERENCES: "<a href=\"http://refractiveindex.info/download/data/2017/ohara_2017
 COMMENTS: "Improved XMT at 365 "
 DATA:
   - type: formula 2 
-    range: 0.32 2.4
+    wavelength_range: 0.32 2.4
     coefficients: 0 1.39446503 0.0110571872 0.159230985 0.0507194882 0.245470216 31.4440142
   - type: tabulated k
     data: |
@@ -40,13 +40,13 @@ DATA:
         2.400 2.2256E-06
 SPECS:
     n_absolute: false
-    λ_vacuum: false
+    wavelength_vacuum: false
     temperature: 25.0 °C
     thermal_dispersion:
       - type: "Schott formula"
         coefficients: 1.2e-06 1.69e-08 -3.38e-11 9.77e-07 7.43e-10 0.243
-    n_d: 1.620041
-    V_d: 36.269263
+    nd: 1.620041
+    Vd: 36.269263
     glass_code: 620363
     density: 3.61 g/cm<sup>3</sup>
     thermal_expansion:
@@ -54,7 +54,7 @@ SPECS:
         coefficient: 8.6e-06 K<sup>-1</sup>
       - temperature_range: 20 300 °C
         coefficient: 9.7e-06 K<sup>-1</sup>
-    ΔP_gF: -0.0003
+    dPgF: -0.0003
     climatic_resistance: 1.0
     acid_resistance: 1.0
     phosphate_resistance: 2.0

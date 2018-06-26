@@ -6,5 +6,5 @@ REFERENCES: "K. Moutzouris, G. Hloupis, I. Stavrakas, D. Triantis and M.-H. Chou
 COMMENTS: "8 mol% Mg-doped congruent lithium tantalate (MCLT). Extraordinary ray(e). 22 °C (see the original publication for temperature-dependent dispersion formula)."
 DATA:
   - type: formula 3
-    range: 0.450 1.551
+    wavelength_range: 0.450 1.551
     coefficients: 4.49361274 -0.02299905 2 0.09659086 -2 -1.0505035e-3 -4 6.30479079e-4 -6

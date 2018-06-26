@@ -6,5 +6,5 @@ REFERENCES: "1) R. S. Caldwell and H. Y. Fan, Optical properties of tellurium an
 COMMENTS: "Ordinary ray"
 DATA:
   - type: formula 2
-    range: 4 14
+    wavelength_range: 4 14
     coefficients: 17.5346 4.3289 3.9810 3.7800 11813

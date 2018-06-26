@@ -6,5 +6,5 @@ REFERENCES: "G. Tamošauskas, G. Beresnevičius, D. Gadonas, A. Dubietis. Transm
 COMMENTS: "Beta barium borate (ß-BaB<sub>2</sub>O<sub>4</sub>, BBO). Ordinary ray (o)."
 DATA:
   - type: formula 2
-    range: 0.188 5.2
+    wavelength_range: 0.188 5.2
     coefficients: 0 0.90291 0.003926 0.83155 0.018786 0.76536 60.01

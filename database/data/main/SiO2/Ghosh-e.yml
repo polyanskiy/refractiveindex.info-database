@@ -6,5 +6,5 @@ REFERENCES: "G. Ghosh. Dispersion-equation coefficients for the refractive index
 COMMENTS: "Extraordinary ray (e). Room temperature."
 DATA:
   - type: formula 2
-    range: 0.198 2.0531
+    wavelength_range: 0.198 2.0531
     coefficients: 0.28851804 1.09509924 1.02101864e-2 1.15662475 100

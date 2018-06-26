@@ -6,5 +6,5 @@ REFERENCES: "Marcin Szczurowski - Private communications [<a href=\"https://refr
 COMMENTS: "23 °C. PMMA synthesized in Marie-Curie University in Lublin, Poland"
 DATA:
   - type: formula 2
-    range: 0.4047 1.083
+    wavelength_range: 0.4047 1.083
     coefficients: 0 0.99654 0.00787 0.18964 0.02191 0.00411 3.85727

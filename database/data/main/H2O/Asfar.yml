@@ -43,5 +43,5 @@ DATA:
         1733 3.05 1.393
 SPECS:
     n_absolute: true
-    λ_vacuum: true
+    wavelength_vacuum: true
     temperature: 19 °C

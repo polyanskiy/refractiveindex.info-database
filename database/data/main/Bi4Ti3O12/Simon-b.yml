@@ -6,5 +6,5 @@ REFERENCES: "M. Simon et al.. Refractive indices of photorefractive bismuth tita
 COMMENTS: "Polarization parallel to b-axis. 21 °C."
 DATA:
   - type: formula 2
-    range: 0.45 0.70
+    wavelength_range: 0.45 0.70
     coefficients: 1.176 4.536 0.06182

@@ -4056,6 +4056,9 @@
         - PAGE: IRG26
           name: "IRG 26"
           data: "glass/schott/infrared/IRG26.yml"
+        - PAGE: IRG27
+          name: "IRG 27"
+          data: "glass/schott/infrared/IRG27.yml"
     - BOOK: LightPath-BD
       name: "LightPath - BD"
       info: "glass/infrared glass.html"

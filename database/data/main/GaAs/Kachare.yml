@@ -6,5 +6,5 @@ REFERENCES: "A. H. Kachare, W. G. Spitzer, and J. E. Fredrickson. Refractive ind
 COMMENTS: "Room temperature"
 DATA:
   - type: formula 1
-    range: 1.4 11
+    wavelength_range: 1.4 11
     coefficients: 2.5 7.4969 0.4082 1.9347 37.17

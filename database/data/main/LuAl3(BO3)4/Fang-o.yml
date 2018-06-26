@@ -6,5 +6,5 @@ REFERENCES: "S. Fang, H. Liu, L. Huang, and N. Ye. Growth and optical properties
 COMMENTS: "25 °C. Ordinary ray (o)."
 DATA:
   - type: formula 4
-    range: 0.266 1.338
+    wavelength_range: 0.266 1.338
     coefficients: 3.11285 0.01834 0 0.01596 1 0 0 0 1 -0.02354 2

@@ -6,5 +6,5 @@ REFERENCES: "1) W. L. Bond. Measurement of the refractive indices of several cry
 COMMENTS: "Ordinary ray (o). Room temperature."
 DATA:
   - type: formula 4
-    range: 0.45 4.0
+    wavelength_range: 0.45 4.0
     coefficients: 2.81418 0.87968 2 0.3042 2 0 0 0 1 -0.00711 2

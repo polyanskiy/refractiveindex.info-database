@@ -6,5 +6,5 @@ REFERENCES: "S. Singh, J. R. Potopowicz, L. G. Van Uitert and S. H. Wemple. Nonl
 COMMENTS: "α-SiC (hexagonal crystal structure); Ordinary ray (o); Room temperature."
 DATA:
   - type: formula 2
-    range: 0.488 1.064
+    wavelength_range: 0.488 1.064
     coefficients: 0 5.5394 0.026945

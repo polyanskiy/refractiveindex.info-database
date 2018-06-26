@@ -6,7 +6,7 @@ REFERENCES: "<a href=\"http://refractiveindex.info/download/data/2017/schott_201
 COMMENTS: "Clear borosilicate glass of high chemical resistance"
 DATA:
   - type: formula 2 
-    range: 0.334 2.325
+    wavelength_range: 0.334 2.325
     coefficients: 0 1.23795755 0.00863080926 0.0466468888 0.0469074501 2.46700556 264.146296
   - type: tabulated k
     data: |
@@ -31,10 +31,10 @@ DATA:
         2.325 3.0942E-06
 SPECS:
     n_absolute: false
-    λ_vacuum: false
+    wavelength_vacuum: false
     temperature: 20.0 °C
-    n_d: 1.523303
-    V_d: 54.517200
+    nd: 1.523303
+    Vd: 54.517200
     glass_status: standard
     density: 2.51 g/cm<sup>3</sup>
     thermal_expansion:

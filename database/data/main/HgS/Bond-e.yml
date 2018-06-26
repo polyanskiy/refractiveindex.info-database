@@ -6,5 +6,5 @@ REFERENCES: "1) W. L. Bond et al.. Refractive indices of HgS (Cinnabar) between 
 COMMENTS: "Extraordinary ray"
 DATA:
   - type: formula 2
-    range: 0.62 11.0
+    wavelength_range: 0.62 11.0
     coefficients: 3.0101 4.3736 0.1284 1.5604 705

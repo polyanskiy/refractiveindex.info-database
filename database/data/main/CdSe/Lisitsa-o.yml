@@ -6,5 +6,5 @@ REFERENCES: "1) M. P. Lisitsa et al.. Dispersion of the refractive indices and b
 COMMENTS: "Ordinart ray (o)"
 DATA:
   - type: formula 2
-    range: 1.01 22.0
+    wavelength_range: 1.01 22.0
     coefficients: 3.2243 1.7680 0.2270 3.1200 3380

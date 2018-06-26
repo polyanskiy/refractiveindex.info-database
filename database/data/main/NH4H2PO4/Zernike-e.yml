@@ -6,5 +6,5 @@ REFERENCES: "F. Zernike, Jr. Refractive Indices of Ammonium Dihydrogen Phosphate
 COMMENTS: "24.8 °C. Extraordinary ray (e)."
 DATA:
   - type: formula 4
-    range: 0.2138 1.529
+    wavelength_range: 0.2138 1.529
     coefficients: 2.163510 5.919896 2 400 1 0.009616676 0 0.01298912 1

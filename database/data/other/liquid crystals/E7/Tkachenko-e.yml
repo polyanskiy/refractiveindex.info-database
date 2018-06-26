@@ -6,5 +6,5 @@ REFERENCES: "V. Tkachenko, G. Abbate, A. Marino, F. Vita, M. Giocondo,  A. Mazzu
 COMMENTS: "Extraordinary ray (e)."
 DATA:
   - type: formula 5
-    range: 0.532 1.7
+    wavelength_range: 0.532 1.7
     coefficients: 1.67798 0.01696 -2 0.00127 -4

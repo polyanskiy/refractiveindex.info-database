@@ -6,5 +6,5 @@ REFERENCES: "1) G. D. Boyd, E. Buehler, F. G Storz. Linear and nonlinear optical
 COMMENTS: "Extrardinary ray (e); 20 °C"
 DATA:
   - type: formula 2
-    range: 0.64 12
+    wavelength_range: 0.64 12
     coefficients: 3.6332 5.3422 0.1426 1.4580 662.55

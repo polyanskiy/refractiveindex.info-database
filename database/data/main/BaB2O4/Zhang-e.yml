@@ -6,5 +6,5 @@ REFERENCES: "D. Zhang, Y. Kong, J.-Y. Zhang. Optical parametric properties of 53
 COMMENTS: "Beta barium borate (ß-BaB<sub>2</sub>O<sub>4</sub>, BBO). Extraordinary ray (e). Near infrared."
 DATA:
   - type: formula 4
-    range: 0.64 3.18
+    wavelength_range: 0.64 3.18
     coefficients: 2.3753 0.01224 0 0.01667 1 0 0 0 1 -0.01627 2 0.0005716 4 -0.00006305 6

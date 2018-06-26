@@ -6,10 +6,10 @@ REFERENCES: "E. R. Peck and S. Hung. Refractivity and dispersion of hydrogen in 
 COMMENTS: "Standard conditions. 0 °C, 760 torr (101.325 kPa)."
 DATA:
   - type: formula 6
-    range: 0.1680 1.6945
+    wavelength_range: 0.1680 1.6945
     coefficients: 0 0.0148956 180.7 0.0049037 92
 SPECS:
     n_absolute: true
-    λ_vacuum: true
+    wavelength_vacuum: true
     temperature: 0 °C
     pressure: 101325 Pa

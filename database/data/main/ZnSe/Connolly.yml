@@ -6,5 +6,5 @@ REFERENCES: "1) J. Connolly, B. diBenedetto, and R. Donadio. Specifications of R
 COMMENTS: "CVD ZnSe, 23 °C"
 DATA:
   - type: formula 1
-    range: 0.54 18.2
+    wavelength_range: 0.54 18.2
     coefficients: 0 4.45813734 0.200859853 0.467216334 0.391371166 2.89566290 47.1362108

@@ -6,5 +6,5 @@ REFERENCES: "C. Cuthbertson and M. Cuthbertson. On the refraction and dispersion
 COMMENTS: "0 °C, 760 mm Hg."
 DATA:
   - type: formula 6
-    range: 0.47999 0.670785
+    wavelength_range: 0.47999 0.670785
     coefficients: 0 0.032953 90.392

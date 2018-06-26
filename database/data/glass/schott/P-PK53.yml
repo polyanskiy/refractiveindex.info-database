@@ -6,7 +6,7 @@ REFERENCES: "<a href=\"http://refractiveindex.info/download/data/2017/schott_201
 COMMENTS: "inquiry glass. suitable for precision molding        "
 DATA:
   - type: formula 2 
-    range: 0.32 2.5
+    wavelength_range: 0.32 2.5
     coefficients: 0 0.960316767 0.00531032986 0.340437227 0.0175073434 0.777865595 106.87533
   - type: tabulated k
     data: |
@@ -35,13 +35,13 @@ DATA:
         2.500 1.5097E-05
 SPECS:
     n_absolute: false
-    λ_vacuum: false
+    wavelength_vacuum: false
     temperature: 20.0 °C
     thermal_dispersion:
       - type: "Schott formula"
         coefficients: -1.65e-05 -5.14e-10 -2.02e-11 4.11e-07 4.17e-10 0.208
-    n_d: 1.5269
-    V_d: 66.22
+    nd: 1.5269
+    Vd: 66.22
     glass_code: 527662.283
     glass_status: special
     density: 2.827 g/cm<sup>3</sup>
@@ -50,7 +50,7 @@ SPECS:
         coefficient: 1.331e-05 K<sup>-1</sup>
       - temperature_range: 20 300 °C
         coefficient: 1.597e-05 K<sup>-1</sup>
-    ΔP_gF: 0.0084
+    dPgF: 0.0084
     climatic_resistance: 2.0
     stain_resistance: 1.0
     acid_resistance: 51.0

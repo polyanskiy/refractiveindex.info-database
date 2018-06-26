@@ -6,7 +6,7 @@ REFERENCES: "S. Kedenburg, M. Vieweg, T. Gissibl, and H. Giessen. Linear refract
 COMMENTS: "Distilled water at 20 °C."
 DATA:
   - type: formula 2
-    range: 0.5 1.6
+    wavelength_range: 0.5 1.6
     coefficients: 0 0.75831 0.01007 0.08495 8.91377
   - type: tabulated k
     data: |

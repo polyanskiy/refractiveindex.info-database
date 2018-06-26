@@ -6,5 +6,5 @@ REFERENCES: "I. H. Malitson. A redetermination of some optical properties of cal
 COMMENTS: "24 °C"
 DATA:
   - type: formula 1
-    range: 0.23 9.7
+    wavelength_range: 0.23 9.7
     coefficients: 0 0.5675888 0.050263605 0.4710914 0.1003909 3.8484723 34.649040

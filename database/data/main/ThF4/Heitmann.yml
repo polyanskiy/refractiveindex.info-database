@@ -6,5 +6,5 @@ REFERENCES: "W. Heitmann and E. Ritter. Production and properties of vacuum evap
 COMMENTS: "ThF<sub>4</sub> film on quartz glass"
 DATA:
   - type: formula 2
-    range: 0.26 0.76
+    wavelength_range: 0.26 0.76
     coefficients: 0 1.2485 0.010466

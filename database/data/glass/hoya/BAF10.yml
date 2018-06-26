@@ -6,7 +6,7 @@ REFERENCES: "<a href=\"http://refractiveindex.info/download/data/2017/hoya_2017-
 COMMENTS: "Not in a position to accept new order because of discontinuation."
 DATA:
   - type: formula 3 
-    range: 0.36501 1.01398
+    wavelength_range: 0.36501 1.01398
     coefficients: 2.7324621 -0.01249046 2 0.018562334 -2 0.00099990536 -4 -6.8388552e-05 -6 4.9257931e-06 -8
   - type: tabulated k
     data: |
@@ -28,13 +28,13 @@ DATA:
         0.700 1.6736E-08
 SPECS:
     n_absolute: false
-    λ_vacuum: false
+    wavelength_vacuum: false
     temperature: 20.0 °C
     thermal_dispersion:
       - type: "Schott formula"
         coefficients: 6.13489e-06 0.0 0.0 0.0 0.0 0.0
-    n_d: 1.67003
-    V_d: 47.19
+    nd: 1.67003
+    Vd: 47.19
     glass_code: 670472
     glass_status: special
     density: 3.61 g/cm<sup>3</sup>
@@ -43,7 +43,7 @@ SPECS:
         coefficient: 7.2e-06 K<sup>-1</sup>
       - temperature_range: 20 300 °C
         coefficient: 8.6e-06 K<sup>-1</sup>
-    ΔP_gF: 0.0007
+    dPgF: 0.0007
     climatic_resistance: 1.0
     stain_resistance: 1.0
     acid_resistance: 2.0

@@ -6,5 +6,5 @@ REFERENCES: "Handbook of Optical Constants of Solids, Edward D. Palik, ed. Acade
 COMMENTS: "25 °C"
 DATA:
   - type: formula 1
-    range: 0.57 39.4
+    wavelength_range: 0.57 39.4
     coefficients: 0 3.7442390 0.2079603 0.9189162 0.3765643 12.5444602 165.6525518

@@ -6,5 +6,5 @@ REFERENCES: "1) G. D. Boyd, H. Kasper, J. H McFee. Linear and nonlinear optical 
 COMMENTS: "Ordinary ray (o); 120 °C"
 DATA:
   - type: formula 2
-    range: 0.55 11.5
+    wavelength_range: 0.55 11.5
     coefficients: 3.0984 2.1419 0.1225 1.5755 738.43

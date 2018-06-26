@@ -6,5 +6,5 @@ REFERENCES: "K. Moutzouris, M. Papamichael, S. C. Betsis, I. Stavrakas, G. Hloup
 COMMENTS: "n-Butanol (1-Butanol); 300 K (27 °C)."
 DATA:
   - type: formula 3
-    range: 0.450 1.551
+    wavelength_range: 0.450 1.551
     coefficients: 1.917816501 -0.00115077 2 0.01373734 -2 -0.00194084 -4 0.000254077 -6

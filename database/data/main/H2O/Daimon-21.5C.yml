@@ -6,9 +6,9 @@ REFERENCES: "M. Daimon and A. Masumura. Measurement of the refractive index of d
 COMMENTS: "High performance liquid chromatography (HPLC) distilled water at 21.5 °C."
 DATA:
   - type: formula 2
-    range: 0.182 1.129
+    wavelength_range: 0.182 1.129
     coefficients: 0 5.689093832E-1 5.110301794E-3 1.719708856E-1 1.825180155E-2 2.062501582E-2 2.624158904E-2 1.123965424E-1 1.067505178E1
 SPECS:
     n_absolute: true
-    λ_vacuum: true
+    wavelength_vacuum: true
     temperature: 21.5 °C

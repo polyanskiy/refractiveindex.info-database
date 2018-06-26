@@ -6,7 +6,7 @@ REFERENCES: "<a href=\"http://refractiveindex.info/download/data/2017/schott_201
 COMMENTS: "lead containing glass type        "
 DATA:
   - type: formula 2 
-    range: 0.365 2.5
+    wavelength_range: 0.365 2.5
     coefficients: 0 1.72448482 0.0134871947 0.390104889 0.0569318095 1.04572858 118.557185
   - type: tabulated k
     data: |
@@ -32,13 +32,13 @@ DATA:
         2.500 2.3961E-06
 SPECS:
     n_absolute: false
-    λ_vacuum: false
+    wavelength_vacuum: false
     temperature: 20.0 °C
     thermal_dispersion:
       - type: "Schott formula"
         coefficients: 6.69e-06 1.78e-08 -3.36e-11 1.77e-06 1.7e-09 0.269
-    n_d: 1.80518
-    V_d: 25.43
+    nd: 1.80518
+    Vd: 25.43
     glass_code: 805254.518
     glass_status: standard
     density: 5.18 g/cm<sup>3</sup>
@@ -47,7 +47,7 @@ SPECS:
         coefficient: 8.1e-06 K<sup>-1</sup>
       - temperature_range: 20 300 °C
         coefficient: 9e-06 K<sup>-1</sup>
-    ΔP_gF: 0.0092
+    dPgF: 0.0092
     climatic_resistance: 2.0
     stain_resistance: 3.0
     acid_resistance: 51.3

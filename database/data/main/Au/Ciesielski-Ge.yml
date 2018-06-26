@@ -342,6 +342,6 @@ DATA:
         20.912 53.385 86.266
 SPECS:
     n_absolute: true
-    λ_vacuum: true
+    wavelength_vacuum: true
     film_thickness: 35 nm
     substrate: Ge/SiO2

@@ -6,5 +6,5 @@ REFERENCES: "E. Takaoka and K. Kato, Thermo-optic dispersion formula for AgGaS<s
 COMMENTS: "Extraordinary ray (e); 20.0 °C"
 DATA:
   - type: formula 4
-    range: 0.58 10.59
+    wavelength_range: 0.58 10.59
     coefficients: 5.5436 0.2230 0 0.0946 1 0 0 0 1 -0.00261 2

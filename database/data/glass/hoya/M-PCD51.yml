@@ -6,7 +6,7 @@ REFERENCES: "<a href=\"http://refractiveindex.info/download/data/2017/hoya_2017-
 COMMENTS: "Glass for molded optics lens"
 DATA:
   - type: formula 3 
-    range: 0.36501 1.01398
+    wavelength_range: 0.36501 1.01398
     coefficients: 2.502026 -0.01108292 2 0.0112772 -2 0.0005715408 -4 -5.587455e-05 -6 2.905292e-06 -8
   - type: tabulated k
     data: |
@@ -50,13 +50,13 @@ DATA:
         1.550 3.7059E-08
 SPECS:
     n_absolute: false
-    λ_vacuum: false
+    wavelength_vacuum: false
     temperature: 20.0 °C
     thermal_dispersion:
       - type: "Schott formula"
         coefficients: -5.75e-06 4.33e-09 -1.7e-11 3.99e-07 4.04e-10 0.175
-    n_d: 1.59201
-    V_d: 67.02
+    nd: 1.59201
+    Vd: 67.02
     glass_code: 592670
     glass_status: standard
     density: 3.14 g/cm<sup>3</sup>
@@ -65,6 +65,6 @@ SPECS:
         coefficient: 8.9e-06 K<sup>-1</sup>
       - temperature_range: 20 300 °C
         coefficient: 1.16e-05 K<sup>-1</sup>
-    ΔP_gF: 0.0081
+    dPgF: 0.0081
     climatic_resistance: 1.0
     acid_resistance: 4.0

@@ -6,5 +6,5 @@ REFERENCES: "K. Moutzouris, I. Stavrakas, D. Triantis and M. Enculescub. Tempera
 COMMENTS: "n<sub>α</sub>; 24.5 °C (see the original publication for temperature-dependent dispersion formula)."
 DATA:
   - type: formula 4
-    range: 0.450 1.551
+    wavelength_range: 0.450 1.551
     coefficients: 2.663434655 0.037318762 0 0.175493731 2 0 0 0 1 -0.013296131 2

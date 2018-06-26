@@ -6,5 +6,5 @@ REFERENCES: "D. F. Edwards and R. H. White, \"Beryllium Oxide,\" in E. D. Palik 
 COMMENTS: "Ordinary ray (o). Room temperature."
 DATA:
   - type: formula 1
-    range: 0.44 7.0
+    wavelength_range: 0.44 7.0
     coefficients: 0 1.92274 0.07908 1.24209 9.7131

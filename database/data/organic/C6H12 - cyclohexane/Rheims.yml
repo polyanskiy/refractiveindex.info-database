@@ -6,5 +6,5 @@ REFERENCES: "J. Rheims, J Köser and T Wriedt. Refractive-index measurements in 
 COMMENTS: "20 °C"
 DATA:
   - type: formula 5
-    range: 0.4765 0.83
+    wavelength_range: 0.4765 0.83
     coefficients: 1.41545 0.00369 -2 0.00004 -4

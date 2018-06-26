@@ -6,7 +6,7 @@ REFERENCES: "<a href=\"http://refractiveindex.info/download/data/2017/nikon_2017
 COMMENTS: ""
 DATA:
   - type: formula 3 
-    range: 0.4 0.7
+    wavelength_range: 0.4 0.7
     coefficients: 2.31105643 0.00359211226 2 0.0263534925 -2 -0.0028618174 -4 0.000442961085 -6 -2.22792621e-05 -8
   - type: tabulated k
     data: |
@@ -14,10 +14,10 @@ DATA:
         0.700 -0.0000E+00
 SPECS:
     n_absolute: false
-    λ_vacuum: false
+    wavelength_vacuum: false
     temperature: 23.0 °C
-    n_d: 1.540720
-    V_d: 47.224817
+    nd: 1.540720
+    Vd: 47.224817
     glass_status: preferred
     density: 2.52 g/cm<sup>3</sup>
     thermal_expansion:

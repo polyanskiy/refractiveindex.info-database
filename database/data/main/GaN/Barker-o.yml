@@ -6,5 +6,5 @@ REFERENCES: "A. S. Barker Jr. and M. Ilegems. Infrared lattice vibrations and fr
 COMMENTS: "α-GaN (wurtzite); Ordinary ray (o); 300 K (27 °C)."
 DATA:
   - type: formula 1
-    range: 0.35 10
+    wavelength_range: 0.35 10
     coefficients: 2.60 1.75 0.256 4.1 17.86

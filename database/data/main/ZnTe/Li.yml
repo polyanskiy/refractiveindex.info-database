@@ -6,5 +6,5 @@ REFERENCES: "H. H. Li. Refractive index of ZnS, ZnSe, and ZnTe and its wavelengt
 COMMENTS: "293 K (20 °C)."
 DATA:
   - type: formula 4
-    range: 0.55 30
+    wavelength_range: 0.55 30
     coefficients: 9.92 0.42530 0 0.37766 2 8414.13 0 56.5 2

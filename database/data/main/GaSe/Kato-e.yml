@@ -6,5 +6,5 @@ REFERENCES: "K. Kato et al.. Sellmeier and thermo-optic dispersion formulas for 
 COMMENTS: "20 °C, Extraordinary ray (e)"
 DATA:
   - type: formula 4
-    range: 0.8 1620
+    wavelength_range: 0.8 1620
     coefficients: 8.2477 0.2881 0 0.1669 1 4927.5 0 1990.1 1

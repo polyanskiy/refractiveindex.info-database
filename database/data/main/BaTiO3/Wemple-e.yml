@@ -6,5 +6,5 @@ REFERENCES: "S.H. Wemple, M. Didomenico Jr., and I. Camlibel. Dielectric and opt
 COMMENTS: "Extraordinary ray (e). Room temperature"
 DATA:
   - type: formula 1
-    range: 0.4 0.7
+    wavelength_range: 0.4 0.7
     coefficients: 0 4.064 0.211

@@ -6,5 +6,5 @@ REFERENCES: "K. Moutzouris, M. Papamichael, S. C. Betsis, I. Stavrakas, G. Hloup
 COMMENTS: "Isobutanol; 300 K (27 °C)."
 DATA:
   - type: formula 3
-    range: 0.450 1.551
+    wavelength_range: 0.450 1.551
     coefficients: 1.913001067 -0.00152344 2 0.01303537 -2 -0.00198394 -4 0.000275162 -6

@@ -6,5 +6,5 @@ REFERENCES: "B. W. Woods et al.. Thermomechanical and thermo-optical properties 
 COMMENTS: "26 °C. Ordinary ray (o)."
 DATA:
   - type: formula 4
-    range: 0.4 1.0
+    wavelength_range: 0.4 1.0
     coefficients: 1.92552 0.00492 0 0.00569 1 0 0 0 1 -0.00421 2

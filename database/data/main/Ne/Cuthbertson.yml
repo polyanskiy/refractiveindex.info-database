@@ -6,10 +6,10 @@ REFERENCES: "1) C. Cuthbertson and M. Cuthbertson. The refraction and dispersion
 COMMENTS: "Standard conditions: 0 °C, 760 torr (101.325 kPa)."
 DATA:
   - type: formula 6
-    range: 0.2894 0.5462
+    wavelength_range: 0.2894 0.5462
     coefficients: 0 0.029073880 435.71376
 SPECS:
     n_absolute: true
-    λ_vacuum: true
+    wavelength_vacuum: true
     temperature: 0 °C
     pressure: 101325 Pa

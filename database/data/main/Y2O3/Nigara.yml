@@ -5,5 +5,5 @@
 REFERENCES: "Y. Nigara. Measurement of the optical constants of yttrium oxide, <a href=\"https://doi.org/10.1143/JJAP.7.404\"><i>Jpn. J. Appl. Phys.</i> <b>7</b>, 404-408 (1968)</a>"
 DATA:
   - type: formula 1
-    range: 0.25 9.6
+    wavelength_range: 0.25 9.6
     coefficients: 0 2.578 0.1387 3.935 22.936

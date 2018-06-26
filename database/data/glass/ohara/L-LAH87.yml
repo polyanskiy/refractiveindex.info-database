@@ -6,7 +6,7 @@ REFERENCES: "<a href=\"http://refractiveindex.info/download/data/2017/ohara_2017
 COMMENTS: "Low Softening Temperature "
 DATA:
   - type: formula 2 
-    range: 0.365 2.325
+    wavelength_range: 0.365 2.325
     coefficients: 0 1.44196269 0.00731826717 0.617507311 0.0245370775 1.21890079 105.976009
   - type: tabulated k
     data: |
@@ -42,19 +42,19 @@ DATA:
         2.400 3.7901E-06
 SPECS:
     n_absolute: false
-    λ_vacuum: false
+    wavelength_vacuum: false
     temperature: 25.0 °C
     thermal_dispersion:
       - type: "Schott formula"
         coefficients: 6.1e-06 9.05e-09 -1.35e-11 7.87e-07 7.19e-10 0.19
-    n_d: 1.770300
-    V_d: 47.401904
+    nd: 1.770300
+    Vd: 47.401904
     glass_status: preferred
     density: 4.34 g/cm<sup>3</sup>
     thermal_expansion:
       - temperature_range: -30 70 °C
         coefficient: 7.1e-06 K<sup>-1</sup>
-    ΔP_gF: -0.0086
+    dPgF: -0.0086
     climatic_resistance: 2.0
     acid_resistance: 51.2
     phosphate_resistance: 2.0

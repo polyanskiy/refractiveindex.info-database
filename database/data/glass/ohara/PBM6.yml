@@ -6,7 +6,7 @@ REFERENCES: "<a href=\"http://refractiveindex.info/download/data/2017/ohara_2017
 COMMENTS: ""
 DATA:
   - type: formula 3 
-    range: 0.3 2.4
+    wavelength_range: 0.3 2.4
     coefficients: 2.6040004 -0.0089503263 2 0.023811801 -2 0.00097080592 -4 -3.0707494e-05 -6 5.4397201e-06 -8
   - type: tabulated k
     data: |
@@ -31,13 +31,13 @@ DATA:
         0.900 1.4338E-08
 SPECS:
     n_absolute: false
-    λ_vacuum: false
+    wavelength_vacuum: false
     temperature: 25.0 °C
     thermal_dispersion:
       - type: "Schott formula"
         coefficients: 6.052e-06 0.0 0.0 0.0 0.0 0.0
-    n_d: 1.636358
-    V_d: 35.376536
+    nd: 1.636358
+    Vd: 35.376536
     glass_code: 636354
     glass_status: preferred
     density: 3.74 g/cm<sup>3</sup>
@@ -46,6 +46,6 @@ SPECS:
         coefficient: 8.5e-06 K<sup>-1</sup>
       - temperature_range: 20 300 °C
         coefficient: 9.4e-06 K<sup>-1</sup>
-    ΔP_gF: 0.0009
+    dPgF: 0.0009
     acid_resistance: 1.0
     phosphate_resistance: 2.0

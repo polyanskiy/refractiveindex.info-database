@@ -6,7 +6,7 @@ REFERENCES: "1) <a href=\"https://refractiveindex.info/download/data/2014/VITRON
 COMMENTS: "Room temperature. Refractive index is relative to air at standard conditions; Wavelength in dispersion formula is as measured in air and expressed in micrometers."
 DATA:
   - type: formula 1
-    range: 1.0 12.0
+    wavelength_range: 1.0 12.0
     coefficients: 3.885429 2.934475 0.508386 0.573772 32.406166
   - type: tabulated k
     data: |

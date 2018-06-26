@@ -6,5 +6,5 @@ REFERENCES: "J. Pastrňák and L. Roskovcová. Refraction index measurements on 
 COMMENTS: "Ordinary ray (o)."
 DATA:
   - type: formula 1
-    range: 0.22 5.0
+    wavelength_range: 0.22 5.0
     coefficients: 2.1399 1.3786 0.1715 3.861 15.03

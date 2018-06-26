@@ -6,5 +6,5 @@ REFERENCES: "T. Sasaki, Y. Mori, and M. Yoshimura. Progress in the growth of a C
 COMMENTS: "Ordinary ray (o). Room temperature."
 DATA:
   - type: formula 4
-    range: 0.19 2.75
+    wavelength_range: 0.19 2.75
     coefficients: 2.2104 0.01018 0 0.01424 1 0 0 0 1 -0.01258 2

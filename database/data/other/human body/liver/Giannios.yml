@@ -6,7 +6,7 @@ REFERENCES: "P. Giannios, K. G. Toutouzas, M. Matiatou, K. Stasinos, M. M. Konst
 COMMENTS: "24 °C ± 2 °C."
 DATA:
   - type: formula 5
-    range: 0.45 1.551
+    wavelength_range: 0.45 1.551
     coefficients: 1.35910 0.00827 -2 -0.000576 -4
   - type: tabulated k
     data: |

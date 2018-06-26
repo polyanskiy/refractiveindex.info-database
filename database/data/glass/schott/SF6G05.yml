@@ -6,7 +6,7 @@ REFERENCES: "<a href=\"http://refractiveindex.info/download/data/2017/schott_201
 COMMENTS: "inquiry glass        "
 DATA:
   - type: formula 2 
-    range: 0.46 2.5
+    wavelength_range: 0.46 2.5
     coefficients: 0 1.62113942 0.0113478992 0.506586092 0.0535840223 10.4032298 1118.83658
   - type: tabulated k
     data: |
@@ -24,20 +24,20 @@ DATA:
         2.500 3.3039E-06
 SPECS:
     n_absolute: false
-    λ_vacuum: false
+    wavelength_vacuum: false
     temperature: 20.0 °C
     thermal_dispersion:
       - type: "Schott formula"
         coefficients: 6.9e-06 1.76e-08 -3.17e-11 1.89e-06 1.5e-09 0.256
-    n_d: 1.80906
-    V_d: 25.28
+    nd: 1.80906
+    Vd: 25.28
     glass_code: 809253.520
     glass_status: special
     density: 5.2 g/cm<sup>3</sup>
     thermal_expansion:
       - temperature_range: -30 70 °C
         coefficient: 7.8e-06 K<sup>-1</sup>
-    ΔP_gF: 0.108
+    dPgF: 0.108
     climatic_resistance: 4.0
     stain_resistance: 3.0
     acid_resistance: 51.3

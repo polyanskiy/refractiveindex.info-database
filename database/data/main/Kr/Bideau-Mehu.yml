@@ -6,7 +6,7 @@ REFERENCES: "1) A. Bideau-Mehu, Y. Guern, R. Abjean, A. Johannin-Gilles. Measure
 COMMENTS: "Standard conditions: 0 °C, 760 torr (101.325 kPa)."
 DATA:
   - type: formula 6
-    range: 0.1404 0.6234
+    wavelength_range: 0.1404 0.6234
     coefficients: 0 0.00253637 65.4742 0.00273649 73.698 0.0620802 181.08
 SPECS:
     n_absolute: true

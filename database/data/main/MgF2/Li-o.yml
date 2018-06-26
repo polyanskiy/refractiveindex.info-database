@@ -6,5 +6,5 @@ REFERENCES: "H. H. Li. Refractive index of alkaline earth halides and its wavele
 COMMENTS: "293 K (20 °C). Ordinary ray (o)."
 DATA:
   - type: formula 1
-    range: 0.14 7.5
+    wavelength_range: 0.14 7.5
     coefficients: 0.27620 0.60967 0.08636 0.0080 18.0 2.14973 25.0

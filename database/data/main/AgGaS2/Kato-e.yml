@@ -6,5 +6,5 @@ REFERENCES: "1) K. Kato and H. Shirahata. Nonlinear IR Generation in AgGaS<sub>2
 COMMENTS: "Extraordinary ray (e); 20.0 °C"
 DATA:
   - type: formula 4
-    range: 0.54 12.9
+    wavelength_range: 0.54 12.9
     coefficients: 5.54120 0.22041 0 0.09824 1 0 0 0 1 -2.5240e-3 2 3.6214e-7 4 -8.3605e-9 6

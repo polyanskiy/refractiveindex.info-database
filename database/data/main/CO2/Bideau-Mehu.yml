@@ -6,10 +6,10 @@ REFERENCES: "A. Bideau-Mehu, Y. Guern, R. Abjean and A. Johannin-Gilles. Interfe
 COMMENTS: "Standard conditions: 0 °C, 760 torr (101.325 kPa)."
 DATA:
   - type: formula 6
-    range: 0.1807 1.6945
+    wavelength_range: 0.1807 1.6945
     coefficients: 0 6.99100e-2 166.175 1.44720e-3 79.609 6.42941e-5 56.3064 5.21306e-5 46.0196 1.46847e-6 0.0584738
 SPECS:
     n_absolute: true
-    λ_vacuum: true
+    wavelength_vacuum: true
     temperature: 0 °C
     pressure: 101325 Pa

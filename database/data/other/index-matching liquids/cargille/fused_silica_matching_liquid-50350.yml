@@ -6,7 +6,7 @@ REFERENCES: "<a href=\"http://www.cargille.com/specimmerliq.shtml\">CARGILLE Fus
 COMMENTS: "Code 50350 (viscosity 19 cSt). 25 °C."
 DATA:
   - type: formula 5
-    range: 0.225 1.55
+    wavelength_range: 0.225 1.55
     coefficients: 1.446902 398962.9E-8 -2 3.757747E-5 -4
 SPECS:
     temperature: 25 °C

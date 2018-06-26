@@ -6,5 +6,5 @@ REFERENCES: "Cited as \"R. L. Herbst (private communication)\" in M. M. Choy and
 COMMENTS: "Room temperature. Ordinary ray (o)."
 DATA:
   - type: formula 2
-    range: 0.5461 5
+    wavelength_range: 0.5461 5
     coefficients: 1.03132 1.37623 0.0350832 1.06745 169.00

@@ -6,5 +6,5 @@ REFERENCES: "1) G. D. Boyd, H. Kasper, J. H McFee. Linear and nonlinear optical 
 COMMENTS: "Extrardinary ray (e); 20 °C"
 DATA:
   - type: formula 2
-    range: 0.55 11.5
+    wavelength_range: 0.55 11.5
     coefficients: 3.3165 1.8692 0.1364 1.7575 738.43

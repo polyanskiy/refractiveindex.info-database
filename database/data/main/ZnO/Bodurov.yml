@@ -6,9 +6,9 @@ REFERENCES: "I. Bodurov, I. Vlaeva, A. Viraneva, T. Yovcheva, S. Sainov. Modifie
 COMMENTS: "<50 nm diameter nanoparticles dispersed in water. Concentration 50 wt.%. 24 °C. Refractive index of nanoparticles calculated using Bruggeman's effective medium approximation."
 DATA:
   - type: formula 1
-    range: 0.405 0.635
+    wavelength_range: 0.405 0.635
     coefficients: 0 2.7820 0.0842380
 SPECS:
     n_absolute: false
-    λ_vacuum: false
+    wavelength_vacuum: false
     temperature: 24 °C

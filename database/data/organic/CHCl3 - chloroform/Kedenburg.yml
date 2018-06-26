@@ -6,7 +6,7 @@ REFERENCES: "S. Kedenburg, M. Vieweg, T. Gissibl, and H. Giessen. Linear refract
 COMMENTS: "20 °C."
 DATA:
   - type: formula 2
-    range: 0.5 1.6
+    wavelength_range: 0.5 1.6
     coefficients: 0 1.04647 0.01048 0.00345 0.15207
   - type: tabulated k
     data: |

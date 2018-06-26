@@ -6,5 +6,5 @@ REFERENCES: "<a href=\"https://refractiveindex.info/download/data/2011/Microchem
 COMMENTS: "Microchem SU-8 2000 permanent epoxy negative photoresist. Uncured."
 DATA:
   - type: formula 5
-    range: 0.32 0.80
+    wavelength_range: 0.32 0.80
     coefficients: 1.566 0.00796 -2 0.00014 -4

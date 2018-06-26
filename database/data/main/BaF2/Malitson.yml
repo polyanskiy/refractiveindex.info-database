@@ -6,5 +6,5 @@ REFERENCES: "I. H. Malitson. Refractive properties of barium fluoride, <a href=\
 COMMENTS: "25 °C"
 DATA:
   - type: formula 1
-    range: 0.2652 10.346
+    wavelength_range: 0.2652 10.346
     coefficients: 0 0.643356 0.057789 0.506762 0.10968 3.8261 46.3864

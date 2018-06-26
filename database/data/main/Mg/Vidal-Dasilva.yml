@@ -1715,4 +1715,4 @@ DATA:
         0.049593675 0.92182723 0.008844205
 SPECS:
     n_absolute: true
-    λ_vacuum: true
+    wavelength_vacuum: true

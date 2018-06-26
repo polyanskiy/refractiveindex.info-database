@@ -17,5 +17,5 @@ DATA:
         2000 3.02 1.146
 SPECS:
     n_absolute: true
-    λ_vacuum: true
+    wavelength_vacuum: true
     temperature: 19.5 °C

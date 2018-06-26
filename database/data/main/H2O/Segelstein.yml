@@ -1256,5 +1256,5 @@ DATA:
         1.0000000E+07 8.848600 6.9309081E-03
 SPECS:
     n_absolute: true
-    λ_vacuum: true
+    wavelength_vacuum: true
     temperature: 25 °C

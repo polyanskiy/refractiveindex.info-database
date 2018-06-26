@@ -6,5 +6,5 @@ REFERENCES: "J. R. Devore. Refractive indices of rutile and sphalerite, <a href=
 COMMENTS: "Extraordinary ray (e); Room temperature"
 DATA:
   - type: formula 4
-    range: 0.43 1.53
+    wavelength_range: 0.43 1.53
     coefficients: 7.197 0.3322 0 0.0843 1 0 0 0 1

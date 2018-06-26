@@ -6,7 +6,7 @@ REFERENCES: "<a href=\"http://refractiveindex.info/download/data/2017/nikon_2017
 COMMENTS: "Melt	Freq:	1 "
 DATA:
   - type: formula 3 
-    range: 0.4 0.7
+    wavelength_range: 0.4 0.7
     coefficients: 2.55739282 -0.0107951229 2 0.0216807328 -2 0.00105165979 -4 -5.36309816e-05 -6 7.7466326e-06 -8
   - type: tabulated k
     data: |
@@ -36,14 +36,14 @@ DATA:
         2.400 1.8643E-06
 SPECS:
     n_absolute: false
-    λ_vacuum: false
+    wavelength_vacuum: false
     temperature: 23.0 °C
-    n_d: 1.620041
-    V_d: 36.258932
+    nd: 1.620041
+    Vd: 36.258932
     glass_code: 620363
     glass_status: preferred
     density: 2.69 g/cm<sup>3</sup>
     thermal_expansion:
       - temperature_range: -30 70 °C
         coefficient: 7.9e-06 K<sup>-1</sup>
-    ΔP_gF: 0.0045
+    dPgF: 0.0045

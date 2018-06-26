@@ -6,5 +6,5 @@ REFERENCES: "<a href=\"https://refractiveindex.info/download/data/2015/PI_EpoCor
 COMMENTS: "Micro resist EpoClad negative photoresist for waveguide manufacturing"
 DATA:
   - type: formula 5
-    range: 0.45 1.55
+    wavelength_range: 0.45 1.55
     coefficients: 1.560 0.0073 -2 0.00038 -4

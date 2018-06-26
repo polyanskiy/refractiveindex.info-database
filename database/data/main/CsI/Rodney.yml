@@ -6,5 +6,5 @@ REFERENCES: "W. S. Rodney. Optical properties of cesium iodide, <a href=\"https:
 COMMENTS: "24 °C"
 DATA:
   - type: formula 1
-    range: 0.2967 50
+    wavelength_range: 0.2967 50
     coefficients: 0 0.34617251 0.0229567 1.0080886 0.1466 0.28551800 0.1810 0.39743178 0.2120 3.3605359 161.0

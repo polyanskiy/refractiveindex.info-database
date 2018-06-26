@@ -6,7 +6,7 @@ REFERENCES: "D. Chandler-Horowitz and P. M. Amirtharaj. High-accuracy, midinfrar
 COMMENTS: "Room temperatue."
 DATA:
   - type: formula 4
-    range: 2.5 22.222
+    wavelength_range: 2.5 22.222
     coefficients: 11.67316 1 0 0 1 0.004482633 0 1.108205 2
   - type: tabulated k
     data: |

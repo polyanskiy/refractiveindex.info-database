@@ -6,5 +6,5 @@ REFERENCES: "1) T. M. Bieniewski and S. J. Czyzak. Refractive indexes of single 
 COMMENTS: "Extraordinary ray (e). 25 °C."
 DATA:
   - type: formula 4
-    range: 0.51 1.4
+    wavelength_range: 0.51 1.4
     coefficients: 5.2599 0.20865 0 0.10799 1 0.027527 0 0.23305 1

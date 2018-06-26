@@ -6,5 +6,5 @@ REFERENCES: "S. Das et al.. Linear and nonlinear optical properties of ZnGeP<sub
 COMMENTS: "Ordinary ray (o)"
 DATA:
   - type: formula 2
-    range: 1.32 11
+    wavelength_range: 1.32 11
     coefficients: 4.67491 4.077926 0.159328 1.896005 900

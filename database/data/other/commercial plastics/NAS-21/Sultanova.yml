@@ -6,9 +6,9 @@ REFERENCES: "N. Sultanova, S. Kasarova and I. Nikolov. Dispersion properties of 
 COMMENTS: "20 °C"
 DATA:
   - type: formula 2
-    range: 0.4368 1.052
+    wavelength_range: 0.4368 1.052
     coefficients: 0 1.3912 0.018282
 SPECS:
     n_absolute: false
-    λ_vacuum: false
+    wavelength_vacuum: false
     temperature: 20 °C

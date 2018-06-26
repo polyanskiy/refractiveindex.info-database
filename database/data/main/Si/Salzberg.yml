@@ -6,5 +6,5 @@ REFERENCES: "1) C. D. Salzberg and J. J. Villa. Infrared Refractive Indexes of S
 COMMENTS: "26 °C, Unknown purity"
 DATA:
   - type: formula 1
-    range: 1.357 11.04
+    wavelength_range: 1.357 11.04
     coefficients: 0 10.6684293 0.301516485 0.0030434748 1.13475115 1.54133408 1104

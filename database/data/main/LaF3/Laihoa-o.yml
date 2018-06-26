@@ -6,5 +6,5 @@ REFERENCES: "R. Laihoa and M. Lakkistoa. Investigation of the refractive indices
 COMMENTS: "Ordinary ray (o)"
 DATA:
   - type: formula 1
-    range: 0.35 0.70
+    wavelength_range: 0.35 0.70
     coefficients: 0 1.5376 0.0881

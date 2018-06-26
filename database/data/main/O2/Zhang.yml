@@ -6,10 +6,10 @@ REFERENCES: "1) J. Zhang, Z. H. Lu, and L. J. Wang. Precision refractive index m
 COMMENTS: "Standard conditions: 20 °C, 101 325 Pa."
 DATA:
   - type: formula 6
-    range: 0.4 1.8
+    wavelength_range: 0.4 1.8
     coefficients: 1.181494e-4 9.708931e-3 75.4
 SPECS:
     n_absolute: true
-    λ_vacuum: true
+    wavelength_vacuum: true
     temperature: 20 °C
     pressure: 101325 Pa

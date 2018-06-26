@@ -6,5 +6,5 @@ REFERENCES: "A. Harasaki and K. Kato. New data on the nonlinear optical constant
 COMMENTS: "Ordinary ray (o)"
 DATA:
   - type: formula 4
-    range: 0.81 16
+    wavelength_range: 0.81 16
     coefficients: 6.8507 0.4297 0 0.1584 1 0 0 0 1 -0.00125 2

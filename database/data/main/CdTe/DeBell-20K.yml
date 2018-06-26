@@ -6,5 +6,5 @@ REFERENCES: "A. G. DeBell, E. L. Dereniak, J. Harvey, J. Nissley, J. Palmer, A. 
 COMMENTS: "20 K (-253.1 °C)"
 DATA:
   - type: formula 2
-    range: 6 22
+    wavelength_range: 6 22
     coefficients: 0 6.0599879 0.1004272 3.7564378 6138.789

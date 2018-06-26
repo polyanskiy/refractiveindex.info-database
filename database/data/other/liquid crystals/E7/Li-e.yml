@@ -6,7 +6,7 @@ REFERENCES: "J. Li, C. H. Wen, S. Gauza, R. Lu and S. T. Wu. Refractive indices 
 COMMENTS: "25 °C. Extraordinary ray (e)."
 DATA:
   - type: formula 5
-    range: 0.450 0.656
+    wavelength_range: 0.450 0.656
     coefficients: 1.6933 0.0078 -2 0.0028 -4
 SPECS:
     temperature: 25 °C

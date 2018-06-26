@@ -5,7 +5,7 @@
 REFERENCES: "<a href=\"http://refractiveindex.info/download/data/2017/cdgm_2017-09.agf\">CDGM Zemax catalog 2017-09</a> (obtained from <a href=\"http://www.cdgmgd.com/208/\">http://www.cdgmgd.com</a>)"
 DATA:
   - type: formula 3 
-    range: 0.365 0.7065
+    wavelength_range: 0.365 0.7065
     coefficients: 2.6356161 -0.008839642 2 0.025644781 -2 0.00096522374 -4 -1.8304798e-05 -6 5.5563517e-06 -8
   - type: tabulated k
     data: |
@@ -41,10 +41,10 @@ DATA:
         2.400 2.0122E-06
 SPECS:
     n_absolute: false
-    λ_vacuum: false
+    wavelength_vacuum: false
     temperature: 20.0 °C
-    n_d: 1.647693
-    V_d: 33.836872
+    nd: 1.647693
+    Vd: 33.836872
     glass_code: 648338
     density: 3.84 g/cm<sup>3</sup>
     thermal_expansion:
@@ -52,5 +52,5 @@ SPECS:
         coefficient: 8.9e-06 K<sup>-1</sup>
       - temperature_range: 20 300 °C
         coefficient: 1.04e-05 K<sup>-1</sup>
-    ΔP_gF: 0.0006
+    dPgF: 0.0006
     climatic_resistance: 1.0

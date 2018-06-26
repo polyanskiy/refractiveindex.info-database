@@ -6,5 +6,5 @@ REFERENCES: "K. Moutzouris, M. Papamichael, S. C. Betsis, I. Stavrakas, G. Hloup
 COMMENTS: "300 K (27 °C)."
 DATA:
   - type: formula 3
-    range: 0.450 1.551
+    wavelength_range: 0.450 1.551
     coefficients: 2.085608282 0.00053373 2 0.012201206 -2 0.000056451 -4 0.000048106 -6

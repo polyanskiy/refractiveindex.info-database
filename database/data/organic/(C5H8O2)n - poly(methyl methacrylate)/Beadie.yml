@@ -7,5 +7,5 @@ REFERENCES: "G. Beadie, M. Brindza, R. A. Flynn, A. Rosenberg, and J. S. Shirk. 
 COMMENTS: "20.1 °C. Absolute accuracy < 2×10<sup>-4</sup>."
 DATA:
   - type: formula 3
-    range: 0.42 1.62
+    wavelength_range: 0.42 1.62
     coefficients: 2.1778 6.1209e-3 2 -1.5004e-3 4 2.3678e-2 -2 -4.2137e-3 -4 7.3417e-4 -6 -4.5042e-5 -8

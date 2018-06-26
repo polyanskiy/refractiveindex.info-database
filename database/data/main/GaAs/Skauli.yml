@@ -6,7 +6,7 @@ REFERENCES: "T. Skauli, P. S. Kuo, K. L. Vodopyanov, T. J. Pinguet, O. Levi, L. 
 COMMENTS: "22 °C. See the original publication for temperature dependence of refractive index."
 DATA:
   - type: formula 1
-    range: 0.97 17
+    wavelength_range: 0.97 17
     coefficients: 4.372514 5.466742 0.4431307 0.02429960 0.8746453 1.957522 36.9166
     # Conversion from the original data:
     # C1 = g0-1 = 5.372514-1 = 4.372514

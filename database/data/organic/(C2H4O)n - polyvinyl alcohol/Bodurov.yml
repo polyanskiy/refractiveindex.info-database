@@ -6,11 +6,11 @@ REFERENCES: "I. Bodurov, I. Vlaeva, A. Viraneva, T. Yovcheva, S. Sainov. Modifie
 COMMENTS: "10-μm film on glass substrate. 24 °C."
 DATA:
   - type: formula 1
-    range: 0.405 0.635
+    wavelength_range: 0.405 0.635
     coefficients: 0 1.1490 0.1234783
 SPECS:
     n_absolute: false
-    λ_vacuum: false
+    wavelength_vacuum: false
     temperature: 24 °C
     film_thickness: 10 μm
     substrate: glass

@@ -6,7 +6,7 @@ REFERENCES: "M. P. Fischer, J. Bühler, G. Fitzky, T. Kurihara, S. Eggert, A. Le
 COMMENTS: "4H-SiC (hexagonal crystal structure); Ordinary ray (o); Room temperature."
 DATA:
   - type: formula 2
-    range: 17 150
+    wavelength_range: 17 150
     coefficients: 6.055 2.669 167.8
 SPECS:
     temperature: 20 °C

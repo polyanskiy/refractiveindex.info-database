@@ -6,5 +6,5 @@ REFERENCES: "M. Gospodinov et al.. Physical properties of cubic Bi<sub>12</sub>S
 COMMENTS: "Room temperature"
 DATA:
   - type: formula 1
-    range: 0.48 0.7
+    wavelength_range: 0.48 0.7
     coefficients: 1.72777 3.01705 0.2661

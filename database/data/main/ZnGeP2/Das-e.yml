@@ -6,5 +6,5 @@ REFERENCES: "S. Das et al.. Linear and nonlinear optical properties of ZnGeP<sub
 COMMENTS: "Extraordinary ray (e)"
 DATA:
   - type: formula 2
-    range: 1.32 11
+    wavelength_range: 1.32 11
     coefficients: 2.65014 6.310153 0.125099 1.731381 900

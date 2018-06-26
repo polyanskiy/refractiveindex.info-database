@@ -6,5 +6,5 @@ REFERENCES: "V. Tkachenko, G. Abbate, A. Marino, F. Vita, M. Giocondo,  A. Mazzu
 COMMENTS: "Ordinary ray (o)."
 DATA:
   - type: formula 5
-    range: 0.532 1.7
+    wavelength_range: 0.532 1.7
     coefficients: 1.50849 0.00774 -2 0.00040 -4

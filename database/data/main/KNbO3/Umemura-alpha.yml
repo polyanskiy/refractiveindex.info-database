@@ -6,5 +6,5 @@ REFERENCES: "N. Umemura, K. Yoshida, and K. Kato. Phase-matching properties of K
 COMMENTS: "n<sub>α</sub>; 22 °C."
 DATA:
   - type: formula 4
-    range: 0.40 5.3
+    wavelength_range: 0.40 5.3
     coefficients: 4.4222 0.09972 0 0.05496 1 0 0 0 1 -0.01976 2

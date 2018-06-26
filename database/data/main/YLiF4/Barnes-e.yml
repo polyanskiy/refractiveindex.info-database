@@ -6,5 +6,5 @@ REFERENCES: "N. P. Barnes and D. J. Gettemy. Temperature variation of the refrac
 COMMENTS: "Room temperature. Extraordinary ray (e)."
 DATA:
   - type: formula 2
-    range: 0.225 2.6
+    wavelength_range: 0.225 2.6
     coefficients: 0.31021 0.84903 0.00876 0.53607 134.95660

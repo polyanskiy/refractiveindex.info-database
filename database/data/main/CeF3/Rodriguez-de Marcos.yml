@@ -491,5 +491,5 @@ DATA:
         2.01700E+00 1.617296 0.000971
 SPECS:
     n_absolute: true
-    λ_vacuum: true
+    wavelength_vacuum: true
     deposition_temperature: 250 °C

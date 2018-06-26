@@ -6,5 +6,5 @@ REFERENCES: "H. H. Li. Refractive index of alkali halides and its wavelength and
 COMMENTS: "297 K (24 °C)."
 DATA:
   - type: formula 1
-    range: 0.18 40
+    wavelength_range: 0.18 40
     coefficients: 0.33013 0.98369 0.119 0.00009 0.137 0.00018 0.145 0.30914 0.162 4.320 100.50

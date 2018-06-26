@@ -6,5 +6,5 @@ REFERENCES: "M. Simon et al.. Refractive indices of photorefractive bismuth tita
 COMMENTS: "21 °C"
 DATA:
   - type: formula 2
-    range: 0.45 0.70
+    wavelength_range: 0.45 0.70
     coefficients: 2.165 2.655 0.07891

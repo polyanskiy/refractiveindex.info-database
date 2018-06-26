@@ -2255,4 +2255,4 @@ DATA:
         14.987155 1.269779 0.430848
 SPECS:
     n_absolute: true
-    λ_vacuum: false
+    wavelength_vacuum: false

@@ -6,5 +6,5 @@ REFERENCES: "T. Sasaki, Y. Mori, and M. Yoshimura. Progress in the growth of a C
 COMMENTS: "Extraordinary ray (e). Room temperature."
 DATA:
   - type: formula 4
-    range: 0.19 2.75
+    wavelength_range: 0.19 2.75
     coefficients: 2.0588 0.00838 0 0.01363 1 0 0 0 1 -0.00607 2

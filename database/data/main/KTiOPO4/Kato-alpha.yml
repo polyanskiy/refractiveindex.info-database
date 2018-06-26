@@ -6,5 +6,5 @@ REFERENCES: "K. Kato and E. Takaoka. Sellmeier and thermo-optic dispersion formu
 COMMENTS: "n<sub>α</sub>; 20 °C."
 DATA:
   - type: formula 4
-    range: 0.43 3.54
+    wavelength_range: 0.43 3.54
     coefficients: 3.29100 0.04140 0 0.03978 1 9.35522 0 31.45571 1

@@ -6,7 +6,7 @@ REFERENCES: "<a href=\"http://refractiveindex.info/download/data/2017/ohara_2017
 COMMENTS: ""
 DATA:
   - type: formula 3 
-    range: 0.334 2.325
+    wavelength_range: 0.334 2.325
     coefficients: 2.6546711 -0.012819365 2 0.015197193 -2 0.00050420821 -4 -3.4995634e-05 -6 2.0492682e-06 -8
   - type: tabulated k
     data: |
@@ -26,9 +26,9 @@ DATA:
         2.325 -0.0000E+00
 SPECS:
     n_absolute: false
-    λ_vacuum: false
+    wavelength_vacuum: false
     temperature: 25.0 °C
-    n_d: 1.642495
-    V_d: 58.369399
+    nd: 1.642495
+    Vd: 58.369399
     glass_code: 643584
     glass_status: preferred

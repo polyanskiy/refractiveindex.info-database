@@ -6,5 +6,5 @@ REFERENCES: "D. T. F. Marple. Refractive index of ZnSe, ZnTe, and CdTe, <a href=
 COMMENTS: "Room temperature"
 DATA:
   - type: formula 2
-    range: 0.58 2.5
+    wavelength_range: 0.58 2.5
     coefficients: 3.27 3.01 0.142

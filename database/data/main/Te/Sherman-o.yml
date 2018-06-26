@@ -6,5 +6,5 @@ REFERENCES: "1) G. H. Sherman et al. Proceedings of the Symposium on Sub-millime
 COMMENTS: "Ordinary ray"
 DATA:
   - type: formula 2
-    range: 8.5 30.3
+    wavelength_range: 8.5 30.3
     coefficients: 3.0164 18.8133 1.1572 7.3729 10000

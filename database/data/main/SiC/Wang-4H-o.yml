@@ -6,5 +6,5 @@ REFERENCES: "S. Wang, M. Zhan, G. Wang, H. Xuan, W. Zhang, C. Liu, C. Xu, Y. Liu
 COMMENTS: "4H-SiC (hexagonal crystal structure); Ordinary ray (o)"
 DATA:
   - type: formula 2
-    range: 0.4047 5
+    wavelength_range: 0.4047 5
     coefficients: 0 0.20075 -12.07224 5.54861 0.02641 35.65066 1268.24708

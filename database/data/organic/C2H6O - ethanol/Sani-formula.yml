@@ -6,7 +6,7 @@ REFERENCES: "E. Sani and A. Dell'Oro. Spectral optical constants of ethanol and 
 COMMENTS: "Room temperature"
 DATA:
   - type: formula 2
-    range: 0.185 2.8
+    wavelength_range: 0.185 2.8
     coefficients: 0 0.0165 9.08 0.8268 0.01039
   - type: tabulated k
     data: |

@@ -6,5 +6,5 @@ REFERENCES: "K. Kerl, H. Varchmin. Refractive index dispersion (RID) of some liq
 COMMENTS: "n-Octane; 313 K (40 °C). See the original publication for the expression for n(λ,T)."
 DATA:
   - type: formula 5
-    range: 0.326 0.644
+    wavelength_range: 0.326 0.644
     coefficients: 1.38294558 -4.39080e-3 -1 4.67174e-3 -2

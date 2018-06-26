@@ -6,5 +6,5 @@ REFERENCES: "N. Uchida. Optical properties of single-crystal paratellurite (TeO<
 COMMENTS: "Ordinary ray (o)"
 DATA:
   - type: formula 1
-    range: 0.4 1.0
+    wavelength_range: 0.4 1.0
     coefficients: 0 2.584 0.1342 1.157 0.2638

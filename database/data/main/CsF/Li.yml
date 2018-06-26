@@ -6,5 +6,5 @@ REFERENCES: "H. H. Li. Refractive index of alkali halides and its wavelength and
 COMMENTS: "α-CsF. 297 K (24 °C)."
 DATA:
   - type: formula 1
-    range: 0.15 30
+    wavelength_range: 0.15 30
     coefficients: 0.60 0.56 0.121 5.92 78.74

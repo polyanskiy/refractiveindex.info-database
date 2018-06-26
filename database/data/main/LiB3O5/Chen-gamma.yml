@@ -6,5 +6,5 @@ REFERENCES: "1) C Chen et al.. New nonlinear-optical crystal: LiB<sub>3</sub>O<s
 COMMENTS: "n<sub>γ</sub>; Room temperature."
 DATA:
   - type: formula 4
-    range: 0.2894 1.064
+    wavelength_range: 0.2894 1.064
     coefficients: 2.58488 0.012737 0 0.021414 1 0 0 0 1 -0.016293 2

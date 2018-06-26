@@ -178,5 +178,5 @@ DATA:
         200 2.130 0.504
 SPECS:
     n_absolute: true
-    λ_vacuum: true
+    wavelength_vacuum: true
     temperature: 25 °C

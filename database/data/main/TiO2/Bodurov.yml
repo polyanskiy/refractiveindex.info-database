@@ -6,9 +6,9 @@ REFERENCES: "I. Bodurov, I. Vlaeva, A. Viraneva, T. Yovcheva, S. Sainov. Modifie
 COMMENTS: "Titanium dioxide in anatase phase. <35 nm diameter nanoparticles dispersed in water. Concentration 5 wt.%. 24 °C. Refractive index of nanoparticles calculated using Bruggeman's effective medium approximation."
 DATA:
   - type: formula 1
-    range: 0.405 0.635
+    wavelength_range: 0.405 0.635
     coefficients: 0 4.6796 0.2002148
 SPECS:
     n_absolute: false
-    λ_vacuum: false
+    wavelength_vacuum: false
     temperature: 24 °C

@@ -6,7 +6,7 @@ REFERENCES: "<a href=\"http://refractiveindex.info/download/data/2017/nikon_2017
 COMMENTS: "TCE value is available for 25 to 300 degrees Celsius."
 DATA:
   - type: formula 2 
-    range: 0.18489 2.32542
+    wavelength_range: 0.18489 2.32542
     coefficients: 0 0.640349086 0.004253794 0.374308316 0.012779842 0.089750539 0.014004437 0.908924481 99.3231891
   - type: tabulated k
     data: |
@@ -48,18 +48,18 @@ DATA:
         2.500 1.9995E-06
 SPECS:
     n_absolute: false
-    λ_vacuum: false
+    wavelength_vacuum: false
     temperature: 22.5 °C
     thermal_dispersion:
       - type: "Schott formula"
         coefficients: 2.21e-05 3e-08 -1.14e-12 2.52e-07 4.92e-10 0.235
-    n_d: 1.458564
-    V_d: 67.859016
+    nd: 1.458564
+    Vd: 67.859016
     density: 2.2 g/cm<sup>3</sup>
     thermal_expansion:
       - temperature_range: -30 70 °C
         coefficient: 6.3e-07 K<sup>-1</sup>
-    ΔP_gF: -0.002
+    dPgF: -0.002
     climatic_resistance: 1.0
     stain_resistance: 0.0
     acid_resistance: 1.0

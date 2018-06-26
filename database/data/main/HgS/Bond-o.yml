@@ -6,5 +6,5 @@ REFERENCES: "1) W. L. Bond, G. D. Boyd and H. L. Carter Jr.. Refractive indices 
 COMMENTS: "Ordinary ray"
 DATA:
   - type: formula 2
-    range: 0.62 11.0
+    wavelength_range: 0.62 11.0
     coefficients: 3.1506 2.7896 0.1328 1.1378 705

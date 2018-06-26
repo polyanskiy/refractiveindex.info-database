@@ -6,5 +6,5 @@ REFERENCES: "1) M. P. Lisitsa et al.. Dispersion of the refractive indices and b
 COMMENTS: "Extraordinary ray (e)"
 DATA:
   - type: formula 2
-    range: 1.01 22.0
+    wavelength_range: 1.01 22.0
     coefficients: 3.2009 1.8875 0.2171 3.6461 3629

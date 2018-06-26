@@ -6,7 +6,7 @@ REFERENCES: "M. Rubin. Optical properties of soda lime silica glasses, <a href=\
 COMMENTS: "Low-iron soda lime silica window glass"
 DATA:
   - type: formula 5
-    range: 0.31 4.6
+    wavelength_range: 0.31 4.6
     coefficients: 1.5130 -0.003169 2 0.003962 -2
   - type: tabulated k
     data: |

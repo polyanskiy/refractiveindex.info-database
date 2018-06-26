@@ -6,7 +6,7 @@ REFERENCES: "S. Kedenburg, M. Vieweg, T. Gissibl, and H. Giessen. Linear refract
 COMMENTS: "Heavy water (D<sub>2</sub>O) at 20 °C."
 DATA:
   - type: formula 2
-    range: 0.5 1.6
+    wavelength_range: 0.5 1.6
     coefficients: 0 -0.30637 -47.26686 0.74659 0.00893
   - type: tabulated k
     data: |

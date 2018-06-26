@@ -5,7 +5,7 @@
 REFERENCES: "<a href=\"http://refractiveindex.info/download/data/2017/sumita_2017-02-02.agf\">SUMITA Zemax catalog 2017-02-02</a> (obtained from <a href=\"http://www.sumita-opt.co.jp/en/download/\">http://www.sumita-opt.co.jp</a>)<br>See also <a href=\"http://refractiveindex.info/download/data/2016/sumita_2016-02-01.pdf\">SUMITA optical glass data book</a>"
 DATA:
   - type: formula 3 
-    range: 0.36 1.55
+    wavelength_range: 0.36 1.55
     coefficients: 3.3195074 -0.0085801253 2 0.039978521 -2 0.0014465322 -4 -3.0453007e-05 -6 7.8005005e-06 -8
   - type: tabulated k
     data: |
@@ -30,13 +30,13 @@ DATA:
         2.000 3.1863E-08
 SPECS:
     n_absolute: false
-    λ_vacuum: false
+    wavelength_vacuum: false
     temperature: 20.0 °C
     thermal_dispersion:
       - type: "Schott formula"
         coefficients: 7.61e-06 2.08e-08 -1.25e-10 1.18e-06 1.01e-09 0.239
-    n_d: 1.85588
-    V_d: 33.0
+    nd: 1.85588
+    Vd: 33.0
     glass_code: 856330
     density: 5.14 g/cm<sup>3</sup>
     thermal_expansion:
@@ -44,6 +44,6 @@ SPECS:
         coefficient: 7.1e-06 K<sup>-1</sup>
       - temperature_range: 20 300 °C
         coefficient: 8.3e-06 K<sup>-1</sup>
-    ΔP_gF: -0.0017
+    dPgF: -0.0017
     climatic_resistance: 1.0
     acid_resistance: 4.0

@@ -6,7 +6,7 @@ REFERENCES: "<a href=\"http://refractiveindex.info/download/data/2017/schott_201
 COMMENTS: "suitable for precision molding        "
 DATA:
   - type: formula 2 
-    range: 0.365 2.5
+    wavelength_range: 0.365 2.5
     coefficients: 0 1.55370411 0.011658267 0.206332561 0.0582087757 1.39708831 130.748028
   - type: tabulated k
     data: |
@@ -32,13 +32,13 @@ DATA:
         2.500 6.3543E-06
 SPECS:
     n_absolute: false
-    λ_vacuum: false
+    wavelength_vacuum: false
     temperature: 20.0 °C
     thermal_dispersion:
       - type: "Schott formula"
         coefficients: -4.27e-06 8.16e-09 -2e-11 9.02e-07 1.22e-09 0.272
-    n_d: 1.68893
-    V_d: 31.25
+    nd: 1.68893
+    Vd: 31.25
     glass_code: 689313.290
     glass_status: standard
     density: 2.898 g/cm<sup>3</sup>
@@ -47,7 +47,7 @@ SPECS:
         coefficient: 9.41e-06 K<sup>-1</sup>
       - temperature_range: 20 300 °C
         coefficient: 1.11e-05 K<sup>-1</sup>
-    ΔP_gF: 0.0079
+    dPgF: 0.0079
     climatic_resistance: 1.0
     stain_resistance: 0.0
     acid_resistance: 1.0

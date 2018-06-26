@@ -6,7 +6,7 @@ REFERENCES: "M. J. Schnepf, M. Mayer, C. Kuttner, M. Tebbe, D. Wolf, M. Dulle, T
 COMMENTS: "Isotropic PVA (polyvinyl alcohol) thin film on silicon substrate.<br>k = 0.0050±0.0004"
 DATA:
   - type: formula 5
-    range: 0.3 1.5
+    wavelength_range: 0.3 1.5
     coefficients: 1.460 0.00665 -2
 SPECS:
     substrate: Si

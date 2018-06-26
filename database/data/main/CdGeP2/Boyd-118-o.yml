@@ -6,5 +6,5 @@ REFERENCES: "1) G. D. Boyd, E. Buehler, F. G Storz, J. H. Wernick. Linear and no
 COMMENTS: "Ordinary ray (o); 118 °C"
 DATA:
   - type: formula 2
-    range: 0.8 12.5
+    wavelength_range: 0.8 12.5
     coefficients: 5.3737 3.9281 0.2269 1.6686 671.33

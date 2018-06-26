@@ -6,10 +6,10 @@ REFERENCES: "U. Griesmann and J. H. Burnett. Refractivity of nitrogen gas in the
 COMMENTS: "Standard conditions: 0 °C; 101 325 Pa."
 DATA:
   - type: formula 6
-    range: 0.145 0.270
+    wavelength_range: 0.145 0.270
     coefficients: 0 1.9662731 22086.66 2.7450825E-2 133.85688
 SPECS:
     n_absolute: true
-    λ_vacuum: true
+    wavelength_vacuum: true
     temperature: 0 °C
     pressure: 101325 Pa

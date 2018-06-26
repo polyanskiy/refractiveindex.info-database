@@ -6,5 +6,5 @@ REFERENCES: "N. Umemura, K. Miyata, and K. Kato. New data on the optical propert
 COMMENTS: "n<sub>α</sub>; 20 °C."
 DATA:
   - type: formula 4
-    range: 0.48 3.1
+    wavelength_range: 0.48 3.1
     coefficients: 3.07403 0.03231 0 0.03163 1 0 0 0 1 -0.013376 2

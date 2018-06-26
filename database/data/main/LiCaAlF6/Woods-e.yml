@@ -6,5 +6,5 @@ REFERENCES: "B. W. Woods et al.. Thermomechanical and thermo-optical properties 
 COMMENTS: "26 °C. Extraordinary ray (e)."
 DATA:
   - type: formula 4
-    range: 0.4 1.0
+    wavelength_range: 0.4 1.0
     coefficients: 1.92155 0.00494 0 0.00617 1 0 0 0 1 -0.00373 2

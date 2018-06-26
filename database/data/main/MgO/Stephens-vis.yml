@@ -6,5 +6,5 @@ REFERENCES: "R. E. Stephens and I. H. Malitson. Index of refraction of magnesium
 COMMENTS: "30 °C. This formula gives more accurate values for visible than the other formula describing the entire transmission range."
 DATA:
   - type: formula 4
-    range: 0.4047 0.7679
+    wavelength_range: 0.4047 0.7679
     coefficients: 2.957019 0.0216485 0 0.0158650 1 0 0 0 1 -0.0101373 2

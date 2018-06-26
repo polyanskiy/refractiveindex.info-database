@@ -6,5 +6,5 @@ REFERENCES: "1) W. L. Bond, G. D. Boyd and H. L. Carter Jr.. Measurement of the 
 COMMENTS: "Extraordinary ray (e); Room temperature."
 DATA:
   - type: formula 1
-    range: 0.45 2.4
+    wavelength_range: 0.45 2.4
     coefficients: 0 2.4923 0.1488 0.1050 4.544

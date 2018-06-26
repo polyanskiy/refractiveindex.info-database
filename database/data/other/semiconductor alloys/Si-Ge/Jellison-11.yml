@@ -112,7 +112,7 @@ DATA:
         0.840 4.425 0.102
 SPECS:
     n_absolute: true
-    λ_vacuum: false
+    wavelength_vacuum: false
     x: 0.11
     thickness: 8 μm
     substrate: Ge

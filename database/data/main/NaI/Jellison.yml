@@ -6,5 +6,5 @@ REFERENCES: "G. E. Jellison Jr., L. A. Boatner, J. O. Ramey, J. A. Kolopus, L. A
 COMMENTS: "Room temperature"
 DATA:
   - type: formula 1
-    range: 0.436 0.633
+    wavelength_range: 0.436 0.633
     coefficients: 0 1.994 0.176

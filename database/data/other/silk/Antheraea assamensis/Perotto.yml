@@ -6,7 +6,7 @@ REFERENCES: "G. Perotto, Y. Zhang, D. Naskar, N. Patel, D. L. Kaplan, S. C. Kund
 COMMENTS: "Antheraea assamensis fibroin film"
 DATA:
   - type: formula 5
-    range: 0.3 1.695
+    wavelength_range: 0.3 1.695
     coefficients: 1.504 0.0047 -2 1.2e-4 -4
   - type: tabulated k
     data: |

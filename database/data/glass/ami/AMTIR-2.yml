@@ -5,7 +5,7 @@
 REFERENCES: "<a href=\"https://refractiveindex.info/download/data/2013/AMTIR-2%20Information.pdf\">Amorphous Materials AMTIR-2 Information (2013)</a> - downloaded 2014-01-11"
 DATA:
   - type: formula 1
-    range: 1 13
+    wavelength_range: 1 13
     coefficients: 0 4.9948719 0.24164 0.1207152 19 1.7123685 0.48328
   - type: tabulated k
     data: |
