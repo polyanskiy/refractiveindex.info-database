@@ -1,15 +1,15 @@
-﻿============================== Next release ==============================
+﻿============================== 2018-07-01 ==============================
 
   !!! format modification !!! 
     'range' key in dispersion formulas replaced by 'wavelength_range'
-	clean-up and expansion of "SPECS": YAML flexibility allows to include more data and organize it better than Zemax materials catalog file format (.agf)
+    clean-up and expansion of "SPECS": YAML flexibility allows to include more data and organize it better than Zemax materials catalog file format (.agf)
   new data (thanks to Samuel Philippian, IL, USA!)  
-	main/Ir/Hass-40C.yml
-	main/Ir/Hass-3000C.yml
-	main/Os/Nemoshkalenko-o.yml
-	main/Os/Nemoshkalenko-e.yml
+    main/Ir/Hass-40C.yml
+    main/Ir/Hass-3000C.yml
+    main/Os/Nemoshkalenko-o.yml
+    main/Os/Nemoshkalenko-e.yml
   new data (thanks to Kimberly Clifton, LightPath Technologies, Inc., Orlando, FL, USA!)  
-	glass/lightpath/BD6.yml
+    glass/lightpath/BD6.yml
   new data (thanks to Tobias König for submitting data!)
     organic/(C6H11NO)n - poly(N-isopropylacrylamide)/Brasse.yml
   new data (thanks to Larry Heki for suggesting data!)
@@ -105,7 +105,7 @@
     main/Rb/Yamaguchi.yml
   updated data
     glass/schott/infrared/*.yml
-	glass/lightpath/*.yml
+    glass/lightpath/*.yml
     liquid crystal data by Li et al: add temperature to specs
     all data co-authored by J. I. Larruquert: add deposition temperature and specs
     main/Al/Larruquert.yml: references
