@@ -1726,9 +1726,12 @@
           name: "Afsar and Hasted 1977: Water; n,k 22.22-1733 µm; 19.0 °C"
           data: "main/H2O/Asfar.yml"
         - DIVIDER: "Water ice"
-        - PAGE: Warren
+        - PAGE: Warren-2008
+          name: "Warren and Brandt 2008: Ice; n,k 0.00443-2e6 µm"
+          data: "main/H2O/Warren-2008.yml"
+        - PAGE: Warren-1984
+          data: "main/H2O/Warren-1984.yml"
           name: "Warren 1984: Ice; n,k 0.00443-167 µm"
-          data: "main/H2O/Warren.yml"
         - DIVIDER: "Heavy water, D2O"
         - PAGE: Kedenburg-D2O
           name: "Kedenburg et al. 2012: Heavy water; n 0.5-1.6 µm, k 0.5-1.75 µm"
@@ -10459,7 +10462,7 @@
           info: "main/Ge.html"
         - PAGE: ice
           name: "Ice (H2O)"
-          data: "main/H2O/Warren.yml"
+          data: "main/H2O/Warren-2008.yml"
           info: "main/H2O.html"
         - PAGE: quartz
           name: "Quartz (SiO2)"

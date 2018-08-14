@@ -1,7 +1,10 @@
 ﻿============================== 2018-07-01 ==============================
 
+  new data (thanks to Arina Rezaeva, Moscow State University, Russia!)
+    main/H2O/Warren-2008.yml
   updated data (thanks to Omer Luria!)
     main/MoS2/Yim*.yml: fix film thickness unit and rename files respectively, info, specs
+	main/H2O/Warren.yml renamed to 'Warren-1998.yml'
 
 ============================== 2018-07-01 ==============================
 
