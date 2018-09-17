@@ -1,5 +1,7 @@
 ﻿============================== 2018-07-01 ==============================
 
+  bug fixes
+    main/PbMoO4/Malitson-o.yml: fixed dispersion formula (denominator of the second term 0.033764 -> 0.33764) (Thanks to Darius H. Torchinsky, Temple University, Philadelphia, PA, USA)
   new data (thanks to Arina Rezaeva, Moscow State University, Russia!)
     main/H2O/Warren-2008.yml
   updated data (thanks to Omer Luria!)

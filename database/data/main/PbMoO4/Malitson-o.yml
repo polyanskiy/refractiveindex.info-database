@@ -7,4 +7,4 @@ COMMENTS: "Ordinary ray (o)"
 DATA:
   - type: formula 1
     wavelength_range: 0.44 1.08
-    coefficients: 0 3.54642 0.18518 0.58270 0.033764
+    coefficients: 0 3.54642 0.18518 0.58270 0.33764
