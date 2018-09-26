@@ -1,4 +1,4 @@
-﻿============================== 2018-07-01 ==============================
+﻿============================== next release ==============================
 
   bug fixes
     main/PbMoO4/Malitson-o.yml: fixed dispersion formula (denominator of the second term 0.033764 -> 0.33764) (Thanks to Darius H. Torchinsky, Temple University, Philadelphia, PA, USA)
