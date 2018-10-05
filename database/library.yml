@@ -3559,6 +3559,12 @@
       name: "(C<sub>2</sub>H<sub>6</sub>OSi)<sub>n</sub> (Polydimethylsiloxane, PDMS)"
       info: "organic/polydimethylsiloxane.html"
       content:
+        - PAGE: Schneider-RTV615
+          name: "Schneider et al. 2009: RTV 615; n 0.35-0.70 µm"
+          data: "organic/(C2H6OSi)n - polydimethylsiloxane/Schneider-RTV615.yml"
+        - PAGE: Schneider-Sylgard184
+          name: "Schneider et al. 2009: Sylgard 184; n 0.35-0.70 µm"
+          data: "organic/(C2H6OSi)n - polydimethylsiloxane/Schneider-Sylgard184.yml"
         - PAGE: Querry-NIR
           name: "Querry 1987: Near-infrared; n,k 0.82-2.5 µm"
           data: "organic/(C2H6OSi)n - polydimethylsiloxane/Querry-NIR.yml"
