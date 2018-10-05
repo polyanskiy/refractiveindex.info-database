@@ -1,7 +1,7 @@
 ﻿============================== next release ==============================
 
   new data (thanks to Braden Czapla, Columbia University, New York, USA, for providing numerical data in YAML format!) 
-	organic/(C2H6OSi)n - polydimethylsiloxane/Schneider-RTV615.yml"
+    organic/(C2H6OSi)n - polydimethylsiloxane/Schneider-RTV615.yml"
     organic/(C2H6OSi)n - polydimethylsiloxane/Schneider-Sylgard184.yml"
   bug fixes
     main/PbMoO4/Malitson-o.yml: fixed dispersion formula (denominator of the second term 0.033764 -> 0.33764) (Thanks to Darius H. Torchinsky, Temple University, Philadelphia, PA, USA)
