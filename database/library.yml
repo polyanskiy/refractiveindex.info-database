@@ -4638,6 +4638,13 @@
         - PAGE: N-KF9
           name: "N-KF9"
           data: "glass/schott/N-KF9.yml"
+    - BOOK: SCHOTT-obsolete
+      name: "SCHOTT - Obsolete glasses"
+      info: "glass/SCHOTT.html"
+      content:
+        - PAGE: LF7
+          name: "LF7"
+          data: "glass/schott/obsolete/LF7.yml"
     - DIVIDER: "Optical glass - OHARA"
     - BOOK: OHARA-APL
       name: "OHARA - APL"
