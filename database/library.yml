@@ -1466,6 +1466,9 @@
         - PAGE: Pfluger
           name: "Pflüger et al. 1984: n,k 0.031-2.48 µm"
           data: "main/TiN/Pfluger.yml"
+        - PAGE: Schnabel
+          name: "Schnabel et al. 2018: n,k 0.292-0.809 µm"
+          data: "main/TiN/Schnabel.yml"
     - BOOK: VN
       name: "VN (Vanadium nitride)"
       info: "main/VN.html"

@@ -1,8 +1,10 @@
 ﻿============================== next release ==============================
 
+  new data (thanks to Henning Galinski, ETH Zurich, Switzerland, for providing numerical data in YAML format!)
+	main/TiN/Schnabel.yml
   new data (thanks to Emanuel Wittmann, Ludwig-Maximilians-Universität München, Germany!)
 	glass/schott/obsolete/LF7.yml
-  new data (thanks to Braden Czapla, Columbia University, New York, USA, for providing numerical data in YAML format!) 
+  new data (thanks to Braden Czapla, Columbia University, New York, USA, for providing numerical data in YAML format!)
     organic/(C2H6OSi)n - polydimethylsiloxane/Schneider-RTV615.yml"
     organic/(C2H6OSi)n - polydimethylsiloxane/Schneider-Sylgard184.yml"
   bug fixes
