@@ -10270,6 +10270,13 @@
         - PAGE: Giannios-serosa
           name: "Giannios et al. 2016: Serosa; n,k 0.45-1.551 µm"
           data: "other/human body/colon/Giannios-serosa.yml"
+    - BOOK: DNA
+      name: "DNA"
+      info: "other/DNA.html"
+      content:
+        - PAGE: Inagaki
+          name: "Inagaki et al. 1974: n,k 0.015-0.62 µm"
+          data: "other/human body/DNA/Inagaki.yml"
     - DIVIDER: "Soots"
     - BOOK: acetylene_soot
       name: "Acetylene soot"
