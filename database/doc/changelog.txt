@@ -12,6 +12,7 @@
   updated data (thanks to Omer Luria!)
     main/MoS2/Yim*.yml: fix film thickness unit and rename files respectively, info, specs
   new data
+    main/C/Arakawa.yml
     other/human body/DNA/Inagaki.yml
   updated data
     main/H2O/Warren.yml renamed to 'Warren-1998.yml'
