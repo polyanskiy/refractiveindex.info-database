@@ -493,12 +493,15 @@
           name: "Dore et al. 1998: Polycrystalline CVD diamond; n,k 2.5-500 µm"
           data: "main/C/Dore.yml"
         - DIVIDER: "Amorphous thin film"
-        - PAGE: Larruquert
-          name: "Larruquert et al. 2013: Tetrahedral amorphous thin film; n,k 0.01966-10.07 µm"
-          data: "main/C/Larruquert.yml"
         - PAGE: Hagemann
-          name: "Hagemann et al. 1974: Amorphous; n,k 0.00004133-124 µm"
+          name: "Hagemann et al. 1974: n,k 0.0000413-124 µm"
           data: "main/C/Hagemann.yml"
+        - PAGE: Larruquert
+          name: "Larruquert et al. 2013: n,k 0.0197-10.1 µm"
+          data: "main/C/Larruquert.yml"
+        - PAGE: Arakawa
+          name: "Arakawa et al. 1977: n,k 0.326-2.07 µm"
+          data: "main/C/Arakawa.yml"
         - DIVIDER: "Graphite"
         - PAGE: Djurisic-o
           name: "Djurišić and Li 1999: Graphite; n,k (o); 0.0310-10.332 µm"
