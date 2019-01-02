@@ -2548,7 +2548,7 @@
       content:
         - DIVIDER: "Monolayer"
         - PAGE: Jung
-          name: "Jung et al. 2019: monolayer film; n,k 0.21-0.83 µm"
+          name: "Jung et al. 2019: monolayer film; n,k 0.38-0.89 µm"
           data: "main/WSe2/Jung.yml"
     - BOOK: ZnSe
       name: "ZnSe (Zinc selenide)"
