@@ -1,5 +1,9 @@
 ﻿============================== next release ==============================
 
+  new data (thanks to SeokJae Yoo, Korea University, Seoul, Korea, for providing numerical data in YAML format!)
+	main/MoS2/Jung.yml
+	main/WS2/Jung.yml
+	main/WSe2/Jung.yml
   new data (thanks to Henning Galinski, ETH Zurich, Switzerland, for providing numerical data in YAML format!)
 	main/TiN/Schnabel.yml
   new data (thanks to Emanuel Wittmann, Ludwig-Maximilians-Universität München, Germany!)

@@ -478,7 +478,7 @@
           data: "main/TlBr/Schroter.yml"
     - DIVIDER: "C - Carbon, carbides and carbonates"
     - BOOK: C
-      name: "C (Carbon, diamond, graphite)"
+      name: "C (Carbon, diamond, graphite, graphene)"
       info: "main/C.html"
       content:
         - DIVIDER: "Diamond"
@@ -2355,12 +2355,11 @@
       name: "MoS<sub>2</sub> (Molybdenum disulfide)"
       info: "main/MoS2.html"
       content:
+        - DIVIDER: "Bulk"
         - PAGE: Beal
           name: "Beal and Huges 1979: bulk; n,k 0.081–1.24 µm"
           data: "main/MoS2/Beal.yml"
-        - PAGE: Zhang
-          name: "Zhang et al. 2015: monolayer film; n,k 0.40-0.75 µm"
-          data: "main/MoS2/Zhang.yml"
+        - DIVIDER: "Thin film"
         - PAGE: Yim-2nm
           name: "Yim et al. 2014: 2-nm film; n,k 0.38-0.90 µm"
           data: "main/MoS2/Yim-2nm.yml"
@@ -2370,6 +2369,13 @@
         - PAGE: Yim-20nm
           name: "Yim et al. 2014: 20-nm film; n,k 0.38-0.90 µm"
           data: "main/MoS2/Yim-20nm.yml"
+        - DIVIDER: "Monolayer"
+        - PAGE: Zhang
+          name: "Zhang et al. 2015: monolayer film; n,k 0.40-0.75 µm"
+          data: "main/MoS2/Zhang.yml"
+        - PAGE: Jung
+          name: "Jung et al. 2019: monolayer film; n,k 0.38-0.89 µm"
+          data: "main/MoS2/Jung.yml"
     - BOOK: PbS
       name: "PbS (Lead sulfide)"
       info: "main/PbS.html"
@@ -2377,6 +2383,14 @@
         - PAGE: Zemel
           name: "Zemel et al. 1965: n 3.5-10 µm"
           data: "main/PbS/Zemel.yml"
+    - BOOK: WS2
+      name: "WS<sub>2</sub> (Tungsten disulfide)"
+      info: "main/WS2.html"
+      content:
+        - DIVIDER: "Monolayer"
+        - PAGE: Jung
+          name: "Jung et al. 2019: monolayer film; n,k 0.38-0.89 µm"
+          data: "main/WS2/Jung.yml"
     - BOOK: ZnS
       name: "ZnS (Zinc sulfide)"
       info: "main/ZnS.html"
@@ -2528,6 +2542,14 @@
         - PAGE: Suzuki
           name: "Suzuki et al. 1995: n,k 0.230-1.08 µm"
           data: "main/PbSe/Suzuki.yml"
+    - BOOK: WSe2
+      name: "WSe<sub>2</sub> (Tungsten diselenide)"
+      info: "main/WSe2.html"
+      content:
+        - DIVIDER: "Monolayer"
+        - PAGE: Jung
+          name: "Jung et al. 2019: monolayer film; n,k 0.21-0.83 µm"
+          data: "main/WSe2/Jung.yml"
     - BOOK: ZnSe
       name: "ZnSe (Zinc selenide)"
       info: "main/ZnSe.html"
