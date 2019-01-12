@@ -1,5 +1,7 @@
 ﻿============================== next release ==============================
 
+  new data (thanks to Kei Sugiyama, University of Tokyo, Japan, for providing data in YAML format!)
+    main/Ge/Burnett.yml
   bug fix (thanks to Michael Roselli, LightPath Technologies, Inc., Orlando, FL, USA!)
     glass/lightpath/BD6.yml - wrong n,k data set replaced by the correct one
   new data (thanks to SeokJae Yoo, Korea University, Seoul, Korea, for providing numerical data in YAML format!)

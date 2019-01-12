@@ -1004,6 +1004,9 @@
         - PAGE: Aspnes
           name: "Aspnes and Studna 1983: n,k 0.21-0.83 µm"
           data: "main/Ge/Aspnes.yml"
+        - PAGE: Burnett
+          name: "Burnett et al. 2016: n 2.25-14.0 µm"
+          data: "main/Ge/Burnett.yml"
         - PAGE: Jellison
           name: "Jellison 1992: n,k 0.234-0.840 µm"
           data: "main/Ge/Jellison.yml"
