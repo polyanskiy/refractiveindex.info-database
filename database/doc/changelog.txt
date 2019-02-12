@@ -1,4 +1,4 @@
-﻿============================== next release ==============================
+﻿============================== 2019-02-11 ==============================
 
   new data (thanks to Kei Sugiyama, University of Tokyo, Japan, for providing data in YAML format!)
     main/Ge/Burnett.yml
@@ -25,6 +25,7 @@
   updated data
     main/H2O/Warren.yml renamed to 'Warren-1998.yml'
   bug fixes
+    library.yml: fix range of main/Fe/Ordal.yml data (thanks to Martin Borchert, FHI Berlin, Germany!)
     main/PbMoO4/Malitson-o.yml: fixed dispersion formula (denominator of the second term 0.033764 -> 0.33764) (Thanks to Darius H. Torchinsky, Temple University, Philadelphia, PA, USA!)
 
 ============================== 2018-07-01 ==============================

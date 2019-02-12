@@ -979,7 +979,7 @@
           name: "Werner et al. 2009: n,k 0.0176-2.48 µm"
           data: "main/Fe/Werner.yml"
         - PAGE: Ordal
-          name: "Ordal et al. 1985: n,k 0.52-55.6 µm"
+          name: "Ordal et al. 1985: n,k 0.667-286 µm"
           data: "main/Fe/Ordal.yml"
         - PAGE: Querry
           name: "Querry 1985: n,k 0.21-55.6 µm"
