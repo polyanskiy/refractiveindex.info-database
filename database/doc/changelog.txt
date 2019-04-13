@@ -1,4 +1,10 @@
-﻿============================== 2019-02-11 ==============================
+﻿============================== bext releade ==============================
+
+  new data (thanks to Alexandr Belosludtsev, Center for Physical Sciences and Technology, Vilnius, Lithuania!)
+    main/Sc2O3/Belosludtsev.yml
+
+	
+============================== 2019-02-11 ==============================
 
   new data (thanks to Kei Sugiyama, University of Tokyo, Japan, for providing data in YAML format!)
     main/Ge/Burnett.yml
@@ -28,6 +34,7 @@
     library.yml: fix range of main/Fe/Ordal.yml data (thanks to Martin Borchert, FHI Berlin, Germany!)
     main/PbMoO4/Malitson-o.yml: fixed dispersion formula (denominator of the second term 0.033764 -> 0.33764) (Thanks to Darius H. Torchinsky, Temple University, Philadelphia, PA, USA!)
 
+	
 ============================== 2018-07-01 ==============================
 
   !!! format modification !!! 
