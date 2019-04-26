@@ -809,12 +809,15 @@
       name: "BaF<sub>2</sub> (Barium fluoride)"
       info: "main/BaF2.html"
       content:
-        - PAGE: Li
-          name: "Li 1980: n 0.15-15.0 µm"
-          data: "main/BaF2/Li.yml"
+        - PAGE: Kaiser
+          name: "Kaiser et al. 1964: n,k 10-80 µm"
+          data: "main/BaF2/Kaiser.yml"
         - PAGE: Querry
           name: "Querry 1987: n,k 0.220-167 µm"
           data: "main/BaF2/Querry.yml"
+        - PAGE: Li
+          name: "Li 1980: n 0.15-15.0 µm"
+          data: "main/BaF2/Li.yml"
         - PAGE: Malitson
           name: "Malitson 1964: n 0.265-10.3 µm"
           data: "main/BaF2/Malitson.yml"
@@ -834,6 +837,9 @@
         - PAGE: Li
           name: "Li 1980: n 0.15-12.0 µm; 20 °C"
           data: "main/CaF2/Li.yml"
+        - PAGE: Kaiser
+          name: "Kaiser et al. 1964: n,k 10-80 µm"
+          data: "main/CaF2/Kaiser.yml"
     - BOOK: CeF3
       name: "CeF<sub>3</sub> (Cerium trifluoride)"
       info: "main/CeF3.html"
@@ -940,6 +946,9 @@
       name: "SrF<sub>2</sub> (Strontium fluoride)"
       info: "main/SrF2.html"
       content:
+        - PAGE: Kaiser
+          name: "Kaiser et al. 1964: n,k 10-80 µm"
+          data: "main/SrF2/Kaiser.yml"
         - PAGE: Rodriguez-de_Marcos
           name: "Rodríguez-de Marcos et al. 2013: n,k 0.001582-682.2 µm"
           data: "main/SrF2/Rodriguez-de Marcos.yml"
@@ -1005,7 +1014,7 @@
           name: "Aspnes and Studna 1983: n,k 0.21-0.83 µm"
           data: "main/Ge/Aspnes.yml"
         - PAGE: Burnett
-          name: "Burnett et al. 2016: n 2.25-14.0 µm"
+          name: "Burnett et al. 2016: n 2.00-14.0 µm"
           data: "main/Ge/Burnett.yml"
         - PAGE: Jellison
           name: "Jellison 1992: n,k 0.234-0.840 µm"
