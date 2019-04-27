@@ -1,4 +1,4 @@
-﻿============================== bext releade ==============================
+﻿============================== next releade ==============================
 
   new data (thanks to Braden Czapla for providing numerical data in YAML format!)
     main/BaF2/Kaiser.yml
@@ -7,6 +7,7 @@
   new data (thanks to Alexandr Belosludtsev, Center for Physical Sciences and Technology, Vilnius, Lithuania!)
     main/Sc2O3/Belosludtsev.yml
   updated data (thanks to Braden Czapla)
+    main/SiO2/Popova.yml: re-calculated using improved script (fixed misprint in a formula in original publication) 
     main/Ge/Burnett.yml: formula range, reference, comments
 
 	
