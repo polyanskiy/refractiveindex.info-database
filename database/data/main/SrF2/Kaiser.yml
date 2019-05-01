@@ -2,7 +2,7 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "W. Kaiser, W. G. Spitzer, R. H. Kaiser, and L. E. Howarth. Infrared Properties of CaF<sub>2</sub>, SrF<sub>2</sub>, and BaF<sub>2</sub>, <a href=\"https://doi.org/10.1103/PhysRev.127.1950\"><i>Phys. Rev.</i> <b>127</b>, 1950 (1962)</a>"
+REFERENCES: "W. Kaiser, W. G. Spitzer, R. H. Kaiser, and L. E. Howarth. Infrared Properties of CaF<sub>2</sub>, SrF<sub>2</sub>, and BaF<sub>2</sub>, <a href=\"https://doi.org/10.1103/PhysRev.127.1950\"><i>Phys. Rev.</i> <b>127</b>, 1950 (1962)</a><br>[<a href=\"https://github.com/polyanskiy/refractiveindex.info-scripts/blob/master/scripts/Kaiser%201962%20-%20SrF2.py\">Calculation script (Python)</a>]"
 COMMENTS: "Single crystal; Room temperature; Lorentz oscillator model parameters provided."
 DATA:
   - type: tabulated nk
