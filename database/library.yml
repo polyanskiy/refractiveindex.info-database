@@ -137,6 +137,12 @@
         - PAGE: Sinnock-liquid-83.81K
           name: "Sinnock and Smith 1969: Liquid at 83.81 K; n 0.3612-0.6439 µm"
           data: "main/Ar/Sinnock-liquid-83.81K.yml"
+        - PAGE: Grace-liquid-90K
+          name: "Grace et al 2017: Liquid at 90 K; n 0.117-0.660 µm"
+          data: "main/Ar/Grace-liquid-90K.yml"
+        - PAGE: Grace-liquid-83.81K
+          name: "Grace et al 2017: Liquid at 83.81 K; n 0.117-0.660 µm"
+          data: "main/Ar/Grace-liquid-83.81K.yml"
         - DIVIDER: "Solid"
         - PAGE: Sinnock-solid-83.81K
           name: "Sinnock and Smith 1969: Solid at 83.81 K; n 0.3612-0.6439 µm"
@@ -162,6 +168,12 @@
         - PAGE: Sinnock-solid-20K
           name: "Sinnock and Smith 1969: Solid at 20 K; n 0.3612-0.6439 µm"
           data: "main/Ar/Sinnock-solid-20K.yml"
+        - PAGE: Grace-solid-83.81K
+          name: "Grace et al 2017: Solid at 83.81 K; n 0.117-0.660 µm"
+          data: "main/Ar/Grace-solid-83.81K.yml"
+        - PAGE: Grace-solid-20K
+          name: "Grace et al 2017: Solid at 20 K; n 0.117-0.660 µm"
+          data: "main/Ar/Grace-solid-20K.yml"
     - DIVIDER: "As - Arsenides"
     - BOOK: AlAs
       name: "AlAs (Aluminium arsenide)"
@@ -3058,6 +3070,12 @@
         - PAGE: Sinnock-liquid-161.35K
           name: "Sinnock and Smith 1969: Liquid at 161.35 K; n 0.361-0.644 µm"
           data: "main/Xe/Sinnock-liquid-161.35K.yml"
+        - PAGE: Grace-liquid-178K
+          name: "Grace et al. 2017: Liquid at 178 K; n 0.157-0.660 µm"
+          data: "main/Xe/Grace-liquid-178K.yml"
+        - PAGE: Grace-liquid-161.35K
+          name: "Grace et al. 2017: Liquid at 161.35 K; n 0.157-0.660 µm"
+          data: "main/Xe/Grace-liquid-161.35K.yml"
         - DIVIDER: "Solid"
         - PAGE: Sinnock-solid-161.35K
           name: "Sinnock and Smith 1969: Solid at 161.35 K; n 0.361-0.644 µm"
@@ -3086,6 +3104,12 @@
         - PAGE: Sinnock-solid-80K
           name: "Sinnock and Smith 1969: Solid at 80 K; n 0.361-0.644 µm"
           data: "main/Xe/Sinnock-solid-80K.yml"
+        - PAGE: Grace-solid-161.35K
+          name: "Grace et al. 2017: Solid at 161.35 K; n 0.157-0.660 µm"
+          data: "main/Xe/Grace-solid-161.35K.yml"
+        - PAGE: Grace-solid-80K
+          name: "Grace et al. 2017: Solid at 80 K; n 0.157-0.660 µm"
+          data: "main/Xe/Grace-solid-80K.yml"
     - DIVIDER: "Yb - Ytterbium"
     - BOOK: Yb
       name: "Yb (Ytterbium)"

@@ -1,5 +1,14 @@
-﻿============================== next releade ==============================
+﻿============================== next release ==============================
 
+  new data (thanks to Mary Bliss, Pacific Northwest National Laboratory!)
+    main/Ar/Grace-liquid-90K.yml"
+	main/Ar/Grace-liquid-83.81K.yml
+	main/Ar/Grace-solid-83.81K.yml
+	main/Ar/Grace-solid-20K.yml
+	main/Xe/Grace-liquid-178K.yml
+	main/Xe/Grace-liquid-161.35K.yml
+	main/Xe/Grace-solid-161.35K.yml
+	main/Xe/Grace-solid-80K.yml
   new data (thanks to Braden Czapla for providing numerical data in YAML format!)
     main/BaF2/Kaiser.yml
 	main/CaF2/Kaiser.yml
