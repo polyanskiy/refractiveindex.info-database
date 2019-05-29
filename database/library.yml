@@ -3612,6 +3612,13 @@
           name: "Rheims et al. 1997: n 0.589-1.05 µm"
           data: "organic/C9H8O - cinnamaldehyde/Rheims.yml"
     - DIVIDER: "Polymers"
+    - BOOK: polyethylene
+      name: "(C<sub>2</sub>H<sub>4</sub>)<sub>n</sub> (Polyethylene, PE, HDPE)"
+      info: "organic/polyethylene.html"
+      content:
+        - PAGE: Smith
+          name: "Smith and Loewenstein 1975: HDPE; n,k 40.0-200 µm"
+          data: "organic/(C2H4)n - polyethylene/Smith.yml"
     - BOOK: polyvinyl_alcohol
       name: "(C<sub>2</sub>H<sub>4</sub>O)<sub>n</sub> (Polyvinyl alcohol, PVA)"
       info: "organic/polyvinyl alcohol.html"
@@ -3633,11 +3640,18 @@
           name: "Schneider et al. 2009: Sylgard 184; n 0.35-0.70 µm"
           data: "organic/(C2H6OSi)n - polydimethylsiloxane/Schneider-Sylgard184.yml"
         - PAGE: Querry-NIR
-          name: "Querry 1987: Near-infrared; n,k 0.82-2.5 µm"
+          name: "Querry 1987: SF-96 fluid; n,k 0.82-2.5 µm"
           data: "organic/(C2H6OSi)n - polydimethylsiloxane/Querry-NIR.yml"
         - PAGE: Querry-IR
-          name: "Querry 1987: Infrared; n,k 2.5-56 µm"
+          name: "Querry 1987: SF-96 fluid; n,k 2.5-56 µm"
           data: "organic/(C2H6OSi)n - polydimethylsiloxane/Querry-IR.yml"
+    - BOOK: (C2ClF3)n - polychlorotrifluoroethylene
+      name: "(C<sub>2</sub>ClF<sub>3</sub>)<sub>n</sub> (Polychlorotrifluoroethylene, PCTFE)"
+      info: "organic/polychlorotrifluoroethylene.html"
+      content:
+        - PAGE: Smith
+          name: "Smith and Loewenstein 1975: n,k 28.6-200 µm"
+          data: "organic/(C2ClF3)n - polychlorotrifluoroethylene/Smith.yml"
     - BOOK: polylactic_acid
       name: "(C<sub>3</sub>H<sub>4</sub>O<sub>2</sub>)<sub>n</sub> (Polylactic acid, PLA)"
       info: "organic/polylactic acid.html"
@@ -3652,6 +3666,15 @@
         - PAGE: Sultanova
           name: "Sultanova et al. 2009: n 0.437-1.052 µm"
           data: "organic/(C5H8O2)n - poly(methyl methacrylate)/Sultanova.yml"
+        - PAGE: Tsuda
+          name: "Tsuda et al. 2018: n 0.6-1.0 µm"
+          data: "organic/(C5H8O2)n - poly(methyl methacrylate)/Tsuda.yml" 
+        - PAGE: Tsuda-LD
+          name: "Tsuda et al. 2018: Lorentz-Drude model; n,k 2.50-18.2 µm"
+          data: "organic/(C5H8O2)n - poly(methyl methacrylate)/Tsuda-LD.yml"   
+        - PAGE: Tsuda-BB
+          name: "Tsuda et al. 2018: Brendel-Bormann model; n,k 2.50-18.2 µm"
+          data: "organic/(C5H8O2)n - poly(methyl methacrylate)/Tsuda-BB.yml"
         - PAGE: Bodurov
           name: "Bodurov et al. 2016: n 0.405-0.635 µm"
           data: "organic/(C5H8O2)n - poly(methyl methacrylate)/Bodurov.yml"
@@ -3682,6 +3705,13 @@
         - PAGE: Brasse
           name: "Brasse et al. 2018: n,k 0.246-1.69 µm"
           data: "organic/(C6H11NO)n - poly(N-isopropylacrylamide)/Brasse.yml"
+    - BOOK: (C6H12)n - polymethylpentene
+      name: "(C<sub>6</sub>H<sub>12</sub>)<sub>n</sub> (Polymethylpentene, PMP)"
+      info: "organic/polymethylpentene.html"
+      content:
+        - PAGE: Smith
+          name: "Smith and Loewenstein 1975: n,k 29.4-200 µm"
+          data: "organic/(C6H12)n - polymethylpentene/Smith.yml"
     - BOOK: polystyren
       name: "(C<sub>8</sub>H<sub>8</sub>)<sub>n</sub> (Polystyrene, PS)"
       info: "organic/polystyren.html"
@@ -10054,6 +10084,16 @@
         - PAGE: Vogt
           name: "Vogt et al. 2016: n,k 0.25-2.5 µm"
           data: "other/commercial plastics/EVASKY S88/Vogt.yml"
+    - BOOK: Kapton
+      name: "Kapton"
+      info: "other/Kapton.html"
+      content:
+        - PAGE: Smith
+          name: "Smith and Loewenstein 1975: n,k 28.6-182 µm"
+          data: "other/commercial plastics/Kapton/Smith.yml"
+        - PAGE: Zhang
+          name: "Zhang et al. 1998: n,k 1.67-20.0 µm"
+          data: "other/commercial plastics/Kapton/Zhang.yml"
     - BOOK: NAS-21
       name: "NAS-21"
       info: "other/NAS-21.html"
@@ -10068,6 +10108,13 @@
         - PAGE: Sultanova
           name: "Sultanova et al. 2009: n 0.4368-1.052 µm"
           data: "other/commercial plastics/Optorez1330/Sultanova.yml"
+    - BOOK: SurlynA1601
+      name: "Surlyn A-1601"
+      info: "other/Surlyn.html"
+      content:
+        - PAGE: Smith
+          name: "Smith and Loewenstein 1975: n,k 28.6-200 µm"
+          data: "other/commercial plastics/Surlyn A-1601/Smith.yml"
     - BOOK: ZeonexE48R
       name: "Zeonex E48R"
       info: "other/ZeonexE48R.html"
