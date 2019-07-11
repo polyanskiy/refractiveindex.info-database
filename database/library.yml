@@ -1232,8 +1232,11 @@
       info: "main/Ir.html"
       content:
         - PAGE: Windt
-          name: "Windt et al. 1988: 0.0024-0.122 µm"
+          name: "Windt et al. 1988: n,k 0.0024-0.122 µm"
           data: "main/Ir/Windt.yml"
+        - PAGE: Roberts
+          name: "Roberts 1986: n,k 0.250-0.750 µm"
+          data: "main/Ir/Roberts.yml"
         - PAGE: Hass-40C
           name: "Hass et al. 1967: n,k 0.005-0.546 µm; deposited at 40 °C"
           data: "main/Ir/Hass-40C.yml"
@@ -10043,7 +10046,14 @@
       content:
         - PAGE: Stelling
           name: "Stelling et al. 2017: n,k 0.247-1.685 µm"
-          data: "other/mixed organic/P3HT-PC61BM/Stelling.yml"
+          data: "other/mixed organic/P3HT-PC61BM/Stelling.yml"  
+    - BOOK: PEDOT-PSS
+      name: "PEDOT:PSS"
+      info: "other/PEDOT-PSS.html"
+      content:
+        - PAGE: Chen
+          name: "Chen et al. 2015; n,k 0.3-1.1 µm"
+          data: "other/mixed organic/PEDOT-PSS/Chen.yml"
     - DIVIDER: "Mixed organic/inorganic compounds"
     - BOOK: Cu-C12H4N4
       name: "Cu:C<sub>12</sub>H<sub>4</sub>N<sub>4</sub> (Copper:tetracyanoquinodimethane, Cu:TCNQ )"
