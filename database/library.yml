@@ -1928,6 +1928,9 @@
         - PAGE: Kischkat
           name: "Kischkat et al. 2012: Thin film; n,k 1.54-14.29 µm"
           data: "main/TiO2/Kischkat.yml"
+        - PAGE: Sarkar
+          name: "Sarkar et al. 2019: Thin film; n,k 0.30-1.69 µm"
+          data: "main/TiO2/Sarkar.yml"
         - PAGE: Siefke
           name: "Siefke et al. 2016: Thin film; n,k 0.120-125 µm"
           data: "main/TiO2/Siefke.yml"
@@ -10326,12 +10329,15 @@
       name: "Negative tone photoresists"
       info: "other/resists.html"
       content:
-        - PAGE: MicroresistEpoCore
-          name: "Micro resist EpoCore"
-          data: "other/resists/Micro resist EpoCore.yml"
-        - PAGE: MicroresistEpoClad
-          name: "Micro resist EpoClad"
-          data: "other/resists/Micro resist EpoClad.yml"
+        - PAGE: microresistEpoCore
+          name: "micro resist EpoCore"
+          data: "other/resists/micro resist EpoCore.yml"
+        - PAGE: microresistEpoClad
+          name: "micro resist EpoClad"
+          data: "other/resists/micro resist EpoClad.yml"
+        - PAGE: microresist_ma-N405_ma-T1050
+          name: "micro resist ma-N 405 and ma-T 1050, 1:1"
+          data: "other/resists/micro resist ma-N 405, ma-T 1050.yml"
         - PAGE: Microchem_SU8_2000
           name: "Microchem SU-8 2000"
           data: "other/resists/Microchem SU-8 2000.yml"

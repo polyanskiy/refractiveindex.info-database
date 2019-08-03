@@ -1,5 +1,8 @@
 ﻿============================== next release ==============================
 
+  new data (thanks to Tobias König, Leibniz-Institut für Polymerforschung Dresden, Germany, for submitting data!)
+    main/TiO2/Sarkar.yml
+	other/resists/micro resist ma-N 405, ma-T 1050.yml
   new data (thanks to Pavel Pankin for submiting data in YAML format!)
 	other/mixed organic/PEDOT_PSS/Chen.yml
   new data (thanks to Dr. Errol F. I. Roberts for providing numerical data in YAML format!)
