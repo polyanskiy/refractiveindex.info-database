@@ -10331,13 +10331,13 @@
       content:
         - PAGE: microresistEpoCore
           name: "micro resist EpoCore"
-          data: "other/resists/micro resist EpoCore.yml"
+          data: "other/resists/Micro resist EpoCore.yml"
         - PAGE: microresistEpoClad
           name: "micro resist EpoClad"
-          data: "other/resists/micro resist EpoClad.yml"
+          data: "other/resists/Micro resist EpoClad.yml"
         - PAGE: microresist_ma-N405_ma-T1050
           name: "micro resist ma-N 405 and ma-T 1050, 1:1"
-          data: "other/resists/micro resist ma-N 405, ma-T 1050.yml"
+          data: "other/resists/Micro resist ma-N 405, ma-T 1050.yml"
         - PAGE: Microchem_SU8_2000
           name: "Microchem SU-8 2000"
           data: "other/resists/Microchem SU-8 2000.yml"
@@ -10690,4 +10690,4 @@
           data: "other/soots/propane soot/Dalzell.yml"
         - PAGE: diesel_soot
           name: "Diesel soot"
-          data: "other/soots/diesel soot/Querry-NMSU.yml"
+          data: "other/soots/diesel soot/Querry-NMSU.yml"
