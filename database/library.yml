@@ -3645,6 +3645,12 @@
         - PAGE: Schneider-Sylgard184
           name: "Schneider et al. 2009: Sylgard 184; n 0.35-0.70 µm"
           data: "organic/(C2H6OSi)n - polydimethylsiloxane/Schneider-Sylgard184.yml"
+        - PAGE: Gupta
+          name: "Gupta et al. 2019: n 0.30-1.69 µm"
+          data: "organic/(C2H6OSi)n - polydimethylsiloxane/Gupta.yml"
+        - PAGE: Gupta-UV
+          name: "Gupta et al. 2019: UV PDMS; n 0.30-0.90 µm"
+          data: "organic/(C2H6OSi)n - polydimethylsiloxane/Gupta-UV.yml"
         - PAGE: Querry-NIR
           name: "Querry 1987: SF-96 fluid; n,k 0.82-2.5 µm"
           data: "organic/(C2H6OSi)n - polydimethylsiloxane/Querry-NIR.yml"
@@ -10330,13 +10336,13 @@
       info: "other/resists.html"
       content:
         - PAGE: microresistEpoCore
-          name: "micro resist EpoCore"
+          name: "Micro resist EpoCore"
           data: "other/resists/Micro resist EpoCore.yml"
         - PAGE: microresistEpoClad
-          name: "micro resist EpoClad"
+          name: "Micro resist EpoClad"
           data: "other/resists/Micro resist EpoClad.yml"
         - PAGE: microresist_ma-N405_ma-T1050
-          name: "micro resist ma-N 405 and ma-T 1050, 1:1"
+          name: "Micro resist ma-N 405 and ma-T 1050, 1:1"
           data: "other/resists/Micro resist ma-N 405, ma-T 1050.yml"
         - PAGE: Microchem_SU8_2000
           name: "Microchem SU-8 2000"

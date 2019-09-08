@@ -1,10 +1,12 @@
 ﻿============================== next release ==============================
 
   new data (thanks to Tobias König, Leibniz-Institut für Polymerforschung Dresden, Germany, for submitting data!)
+    organic/(C2H6OSi)n - polydimethylsiloxane/Gupta.yml
+    organic/(C2H6OSi)n - polydimethylsiloxane/Gupta-UV.yml
     main/TiO2/Sarkar.yml
-	other/resists/micro resist ma-N 405, ma-T 1050.yml
+    other/resists/Micro resist ma-N 405, ma-T 1050.yml
   new data (thanks to Pavel Pankin for submiting data in YAML format!)
-	other/mixed organic/PEDOT_PSS/Chen.yml
+    other/mixed organic/PEDOT_PSS/Chen.yml
   new data (thanks to Dr. Errol F. I. Roberts for providing numerical data in YAML format!)
     main/Ir/Roberts.yml
   new data (thanks to Mary Bliss, Pacific Northwest National Laboratory!)
