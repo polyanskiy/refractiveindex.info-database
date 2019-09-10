@@ -1025,6 +1025,9 @@
         - PAGE: Aspnes
           name: "Aspnes and Studna 1983: n,k 0.21-0.83 µm"
           data: "main/Ge/Aspnes.yml"
+        - PAGE: Nunley
+          name: "Nunley et al, 2016: n,k 0.188-2.48 µm"
+          data: "main/Ge/Nunley.yml"
         - PAGE: Burnett
           name: "Burnett et al. 2016: n 2.00-14.0 µm"
           data: "main/Ge/Burnett.yml"
@@ -1726,6 +1729,9 @@
         - PAGE: Fleming
           name: "Fleming 1984: Fused germania; n 0.36-4.3 µm"
           data: "main/GeO2/Fleming.yml"
+        - PAGE: Nunley
+          name: "Nunley et al, 2016: n,k 0.188-2.48 µm"
+          data: "main/GeO2/Nunley.yml"
     - BOOK: H2O
       name: "H<sub>2</sub>O, D<sub>2</sub>O (Water, heavy water, ice)"
       info: "main/H2O.html"
