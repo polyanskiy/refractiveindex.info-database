@@ -1,5 +1,16 @@
 ﻿============================== next release ==============================
 
+  new data (thanks to Kevin Palm, University of Maryland, College Park, USA, for submitting data in YAML format!)
+    main/Mg/Palm.yml
+    main/Pd/Palm.yml
+    main/Ti/Palm.yml
+    main/V/Palm.yml
+    main/Zr/Palm.yml
+	main/MgH2/Palm.yml
+    main/TiH2/Palm.yml
+    main/VH/Palm.yml
+    other/alloys/Pd-H/Palm.yml
+    other/alloys/Zr-H/Palm.yml
   new data (thanks to Jose Llorens for suggesting data!)
     main/Ge/Nunley.yml
     main/GeO2/Nunley.yml"

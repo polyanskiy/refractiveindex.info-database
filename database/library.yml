@@ -1098,7 +1098,7 @@
         - PAGE: Simon-e
           name: "Simon et al. 1997: n(e) 0.45-0.70 µm"
           data: "main/Pb5Ge3O11/Simon-e.yml"
-    - DIVIDER: "H, D - Hydrogen, Deuterium"
+    - DIVIDER: "H, D - Hydrogen, deuterium, and hydrides"
     - BOOK: H2
       name: "H<sub>2</sub> (Hydrogen)"
       info: "main/H2.html"
@@ -1119,6 +1119,34 @@
         - PAGE: Weber
           name: "Weber: n 0.230-0.579 µm"
           data: "main/D2/Weber.yml"
+    - BOOK: NH3
+      name: "NH<sub>3</sub> (Ammonia)"
+      info: "main/NH3.html"
+      content:
+        - PAGE: Cuthbertson
+          name: "Cuthbertson and Cuthbertson 1914: n 0.480-0.671 µm"
+          data: "main/NH3/Cuthbertson.yml"
+    - BOOK: MgH2
+      name: "MgH2 (Magnesium hydride)"
+      info: "main/MgH2.html"
+      content:
+        - PAGE: Palm
+          name: "Palm et al. 2018: n,k 0.250-1.68 µm"
+          data: "main/MgH2/Palm.yml"
+    - BOOK: TiH2
+      name: "TiH2 (Titanium hydride)"
+      info: "main/TiH2.html"
+      content:
+        - PAGE: Palm
+          name: "Palm et al. 2018: n,k 0.226-1.68 µm"
+          data: "main/TiH2/Palm.yml"
+    - BOOK: VH
+      name: "VH (Vanadium hydride)"
+      info: "main/VH.html"
+      content:
+        - PAGE: Palm
+          name: "Palm et al. 2018: n,k 0.301-1.68 µm"
+          data: "main/VH/Palm.yml"
     - DIVIDER: "He - Helium"
     - BOOK: He
       name: "He (Helium)"
@@ -1355,6 +1383,9 @@
         - PAGE: Hagemann
           name: "Hagemann et al. 1974: n,k 0.0000248-24.8 µm"
           data: "main/Mg/Hagemann.yml"
+        - PAGE: Palm
+          name: "Palm et al. 2018: n,k 0.250-1.68 µm"
+          data: "main/Mg/Palm.yml"
         - PAGE: Vidal-Dasilva
           name: "Vidal-Dasilva et al. 2010: n,k 0.000954-0.0496 µm"
           data: "main/Mg/Vidal-Dasilva.yml"
@@ -1472,13 +1503,6 @@
         - PAGE: Kawashima
           name: "Kawashima et al. 1997: thin film; n,k 0.131-0.919 µm"
           data: "main/GaN/Kawashima.yml"
-    - BOOK: NH3
-      name: "NH<sub>3</sub> (Ammonia)"
-      info: "main/NH3.html"
-      content:
-        - PAGE: Cuthbertson
-          name: "Cuthbertson and Cuthbertson 1914: n 0.480-0.671 µm"
-          data: "main/NH3/Cuthbertson.yml"
     - BOOK: Si3N4
       name: "Si<sub>3</sub>N<sub>4</sub> (Silicon nitride)"
       info: "main/Si3N4.html"
@@ -2181,6 +2205,9 @@
         - PAGE: Johnson
           name: "Johnson and Christy 1974: n,k 0.188-1.94 µm"
           data: "main/Pd/Johnson.yml"
+        - PAGE: Palm
+          name: "Palm et al. 2018: n,k 0.250-1.68 µm"
+          data: "main/Pd/Palm.yml"
         - PAGE: Werner
           name: "Werner et al. 2009: n,k 0.0176-2.48 µm"
           data: "main/Pd/Werner.yml"
@@ -2899,6 +2926,9 @@
         - PAGE: Johnson
           name: "Johnson and Christy 1974: n,k 0.188-1.94 µm"
           data: "main/Ti/Johnson.yml"
+        - PAGE: Palm
+          name: "Palm et al. 2018: n,k 0.226-1.68 µm"
+          data: "main/Ti/Palm.yml"
         - PAGE: Werner
           name: "Werner et al. 2009: n,k 0.01759-2.480 µm"
           data: "main/Ti/Werner.yml"
@@ -2974,7 +3004,10 @@
         - DIVIDER: "Experimental data"
         - PAGE: Johnson
           name: "Johnson and Christy 1974: n,k 0.188-1.937 µm"
-          data: "main/V/Johnson.yml"
+          data: "main/V/Johnson.yml"          
+        - PAGE: Palm
+          name: "Palm et al. 2018: n,k 0.301-1.68 µm"
+          data: "main/V/Palm.yml"
         - PAGE: Werner
           name: "Werner et al. 2009: n,k 0.0176-2.48 µm"
           data: "main/V/Werner.yml"
@@ -3157,6 +3190,9 @@
         - PAGE: Windt
           name: "Windt et al. 1988: n,k 0.0024-0.122 µm"
           data: "main/Zr/Windt.yml"
+        - PAGE: Palm
+          name: "Palm et al. 2018: n,k 0.226-1.68 µm"
+          data: "main/Zr/Palm.yml"
         - PAGE: Querry
           name: "Querry 1987: n,k 0.220-55.6 µm"
           data: "main/Zr/Querry.yml"
@@ -9821,6 +9857,13 @@
         - PAGE: Tikuisis_bare10nm
           name: "Tikuišis et al. 2017: n,k 0.193-1.69 µm; bare, 10 nm"
           data: "other/alloys/Ni-Fe/Tikuisis_bare10nm.yml"
+    - BOOK: Pd-H
+      name: "Pd-H (Palladium hydride)"
+      info: "other/Pd-H.html"
+      content:
+        - PAGE: Palm
+          name: "Palm et al. 2018: n,k 0.250-1.68 µm"
+          data: "other/alloys/Pd-H/Palm.yml"
     - BOOK: V-Ga
       name: "V-Ga (Vanadium-gallium alloy)"
       info: "other/V-Ga.html"
@@ -9830,7 +9873,14 @@
           data: "other/alloys/V-Ga/Golovashkin-293K.yml"
         - PAGE: Golovashkin-78K
           name: "Golovashkin et al. 1970: n,k 0.45-2.6 µm; 78 K"
-          data: "other/alloys/V-Ga/Golovashkin-78K.yml"
+          data: "other/alloys/V-Ga/Golovashkin-78K.yml"   
+    - BOOK: Zr-H
+      name: "Zr-H (Zirconium hydride)"
+      info: "other/Zr-H.html"
+      content:
+        - PAGE: Palm
+          name: "Palm et al. 2018: n,k 0.226-1.68 µm"
+          data: "other/alloys/Zr-H/Palm.yml"
     - DIVIDER: "Semiconductor alloys"
     - BOOK: AlAs-GaAs
       name: "AlAs-GaAs (Aluminium gallium arsenide, AlGaAs)"
