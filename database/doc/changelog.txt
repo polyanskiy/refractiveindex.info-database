@@ -8,8 +8,8 @@
     main/Zr/Palm.yml
 	main/MgH2/Palm.yml
     main/TiH2/Palm.yml
-    main/VH/Palm.yml
     other/alloys/Pd-H/Palm.yml
+    other/alloys/V-H/Palm.yml
     other/alloys/Zr-H/Palm.yml
   new data (thanks to Jose Llorens for suggesting data!)
     main/Ge/Nunley.yml

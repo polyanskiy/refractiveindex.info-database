@@ -1140,13 +1140,6 @@
         - PAGE: Palm
           name: "Palm et al. 2018: n,k 0.226-1.68 µm"
           data: "main/TiH2/Palm.yml"
-    - BOOK: VH
-      name: "VH (Vanadium hydride)"
-      info: "main/VH.html"
-      content:
-        - PAGE: Palm
-          name: "Palm et al. 2018: n,k 0.301-1.68 µm"
-          data: "main/VH/Palm.yml"
     - DIVIDER: "He - Helium"
     - BOOK: He
       name: "He (Helium)"
@@ -9858,7 +9851,7 @@
           name: "Tikuišis et al. 2017: n,k 0.193-1.69 µm; bare, 10 nm"
           data: "other/alloys/Ni-Fe/Tikuisis_bare10nm.yml"
     - BOOK: Pd-H
-      name: "Pd-H (Palladium hydride)"
+      name: "Pd-H (Palladium hydrogen alloy, Palladium hydride)"
       info: "other/Pd-H.html"
       content:
         - PAGE: Palm
@@ -9873,9 +9866,16 @@
           data: "other/alloys/V-Ga/Golovashkin-293K.yml"
         - PAGE: Golovashkin-78K
           name: "Golovashkin et al. 1970: n,k 0.45-2.6 µm; 78 K"
-          data: "other/alloys/V-Ga/Golovashkin-78K.yml"   
+          data: "other/alloys/V-Ga/Golovashkin-78K.yml"
+    - BOOK: V-H
+      name: "V-H (Vanadium-hydrogen alloy, Vanadium hydride)"
+      info: "other/V-H.html"
+      content:
+        - PAGE: Palm
+          name: "Palm et al. 2018: n,k 0.301-1.68 µm"
+          data: "other/alloys/V-H/Palm.yml"  
     - BOOK: Zr-H
-      name: "Zr-H (Zirconium hydride)"
+      name: "Zr-H (Zirconium-hydrogen alloy, Zirconium hydride)"
       info: "other/Zr-H.html"
       content:
         - PAGE: Palm
