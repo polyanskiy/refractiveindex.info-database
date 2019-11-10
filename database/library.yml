@@ -9851,7 +9851,7 @@
           name: "Tikuišis et al. 2017: n,k 0.193-1.69 µm; bare, 10 nm"
           data: "other/alloys/Ni-Fe/Tikuisis_bare10nm.yml"
     - BOOK: Pd-H
-      name: "Pd-H (Palladium hydrogen alloy, Palladium hydride)"
+      name: "Pd-H (Palladium-hydrogen alloy, Palladium hydride)"
       info: "other/Pd-H.html"
       content:
         - PAGE: Palm
