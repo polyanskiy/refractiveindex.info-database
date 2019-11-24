@@ -52,7 +52,8 @@ SPECS:
       - temperature_range: 20 100 °C
         coefficient: 12.5e-06 K<sup>-1</sup>
     specific_heat: 0.33 J/(g·K)
-    thermal_conductivity: 0.24 W/(m·K)
+    thermal_conductivity:
+      - value: 0.24 W/(m·K)
     transition_temperature: 368 °C
     Knoop_hardness: 1.41 GPa
     fracture_toughness: 0.55 MPa·m<sup>1/2</sup>
