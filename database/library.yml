@@ -1788,6 +1788,30 @@
         - PAGE: Warren-1984
           name: "Warren 1984: Ice; n,k 0.00443-167 µm"
           data: "main/H2O/Warren-1984.yml"
+        - PAGE: Kofman-10K
+          name: "Kofman et al. 2019: Amorphous ice; n 0.210-0.757 µm; 10 K"
+          data: "main/H2O/Kofman-10K.yml"
+        - PAGE: Kofman-30K
+          name: "Kofman et al. 2019: Amorphous ice; n 0.210-0.757 µm; 30 K"
+          data: "main/H2O/Kofman-30K.yml"
+        - PAGE: Kofman-50K
+          name: "Kofman et al. 2019: Amorphous ice; n 0.210-0.757 µm; 50 K"
+          data: "main/H2O/Kofman-50K.yml"
+        - PAGE: Kofman-70K
+          name: "Kofman et al. 2019: Amorphous ice; n 0.210-0.757 µm; 70 K"
+          data: "main/H2O/Kofman-70K.yml"
+        - PAGE: Kofman-90K
+          name: "Kofman et al. 2019: Amorphous ice; n 0.210-0.757 µm; 90 K"
+          data: "main/H2O/Kofman-90K.yml"
+        - PAGE: Kofman-110K
+          name: "Kofman et al. 2019: Amorphous ice; n 0.210-0.757 µm; 110 K"
+          data: "main/H2O/Kofman-110K.yml"
+        - PAGE: Kofman-130K
+          name: "Kofman et al. 2019: Amorphous ice; n 0.210-0.757 µm; 130 K"
+          data: "main/H2O/Kofman-130K.yml"
+        - PAGE: Kofman-150K
+          name: "Kofman et al. 2019: Crystalline ice; n 0.210-0.757 µm; 150 K"
+          data: "main/H2O/Kofman-150K.yml"
         - DIVIDER: "Heavy water, D2O"
         - PAGE: Kedenburg-D2O
           name: "Kedenburg et al. 2012: Heavy water; n 0.5-1.6 µm, k 0.5-1.75 µm"

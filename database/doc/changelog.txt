@@ -1,5 +1,13 @@
 ﻿============================== next release ==============================
-
+  new data (thanks to Zuzana Kanuchova, Astronomical Institute of the Slovak Academy of Sciences, for suggesting data!)
+    main/H2O/Kofman-10K.yml
+    main/H2O/Kofman-30K.yml
+    main/H2O/Kofman-50K.yml
+    main/H2O/Kofman-70K.yml
+    main/H2O/Kofman-90K.yml
+    main/H2O/Kofman-110K.yml
+    main/H2O/Kofman-130K.yml
+    main/H2O/Kofman-150K.yml
   new data (thanks to Kevin Palm, University of Maryland, College Park, USA, for submitting data in YAML format!)
     main/Mg/Palm.yml
     main/Pd/Palm.yml
