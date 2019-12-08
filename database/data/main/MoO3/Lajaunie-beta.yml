@@ -2,7 +2,7 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "L. Lajaunie, F. Boucher, R. Dessapt, and P. Moreau. Strong anisotropic influence of local-field effects on the dielectric response of α-MoO<sub>3</sub>, <a href=\"https://doi.org/10.1103/PhysRevB.88.115141\"><i>Phys. Rev. B</i> <b>88</b>, 115141 (2013)</a><br>(using <a href=\"https://refractiveindex.info/download/data/2013/Lajaunie 2013 - Dielectric function of alpha-MoO3.csv\">numerical data</a> made publically available by Luc Lajaunie)"
+REFERENCES: "L. Lajaunie, F. Boucher, R. Dessapt, and P. Moreau. Strong anisotropic influence of local-field effects on the dielectric response of α-MoO<sub>3</sub>, <a href=\"https://doi.org/10.1103/PhysRevB.88.115141\"><i>Phys. Rev. B</i> <b>88</b>, 115141 (2013)</a><br>(using <a href=\"https://refractiveindex.info/download/data/2013/Lajaunie 2013 - Dielectric function of alpha-MoO3.csv\">numerical data</a> made publicly available by Luc Lajaunie)"
 COMMENTS: "α-MoO<sub>3</sub>; n<sub>β</sub>, k<sub>β</sub>."
 DATA:
   - type: tabulated nk

@@ -888,6 +888,9 @@
         - PAGE: Rodriguez-de_Marcos
           name: "Rodríguez-de Marcos et al. 2017: n,k 0.03-2.0 µm"
           data: "main/LaF3/Rodriguez-de Marcos.yml"
+        - PAGE: Amotchkina
+          name: "Amotchkina et al, 2020: n 0.4-12 µm, k 9.5-12 µm"
+          data: "main/LaF3/Amotchkina.yml"
     - BOOK: LiF
       name: "LiF (Lithium fluoride)"
       info: "main/LiF.html"
@@ -977,6 +980,13 @@
         - PAGE: Heitmann
           name: "Heitmann and Ritter 1976: n 0.26-0.76 µm"
           data: "main/ThF4/Heitmann.yml"
+    - BOOK: YbF3
+      name: "YbF3 (Ytterbium trifluoride)"
+      info: "main/YbF3.html"
+      content:
+        - PAGE: Amotchkina
+          name: "Amotchkina et al, 2020: Thin film; n 0.4-14 µm, k 9.0-14 µm"
+          data: "main/YbF3/Amotchkina.yml"
     - BOOK: YLiF4
       name: "YLiF<sub>4</sub> (Yttrium lithium fluoride, YLF)"
       info: "main/YLiF4.html"
@@ -1025,6 +1035,9 @@
         - PAGE: Aspnes
           name: "Aspnes and Studna 1983: n,k 0.21-0.83 µm"
           data: "main/Ge/Aspnes.yml"
+        - PAGE: Amotchkina
+          name: "Amotchkina et al, 2020: n,k 0.400-11.0 µm"
+          data: "main/Ge/Amotchkina.yml"
         - PAGE: Nunley
           name: "Nunley et al, 2016: n,k 0.188-2.48 µm"
           data: "main/Ge/Nunley.yml"
@@ -1069,11 +1082,14 @@
           data: "main/Ge/Icenogle.yml"
         - DIVIDER: "Thin film"
         - PAGE: Ciesielski-2nm
-          name: "Ciesielski et al. 2018: 2-nm film; n,k 0.2-2 µm"
+          name: "Ciesielski et al. 2018: 2 nm film; n,k 0.2-2 µm"
           data: "main/Ge/Ciesielski-2nm.yml"
         - PAGE: Ciesielski-20nm
-          name: "Ciesielski et al. 2018: 20-nm film; n,k 0.2-2 µm"
+          name: "Ciesielski et al. 2018: 20 nm film; n,k 0.2-2 µm"
           data: "main/Ge/Ciesielski-20nm.yml"
+        - PAGE: Amotchkina
+          name: "Amotchkina et al, 2020: 0.42 µm film; n,k 0.4-15 µm"
+          data: "main/Ge/Amotchkina-film.yml"
     - BOOK: Bi4Ge3O12
       name: "Bi<sub>4</sub>Ge<sub>3</sub>O<sub>12</sub> (Bismuth germanate, BGO)"
       info: "main/Bi4Ge3O12.html"
@@ -2478,13 +2494,17 @@
       name: "ZnS (Zinc sulfide)"
       info: "main/ZnS.html"
       content:
-        - DIVIDER: "Experimental data"
+        - DIVIDER: "Crystal"
         - PAGE: Debenham
           name: "Debenham 1984: Cubic ZnS; n 0.405-13 µm"
           data: "main/ZnS/Debenham.yml"
         - PAGE: Querry
           name: "Querry 1987: n,k 0.220-167 µm"
           data: "main/ZnS/Querry.yml"
+        - DIVIDER: "Thin film"
+        - PAGE: Amotchkina
+          name: "Amotchkina et al, 2020: n 0.4-14 µm, k 0.4-1.0 µm"
+          data: "main/ZnS/Amotchkina.yml"
         - DIVIDER: "Models and simulations"
         - PAGE: Ozaki
           name: "Ozaki and Adachi 1993: Cubic ZnS; n,k 0.221-1.03 µm"
@@ -2641,6 +2661,9 @@
         - PAGE: Marple
           name: "Marple 1964: n 0.48-2.5 µm"
           data: "main/ZnSe/Marple.yml"
+        - PAGE: Amotchkina
+          name: "Amotchkina et al, 2020: n 0.400-13.9 µm, k 0.4-0.888  µm"
+          data: "main/ZnSe/Amotchkina.yml"
         - PAGE: Querry
           name: "Querry 1987: n,k 0.500-21.7 µm"
           data: "main/ZnSe/Querry.yml"

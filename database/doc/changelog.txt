@@ -1,4 +1,12 @@
 ﻿============================== next release ==============================
+  
+  new data (thanks to Tatiana Amotchkina, Max-Planck-Institut für Quantenoptik, München, Germany, for providing data!)
+    main/Ge/Amotchkina.yml
+	main/Ge/Amotchkina-film.yml
+	main/ZnSe/Amotchkina.yml
+	main/ZnS/Amotchkina.yml
+	main/YbF3/Amotchkina.yml
+	main/LaF3/Amotchkina.yml
   new data (thanks to Zuzana Kanuchova, Astronomical Institute of the Slovak Academy of Sciences, for suggesting data!)
     main/H2O/Kofman-10K.yml
     main/H2O/Kofman-30K.yml
