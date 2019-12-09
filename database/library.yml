@@ -1087,7 +1087,7 @@
         - PAGE: Ciesielski-20nm
           name: "Ciesielski et al. 2018: 20 nm film; n,k 0.2-2 µm"
           data: "main/Ge/Ciesielski-20nm.yml"
-        - PAGE: Amotchkina
+        - PAGE: Amotchkina-film
           name: "Amotchkina et al, 2020: 0.42 µm film; n,k 0.4-15 µm"
           data: "main/Ge/Amotchkina-film.yml"
     - BOOK: Bi4Ge3O12
