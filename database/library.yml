@@ -3059,6 +3059,12 @@
       name: "YVO<sub>4</sub> (Yttrium orthovanadate)"
       info: "main/YVO4.html"
       content:
+        - PAGE: Birnbaum-o
+          name: "Birnbaum and DeShazer 1976: n(o) 0.488-3.39 µm"
+          data: "main/YVO4/Birnbaum-o.yml"
+        - PAGE: Birnbaum-e
+          name: "Birnbaum and DeShazer 1976: n(e) 0.488-3.39 µm"
+          data: "main/YVO4/Birnbaum-e.yml"
         - PAGE: Shi-o-20C
           name: "Shi et al. 2001: n(o) 0.48-1.34 µm; 20 °C"
           data: "main/YVO4/Shi-o-20C.yml"

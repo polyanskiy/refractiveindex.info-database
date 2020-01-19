@@ -1,12 +1,15 @@
-﻿============================== next release ==============================
+﻿============================== 2020-01-19 ==============================
   
+  new data (thanks to Ondrej Novak, Institute of Physics AS CR, Dolni Brezany, Czech Republic, for suggesting data!)
+    main/YVO4/Birnbaum-o.yml
+    main/YVO4/Birnbaum-e.yml
   new data (thanks to Tatiana Amotchkina, Max-Planck-Institut für Quantenoptik, München, Germany, for providing data!)
     main/Ge/Amotchkina.yml
-	main/Ge/Amotchkina-film.yml
-	main/ZnSe/Amotchkina.yml
-	main/ZnS/Amotchkina.yml
-	main/YbF3/Amotchkina.yml
-	main/LaF3/Amotchkina.yml
+    main/Ge/Amotchkina-film.yml
+    main/ZnSe/Amotchkina.yml
+    main/ZnS/Amotchkina.yml
+    main/YbF3/Amotchkina.yml
+    main/LaF3/Amotchkina.yml
   new data (thanks to Zuzana Kanuchova, Astronomical Institute of the Slovak Academy of Sciences, for suggesting data!)
     main/H2O/Kofman-10K.yml
     main/H2O/Kofman-30K.yml
@@ -22,14 +25,14 @@
     main/Ti/Palm.yml
     main/V/Palm.yml
     main/Zr/Palm.yml
-	main/MgH2/Palm.yml
+    main/MgH2/Palm.yml
     main/TiH2/Palm.yml
     other/alloys/Pd-H/Palm.yml
     other/alloys/V-H/Palm.yml
     other/alloys/Zr-H/Palm.yml
   new data (thanks to Jose Llorens for suggesting data!)
     main/Ge/Nunley.yml
-    main/GeO2/Nunley.yml"
+    main/GeO2/Nunley.yml
   new data (thanks to Tobias König, Leibniz-Institut für Polymerforschung Dresden, Germany, for submitting data!)
     organic/(C2H6OSi)n - polydimethylsiloxane/Gupta.yml
     organic/(C2H6OSi)n - polydimethylsiloxane/Gupta-UV.yml
