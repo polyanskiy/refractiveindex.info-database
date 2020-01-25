@@ -1,4 +1,11 @@
-﻿============================== 2020-01-19 ==============================
+﻿============================== next release ==============================
+  
+  new data (thanks to Georgy Ermolaev, Moscow Institute of Physics and Technology, Russia, for submitting data in YAML format!)
+    main/MoS2/Ermolaev.yml
+	main/WS2/Ermolaev.yml
+
+
+============================== 2020-01-19 ==============================
   
   new data (thanks to Ondrej Novak, Institute of Physics AS CR, Dolni Brezany, Czech Republic, for suggesting data!)
     main/YVO4/Birnbaum-o.yml

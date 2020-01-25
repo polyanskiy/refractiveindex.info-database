@@ -2472,6 +2472,9 @@
         - PAGE: Zhang
           name: "Zhang et al. 2015: monolayer film; n,k 0.40-0.75 µm"
           data: "main/MoS2/Zhang.yml"
+        - PAGE: Ermolaev
+          name: "Ermolaev et al. 2020: monolayer film; n,k 0.365-1.70 µm"
+          data: "main/MoS2/Ermolaev.yml"
         - PAGE: Jung
           name: "Jung et al. 2019: monolayer film; n,k 0.38-0.89 µm"
           data: "main/MoS2/Jung.yml"
@@ -2490,6 +2493,9 @@
         - PAGE: Jung
           name: "Jung et al. 2019: monolayer film; n,k 0.38-0.89 µm"
           data: "main/WS2/Jung.yml"
+        - PAGE: Ermolaev
+          name: "Ermolaev et al. 2020: monolayer film; n,k 0.365-1.70 µm"
+          data: "main/WS2/Ermolaev.yml"
     - BOOK: ZnS
       name: "ZnS (Zinc sulfide)"
       info: "main/ZnS.html"
