@@ -7,6 +7,6 @@ COMMENTS: "Solid argon at 20 K (-253.15 °C)."
 DATA:
   - type: formula 1
     wavelength_range: 0.117 0.660
-    coefficients: 0.24 0.27 0.1066 0.00047 0.9083
+    coefficients: 0.4 0.30 0.1066 0.0011 0.9083
 SPECS:
     temperature: 20 K

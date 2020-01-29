@@ -1,8 +1,14 @@
 ﻿============================== next release ==============================
   
+  updated data (tahanks to Amir Abdolvand!)
+    main/Ar/Grace-solid-20K.yml - dispersion formula
   new data (thanks to Georgy Ermolaev, Moscow Institute of Physics and Technology, Russia, for submitting data in YAML format!)
     main/MoS2/Ermolaev.yml
-	main/WS2/Ermolaev.yml
+    main/WS2/Ermolaev.yml
+  updated data
+    main/MoS2/Jung.yml: references
+    main/WS2/Jung.yml: references
+    main/WSe2/Jung.yml: references
 
 
 ============================== 2020-01-19 ==============================
