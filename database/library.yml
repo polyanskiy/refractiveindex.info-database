@@ -289,6 +289,15 @@
           name: "Hagemann et al. 1974 #2: n,k 0.003542-0.8266 µm"
           data: "main/Au/Hagemann-2.yml"
         - DIVIDER: "Experimental data: thin film"
+        - PAGE: Yakubovsky-4nm
+          name: "Yakubovsky et al. 2019: 4-nm film; n,k 0.3-3.3 µm"
+          data: "main/Au/Yakubovsky-4nm.yml"
+        - PAGE: Yakubovsky-6nm
+          name: "Yakubovsky et al. 2019: 6-nm film; n,k 0.3-3.3 µm"
+          data: "main/Au/Yakubovsky-6nm.yml"
+        - PAGE: Yakubovsky-9nm
+          name: "Yakubovsky et al. 2019: 9-nm film; n,k 0.3-3.3 µm"
+          data: "main/Au/Yakubovsky-9nm.yml"
         - PAGE: Yakubovsky-25nm
           name: "Yakubovsky et al. 2017: 25-nm film; n,k 0.3-2 µm"
           data: "main/Au/Yakubovsky-25nm.yml"
