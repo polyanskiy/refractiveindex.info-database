@@ -422,6 +422,9 @@
         - PAGE: Rakic-LD
           name: "Rakić et al. 1998: Lorentz-Drude model; n,k 0.248-62.0 µm"
           data: "main/Be/Rakic-LD.yml"
+        - PAGE: Svechnikov
+          name: "Svechnikov et al. 2020: n,k 0.00496-0.0608 µm"
+          data: "main/Be/Svechnikov.yml"
     - DIVIDER: "Bi - Bismuth"
     - BOOK: Bi
       name: "Bi (Bismuth)"

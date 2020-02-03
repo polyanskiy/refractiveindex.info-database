@@ -1,9 +1,9 @@
 ﻿============================== next release ==============================
   
   
-  updated data (tahanks to Dmitriy Likhachev, GLOBALFOUNDRIES, Dresden, Germany!)
+  updated data (thanks to Dmitriy Likhachev, GLOBALFOUNDRIES, Dresden, Germany!)
     main/Mg/Palm.yml
-  updated data (tahanks to Amir Abdolvand!)
+  updated data (thanks to Amir Abdolvand!)
     main/Ar/Grace-solid-20K.yml - dispersion formula
   new data (thanks to Georgy Ermolaev, Moscow Institute of Physics and Technology, Russia, for submitting data in YAML format!)
     main/MoS2/Ermolaev.yml
@@ -11,6 +11,8 @@
     main/Au/Yakubovsky-4nm.yml
     main/Au/Yakubovsky-6nm.yml
     main/Au/Yakubovsky-9nm.yml
+  new data
+    main/Be/Svechnikov.yml
   updated data
     main/MoS2/Jung.yml: references
     main/WS2/Jung.yml: references
