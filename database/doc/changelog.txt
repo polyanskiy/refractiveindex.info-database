@@ -1,6 +1,18 @@
 ﻿============================== next release ==============================
   
-  
+  new data (thanks to Andres Castellanos-Gomez, Consejo Superior de Investigaciones Científicas, Madrid, Spain, for providing data!)
+    main/MoS2/Hsu-1L.yml
+    main/MoS2/Hsu-2L.yml
+    main/MoS2/Hsu-3L.yml
+    main/MoSe2/Hsu-1L.yml
+    main/MoSe2/Hsu-2L.yml
+    main/MoSe2/Hsu-3L.yml
+    main/WS2/Hsu-1L.yml
+    main/WS2/Hsu-2L.yml
+    main/WS2/Hsu-3L.yml
+    main/WSe2/Hsu-1L.yml
+    main/WSe2/Hsu-2L.yml
+    main/WSe2/Hsu-3L.yml
   updated data (thanks to Dmitriy Likhachev, GLOBALFOUNDRIES, Dresden, Germany!)
     main/Mg/Palm.yml
   updated data (thanks to Amir Abdolvand!)

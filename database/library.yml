@@ -2480,7 +2480,7 @@
         - PAGE: Yim-20nm
           name: "Yim et al. 2014: 20-nm film; n,k 0.38-0.90 µm"
           data: "main/MoS2/Yim-20nm.yml"
-        - DIVIDER: "Monolayer"
+        - DIVIDER: "2D structures"
         - PAGE: Zhang
           name: "Zhang et al. 2015: monolayer film; n,k 0.40-0.75 µm"
           data: "main/MoS2/Zhang.yml"
@@ -2490,6 +2490,15 @@
         - PAGE: Jung
           name: "Jung et al. 2019: monolayer film; n,k 0.38-0.89 µm"
           data: "main/MoS2/Jung.yml"
+        - PAGE: Hsu-1L
+          name: "Hsu et al. 2019: monolayer (1L) film; n,k 0.40-0.86 µm"
+          data: "main/MoS2/Hsu-1L.yml"
+        - PAGE: Hsu-2L
+          name: "Hsu et al. 2019: 2-layer (2L) film; n,k 0.40-0.86 µm"
+          data: "main/MoS2/Hsu-2L.yml"
+        - PAGE: Hsu-3L
+          name: "Hsu et al. 2019: 3-layer (3L) film; n,k 0.40-0.86 µm"
+          data: "main/MoS2/Hsu-3L.yml"
     - BOOK: PbS
       name: "PbS (Lead sulfide)"
       info: "main/PbS.html"
@@ -2501,13 +2510,22 @@
       name: "WS<sub>2</sub> (Tungsten disulfide)"
       info: "main/WS2.html"
       content:
-        - DIVIDER: "Monolayer"
+        - DIVIDER: "2D structures"
         - PAGE: Jung
           name: "Jung et al. 2019: monolayer film; n,k 0.38-0.89 µm"
           data: "main/WS2/Jung.yml"
         - PAGE: Ermolaev
           name: "Ermolaev et al. 2020: monolayer film; n,k 0.365-1.70 µm"
           data: "main/WS2/Ermolaev.yml"
+        - PAGE: Hsu-1L
+          name: "Hsu et al. 2019: monolayer (1L) film; n,k 0.40-0.85 µm"
+          data: "main/WS2/Hsu-1L.yml"
+        - PAGE: Hsu-2L
+          name: "Hsu et al. 2019: 2-layer (2L) film; n,k 0.40-0.85 µm"
+          data: "main/WS2/Hsu-2L.yml"
+        - PAGE: Hsu-3L
+          name: "Hsu et al. 2019: 3-layer (3L) film; n,k 0.40-0.85 µm"
+          data: "main/WS2/Hsu-3L.yml"
     - BOOK: ZnS
       name: "ZnS (Zinc sulfide)"
       info: "main/ZnS.html"
@@ -2648,9 +2666,20 @@
       name: "MoSe<sub>2</sub> (Molybdenum diselenide)"
       info: "main/MoSe2.html"
       content:
+        - DIVIDER: "Bulk"
         - PAGE: Beal
           name: "Beal and Huges 1979: n,k 0.044–1.16 µm"
           data: "main/MoSe2/Beal.yml"
+        - DIVIDER: "2D structures"
+        - PAGE: Hsu-1L
+          name: "Hsu et al. 2019: monolayer (1L) film; n,k 0.40-0.86 µm"
+          data: "main/MoSe2/Hsu-1L.yml"
+        - PAGE: Hsu-2L
+          name: "Hsu et al. 2019: 2-layer (2L) film; n,k 0.40-0.86 µm"
+          data: "main/MoSe2/Hsu-2L.yml"
+        - PAGE: Hsu-3L
+          name: "Hsu et al. 2019: 3-layer (3L) film; n,k 0.40-0.86 µm"
+          data: "main/MoSe2/Hsu-3L.yml"
     - BOOK: PbSe
       name: "PbSe (Lead selenide)"
       info: "main/PbSe.html"
@@ -2667,10 +2696,19 @@
       name: "WSe<sub>2</sub> (Tungsten diselenide)"
       info: "main/WSe2.html"
       content:
-        - DIVIDER: "Monolayer"
+        - DIVIDER: "2D structures"
         - PAGE: Jung
           name: "Jung et al. 2019: monolayer film; n,k 0.38-0.89 µm"
           data: "main/WSe2/Jung.yml"
+        - PAGE: Hsu-1L
+          name: "Hsu et al. 2019: monolayer (1L) film; n,k 0.40-0.85 µm"
+          data: "main/WSe2/Hsu-1L.yml"
+        - PAGE: Hsu-2L
+          name: "Hsu et al. 2019: 2-layer (2L) film; n,k 0.40-0.85 µm"
+          data: "main/WSe2/Hsu-2L.yml"
+        - PAGE: Hsu-3L
+          name: "Hsu et al. 2019: 3-layer (3L) film; n,k 0.40-0.85 µm"
+          data: "main/WSe2/Hsu-3L.yml"
     - BOOK: ZnSe
       name: "ZnSe (Zinc selenide)"
       info: "main/ZnSe.html"
