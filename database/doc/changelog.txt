@@ -32,6 +32,8 @@
     main/Au/Yakubovsky-25nm.yml: specs
     main/Au/Yakubovsky-53nm.yml: specs
     main/Au/Yakubovsky-117nm.yml: specs
+  miscellaneous
+    SPECS entry "film_thickness: monolayer" replaced by "film_thickness: 1L" in multiple files
 
 
 
