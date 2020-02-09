@@ -12,28 +12,31 @@
       content:
         - DIVIDER: "Experimental data: bulk, thick film"
         - PAGE: Johnson
-          name: "Johnson and Christy 1972: n,k 0.188-1.937 µm"
+          name: "Johnson and Christy 1972: n,k 0.188-1.94 µm"
           data: "main/Ag/Johnson.yml"
+        - PAGE: Choi
+          name: "Choi et al. 2020: Single crystalline film; n,k 1.23-6.99 µm"
+          data: "main/Ag/Choi.yml"
         - PAGE: Yang
-          name: "Yang et al. 2015: n,k 0.270-24.92 µm"
+          name: "Yang et al. 2015: n,k 0.270-24.9 µm"
           data: "main/Ag/Yang.yml"
         - PAGE: McPeak
           name: "McPeak et al. 2015: n,k 0.3-1.7 µm"
           data: "main/Ag/McPeak.yml"
         - PAGE: Babar
-          name: "Babar and Weaver 2015: n,k 0.2066-12.40 µm"
+          name: "Babar and Weaver 2015: n,k 0.207-12.4 µm"
           data: "main/Ag/Babar.yml"
         - PAGE: Wu
           name: "Wu et al. 2014: n,k 0.29-1.00 µm"
           data: "main/Ag/Wu.yml"
         - PAGE: Werner
-          name: "Werner et al. 2009: n,k 0.01759-2.480 µm"
+          name: "Werner et al. 2009: n,k 0.0176-2.48 µm"
           data: "main/Ag/Werner.yml"
         - PAGE: Stahrenberg
           name: "Stahrenberg et al. 2001: n,k 0.128-0.496 µm"
           data: "main/Ag/Stahrenberg.yml"
         - PAGE: Windt
-          name: "Windt et al. 1988: n,k 0.0024-0.1216 µm"
+          name: "Windt et al. 1988: n,k 0.0024-0.122 µm"
           data: "main/Ag/Windt.yml"
         - PAGE: Hagemann
           name: "Hagemann et al. 1974: n,k 2.48e-6-248 µm"
@@ -56,7 +59,7 @@
           name: "Rakić et al. 1998: Lorentz-Drude model; n,k 0.248-12.4 µm"
           data: "main/Ag/Rakic-LD.yml"
         - PAGE: Werner-DFT
-          name: "Werner et al. 2009: DFT calculations; n,k 0.01759-2.480 µm"
+          name: "Werner et al. 2009: DFT calculations; n,k 0.0176-2.48 µm"
           data: "main/Ag/Werner-DFT.yml"
     - DIVIDER: "Al - Aluminium and aluminates"
     - BOOK: Al
@@ -65,19 +68,19 @@
       content:
         - DIVIDER: "Experimental data"
         - PAGE: Rakic
-          name: "Rakić 1995: 0.00012399-200 µm"
+          name: "Rakić 1995: 0.000124-200 µm"
           data: "main/Al/Rakic.yml"
         - PAGE: McPeak
           name: "McPeak et al. 2015: n,k 0.15-1.7 µm"
           data: "main/Al/McPeak.yml"
         - PAGE: Larruquert
-          name: "Larruquert et al. 1996: n,k 0.077-0.1135 µm"
+          name: "Larruquert et al. 1996: n,k 0.077-0.114 µm"
           data: "main/Al/Larruquert.yml"
         - PAGE: Ordal
           name: "Ordal et al. 1988: n,k 0.667-200 µm"
           data: "main/Al/Ordal.yml"
         - PAGE: Hagemann
-          name: "Hagemann et al. 1974: n,k 0.00001033-1240 µm"
+          name: "Hagemann et al. 1974: n,k 0.0000103-1240 µm"
           data: "main/Al/Hagemann.yml"
         - PAGE: Mathewson
           name: "Mathewson and Myers 1971: n,k 0.496-1.77 µm"
@@ -110,7 +113,7 @@
       content:
         - DIVIDER: "Gas"
         - PAGE: Bideau-Mehu
-          name: "Bideau-Mehu et al. 1981: n 0.1404-0.5677 µm"
+          name: "Bideau-Mehu et al. 1981: n 0.140-0.568 µm"
           data: "main/Ar/Bideau-Mehu.yml"
         - PAGE: Peck-0C
           name: "Peck and Fisher 1964: n 0.47-2.06 µm; 0 °C"
@@ -119,23 +122,23 @@
           name: "Peck and Fisher 1964: n 0.47-2.06 µm; 15 °C"
           data: "main/Ar/Peck-15C.yml"
         - PAGE: Larsen
-          name: "Larsén 1934: n 0.2303-0.5677 µm"
+          name: "Larsén 1934: n 0.230-0.568 µm"
           data: "main/Ar/Larsen.yml"
         - PAGE: Cuthbertson
-          name: "Cuthbertson and Cuthbertson 1910: n 0.4800-0.6708 µm"
+          name: "Cuthbertson and Cuthbertson 1910: n 0.480-0.671 µm"
           data: "main/Ar/Cuthbertson.yml"
         - DIVIDER: "Liquid"
         - PAGE: Sinnock-liquid-90K
-          name: "Sinnock and Smith 1969: Liquid at 90 K; n 0.3612-0.6439 µm"
+          name: "Sinnock and Smith 1969: Liquid at 90 K; n 0.361-0.644 µm"
           data: "main/Ar/Sinnock-liquid-90K.yml"
         - PAGE: Sinnock-liquid-88K
-          name: "Sinnock and Smith 1969: Liquid at 88 K; n 0.3612-0.6439 µm"
+          name: "Sinnock and Smith 1969: Liquid at 88 K; n 0.361-0.644 µm"
           data: "main/Ar/Sinnock-liquid-88K.yml"
         - PAGE: Sinnock-liquid-86K
-          name: "Sinnock and Smith 1969: Liquid at 86 K; n 0.3612-0.6439 µm"
+          name: "Sinnock and Smith 1969: Liquid at 86 K; n 0.361-0.644 µm"
           data: "main/Ar/Sinnock-liquid-86K.yml"
         - PAGE: Sinnock-liquid-83.81K
-          name: "Sinnock and Smith 1969: Liquid at 83.81 K; n 0.3612-0.6439 µm"
+          name: "Sinnock and Smith 1969: Liquid at 83.81 K; n 0.361-0.644 µm"
           data: "main/Ar/Sinnock-liquid-83.81K.yml"
         - PAGE: Grace-liquid-90K
           name: "Grace et al 2017: Liquid at 90 K; n 0.117-0.660 µm"
@@ -145,28 +148,28 @@
           data: "main/Ar/Grace-liquid-83.81K.yml"
         - DIVIDER: "Solid"
         - PAGE: Sinnock-solid-83.81K
-          name: "Sinnock and Smith 1969: Solid at 83.81 K; n 0.3612-0.6439 µm"
+          name: "Sinnock and Smith 1969: Solid at 83.81 K; n 0.361-0.644 µm"
           data: "main/Ar/Sinnock-solid-83.81K.yml"
         - PAGE: Sinnock-solid-80K
-          name: "Sinnock and Smith 1969: Solid at 80 K; n 0.3612-0.6439 µm"
+          name: "Sinnock and Smith 1969: Solid at 80 K; n 0.361-0.644 µm"
           data: "main/Ar/Sinnock-solid-80K.yml"
         - PAGE: Sinnock-solid-70K
-          name: "Sinnock and Smith 1969: Solid at 70 K; n 0.3612-0.6439 µm"
+          name: "Sinnock and Smith 1969: Solid at 70 K; n 0.361-0.644 µm"
           data: "main/Ar/Sinnock-solid-70K.yml"
         - PAGE: Sinnock-solid-60K
-          name: "Sinnock and Smith 1969: Solid at 60 K; n 0.3612-0.6439 µm"
+          name: "Sinnock and Smith 1969: Solid at 60 K; n 0.361-0.644 µm"
           data: "main/Ar/Sinnock-solid-60K.yml"
         - PAGE: Sinnock-solid-50K
-          name: "Sinnock and Smith 1969: Solid at 50 K; n 0.3612-0.6439 µm"
+          name: "Sinnock and Smith 1969: Solid at 50 K; n 0.361-0.644 µm"
           data: "main/Ar/Sinnock-solid-50K.yml"
         - PAGE: Sinnock-solid-40K
-          name: "Sinnock and Smith 1969: Solid at 40 K; n 0.3612-0.6439 µm"
+          name: "Sinnock and Smith 1969: Solid at 40 K; n 0.361-0.644 µm"
           data: "main/Ar/Sinnock-solid-40K.yml"
         - PAGE: Sinnock-solid-30K
-          name: "Sinnock and Smith 1969: Solid at 30 K; n 0.3612-0.6439 µm"
+          name: "Sinnock and Smith 1969: Solid at 30 K; n 0.361-0.644 µm"
           data: "main/Ar/Sinnock-solid-30K.yml"
         - PAGE: Sinnock-solid-20K
-          name: "Sinnock and Smith 1969: Solid at 20 K; n 0.3612-0.6439 µm"
+          name: "Sinnock and Smith 1969: Solid at 20 K; n 0.361-0.644 µm"
           data: "main/Ar/Sinnock-solid-20K.yml"
         - PAGE: Grace-solid-83.81K
           name: "Grace et al 2017: Solid at 83.81 K; n 0.117-0.660 µm"
@@ -271,13 +274,13 @@
           name: "Olmon et al. 2012: Single-crystal gold; n,k 0.300-24.93 µm"
           data: "main/Au/Olmon-sc.yml"
         - PAGE: Olmon-ts
-          name: "Olmon et al. 2012: Template-stripped gold; n,k 0.300-24.93 µm"
+          name: "Olmon et al. 2012: Template-stripped gold; n,k 0.300-24.9 µm"
           data: "main/Au/Olmon-ts.yml"
         - PAGE: Werner
-          name: "Werner et al. 2009: n,k 0.01759-2.480 µm"
+          name: "Werner et al. 2009: n,k 0.0176-2.48 µm"
           data: "main/Au/Werner.yml"
         - PAGE: Windt
-          name: "Windt et al. 1988: n,k 0.0024-0.1216 µm"
+          name: "Windt et al. 1988: n,k 0.0024-0.122 µm"
           data: "main/Au/Windt.yml"
         - PAGE: Ordal
           name: "Ordal et al. 1987: n,k 0.667-286 µm"
@@ -286,7 +289,7 @@
           name: "Hagemann et al. 1974: n,k 0.000008266-248 µm"
           data: "main/Au/Hagemann.yml"
         - PAGE: Hagemann-2
-          name: "Hagemann et al. 1974 #2: n,k 0.003542-0.8266 µm"
+          name: "Hagemann et al. 1974 #2: n,k 0.00354-0.827 µm"
           data: "main/Au/Hagemann-2.yml"
         - DIVIDER: "Experimental data: thin film"
         - PAGE: Yakubovsky-4nm
@@ -333,7 +336,7 @@
           name: "Rakić et al. 1998: Lorentz-Drude model; n,k 0.248-6.20 µm"
           data: "main/Au/Rakic-LD.yml"
         - PAGE: Werner-DFT
-          name: "Werner et al. 2009: DFT calculations; n,k 0.01759-2.480 µm"
+          name: "Werner et al. 2009: DFT calculations; n,k 0.0176-2.48 µm"
           data: "main/Au/Werner-DFT.yml"
     - DIVIDER: "B - Boron and borates"
     - BOOK: B
@@ -341,7 +344,7 @@
       info: "main/B.html"
       content:
         - PAGE: Fernandez-Perea
-          name: "Fernández-Perea et al. 2007: n,k 0.001378-0.1810 µm"
+          name: "Fernández-Perea et al. 2007: n,k 0.00138-0.181 µm"
           data: "main/B/Fernandez-Perea.yml"
     - BOOK: BaB2O4
       name: "BaB<sub>2</sub>O<sub>4</sub> (Barium borate, BBO)"
@@ -383,13 +386,13 @@
       info: "main/LiB3O5.html"
       content:
         - PAGE: Chen-α
-          name: "Chen et al. 1989: n(α) 0.2894-1.064 µm"
+          name: "Chen et al. 1989: n(α) 0.289-1.06 µm"
           data: "main/LiB3O5/Chen-alpha.yml"
         - PAGE: Chen-β
-          name: "Chen et al. 1989: n(β) 0.2894-1.064 µm"
+          name: "Chen et al. 1989: n(β) 0.289-1.06 µm"
           data: "main/LiB3O5/Chen-beta.yml"
         - PAGE: Chen-γ
-          name: "Chen et al. 1989: n(γ) 0.2894-1.064 µm"
+          name: "Chen et al. 1989: n(γ) 0.289-1.06 µm"
           data: "main/LiB3O5/Chen-gamma.yml"
     - BOOK: CsLiB6O10
       name: "CsLiB<sub>6</sub>O<sub>10</sub> (Cesium lithium borate, CLBO)"
@@ -406,10 +409,10 @@
       info: "main/LuAl3(BO3)4.html"
       content:
         - PAGE: Fang-o
-          name: "Fang et al. 2013: n(o) 0.266-1.338 µm"
+          name: "Fang et al. 2013: n(o) 0.266-1.34 µm"
           data: "main/LuAl3(BO3)4/Fang-o.yml"
         - PAGE: Fang-e
-          name: "Fang et al. 2013: n(e) 0.266-1.338 µm"
+          name: "Fang et al. 2013: n(e) 0.266-1.34 µm"
           data: "main/LuAl3(BO3)4/Fang-e.yml"
     - DIVIDER: "Be - Beryllium"
     - BOOK: Be
@@ -432,14 +435,14 @@
       content:
         - DIVIDER: "Experimental data"
         - PAGE: Hagemann
-          name: "Hagemann et al. 1974: n,k 0.00155-6.199 µm"
+          name: "Hagemann et al. 1974: n,k 0.00155-6.20 µm"
           data: "main/Bi/Hagemann.yml"
         - PAGE: Werner
-          name: "Werner et al. 2009: n,k 0.01759-2.480 µm"
+          name: "Werner et al. 2009: n,k 0.0176-2.48 µm"
           data: "main/Bi/Werner.yml"
         - DIVIDER: "Models and simulations"
         - PAGE: Werner-DFT
-          name: "Werner et al. 2009: DFT calculations; n,k 0.01759-2.480 µm"
+          name: "Werner et al. 2009: DFT calculations; n,k 0.0176-2.48 µm"
           data: "main/Bi/Werner-DFT.yml"
     - DIVIDER: "Br - Bromides"
     - BOOK: AgBr
