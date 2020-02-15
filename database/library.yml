@@ -15,7 +15,7 @@
           name: "Johnson and Christy 1972: n,k 0.188-1.94 µm"
           data: "main/Ag/Johnson.yml"
         - PAGE: Choi
-          name: "Choi et al. 2020: Single crystalline film; n,k 1.23-6.99 µm"
+          name: "Choi et al. 2020: n,k 1.23-6.99 µm"
           data: "main/Ag/Choi.yml"
         - PAGE: Yang
           name: "Yang et al. 2015: n,k 0.270-24.9 µm"
@@ -68,8 +68,11 @@
       content:
         - DIVIDER: "Experimental data"
         - PAGE: Rakic
-          name: "Rakić 1995: 0.000124-200 µm"
+          name: "Rakić 1995: n,k 0.000124-200 µm"
           data: "main/Al/Rakic.yml"
+        - PAGE: Choi
+          name: "Choi et al. 2016: n,k 0.225-1.00 µm"
+          data: "main/Al/Choi.yml"
         - PAGE: McPeak
           name: "McPeak et al. 2015: n,k 0.15-1.7 µm"
           data: "main/Al/McPeak.yml"

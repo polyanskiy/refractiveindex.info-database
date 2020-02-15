@@ -2,6 +2,7 @@
   
   new data (thanks to Junho Choi, University of Texas at Austin, USA, for submitting data in YAML format!)
 	main/Ag/Choi.yml
+    main/Al/Choi.yml
   new data (thanks to Andres Castellanos-Gomez, Consejo Superior de Investigaciones Científicas, Madrid, Spain, for providing data!)
     main/MoS2/Hsu-1L.yml
     main/MoS2/Hsu-2L.yml
