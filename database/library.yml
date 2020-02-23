@@ -10205,6 +10205,14 @@
         - PAGE: Treharne
           name: "Treharne et al. 2011: n,k 0.3-0.9 µm"
           data: "other/doped crystals/Al-ZnO/Treharne.yml"
+    - DIVIDER: "Miscellaneous crystalline minerals"
+    - BOOK: franckeite
+      name: "Franckeite"
+      info: "other/franckeite.html"
+      content:
+        - PAGE: Gant
+          name: "Gant et al. 2017: n,k 0.444-0.778 µm"
+          data: "other/crystalline minerals/franckeite/Gant.yml"
     - DIVIDER: "Mixed organic compounds"
     - BOOK: (C8H8)n-(C3H3N)m
       name: "(C<sub>8</sub>H<sub>8</sub>)<sub>n</sub>-(C<sub>3</sub>H<sub>3</sub>N)<sub>m</sub> (Styrene-acrylonitrile, SAN)"
