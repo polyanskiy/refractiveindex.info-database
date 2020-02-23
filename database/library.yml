@@ -1250,6 +1250,13 @@
         - PAGE: Li
           name: "Li 1976: n 0.25-40 µm"
           data: "main/NaI/Li.yml"
+    - BOOK: PbI2
+      name: "PbI2 (Lead iodide)"
+      info: "main/PbI2.html"
+      content:
+        - PAGE: Frisenda
+          name: "Frisenda et al. 2017: n,k 0.423-0.794 µm"
+          data: "main/PbI2/Frisenda.yml"
     - BOOK: RbI
       name: "RbI (Rubidium iodide)"
       info: "main/RbI.html"
