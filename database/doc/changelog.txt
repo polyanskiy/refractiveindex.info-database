@@ -39,7 +39,8 @@
     main/Au/Yakubovsky-117nm.yml: specs
   miscellaneous
     SPECS entry "film_thickness: monolayer" replaced by "film_thickness: 1L" in multiple files
-
+  bug fixes
+    main/ZnS/Amotchkina.yml: unused text after comments (Thanks to Phillip Manley, Helmholtz-Zentrum Berlin, Germany)
 
 
 ============================== 2020-01-19 ==============================
