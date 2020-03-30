@@ -29,6 +29,9 @@
     main/Au/Yakubovsky-6nm.yml
     main/Au/Yakubovsky-9nm.yml
   new data
+    main/Au/Rosenblatt-11nm.yml
+    main/Au/Rosenblatt-21nm.yml
+    main/Au/Rosenblatt-44nm.yml
     main/Be/Svechnikov.yml
   updated data
     main/MoS2/Jung.yml: references
