@@ -118,6 +118,9 @@
         - PAGE: Bideau-Mehu
           name: "Bideau-Mehu et al. 1981: n 0.140-0.568 µm"
           data: "main/Ar/Bideau-Mehu.yml"
+        - PAGE: Borzsonyi
+          name: "Börzsönyi et al. 2008: n 0.4-1.0 µm"
+          data: "main/Ar/Borzsonyi.yml"
         - PAGE: Peck-0C
           name: "Peck and Fisher 1964: n 0.47-2.06 µm; 0 °C"
           data: "main/Ar/Peck-0C.yml"
@@ -1188,15 +1191,21 @@
       name: "He (Helium)"
       info: "main/He.html"
       content:
-        - PAGE: Cuthbertson
-          name: "Cuthbertson and Cuthbertson 1936: n 0.275-0.546 µm"
-          data: "main/He/Cuthbertson.yml"
+        - PAGE: Borzsonyi
+          name: "Börzsönyi et al. 2008: n 0.4-1.0 µm"
+          data: "main/He/Borzsonyi.yml"
+        - PAGE: Ermolov
+          name: "Ermolov et al. 2015: n 0.09-1.00 µm"
+          data: "main/He/Ermolov.yml"
         - PAGE: Smith
           name: "Smith et al. 1976: n 0.168-0.288 µm"
           data: "main/He/Smith.yml"
         - PAGE: Mansfield
           name: "Mansfield and Peck 1969: n 0.480-2.06 µm"
           data: "main/He/Mansfield.yml"
+        - PAGE: Cuthbertson
+          name: "Cuthbertson and Cuthbertson 1936: n 0.275-0.546 µm"
+          data: "main/He/Cuthbertson.yml"
     - DIVIDER: "Hf - Hafnium"
     - BOOK: Hf
       name: "Hf (Hafnium)"
@@ -1349,6 +1358,9 @@
         - PAGE: Bideau-Mehu
           name: "Bideau-Mehu et al. 1981: n 0.140-0.623 µm"
           data: "main/Kr/Bideau-Mehu.yml"
+        - PAGE: Borzsonyi
+          name: "Börzsönyi et al. 2008: n 0.4-1.0 µm"
+          data: "main/Kr/Borzsonyi.yml"
         - PAGE: Smith
           name: "Smith et al. 1976: n 0.164-0.298 µm"
           data: "main/Kr/Smith.yml"
@@ -1509,6 +1521,9 @@
         - PAGE: Peck-15C
           name: "Peck and Khanna 1966: n 0.47-2.06 µm; 15 °C"
           data: "main/N2/Peck-15C.yml"
+        - PAGE: Borzsonyi
+          name: "Börzsönyi et al. 2008: n 0.4-1.0 µm; 0 °C"
+          data: "main/N2/Borzsonyi.yml"
         - PAGE: Griesmann
           name: "Griesmann and Burnett 1999: n 0.145-0.270 µm; 0 °C"
           data: "main/N2/Griesmann.yml"
@@ -1652,6 +1667,9 @@
         - PAGE: Bideau-Mehu
           name: "Bideau-Mehu et al. 1981: n 0.140-0.546 µm"
           data: "main/Ne/Bideau-Mehu.yml"
+        - PAGE: Borzsonyi
+          name: "Börzsönyi et al. 2008: n 0.4-1.0 µm"
+          data: "main/Ne/Borzsonyi.yml"
         - PAGE: Cuthbertson
           name: "Cuthbertson and Cuthbertson 1936: n 0.289-0.546 µm"
           data: "main/Ne/Cuthbertson.yml"
@@ -3217,6 +3235,9 @@
         - PAGE: Bideau-Mehu
           name: "Bideau-Mehu et al. 1981: n 0.140-0.623 µm"
           data: "main/Xe/Bideau-Mehu.yml"
+        - PAGE: Borzsonyi
+          name: "Börzsönyi et al. 2008: n 0.4-1.0 µm"
+          data: "main/Xe/Borzsonyi.yml"
         - PAGE: Koch
           name: "Koch 1949: n 0.230-0.623 µm"
           data: "main/Xe/Koch.yml"
@@ -9874,6 +9895,9 @@
         - PAGE: Ciddor
           name: "Ciddor 1996: n 0.23-1.690 µm"
           data: "other/mixed gases/air/Ciddor.yml"
+        - PAGE: Borzsonyi
+          name: "Börzsönyi et al. 2008: n 0.4-1.0 µm"
+          data: "other/mixed gases/air/Borzsonyi.yml"
         - PAGE: Mathar-1.3
           name: "Mathar 2007: n 1.3-2.5 µm"
           data: "other/mixed gases/air/Mathar-1.3.yml"

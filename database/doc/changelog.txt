@@ -1,5 +1,14 @@
 ﻿============================== next release ==============================
   
+  new data (thanks to Christian Brahms, Heriot-Watt University, Edinburgh, UK, for submitting data in YAML format!)
+    other/mixed gases/air/Borzsonyi.yml
+    main/He/Ermolov.yml
+    main/Ar/Borzsonyi.yml"
+    main/He/Borzsonyi.yml
+    main/Kr/Borzsonyi.yml
+    main/N2/Borzsonyi.yml
+    main/Ne/Borzsonyi.yml
+    main/Xe/Borzsonyi.yml
   new data (thanks to Junho Choi, University of Texas at Austin, USA, for submitting data in YAML format!)
     main/Ag/Choi.yml
     main/Al/Cheng.yml
