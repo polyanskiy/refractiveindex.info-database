@@ -3659,7 +3659,14 @@
           data: "organic/C7H8 - toluene/Moutzouris.yml"
         - PAGE: Kozma
           name: "Kozma et al. 2005: n 0.300-0.641 µm"
-          data: "organic/C7H8 - toluene/Kozma.yml"
+          data: "organic/C7H8 - toluene/Kozma.yml"     
+    - BOOK: trichlorobenzene
+      name: "C<sub>6</sub>H<sub>3</sub>Cl<sub>3</sub> (Trichlorobenzene, TCB)"
+      info: "organic/trichlorobenzene.html"
+      content:
+        - PAGE: Myers
+          name: "Myers et al. 2018: 1,2,4-TCB; n,k 1.28-25.0 µm"
+          data: "organic/C6H3Cl3 - trichlorobenzene/Myers.yml"
     - BOOK: nitrobenzene
       name: "C<sub>6</sub>H<sub>5</sub>NO<sub>2</sub> (Nitrobenzene)"
       info: "organic/nitrobenzene.html"

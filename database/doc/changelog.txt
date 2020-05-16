@@ -1,6 +1,7 @@
 ﻿============================== next release ==============================
   
   new data (thanks to Raj Gupta, Volant Technologies, USA, for suggesting data!)
+    organic/C6H3Cl3 - trichlorobenzene/Myers.yml
     organic/C2H3N - acetonitrile/Myers.yml
     organic/C6H6 - benzene/Myers.yml
     organic/C2H6O - ethanol/Myers.yml
@@ -8,7 +9,7 @@
   new data (thanks to Christian Brahms, Heriot-Watt University, Edinburgh, UK, for submitting data in YAML format!)
     other/mixed gases/air/Borzsonyi.yml
     main/He/Ermolov.yml
-    main/Ar/Borzsonyi.yml"
+    main/Ar/Borzsonyi.yml
     main/He/Borzsonyi.yml
     main/Kr/Borzsonyi.yml
     main/N2/Borzsonyi.yml
