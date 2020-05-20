@@ -1,6 +1,7 @@
 ﻿============================== next release ==============================
   
   new data (thanks to Raj Gupta, Volant Technologies, USA, for suggesting data!)
+    organic/C4H8OS - oxathiane/Myers.yml
     organic/C6H3Cl3 - trichlorobenzene/Myers.yml
     organic/C2H3N - acetonitrile/Myers.yml
     organic/C6H6 - benzene/Myers.yml

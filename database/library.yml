@@ -3659,7 +3659,7 @@
           data: "organic/C7H8 - toluene/Moutzouris.yml"
         - PAGE: Kozma
           name: "Kozma et al. 2005: n 0.300-0.641 µm"
-          data: "organic/C7H8 - toluene/Kozma.yml"     
+          data: "organic/C7H8 - toluene/Kozma.yml"
     - BOOK: trichlorobenzene
       name: "C<sub>6</sub>H<sub>3</sub>Cl<sub>3</sub> (Trichlorobenzene, TCB)"
       info: "organic/trichlorobenzene.html"
@@ -3682,6 +3682,13 @@
         - PAGE: Moutzouris
           name: "Moutzouris et al. 2013: n 0.450-1.55 µm"
           data: "organic/C4H8O2 - dioxane/Moutzouris.yml"
+    - BOOK: oxathiane
+      name: "C<sub>4</sub>H<sub>8</sub>OS (Oxathiane)"
+      info: "organic/oxathiane.html"
+      content:
+        - PAGE: Myers
+          name: "Myers et al. 2018: 1,4-Oxathiane; n,k 1.28-25.0 µm"
+          data: "organic/C4H8OS - oxathiane/Myers.yml"
     - DIVIDER: "Carboxylic acids"
     - BOOK: acetic_acid
       name: "C<sub>2</sub>H<sub>4</sub>O<sub>2</sub> (Acetic acid)"
