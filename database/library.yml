@@ -3762,6 +3762,14 @@
         - PAGE: Moutzouris
           name: "Moutzouris et al. 2013: n 0.450-1.55 µm"
           data: "organic/C2H3N - acetonitrile/Moutzouris.yml"
+    - DIVIDER: "Amines"
+    - BOOK: diisopropylaminoethanol
+      name: "C<sub>8</sub>H<sub>19</sub>NO (Diisopropylaminoethanol, DIPA)"
+      info: "organic/diisopropylaminoethanol.html"
+      content:
+        - PAGE: Myers
+          name: "Myers et al. 2018: n,k 1.28-25.0 µm"
+          data: "organic/C8H19NO - diisopropylaminoethanol/Myers.yml"
     - DIVIDER: "Other non-polymer compounds"
     - BOOK: urea
       name: "CH<sub>4</sub>N<sub>2</sub>O (Urea)"
