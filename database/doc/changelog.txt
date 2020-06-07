@@ -1,5 +1,17 @@
 ﻿============================== next release ==============================
   
+  new data (thanks to Xiaoning Zhang, Harbin Institute of Technolog, China, for submitting data!)
+    organic/(C16H14O3)n - polycarbonate/Zhang.yml
+    organic/(C8H8)n - polystyren/Zhang.yml
+	organic/(C2H4)n - polyethylene/Zhang.yml
+	organic/(C5H8O2)n - poly(methyl methacrylate)/Zhang-Tomson.yml
+	organic/(C5H8O2)n - poly(methyl methacrylate)/Zhang-Mitsubishi.yml
+	organic/(C2H6OSi)n - polydimethylsiloxane/Zhang-5-1.yml
+	organic/(C2H6OSi)n - polydimethylsiloxane/Zhang-10-1.yml
+	organic/(C2H6OSi)n - polydimethylsiloxane/Zhang-15-1.yml
+	organic/(C2H6OSi)n - polydimethylsiloxane/Zhang-20-1.yml
+	organic/(C2H3Cl)n - polyvinyl chloride/Zhang.yml
+	organic/(C37H24O6N2)n - polyetherimide/Zhang.yml
   new data (thanks to Raj Gupta, Volant Technologies, USA, for suggesting data!)
     organic/C8H19NO - diisopropylaminoethanol/Myers.yml
     organic/C4H8OS - oxathiane/Myers.yml
