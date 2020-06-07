@@ -3435,6 +3435,9 @@
         - PAGE: Kerl-333K
           name: "Kerl and Varchmin 1995: n-Octane; 333 K; n 0.326-0.644 µm"
           data: "organic/C8H18 - octane/Kerl-333K.yml"
+        - PAGE: Myers
+          name: "Myers et al. 2018: n-Octane; n,k 1.28-25.0 µm"
+          data: "organic/C8H18 - octane/Myers.yml"
         - PAGE: Anderson
           name: "Anderson 2000: iso-Octane; n,k 2-23 µm"
           data: "organic/C8H18 - octane/Anderson.yml"
@@ -3462,6 +3465,9 @@
         - PAGE: El-Kashef
           name: "El-Kashef 2000: n 0.4-0.8 µm"
           data: "organic/CH4O - methanol/El-Kashef.yml"
+        - PAGE: Myers
+          name: "Myers et al. 2018: n,k 1.28-25.0 µm"
+          data: "organic/CH4O - methanol/Myers.yml"
         - PAGE: Moutzouris
           name: "Moutzouris et al. 2013: n 0.450-1.55 µm"
           data: "organic/CH4O - methanol/Moutzouris.yml"
@@ -3497,6 +3503,9 @@
         - PAGE: Kozma
           name: "Kozma et al. 2005: iso-propanol; n 0.230-0.641 µm"
           data: "organic/C3H8O - propanol/Kozma.yml"
+        - PAGE: Myers
+          name: "Myers et al. 2018: iso-propanol; n,k 1.28-25.0 µm"
+          data: "organic/C3H8O - propanol/Myers.yml"
         - PAGE: Sani
           name: "Sani and Dell'Oro 2016: iso-propanol; n,k 0.185-61 µm"
           data: "organic/C3H8O - propanol/Sani.yml"
@@ -3647,6 +3656,9 @@
         - PAGE: Sultanova
           name: "Sultanova et al. 2009: n 0.437-1.05 µm"
           data: "organic/C8H8 - styrene/Sultanova.yml"
+        - PAGE: Myers
+          name: "Myers et al. 2018: n,k 1.28-25.0 µm"
+          data: "organic/C8H8 - styrene/Myers.yml"
     - BOOK: toluene
       name: "C<sub>7</sub>H<sub>8</sub> (Toluene)"
       info: "organic/toluene.html"
@@ -3654,6 +3666,9 @@
         - PAGE: Kedenburg
           name: "Kedenburg et al. 2012: n 0.5-1.6 µm, k 0.5-1.75 µm"
           data: "organic/C7H8 - toluene/Kedenburg.yml"
+        - PAGE: Myers
+          name: "Myers et al. 2018: n,k 1.28-25.0 µm"
+          data: "organic/C7H8 - toluene/Myers.yml"
         - PAGE: Moutzouris
           name: "Moutzouris et al. 2013: n 0.450-1.55 µm"
           data: "organic/C7H8 - toluene/Moutzouris.yml"
@@ -3674,6 +3689,9 @@
         - PAGE: Kedenburg
           name: "Kedenburg et al. 2012: n 0.5-1.6 µm"
           data: "organic/C6H5NO2 - nitrobenzene/Kedenburg.yml"
+        - PAGE: Myers
+          name: "Myers et al. 2018: n,k 1.28-25.0 µm"
+          data: "organic/C6H5NO2 - nitrobenzene/Myers.yml"
     - DIVIDER: "Heterocyclic compounds"
     - BOOK: dioxane
       name: "C<sub>4</sub>H<sub>8</sub>O<sub>2</sub> (Dioxane)"
@@ -3853,9 +3871,6 @@
         - PAGE: Smith
           name: "Smith and Loewenstein 1975: HDPE; n,k 40.0-200 µm"
           data: "organic/(C2H4)n - polyethylene/Smith.yml"
-        - PAGE: Zhang
-          name: "Zhang et al. 2020: n,k 0.4-2.0 µm"
-          data: "organic/(C2H4)n - polyethylene/Zhang.yml"
     - BOOK: polyvinyl_alcohol
       name: "(C<sub>2</sub>H<sub>4</sub>O)<sub>n</sub> (Polyvinyl alcohol, PVA)"
       info: "organic/polyvinyl alcohol.html"
@@ -3983,6 +3998,9 @@
         - PAGE: Zhang
           name: "Zhang et al. 2020: n,k 0.4-2.0 µm"
           data: "organic/(C8H8)n - polystyren/Zhang.yml"
+        - PAGE: Myers
+          name: "Myers et al. 2018: n,k 1.28-25.0 µm"
+          data: "organic/(C8H8)n - polystyren/Myers.yml"
     - BOOK: polyethylene_terephthalate
       name: "(C<sub>10</sub>H<sub>8</sub>O<sub>4</sub>)<sub>n</sub> (Polyethylene terephthalate, PET)"
       info: "organic/polyethylene terephthalate.html"

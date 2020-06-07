@@ -13,6 +13,13 @@
     organic/(C2H3Cl)n - polyvinyl chloride/Zhang.yml
     organic/(C37H24O6N2)n - polyetherimide/Zhang.yml
   new data (thanks to Raj Gupta, Volant Technologies, USA, for suggesting data!)
+    organic/C7H8 - toluene/Myers.yml
+    organic/C8H8 - styrene/Myers.yml
+    organic/(C8H8)n - polystyren/Myers.yml
+    organic/C6H5NO2 - nitrobenzene/Myers.yml
+    organic/C8H18 - octane/Myers.yml
+    organic/C3H8O - propanol/Myers.yml
+    organic/CH4O - methanol/Myers.yml
     organic/C8H19NO - diisopropylaminoethanol/Myers.yml
     organic/C4H8OS - oxathiane/Myers.yml
     organic/C6H3Cl3 - trichlorobenzene/Myers.yml
