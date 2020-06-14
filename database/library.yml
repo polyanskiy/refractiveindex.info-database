@@ -3862,7 +3862,7 @@
       info: "organic/polyvinyl chloride.html"
       content:
         - PAGE: Zhang
-          name: "Zhang et al. 2020: n,k 0.4-2.0 µm"
+          name: "Zhang et al. 2020: n,k 0.4-20 µm"
           data: "organic/(C2H3Cl)n - polyvinyl chloride/Zhang.yml"
     - BOOK: polyethylene
       name: "(C<sub>2</sub>H<sub>4</sub>)<sub>n</sub> (Polyethylene, PE, HDPE)"
@@ -3892,16 +3892,16 @@
           name: "Schneider et al. 2009: Sylgard 184; n 0.35-0.70 µm"
           data: "organic/(C2H6OSi)n - polydimethylsiloxane/Schneider-Sylgard184.yml"
         - PAGE: Zhang-5-1
-          name: "Zhang et al. 2020: 5:1; n,k 0.4-2.0 µm"
+          name: "Zhang et al. 2020: 5:1; n,k 0.4-20 µm"
           data: "organic/(C2H6OSi)n - polydimethylsiloxane/Zhang-5-1.yml"
         - PAGE: Zhang-10-1
-          name: "Zhang et al. 2020: 10:1; n,k 0.4-2.0 µm"
+          name: "Zhang et al. 2020: 10:1; n,k 0.4-20 µm"
           data: "organic/(C2H6OSi)n - polydimethylsiloxane/Zhang-10-1.yml"
         - PAGE: Zhang-15-1
-          name: "Zhang et al. 2020: 15:1; n,k 0.4-2.0 µm"
+          name: "Zhang et al. 2020: 15:1; n,k 0.4-20 µm"
           data: "organic/(C2H6OSi)n - polydimethylsiloxane/Zhang-15-1.yml"
         - PAGE: Zhang-20-1
-          name: "Zhang et al. 2020: 20:1; n,k 0.4-2.0 µm"
+          name: "Zhang et al. 2020: 20:1; n,k 0.4-20 µm"
           data: "organic/(C2H6OSi)n - polydimethylsiloxane/Zhang-20-1.yml"
         - PAGE: Gupta
           name: "Gupta et al. 2019: n 0.30-1.69 µm"
@@ -3937,10 +3937,10 @@
           name: "Sultanova et al. 2009: n 0.437-1.052 µm"
           data: "organic/(C5H8O2)n - poly(methyl methacrylate)/Sultanova.yml"
         - PAGE: Zhang-Tomson
-          name: "Zhang et al. 2020: Tomson; n,k 0.4-2.0 µm"
+          name: "Zhang et al. 2020: Tomson; n,k 0.4-20 µm"
           data: "organic/(C5H8O2)n - poly(methyl methacrylate)/Zhang-Tomson.yml"
         - PAGE: Zhang-Mitsubishi
-          name: "Zhang et al. 2020: Mitsubishi; n,k 0.4-2.0 µm"
+          name: "Zhang et al. 2020: Mitsubishi; n,k 0.4-20 µm"
           data: "organic/(C5H8O2)n - poly(methyl methacrylate)/Zhang-Mitsubishi.yml"
         - PAGE: Tsuda
           name: "Tsuda et al. 2018: n 0.6-1.0 µm"
@@ -3996,7 +3996,7 @@
           name: "Sultanova et al. 2009: n 0.437-1.05 µm"
           data: "organic/(C8H8)n - polystyren/Sultanova.yml"
         - PAGE: Zhang
-          name: "Zhang et al. 2020: n,k 0.4-2.0 µm"
+          name: "Zhang et al. 2020: n,k 0.4-20 µm"
           data: "organic/(C8H8)n - polystyren/Zhang.yml"
         - PAGE: Myers
           name: "Myers et al. 2018: n,k 1.28-25.0 µm"
@@ -4006,7 +4006,7 @@
       info: "organic/polyethylene terephthalate.html"
       content:
         - PAGE: Zhang
-          name: "Zhang et al. 2020: n,k 0.4-2.0 µm"
+          name: "Zhang et al. 2020: n,k 0.4-20 µm"
           data: "organic/(C10H8O4)n - polyethylene terephthalate/Zhang.yml"
     - BOOK: polycarbonate
       name: "(C<sub>16</sub>H<sub>14</sub>O<sub>3</sub>)<sub>n</sub> (Polycarbonate, PC)"
@@ -4016,14 +4016,14 @@
           name: "Sultanova et al. 2009: n 0.437-1.05 µm"
           data: "organic/(C16H14O3)n - polycarbonate/Sultanova.yml"
         - PAGE: Zhang
-          name: "Zhang et al. 2020: n,k 0.4-2.0 µm"
+          name: "Zhang et al. 2020: n,k 0.4-20 µm"
           data: "organic/(C16H14O3)n - polycarbonate/Zhang.yml"
     - BOOK: polyetherimide
       name: "(C<sub>37</sub>H<sub>24</sub>O<sub>6</sub>N<sub>2</sub>)<sub>n</sub> (Polyetherimide, PEI)"
       info: "organic/polyetherimide.html"
       content:
         - PAGE: Zhang
-          name: "Zhang et al. 2020: n,k 0.4-2.0 µm"
+          name: "Zhang et al. 2020: n,k 0.4-20 µm"
           data: "organic/(C37H24O6N2)n - polyetherimide/Zhang.yml"
 - SHELF: glass
   name: "GLASS - glasses"
