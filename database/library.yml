@@ -2510,6 +2510,9 @@
         - PAGE: Beal
           name: "Beal and Huges 1979: bulk; n,k 0.081–1.24 µm"
           data: "main/MoS2/Beal.yml"
+        - PAGE: Ermolaev-bulk
+          name: "Ermolaev et al. 2020: bulk; n,k 0.290-3.30 µm"
+          data: "main/MoS2/Ermolaev-bulk.yml"
         - DIVIDER: "Thin film"
         - PAGE: Yim-2nm
           name: "Yim et al. 2014: 2-nm film; n,k 0.38-0.90 µm"
@@ -2522,13 +2525,13 @@
           data: "main/MoS2/Yim-20nm.yml"
         - DIVIDER: "2D structures"
         - PAGE: Zhang
-          name: "Zhang et al. 2015: monolayer film; n,k 0.40-0.75 µm"
+          name: "Zhang et al. 2015: monolayer (1L) film; n,k 0.40-0.75 µm"
           data: "main/MoS2/Zhang.yml"
-        - PAGE: Ermolaev
-          name: "Ermolaev et al. 2020: monolayer film; n,k 0.365-1.70 µm"
-          data: "main/MoS2/Ermolaev.yml"
+        - PAGE: Ermolaev-1L
+          name: "Ermolaev et al. 2020: monolayer (1L) film; n,k 0.290-3.30 µm"
+          data: "main/MoS2/Ermolaev-1L.yml"
         - PAGE: Jung
-          name: "Jung et al. 2019: monolayer film; n,k 0.38-0.89 µm"
+          name: "Jung et al. 2019: monolayer (1L) film; n,k 0.38-0.89 µm"
           data: "main/MoS2/Jung.yml"
         - PAGE: Hsu-1L
           name: "Hsu et al. 2019: monolayer (1L) film; n,k 0.40-0.86 µm"
