@@ -1824,7 +1824,7 @@
         - DIVIDER: "Liquid water, H2O"
         - PAGE: Hale
           name: "Hale and Querry 1973: Water; n,k 0.2-200 µm; 25 °C"
-          data: "main/H2O/Hale.yml"
+          data: "main/H2O/Hale.yml"          
         - PAGE: Wang
           name: "Wang et al. 2017: Water; k 1.2-1.9 µm; 22 °C"
           data: "main/H2O/Wang.yml"
@@ -1880,6 +1880,19 @@
         - PAGE: Kofman-150K
           name: "Kofman et al. 2019: Crystalline ice; n 0.210-0.757 µm; 150 K"
           data: "main/H2O/Kofman-150K.yml"
+        - DIVIDER: "Supercooled liquid water"
+        - PAGE: Rowe-240K
+          name: "Rowe et al. 2020: Water; n,k 0.667-10400 µm; -33 °C"
+          data: "main/H2O/Rowe-240K.yml"
+        - PAGE: Rowe-253K
+          name: "Rowe et al. 2020: Water; n,k 0.667-10400 µm; -20 °C"
+          data: "main/H2O/Rowe-253K.yml"
+        - PAGE: Rowe-263K
+          name: "Rowe et al. 2020: Water; n,k 0.667-10400 µm; -10 °C"
+          data: "main/H2O/Rowe-263K.yml"
+        - PAGE: Rowe-273K
+          name: "Rowe et al. 2020: Water; n,k 0.667-10400 µm; 0 °C"
+          data: "main/H2O/Rowe-273K.yml"
         - DIVIDER: "Heavy water, D2O"
         - PAGE: Kedenburg-D2O
           name: "Kedenburg et al. 2012: Heavy water; n 0.5-1.6 µm, k 0.5-1.75 µm"

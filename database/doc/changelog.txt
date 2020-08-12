@@ -1,5 +1,10 @@
 ﻿============================== next release ==============================
   
+  new data (thanks to Penny Rowe, NorthWest Research Associates, Redmond, WA, USA, for submitting data in YAML format!)
+    main/H2O/Rowe-240K.yml
+    main/H2O/Rowe-253K.yml
+    main/H2O/Rowe-263K.yml
+    main/H2O/Rowe-273K.yml
   new data (thanks to Xiaoning Zhang, Harbin Institute of Technolog, China, for submitting data!)
     organic/(C16H14O3)n - polycarbonate/Zhang.yml
     organic/(C8H8)n - polystyren/Zhang.yml
