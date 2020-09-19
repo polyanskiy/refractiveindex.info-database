@@ -1,5 +1,16 @@
 ﻿============================== next release ==============================
   
+  new data (thanks to Mariama Rebello de Sousa Dias, University of Richmond, VA, USA, for submitting numerical data!)
+    other/mixed crystals/ZnO-CdO/Aguilar-10.yml
+    other/mixed crystals/ZnO-CdO/Aguilar-25.yml
+    other/mixed crystals/ZnO-CdO/Aguilar-40.yml
+    other/mixed crystals/ZnO-CdO/Aguilar-50.yml
+    other/mixed crystals/ZnO-CdO/Aguilar-63.yml
+    other/mixed crystals/ZnO-CdO/Aguilar-75.yml
+    other/mixed crystals/ZnO-CdO/Aguilar-90.yml
+    main/ZnO/Aguilar.yml
+  new data (thanks to Vladimir Zenin, University of Southern Denmark)
+    main/HfO2/Al-Kuhaili.yml
   new data (thanks to Penny Rowe, NorthWest Research Associates, Redmond, WA, USA, for submitting data in YAML format!)
     main/H2O/Rowe-240K.yml
     main/H2O/Rowe-253K.yml
@@ -65,7 +76,7 @@
     main/Ar/Grace-solid-20K.yml - dispersion formula
   new data (thanks to Georgy Ermolaev, Moscow Institute of Physics and Technology, Russia, for submitting data in YAML format!)
     main/MoS2/Ermolaev-bulk.yml
-	main/MoS2/Ermolaev-1L.yml
+    main/MoS2/Ermolaev-1L.yml
     main/WS2/Ermolaev.yml
     main/Au/Yakubovsky-4nm.yml
     main/Au/Yakubovsky-6nm.yml
@@ -84,6 +95,7 @@
     main/Au/Yakubovsky-117nm.yml: specs
   miscellaneous
     SPECS entry "film_thickness: monolayer" replaced by "film_thickness: 1L" in multiple files
+    other/mixed crystals/HfO2-Y2O3/Wood.yml removed from MAIN shelf (stays in OTHERER)
   bug fixes
     main/ZnS/Amotchkina.yml: unused text after comments (Thanks to Phillip Manley, Helmholtz-Zentrum Berlin, Germany)
 

@@ -1908,8 +1908,8 @@
       info: "main/HfO2.html"
       content:
         - PAGE: Wood
-          name: "Wood et al. 1990: Cubic hafnia; n 0.361-5.14 µm"
-          data: "other/mixed crystals/HfO2-Y2O3/Wood.yml"
+          name: "Al-Kuhaili 2004: Thin film; n 0.2-2.0 µm"
+          data: "main/HfO2/Al-Kuhaili.yml"
     - BOOK: Lu2O3
       name: "Lu<sub>2</sub>O<sub>3</sub> (Lutetium sesquioxide)"
       info: "main/Lu2O3.html"
@@ -2095,6 +2095,9 @@
         - PAGE: Stelling
           name: "Stelling et al. 2017: n,k 0.302-1.685 µm"
           data: "main/ZnO/Stelling.yml"
+        - PAGE: Aguilar
+          name: "Aguilar et al. 2019: n,k 0.3-3.2 µm"
+          data: "main/ZnO/Aguilar.yml"
         - DIVIDER: "Pellet"
         - PAGE: Querry
           name: "Querry 1985: n,k 0.21-55.6 µm"
@@ -10316,6 +10319,34 @@
         - PAGE: Rodney
           name: "Rodney and Malitson 1956: n 0.577-39.38 µm"
           data: "other/mixed crystals/TlBr-TlI/Rodney.yml"
+    - BOOK: ZnO-CdO
+      name: "ZnO-CdO (Zinc cadmium oxide, ZnCdO)"
+      info: "other/ZnO-CdO.html"
+      content:
+        - PAGE: Aguilar-10
+          name: "Aguilar et al. 2019: n,k 0.3-3.2 µm; 10% ZnO"
+          data: "other/mixed crystals/ZnO-CdO/Aguilar-10.yml"
+        - PAGE: Aguilar-25
+          name: "Aguilar et al. 2019: n,k 0.3-3.2 µm; 25% ZnO"
+          data: "other/mixed crystals/ZnO-CdO/Aguilar-25.yml"
+        - PAGE: Aguilar-40
+          name: "Aguilar et al. 2019: n,k 0.3-3.2 µm; 40% ZnO"
+          data: "other/mixed crystals/ZnO-CdO/Aguilar-40.yml"
+        - PAGE: Aguilar-50
+          name: "Aguilar et al. 2019: n,k 0.3-3.2 µm; 50% ZnO"
+          data: "other/mixed crystals/ZnO-CdO/Aguilar-50.yml"
+        - PAGE: Aguilar-63
+          name: "Aguilar et al. 2019: n,k 0.3-3.2 µm; 63% ZnO"
+          data: "other/mixed crystals/ZnO-CdO/Aguilar-63.yml"
+        - PAGE: Aguilar-75
+          name: "Aguilar et al. 2019: n,k 0.3-3.2 µm; 75% ZnO"
+          data: "other/mixed crystals/ZnO-CdO/Aguilar-75.yml"
+        - PAGE: Aguilar-90
+          name: "Aguilar et al. 2019: n,k 0.3-3.2 µm; 90% ZnO"
+          data: "other/mixed crystals/ZnO-CdO/Aguilar-90.yml"
+        - PAGE: Aguilar-100
+          name: "Aguilar et al. 2019: n,k 0.3-3.2 µm; 100% ZnO"
+          data: "main/ZnO/Aguilar.yml"
     - BOOK: ZrO2-Y2O3
       name: "ZrO<sub>2</sub>-Y<sub>2</sub>O<sub>3</sub> (Yttria-stabilized zirconia, YSZ)"
       info: "other/ZrO2-Y2O3.html"
