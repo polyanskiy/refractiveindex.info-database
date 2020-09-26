@@ -1910,7 +1910,7 @@
       name: "HfO<sub>2</sub> (Hafnium dioxide, Hafnia)"
       info: "main/HfO2.html"
       content:
-        - PAGE: Wood
+        - PAGE: Al-Kuhaili
           name: "Al-Kuhaili 2004: Thin film; n 0.2-2.0 µm"
           data: "main/HfO2/Al-Kuhaili.yml"
     - BOOK: Lu2O3
