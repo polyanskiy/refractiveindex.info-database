@@ -10,6 +10,7 @@
     other/mixed crystals/ZnO-CdO/Aguilar-90.yml
     main/ZnO/Aguilar.yml
   new data (thanks to Vladimir Zenin, University of Southern Denmark)
+    main/Ag/Jiang.yml
     main/HfO2/Al-Kuhaili.yml
   new data (thanks to Penny Rowe, NorthWest Research Associates, Redmond, WA, USA, for submitting data in YAML format!)
     main/H2O/Rowe-240K.yml
