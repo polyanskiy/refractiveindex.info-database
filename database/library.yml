@@ -2461,6 +2461,9 @@
         - PAGE: Kedenburg
           name: "Kedenburg et al. 2012: n 0.5-1.6 µm"
           data: "main/CS2/Kedenburg.yml"
+        - PAGE: Chemnitz
+          name: "Chemnitz et al. 2017: n 0.3-12 µm"
+          data: "main/CS2/Chemnitz.yml"
         - PAGE: Ghosal
           name: "Ghosal et al. 1993: n 7.3-11 µm"
           data: "main/CS2/Ghosal.yml"

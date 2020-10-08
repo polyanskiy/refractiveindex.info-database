@@ -1,5 +1,7 @@
 ﻿============================== next release ==============================
   
+  new data (thanks to S EGYL!)
+    main/CS2/Chemnitz.yml
   new data (thanks to Mariama Rebello de Sousa Dias, University of Richmond, VA, USA, for submitting numerical data!)
     other/mixed crystals/ZnO-CdO/Aguilar-10.yml
     other/mixed crystals/ZnO-CdO/Aguilar-25.yml
