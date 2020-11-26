@@ -1,5 +1,8 @@
 ﻿============================== next release ==============================
   
+  new data (thanks to Zheru Qiu, École Polytechnique Fédérale de Lausanne, Switzerland, for suggesting data!)
+    main/Nb/Weaver.yml
+    main/W/Weaver.yml
   new data (thanks to S EGYL!)
     main/CS2/Chemnitz.yml
   new data (thanks to Mariama Rebello de Sousa Dias, University of Richmond, VA, USA, for submitting numerical data!)

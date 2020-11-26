@@ -1630,6 +1630,9 @@
         - PAGE: Windt
           name: "Windt et al. 1988: n,k 0.0024-0.122 µm"
           data: "main/Nb/Windt.yml"
+        - PAGE: Weaver
+          name: "Weaver et al. 1973: n,k 0.0258-0.862 µm"
+          data: "main/Nb/Weaver.yml"
         - PAGE: Golovashkin-293K
           name: "Golovashkin et al. 1969: n,k 0.40-10 µm; 293 K"
           data: "main/Nb/Golovashkin-293K.yml"
@@ -3231,6 +3234,9 @@
         - PAGE: Windt
           name: "Windt et al. 1988: n,k 0.0024-0.122 µm"
           data: "main/W/Windt.yml"
+        - PAGE: Weaver
+          name: "Weaver et al. 1975: n,k 0.0443-4.11 µm"
+          data: "main/W/Weaver.yml"
         - DIVIDER: "Models and simulations"
         - PAGE: Rakic-BB
           name: "Rakić et al. 1998: Brendel-Bormann model; n,k 0.248-12.4 µm"
