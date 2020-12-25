@@ -523,7 +523,7 @@
           data: "main/TlBr/Schroter.yml"
     - DIVIDER: "C - Carbon, carbides and carbonates"
     - BOOK: C
-      name: "C (Carbon, diamond, graphite, graphene)"
+      name: "C (Carbon, diamond, graphite, graphene, carbon nanotubes)"
       info: "main/C.html"
       content:
         - DIVIDER: "Diamond"
@@ -580,6 +580,13 @@
         - PAGE: Weber
           name: "Weber et al. 2010: Graphene; n,k 0.21-1.0 µm"
           data: "main/C/Weber.yml"
+        - DIVIDER: "Carbon nanotubes"
+        - PAGE: Song-Arc
+          name: "Song et al. 2020: Carbon nanotubes film, Arc grown; n,k 0.370-1.69 µm"
+          data: "main/C/Song-Arc.yml"
+        - PAGE: Song-HiPco
+          name: "Song et al. 2020: Carbon nanotubes film, HiPco grown; n,k 0.370-1.69 µm"
+          data: "main/C/Song-HiPco.yml"
     - BOOK: B4C
       name: "B<sub>4</sub>C (Boron carbide)"
       info: "main/B4C.html"
