@@ -1,6 +1,15 @@
 ﻿============================== next release ==============================
   
   new data (thanks to Baokun Song, University of Pennsylvania, USA!)
+    other/perovskite/2D HOIP/Song-RP1.yml
+    other/perovskite/2D HOIP/Song-RP2.yml
+    other/perovskite/2D HOIP/Song-RP3.yml
+    other/perovskite/2D HOIP/Song-RP4.yml
+    other/perovskite/2D HOIP/Song-RP5.yml
+    other/perovskite/2D HOIP/Song-DJ1.yml
+    other/perovskite/2D HOIP/Song-DJ2.yml
+    other/perovskite/2D HOIP/Song-DJ3.yml
+    other/perovskite/2D HOIP/Song-DJ4.yml
     main/C/Song-HiPco.yml
     main/C/Song-HiPco.yml
   new data (thanks to Zheru Qiu, École Polytechnique Fédérale de Lausanne, Switzerland, for suggesting data!)
