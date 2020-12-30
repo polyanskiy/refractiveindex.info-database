@@ -10300,6 +10300,11 @@
       name: "AuAl<sub>2</sub> (Gold-aluminium intermetallic, Purple plague)"
       info: "other/AuAl2.html"
       content:
+        - DIVIDER: "Bulk"
+        - PAGE: Chen
+          name: "Chen and Lynch 1988: n,k 0.22-0.79 µm"
+          data: "other/intermetallics/AuAl2/Chen.yml"
+        - DIVIDER: "Thin film"
         - PAGE: Supansomboon
           name: "Supansomboon et al. 2008: n,k 0.300-1.32 µm"
           data: "other/intermetallics/AuAl2/Supansomboon.yml"
