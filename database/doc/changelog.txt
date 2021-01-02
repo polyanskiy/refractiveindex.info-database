@@ -1,6 +1,7 @@
 ﻿============================== next release ==============================
-  
+
   new data (thanks to Leon Avakyan, Southern Federal University, Rostov-on-Don, Russia, for submitting data in YAML format!)
+    other/intermetallics/PtAl2/Chen.yml
     other/intermetallics/AuAl2/Chen.yml
   new data (thanks to Baokun Song, University of Pennsylvania, USA!)
     other/perovskite/2D HOIP/Song-RP1.yml
