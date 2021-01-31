@@ -11,6 +11,11 @@
     other/intermetallics/PtAl2/Chen.yml
     other/intermetallics/AuAl2/Chen.yml
   new data (thanks to Baokun Song, University of Pennsylvania, USA!)
+    main/C/Song.yml
+    main/C/Song-cHOPG-o.yml
+    main/C/Song-cHOPG-e.yml
+    main/C/Song-sHOPG-o.yml
+    main/C/Song-sHOPG-e.yml
     other/perovskite/2D HOIP/Song-RP1.yml
     other/perovskite/2D HOIP/Song-RP2.yml
     other/perovskite/2D HOIP/Song-RP3.yml
@@ -115,6 +120,7 @@
     main/Au/Rosenblatt-44nm.yml
     main/Be/Svechnikov.yml
   updated data
+    main/C/Weber.yml: specs
     main/MoS2/Jung.yml: references
     main/WS2/Jung.yml: references
     main/WSe2/Jung.yml: references

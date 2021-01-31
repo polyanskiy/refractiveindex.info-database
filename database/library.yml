@@ -576,10 +576,26 @@
         - PAGE: Querry-Pyrolytic
           name: "Querry 1985: Pyrolytic carbon; n,k 0.21-55.6 µm"
           data: "main/C/Querry-Pyrolytic.yml"
+        - DIVIDER: "Highly oriented pyrolytic graphite (HOPG)"
+        - PAGE: Song-cHOPG-o
+          name: "Song et al. 2018: c-HOPG; n,k(o) 0.193-1.69 µm"
+          data: "main/C/Song-cHOPG-o.yml"
+        - PAGE: Song-cHOPG-e
+          name: "Song et al. 2018: c-HOPG; n(e) 0.193-1.69 µm"
+          data: "main/C/Song-cHOPG-e.yml"
+        - PAGE: Song-sHOPG-o
+          name: "Song et al. 2018: s-HOPG; n,k(o) 0.193-1.69 µm"
+          data: "main/C/Song-sHOPG-o.yml"
+        - PAGE: Song-cHOPG-e
+          name: "Song et al. 2018: s-HOPG; n(e) 0.193-1.69 µm"
+          data: "main/C/Song-sHOPG-e.yml"
         - DIVIDER: "Graphene"
         - PAGE: Weber
           name: "Weber et al. 2010: Graphene; n,k 0.21-1.0 µm"
           data: "main/C/Weber.yml"
+        - PAGE: Song
+          name: "Song et al. 2018: Graphene; n,k 0.193-1.69 µm"
+          data: "main/C/Song.yml"
         - DIVIDER: "Carbon nanotubes"
         - PAGE: Song-Arc
           name: "Song et al. 2020: Carbon nanotubes film, Arc grown; n,k 0.370-1.69 µm"
