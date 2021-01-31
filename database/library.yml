@@ -10425,6 +10425,29 @@
         - PAGE: Gant
           name: "Gant et al. 2017: n,k 0.444-0.778 µm"
           data: "other/crystalline minerals/franckeite/Gant.yml"
+    - DIVIDER: "Miscellaneous amorphous materials"
+    - BOOK: HAC
+      name: "Hydrogenated amorphous carbon"
+      info: "other/HAC.html"
+      content:
+        - PAGE: Smith-Td250C
+          name: "Smith 1984: As-deposited; n,k 0.261-0.827 µm"
+          data: "other/amorphous/HAC/Smith-Td250C.yml"
+        - PAGE: Smith-Ta350C
+          name: "Smith 1984: Annealed at 350 °; n,k 0.261-0.827 µm"
+          data: "other/amorphous/HAC/Smith-Ta350C.yml"
+        - PAGE: Smith-Ta350C
+          name: "Smith 1984: Annealed at 450 °; n,k 0.261-0.827 µm"
+          data: "other/amorphous/HAC/Smith-Ta450C.yml"
+        - PAGE: Smith-Ta350C
+          name: "Smith 1984: Annealed at 550 °; n,k 0.261-0.827 µm"
+          data: "other/amorphous/HAC/Smith-Ta550C.yml"
+        - PAGE: Smith-Ta350C
+          name: "Smith 1984: Annealed at 650 °; n,k 0.261-0.827 µm"
+          data: "other/amorphous/HAC/Smith-Ta650C.yml"
+        - PAGE: Smith-Ta350C
+          name: "Smith 1984: Annealed at 750 °; n,k 0.261-0.827 µm"
+          data: "other/amorphous/HAC/Smith-Ta750C.yml"
     - DIVIDER: "Mixed organic compounds"
     - BOOK: (C8H8)n-(C3H3N)m
       name: "(C<sub>8</sub>H<sub>8</sub>)<sub>n</sub>-(C<sub>3</sub>H<sub>3</sub>N)<sub>m</sub> (Styrene-acrylonitrile, SAN)"
