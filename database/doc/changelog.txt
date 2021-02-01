@@ -10,7 +10,15 @@
   new data (thanks to Leon Avakyan, Southern Federal University, Rostov-on-Don, Russia, for submitting data in YAML format!)
     other/intermetallics/PtAl2/Chen.yml
     other/intermetallics/AuAl2/Chen.yml
-  new data (thanks to Baokun Song, University of Pennsylvania, USA!)
+  new data (many thanks to Baokun Song, University of Pennsylvania, USA!)
+    main/MoS2/Song-bulk.yml
+    main/MoS2/Song-1L.yml
+    main/MoS2/Song-3L.yml
+    main/MoS2/Song-4L.yml
+    main/MoS2/Song-6L.yml
+    main/MoS2/Song-8L.yml
+    main/MoS2/Song-10L.yml
+    main/MoS2/Song-13L.yml
     main/C/Song.yml
     main/C/Song-cHOPG-o.yml
     main/C/Song-cHOPG-e.yml
