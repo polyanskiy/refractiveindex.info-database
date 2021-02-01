@@ -10476,16 +10476,16 @@
         - PAGE: Smith-Ta350C
           name: "Smith 1984: Annealed at 350 °; n,k 0.261-0.827 µm"
           data: "other/amorphous/HAC/Smith-Ta350C.yml"
-        - PAGE: Smith-Ta350C
+        - PAGE: Smith-Ta450C
           name: "Smith 1984: Annealed at 450 °; n,k 0.261-0.827 µm"
           data: "other/amorphous/HAC/Smith-Ta450C.yml"
-        - PAGE: Smith-Ta350C
+        - PAGE: Smith-Ta550C
           name: "Smith 1984: Annealed at 550 °; n,k 0.261-0.827 µm"
           data: "other/amorphous/HAC/Smith-Ta550C.yml"
-        - PAGE: Smith-Ta350C
+        - PAGE: Smith-Ta650C
           name: "Smith 1984: Annealed at 650 °; n,k 0.261-0.827 µm"
           data: "other/amorphous/HAC/Smith-Ta650C.yml"
-        - PAGE: Smith-Ta350C
+        - PAGE: Smith-Ta750C
           name: "Smith 1984: Annealed at 750 °; n,k 0.261-0.827 µm"
           data: "other/amorphous/HAC/Smith-Ta750C.yml"
     - DIVIDER: "Mixed organic compounds"
