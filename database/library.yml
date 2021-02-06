@@ -2746,6 +2746,26 @@
         - PAGE: Ciesielski
           name: "Ciesielski et al. 2018: 25-nm film; n,k 0.2-2 µm"
           data: "main/Se/Ciesielski.yml"
+    - BOOK: Bi2Se3
+      name: "Bi<sub>2</sub>Se<sub>3</sub> (Bismuth selenide)"
+      info: "main/Bi2Se3.html"
+      content:
+        - DIVIDER: "2D structures"
+        - PAGE: Fang-2L
+          name: "Fang et al. 2020: 2-layer (2L) film; n,k 0.193-1.69 µm"
+          data: "main/Bi2Se3/Fang-2L.yml"
+        - PAGE: Fang-4L
+          name: "Fang et al. 2020: 4-layer (4L) film; n,k 0.193-1.69 µm"
+          data: "main/Bi2Se3/Fang-4L.yml"
+        - PAGE: Fang-6L
+          name: "Fang et al. 2020: 6-layer (6L) film; n,k 0.193-1.69 µm"
+          data: "main/Bi2Se3/Fang-6L.yml"
+        - PAGE: Fang-8L
+          name: "Fang et al. 2020: 8-layer (8L) film; n,k 0.193-1.69 µm"
+          data: "main/Bi2Se3/Fang-8L.yml"
+        - PAGE: Fang-10L
+          name: "Fang et al. 2020: 10-layer (10L) film; n,k 0.193-1.69 µm"
+          data: "main/Bi2Se3/Fang-10L.yml"
     - BOOK: CdSe
       name: "CdSe (Cadmium selenide)"
       info: "main/CdSe.html"
@@ -2815,6 +2835,21 @@
         - PAGE: Jung
           name: "Jung et al. 2019: monolayer film; n,k 0.38-0.89 µm"
           data: "main/WSe2/Jung.yml"
+        - PAGE: Gu-1L
+          name: "Gu et al. 2019: monolayer (1L) film; n,k 0.193-1.69 µm"
+          data: "main/WSe2/Gu-1L.yml"
+        - PAGE: Gu-2L
+          name: "Gu et al. 2019: 2-layer (2L) film; n,k 0.193-1.69 µm"
+          data: "main/WSe2/Gu-2L.yml"
+        - PAGE: Gu-3L
+          name: "Gu et al. 2019: 3-layer (3L) film; n,k 0.193-1.69 µm"
+          data: "main/WSe2/Gu-3L.yml"
+        - PAGE: Gu-4L
+          name: "Gu et al. 2019: 4-layer (4L) film; n,k 0.193-1.69 µm"
+          data: "main/WSe2/Gu-4L.yml"
+        - PAGE: Gu-5L
+          name: "Gu et al. 2019: 5-layer (5L) film; n,k 0.193-1.69 µm"
+          data: "main/WSe2/Gu-5L.yml"
         - PAGE: Hsu-1L
           name: "Hsu et al. 2019: monolayer (1L) film; n,k 0.40-0.85 µm"
           data: "main/WSe2/Hsu-1L.yml"

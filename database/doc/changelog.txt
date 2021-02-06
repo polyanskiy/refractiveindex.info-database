@@ -11,6 +11,16 @@
     other/intermetallics/PtAl2/Chen.yml
     other/intermetallics/AuAl2/Chen.yml
   new data (many thanks to Baokun Song, University of Pennsylvania, USA!)
+    main/Bi2Se3/Fang-2L.yml
+    main/Bi2Se3/Fang-4L.yml
+    main/Bi2Se3/Fang-6L.yml
+    main/Bi2Se3/Fang-8L.yml
+    main/Bi2Se3/Fang-10L.yml
+    main/WSe2/Gu-1L.yml
+    main/WSe2/Gu-2L.yml
+    main/WSe2/Gu-3L.yml
+    main/WSe2/Gu-4L.yml
+    main/WSe2/Gu-5L.yml
     main/MoS2/Song-bulk.yml
     main/MoS2/Song-1L.yml
     main/MoS2/Song-3L.yml
