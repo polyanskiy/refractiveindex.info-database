@@ -10,5 +10,6 @@ DATA:
     coefficients: 0 9154.48e-8 656.97e-6 4018.63e-8 5.728e-3
 SPECS:
     n_absolute: true
+    wavelength_vacuum: true
     temperature: 0 °C
     pressure: 101325 Pa
