@@ -10562,6 +10562,13 @@
         - PAGE: Chen
           name: "Chen et al. 2015; n,k 0.3-1.1 µm"
           data: "other/mixed organic/PEDOT-PSS/Chen.yml"
+    - BOOK: PBDBT-ITIC
+      name: "PBDB-T:ITIC"
+      info: "other/PBDBT-ITIC.html"
+      content:
+        - PAGE: Kerremans
+          name: "Kerremans et al. 2020; n,k 0.37-1.6 µm"
+          data: "other/mixed organic/PBDBT-ITIC/Kerremans.yml"      
     - DIVIDER: "Mixed organic/inorganic compounds"
     - BOOK: Cu-C12H4N4
       name: "Cu:C<sub>12</sub>H<sub>4</sub>N<sub>4</sub> (Copper:tetracyanoquinodimethane, Cu:TCNQ )"
