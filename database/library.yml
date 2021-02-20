@@ -2481,7 +2481,7 @@
       info: "main/As2S3.html"
       content:
         - PAGE: Rodney
-          name: "Rodney et al. 1958: 0.57-11.8 µm"
+          name: "Rodney et al. 1958: n 0.57-11.8 µm"
           data: "main/As2S3/Rodney.yml"
     - BOOK: CS2
       name: "CS<sub>2</sub> (Carbon disulfide)"
@@ -2749,6 +2749,17 @@
         - PAGE: Ciesielski
           name: "Ciesielski et al. 2018: 25-nm film; n,k 0.2-2 µm"
           data: "main/Se/Ciesielski.yml"
+    - BOOK: As2Se3
+      name: "As<sub>2</sub>Se<sub>3</sub> (Arsenic triselenide)"
+      info: "main/As2Se3.html"
+      content:
+        - DIVIDER: "Thin film"
+        - PAGE: Joseph-400nm
+          name: "Joseph et al. 2020: 400-nm film; n,k 0.246-1.69 µm"
+          data: "main/As2Se3/Joseph-400nm.yml"
+        - PAGE: Joseph-700nm
+          name: "Joseph et al. 2020: 700-nm film; n,k 0.246-1.69 µm"
+          data: "main/As2Se3/Joseph-700nm.yml"
     - BOOK: Bi2Se3
       name: "Bi<sub>2</sub>Se<sub>3</sub> (Bismuth selenide)"
       info: "main/Bi2Se3.html"
@@ -10626,6 +10637,13 @@
         - PAGE: Sultanova
           name: "Sultanova et al. 2009: n 0.4368-1.052 µm"
           data: "other/commercial plastics/NAS-21/Sultanova.yml"
+    - BOOK: NOA-61
+      name: "NOA-61"
+      info: "other/NOA-61.html"
+      content:
+        - PAGE: Joseph
+          name: "Joseph et al. 2020: 1000-nm film; n 0.246-1.69 µm"
+          data: "other/commercial plastics/NOA-61/Joseph.yml"
     - BOOK: Optorez1330
       name: "Optorez 1330"
       info: "other/Optorez1330.html"
@@ -10850,6 +10868,9 @@
         - PAGE: microresist_ma-N405_ma-T1050
           name: "Micro resist ma-N 405 and ma-T 1050, 1:1"
           data: "other/resists/Micro resist ma-N 405, ma-T 1050.yml"
+        - PAGE: microresist_ma-N1407
+          name: "Micro resist ma-N 1407"
+          data: "other/resists/Micro resist ma-N 1407.yml"
         - PAGE: Microchem_SU8_2000
           name: "Microchem SU-8 2000"
           data: "other/resists/Microchem SU-8 2000.yml"

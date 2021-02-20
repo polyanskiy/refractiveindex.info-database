@@ -1,5 +1,10 @@
 ﻿============================== next release ==============================
 
+  new data (thanks to Swagato Sarkar, Leibniz-Institut für Polymerforschung Dresden, Germany, for submitting data in YAML format!)
+    main/As2Se3/Joseph-400nm.yml
+    main/As2Se3/Joseph-700nm.yml
+    other/commercial plastics/NOA-61/Joseph.yml
+    other/resists/Micro resist ma-N 1407.yml
   new data (thanks to Rajkumar Rabindra Singh, for submitting data in YAML format!)
     other/mixed organic/PBDBT-ITIC/Kerremans.yml
   new data (thanks to Henning Moldenhauer, Technische Universität Dortmund, Germany, for suggesting data!)
