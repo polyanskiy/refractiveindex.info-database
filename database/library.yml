@@ -2755,7 +2755,7 @@
       content:
         - DIVIDER: "Thin film"
         - PAGE: Joseph-400nm
-          name: "Joseph et al. 2020: 400-nm film; n,k 0.246-1.69 µm"
+          name: "Joseph et al. 2021: 400-nm film; n,k 0.246-1.69 µm"
           data: "main/As2Se3/Joseph-400nm.yml"
         - PAGE: Joseph-700nm
           name: "Joseph et al. 2020: 700-nm film; n,k 0.246-1.69 µm"
