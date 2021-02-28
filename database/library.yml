@@ -205,8 +205,11 @@
       content:
         - DIVIDER: "Experimental data"
         - PAGE: Aspnes
-          name: "Aspnes et al. 1986: n,k 0.21-0.83 µm"
+          name: "Aspnes et al. 1986: n,k 0.207-0.827 µm"
           data: "main/GaAs/Aspnes.yml"
+        - PAGE: Papatryfonos-45.2
+          name: "Papatryfonos et al. 2021: n,k 0.260-1.88 µm"
+          data: "main/GaAs/Papatryfonos.yml"
         - PAGE: Skauli
           name: "Skauli et al. 2003: n 0.97-17 µm"
           data: "main/GaAs/Skauli.yml"
@@ -4018,6 +4021,9 @@
         - PAGE: Schneider-Sylgard184
           name: "Schneider et al. 2009: Sylgard 184; n 0.35-0.70 µm"
           data: "organic/(C2H6OSi)n - polydimethylsiloxane/Schneider-Sylgard184.yml"
+#        - PAGE: Czapla
+#          name: "Czapla and Hanssen 2021: Sylgard 184 10:1; n,k 0.25-100 µm"
+#          data: "organic/(C2H6OSi)n - polydimethylsiloxane/Czapla.yml"
         - PAGE: Zhang-5-1
           name: "Zhang et al. 2020: 5:1; n,k 0.4-20 µm"
           data: "organic/(C2H6OSi)n - polydimethylsiloxane/Zhang-5-1.yml"
@@ -10270,32 +10276,50 @@
       content:
         - DIVIDER: "Experimental data"
         - PAGE: Aspnes-0
-          name: "Aspnes et al. 1986: n,k 0.21-0.83 µm; 0% Al"
+          name: "Aspnes et al. 1986: n,k 0.207-0.827 µm; 0% Al"
           data: "other/semiconductor alloys/AlAs-GaAs/Aspnes-0.yml"
         - PAGE: Aspnes-9.9
-          name: "Aspnes et al. 1986: n,k 0.21-0.83 µm; 9.9% Al"
+          name: "Aspnes et al. 1986: n,k 0.207-0.827 µm; 9.9% Al"
           data: "other/semiconductor alloys/AlAs-GaAs/Aspnes-9.9.yml"
         - PAGE: Aspnes-19.8
-          name: "Aspnes et al. 1986: n,k 0.21-0.83 µm; 19.8% Al"
+          name: "Aspnes et al. 1986: n,k 0.207-0.827 µm; 19.8% Al"
           data: "other/semiconductor alloys/AlAs-GaAs/Aspnes-19.8.yml"
         - PAGE: Aspnes-31.5
-          name: "Aspnes et al. 1986: n,k 0.21-0.83 µm; 31.5% Al"
+          name: "Aspnes et al. 1986: n,k 0.207-0.827 µm; 31.5% Al"
           data: "other/semiconductor alloys/AlAs-GaAs/Aspnes-31.5.yml"
         - PAGE: Aspnes-41.9
-          name: "Aspnes et al. 1986: n,k 0.21-0.83 µm; 41.9% Al"
+          name: "Aspnes et al. 1986: n,k 0.207-0.827 µm; 41.9% Al"
           data: "other/semiconductor alloys/AlAs-GaAs/Aspnes-41.9.yml"
         - PAGE: Aspnes-49.1
-          name: "Aspnes et al. 1986: n,k 0.21-0.83 µm; 49.1% Al"
+          name: "Aspnes et al. 1986: n,k 0.207-0.827 µm; 49.1% Al"
           data: "other/semiconductor alloys/AlAs-GaAs/Aspnes-49.1.yml"
         - PAGE: Aspnes-59.0
-          name: "Aspnes et al. 1986: n,k 0.21-0.83 µm; 59.0% Al"
+          name: "Aspnes et al. 1986: n,k 0.207-0.827 µm; 59.0% Al"
           data: "other/semiconductor alloys/AlAs-GaAs/Aspnes-59.0.yml"
         - PAGE: Aspnes-70.0
-          name: "Aspnes et al. 1986: n,k 0.21-0.83 µm; 70.0% Al"
+          name: "Aspnes et al. 1986: n,k 0.207-0.827 µm; 70.0% Al"
           data: "other/semiconductor alloys/AlAs-GaAs/Aspnes-70.0.yml"
         - PAGE: Aspnes-80.4
-          name: "Aspnes et al. 1986: n,k 0.21-0.83 µm; 80.4% Al"
+          name: "Aspnes et al. 1986: n,k 0.207-0.827 µm; 80.4% Al"
           data: "other/semiconductor alloys/AlAs-GaAs/Aspnes-80.4.yml"
+        - PAGE: Papatryfonos-0
+          name: "Papatryfonos et al. 2021: n,k 0.260-1.88 µm; 0% Al"
+          data: "other/semiconductor alloys/AlAs-GaAs/Papatryfonos-0.yml"
+        - PAGE: Papatryfonos-9.7
+          name: "Papatryfonos et al. 2021: n,k 0.260-1.88 µm; 9.7% Al"
+          data: "other/semiconductor alloys/AlAs-GaAs/Papatryfonos-9.7.yml"
+        - PAGE: Papatryfonos-21.9
+          name: "Papatryfonos et al. 2021: n,k 0.260-1.88 µm; 21.9% Al"
+          data: "other/semiconductor alloys/AlAs-GaAs/Papatryfonos-21.9.yml"
+        - PAGE: Papatryfonos-34.2
+          name: "Papatryfonos et al. 2021: n,k 0.260-1.88 µm; 34.2% Al"
+          data: "other/semiconductor alloys/AlAs-GaAs/Papatryfonos-34.2.yml"
+        - PAGE: Papatryfonos-41.1
+          name: "Papatryfonos et al. 2021: n,k 0.260-1.88 µm; 41.1% Al"
+          data: "other/semiconductor alloys/AlAs-GaAs/Papatryfonos-41.1.yml"
+        - PAGE: Papatryfonos-45.2
+          name: "Papatryfonos et al. 2021: n,k 0.260-1.88 µm; 45.2% Al"
+          data: "other/semiconductor alloys/AlAs-GaAs/Papatryfonos-45.2.yml"
         - DIVIDER: "Models and simulations"
         - PAGE: Adachi-0.315
           name: "Adachi 1989: n,k 0.207-12.4 µm; 31.5% Al"
