@@ -207,7 +207,7 @@
         - PAGE: Aspnes
           name: "Aspnes et al. 1986: n,k 0.207-0.827 µm"
           data: "main/GaAs/Aspnes.yml"
-        - PAGE: Papatryfonos-45.2
+        - PAGE: Papatryfonos
           name: "Papatryfonos et al. 2021: n,k 0.260-1.88 µm"
           data: "main/GaAs/Papatryfonos.yml"
         - PAGE: Skauli
