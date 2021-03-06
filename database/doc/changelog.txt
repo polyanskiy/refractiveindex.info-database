@@ -1,5 +1,7 @@
 ﻿============================== next release ==============================
 
+  new data (thanks to Volodymyr Zenin, University of Southern Denmark, for submitting YAML files!)
+    main/BN/Lee.yml
   new data (thanks to Konstantinos Papatryfonos, University College London, UK, for submitting data!)
     main/GaAs/Papatryfonos.yml
     other/semiconductor alloys/AlAs-GaAs/Papatryfonos-0.yml

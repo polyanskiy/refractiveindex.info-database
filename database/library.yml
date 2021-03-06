@@ -1572,6 +1572,13 @@
         - PAGE: Pastrnak-e
           name: "Pastrňák and Roskovcová 1966: n(e) 0.22-5 µm"
           data: "main/AlN/Pastrnak-e.yml"
+    - BOOK: BN
+      name: "BN (Boron nitride)"
+      info: "main/BN.html"
+      content:
+        - PAGE: Lee
+          name: "Lee et al. 2018: h-BN; n 0.45-1.2 µm"
+          data: "main/BN/Lee.yml"
     - BOOK: GaN
       name: "GaN (Gallium nitride)"
       info: "main/GaN.html"
