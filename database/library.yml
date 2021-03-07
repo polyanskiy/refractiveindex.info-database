@@ -2594,7 +2594,7 @@
         - PAGE: Ermolaev-o
           name: "Ermolaev et al. 2021: bulk; n(o) 0.360-1.70 µm"
           data: "main/MoS2/Ermolaev-o.yml"
-        - PAGE: Ermolaev-bulk-e
+        - PAGE: Ermolaev-e
           name: "Ermolaev et al. 2020: bulk; n(e),k 0.290-3.30 µm"
           data: "main/MoS2/Ermolaev-e.yml"
         - PAGE: Song-bulk
