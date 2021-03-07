@@ -2592,10 +2592,10 @@
           name: "Beal and Huges 1979: bulk; n,k 0.081–1.24 µm"
           data: "main/MoS2/Beal.yml"
         - PAGE: Ermolaev-o
-          name: "Ermolaev et al. 2021: bulk; n(o) 0.360-1.70 µm"
+          name: "Ermolaev et al. 2020: bulk; n(o),k 0.290-3.30 µm"
           data: "main/MoS2/Ermolaev-o.yml"
         - PAGE: Ermolaev-e
-          name: "Ermolaev et al. 2020: bulk; n(e),k 0.290-3.30 µm"
+          name: "Ermolaev et al. 2021: bulk; n(e) 0.360-1.70 µm"
           data: "main/MoS2/Ermolaev-e.yml"
         - PAGE: Song-bulk
           name: "Song et al. 2019: bulk; n,k 0.193-1.69 µm"
