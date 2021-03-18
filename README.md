@@ -25,3 +25,8 @@ https://github.com/cinek810/refractiveindex.info (original scripts by Marcin Sto
 https://github.com/mtarek/refractiveindex.info (fork and further development by MT El-Haddad)
 
 Support for operations not possible through the web interface, e.g. find materials with refractive index within a specified range
+
+## RefractiveIndex.jl
+https://github.com/stillyslalom/RefractiveIndex.jl
+
+Julia interface to refractiveindex.info database
