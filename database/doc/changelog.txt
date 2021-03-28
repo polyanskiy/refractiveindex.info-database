@@ -1,5 +1,10 @@
 ﻿============================== next release ==============================
 
+  new data (thanks to Kazi Islam, Tulane University, New Orleans, USA, for submitting data!)
+    main/MoS2/Islam-o.yml
+    main/MoS2/Islam-o.yml
+    main/MoS2/Islam-1L.yml
+    main/MoS2/Islam-fewL.yml
   new data (thanks to Volodymyr Zenin, University of Southern Denmark, for submitting YAML files!)
     main/BN/Lee.yml
   new data

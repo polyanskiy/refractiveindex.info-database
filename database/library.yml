@@ -2610,10 +2610,22 @@
         - PAGE: Yim-20nm
           name: "Yim et al. 2014: 20-nm film; n,k 0.38-0.90 µm"
           data: "main/MoS2/Yim-20nm.yml"
+        - PAGE: Islam-o
+          name: "Islam et al. 2021: 33.5-nm film; n,k(o) 0.190-1.70 µm"
+          data: "main/MoS2/Islam-o.yml"
+        - PAGE: Islam-e
+          name: "Islam et al. 2021: 33.5-nm film; n(e) 0.954-1.70 µm"
+          data: "main/MoS2/Islam-e.yml"
         - DIVIDER: "2D structures"
         - PAGE: Zhang
           name: "Zhang et al. 2015: monolayer (1L) film; n,k 0.40-0.75 µm"
           data: "main/MoS2/Zhang.yml"
+        - PAGE: Islam-1L
+          name: "Islam et al. 2021: monolayer (1L) film; n,k 0.190-1.70 µm"
+          data: "main/MoS2/Islam-1L.yml"
+        - PAGE: Islam-fewL
+          name: "Islam et al. 2021: few-layer (2.15 nm) film; n,k 0.190-1.70 µm"
+          data: "main/MoS2/Islam-fewL.yml"
         - PAGE: Ermolaev-1L
           name: "Ermolaev et al. 2020: monolayer (1L) film; n,k 0.290-3.30 µm"
           data: "main/MoS2/Ermolaev-1L.yml"
