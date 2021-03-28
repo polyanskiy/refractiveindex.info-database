@@ -1,5 +1,8 @@
 ﻿============================== next release ==============================
 
+  new data (thanks to Jan Hrabovský, Charles University, Prague, Czech Republic!)
+    main/Lu3Al5O12/Hrabovsky.yml
+    main/Y3Al5O12/Hrabovsky.yml
   new data (thanks to Kazi Islam, Tulane University, New Orleans, USA, for submitting data!)
     main/MoS2/Islam-o.yml
     main/MoS2/Islam-o.yml

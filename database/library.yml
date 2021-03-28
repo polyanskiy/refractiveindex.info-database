@@ -98,6 +98,13 @@
         - PAGE: Rakic-LD
           name: "Rakić et al. 1998: Lorentz-Drude model; n,k 0.0620-248 µm"
           data: "main/Al/Rakic-LD.yml"
+    - BOOK: Lu3Al5O12
+      name: "Lu<sub>3</sub>Al<sub>5</sub>O<sub>12</sub> (Lutetium aluminium garnet, LuAG)"
+      info: "main/Lu3Al5O12.html"
+      content:
+        - PAGE: Hrabovsky
+          name: "Hrabovský et al. 2021: n 0.193-1.69 µm"
+          data: "main/Lu3Al5O12/Hrabovsky.yml"
     - BOOK: MgAl2O4
       name: "MgAl<sub>2</sub>O<sub>4</sub> (Magnesium aluminate, spinel)"
       info: "main/MgAl2O4.html"
@@ -112,6 +119,9 @@
         - PAGE: Zelmon
           name: "Zelmon et al. 1998: n 0.4-5.0 µm"
           data: "main/Y3Al5O12/Zelmon.yml"
+        - PAGE: Hrabovsky
+          name: "Hrabovský et al. 2021: n 0.193-1.69 µm"
+          data: "main/Y3Al5O12/Hrabovsky.yml"
     - DIVIDER: "Ar - Argon"
     - BOOK: Ar
       name: "Ar (Argon)"
