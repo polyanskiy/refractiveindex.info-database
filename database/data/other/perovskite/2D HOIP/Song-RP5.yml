@@ -2,7 +2,7 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "B. Song, J. Hou, H. Wang, S. Sidhik, J. Miao, H. Gu, H. Zhang, S. Liu, Z. Fakhraai, J. Even, J.-C. Blancon, A. D. Mohite, D. Jariwala. Determination of dielectric functions and exciton oscillator strength of two-dimensional hybrid perovskites, <a href=\"https://doi.org/10.1021/acsphotonics.0c01220\"><i>ACS Materials Lett.</i> <b>3</b>, 148-159 (2021)</a><br>(Numerical data kindly provided by Baokun Song)"
+REFERENCES: "B. Song, J. Hou, H. Wang, S. Sidhik, J. Miao, H. Gu, H. Zhang, S. Liu, Z. Fakhraai, J. Even, J.-C. Blancon, A. D. Mohite, D. Jariwala. Determination of dielectric functions and exciton oscillator strength of two-dimensional hybrid perovskites, <a href=\"https://doi.org/10.1021/acsmaterialslett.0c00505\"><i>ACS Materials Lett.</i> <b>3</b>, 148-159 (2021)</a><br>(Numerical data kindly provided by Baokun Song)"
 COMMENTS: "Two-dimensional (2D) hybrid organic−inorganic perovskite (HOIP) semiconductor. Ruddlesden–Popper (RP) phase.<br> (BA)<sub>2</sub>(MA)<sub>n-1</sub>Pb<sub>n</sub>I<sub>3n-1</sub>,<br>where BA = CH<sub>3</sub>(CH<sub>2</sub>)<sub>3</sub>NH<sub>3</sub>, MA = CH<sub>3</sub>NH<sub>3</sub>, and n determines the thickness of the lead−iodide perovskite layer.<br><b>n = 5</b>"
 DATA:
   - type: tabulated nk

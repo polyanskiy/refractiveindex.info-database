@@ -10713,13 +10713,6 @@
         - PAGE: Sultanova
           name: "Sultanova et al. 2009: n 0.4368-1.052 µm"
           data: "other/commercial plastics/NAS-21/Sultanova.yml"
-    - BOOK: NOA-61
-      name: "NOA-61"
-      info: "other/NOA-61.html"
-      content:
-        - PAGE: Joseph
-          name: "Joseph et al. 2020: 1000-nm film; n 0.246-1.69 µm"
-          data: "other/commercial plastics/NOA-61/Joseph.yml"
     - BOOK: Optorez1330
       name: "Optorez 1330"
       info: "other/Optorez1330.html"
@@ -10906,13 +10899,16 @@
           name: "Wang et al. 2017: k 1.2-1.9 µm"
           data: "other/immersion oils/Sigma Aldrich M5904/Wang.yml"
     - DIVIDER: "Optical adhesives"
-    - BOOK: Optical_adhesives
-      name: "Optical adhesives"
+    - BOOK: Norland NOA-61
+      name: "Norland NOA 61"
       info: "other/optical adhesives.html"
       content:
-        - PAGE: Norland_NOA61
-          name: "Norland NOA 61"
-          data: "other/optical adhesives/Norland NOA 61.yml"
+        - PAGE: Norland
+          name: "Norland spec sheet: Cured; n 0.450-1.55 µm"
+          data: "other/optical adhesives/NOA-61/Norland.yml"
+        - PAGE: Joseph
+          name: "Joseph et al. 2020: 1000-nm film, uncured; n 0.246-1.69 µm"
+          data: "other/optical adhesives/NOA-61/Joseph.yml"
     - DIVIDER: "Resists"
     - BOOK: pmma_resists
       name: "PMMA resists"
