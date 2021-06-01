@@ -606,6 +606,9 @@
         - PAGE: Weber
           name: "Weber et al. 2010: Graphene; n,k 0.21-1.0 µm"
           data: "main/C/Weber.yml"
+        - PAGE: El-Sayed
+          name: "El-Sayed et al. 2021: Graphene; n,k 0.24-1.0 µm"
+          data: "main/C/El-Sayed.yml"
         - PAGE: Song
           name: "Song et al. 2018: Graphene; n,k 0.193-1.69 µm"
           data: "main/C/Song.yml"
@@ -2216,6 +2219,9 @@
         - PAGE: Aspnes
           name: "Aspnes and Studna 1983: n,k 0.21-0.83 µm"
           data: "main/GaP/Aspnes.yml"
+        - PAGE: Khmelevskaia
+          name: "Khmelevskaia et al. 2021: n 0.235-1.70, k 0.235-0.686 µm"
+          data: "main/GaP/Khmelevskaia.yml"
         - PAGE: Jellison
           name: "Jellison 1992: n,k 0.234-0.840 µm"
           data: "main/GaP/Jellison.yml"
@@ -10907,7 +10913,7 @@
           name: "Norland spec sheet: Cured; n 0.450-1.55 µm"
           data: "other/optical adhesives/NOA-61/Norland.yml"
         - PAGE: Joseph
-          name: "Joseph et al. 2020: 1000-nm film, uncured; n 0.246-1.69 µm"
+          name: "Joseph et al. 2020: 1000-nm film, Uncured; n 0.246-1.69 µm"
           data: "other/optical adhesives/NOA-61/Joseph.yml"
     - DIVIDER: "Resists"
     - BOOK: pmma_resists

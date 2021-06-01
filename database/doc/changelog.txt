@@ -156,6 +156,8 @@
   updated data (thanks to Amir Abdolvand!)
     main/Ar/Grace-solid-20K.yml - dispersion formula
   new data (thanks to Georgy Ermolaev, Moscow Institute of Physics and Technology, Russia, for submitting data in YAML format!)
+    main/C/El-Sayed.yml
+    main/GaP/Khmelevskaia.yml
     main/C/Ermolaev.yml
     main/MoS2/Ermolaev-o.yml
     main/MoS2/Ermolaev-e.yml
