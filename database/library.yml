@@ -2990,6 +2990,9 @@
         - PAGE: Aspnes
           name: "Aspnes and Studna 1983: n,k 0.21-0.83 µm"
           data: "main/Si/Aspnes.yml"
+        - PAGE: Shkondin
+          name: "Shkondin et al. 2017: n,k 2-20 µm"
+          data: "main/Si/Shkondin.yml"
         - PAGE: Schinke
           name: "Schinke et al. 2015: n,k 0.25-1.45 µm"
           data: "main/Si/Schinke.yml"
@@ -10588,6 +10591,9 @@
         - PAGE: Treharne
           name: "Treharne et al. 2011: n,k 0.3-0.9 µm"
           data: "other/doped crystals/Al-ZnO/Treharne.yml"
+        - PAGE: Shkondin
+          name: "Shkondin et al. 2017: n,k 2-20 µm"
+          data: "other/doped crystals/Al-ZnO/Shkondin.yml"
     - DIVIDER: "Miscellaneous crystalline minerals"
     - BOOK: franckeite
       name: "Franckeite"
