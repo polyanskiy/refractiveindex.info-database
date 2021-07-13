@@ -2910,6 +2910,9 @@
         - PAGE: Jung
           name: "Jung et al. 2019: monolayer film; n,k 0.38-0.89 µm"
           data: "main/WSe2/Jung.yml"
+        - PAGE: Ermolaev
+          name: "Ermolaev et al. 2021: monolayer (1L) film; n,k 0.30-1.70 µm"
+          data: "main/WSe2/Ermolaev.yml"
         - PAGE: Gu-1L
           name: "Gu et al. 2019: monolayer (1L) film; n,k 0.193-1.69 µm"
           data: "main/WSe2/Gu-1L.yml"
