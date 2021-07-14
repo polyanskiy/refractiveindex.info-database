@@ -2,7 +2,7 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "M. R. Querry. Optical constants, <a href=\"http://www.dtic.mil/docs/citations/ADA158623\"><i>Contractor Report</i> CRDC-CR-85034 (1985)</a>"
+REFERENCES: "M. R. Querry. Optical constants, <a href=\"https://apps.dtic.mil/sti/citations/ADA158623\"><i>Contractor Report</i> CRDC-CR-85034 (1985)</a>"
 COMMENTS: "α-Fe<sub>2</sub>O<sub>3</sub> (Hematite). Ordinary ray (o)."
 DATA:
   - type: tabulated nk
