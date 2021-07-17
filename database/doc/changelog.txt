@@ -430,7 +430,7 @@
 
   !!! update of database structure !!! 
     added "info" - optional additional information that can be associated with shelves, books and pages
-    informatin is stored in .html files located in the '/info' folder
+    information is stored in .html files located in the '/info' folder
     "info" key is used in the 'library.yml' for specifying the path to the corresponding .html file
     data files ('.yml') are moved from '/' to '/data' folder
     "path" key is replaced by "data" in 'library.yml'
