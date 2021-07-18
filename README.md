@@ -1,6 +1,8 @@
 # Refractive Index Database
 Database of optical constants
-http://refractiveindex.info/
+
+# Web interface
+https://refractiveindex.info/
 
 # Related projects
 Other projects interfacing with the `refractiveindex.info database`
