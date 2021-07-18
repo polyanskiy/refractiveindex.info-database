@@ -185,7 +185,7 @@
     main/Au/Yakubovsky-117nm.yml: specs
   miscellaneous
     SPECS entry "film_thickness: monolayer" replaced by "film_thickness: 1L" in multiple files
-    other/mixed crystals/HfO2-Y2O3/Wood.yml removed from MAIN shelf (stays in OTHERER)
+    other/mixed crystals/HfO2-Y2O3/Wood.yml removed from MAIN shelf (stays in OTHER)
   bug fixes
     main/ZnS/Amotchkina.yml: unused text after comments (Thanks to Phillip Manley, Helmholtz-Zentrum Berlin, Germany)
 
