@@ -1,11 +1,10 @@
 # Refractive Index Database
-Database of optical constants
+The refractiveindex.info database is an extensive database of optical constants of various materials.
 
 ## Web interface
 https://refractiveindex.info/
 
 ## Related projects
-Other projects interfacing with the `refractiveindex.info database`
 
 ### refractiveindex.info-scripts
 https://github.com/polyanskiy/refractiveindex.info-scripts
