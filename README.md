@@ -1,5 +1,5 @@
 # Refractive Index Database
-The refractiveindex.info database is an extensive database of optical constants of various materials.
+The refractiveindex.info database is an extensive and well organized collection of optical constants of various materials. refractiveindex.info database is in public domain. Copyright and related rights were waived by <a href="mailto:polyanskiy@refractiveindex.info">Mikhail Polyanskiy</a> through the <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal Public Domain Dedication</a>. You can copy, modify and distribute refractiveindex.info database, even for commercial purposes, all without asking permission.
 
 ## Web interface
 https://refractiveindex.info/
