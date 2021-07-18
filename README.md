@@ -11,15 +11,15 @@ https://refractiveindex.info/
 ## Related projects
 
 ### refractiveindex.info-scripts
-Collection of Python scripts related to refractiveindex.info database
+Collection of Python scripts related to refractiveindex.info database<br>
 https://github.com/polyanskiy/refractiveindex.info-scripts
 
 ### PyTMM
-Database browser and Transfer Matrix Method implementation
+Database browser and Transfer Matrix Method implementation<br>
 https://github.com/kitchenknif/PyTMM
 
 ### refractiveindex.info-sqlite
-Python 3 + SQLite wrapper for the refractiveindex.info database
+Python 3 + SQLite wrapper for the refractiveindex.info database<br>
 https://github.com/HugoGuillen/refractiveindex.info-sqlite
 
 ### refractiveindex.info
@@ -28,5 +28,5 @@ https://github.com/cinek810/refractiveindex.info (original scripts)<br>
 https://github.com/mtarek/refractiveindex.info (fork and further development)
 
 ### RefractiveIndex.jl
-Julia interface to refractiveindex.info database
+Julia interface to refractiveindex.info database<br>
 https://github.com/stillyslalom/RefractiveIndex.jl
