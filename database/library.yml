@@ -1509,12 +1509,12 @@
       info: "main/Mo.html"
       content:
         - DIVIDER: "Experimental data"
-        - PAGE: Ordal
-          name: "Ordal et al. 1988: n,k 0.667-154 µm"
-          data: "main/Mo/Ordal.yml"
         - PAGE: Werner
           name: "Werner et al. 2009: n,k 0.01759-2.480 µm"
           data: "main/Mo/Werner.yml"
+        - PAGE: Ordal
+          name: "Ordal et al. 1988: n,k 0.667-154 µm"
+          data: "main/Mo/Ordal.yml"
         - PAGE: Windt
           name: "Windt et al. 1988: n,k 0.0024-0.1216 µm"
           data: "main/Mo/Windt.yml"
@@ -2340,12 +2340,12 @@
       info: "main/Pb.html"
       content:
         - DIVIDER: "Experimental data"
-        - PAGE: Ordal
-          name: "Ordal et al. 1987: n,k 0.667-667 µm"
-          data: "main/Pb/Ordal.yml"
         - PAGE: Werner
           name: "Werner et al. 2009: n,k 0.0176-2.48 µm"
           data: "main/Pb/Werner.yml"
+        - PAGE: Ordal
+          name: "Ordal et al. 1987: n,k 0.667-667 µm"
+          data: "main/Pb/Ordal.yml"
         - PAGE: Mathewson-298K
           name: "Mathewson and Myers 1971: n,k 0.344-1.77 µm; 298 K"
           data: "main/Pb/Mathewson-298K.yml"
@@ -2407,12 +2407,12 @@
       info: "main/Pt.html"
       content:
         - DIVIDER: "Experimental data"
-        - PAGE: Windt
-          name: "Windt et al. 1988: n,k 0.0024-0.122 µm"
-          data: "main/Pt/Windt.yml"
         - PAGE: Werner
           name: "Werner et al. 2009: n,k 0.0176-2.48 µm"
           data: "main/Pt/Werner.yml"
+        - PAGE: Windt
+          name: "Windt et al. 1988: n,k 0.0024-0.122 µm"
+          data: "main/Pt/Windt.yml"
         - DIVIDER: "Models and simulations"
         - PAGE: Rakic-BB
           name: "Rakić et al. 1998: Brendel-Bormann model; n,k 0.248-12.4 µm"
@@ -3153,12 +3153,12 @@
       info: "main/Ta.html"
       content:
         - DIVIDER: "Experimental data"
-        - PAGE: Ordal
-          name: "Ordal et al. 1988: n,k 0.667-125 µm"
-          data: "main/Ta/Ordal.yml"
         - PAGE: Werner
           name: "Werner et al. 2009: n,k 0.0176-2.48 µm"
           data: "main/Ta/Werner.yml"
+        - PAGE: Ordal
+          name: "Ordal et al. 1988: n,k 0.667-125 µm"
+          data: "main/Ta/Ordal.yml"
         - PAGE: Windt
           name: "Windt et al. 1988: n,k 0.0024-0.122 µm"
           data: "main/Ta/Windt.yml"
@@ -3398,12 +3398,12 @@
       info: "main/W.html"
       content:
         - DIVIDER: "Experimental data"
-        - PAGE: Ordal
-          name: "Ordal et al. 1988: n,k 0.667-200 µm"
-          data: "main/W/Ordal.yml"
         - PAGE: Werner
           name: "Werner et al. 2009: n,k 0.0176-2.48 µm"
           data: "main/W/Werner.yml"
+        - PAGE: Ordal
+          name: "Ordal et al. 1988: n,k 0.667-200 µm"
+          data: "main/W/Ordal.yml"
         - PAGE: Windt
           name: "Windt et al. 1988: n,k 0.0024-0.122 µm"
           data: "main/W/Windt.yml"
