@@ -1639,6 +1639,18 @@
         - PAGE: Schnabel
           name: "Schnabel et al. 2018: n,k 0.292-0.809 µm"
           data: "main/TiN/Schnabel.yml"
+        - PAGE: Shkondin
+          name: "Shkondin et al. 2017: n,k 0.211-1.69 µm"
+          data: "main/TiN/Shkondin.yml"
+        - PAGE: Shkondin-700
+          name: "Shkondin et al. 2017: Annealed at 700 °C; n,k 0.211-1.69 µm"
+          data: "main/TiN/Shkondin-700.yml"
+        - PAGE: Shkondin-800
+          name: "Shkondin et al. 2017: Annealed at 800 °C; n,k 0.211-1.69 µm"
+          data: "main/TiN/Shkondin-800.yml"
+        - PAGE: Shkondin-900
+          name: "Shkondin et al. 2017: Annealed at 900 °C; n,k 0.211-1.69 µm"
+          data: "main/TiN/Shkondin-900.yml"
     - BOOK: VN
       name: "VN (Vanadium nitride)"
       info: "main/VN.html"
@@ -2253,6 +2265,9 @@
         - PAGE: Aspnes
           name: "Aspnes and Studna 1983: n,k 0.21-0.83 µm"
           data: "main/InP/Aspnes.yml"
+        - PAGE: Panah
+          name: "Panah et al. 2016: n,k 5.0-30 µm"
+          data: "main/InP/Panah.yml"
         - PAGE: Pettit
           name: "Pettit and Turner 1965: n 0.95-10 µm"
           data: "main/InP/Pettit.yml"
@@ -10574,6 +10589,13 @@
           name: "Wood and Nassau 1982: 12 mol % Y2O3; n 0.361-5.135 µm"
           data: "other/mixed crystals/ZrO2-Y2O3/Wood.yml"
     - DIVIDER: "Doped crystals"
+    - BOOK: Si-InP
+      name: "Si:InP (Silicon-doped indium phosphide)"
+      info: "other/Si-InP.html"
+      content:    
+        - PAGE: Panah
+          name: "Panah et al. 2016: n,k 5.0-30 µm"
+          data: "other/doped crystals/Si-InP/Panah.yml"
     - BOOK: Mg-LiTaO3
       name: "Mg:LiTaO<sub>3</sub> (Magnesium-doped lithium tantalate)"
       info: "other/Mg-LiTaO3.html"
