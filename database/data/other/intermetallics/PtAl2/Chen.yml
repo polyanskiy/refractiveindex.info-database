@@ -6,7 +6,7 @@ REFERENCES: "L.-Y. Chen, D. W. Lynch. The optical properties of AuAl<sub>2</sub>
 COMMENTS: "Bulk sample. Room temperature."
 DATA:
   - type: tabulated nk
- data: |
+    data: |
         0.22 1.24438 1.84221
         0.23 1.24207 1.85032
         0.24 1.25364 1.88226
