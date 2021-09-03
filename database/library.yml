@@ -599,7 +599,7 @@
         - PAGE: Song-sHOPG-o
           name: "Song et al. 2018: s-HOPG; n,k(o) 0.193-1.69 µm"
           data: "main/C/Song-sHOPG-o.yml"
-        - PAGE: Song-cHOPG-e
+        - PAGE: Song-sHOPG-e
           name: "Song et al. 2018: s-HOPG; n(e) 0.193-1.69 µm"
           data: "main/C/Song-sHOPG-e.yml"
         - DIVIDER: "Graphene"
@@ -8553,9 +8553,6 @@
         - PAGE: D-ZLAF50
           name: "D-ZLAF50"
           data: "glass/cdgm/D-ZLAF50.yml"
-        - PAGE: D-ZLAF52LA
-          name: "D-ZLAF52LA"
-          data: "glass/cdgm/D-ZLAF52LA.yml"
         - PAGE: D-ZLAF52LA
           name: "D-ZLAF52LA"
           data: "glass/cdgm/D-ZLAF52LA.yml"
