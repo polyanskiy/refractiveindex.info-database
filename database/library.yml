@@ -10741,36 +10741,36 @@
       name: "Kapton"
       info: "other/Kapton.html"
       content:
-        - PAGE: Sahin
-          name: "Sahin et al. 2019: n,k 160-3000 µm"
-          data: "other/commercial plastics/Kapton/Sahin.yml"
-        - PAGE: Smith
-          name: "Smith and Loewenstein 1975: n,k 28.6-182 µm"
-          data: "other/commercial plastics/Kapton/Smith.yml"
-        - PAGE: Zhang
-          name: "Zhang et al. 1998: n,k 1.67-20.0 µm"
-          data: "other/commercial plastics/Kapton/Zhang.yml"
-        - PAGE: Arakawa
-          name: "Arakawa et al. 1981: n 0.02-1.49 µm, k 0.02-0.43 µm"
-          data: "other/commercial plastics/Kapton/Arakawa.yml"
         - PAGE: Cunningham
           name: "Cunningham et al. 2011: n 30-490 µm, k 30-470 µm"
           data: "other/commercial plastics/Kapton/Cunningham.yml"
+        - PAGE: Sahin
+          name: "Sahin et al. 2019: n,k 160-3000 µm"
+          data: "other/commercial plastics/Kapton/Sahin.yml"
+        - PAGE: Kumar
+          name: "Kumar et al. 2011: n 0.41-0.65 µm, k 0.49-0.78 µm"
+          data: "other/commercial plastics/Kapton/Kumar.yml"
         - PAGE: French
           name: "French et al. 2009: n 0.19-1.59 µm, k 0.48-2.49 µm"
           data: "other/commercial plastics/Kapton/French.yml"
         - PAGE: Kawka
           name: "Kawka and Buckius 2001: n 1.44-4.97 µm, k 1.82-4.98 µm"
           data: "other/commercial plastics/Kapton/Kawka.yml"
-        - PAGE: Kumar
-          name: "Kumar et al. 2014: n 0.41-0.65 µm, k 0.49-0.78 µm"
-          data: "other/commercial plastics/Kapton/Kumar.yml"
-        - PAGE: Brannon
-          name: "Brannon et al. 1985: k 0.19-0.39 µm"
-          data: "other/commercial plastics/Kapton/Brannon.yml"
+        - PAGE: Zhang
+          name: "Zhang et al. 1998: n,k 1.67-20.0 µm"
+          data: "other/commercial plastics/Kapton/Zhang.yml"
         - PAGE: Philipp
           name: "Philipp et al. 1986: k 0.18-0.33 µm"
           data: "other/commercial plastics/Kapton/Philipp.yml"
+        - PAGE: Brannon
+          name: "Brannon et al. 1985: k 0.19-0.39 µm"
+          data: "other/commercial plastics/Kapton/Brannon.yml"
+        - PAGE: Arakawa
+          name: "Arakawa et al. 1981: n 0.02-1.49 µm, k 0.02-0.43 µm"
+          data: "other/commercial plastics/Kapton/Arakawa.yml"
+        - PAGE: Smith
+          name: "Smith and Loewenstein 1975: n,k 28.6-182 µm"
+          data: "other/commercial plastics/Kapton/Smith.yml"
     - BOOK: NAS-21
       name: "NAS-21"
       info: "other/NAS-21.html"

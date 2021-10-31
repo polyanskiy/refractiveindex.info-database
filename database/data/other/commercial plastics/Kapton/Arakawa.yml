@@ -2,7 +2,7 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "E. T. Arakawa, M. W. Williams, J. C. Ashley, and L. R. Painter, The optical properties of Kapton: Measurement and applications, Journal of Applied Physics 52, 3579-3582 (1981) <a href=\"https://doi.org/10.1063/1.329140\">https://doi.org/10.1063/1.329140</a>"
+REFERENCES: "E. T. Arakawa, M. W. Williams, J. C. Ashley, L. R. Painter. The optical properties of Kapton: Measurement and applications, <a href=\"https://doi.org/10.1063/1.329140\"><i>J. Appl. Phys.</i> <b>52</b>, 3579-3582 (1981)</a>"
 COMMENTS: "Kapton type H polyimide film"
 DATA: 
   - type: tabulated n

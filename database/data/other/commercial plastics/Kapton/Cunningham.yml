@@ -2,7 +2,7 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "Paul D. Cunningham, Nestor N. Valdes, Felipe A. Vallejo, L. Michael Hayden, Brent Polishak, Xing-Hua Zhou, Jingdong Luo, Alex K.-Y. Jen, Jarrod C. Williams, and Robert J. Twieg, Broadband terahertz characterization of the refractive index and absorption of some important polymeric and organic electro-optic materials, Journal of Applied Physics 109, 043505-043505-5 (2011) <a href=\"https://doi.org/10.1063/1.3549120\">https://doi.org/10.1063/1.3549120</a>"
+REFERENCES: "P. D. Cunningham, N. N. Valdes, F. A. Vallejo, L. M. Hayden, B. Polishak, X.-H. Zhou, J. Luo, A. K.-Y. Jen, J. C. Williams,  R. J. Twieg. Broadband terahertz characterization of the refractive index and absorption of some important polymeric and organic electro-optic materials, <a href=\"https://doi.org/10.1063/1.3549120\"><i>J. Appl. Phys.</i> <b>109</b>, 043505-043505-5 (2011)</a>"
 COMMENTS: "Kapton sheet from Dupont"
 DATA: 
   - type: tabulated n

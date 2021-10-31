@@ -1,5 +1,14 @@
 ﻿============================== Next release ==============================
 
+  new data (thanks to Birgit Zatschler, Technische Universität Dresden, Germany, for submitting data in YAML format via GitHub!)
+    other/commercial plastics/Kapton/Cunningham.yml
+    other/commercial plastics/Kapton/Sahin.yml
+    other/commercial plastics/Kapton/Kumar.yml
+    other/commercial plastics/Kapton/French.yml
+    other/commercial plastics/Kapton/Kawka.yml
+    other/commercial plastics/Kapton/Philipp.yml
+    other/commercial plastics/Kapton/Brannon.yml
+    other/commercial plastics/Kapton/Arakawa.yml	
   new data (thanks to Osamu Takayama, Technical University of Denmark, Lyngby, Denmark, for submitting data!)
     main/InP/Panah.yml
     other/doped crystals/Si-InP/Panah.yml
