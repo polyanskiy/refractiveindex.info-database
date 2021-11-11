@@ -388,10 +388,10 @@
           name: "Eimerl et al. 1987: n(e) 0.22-1.06 µm"
           data: "main/BaB2O4/Eimerl-e.yml"
         - PAGE: Tamosauskas-o
-          name: "Tamošauskas et al. 2018: n(o) 0.188-5.2 µm"
+          name: "Tamošauskas et al. 2018: n(o),k 0.188-5.2 µm"
           data: "main/BaB2O4/Tamosauskas-o.yml"
         - PAGE: Tamosauskas-e
-          name: "Tamošauskas et al. 2018: n(e) 0.188-5.2 µm"
+          name: "Tamošauskas et al. 2018: n(e),k 0.188-5.2 µm"
           data: "main/BaB2O4/Tamosauskas-e.yml"
         - PAGE: Zhang-o
           name: "Zhang et al. 2000: n(o) 0.64-3.18 µm"
