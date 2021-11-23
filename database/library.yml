@@ -11031,6 +11031,13 @@
         - PAGE: Phillips
           name: "Phillips et al. 2015: n,k 0.3-1.5 µm"
           data: "other/perovskite/CH3NH3PbI3/Phillips.yml"
+    - BOOK: Cs2AgBiBr6
+      name: "Cs2AgBiBr6 (Cesium silver bismuth bromide, CABB)"
+      info: "other/Cs2AgBiBr6.html"
+      content:
+        - PAGE: Jobsis
+          name: "Jöbsis et al. 2021; n,k 0.300-1.70 µm"
+          data: "other/perovskite/Cs2AgBiBr6/Jobsis.yml"
     - BOOK: 2D_HOIP
       name: "2D HOIP (Hybrid organic-inorganic perovskite)"
       info: "other/perovskite.html"
