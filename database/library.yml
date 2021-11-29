@@ -3719,6 +3719,15 @@
         - PAGE: Kozma
           name: "Kozma et al. 2005: iso-propanol; n 0.230-0.641 µm"
           data: "organic/C3H8O - propanol/Kozma.yml"
+        - PAGE: Wang-20C
+          name: "Wang et al. 2018: iso-propanol, 20 °C; n,k 1.66-19.1 µm"
+          data: "organic/C3H8O - propanol/Wang-20C.yml"
+        - PAGE: Wang-50C
+          name: "Wang et al. 2018: iso-propanol, 50 °C; n,k 1.66-19.1 µm"
+          data: "organic/C3H8O - propanol/Wang-50C.yml"
+        - PAGE: Wang-70C
+          name: "Wang et al. 2018: iso-propanol, 70 °C; n,k 1.66-19.1 µm"
+          data: "organic/C3H8O - propanol/Wang-70C.yml"
         - PAGE: Myers
           name: "Myers et al. 2018: iso-propanol; n,k 1.28-25.0 µm"
           data: "organic/C3H8O - propanol/Myers.yml"
@@ -3737,7 +3746,16 @@
       content:
         - PAGE: El-Kashef
           name: "El-Kashef 2000: n 0.4-0.8 µm"
-          data: "organic/C4H10O - butanol/El-Kashef.yml"
+          data: "organic/C4H10O - butanol/El-Kashef.yml" 
+        - PAGE: Wang-20C
+          name: "Wang et al. 2018: n-Butanol, 20 °C; n,k 1.66-19.1 µm"
+          data: "organic/C4H10O - butanol/Wang-20C.yml"
+        - PAGE: Wang-60C
+          name: "Wang et al. 2018: n-Butanol, 60 °C; n,k 1.66-19.1 µm"
+          data: "organic/C4H10O - butanol/Wang-60C.yml"
+        - PAGE: Wang-90C
+          name: "Wang et al. 2018: n-Butanol, 90 °C; n,k 1.66-19.1 µm"
+          data: "organic/C4H10O - butanol/Wang-90C.yml" 
         - PAGE: Moutzouris-n
           name: "Moutzouris et al. 2013: n-Butanol; n 0.450-1.55 µm"
           data: "organic/C4H10O - butanol/Moutzouris-n.yml"
@@ -10902,6 +10920,20 @@
         - PAGE: Li-e
           name: "Li et al. 2005: n(e) 0.450-0.656 µm"
           data: "other/liquid crystals/TL-216/Li-e.yml"
+    - DIVIDER: "Fuel"
+    - BOOK: biodisel
+      name: "Biodisel"
+      info: "other/biodisel.html"
+      content:
+        - PAGE: Wang-20C
+          name: "Wang et al. 2015: 20 °C; n,k 0.300-2.50 µm"
+          data: "other/fuel/biodisel/Wang-20C.yml"
+        - PAGE: Wang-40C
+          name: "Wang et al. 2015: 40 °C; n,k 0.300-2.50 µm"
+          data: "other/fuel/biodisel/Wang-40C.yml"
+        - PAGE: Wang-60C
+          name: "Wang et al. 2015: 60 °C; n,k 0.300-2.50 µm"
+          data: "other/fuel/biodisel/Wang-60C.yml"
     - DIVIDER: "Anti-reflective coatings"
     - BOOK: SiN
       name: "SiN"

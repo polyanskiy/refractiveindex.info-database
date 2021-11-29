@@ -1,5 +1,16 @@
 ﻿============================== Next release ==============================
-
+  
+  
+  new data (thanks to Chengchao Wang, Harbin Institute of Technology, China, for submitting data in YAML format!)
+    organic/C3H8O - propanol/Wang-20C.yml
+    organic/C3H8O - propanol/Wang-50C.yml
+    organic/C3H8O - propanol/Wang-70C.yml
+    organic/C4H10O - butanol/Wang-20C.yml
+    organic/C4H10O - butanol/Wang-60C.yml
+    organic/C4H10O - butanol/Wang-90C.yml
+    other/fuel/biodisel/Wang-20C.yml
+    other/fuel/biodisel/Wang-40C.yml
+    other/fuel/biodisel/Wang-60C.yml
   new data (thanks to Huygen Jöbsis, Utrecht University, Netherlands, for submitting data!!)
     other/perovskite/Cs2AgBiBr6/Jobsis.yml
   updated data (thanks to  Gintaras Tamošauskas, Vilnus University, Lithuania, for providing absorption data!)
