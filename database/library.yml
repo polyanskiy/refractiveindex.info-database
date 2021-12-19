@@ -2707,6 +2707,13 @@
         - PAGE: Zemel
           name: "Zemel et al. 1965: n 3.5-10 µm"
           data: "main/PbS/Zemel.yml"
+    - BOOK: PtS2
+      name: "PtS<sub>2</sub> (Platinum disulfide)"
+      info: "main/PtS2.html"
+      content:
+        - PAGE: Ermolaev
+          name: "Ermolaev et al. 2021: 5 nm film; n,k 0.245-3.30 µm"
+          data: "main/PtS2/Ermolaev.yml"
     - BOOK: WS2
       name: "WS<sub>2</sub> (Tungsten disulfide)"
       info: "main/WS2.html"
@@ -2924,6 +2931,13 @@
         - PAGE: Suzuki
           name: "Suzuki et al. 1995: n,k 0.230-1.08 µm"
           data: "main/PbSe/Suzuki.yml"
+    - BOOK: PtSe2
+      name: "PtSe<sub>2</sub> (Platinum diselenide)"
+      info: "main/PtSe2.html"
+      content:
+        - PAGE: Ermolaev
+          name: "Ermolaev et al. 2021: 5 nm film; n,k 0.245-3.30 µm"
+          data: "main/PtSe2/Ermolaev.yml"
     - BOOK: WSe2
       name: "WSe<sub>2</sub> (Tungsten diselenide)"
       info: "main/WSe2.html"
