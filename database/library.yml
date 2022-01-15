@@ -1362,6 +1362,12 @@
         - PAGE: Windt
           name: "Windt et al. 1988: n,k 0.0024-0.122 µm"
           data: "main/Ir/Windt.yml"
+        - PAGE: Schmitt-ALS
+          name: "Schmitt et al. 2022: n,k 0.200-20.0 µm; ALS deposition"
+          data: "main/Ir/Schmitt-ALD.yml"
+        - PAGE: Schmitt-MS
+          name: "Schmitt et al. 2022: n,k 0.200-20.0 µm; MS deposition"
+          data: "main/Ir/Schmitt-MS.yml"
         - PAGE: Roberts
           name: "Roberts 1986: n,k 0.250-0.750 µm"
           data: "main/Ir/Roberts.yml"
