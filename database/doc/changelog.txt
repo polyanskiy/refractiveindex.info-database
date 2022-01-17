@@ -1,6 +1,11 @@
 ﻿============================== Next release ==============================
   
+  new data (thanks to Paul Schmitt, University of Jena, Germany, for submitting data in YAML format!)
+    main/Ir/Schmitt-ALS.yml
+    main/Ir/Schmitt-ALS.yml
   new data (thanks to Georgy Ermolaev, Moscow Institute of Physics and Technology, Russia, for submitting data in YAML format!)
+    main/SnS2/Ermolaev.yml
+    main/SnSe2/Ermolaev.yml
     main/PtS2/Ermolaev.yml
     main/PtSe2/Ermolaev.yml
   new data (thanks to Chengchao Wang, Harbin Institute of Technology, China, for submitting data in YAML format!)

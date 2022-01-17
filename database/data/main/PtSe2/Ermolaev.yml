@@ -3,7 +3,7 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: "G. A. Ermolaev, K. V. Voronin, M. K. Tatmyshevskiy, A. B. Mazitov, A. S. Slavich, D. I. Yakubovsky, A. P. Tselin, M. S. Mironov, R. I. Romanov, A. M. Markeev, I. A. Kruglov, S. M. Novikov, A. A. Vyshnevyy, A. V. Arsenin, V. S. Volkov. Broadband optical properties of atomically thin PtS<sub>2</sub> and PtSe<sub>2</sub>, <a href=\"https://doi.org/10.3390/nano11123269\"><i>Nanomaterials</i> <b>11</b>, 3269 (2021)</a> (Numerical data kindly provided by Georgy Ermolaev)"
-COMMENTS: "Broadband optical constants of 5 nm CVD PtSe<sub>2</sub> in the spectral range 245–3300 nm."
+COMMENTS: "5 nm CVD PtSe<sub>2</sub>."
 DATA:
   - type: tabulated nk
     data: | 
@@ -3068,3 +3068,4 @@ SPECS:
     wavelength_vacuum: true
     film_thickness: 5 nm
     substrate: sapphire
+    deposition_method: CVD

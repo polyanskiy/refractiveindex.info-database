@@ -1362,8 +1362,8 @@
         - PAGE: Windt
           name: "Windt et al. 1988: n,k 0.0024-0.122 µm"
           data: "main/Ir/Windt.yml"
-        - PAGE: Schmitt-ALS
-          name: "Schmitt et al. 2022: n,k 0.200-20.0 µm; ALS deposition"
+        - PAGE: Schmitt-ALD
+          name: "Schmitt et al. 2022: n,k 0.200-20.0 µm; ALD deposition"
           data: "main/Ir/Schmitt-ALD.yml"
         - PAGE: Schmitt-MS
           name: "Schmitt et al. 2022: n,k 0.200-20.0 µm; MS deposition"
@@ -2720,6 +2720,13 @@
         - PAGE: Ermolaev
           name: "Ermolaev et al. 2021: 5 nm film; n,k 0.245-3.30 µm"
           data: "main/PtS2/Ermolaev.yml"
+    - BOOK: SnS2
+      name: "SnS<sub>2</sub> (Tin disulfide)"
+      info: "main/SnS2.html"
+      content:
+        - PAGE: Ermolaev
+          name: "Ermolaev et al. 2021: thin film; n 0.300-3.30 µm, k 0.300-0.629 µm"
+          data: "main/SnS2/Ermolaev.yml"
     - BOOK: WS2
       name: "WS<sub>2</sub> (Tungsten disulfide)"
       info: "main/WS2.html"
@@ -2942,8 +2949,15 @@
       info: "main/PtSe2.html"
       content:
         - PAGE: Ermolaev
-          name: "Ermolaev et al. 2021: 5 nm film; n,k 0.245-3.30 µm"
+          name: "Ermolaev et al. 2021: thin film; n,k 0.245-3.30 µm"
           data: "main/PtSe2/Ermolaev.yml"
+    - BOOK: SnSe2
+      name: "SnSe<sub>2</sub> (Tin diselenide)"
+      info: "main/SnSe2.html"
+      content:
+        - PAGE: Ermolaev
+          name: "Ermolaev et al. 2021: thin film; n 0.300-3.30 µm, k 0.300-1.68 µm"
+          data: "main/SnSe2/Ermolaev.yml"
     - BOOK: WSe2
       name: "WSe<sub>2</sub> (Tungsten diselenide)"
       info: "main/WSe2.html"
