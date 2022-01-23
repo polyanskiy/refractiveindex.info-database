@@ -1990,6 +1990,12 @@
         - PAGE: Medenbach
           name: "Medenbach et al. 2001: n 0.435-0.644 µm"
           data: "main/Lu2O3/Medenbach.yml"
+        - PAGE: Yao
+          name: "Yao et al. 2022: n 0.210-1.69 µm, k 0.210-0.224 µm"
+          data: "main/Lu2O3/Yao.yml"
+        - PAGE: Kaminskii
+          name: "Kaminskii et al. 2008: n 0.365-2.325 µm"
+          data: "main/Lu2O3/Kaminskii.yml"
     - BOOK: MgO
       name: "MgO (Magnesium monoxide)"
       info: "main/MgO.html"
@@ -2725,7 +2731,7 @@
       info: "main/SnS2.html"
       content:
         - PAGE: Ermolaev
-          name: "Ermolaev et al. 2021: thin film; n 0.300-3.30 µm, k 0.300-0.629 µm"
+          name: "Ermolaev et al. 2022: thin film; n 0.300-3.30 µm, k 0.300-0.629 µm"
           data: "main/SnS2/Ermolaev.yml"
     - BOOK: WS2
       name: "WS<sub>2</sub> (Tungsten disulfide)"
@@ -2956,7 +2962,7 @@
       info: "main/SnSe2.html"
       content:
         - PAGE: Ermolaev
-          name: "Ermolaev et al. 2021: thin film; n 0.300-3.30 µm, k 0.300-1.68 µm"
+          name: "Ermolaev et al. 2022: thin film; n 0.300-3.30 µm, k 0.300-1.68 µm"
           data: "main/SnSe2/Ermolaev.yml"
     - BOOK: WSe2
       name: "WSe<sub>2</sub> (Tungsten diselenide)"

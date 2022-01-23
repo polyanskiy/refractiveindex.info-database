@@ -1,5 +1,7 @@
 ﻿============================== Next release ==============================
   
+  new data (thanks to Chengyuan Yao, Tianjin University, China!)
+    main/Lu2O3/Yao.yml
   new data (thanks to Paul Schmitt, University of Jena, Germany, for submitting data in YAML format!)
     main/Ir/Schmitt-ALS.yml
     main/Ir/Schmitt-ALS.yml
@@ -41,6 +43,8 @@
     main/TiN/Shkondin-900.yml
   new data (thanks to Alexander Dorofeenko, Institute for Theoretical and Applied Electromagnetics, Moscow, Russia, for submitting data in YAML format!)
     main/WO3/Kulikova.yml
+  new data
+    main/Lu2O3/Kaminskii.yml
 
 
 ============================== 2021-07-18 ==============================
