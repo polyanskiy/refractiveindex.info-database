@@ -1,10 +1,18 @@
 ﻿============================== Next release ==============================
   
+  bug fixes: corrected pressure (thanks to Nikolaos Siomos, Ludwig-Maximilians-Universität, Munich, Germany)
+    main/Ar/Borzsonyi.yml
+    main/He/Borzsonyi.yml
+    main/Kr/Borzsonyi.yml
+    main/N2/Borzsonyi.yml
+    main/Ne/Borzsonyi.yml
+    main/Xe/Borzsonyi.yml
+    other/mixed gases/air/Borzsonyi.yml
   new data (thanks to Chengyuan Yao, Tianjin University, China!)
     main/Lu2O3/Yao.yml
   new data (thanks to Paul Schmitt, University of Jena, Germany, for submitting data in YAML format!)
     main/Ir/Schmitt-ALS.yml
-    main/Ir/Schmitt-ALS.yml
+    main/Ir/Schmitt-MS.yml
   new data (thanks to Georgy Ermolaev, Moscow Institute of Physics and Technology, Russia, for submitting data in YAML format!)
     main/SnS2/Ermolaev.yml
     main/SnSe2/Ermolaev.yml
