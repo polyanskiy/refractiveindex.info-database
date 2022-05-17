@@ -3,29 +3,10 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: "M. David, D. Disnan, A. Lardschneider, D. Wacht, H. Hoang, G. Ramer, H. Detz, B. Lendl, U. Schmid, G. Strasser, B. Hinkov. Structure and mid-infrared optical properties of spin-coated polyethylene films developed for integrated photonics applications, <a href=\"https://doi.org/10.1364/OME.458667\"><i>Opt. Mater. Express</i> <b>12</b>, 2168-2180 (2022)</a>"
-COMMENTS: "Spin-coated LLDPE. Measured using approximately 270 nm thick film (concentration 2%, dissolved in Toluene)"
+COMMENTS: "Spin-coated LLDPE. Measured using approximately 270 nm thick film (concentration 2%, dissolved in Toluene). Data at λ < 2 μm removed on author's request."
 DATA:
   - type: tabulated nk
     data: |
-        1.619778 1.557220 0.012923
-        1.639756 1.559886 0.014332
-        1.659968 1.563746 0.015252
-        1.679866 1.567874 0.015776
-        1.699970 1.572950 0.015505
-        1.719989 1.579049 0.015114
-        1.739902 1.585471 0.015243
-        1.759982 1.591635 0.015952
-        1.779920 1.598371 0.016259
-        1.799690 1.606055 0.015646
-        1.819905 1.614236 0.015383
-        1.839925 1.622464 0.016099
-        1.859723 1.631096 0.016158
-        1.879952 1.639957 0.014692
-        1.899930 1.649752 0.013683
-        1.919981 1.660353 0.013545
-        1.939734 1.671284 0.013375
-        1.959897 1.683056 0.012807
-        1.979728 4.791272 0.000000
         1.999965 1.333523 0.000000
         2.019832 1.344924 0.000000
         2.039697 1.357032 0.000000
