@@ -2950,6 +2950,13 @@
         - PAGE: Suzuki
           name: "Suzuki et al. 1995: n,k 0.230-1.08 µm"
           data: "main/PbSe/Suzuki.yml"
+    - BOOK: PdSe2
+      name: "PdSe2 (Palladium diselenide)"
+      info: "main/PdSe2.html"
+      content:
+        - PAGE: Ermolaev
+          name: "Ermolaev et al. 2022: 4.5 nm film; n,k 0.200-10.0 µm"
+          data: "main/PdSe2/Ermolaev.yml"
     - BOOK: PtSe2
       name: "PtSe<sub>2</sub> (Platinum diselenide)"
       info: "main/PtSe2.html"

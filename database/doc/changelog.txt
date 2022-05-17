@@ -18,6 +18,7 @@
     main/Ir/Schmitt-ALS.yml
     main/Ir/Schmitt-MS.yml
   new data (thanks to Georgy Ermolaev, Moscow Institute of Physics and Technology, Russia, for submitting data in YAML format!)
+    main/PdSe2/Ermolaev.yml
     main/SnS2/Ermolaev.yml
     main/SnSe2/Ermolaev.yml
     main/PtS2/Ermolaev.yml
