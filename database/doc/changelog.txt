@@ -1,5 +1,7 @@
 ﻿============================== Next release ==============================
   
+  new data (thanks to Mauro David, Technical University of Vienna, Austria, for submitting data in YAML format!)
+    organic/(C2H4)n - polyethylene/David.yml
   bug fixes: increase number of decimal places (thanks to Fabian Schneider, Sentronics Metrology GmbH, Mannheim, Germany)
     main/Al/Cheng.yml
   bug fixes: corrected pressure (thanks to Nikolaos Siomos, Ludwig-Maximilians-Universität, Munich, Germany)

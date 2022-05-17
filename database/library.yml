@@ -4139,12 +4139,15 @@
           name: "Zhang et al. 2020: n,k 0.4-20 µm"
           data: "organic/(C2H3Cl)n - polyvinyl chloride/Zhang.yml"
     - BOOK: polyethylene
-      name: "(C<sub>2</sub>H<sub>4</sub>)<sub>n</sub> (Polyethylene, PE, HDPE)"
+      name: "(C<sub>2</sub>H<sub>4</sub>)<sub>n</sub> (Polyethylene, PE, HDPE, LDPE)"
       info: "organic/polyethylene.html"
       content:
         - PAGE: Smith
           name: "Smith and Loewenstein 1975: HDPE; n,k 40.0-200 µm"
           data: "organic/(C2H4)n - polyethylene/Smith.yml"
+        - PAGE: David
+          name: "David et al. 2022: LLDPE film; n,k 1.62-12.3 µm"
+          data: "organic/(C2H4)n - polyethylene/David.yml"
     - BOOK: polyvinyl_alcohol
       name: "(C<sub>2</sub>H<sub>4</sub>O)<sub>n</sub> (Polyvinyl alcohol, PVA)"
       info: "organic/polyvinyl alcohol.html"
