@@ -10884,6 +10884,36 @@
         - PAGE: Tkachenko-e
           name: "Tkachenko et al. 2006: n(e) 0.532-1.7 µm"
           data: "other/liquid crystals/5CB/Tkachenko-e.yml"
+        - PAGE: Wu-25.1C-o
+          name: "Wu et al. 1993: n(o) 0.4-0.8 µm; 25.1 °C"
+          data: "other/liquid crystals/5CB/Wu-25.1C-o.yml"
+        - PAGE: Wu-25.1C-e
+          name: "Wu et al. 1993: n(e) 0.4-0.8 µm; 25.1 °C"
+          data: "other/liquid crystals/5CB/Wu-25.1C-e.yml"
+        - PAGE: Wu-27.2C-o
+          name: "Wu et al. 1993: n(o) 0.4-0.8 µm; 27.2 °C"
+          data: "other/liquid crystals/5CB/Wu-27.2C-o.yml"
+        - PAGE: Wu-27.2C-e
+          name: "Wu et al. 1993: n(e) 0.4-0.8 µm; 27.2 °C"
+          data: "other/liquid crystals/5CB/Wu-27.2C-e.yml"
+        - PAGE: Wu-29.9C-o
+          name: "Wu et al. 1993: n(o) 0.4-0.8 µm; 29.9 °C"
+          data: "other/liquid crystals/5CB/Wu-29.9C-o.yml"
+        - PAGE: Wu-29.9C-e
+          name: "Wu et al. 1993: n(e) 0.4-0.8 µm; 29.9 °C"
+          data: "other/liquid crystals/5CB/Wu-29.9C-e.yml"
+        - PAGE: Wu-32.6C-o
+          name: "Wu et al. 1993: n(o) 0.4-0.8 µm; 32.6 °C"
+          data: "other/liquid crystals/5CB/Wu-32.6C-o.yml"
+        - PAGE: Wu-32.6C-e
+          name: "Wu et al. 1993: n(e) 0.4-0.8 µm; 32.6 °C"
+          data: "other/liquid crystals/5CB/Wu-32.6C-e.yml"
+        - PAGE: Wu-34.8C-o
+          name: "Wu et al. 1993: n(o) 0.4-0.8 µm; 34.8 °C"
+          data: "other/liquid crystals/5CB/Wu-34.8C-o.yml"
+        - PAGE: Wu-34.8C-e
+          name: "Wu et al. 1993: n(e) 0.4-0.8 µm; 34.8 °C"
+          data: "other/liquid crystals/5CB/Wu-34.8C-e.yml"
     - BOOK: 5PCH
       name: "5PCH (4-trans-pentylcyclohexylcyanobenzene)"
       info: "other/liquid crystals.html"
@@ -10894,6 +10924,48 @@
         - PAGE: Li-e
           name: "Li et al. 2005: n(e) 0.450-0.656 µm"
           data: "other/liquid crystals/5PCH/Li-e.yml"
+        - PAGE: Wu-25.0C-o
+          name: "Wu et al. 1993: n(o) 0.4-0.8 µm; 25.0 °C"
+          data: "other/liquid crystals/5PCH/Wu-25.0C-o.yml"
+        - PAGE: Wu-25.0C-e
+          name: "Wu et al. 1993: n(e) 0.4-0.8 µm; 25.0 °C"
+          data: "other/liquid crystals/5PCH/Wu-25.0C-e.yml"
+        - PAGE: Wu-30.4-o
+          name: "Wu et al. 1993: n(o) 0.4-0.8 µm; 30.4 °C"
+          data: "other/liquid crystals/5PCH/Wu-30.4C-o.yml"
+        - PAGE: Wu-30.4C-e
+          name: "Wu et al. 1993: n(e) 0.4-0.8 µm; 30.4 °C"
+          data: "other/liquid crystals/5PCH/Wu-30.4C-e.yml"
+        - PAGE: Wu-34.8C-o
+          name: "Wu et al. 1993: n(o) 0.4-0.8 µm; 34.8 °C"
+          data: "other/liquid crystals/5PCH/Wu-34.8C-o.yml"
+        - PAGE: Wu-34.8C-e
+          name: "Wu et al. 1993: n(e) 0.4-0.8 µm; 34.8 °C"
+          data: "other/liquid crystals/5PCH/Wu-34.8C-e.yml"
+        - PAGE: Wu-40.1C-o
+          name: "Wu et al. 1993: n(o) 0.4-0.8 µm; 40.1 °C"
+          data: "other/liquid crystals/5PCH/Wu-40.1C-o.yml"
+        - PAGE: Wu-40.1C-e
+          name: "Wu et al. 1993: n(e) 0.4-0.8 µm; 40.1 °C"
+          data: "other/liquid crystals/5PCH/Wu-40.1C-e.yml"
+        - PAGE: Wu-45.4C-o
+          name: "Wu et al. 1993: n(o) 0.4-0.8 µm; 45.4 °C"
+          data: "other/liquid crystals/5PCH/Wu-45.4C-o.yml"
+        - PAGE: Wu-45.4C-e
+          name: "Wu et al. 1993: n(e) 0.4-0.8 µm; 45.4 °C"
+          data: "other/liquid crystals/5PCH/Wu-45.4C-e.yml"   
+        - PAGE: Wu-50.8C-o
+          name: "Wu et al. 1993: n(o) 0.4-0.8 µm; 50.8 °C"
+          data: "other/liquid crystals/5PCH/Wu-50.8C-o.yml"
+        - PAGE: Wu-50.8C-e
+          name: "Wu et al. 1993: n(e) 0.4-0.8 µm; 50.8 °C"
+          data: "other/liquid crystals/5PCH/Wu-50.8C-e.yml"
+        - PAGE: Wu-53.4C-o
+          name: "Wu et al. 1993: n(o) 0.4-0.8 µm; 53.4 °C"
+          data: "other/liquid crystals/5PCH/Wu-53.4C-o.yml"
+        - PAGE: Wu-53.4C-e
+          name: "Wu et al. 1993: n(e) 0.4-0.8 µm; 53.4 °C"
+          data: "other/liquid crystals/5PCH/Wu-53.4C-e.yml"
     - BOOK: E7
       name: "E7"
       info: "other/liquid crystals.html"

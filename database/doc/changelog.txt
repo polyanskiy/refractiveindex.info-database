@@ -1,5 +1,30 @@
 ﻿============================== Next release ==============================
   
+  new data (thanks to Gavriil Romanenko, Kirensky Institute of Physics, Krasnoyarsk, Russia, for suggesting data!)
+    other/liquid crystals/5CB/Wu-25.1C-o.yml
+    other/liquid crystals/5CB/Wu-25.1C-e.yml
+    other/liquid crystals/5CB/Wu-27.2C-o.yml
+    other/liquid crystals/5CB/Wu-27.2C-e.yml
+    other/liquid crystals/5CB/Wu-29.9C-o.yml
+    other/liquid crystals/5CB/Wu-29.9C-e.yml
+    other/liquid crystals/5CB/Wu-32.6C-o.yml
+    other/liquid crystals/5CB/Wu-32.6C-e.yml
+    other/liquid crystals/5CB/Wu-34.8C-o.yml
+    other/liquid crystals/5CB/Wu-34.8C-e.yml
+    other/liquid crystals/5PCH/Wu-25.0C-o.yml
+    other/liquid crystals/5PCH/Wu-25.0C-e.yml
+    other/liquid crystals/5PCH/Wu-30.4C-o.yml
+    other/liquid crystals/5PCH/Wu-30.4C-e.yml
+    other/liquid crystals/5PCH/Wu-34.8C-o.yml
+    other/liquid crystals/5PCH/Wu-34.8C-e.yml
+    other/liquid crystals/5PCH/Wu-40.1C-o.yml
+    other/liquid crystals/5PCH/Wu-40.1C-e.yml
+    other/liquid crystals/5PCH/Wu-45.4C-o.yml
+    other/liquid crystals/5PCH/Wu-45.4C-e.yml   
+    other/liquid crystals/5PCH/Wu-50.8C-o.yml
+    other/liquid crystals/5PCH/Wu-50.8C-e.yml
+    other/liquid crystals/5PCH/Wu-53.4C-o.yml
+    other/liquid crystals/5PCH/Wu-53.4C-e.yml
   new data (thanks to Mauro David, Technical University of Vienna, Austria, for submitting data in YAML format!)
     organic/(C2H4)n - polyethylene/David.yml
   bug fixes: increase number of decimal places (thanks to Fabian Schneider, Sentronics Metrology GmbH, Mannheim, Germany)
