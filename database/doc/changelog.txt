@@ -1,5 +1,13 @@
 ﻿============================== Next release ==============================
   
+  new data
+    main/BaGa2GeSe6/Kato-o.yml
+    main/BaGa2GeSe6/Kato-e.yml
+    main/BaGa4S7/Kato-alpha.yml
+    main/BaGa4S7/Kato-beta.yml
+    main/BaGa4S7/Kato-gamma.yml
+    main/AgGaSe2/Kato-o.yml
+    main/AgGaSe2/Kato-e.yml	
   new data (thanks to Gavriil Romanenko, Kirensky Institute of Physics, Krasnoyarsk, Russia, for suggesting data!)
     other/liquid crystals/5CB/Wu-25.1C-o.yml
     other/liquid crystals/5CB/Wu-25.1C-e.yml
