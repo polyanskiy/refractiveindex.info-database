@@ -1,6 +1,8 @@
 ﻿============================== Next release ==============================
   
   new data
+    other/mixed crystals/AgGaS2-AgInS2/Kato-o.yml
+    other/mixed crystals/AgGaS2-AgInS2/Kato-e.yml
     main/BaGa2GeSe6/Kato-o.yml
     main/BaGa2GeSe6/Kato-e.yml
     main/BaGa4S7/Kato-alpha.yml

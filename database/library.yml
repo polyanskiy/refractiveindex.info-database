@@ -10611,7 +10611,7 @@
           data: "other/intermetallics/PtAl2/Chen.yml"
     - DIVIDER: "Mixed crystals"
     - BOOK: AgGaS2-AgInS2
-      name: "AgGaSBaGa<sub>2</sub>-AgInSBaGa<sub>2</sub>"
+      name: "AgGaS<sub>2</sub>-AgInS<sub>2</sub>"
       info: "other/AgGaS2-AgInS2.html"
       content:
         - PAGE: Kato-o
