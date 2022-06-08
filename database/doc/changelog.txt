@@ -1,5 +1,7 @@
 ﻿============================== Next release ==============================
   
+  new data (thanks to Alexandr Belosludtsev, Center for Physical Sciences and Technology, Vilnius, Lithuania, for submitting data!)
+    main/Cr/Sytchkova.yml
   new data
     other/mixed crystals/AgGaS2-AgInS2/Kato-o.yml
     other/mixed crystals/AgGaS2-AgInS2/Kato-e.yml
@@ -68,7 +70,7 @@
     other/fuel/biodisel/Wang-20C.yml
     other/fuel/biodisel/Wang-40C.yml
     other/fuel/biodisel/Wang-60C.yml
-  new data (thanks to Huygen Jöbsis, Utrecht University, Netherlands, for submitting data!!)
+  new data (thanks to Huygen Jöbsis, Utrecht University, Netherlands, for submitting data!)
     other/perovskite/Cs2AgBiBr6/Jobsis.yml
   updated data (thanks to  Gintaras Tamošauskas, Vilnus University, Lithuania, for providing absorption data!)
     main/BaB2O4/Tamosauskas-o.yml - extinction coefficient added

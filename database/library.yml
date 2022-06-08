@@ -808,6 +808,9 @@
         - PAGE: Johnson
           name: "Johnson and Christy 1974: n,k 0.188–1.937 µm"
           data: "main/Cr/Johnson.yml"
+        - PAGE: Sytchkova
+          name: "Sytchkova et al. 2021: 12 nm film; n,k 0.262–2.50 µm"
+          data: "main/Cr/Sytchkova.yml"
         - DIVIDER: "Models and simulations"
         - PAGE: Rakic-BB
           name: "Rakić et al. 1998: Brendel-Bormann model; n,k 0.248–62.0 µm"
