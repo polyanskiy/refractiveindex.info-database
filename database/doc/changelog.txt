@@ -1,5 +1,28 @@
 ﻿============================== Next release ==============================
   
+  new data (thanks to Tomasz Antosiewicz, University of Warsaw, Poland, for submitting data in YAML format!)
+    main/MoS2/Munkhbat-o.yml
+    main/MoS2/Munkhbat-e.yml
+    main/MoSe2/Munkhbat-o.yml
+    main/MoSe2/Munkhbat-e.yml
+    main/MoTe2/Munkhbat-o.yml
+    main/MoTe2/Munkhbat-e.yml
+    main/NbSe2/Munkhbat-o.yml
+    main/NbSe2/Munkhbat-e.yml
+    main/ReS2/Munkhbat-alpha.yml
+    main/ReS2/Munkhbat-beta.yml
+    main/ReS2/Munkhbat-gamma.yml
+    main/TaS2/Munkhbat-o.yml
+    main/TaS2/Munkhbat-e.yml
+    main/TaSe2/Munkhbat-o.yml
+    main/TaSe2/Munkhbat-e.yml
+    main/WS2/Munkhbat-o.yml
+    main/WS2/Munkhbat-e.yml
+    main/WSe2/Munkhbat-o.yml
+    main/WSe2/Munkhbat-e.yml
+    main/WTe2/Munkhbat-alpha.yml
+    main/WTe2/Munkhbat-beta.yml
+    main/WTe2/Munkhbat-gamma.yml
   new data (thanks to Alexandr Belosludtsev, Center for Physical Sciences and Technology, Vilnius, Lithuania, for submitting data!)
     main/Cr/Sytchkova.yml
   new data

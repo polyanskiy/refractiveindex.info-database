@@ -2682,6 +2682,13 @@
         - PAGE: Islam-e
           name: "Islam et al. 2021: 33.5-nm film; n(e) 0.954–1.70 µm"
           data: "main/MoS2/Islam-e.yml"
+        - DIVIDER: "Multilayer flakes"
+        - PAGE: Munkhbat-o
+          name: "Munkhbat et al. 2022: multilayer flakes; n(o),k 0.30–1.69 µm"
+          data: "main/MoS2/Munkhbat-o.yml"
+        - PAGE: Munkhbat-e
+          name: "Munkhbat et al. 2022: multilayer flakes; n(e) 0.30–1.69 µm"
+          data: "main/MoS2/Munkhbat-e.yml" 
         - DIVIDER: "2D structures"
         - PAGE: Zhang
           name: "Zhang et al. 2015: monolayer (1L) film; n,k 0.40–0.75 µm"
@@ -2742,6 +2749,20 @@
         - PAGE: Ermolaev
           name: "Ermolaev et al. 2021: 5 nm film; n,k 0.245–3.30 µm"
           data: "main/PtS2/Ermolaev.yml"
+    - BOOK: ReS2
+      name: "ReS<sub>2</sub> (Rhenium disulfide)"
+      info: "main/ReS2.html"
+      content:
+        - DIVIDER: "Multilayer flakes"
+        - PAGE: Munkhbat-α
+          name: "Munkhbat et al. 2022: multilayer flakes; n(α),k(α) 0.30–1.69 µm"
+          data: "main/ReS2/Munkhbat-alpha.yml"
+        - PAGE: Munkhbat-β
+          name: "Munkhbat et al. 2022: multilayer flakes; n(β),k(β) 0.30–1.69 µm"
+          data: "main/ReS2/Munkhbat-beta.yml"
+        - PAGE: Munkhbat-γ
+          name: "Munkhbat et al. 2022: multilayer flakes; n(γ) 0.30–1.69 µm"
+          data: "main/ReS2/Munkhbat-gamma.yml"
     - BOOK: SnS2
       name: "SnS<sub>2</sub> (Tin disulfide)"
       info: "main/SnS2.html"
@@ -2749,6 +2770,17 @@
         - PAGE: Ermolaev
           name: "Ermolaev et al. 2022: thin film; n 0.300–3.30 µm, k 0.300–0.629 µm"
           data: "main/SnS2/Ermolaev.yml"
+    - BOOK: TaS2
+      name: "TaS<sub>2</sub> (Tantalum disulfide)"
+      info: "main/TaS2.html"
+      content:
+        - DIVIDER: "Multilayer flakes"
+        - PAGE: Munkhbat-o
+          name: "Munkhbat et al. 2022: multilayer flakes; n,k(o) 0.30–1.69 µm"
+          data: "main/TaS2/Munkhbat-o.yml"
+        - PAGE: Munkhbat-e
+          name: "Munkhbat et al. 2022: multilayer flakes; n,k(e) 0.30–1.69 µm"
+          data: "main/TaS2/Munkhbat-e.yml"
     - BOOK: WS2
       name: "WS<sub>2</sub> (Tungsten disulfide)"
       info: "main/WS2.html"
@@ -2769,6 +2801,13 @@
         - PAGE: Hsu-3L
           name: "Hsu et al. 2019: 3-layer (3L) film; n,k 0.40–0.85 µm"
           data: "main/WS2/Hsu-3L.yml"
+        - DIVIDER: "Multilayer flakes"
+        - PAGE: Munkhbat-o
+          name: "Munkhbat et al. 2022: multilayer flakes; n(o),k 0.30–1.69 µm"
+          data: "main/WS2/Munkhbat-o.yml"
+        - PAGE: Munkhbat-e
+          name: "Munkhbat et al. 2022: multilayer flakes; n(e) 0.30–1.69 µm"
+          data: "main/WS2/Munkhbat-e.yml"
     - BOOK: ZnS
       name: "ZnS (Zinc sulfide)"
       info: "main/ZnS.html"
@@ -2986,6 +3025,24 @@
         - PAGE: Hsu-3L
           name: "Hsu et al. 2019: 3-layer (3L) film; n,k 0.40–0.86 µm"
           data: "main/MoSe2/Hsu-3L.yml"
+        - DIVIDER: "Multilayer flakes"
+        - PAGE: Munkhbat-o
+          name: "Munkhbat et al. 2022: multilayer flakes; n(o),k 0.30–1.69 µm"
+          data: "main/MoSe2/Munkhbat-o.yml"
+        - PAGE: Munkhbat-e
+          name: "Munkhbat et al. 2022: multilayer flakes; n(e) 0.30–1.69 µm"
+          data: "main/MoSe2/Munkhbat-e.yml"
+    - BOOK: NbSe2
+      name: "NbSe<sub>2</sub> (Niobium diselenide)"
+      info: "main/NbSe2.html"
+      content:
+        - DIVIDER: "Multilayer flakes"
+        - PAGE: Munkhbat-o
+          name: "Munkhbat et al. 2022: multilayer flakes; n,k(o) 0.30–1.69 µm"
+          data: "main/NbSe2/Munkhbat-o.yml"
+        - PAGE: Munkhbat-e
+          name: "Munkhbat et al. 2022: multilayer flakes; n,k(e) 0.30–1.69 µm"
+          data: "main/NbSe2/Munkhbat-e.yml"
     - BOOK: PbSe
       name: "PbSe (Lead selenide)"
       info: "main/PbSe.html"
@@ -3019,6 +3076,17 @@
         - PAGE: Ermolaev
           name: "Ermolaev et al. 2022: thin film; n 0.300–3.30 µm, k 0.300–1.68 µm"
           data: "main/SnSe2/Ermolaev.yml"
+    - BOOK: TaSe2
+      name: "TaSe<sub>2</sub> (Tantalum diselenide)"
+      info: "main/TaSe2.html"
+      content:
+        - DIVIDER: "Multilayer flakes"
+        - PAGE: Munkhbat-o
+          name: "Munkhbat et al. 2022: multilayer flakes; n,k(o) 0.30–1.69 µm"
+          data: "main/TaSe2/Munkhbat-o.yml"
+        - PAGE: Munkhbat-e
+          name: "Munkhbat et al. 2022: multilayer flakes; n,k(e) 0.30–1.69 µm"
+          data: "main/TaSe2/Munkhbat-e.yml"
     - BOOK: Tl3AsSe3
       name: "Tl<sub>3</sub>AsSe<sub>3</sub> (Thallium arsenic selenide, TAS)"
       info: "main/Tl3AsSe3.html"
@@ -3035,7 +3103,7 @@
       content:
         - DIVIDER: "2D structures"
         - PAGE: Jung
-          name: "Jung et al. 2019: monolayer film; n,k 0.38–0.89 µm"
+          name: "Jung et al. 2019: monolayer (1L) film; n,k 0.38–0.89 µm"
           data: "main/WSe2/Jung.yml"
         - PAGE: Ermolaev
           name: "Ermolaev et al. 2021: monolayer (1L) film; n,k 0.30–1.70 µm"
@@ -3064,6 +3132,13 @@
         - PAGE: Hsu-3L
           name: "Hsu et al. 2019: 3-layer (3L) film; n,k 0.40–0.85 µm"
           data: "main/WSe2/Hsu-3L.yml"
+        - DIVIDER: "Multilayer flakes"
+        - PAGE: Munkhbat-o
+          name: "Munkhbat et al. 2022: multilayer flakes; n(o),k 0.30–1.69 µm"
+          data: "main/WSe2/Munkhbat-o.yml"
+        - PAGE: Munkhbat-e
+          name: "Munkhbat et al. 2022: multilayer flakes; n(e) 0.30–1.69 µm"
+          data: "main/WSe2/Munkhbat-e.yml"
     - BOOK: ZnSe
       name: "ZnSe (Zinc selenide)"
       info: "main/ZnSe.html"
@@ -3314,9 +3389,17 @@
       name: "MoTe<sub>2</sub> (Molybdenum ditelluride)"
       info: "main/MoTe2.html"
       content:
+        - DIVIDER: "Bulk"
         - PAGE: Beal
           name: "Beal and Huges 1979: n,k 0.069–1.22 µm"
           data: "main/MoTe2/Beal.yml"
+        - DIVIDER: "Multilayer flakes"
+        - PAGE: Munkhbat-o
+          name: "Munkhbat et al. 2022: multilayer flakes; n(o),k 0.30–1.69 µm"
+          data: "main/MoTe2/Munkhbat-o.yml"
+        - PAGE: Munkhbat-e
+          name: "Munkhbat et al. 2022: multilayer flakes; n(e) 0.30–1.69 µm"
+          data: "main/MoTe2/Munkhbat-e.yml"
     - BOOK: PbTe
       name: "PbTe (Lead telluride)"
       info: "main/PbTe.html"
@@ -3330,6 +3413,20 @@
         - PAGE: Weiting-80K
           name: "Weiting and Yixun 1990: n 5.19–12.5 µm; 80 K"
           data: "main/PbTe/Weiting-80K.yml"
+    - BOOK: WTe2
+      name: "WTe<sub>2</sub> (Tungsten ditelluride)"
+      info: "main/WTe2.html"
+      content:
+        - DIVIDER: "Multilayer flakes"
+        - PAGE: Munkhbat-α
+          name: "Munkhbat et al. 2022: multilayer flakes; n(α),k(α) 0.30–1.69 µm"
+          data: "main/WTe2/Munkhbat-alpha.yml"
+        - PAGE: Munkhbat-β
+          name: "Munkhbat et al. 2022: multilayer flakes; n(β),k(β) 0.30–1.69 µm"
+          data: "main/WTe2/Munkhbat-beta.yml"
+        - PAGE: Munkhbat-γ
+          name: "Munkhbat et al. 2022: multilayer flakes; n(γ) 0.30–1.69 µm"
+          data: "main/WTe2/Munkhbat-gamma.yml"
     - BOOK: ZnTe
       name: "ZnTe (Zinc telluride)"
       info: "main/ZnTe.html"
