@@ -1,5 +1,14 @@
 ﻿============================== Next release ==============================
   
+  new data (thanks to Tobias König, Leibniz-Institut für Polymerforschung Dresden, Germany!)
+    other/mixed organic-inorganic/H2O-C3H5(OH)3/Gupta-0.yml
+    other/mixed organic-inorganic/H2O-C3H5(OH)3/Gupta-20.yml
+    other/mixed organic-inorganic/H2O-C3H5(OH)3/Gupta-50.yml
+    organic/C3H8O3 - glycerol/Gupta.yml
+    main/D2O/Sarkar.yml
+    other/mixed organic-inorganic/D2O-C3H5(OH)3/Sarkar-25.yml
+    other/mixed organic-inorganic/D2O-C3H5(OH)3/Sarkar-50.yml
+    other/mixed organic-inorganic/D2O-C3H5(OH)3/Sarkar-75.yml
   new data (thanks to Tomasz Antosiewicz, University of Warsaw, Poland, for submitting data in YAML format!)
     main/MoS2/Munkhbat-o.yml
     main/MoS2/Munkhbat-e.yml

@@ -1976,6 +1976,9 @@
         - PAGE: Wang-D2O
           name: "Wang et al. 2016: Heavy water; k 1.2–2.6 µm"
           data: "main/D2O/Wang.yml"
+        - PAGE: Sarkar-D2O
+          name: "Sarkar et al. 2022: n 0.48–0.71 µm"
+          data: "main/D2O/Sarkar.yml"
         - PAGE: Asfar-D2O
           name: "Afsar and Hasted 1977: Heavy water; n,k 250–2000 µm"
           data: "main/D2O/Asfar.yml"
@@ -3983,6 +3986,9 @@
         - PAGE: Rheims
           name: "Rheims et al. 1997: n 0.589–1.05 µm"
           data: "organic/C3H8O3 - glycerol/Rheims.yml"
+        - PAGE: Gupta
+          name: "Gupta et al. 2022: n 0.40–0.71 µm"
+          data: "organic/C3H8O3 - glycerol/Gupta.yml"
         - PAGE: Wang
           name: "Wang et al. 2017: k 1.2–1.9 µm"
           data: "organic/C3H8O3 - glycerol/Wang.yml"
@@ -10905,6 +10911,41 @@
           name: "Kerremans et al. 2020; n,k 0.37–1.6 µm"
           data: "other/mixed organic/PBDBT-ITIC/Kerremans.yml"      
     - DIVIDER: "Mixed organic/inorganic compounds"
+    - BOOK: H2O-C3H5(OH)3
+      name: "H<sub>2</sub>O:C<sub>3</sub>H<sub>5</sub>(OH)<sub>3</sub> (Water:Glycerol)"
+      info: "noinfo.html"
+      content:
+        - PAGE: Gupta-0
+          name: "Gupta et al. 2022: n 0.40–0.71 µm; 0 wt% glycerol"
+          data: "other/mixed organic-inorganic/H2O-C3H5(OH)3/Gupta-0.yml"
+        - PAGE: Gupta-20
+          name: "Gupta et al. 2022: n 0.40–0.71 µm; 20 wt% glycerol"
+          data: "other/mixed organic-inorganic/H2O-C3H5(OH)3/Gupta-20.yml"
+        - PAGE: Gupta-50
+          name: "Gupta et al. 2022: n 0.40–0.71 µm; 50 wt% glycerol"
+          data: "other/mixed organic-inorganic/H2O-C3H5(OH)3/Gupta-50.yml"
+        - PAGE: Gupta-100
+          name: "Gupta et al. 2022: n 0.40–0.71 µm; 100 wt% glycerol"
+          data: "organic/C3H8O3 - glycerol/Gupta.yml"      
+    - BOOK: D2O-C3H5(OH)3
+      name: "D<sub>2</sub>O:C<sub>3</sub>H<sub>5</sub>(OH)<sub>3</sub> (Heavy water:Glycerol)"
+      info: "noinfo.html"
+      content:
+        - PAGE: Sarkar-0
+          name: "Sarkar et al. 2022: n 0.48–0.71 µm; 0 wt% glycerol"
+          data: "main/D2O/Sarkar.yml"
+        - PAGE: Sarkar-25
+          name: "Sarkar et al. 2022: n 0.40–0.71 µm; 25 wt% glycerol"
+          data: "other/mixed organic-inorganic/D2O-C3H5(OH)3/Sarkar-25.yml"
+        - PAGE: Sarkar-50
+          name: "Sarkar et al. 2022: n 0.40–0.71 µm; 50 wt% glycerol"
+          data: "other/mixed organic-inorganic/D2O-C3H5(OH)3/Sarkar-50.yml"
+        - PAGE: Sarkar-75
+          name: "Sarkar et al. 2022: n 0.40–0.71 µm; 75 wt% glycerol"
+          data: "other/mixed organic-inorganic/D2O-C3H5(OH)3/Sarkar-75.yml"
+        - PAGE: Gupta-100
+          name: "Gupta et al. 2022: n 0.40–0.71 µm; 100 wt% glycerol"
+          data: "organic/C3H8O3 - glycerol/Gupta.yml" 
     - BOOK: Cu-C12H4N4
       name: "Cu:C<sub>12</sub>H<sub>4</sub>N<sub>4</sub> (Copper:tetracyanoquinodimethane, Cu:TCNQ )"
       info: "other/Cu-C12H4N4.html"
@@ -10918,7 +10959,7 @@
       content:
         - PAGE: Querry
           name: "Querry 1985: n,k 0.21–55.6 µm"
-          data: "other/mixed organic-inorganic/Li-C12H4N4/Querry.yml"
+          data: "other/mixed organic-inorganic/Li-C12H4N4/Querry.yml"       
     - DIVIDER: "Commercial plastics"
     - BOOK: CR-39
       name: "CR-39"
