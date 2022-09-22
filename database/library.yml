@@ -1973,12 +1973,12 @@
         - PAGE: Kedenburg-D2O
           name: "Kedenburg et al. 2012: Heavy water; n 0.5–1.6 µm, k 0.5–1.75 µm"
           data: "main/D2O/Kedenburg.yml"
-        - PAGE: Wang-D2O
-          name: "Wang et al. 2016: Heavy water; k 1.2–2.6 µm"
-          data: "main/D2O/Wang.yml"
         - PAGE: Sarkar-D2O
           name: "Sarkar et al. 2022: n 0.48–0.71 µm"
           data: "main/D2O/Sarkar.yml"
+        - PAGE: Wang-D2O
+          name: "Wang et al. 2016: Heavy water; k 1.2–2.6 µm"
+          data: "main/D2O/Wang.yml"
         - PAGE: Asfar-D2O
           name: "Afsar and Hasted 1977: Heavy water; n,k 250–2000 µm"
           data: "main/D2O/Asfar.yml"
@@ -3364,6 +3364,13 @@
         - PAGE: Ciesielski
           name: "Ciesielski et al. 2018: 30-nm film; n,k 0.2–2 µm"
           data: "main/Te/Ciesielski.yml"
+        - DIVIDER: "Tellurium (2D Te)"
+        - PAGE: Guo-o
+          name: "Guo et al. 2021: n,k(o) 0.400–0.900 µm"
+          data: "main/Te/Guo-o.yml"
+        - PAGE: Guo-e
+          name: "Guo et al. 2021: n,k(e) 0.400–0.900 µm"
+          data: "main/Te/Guo-e.yml"
     - BOOK: CdTe
       name: "CdTe (Cadmium telluride)"
       info: "main/CdTe.html"
@@ -3444,7 +3451,20 @@
         - DIVIDER: "Models and simulations"
         - PAGE: Sato
           name: "Sato and Adachi 1993: n,k 0.221–0.827 µm"
-          data: "main/ZnTe/Sato.yml"
+          data: "main/ZnTe/Sato.yml"      
+    - BOOK: ZrTe5
+      name: "ZrTe5 (Zirconium pentatelluride)"
+      info: "main/ZrTe5.html"
+      content:      
+        - PAGE: Guo-α
+          name: "Guo et al. 2021: n,k(α) 0.193–1.69 µm"
+          data: "main/ZrTe5/Guo-alpha.yml"
+        - PAGE: Guo-β
+          name: "Guo et al. 2021: n,k(β) 0.193–1.69 µm"
+          data: "main/ZrTe5/Guo-beta.yml"
+        - PAGE: Guo-γ
+          name: "Guo et al. 2021: n,k(γ) 0.193–1.69 µm"
+          data: "main/ZrTe5/Guo-gamma.yml"
     - DIVIDER: "Ti - Titanium and titanates"
     - BOOK: Ti
       name: "Ti (Titanium)"
