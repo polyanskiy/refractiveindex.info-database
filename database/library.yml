@@ -1585,15 +1585,23 @@
       name: "AlN (Aluminium nitride)"
       info: "main/AlN.html"
       content:
-        - PAGE: Kischkat
-          name: "Kischkat et al. 2012: Thin film; n,k 1.54–14.29 µm"
-          data: "main/AlN/Kischkat.yml"
+        - DIVIDER: "Bulk"
         - PAGE: Pastrnak-o
           name: "Pastrňák and Roskovcová 1966: n(o) 0.22–5 µm"
           data: "main/AlN/Pastrnak-o.yml"
         - PAGE: Pastrnak-e
           name: "Pastrňák and Roskovcová 1966: n(e) 0.22–5 µm"
           data: "main/AlN/Pastrnak-e.yml"
+        - DIVIDER: "Thin film"
+        - PAGE: Kischkat
+          name: "Kischkat et al. 2012: n,k 1.54–14.29 µm"
+          data: "main/AlN/Kischkat.yml"
+        - PAGE: Beliaev1
+          name: "Beliaev et al. 2021: n,k 0.211–1.69 µm"
+          data: "main/AlN/Beliaev1.yml"
+        - PAGE: Beliaev2
+          name: "Beliaev et al. 2021: n,k 2–20 µm"
+          data: "main/AlN/Beliaev2.yml"
     - BOOK: BN
       name: "BN (Boron nitride)"
       info: "main/BN.html"
