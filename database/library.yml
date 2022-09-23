@@ -3366,10 +3366,10 @@
           data: "main/Te/Ciesielski.yml"
         - DIVIDER: "Tellurium (2D Te)"
         - PAGE: Guo-o
-          name: "Guo et al. 2021: n,k(o) 0.400–0.900 µm"
+          name: "Guo et al. 2022: n,k(o) 0.400–0.900 µm"
           data: "main/Te/Guo-o.yml"
         - PAGE: Guo-e
-          name: "Guo et al. 2021: n,k(e) 0.400–0.900 µm"
+          name: "Guo et al. 2022: n,k(e) 0.400–0.900 µm"
           data: "main/Te/Guo-e.yml"
     - BOOK: CdTe
       name: "CdTe (Cadmium telluride)"
@@ -3457,13 +3457,13 @@
       info: "main/ZrTe5.html"
       content:      
         - PAGE: Guo-α
-          name: "Guo et al. 2021: n,k(α) 0.193–1.69 µm"
+          name: "Guo et al. 2021: n,k(α) 0.193–1.30 µm"
           data: "main/ZrTe5/Guo-alpha.yml"
         - PAGE: Guo-β
-          name: "Guo et al. 2021: n,k(β) 0.193–1.69 µm"
+          name: "Guo et al. 2021: n,k(β) 0.193–1.30 µm"
           data: "main/ZrTe5/Guo-beta.yml"
         - PAGE: Guo-γ
-          name: "Guo et al. 2021: n,k(γ) 0.193–1.69 µm"
+          name: "Guo et al. 2021: n,k(γ) 0.193–1.30 µm"
           data: "main/ZrTe5/Guo-gamma.yml"
     - DIVIDER: "Ti - Titanium and titanates"
     - BOOK: Ti
