@@ -1,5 +1,7 @@
 ﻿============================== Next release ==============================
   
+  new data (thanks to Kevin​ McPeak, Louisiana State University, Baton Rouge, LA, USA, for submitting data!)
+    organic/C9H11NO3 - tyrosine/Leite.yml
   new data (thanks to Osamu Takayama, Technical University of Denmark, Lyngby, Denmark, for submitting data!)
     main/AlN/Beliaev1.yml
     main/AlN/Beliaev2.yml

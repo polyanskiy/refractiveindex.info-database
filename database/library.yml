@@ -4232,6 +4232,14 @@
         - PAGE: Myers
           name: "Myers et al. 2018: n,k 1.28–25.0 µm"
           data: "organic/C8H19NO - diisopropylaminoethanol/Myers.yml"
+    - DIVIDER: "Amino acids"
+    - BOOK: tyrosine
+      name: "C<sub>9</sub>H<sub>11</sub>NO<sub>3</sub> (Tyrosine)"
+      info: "organic/tyrosine.html"
+      content:
+        - PAGE: Leite
+          name: "Leite et al. 2022: L-Tyrosine; n,k 0.210–0.320 µm"
+          data: "organic/C9H11NO3 - tyrosine/Leite.yml"
     - DIVIDER: "Other non-polymer compounds"
     - BOOK: urea
       name: "CH<sub>4</sub>N<sub>2</sub>O (Urea)"
