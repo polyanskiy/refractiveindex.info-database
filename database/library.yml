@@ -11385,6 +11385,13 @@
           name: "Microchem SU-8 3000"
           data: "other/resists/Microchem SU-8 3000.yml"
     - DIVIDER: "Perovskite"
+    - BOOK: CH3NH3PbBr3
+      name: "CH3NH3PbBr3 (Methylammonium lead tribromide, MAPbBr3)"
+      info: "other/CH3NH3PbBr3.html"
+      content:
+        - PAGE: Ishteev
+          name: "Ishteev et al. 2022; n,k 0.290–3.30 µm"
+          data: "other/perovskite/CH3NH3PbBr3/Ishteev.yml"
     - BOOK: CH3NH3PbI3
       name: "CH3NH3PbI3 (Methylammonium lead iodide, MAPbI3)"
       info: "other/CH3NH3PbI3.html"
