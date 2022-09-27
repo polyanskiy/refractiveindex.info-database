@@ -1,5 +1,9 @@
 ﻿============================== Next release ==============================
   
+  new data (thanks to Brian Iezzi, University of Michigan, Ann Arbor, MI, USA, for submitting data!)
+    other/optical adhesives/Loctite-3526/Iezzi.yml
+    other/optical adhesives/NOA-170/Iezzi.yml
+    other/optical adhesives/NOA-1348/Iezzi.yml
   new data (thanks to Georgy Ermolaev, Moscow Institute of Physics and Technology, Russia, for submitting data in YAML format!)
     other/perovskite/CH3NH3PbBr3/Ishteev.yml
   new data (thanks to Kevin​ McPeak, Louisiana State University, Baton Rouge, LA, USA, for submitting data!)
@@ -10,7 +14,7 @@
   new data (thanks to Zhengfeng Guo, Huazhong University of Science and Technology, Wuhan, China, for submitting data!)
     main/ZrTe5/Guo-alpha.yml
     main/ZrTe5/Guo-beta.yml
-	main/ZrTe5/Guo-alpha.yml
+    main/ZrTe5/Guo-alpha.yml
     main/Te/Guo-o.yml
     main/Te/Guo-e.yml
   new data (thanks to Tobias König, Leibniz-Institut für Polymerforschung Dresden, Germany!)

@@ -11334,6 +11334,13 @@
           name: "Wang et al. 2017: k 1.2–1.9 µm"
           data: "other/immersion oils/Sigma Aldrich M5904/Wang.yml"
     - DIVIDER: "Optical adhesives"
+    - BOOK: Loctite-3526
+      name: "Loctite 3526"
+      info: "other/optical adhesives.html"
+      content:
+        - PAGE: Iezzi
+          name: "Iezzi et al. 2020: n 0.300–1.00 µm"
+          data: "other/optical adhesives/Loctite-3526/Iezzi.yml"
     - BOOK: Norland NOA-61
       name: "Norland NOA 61"
       info: "other/optical adhesives.html"
@@ -11344,6 +11351,20 @@
         - PAGE: Joseph
           name: "Joseph et al. 2020: 1000-nm film, Uncured; n 0.246–1.69 µm"
           data: "other/optical adhesives/NOA-61/Joseph.yml"
+    - BOOK: Norland NOA-170
+      name: "Norland NOA 170"
+      info: "other/optical adhesives.html"
+      content:
+        - PAGE: Iezzi
+          name: "Iezzi et al. 2020: n 0.300–1.00 µm"
+          data: "other/optical adhesives/NOA-170/Iezzi.yml"
+    - BOOK: Norland NOA-1348
+      name: "Norland NOA 1348"
+      info: "other/optical adhesives.html"
+      content:
+        - PAGE: Iezzi
+          name: "Iezzi et al. 2020: n 0.300–1.00 µm"
+          data: "other/optical adhesives/NOA-1348/Iezzi.yml"
     - DIVIDER: "Resists"
     - BOOK: pmma_resists
       name: "PMMA resists"
