@@ -1,5 +1,7 @@
 ﻿============================== Next release ==============================
   
+  new data (thanks to "jmmelko" (GitHub username), for suggesting data!)
+    glass/misc/ZBLAN/Gan.yml
   new data (thanks to Brian Iezzi, University of Michigan, Ann Arbor, MI, USA, for submitting data!)
     other/optical adhesives/Loctite-3526/Iezzi.yml
     other/optical adhesives/NOA-170/Iezzi.yml

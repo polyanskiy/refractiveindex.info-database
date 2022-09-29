@@ -4679,6 +4679,13 @@
         - PAGE: Vogt-703ppm
           name: "Vogt et al. 2016: 703 ppm Fe2O3; n,k 0.30–1.69 µm"
           data: "glass/misc/soda-lime/Vogt-703ppm.yml"
+    - BOOK: ZBLAN
+      name: "ZBLAN fluoride glass"
+      info: "glass/ZBLAN.html"
+      content:
+        - PAGE: Gan
+          name: "Gan 1995: n 0.365–3.50 µm"
+          data: "glass/misc/ZBLAN/Gan.yml"
     - BOOK: SCHOTT-multipurpose
       name: "SCHOTT - multiple purpose"
       info: "glass/SCHOTT.html"
@@ -11341,7 +11348,7 @@
         - PAGE: Iezzi
           name: "Iezzi et al. 2020: n 0.300–1.00 µm"
           data: "other/optical adhesives/Loctite-3526/Iezzi.yml"
-    - BOOK: Norland NOA-61
+    - BOOK: Norland_NOA-61
       name: "Norland NOA 61"
       info: "other/optical adhesives.html"
       content:
@@ -11351,14 +11358,14 @@
         - PAGE: Joseph
           name: "Joseph et al. 2020: 1000-nm film, Uncured; n 0.246–1.69 µm"
           data: "other/optical adhesives/NOA-61/Joseph.yml"
-    - BOOK: Norland NOA-170
+    - BOOK: Norland_NOA-170
       name: "Norland NOA 170"
       info: "other/optical adhesives.html"
       content:
         - PAGE: Iezzi
           name: "Iezzi et al. 2020: n 0.300–1.00 µm"
           data: "other/optical adhesives/NOA-170/Iezzi.yml"
-    - BOOK: Norland NOA-1348
+    - BOOK: Norland_NOA-1348
       name: "Norland NOA 1348"
       info: "other/optical adhesives.html"
       content:
