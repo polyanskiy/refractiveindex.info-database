@@ -1,4 +1,4 @@
-﻿============================== Next release ==============================
+﻿============================== 2022-10-01 ==============================
   
   new data (thanks to "jmmelko" (GitHub username), for suggesting data!)
     glass/misc/ZBLAN/Gan.yml
