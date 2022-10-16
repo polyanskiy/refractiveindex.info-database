@@ -2046,8 +2046,14 @@
       info: "main/Nb2O5.html"
       content:
         - PAGE: Lemarchand
-          name: "Lemarchand 2013: n,k 0.25–2.5 µm"
+          name: "Lemarchand 2013: Thin film; n,k 0.25–2.5 µm"
           data: "main/Nb2O5/Lemarchand.yml"
+        - PAGE: Horcholle-400
+          name: "Horcholle et al. 2022: Thin film annealed at 400 °C; n,k 0.207–0.827 µm"
+          data: "main/Nb2O5/Horcholle-400.yml"
+        - PAGE: Horcholle-800
+          name: "Horcholle et al. 2022: Thin film annealed at 800 °C; n,k 0.207–0.827 µm"
+          data: "main/Nb2O5/Horcholle-800.yml"
     - BOOK: Sc2O3
       name: "Sc<sub>2</sub>O<sub>3</sub> (Scandium sesquioxide)"
       info: "main/Sc2O3.html"
@@ -2149,6 +2155,12 @@
         - PAGE: Kischkat
           name: "Kischkat et al. 2012: Thin film; n,k 1.54–14.29 µm"
           data: "main/TiO2/Kischkat.yml"
+        - PAGE: Jolivet-anatase
+          name: "Jolivet et al. 2023: Anatase thin film; n,k 0.207–0.827 µm"
+          data: "main/TiO2/Jolivet-anatase.yml"
+        - PAGE: Jolivet-amorphous
+          name: "Jolivet et al. 2023: Amorphous thin film; n,k 0.207–0.827 µm"
+          data: "main/TiO2/Jolivet-amorphous.yml"
         - PAGE: Sarkar
           name: "Sarkar et al. 2019: Thin film; n,k 0.30–1.69 µm"
           data: "main/TiO2/Sarkar.yml"
