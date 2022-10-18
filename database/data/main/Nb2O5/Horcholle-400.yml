@@ -2,7 +2,7 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "B. Horcholle, C. Labbé, X. Portier, P. Marie, C. Frilay, W. Yuanb, W. Jadwisienczak, D. Ingram, C. Grygiel, J. Cardin. Growth and study of Tb<sup>3+</sup> doped Nb<sub>2</sub>O<sub>5</sub> thin films by radiofrequency magnetron sputtering: photoluminescence properties. <a href=\"https://doi.org/10.1016/j.apsusc.2022.153711\"><i>Appl. Surf. Sci.</i> <b>597</b>, 153711 (2022)</a> (Numerical data kindly provided by Julien Cardin)"
+REFERENCES: "B. Horcholle, C. Labbé, X. Portier, P. Marie, C. Frilay, W. Yuan, W. Jadwisienczak, D. Ingram, C. Grygiel, J. Cardin. Growth and study of Tb<sup>3+</sup> doped Nb<sub>2</sub>O<sub>5</sub> thin films by radiofrequency magnetron sputtering: photoluminescence properties. <a href=\"https://doi.org/10.1016/j.apsusc.2022.153711\"><i>Appl. Surf. Sci.</i> <b>597</b>, 153711 (2022)</a> (Numerical data kindly provided by Julien Cardin)"
 COMMENTS: "Nb<sub>2</sub>O<sub>5</sub> thin film deposited by reactive magnetron sputtering and annealed by rapid treatment annealing at 400 °C"
 DATA:
   - type: tabulated nk
