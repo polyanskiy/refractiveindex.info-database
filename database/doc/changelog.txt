@@ -1,5 +1,7 @@
 ﻿============================== Next release ==============================
 
+   new data (thanks to Simon Vassant, Université Paris-Saclay, Gif-sur-Yvette, France, for submitting data in YAML format and calculation script!)
+    other/semiconductor alloys/GaAs-InAs/Le.yml
   new data (thanks to Julien Cardin, Centre de recherche sur les ions, les matériaux et la photonique, Caen, France, for submitting data in YAML format!)
     main/Nb2O5/Horcholle-400.yml
     main/Nb2O5/Horcholle-800.yml

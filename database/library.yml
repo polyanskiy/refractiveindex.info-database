@@ -10701,12 +10701,15 @@
           name: "Hartnett et al. 1998: 7.17 at.% N; n,k 0.24–5.6 µm"
           data: "other/semiconductor alloys/AlN-Al2O3/Hartnett-7.17.yml"
     - BOOK: GaAs-InAs
-      name: "GaAs-InAs (Gallium indium arsenide, GaInAs)"
+      name: "GaAs-InAs (Gallium indium arsenide, GaInAs, InGaAs)"
       info: "other/GaAs-InAs.html"
       content:
         - PAGE: Adachi
           name: "Adachi 1989: n,k 0.207–12.4 µm"
           data: "other/semiconductor alloys/GaAs-InAs/Adachi.yml"
+        - PAGE: Le
+          name: "Le et al. 2022: n,k 16.7–48.4 µm"
+          data: "other/semiconductor alloys/GaAs-InAs/Le.yml"
     - BOOK: GaP-InP
       name: "GaP-InP (Gallium indium phosphide, GaInP)"
       info: "other/GaP-InP.html"
