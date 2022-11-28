@@ -1585,22 +1585,22 @@
       name: "AlN (Aluminium nitride)"
       info: "main/AlN.html"
       content:
-        - DIVIDER: "Bulk"
+        - DIVIDER: "Bulk stoichiometric AlN"
         - PAGE: Pastrnak-o
           name: "Pastrňák and Roskovcová 1966: n(o) 0.22–5 µm"
           data: "main/AlN/Pastrnak-o.yml"
         - PAGE: Pastrnak-e
           name: "Pastrňák and Roskovcová 1966: n(e) 0.22–5 µm"
           data: "main/AlN/Pastrnak-e.yml"
-        - DIVIDER: "Thin film"
+        - DIVIDER: "Non-stoichiometric AlN films"
         - PAGE: Kischkat
-          name: "Kischkat et al. 2012: n,k 1.54–14.29 µm"
+          name: "Kischkat et al. 2012: Non-stoichiometric AlN; n,k 1.54–14.29 µm"
           data: "main/AlN/Kischkat.yml"
         - PAGE: Beliaev1
-          name: "Beliaev et al. 2021: n,k 0.211–1.69 µm"
+          name: "Beliaev et al. 2021: Non-stoichiometric AlN; n,k 0.211–1.69 µm"
           data: "main/AlN/Beliaev1.yml"
         - PAGE: Beliaev2
-          name: "Beliaev et al. 2021: n,k 2–20 µm"
+          name: "Beliaev et al. 2021: Non-stoichiometric AlN; n,k 2–20 µm"
           data: "main/AlN/Beliaev2.yml"
     - BOOK: BN
       name: "BN (Boron nitride)"
@@ -1631,18 +1631,32 @@
           name: "Kawashima et al. 1997: thin film; n,k 0.131–0.919 µm"
           data: "main/GaN/Kawashima.yml"
     - BOOK: Si3N4
-      name: "Si<sub>3</sub>N<sub>4</sub> (Silicon nitride)"
+      name: "Si<sub>3</sub>N<sub>4</sub>, SiN (Silicon nitride)"
       info: "main/Si3N4.html"
       content:
-        - PAGE: Luke
-          name: "Luke et al. 2015: n 0.310–5.504 µm"
-          data: "main/Si3N4/Luke.yml"
-        - PAGE: Kischkat
-          name: "Kischkat et al. 2012: n,k 1.54–14.29 µm"
-          data: "main/Si3N4/Kischkat.yml"
+        - DIVIDER: "Si3N4 films (stoichiometric)"
         - PAGE: Philipp
           name: "Philipp 1973: n 0.207–1.24 µm"
           data: "main/Si3N4/Philipp.yml"
+        - PAGE: Luke
+          name: "Luke et al. 2015: n 0.310–5.504 µm"
+          data: "main/Si3N4/Luke.yml"
+        - DIVIDER: "Non-stoichiometric SiN films"
+        - PAGE: Kischkat
+          name: "Kischkat et al. 2012: Non-stoichiometric SiN; n,k 1.54–14.29 µm"
+          data: "main/Si3N4/Kischkat.yml"
+        - PAGE: Beliaev
+          name: "Beliaev et al. 2022: Non-stoichiometric SiN; n,k 0.21-1.7"
+          data: "main/Si3N4/Beliaev.yml"
+        - PAGE: Vogt-1.91
+          name: "Vogt 2015: Non-stoichiometric SiN #1; n,k 0.25-1.7"
+          data: "main/Si3N4/Vogt-1.yml"
+        - PAGE: Vogt-2.09
+          name: "Vogt 2015: Non-stoichiometric SiN #2; n,k 0.25-1.7"
+          data: "main/Si3N4/Vogt-2.yml"
+        - PAGE: Vogt-2.13
+          name: "Vogt 2015: Non-stoichiometric SiN #3; n,k 0.25-1.7"
+          data: "main/Si3N4/Vogt-3.yml"
     - BOOK: TiN
       name: "TiN (Titanium nitride)"
       info: "main/TiN.html"
@@ -11294,20 +11308,6 @@
         - PAGE: Wang-60C
           name: "Wang et al. 2015: 60 °C; n,k 0.300–2.50 µm"
           data: "other/fuel/biodisel/Wang-60C.yml"
-    - DIVIDER: "Anti-reflective coatings"
-    - BOOK: SiN
-      name: "SiN"
-      info: "other/anti-reflective coatings.html"
-      content:
-        - PAGE: Vogt-1.91
-          name: "Vogt 2015: n=1.91@633nm; n,k 0.25-1.7"
-          data: "other/anti-reflective coatings/SiN/Vogt-1.91.yml"
-        - PAGE: Vogt-2.09
-          name: "Vogt 2015: n=2.09@633nm; n,k 0.25-1.7"
-          data: "other/anti-reflective coatings/SiN/Vogt-2.09.yml"
-        - PAGE: Vogt-2.13
-          name: "Vogt 2015: n=2.13@633nm; n,k 0.25-1.7"
-          data: "other/anti-reflective coatings/SiN/Vogt-2.13.yml"
     - DIVIDER: "Index matching liquids"
     - BOOK: BK7_matching_liquid
       name: "BK matching liquid"
