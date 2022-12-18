@@ -2008,9 +2008,13 @@
       name: "HfO<sub>2</sub> (Hafnium dioxide, Hafnia)"
       info: "main/HfO2.html"
       content:
+        - DIVIDER: "Thin film"
         - PAGE: Al-Kuhaili
-          name: "Al-Kuhaili 2004: Thin film; n 0.2–2.0 µm"
+          name: "Al-Kuhaili 2004: n 0.2–2.0 µm"
           data: "main/HfO2/Al-Kuhaili.yml"
+        - PAGE: Bright
+          name: "Bright et al. 2012: n,k 0.385–200 µm"
+          data: "main/HfO2/Bright.yml"
     - BOOK: Lu2O3
       name: "Lu<sub>2</sub>O<sub>3</sub> (Lutetium sesquioxide)"
       info: "main/Lu2O3.html"
