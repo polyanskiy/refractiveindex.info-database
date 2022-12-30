@@ -12,6 +12,8 @@
     main/TiO2/Jolivet-anatase.yml
     main/TiO2/Jolivet-amorphous.yml
   miscellaneous
+    update CDGM glass data
+    °C -> ℃ (two characters to single Unicode character)
     SiN data from 'other/anti-reflective coatings/SiN' moved to 'main/Si3N4'
 
 
