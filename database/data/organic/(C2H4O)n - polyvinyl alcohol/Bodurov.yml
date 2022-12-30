@@ -3,7 +3,7 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: "I. Bodurov, I. Vlaeva, A. Viraneva, T. Yovcheva, S. Sainov. Modified design of a laser refractometer, <a href=\"http://nsc-nt.ipc.bas.bg/page/en/details.php?article_id=524\"><i>Nanoscience & Nanotechnology</i> <b>16</b>, 31-33 (2016)</a>"
-COMMENTS: "10-μm film on glass substrate. 24 °C."
+COMMENTS: "10-μm film on glass substrate. 24 ℃."
 DATA:
   - type: formula 1
     wavelength_range: 0.405 0.635
@@ -11,6 +11,6 @@ DATA:
 SPECS:
     n_absolute: false
     wavelength_vacuum: false
-    temperature: 24 °C
+    temperature: 24 ℃
     film_thickness: 10 μm
     substrate: glass

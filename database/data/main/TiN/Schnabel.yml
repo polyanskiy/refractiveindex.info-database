@@ -3,7 +3,7 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: "V. Schnabel, R. Spolenak, M. Döbeli, H. Galinski. Structural color sensors with thermal memory: Measuring functional properties of Ti-based nitrides by eye, <a href=\"https://doi.org/10.1002/adom.201800656\"><i>Adv. Opt. Mater.</i> <b>6</b>, 1800656 (2018)</a>"
-COMMENTS: "Reactive magnetron sputtering; Ar/N<sub>2</sub> gas mixture of 10/1; negative bias potential: 100 V; substrate temperature: 400°C"
+COMMENTS: "Reactive magnetron sputtering; Ar/N<sub>2</sub> gas mixture of 10/1; negative bias potential: 100 V; substrate temperature: 400℃"
 DATA:
   - type: tabulated nk
     data: |

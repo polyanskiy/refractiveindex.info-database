@@ -29,13 +29,13 @@ DATA:
 SPECS:
     n_absolute: false
     wavelength_vacuum: false
-    temperature: 20.0 °C
+    temperature: 20.0 ℃
     nd: 1.785900
     Vd: 44.174079
     glass_code: 786442
     glass_status: preferred
     density: 4.27 g/cm<sup>3</sup>
     thermal_expansion:
-      - temperature_range: -30 70 °C
+      - temperature_range: -30 70 ℃
         coefficient: 7.4e-06 K<sup>-1</sup>
     dPgF: -0.007

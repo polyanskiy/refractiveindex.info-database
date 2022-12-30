@@ -2,11 +2,11 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "<a href=\"http://refractiveindex.info/download/data/2017/cdgm_2017-09.agf\">CDGM Zemax catalog 2017-09</a> (obtained from <a href=\"http://www.cdgmgd.com/208/\">http://www.cdgmgd.com</a>)"
+REFERENCES: "<a href=\"https://refractiveindex.info/download/data/2022/CDGM-ZEMAX202206new.AGF\">CDGM Zemax catalog 2022-06</a> (obtained from <a href=\"http://www.cdgmgd.com/go.htm?k=Download&url=downList\">http://www.cdgmgd.com</a>)<br>See also <a href=\"https://refractiveindex.info/download/data/2022/CDGM202206.pdf\">CDGM optical glass data sheets</a>"
 DATA:
-  - type: formula 3 
-    wavelength_range: 0.365 1.014
-    coefficients: 2.81903533 -0.0164493508 2 0.0136602235 -2 0.0024815081 -4 -0.000258533047 -6 1.30918358e-05 -8
+  - type: formula 2 
+    range: 0.365 2.325
+    coefficients: 0 1.1615525 106.692961 1.49000619 0.0073654243 0.317836401 0.0313945298
   - type: tabulated k
     data: |
         0.340 5.9968E-06
@@ -41,18 +41,18 @@ DATA:
 SPECS:
     n_absolute: false
     wavelength_vacuum: false
-    temperature: 20.0 °C
+    temperature: 20.0 ℃
     thermal_dispersion:
       - type: "Schott formula"
         coefficients: 1e-06 2.31e-08 -1.6e-10 5.94e-07 -4.95e-10 0.215
-    nd: 1.693631
-    Vd: 49.233011
+    nd: 1.693620
+    Vd: 49.193837
     glass_code: 694492
     density: 3.85 g/cm<sup>3</sup>
     thermal_expansion:
-      - temperature_range: -30 70 °C
+      - temperature_range: -30 70 ℃
         coefficient: 7.1e-06 K<sup>-1</sup>
-      - temperature_range: 20 300 °C
+      - temperature_range: 20 300 ℃
         coefficient: 8.5e-06 K<sup>-1</sup>
-    dPgF: -0.0045
+    dPgF: -0.0028
     climatic_resistance: 1.0

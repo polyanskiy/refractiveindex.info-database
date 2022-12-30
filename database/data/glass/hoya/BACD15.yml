@@ -50,7 +50,7 @@ DATA:
 SPECS:
     n_absolute: false
     wavelength_vacuum: false
-    temperature: 20.0 °C
+    temperature: 20.0 ℃
     thermal_dispersion:
       - type: "Schott formula"
         coefficients: 2.9692e-06 0.0 0.0 0.0 0.0 0.0
@@ -59,9 +59,9 @@ SPECS:
     glass_code: 623581
     density: 3.55 g/cm<sup>3</sup>
     thermal_expansion:
-      - temperature_range: -30 70 °C
+      - temperature_range: -30 70 ℃
         coefficient: 6.1e-06 K<sup>-1</sup>
-      - temperature_range: 20 300 °C
+      - temperature_range: 20 300 ℃
         coefficient: 7.5e-06 K<sup>-1</sup>
     dPgF: 0.0008
     climatic_resistance: 2.0

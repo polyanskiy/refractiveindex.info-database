@@ -27,7 +27,7 @@ DATA:
 SPECS:
     n_absolute: false
     wavelength_vacuum: false
-    temperature: 25.0 °C
+    temperature: 25.0 ℃
     nd: 1.794997
     Vd: 45.293967
     glass_code: 795453

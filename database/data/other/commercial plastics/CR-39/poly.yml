@@ -3,7 +3,7 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: "<a href=\"https://refractiveindex.info/download/data/2006/CR39.pdf\">CR-39 Product Bulletin - PPG Industries (2006)</a>"
-COMMENTS: "20 °C"
+COMMENTS: "20 ℃"
 DATA:
   - type: tabulated n
     data: |

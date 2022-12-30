@@ -135,10 +135,10 @@
           name: "Börzsönyi et al. 2008: n 0.4–1.0 µm"
           data: "main/Ar/Borzsonyi.yml"
         - PAGE: Peck-0C
-          name: "Peck and Fisher 1964: n 0.47–2.06 µm; 0 °C"
+          name: "Peck and Fisher 1964: n 0.47–2.06 µm; 0 ℃"
           data: "main/Ar/Peck-0C.yml"
         - PAGE: Peck-15C
-          name: "Peck and Fisher 1964: n 0.47–2.06 µm; 15 °C"
+          name: "Peck and Fisher 1964: n 0.47–2.06 µm; 15 ℃"
           data: "main/Ar/Peck-15C.yml"
         - PAGE: Larsen
           name: "Larsén 1934: n 0.230–0.568 µm"
@@ -488,13 +488,13 @@
       info: "main/CsBr.html"
       content:
         - PAGE: Li
-          name: "Li 1976: n 0.21–55 µm; 20 °C"
+          name: "Li 1976: n 0.21–55 µm; 20 ℃"
           data: "main/CsBr/Li.yml"
         - PAGE: Querry
           name: "Querry 1987: n,k 0.213–149 µm"
           data: "main/CsBr/Querry.yml"
         - PAGE: Rodney
-          name: "Rodney and Spindler 1953: n 0.365–39 µm; 27 °C"
+          name: "Rodney and Spindler 1953: n 0.365–39 µm; 27 ℃"
           data: "main/CsBr/Rodney.yml"
     - BOOK: KBr
       name: "KBr (Potassium bromide)"
@@ -916,16 +916,16 @@
       info: "main/CaF2.html"
       content:
         - PAGE: Malitson
-          name: "Malitson 1963: n 0.23–9.7 µm; 24 °C"
+          name: "Malitson 1963: n 0.23–9.7 µm; 24 ℃"
           data: "main/CaF2/Malitson.yml"
         - PAGE: Daimon-20
-          name: "Daimon and Masumura 2002: n 0.138–2.326 µm; 20 °C"
+          name: "Daimon and Masumura 2002: n 0.138–2.326 µm; 20 ℃"
           data: "main/CaF2/Daimon-20.yml"
         - PAGE: Daimon-25
-          name: "Daimon and Masumura 2002: n 0.138–2.326 µm; 25 °C"
+          name: "Daimon and Masumura 2002: n 0.138–2.326 µm; 25 ℃"
           data: "main/CaF2/Daimon-25.yml"
         - PAGE: Li
-          name: "Li 1980: n 0.15–12.0 µm; 20 °C"
+          name: "Li 1980: n 0.15–12.0 µm; 20 ℃"
           data: "main/CaF2/Li.yml"
         - PAGE: Kaiser
           name: "Kaiser et al. 1964: n,k 10–80 µm"
@@ -1375,10 +1375,10 @@
           name: "Roberts 1986: n,k 0.250–0.750 µm"
           data: "main/Ir/Roberts.yml"
         - PAGE: Hass-40C
-          name: "Hass et al. 1967: n,k 0.005–0.546 µm; deposited at 40 °C"
+          name: "Hass et al. 1967: n,k 0.005–0.546 µm; deposited at 40 ℃"
           data: "main/Ir/Hass-40C.yml"
         - PAGE: Hass-300C
-          name: "Hass et al. 1967: n,k 0.005–0.546 µm; deposited at 300 °C"
+          name: "Hass et al. 1967: n,k 0.005–0.546 µm; deposited at 300 ℃"
           data: "main/Ir/Hass-300C.yml"
     - DIVIDER: "K - Potassium"
     - BOOK: K
@@ -1570,16 +1570,16 @@
       info: "main/N2.html"
       content:
         - PAGE: Peck-0C
-          name: "Peck and Khanna 1966: n 0.47–2.06 µm; 0 °C"
+          name: "Peck and Khanna 1966: n 0.47–2.06 µm; 0 ℃"
           data: "main/N2/Peck-0C.yml"
         - PAGE: Peck-15C
-          name: "Peck and Khanna 1966: n 0.47–2.06 µm; 15 °C"
+          name: "Peck and Khanna 1966: n 0.47–2.06 µm; 15 ℃"
           data: "main/N2/Peck-15C.yml"
         - PAGE: Borzsonyi
-          name: "Börzsönyi et al. 2008: n 0.4–1.0 µm; 0 °C"
+          name: "Börzsönyi et al. 2008: n 0.4–1.0 µm; 0 ℃"
           data: "main/N2/Borzsonyi.yml"
         - PAGE: Griesmann
-          name: "Griesmann and Burnett 1999: n 0.145–0.270 µm; 0 °C"
+          name: "Griesmann and Burnett 1999: n 0.145–0.270 µm; 0 ℃"
           data: "main/N2/Griesmann.yml"
     - BOOK: AlN
       name: "AlN (Aluminium nitride)"
@@ -1671,13 +1671,13 @@
           name: "Shkondin et al. 2017: n,k 0.211–1.69 µm"
           data: "main/TiN/Shkondin.yml"
         - PAGE: Shkondin-700
-          name: "Shkondin et al. 2017: Annealed at 700 °C; n,k 0.211–1.69 µm"
+          name: "Shkondin et al. 2017: Annealed at 700 ℃; n,k 0.211–1.69 µm"
           data: "main/TiN/Shkondin-700.yml"
         - PAGE: Shkondin-800
-          name: "Shkondin et al. 2017: Annealed at 800 °C; n,k 0.211–1.69 µm"
+          name: "Shkondin et al. 2017: Annealed at 800 ℃; n,k 0.211–1.69 µm"
           data: "main/TiN/Shkondin-800.yml"
         - PAGE: Shkondin-900
-          name: "Shkondin et al. 2017: Annealed at 900 °C; n,k 0.211–1.69 µm"
+          name: "Shkondin et al. 2017: Annealed at 900 ℃; n,k 0.211–1.69 µm"
           data: "main/TiN/Shkondin-900.yml"
     - BOOK: VN
       name: "VN (Vanadium nitride)"
@@ -1712,7 +1712,7 @@
           data: "main/Na/Ives.yml"
         - DIVIDER: "Liquid"
         - PAGE: Inagaki-liquid
-          name: "Inagaki et al. 1976: Liquid @ 120 °C; n,k 0.335–2.00 µm"
+          name: "Inagaki et al. 1976: Liquid @ 120 ℃; n,k 0.335–2.00 µm"
           data: "main/Na/Inagaki-liquid.yml"
     - DIVIDER: "Nb - Niobium and niobates"
     - BOOK: Nb
@@ -1805,7 +1805,7 @@
           name: "Smith et al. 1976: n 0.168–0.289 µm"
           data: "main/O2/Smith.yml"
         - PAGE: Zhang
-          name: "Zhang et al. 2008: n 0.4–1.8 µm; 20 °C"
+          name: "Zhang et al. 2008: n 0.4–1.8 µm; 20 ℃"
           data: "main/O2/Zhang.yml"
     - BOOK: Al2O3
       name: "Al<sub>2</sub>O<sub>3</sub> (Aluminium sesquioxide, Sapphire, Alumina)"
@@ -1921,31 +1921,31 @@
       content:
         - DIVIDER: "Liquid water, H2O"
         - PAGE: Hale
-          name: "Hale and Querry 1973: Water; n,k 0.2–200 µm; 25 °C"
+          name: "Hale and Querry 1973: Water; n,k 0.2–200 µm; 25 ℃"
           data: "main/H2O/Hale.yml"          
         - PAGE: Wang
-          name: "Wang et al. 2017: Water; k 1.2–1.9 µm; 22 °C"
+          name: "Wang et al. 2017: Water; k 1.2–1.9 µm; 22 ℃"
           data: "main/H2O/Wang.yml"
         - PAGE: Kedenburg
-          name: "Kedenburg et al. 2012: Water; n 0.5–1.6 µm, k 0.5–1.75 µm; 20.0 °C"
+          name: "Kedenburg et al. 2012: Water; n 0.5–1.6 µm, k 0.5–1.75 µm; 20.0 ℃"
           data: "main/H2O/Kedenburg.yml"
         - PAGE: Daimon-19.0C
-          name: "Daimon and Masumura 2007: Water; n 0.18–1.13 µm; 19.0 °C"
+          name: "Daimon and Masumura 2007: Water; n 0.18–1.13 µm; 19.0 ℃"
           data: "main/H2O/Daimon-19.0C.yml"
         - PAGE: Daimon-20.0C
-          name: "Daimon and Masumura 2007: Water; n 0.18–1.13 µm; 20.0 °C"
+          name: "Daimon and Masumura 2007: Water; n 0.18–1.13 µm; 20.0 ℃"
           data: "main/H2O/Daimon-20.0C.yml"
         - PAGE: Daimon-21.5C
-          name: "Daimon and Masumura 2007: Water; n 0.18–1.13 µm; 21.5 °C"
+          name: "Daimon and Masumura 2007: Water; n 0.18–1.13 µm; 21.5 ℃"
           data: "main/H2O/Daimon-21.5C.yml"
         - PAGE: Daimon-24.0C
-          name: "Daimon and Masumura 2007: Water; n 0.18–1.13 µm; 24.0 °C"
+          name: "Daimon and Masumura 2007: Water; n 0.18–1.13 µm; 24.0 ℃"
           data: "main/H2O/Daimon-24.0C.yml"
         - PAGE: Segelstein
-          name: "Segelstein 1981: Water; n,k 0.034–1.0e7 µm; 25 °C"
+          name: "Segelstein 1981: Water; n,k 0.034–1.0e7 µm; 25 ℃"
           data: "main/H2O/Segelstein.yml"
         - PAGE: Asfar-H2O
-          name: "Afsar and Hasted 1977: Water; n,k 22.22–1733 µm; 19.0 °C"
+          name: "Afsar and Hasted 1977: Water; n,k 22.22–1733 µm; 19.0 ℃"
           data: "main/H2O/Asfar.yml"
         - DIVIDER: "Water ice"
         - PAGE: Warren-2008
@@ -1980,16 +1980,16 @@
           data: "main/H2O/Kofman-150K.yml"
         - DIVIDER: "Supercooled liquid water"
         - PAGE: Rowe-240K
-          name: "Rowe et al. 2020: Water; n,k 0.667–10400 µm; -33 °C"
+          name: "Rowe et al. 2020: Water; n,k 0.667–10400 µm; -33 ℃"
           data: "main/H2O/Rowe-240K.yml"
         - PAGE: Rowe-253K
-          name: "Rowe et al. 2020: Water; n,k 0.667–10400 µm; -20 °C"
+          name: "Rowe et al. 2020: Water; n,k 0.667–10400 µm; -20 ℃"
           data: "main/H2O/Rowe-253K.yml"
         - PAGE: Rowe-263K
-          name: "Rowe et al. 2020: Water; n,k 0.667–10400 µm; -10 °C"
+          name: "Rowe et al. 2020: Water; n,k 0.667–10400 µm; -10 ℃"
           data: "main/H2O/Rowe-263K.yml"
         - PAGE: Rowe-273K
-          name: "Rowe et al. 2020: Water; n,k 0.667–10400 µm; 0 °C"
+          name: "Rowe et al. 2020: Water; n,k 0.667–10400 µm; 0 ℃"
           data: "main/H2O/Rowe-273K.yml"
         - DIVIDER: "Heavy water, D2O"
         - PAGE: Kedenburg-D2O
@@ -2067,10 +2067,10 @@
           name: "Lemarchand 2013: Thin film; n,k 0.25–2.5 µm"
           data: "main/Nb2O5/Lemarchand.yml"
         - PAGE: Horcholle-400
-          name: "Horcholle et al. 2022: Thin film annealed at 400 °C; n,k 0.207–0.827 µm"
+          name: "Horcholle et al. 2022: Thin film annealed at 400 ℃; n,k 0.207–0.827 µm"
           data: "main/Nb2O5/Horcholle-400.yml"
         - PAGE: Horcholle-800
-          name: "Horcholle et al. 2022: Thin film annealed at 800 °C; n,k 0.207–0.827 µm"
+          name: "Horcholle et al. 2022: Thin film annealed at 800 ℃; n,k 0.207–0.827 µm"
           data: "main/Nb2O5/Horcholle-800.yml"
     - BOOK: Sc2O3
       name: "Sc<sub>2</sub>O<sub>3</sub> (Scandium sesquioxide)"
@@ -2275,16 +2275,16 @@
       info: "main/CdGeP2.html"
       content:
         - PAGE: Boyd-20-o
-          name: "Boyd et al. 1972: n(o) 0.8–12.5 µm; 20 °C"
+          name: "Boyd et al. 1972: n(o) 0.8–12.5 µm; 20 ℃"
           data: "main/CdGeP2/Boyd-20-o.yml"
         - PAGE: Boyd-20-e
-          name: "Boyd et al. 1972: n(e) 0.8–12.5 µm; 20 °C"
+          name: "Boyd et al. 1972: n(e) 0.8–12.5 µm; 20 ℃"
           data: "main/CdGeP2/Boyd-20-e.yml"
         - PAGE: Boyd-118-o
-          name: "Boyd et al. 1972: n(o) 0.8–12.5 µm; 118 °C"
+          name: "Boyd et al. 1972: n(o) 0.8–12.5 µm; 118 ℃"
           data: "main/CdGeP2/Boyd-118-o.yml"
         - PAGE: Boyd-118-e
-          name: "Boyd et al. 1972: n(e) 0.8–12.5 µm; 118 °C"
+          name: "Boyd et al. 1972: n(e) 0.8–12.5 µm; 118 ℃"
           data: "main/CdGeP2/Boyd-118-e.yml"
     - BOOK: GaP
       name: "GaP (Gallium phosphide)"
@@ -2345,16 +2345,16 @@
           name: "Zelmon et al. 2001: n(e) 2–9 µm"
           data: "main/ZnGeP2/Zelmon-e.yml"
         - PAGE: Boyd-20-o
-          name: "Boyd et al. 1971: n(o) 0.64–12 µm; 20 °C"
+          name: "Boyd et al. 1971: n(o) 0.64–12 µm; 20 ℃"
           data: "main/ZnGeP2/Boyd-20-o.yml"
         - PAGE: Boyd-20-e
-          name: "Boyd et al. 1971: n(e) 0.64–12 µm; 20 °C"
+          name: "Boyd et al. 1971: n(e) 0.64–12 µm; 20 ℃"
           data: "main/ZnGeP2/Boyd-20-e.yml"
         - PAGE: Boyd-70-o
-          name: "Boyd et al. 1971: n(o) 0.64–12 µm; 70 °C"
+          name: "Boyd et al. 1971: n(o) 0.64–12 µm; 70 ℃"
           data: "main/ZnGeP2/Boyd-70-o.yml"
         - PAGE: Boyd-70-e
-          name: "Boyd et al. 1971: n(e) 0.64–12 µm; 70 °C"
+          name: "Boyd et al. 1971: n(e) 0.64–12 µm; 70 ℃"
           data: "main/ZnGeP2/Boyd-70-e.yml"
     - BOOK: KH2PO4
       name: "KH<sub>2</sub>PO<sub>4</sub> (Potassium dihydrogen phosphate, KDP)"
@@ -2534,10 +2534,10 @@
           name: "Weaver et al. 1977: n,k 0.20–12.40 µm"
           data: "main/Rh/Weaver.yml"
         - PAGE: Coulter-40
-          name: "Coulter et al. 1973: Thin film deposited at 40 °C; n,k 0.405–0.612 µm"
+          name: "Coulter et al. 1973: Thin film deposited at 40 ℃; n,k 0.405–0.612 µm"
           data: "main/Rh/Coulter-40.yml"
         - PAGE: Coulter-300
-          name: "Coulter et al. 1973: Thin film deposited at 300 °C; n,k 0.405–0.612 µm"
+          name: "Coulter et al. 1973: Thin film deposited at 300 ℃; n,k 0.405–0.612 µm"
           data: "main/Rh/Coulter-300.yml"
     - DIVIDER: "Ru - Ruthenium"
     - BOOK: Ru
@@ -2649,16 +2649,16 @@
       info: "main/CuGaS2.html"
       content:
         - PAGE: Boyd-20-o
-          name: "Boyd et al. 1971: n(o) 0.55–11.5 µm; 20 °C"
+          name: "Boyd et al. 1971: n(o) 0.55–11.5 µm; 20 ℃"
           data: "main/CuGaS2/Boyd-20-o.yml"
         - PAGE: Boyd-20-e
-          name: "Boyd et al. 1971: n(e) 0.55–11.5 µm; 20 °C"
+          name: "Boyd et al. 1971: n(e) 0.55–11.5 µm; 20 ℃"
           data: "main/CuGaS2/Boyd-20-e.yml"
         - PAGE: Boyd-120-o
-          name: "Boyd et al. 1971: n(o) 0.55–11.5 µm; 120 °C"
+          name: "Boyd et al. 1971: n(o) 0.55–11.5 µm; 120 ℃"
           data: "main/CuGaS2/Boyd-120-o.yml"
         - PAGE: Boyd-120-e
-          name: "Boyd et al. 1971: n(e) 0.55–11.5 µm; 120 °C"
+          name: "Boyd et al. 1971: n(e) 0.55–11.5 µm; 120 ℃"
           data: "main/CuGaS2/Boyd-120-e.yml"
     - BOOK: GaS
       name: "GaS (Gallium sulfide)"
@@ -3223,19 +3223,19 @@
           name: "Chandler-Horowitz and Amirtharaj 2005: n 2.5–22.2 µm, k 6.25–23.3 µm"
           data: "main/Si/Chandler-Horowitz.yml"
         - PAGE: Sik-25C
-          name: "Šik et al. 1998: n,k 0.29–0.62 µm; 25 °C"
+          name: "Šik et al. 1998: n,k 0.29–0.62 µm; 25 ℃"
           data: "main/Si/Sik-25C.yml"
         - PAGE: Sik-250C
-          name: "Šik et al. 1998: n,k 0.29–0.62 µm; 250 °C"
+          name: "Šik et al. 1998: n,k 0.29–0.62 µm; 250 ℃"
           data: "main/Si/Sik-250C.yml"
         - PAGE: Sik-500C
-          name: "Šik et al. 1998: n,k 0.29–0.62 µm; 500 °C"
+          name: "Šik et al. 1998: n,k 0.29–0.62 µm; 500 ℃"
           data: "main/Si/Sik-500C.yml"
         - PAGE: Sik-700C
-          name: "Šik et al. 1998: n,k 0.29–0.62 µm; 700 °C"
+          name: "Šik et al. 1998: n,k 0.29–0.62 µm; 700 ℃"
           data: "main/Si/Sik-700C.yml"
         - PAGE: Sik-850C
-          name: "Šik et al. 1998: n,k 0.29–0.62 µm; 850 °C"
+          name: "Šik et al. 1998: n,k 0.29–0.62 µm; 850 ℃"
           data: "main/Si/Sik-850C.yml"
         - PAGE: Green-1995
           name: "Green and Keevers 1995: n 0.25–1.45 µm, k 0.25–1.00 µm"
@@ -3244,31 +3244,31 @@
           name: "Daub 1995: k 0.94–1.42 µm"
           data: "main/Si/Daub.yml"
         - PAGE: Vuye-20C
-          name: "Vuye et al. 1993: n,k 0.26–0.83 µm; 20 °C"
+          name: "Vuye et al. 1993: n,k 0.26–0.83 µm; 20 ℃"
           data: "main/Si/Vuye-20C.yml"
         - PAGE: Vuye-100C
-          name: "Vuye et al. 1993: n,k 0.26–0.83 µm; 100 °C"
+          name: "Vuye et al. 1993: n,k 0.26–0.83 µm; 100 ℃"
           data: "main/Si/Vuye-100C.yml"
         - PAGE: Vuye-150C
-          name: "Vuye et al. 1993: n,k 0.26–0.83 µm; 150 °C"
+          name: "Vuye et al. 1993: n,k 0.26–0.83 µm; 150 ℃"
           data: "main/Si/Vuye-150C.yml"
         - PAGE: Vuye-200C
-          name: "Vuye et al. 1993: n,k 0.26–0.83 µm; 200 °C"
+          name: "Vuye et al. 1993: n,k 0.26–0.83 µm; 200 ℃"
           data: "main/Si/Vuye-200C.yml"
         - PAGE: Vuye-250C
-          name: "Vuye et al. 1993: n,k 0.26–0.83 µm; 250 °C"
+          name: "Vuye et al. 1993: n,k 0.26–0.83 µm; 250 ℃"
           data: "main/Si/Vuye-250C.yml"
         - PAGE: Vuye-300C
-          name: "Vuye et al. 1993: n,k 0.26–0.83 µm; 300 °C"
+          name: "Vuye et al. 1993: n,k 0.26–0.83 µm; 300 ℃"
           data: "main/Si/Vuye-300C.yml"
         - PAGE: Vuye-350C
-          name: "Vuye et al. 1993: n,k 0.26–0.83 µm; 350 °C"
+          name: "Vuye et al. 1993: n,k 0.26–0.83 µm; 350 ℃"
           data: "main/Si/Vuye-350C.yml"
         - PAGE: Vuye-400C
-          name: "Vuye et al. 1993: n,k 0.26–0.83 µm; 400 °C"
+          name: "Vuye et al. 1993: n,k 0.26–0.83 µm; 400 ℃"
           data: "main/Si/Vuye-400C.yml"
         - PAGE: Vuye-450C
-          name: "Vuye et al. 1993: n,k 0.26–0.83 µm; 450 °C"
+          name: "Vuye et al. 1993: n,k 0.26–0.83 µm; 450 ℃"
           data: "main/Si/Vuye-450C.yml"
         - PAGE: Jellison
           name: "Jellison 1992: n,k 0.234–0.840 µm"
@@ -3612,34 +3612,34 @@
           name: "Birnbaum and DeShazer 1976: n(e) 0.488–3.39 µm"
           data: "main/YVO4/Birnbaum-e.yml"
         - PAGE: Shi-o-20C
-          name: "Shi et al. 2001: n(o) 0.48–1.34 µm; 20 °C"
+          name: "Shi et al. 2001: n(o) 0.48–1.34 µm; 20 ℃"
           data: "main/YVO4/Shi-o-20C.yml"
         - PAGE: Shi-e-20C
-          name: "Shi et al. 2001: n(e) 0.48–1.34 µm; 20 °C"
+          name: "Shi et al. 2001: n(e) 0.48–1.34 µm; 20 ℃"
           data: "main/YVO4/Shi-e-20C.yml"
         - PAGE: Shi-o-50C
-          name: "Shi et al. 2001: n(o) 0.48–1.34 µm; 50 °C"
+          name: "Shi et al. 2001: n(o) 0.48–1.34 µm; 50 ℃"
           data: "main/YVO4/Shi-o-50C.yml"
         - PAGE: Shi-e-50C
-          name: "Shi et al. 2001: n(e) 0.48–1.34 µm; 50 °C"
+          name: "Shi et al. 2001: n(e) 0.48–1.34 µm; 50 ℃"
           data: "main/YVO4/Shi-e-50C.yml"
         - PAGE: Shi-o-80C
-          name: "Shi et al. 2001: n(o) 0.48–1.34 µm; 80 °C"
+          name: "Shi et al. 2001: n(o) 0.48–1.34 µm; 80 ℃"
           data: "main/YVO4/Shi-o-80C.yml"
         - PAGE: Shi-e-80C
-          name: "Shi et al. 2001: n(e) 0.48–1.34 µm; 80 °C"
+          name: "Shi et al. 2001: n(e) 0.48–1.34 µm; 80 ℃"
           data: "main/YVO4/Shi-e-80C.yml"
         - PAGE: Shi-o-110C
-          name: "Shi et al. 2001: n(o) 0.48–1.34 µm; 110 °C"
+          name: "Shi et al. 2001: n(o) 0.48–1.34 µm; 110 ℃"
           data: "main/YVO4/Shi-o-110C.yml"
         - PAGE: Shi-e-110C
-          name: "Shi et al. 2001: n(e) 0.48–1.34 µm; 110 °C"
+          name: "Shi et al. 2001: n(e) 0.48–1.34 µm; 110 ℃"
           data: "main/YVO4/Shi-e-110C.yml"
         - PAGE: Shi-o-140C
-          name: "Shi et al. 2001: n(o) 0.48–1.34 µm; 140 °C"
+          name: "Shi et al. 2001: n(o) 0.48–1.34 µm; 140 ℃"
           data: "main/YVO4/Shi-o-140C.yml"
         - PAGE: Shi-e-140C
-          name: "Shi et al. 2001: n(e) 0.48–1.34 µm; 140 °C"
+          name: "Shi et al. 2001: n(e) 0.48–1.34 µm; 140 ℃"
           data: "main/YVO4/Shi-e-140C.yml"
     - DIVIDER: "W - Tungsten and tungstates"
     - BOOK: W
@@ -3804,10 +3804,10 @@
       content:
         - DIVIDER: "Gas"
         - PAGE: Rollefson
-          name: "Rollefson and Havens 1940: Gas at 0 °C; n 1.68–14.8 µm"
+          name: "Rollefson and Havens 1940: Gas at 0 ℃; n 1.68–14.8 µm"
           data: "organic/CH4 - methane/Rollefson.yml" 
         - PAGE: Loria
-          name: "Loria 1909: Gas at 0 °C; n 0.529–0.659 µm"
+          name: "Loria 1909: Gas at 0 ℃; n 0.529–0.659 µm"
           data: "organic/CH4 - methane/Loria.yml"  
         - DIVIDER: "Liquid"
         - PAGE: Martonchik-liquid-111K
@@ -3828,7 +3828,7 @@
       info: "organic/ethane.html"
       content:
         - PAGE: Loria
-          name: "Loria 1909: Gas at 0 °C; n 0.523–0.668 µm"
+          name: "Loria 1909: Gas at 0 ℃; n 0.523–0.668 µm"
           data: "organic/C2H6 - ethane/Loria.yml"
     - BOOK: pentane
       name: "C<sub>5</sub>H<sub>12</sub> (Pentane)"
@@ -3900,7 +3900,7 @@
       info: "organic/acetylene.html"
       content:
         - PAGE: Loria
-          name: "Loria 1909: Gas at 0 °C; n 0.529–0.659 µm"
+          name: "Loria 1909: Gas at 0 ℃; n 0.529–0.659 µm"
           data: "organic/C2H2 - acetylene/Loria.yml"
     - DIVIDER: "Alkenes"
     - BOOK: ethylene
@@ -3908,7 +3908,7 @@
       info: "organic/ethylene.html"
       content:
         - PAGE: Loria
-          name: "Loria 1909: Gas at 0 °C; n 0.523–0.668 µm"
+          name: "Loria 1909: Gas at 0 ℃; n 0.523–0.668 µm"
           data: "organic/C2H4 - ethylene/Loria.yml"
     - DIVIDER: "Alcohols"
     - BOOK: methanol
@@ -3957,13 +3957,13 @@
           name: "Kozma et al. 2005: iso-propanol; n 0.230–0.641 µm"
           data: "organic/C3H8O - propanol/Kozma.yml"
         - PAGE: Wang-20C
-          name: "Wang et al. 2018: iso-propanol, 20 °C; n,k 1.66–19.1 µm"
+          name: "Wang et al. 2018: iso-propanol, 20 ℃; n,k 1.66–19.1 µm"
           data: "organic/C3H8O - propanol/Wang-20C.yml"
         - PAGE: Wang-50C
-          name: "Wang et al. 2018: iso-propanol, 50 °C; n,k 1.66–19.1 µm"
+          name: "Wang et al. 2018: iso-propanol, 50 ℃; n,k 1.66–19.1 µm"
           data: "organic/C3H8O - propanol/Wang-50C.yml"
         - PAGE: Wang-70C
-          name: "Wang et al. 2018: iso-propanol, 70 °C; n,k 1.66–19.1 µm"
+          name: "Wang et al. 2018: iso-propanol, 70 ℃; n,k 1.66–19.1 µm"
           data: "organic/C3H8O - propanol/Wang-70C.yml"
         - PAGE: Myers
           name: "Myers et al. 2018: iso-propanol; n,k 1.28–25.0 µm"
@@ -3985,13 +3985,13 @@
           name: "El-Kashef 2000: n 0.4–0.8 µm"
           data: "organic/C4H10O - butanol/El-Kashef.yml" 
         - PAGE: Wang-20C
-          name: "Wang et al. 2018: n-Butanol, 20 °C; n,k 1.66–19.1 µm"
+          name: "Wang et al. 2018: n-Butanol, 20 ℃; n,k 1.66–19.1 µm"
           data: "organic/C4H10O - butanol/Wang-20C.yml"
         - PAGE: Wang-60C
-          name: "Wang et al. 2018: n-Butanol, 60 °C; n,k 1.66–19.1 µm"
+          name: "Wang et al. 2018: n-Butanol, 60 ℃; n,k 1.66–19.1 µm"
           data: "organic/C4H10O - butanol/Wang-60C.yml"
         - PAGE: Wang-90C
-          name: "Wang et al. 2018: n-Butanol, 90 °C; n,k 1.66–19.1 µm"
+          name: "Wang et al. 2018: n-Butanol, 90 ℃; n,k 1.66–19.1 µm"
           data: "organic/C4H10O - butanol/Wang-90C.yml" 
         - PAGE: Moutzouris-n
           name: "Moutzouris et al. 2013: n-Butanol; n 0.450–1.55 µm"
@@ -4968,7 +4968,7 @@
           data: "glass/lightpath/BD-2.yml"
         - PAGE: BD6
           name: "BD6"
-          data: "glass/lightpath/BD6.yml"
+          data: "glass/lightpath/BD6.yml"     
     - DIVIDER: "Optical glass - SCHOTT"
     - BOOK: SCHOTT-K
       name: "SCHOTT - K (Crown)"
@@ -8151,12 +8151,6 @@
       name: "CDGM - K (Crown)"
       info: "glass/CDGM.html"
       content:
-        - PAGE: K4A
-          name: "K4A"
-          data: "glass/cdgm/K4A.yml"
-        - PAGE: D-K59
-          name: "D-K59"
-          data: "glass/cdgm/D-K59.yml"
         - PAGE: H-K1
           name: "H-K1"
           data: "glass/cdgm/H-K1.yml"
@@ -8166,6 +8160,9 @@
         - PAGE: H-K3
           name: "H-K3"
           data: "glass/cdgm/H-K3.yml"
+        - PAGE: K4A
+          name: "K4A"
+          data: "glass/cdgm/K4A.yml"
         - PAGE: H-K5
           name: "H-K5"
           data: "glass/cdgm/H-K5.yml"
@@ -8181,10 +8178,25 @@
         - PAGE: D-K9
           name: "D-K9"
           data: "glass/cdgm/D-K9.yml"
+        - PAGE: D-K9-25
+          name: "D-K9-25"
+          data: "glass/cdgm/D-K9-25.yml"
+        - PAGE: D-K9GT
+          name: "D-K9GT"
+          data: "glass/cdgm/D-K9GT.yml"
+        - PAGE: D-K9GT-25
+          name: "D-K9GT-25"
+          data: "glass/cdgm/D-K9GT-25.yml"
         - PAGE: H-K9L
           name: "H-K9L"
           data: "glass/cdgm/H-K9L.yml"
           info: "glass/BK7.html"
+        - PAGE: H-K9LA
+          name: "H-K9LA"
+          data: "glass/cdgm/H-K9LA.yml"
+        - PAGE: H-K9LAGT
+          name: "H-K9LAGT"
+          data: "glass/cdgm/H-K9LAGT.yml"
         - PAGE: H-K9LGT
           name: "H-K9LGT"
           data: "glass/cdgm/H-K9LGT.yml"
@@ -8206,6 +8218,15 @@
         - PAGE: H-K51
           name: "H-K51"
           data: "glass/cdgm/H-K51.yml"
+        - PAGE: D-K59
+          name: "D-K59"
+          data: "glass/cdgm/D-K59.yml"
+        - PAGE: D-K59-25
+          name: "D-K59-25"
+          data: "glass/cdgm/D-K59-25.yml"
+        - PAGE: H-K90GTI
+          name: "H-K90GTI"
+          data: "glass/cdgm/H-K90GTI.yml"
     - BOOK: CDGM-QK
       name: "CDGM - QK (Light crown)"
       info: "glass/CDGM.html"
@@ -8213,34 +8234,58 @@
         - PAGE: H-QK1
           name: "H-QK1"
           data: "glass/cdgm/H-QK1.yml"
+        - PAGE: D-QK3L
+          name: "D-QK3L"
+          data: "glass/cdgm/D-QK3L.yml"
+        - PAGE: D-QK3L-25
+          name: "D-QK3L-25"
+          data: "glass/cdgm/D-QK3L-25.yml"
         - PAGE: H-QK3L
           name: "H-QK3L"
           data: "glass/cdgm/H-QK3L.yml"
+        - PAGE: H-QK3LGTI
+          name: "H-QK3LGTI"
+          data: "glass/cdgm/H-QK3LGTI.yml"
     - BOOK: CDGM-ZK
       name: "CDGM - ZK (Dense crown)"
       info: "glass/CDGM.html"
       content:
-        - PAGE: D-ZK2
-          name: "D-ZK2"
-          data: "glass/cdgm/D-ZK2.yml"
-        - PAGE: D-ZK3
-          name: "D-ZK3"
-          data: "glass/cdgm/D-ZK3.yml"
-        - PAGE: D-ZK79
-          name: "D-ZK79"
-          data: "glass/cdgm/D-ZK79.yml"
         - PAGE: H-ZK1
           name: "H-ZK1"
           data: "glass/cdgm/H-ZK1.yml"
         - PAGE: H-ZK2
           name: "H-ZK2"
           data: "glass/cdgm/H-ZK2.yml"
+        - PAGE: D-ZK2
+          name: "D-ZK2"
+          data: "glass/cdgm/D-ZK2.yml"
+        - PAGE: D-ZK2-25
+          name: "D-ZK2-25"
+          data: "glass/cdgm/D-ZK2-25.yml"
+        - PAGE: D-ZK2L
+          name: "D-ZK2L"
+          data: "glass/cdgm/D-ZK2L.yml"
+        - PAGE: D-ZK2L-25
+          name: "D-ZK2L-25"
+          data: "glass/cdgm/D-ZK2L-25.yml"
+        - PAGE: D-ZK3
+          name: "D-ZK3"
+          data: "glass/cdgm/D-ZK3.yml"
+        - PAGE: D-ZK3-25
+          name: "D-ZK3-25"
+          data: "glass/cdgm/D-ZK3-25.yml"
         - PAGE: H-ZK3
           name: "H-ZK3"
           data: "glass/cdgm/H-ZK3.yml"
         - PAGE: H-ZK3A
           name: "H-ZK3A"
           data: "glass/cdgm/H-ZK3A.yml"
+        - PAGE: D-ZK3L
+          name: "D-ZK3L"
+          data: "glass/cdgm/D-ZK3L.yml"
+        - PAGE: D-ZK3L-25
+          name: "D-ZK3L-25"
+          data: "glass/cdgm/D-ZK3L-25.yml"
         - PAGE: H-ZK4
           name: "H-ZK4"
           data: "glass/cdgm/H-ZK4.yml"
@@ -8253,6 +8298,9 @@
         - PAGE: H-ZK7
           name: "H-ZK7"
           data: "glass/cdgm/H-ZK7.yml"
+        - PAGE: H-ZK7A
+          name: "H-ZK7A"
+          data: "glass/cdgm/H-ZK7A.yml"
         - PAGE: H-ZK8
           name: "H-ZK8"
           data: "glass/cdgm/H-ZK8.yml"
@@ -8277,6 +8325,12 @@
         - PAGE: H-ZK20
           name: "H-ZK20"
           data: "glass/cdgm/H-ZK20.yml"
+        - PAGE: D-ZK21
+          name: "D-ZK21"
+          data: "glass/cdgm/D-ZK21.yml"
+        - PAGE: D-ZK21-25
+          name: "D-ZK21-25"
+          data: "glass/cdgm/D-ZK21-25.yml"
         - PAGE: H-ZK21
           name: "H-ZK21"
           data: "glass/cdgm/H-ZK21.yml"
@@ -8286,6 +8340,12 @@
         - PAGE: H-ZK50GT
           name: "H-ZK50GT"
           data: "glass/cdgm/H-ZK50GT.yml"
+        - PAGE: D-ZK79
+          name: "D-ZK79"
+          data: "glass/cdgm/D-ZK79.yml"
+        - PAGE: D-ZK79-25
+          name: "D-ZK79-25"
+          data: "glass/cdgm/D-ZK79-25.yml"
     - BOOK: CDGM-BAK
       name: "CDGM - BAK (Barium crown)"
       info: "glass/CDGM.html"
@@ -8311,6 +8371,9 @@
         - PAGE: H-BAK7
           name: "H-BAK7"
           data: "glass/cdgm/H-BAK7.yml"
+        - PAGE: H-BAK7A
+          name: "H-BAK7A"
+          data: "glass/cdgm/H-BAK7A.yml"
         - PAGE: H-BAK7GT
           name: "H-BAK7GT"
           data: "glass/cdgm/H-BAK7GT.yml"
@@ -8322,34 +8385,46 @@
       name: "CDGM - FK (Fluor crown)"
       info: "glass/CDGM.html"
       content:
-        - PAGE: D-FK61
-          name: "D-FK61"
-          data: "glass/cdgm/D-FK61.yml"
         - PAGE: H-KF6
           name: "H-KF6"
           data: "glass/cdgm/H-KF6.yml"
+        - PAGE: D-FK61
+          name: "D-FK61"
+          data: "glass/cdgm/D-FK61.yml"
+        - PAGE: D-FK61-25
+          name: "D-FK61-25"
+          data: "glass/cdgm/D-FK61-25.yml"
         - PAGE: H-FK61
           name: "H-FK61"
           data: "glass/cdgm/H-FK61.yml"
+        - PAGE: D-FK61A
+          name: "D-FK61A"
+          data: "glass/cdgm/D-FK61A.yml"
+        - PAGE: D-FK61A-25
+          name: "D-FK61A-25"
+          data: "glass/cdgm/D-FK61A-25.yml"
         - PAGE: H-FK61B
           name: "H-FK61B"
           data: "glass/cdgm/H-FK61B.yml"
         - PAGE: H-FK71
           name: "H-FK71"
           data: "glass/cdgm/H-FK71.yml"
+        - PAGE: H-FK71A
+          name: "H-FK71A"
+          data: "glass/cdgm/H-FK71A.yml"
+        - PAGE: D-FK95
+          name: "D-FK95"
+          data: "glass/cdgm/D-FK95.yml"
+        - PAGE: D-FK95-25
+          name: "D-FK95-25"
+          data: "glass/cdgm/D-FK95-25.yml"
+        - PAGE: H-FK95N
+          name: "H-FK95N"
+          data: "glass/cdgm/H-FK95N.yml"
     - BOOK: CDGM-LAK
       name: "CDGM - LAK (Lanthanum crown)"
       info: "glass/CDGM.html"
       content:
-        - PAGE: D-LAK5
-          name: "D-LAK5"
-          data: "glass/cdgm/D-LAK5.yml"
-        - PAGE: D-LAK6
-          name: "D-LAK6"
-          data: "glass/cdgm/D-LAK6.yml"
-        - PAGE: D-LAK70
-          name: "D-LAK70"
-          data: "glass/cdgm/D-LAK70.yml"
         - PAGE: H-LAK1
           name: "H-LAK1"
           data: "glass/cdgm/H-LAK1.yml"
@@ -8362,9 +8437,21 @@
         - PAGE: H-LAK4L
           name: "H-LAK4L"
           data: "glass/cdgm/H-LAK4L.yml"
+        - PAGE: D-LAK5
+          name: "D-LAK5"
+          data: "glass/cdgm/D-LAK5.yml"
+        - PAGE: D-LAK5-25
+          name: "D-LAK5-25"
+          data: "glass/cdgm/D-LAK5-25.yml"
         - PAGE: H-LAK5A
           name: "H-LAK5A"
           data: "glass/cdgm/H-LAK5A.yml"
+        - PAGE: D-LAK6
+          name: "D-LAK6"
+          data: "glass/cdgm/D-LAK6.yml"
+        - PAGE: D-LAK6-25
+          name: "D-LAK6-25"
+          data: "glass/cdgm/D-LAK6-25.yml"
         - PAGE: H-LAK6A
           name: "H-LAK6A"
           data: "glass/cdgm/H-LAK6A.yml"
@@ -8392,6 +8479,12 @@
         - PAGE: H-LAK51A
           name: "H-LAK51A"
           data: "glass/cdgm/H-LAK51A.yml"
+        - PAGE: D-LAK52
+          name: "D-LAK52"
+          data: "glass/cdgm/D-LAK52.yml"
+        - PAGE: D-LAK52-25
+          name: "D-LAK52-25"
+          data: "glass/cdgm/D-LAK52-25.yml"
         - PAGE: H-LAK52
           name: "H-LAK52"
           data: "glass/cdgm/H-LAK52.yml"
@@ -8413,6 +8506,12 @@
         - PAGE: H-LAK67
           name: "H-LAK67"
           data: "glass/cdgm/H-LAK67.yml"
+        - PAGE: D-LAK70
+          name: "D-LAK70"
+          data: "glass/cdgm/D-LAK70.yml"
+        - PAGE: D-LAK70-25
+          name: "D-LAK70-25"
+          data: "glass/cdgm/D-LAK70-25.yml"
     - BOOK: CDGM-PK
       name: "CDGM - PK (Phosphate crown)"
       info: "glass/CDGM.html"
@@ -8420,6 +8519,9 @@
         - PAGE: D-PK3
           name: "D-PK3"
           data: "glass/cdgm/D-PK3.yml"
+        - PAGE: D-PK3-25
+          name: "D-PK3-25"
+          data: "glass/cdgm/D-PK3-25.yml"
     - BOOK: CDGM-ZPK
       name: "CDGM - ZPK (Dense phosphate crown)"
       info: "glass/CDGM.html"
@@ -8427,18 +8529,42 @@
         - PAGE: D-ZPK1A
           name: "D-ZPK1A"
           data: "glass/cdgm/D-ZPK1A.yml"
+        - PAGE: D-ZPK1A-25
+          name: "D-ZPK1A-25"
+          data: "glass/cdgm/D-ZPK1A-25.yml"
         - PAGE: H-ZPK1A
           name: "H-ZPK1A"
           data: "glass/cdgm/H-ZPK1A.yml"
         - PAGE: H-ZPK2A
           name: "H-ZPK2A"
           data: "glass/cdgm/H-ZPK2A.yml"
+        - PAGE: D-ZPK3
+          name: "D-ZPK3"
+          data: "glass/cdgm/D-ZPK3.yml"
+        - PAGE: D-ZPK3-25
+          name: "D-ZPK3-25"
+          data: "glass/cdgm/D-ZPK3-25.yml"
         - PAGE: H-ZPK3
           name: "H-ZPK3"
           data: "glass/cdgm/H-ZPK3.yml"
+        - PAGE: D-ZPK5
+          name: "D-ZPK5"
+          data: "glass/cdgm/D-ZPK5.yml"
+        - PAGE: D-ZPK5-25
+          name: "D-ZPK5-25"
+          data: "glass/cdgm/D-ZPK5-25.yml"
         - PAGE: H-ZPK5
           name: "H-ZPK5"
           data: "glass/cdgm/H-ZPK5.yml"
+        - PAGE: D-ZPK7
+          name: "D-ZPK7"
+          data: "glass/cdgm/D-ZPK7.yml"
+        - PAGE: D-ZPK7-25
+          name: "D-ZPK7-25"
+          data: "glass/cdgm/D-ZPK7-25.yml"
+        - PAGE: H-ZPK7
+          name: "H-ZPK7"
+          data: "glass/cdgm/H-ZPK7.yml"
     - BOOK: CDGM-F
       name: "CDGM - F (Flint)"
       info: "glass/CDGM.html"
@@ -8446,18 +8572,36 @@
         - PAGE: F1
           name: "F1"
           data: "glass/cdgm/F1.yml"
+        - PAGE: H-F1
+          name: "H-F1"
+          data: "glass/cdgm/H-F1.yml"
         - PAGE: F2
           name: "F2"
           data: "glass/cdgm/F2.yml"
+        - PAGE: H-F2
+          name: "H-F2"
+          data: "glass/cdgm/H-F2.yml"
         - PAGE: F3
           name: "F3"
           data: "glass/cdgm/F3.yml"
+        - PAGE: H-F3
+          name: "H-F3"
+          data: "glass/cdgm/H-F3.yml"
         - PAGE: F4
           name: "F4"
           data: "glass/cdgm/F4.yml"
+        - PAGE: H-F4
+          name: "H-F4"
+          data: "glass/cdgm/H-F4.yml"
+        - PAGE: F4GTI
+          name: "F4GTI"
+          data: "glass/cdgm/F4GTI.yml"
         - PAGE: F5
           name: "F5"
           data: "glass/cdgm/F5.yml"
+        - PAGE: H-F5
+          name: "H-F5"
+          data: "glass/cdgm/H-F5.yml"
         - PAGE: F6
           name: "F6"
           data: "glass/cdgm/F6.yml"
@@ -8467,15 +8611,6 @@
         - PAGE: F13
           name: "F13"
           data: "glass/cdgm/F13.yml"
-        - PAGE: H-F1
-          name: "H-F1"
-          data: "glass/cdgm/H-F1.yml"
-        - PAGE: H-F2
-          name: "H-F2"
-          data: "glass/cdgm/H-F2.yml"
-        - PAGE: H-F4
-          name: "H-F4"
-          data: "glass/cdgm/H-F4.yml"
         - PAGE: H-F13
           name: "H-F13"
           data: "glass/cdgm/H-F13.yml"
@@ -8489,39 +8624,45 @@
         - PAGE: QF1
           name: "QF1"
           data: "glass/cdgm/QF1.yml"
+        - PAGE: H-QF1
+          name: "H-QF1"
+          data: "glass/cdgm/H-QF1.yml"
         - PAGE: QF3
           name: "QF3"
           data: "glass/cdgm/QF3.yml"
+        - PAGE: H-QF3
+          name: "H-QF3"
+          data: "glass/cdgm/H-QF3.yml"
         - PAGE: QF5
           name: "QF5"
           data: "glass/cdgm/QF5.yml"
         - PAGE: QF6
           name: "QF6"
           data: "glass/cdgm/QF6.yml"
-        - PAGE: QF8
-          name: "QF8"
-          data: "glass/cdgm/QF8.yml"
-        - PAGE: QF50
-          name: "QF50"
-          data: "glass/cdgm/QF50.yml"
-        - PAGE: H-QF1
-          name: "H-QF1"
-          data: "glass/cdgm/H-QF1.yml"
-        - PAGE: H-QF3
-          name: "H-QF3"
-          data: "glass/cdgm/H-QF3.yml"
         - PAGE: H-QF6A
           name: "H-QF6A"
           data: "glass/cdgm/H-QF6A.yml"
+        - PAGE: QF8
+          name: "QF8"
+          data: "glass/cdgm/QF8.yml"
         - PAGE: H-QF8
           name: "H-QF8"
           data: "glass/cdgm/H-QF8.yml"
         - PAGE: H-QF14
           name: "H-QF14"
           data: "glass/cdgm/H-QF14.yml"
+        - PAGE: QF50
+          name: "QF50"
+          data: "glass/cdgm/QF50.yml"
+        - PAGE: H-QF50
+          name: "H-QF50"
+          data: "glass/cdgm/H-QF50.yml"
         - PAGE: H-QF50A
           name: "H-QF50A"
           data: "glass/cdgm/H-QF50A.yml"
+        - PAGE: QF50GTI
+          name: "QF50GTI"
+          data: "glass/cdgm/QF50GTI.yml"
         - PAGE: H-QF56
           name: "H-QF56"
           data: "glass/cdgm/H-QF56.yml"
@@ -8532,29 +8673,59 @@
         - PAGE: ZF1
           name: "ZF1"
           data: "glass/cdgm/ZF1.yml"
+        - PAGE: H-ZF1
+          name: "H-ZF1"
+          data: "glass/cdgm/H-ZF1.yml"
+        - PAGE: H-ZF1A
+          name: "H-ZF1A"
+          data: "glass/cdgm/H-ZF1A.yml"
         - PAGE: ZF2
           name: "ZF2"
           data: "glass/cdgm/ZF2.yml"
           info: "glass/SF5.html"
+        - PAGE: H-ZF2
+          name: "H-ZF2"
+          data: "glass/cdgm/H-ZF2.yml"
         - PAGE: ZF3
           name: "ZF3"
           data: "glass/cdgm/ZF3.yml"
+        - PAGE: H-ZF3
+          name: "H-ZF3"
+          data: "glass/cdgm/H-ZF3.yml"
         - PAGE: ZF4
           name: "ZF4"
           data: "glass/cdgm/ZF4.yml"
           info: "glass/SF10.html"
+        - PAGE: H-ZF4A
+          name: "H-ZF4A"
+          data: "glass/cdgm/H-ZF4A.yml"
+        - PAGE: H-ZF4AGT
+          name: "H-ZF4AGT"
+          data: "glass/cdgm/H-ZF4AGT.yml"
         - PAGE: ZF5
           name: "ZF5"
           data: "glass/cdgm/ZF5.yml"
+        - PAGE: H-ZF5
+          name: "H-ZF5"
+          data: "glass/cdgm/H-ZF5.yml"
         - PAGE: ZF6
           name: "ZF6"
           data: "glass/cdgm/ZF6.yml"
+        - PAGE: H-ZF6
+          name: "H-ZF6"
+          data: "glass/cdgm/H-ZF6.yml"
         - PAGE: ZF7
           name: "ZF7"
           data: "glass/cdgm/ZF7.yml"
         - PAGE: ZF7L
           name: "ZF7L"
           data: "glass/cdgm/ZF7L.yml"
+        - PAGE: H-ZF7LA
+          name: "H-ZF7LA"
+          data: "glass/cdgm/H-ZF7LA.yml"
+        - PAGE: H-ZF7LAGT
+          name: "H-ZF7LAGT"
+          data: "glass/cdgm/H-ZF7LAGT.yml"
         - PAGE: ZF7LGT
           name: "ZF7LGT"
           data: "glass/cdgm/ZF7LGT.yml"
@@ -8564,12 +8735,24 @@
         - PAGE: ZF10
           name: "ZF10"
           data: "glass/cdgm/ZF10.yml"
+        - PAGE: D-ZF10
+          name: "D-ZF10"
+          data: "glass/cdgm/D-ZF10.yml"
+        - PAGE: D-ZF10-25
+          name: "D-ZF10-25"
+          data: "glass/cdgm/D-ZF10-25.yml"
+        - PAGE: H-ZF10
+          name: "H-ZF10"
+          data: "glass/cdgm/H-ZF10.yml"
         - PAGE: ZF11
           name: "ZF11"
           data: "glass/cdgm/ZF11.yml"
         - PAGE: H-ZF11
           name: "H-ZF11"
           data: "glass/cdgm/H-ZF11.yml"
+        - PAGE: H-ZF12
+          name: "H-ZF12"
+          data: "glass/cdgm/H-ZF12.yml"
         - PAGE: ZF12
           name: "ZF12"
           data: "glass/cdgm/ZF12.yml"
@@ -8577,6 +8760,12 @@
           name: "ZF13"
           data: "glass/cdgm/ZF13.yml"
           info: "glass/SF11.html"
+        - PAGE: H-ZF13
+          name: "H-ZF13"
+          data: "glass/cdgm/H-ZF13.yml"
+        - PAGE: H-ZF13GT
+          name: "H-ZF13GT"
+          data: "glass/cdgm/H-ZF13GT.yml"
         - PAGE: ZF50
           name: "ZF50"
           data: "glass/cdgm/ZF50.yml"
@@ -8586,51 +8775,9 @@
         - PAGE: ZF52
           name: "ZF52"
           data: "glass/cdgm/ZF52.yml"
-        - PAGE: D-ZF10
-          name: "D-ZF10"
-          data: "glass/cdgm/D-ZF10.yml"
         - PAGE: D-ZF93
           name: "D-ZF93"
           data: "glass/cdgm/D-ZF93.yml"
-        - PAGE: H-ZF1
-          name: "H-ZF1"
-          data: "glass/cdgm/H-ZF1.yml"
-        - PAGE: H-ZF2
-          name: "H-ZF2"
-          data: "glass/cdgm/H-ZF2.yml"
-        - PAGE: H-ZF3
-          name: "H-ZF3"
-          data: "glass/cdgm/H-ZF3.yml"
-        - PAGE: H-ZF4A
-          name: "H-ZF4A"
-          data: "glass/cdgm/H-ZF4A.yml"
-        - PAGE: H-ZF4AGT
-          name: "H-ZF4AGT"
-          data: "glass/cdgm/H-ZF4AGT.yml"
-        - PAGE: H-ZF5
-          name: "H-ZF5"
-          data: "glass/cdgm/H-ZF5.yml"
-        - PAGE: H-ZF6
-          name: "H-ZF6"
-          data: "glass/cdgm/H-ZF6.yml"
-        - PAGE: H-ZF7LA
-          name: "H-ZF7LA"
-          data: "glass/cdgm/H-ZF7LA.yml"
-        - PAGE: H-ZF7LAGT
-          name: "H-ZF7LAGT"
-          data: "glass/cdgm/H-ZF7LAGT.yml"
-        - PAGE: H-ZF10
-          name: "H-ZF10"
-          data: "glass/cdgm/H-ZF10.yml"
-        - PAGE: H-ZF12
-          name: "H-ZF12"
-          data: "glass/cdgm/H-ZF12.yml"
-        - PAGE: H-ZF13
-          name: "H-ZF13"
-          data: "glass/cdgm/H-ZF13.yml"
-        - PAGE: H-ZF13GT
-          name: "H-ZF13GT"
-          data: "glass/cdgm/H-ZF13GT.yml"
         - PAGE: H-ZF39
           name: "H-ZF39"
           data: "glass/cdgm/H-ZF39.yml"
@@ -8652,15 +8799,36 @@
         - PAGE: H-ZF62
           name: "H-ZF62"
           data: "glass/cdgm/H-ZF62.yml"
+        - PAGE: H-ZF62GT
+          name: "H-ZF62GT"
+          data: "glass/cdgm/H-ZF62GT.yml"
         - PAGE: H-ZF71
           name: "H-ZF71"
           data: "glass/cdgm/H-ZF71.yml"
+        - PAGE: H-ZF71GT
+          name: "H-ZF71GT"
+          data: "glass/cdgm/H-ZF71GT.yml"
         - PAGE: H-ZF72A
           name: "H-ZF72A"
           data: "glass/cdgm/H-ZF72A.yml"
+        - PAGE: H-ZF72AGT
+          name: "H-ZF72AGT"
+          data: "glass/cdgm/H-ZF72AGT.yml"
+        - PAGE: H-ZF73
+          name: "H-ZF73"
+          data: "glass/cdgm/H-ZF73.yml"
+        - PAGE: H-ZF73GT
+          name: "H-ZF73GT"
+          data: "glass/cdgm/H-ZF73GT.yml"
         - PAGE: H-ZF88
           name: "H-ZF88"
           data: "glass/cdgm/H-ZF88.yml"
+        - PAGE: H-ZF88GT
+          name: "H-ZF88GT"
+          data: "glass/cdgm/H-ZF88GT.yml"
+        - PAGE: D-ZF93-25
+          name: "D-ZF93-25"
+          data: "glass/cdgm/D-ZF93-25.yml"
     - BOOK: CDGM-TF
       name: "CDGM - TF (Special flint)"
       info: "glass/CDGM.html"
@@ -8684,30 +8852,30 @@
         - PAGE: BAF2
           name: "BAF2"
           data: "glass/cdgm/BAF2.yml"
-        - PAGE: BAF4
-          name: "BAF4"
-          data: "glass/cdgm/BAF4.yml"
-        - PAGE: BAF5
-          name: "BAF5"
-          data: "glass/cdgm/BAF5.yml"
-        - PAGE: BAF7
-          name: "BAF7"
-          data: "glass/cdgm/BAF7.yml"
         - PAGE: H-BAF2
           name: "H-BAF2"
           data: "glass/cdgm/H-BAF2.yml"
         - PAGE: H-BAF3
           name: "H-BAF3"
           data: "glass/cdgm/H-BAF3.yml"
+        - PAGE: BAF4
+          name: "BAF4"
+          data: "glass/cdgm/BAF4.yml"
         - PAGE: H-BAF4
           name: "H-BAF4"
           data: "glass/cdgm/H-BAF4.yml"
+        - PAGE: BAF5
+          name: "BAF5"
+          data: "glass/cdgm/BAF5.yml"
         - PAGE: H-BAF5
           name: "H-BAF5"
           data: "glass/cdgm/H-BAF5.yml"
         - PAGE: H-BAF6
           name: "H-BAF6"
           data: "glass/cdgm/H-BAF6.yml"
+        - PAGE: BAF7
+          name: "BAF7"
+          data: "glass/cdgm/BAF7.yml"
         - PAGE: H-BAF7
           name: "H-BAF7"
           data: "glass/cdgm/H-BAF7.yml"
@@ -8718,18 +8886,12 @@
       name: "CDGM - ZBAF (Dense barium flint)"
       info: "glass/CDGM.html"
       content:
-        - PAGE: ZBAF2
-          name: "ZBAF2"
-          data: "glass/cdgm/ZBAF2.yml"
-        - PAGE: ZBAF17
-          name: "ZBAF17"
-          data: "glass/cdgm/ZBAF17.yml"
-        - PAGE: ZBAF51
-          name: "ZBAF51"
-          data: "glass/cdgm/ZBAF51.yml"
         - PAGE: H-ZBAF1
           name: "H-ZBAF1"
           data: "glass/cdgm/H-ZBAF1.yml"
+        - PAGE: ZBAF2
+          name: "ZBAF2"
+          data: "glass/cdgm/ZBAF2.yml"
         - PAGE: H-ZBAF3
           name: "H-ZBAF3"
           data: "glass/cdgm/H-ZBAF3.yml"
@@ -8742,6 +8904,9 @@
         - PAGE: H-ZBAF16
           name: "H-ZBAF16"
           data: "glass/cdgm/H-ZBAF16.yml"
+        - PAGE: ZBAF17
+          name: "ZBAF17"
+          data: "glass/cdgm/ZBAF17.yml"
         - PAGE: H-ZBAF20
           name: "H-ZBAF20"
           data: "glass/cdgm/H-ZBAF20.yml"
@@ -8751,6 +8916,9 @@
         - PAGE: H-ZBAF50
           name: "H-ZBAF50"
           data: "glass/cdgm/H-ZBAF50.yml"
+        - PAGE: ZBAF51
+          name: "ZBAF51"
+          data: "glass/cdgm/ZBAF51.yml"
         - PAGE: H-ZBAF52
           name: "H-ZBAF52"
           data: "glass/cdgm/H-ZBAF52.yml"
@@ -8762,18 +8930,9 @@
         - PAGE: D-LAF050
           name: "D-LAF050"
           data: "glass/cdgm/D-LAF050.yml"
-        - PAGE: D-LAF50
-          name: "D-LAF50"
-          data: "glass/cdgm/D-LAF50.yml"
-        - PAGE: D-LAF53
-          name: "D-LAF53"
-          data: "glass/cdgm/D-LAF53.yml"
-        - PAGE: D-LAF79
-          name: "D-LAF79"
-          data: "glass/cdgm/D-LAF79.yml"
-        - PAGE: D-LAF82L
-          name: "D-LAF82L"
-          data: "glass/cdgm/D-LAF82L.yml"
+        - PAGE: D-LAF050-25
+          name: "D-LAF050-25"
+          data: "glass/cdgm/D-LAF050-25.yml"
         - PAGE: H-LAF1
           name: "H-LAF1"
           data: "glass/cdgm/H-LAF1.yml"
@@ -8792,15 +8951,18 @@
         - PAGE: H-LAFL5
           name: "H-LAFL5"
           data: "glass/cdgm/H-LAFL5.yml"
-        - PAGE: H-LAF6LA
-          name: "H-LAF6LA"
-          data: "glass/cdgm/H-LAF6LA.yml"
         - PAGE: H-LAF7
           name: "H-LAF7"
           data: "glass/cdgm/H-LAF7.yml"
         - PAGE: H-LAF10LA
           name: "H-LAF10LA"
           data: "glass/cdgm/H-LAF10LA.yml"
+        - PAGE: D-LAF50
+          name: "D-LAF50"
+          data: "glass/cdgm/D-LAF50.yml"
+        - PAGE: D-LAF50-25
+          name: "D-LAF50-25"
+          data: "glass/cdgm/D-LAF50-25.yml"
         - PAGE: H-LAF50B
           name: "H-LAF50B"
           data: "glass/cdgm/H-LAF50B.yml"
@@ -8810,6 +8972,12 @@
         - PAGE: H-LAF52
           name: "H-LAF52"
           data: "glass/cdgm/H-LAF52.yml"
+        - PAGE: D-LAF53
+          name: "D-LAF53"
+          data: "glass/cdgm/D-LAF53.yml"
+        - PAGE: D-LAF53-25
+          name: "D-LAF53-25"
+          data: "glass/cdgm/D-LAF53-25.yml"
         - PAGE: H-LAF53
           name: "H-LAF53"
           data: "glass/cdgm/H-LAF53.yml"
@@ -8819,31 +8987,25 @@
         - PAGE: H-LAF55
           name: "H-LAF55"
           data: "glass/cdgm/H-LAF55.yml"
+        - PAGE: H-LAF6LA
+          name: "H-LAF6LA"
+          data: "glass/cdgm/H-LAF6LA.yml"
         - PAGE: H-LAF62
           name: "H-LAF62"
           data: "glass/cdgm/H-LAF62.yml"
+        - PAGE: D-LAF79
+          name: "D-LAF79"
+          data: "glass/cdgm/D-LAF79.yml"
+        - PAGE: D-LAF79-25
+          name: "D-LAF79-25"
+          data: "glass/cdgm/D-LAF79-25.yml"
+        - PAGE: D-LAF82L
+          name: "D-LAF82L"
+          data: "glass/cdgm/D-LAF82L.yml"
     - BOOK: CDGM-ZLAF
       name: "CDGM - ZLAF (Dense lanthanum flint)"
       info: "glass/CDGM.html"
       content:
-        - PAGE: D-ZLAF50
-          name: "D-ZLAF50"
-          data: "glass/cdgm/D-ZLAF50.yml"
-        - PAGE: D-ZLAF52LA
-          name: "D-ZLAF52LA"
-          data: "glass/cdgm/D-ZLAF52LA.yml"
-        - PAGE: D-ZLAF61
-          name: "D-ZLAF61"
-          data: "glass/cdgm/D-ZLAF61.yml"
-        - PAGE: D-ZLAF67
-          name: "D-ZLAF67"
-          data: "glass/cdgm/D-ZLAF67.yml"
-        - PAGE: D-ZLAF81
-          name: "D-ZLAF81"
-          data: "glass/cdgm/D-ZLAF81.yml"
-        - PAGE: D-ZLAF85L
-          name: "D-ZLAF85L"
-          data: "glass/cdgm/D-ZLAF85L.yml"
         - PAGE: H-ZLAF1
           name: "H-ZLAF1"
           data: "glass/cdgm/H-ZLAF1.yml"
@@ -8856,6 +9018,15 @@
         - PAGE: H-ZLAF4LA
           name: "H-ZLAF4LA"
           data: "glass/cdgm/H-ZLAF4LA.yml"
+        - PAGE: H-ZLAF4LB
+          name: "H-ZLAF4LB"
+          data: "glass/cdgm/H-ZLAF4LB.yml"
+        - PAGE: D-ZLAF50
+          name: "D-ZLAF50"
+          data: "glass/cdgm/D-ZLAF50.yml"
+        - PAGE: D-ZLAF50-25
+          name: "D-ZLAF50-25"
+          data: "glass/cdgm/D-ZLAF50-25.yml"
         - PAGE: H-ZLAF50D
           name: "H-ZLAF50D"
           data: "glass/cdgm/H-ZLAF50D.yml"
@@ -8871,6 +9042,12 @@
         - PAGE: H-ZLAF52A
           name: "H-ZLAF52A"
           data: "glass/cdgm/H-ZLAF52A.yml"
+        - PAGE: D-ZLAF52LA
+          name: "D-ZLAF52LA"
+          data: "glass/cdgm/D-ZLAF52LA.yml"
+        - PAGE: D-ZLAF52LA-25
+          name: "D-ZLAF52LA-25"
+          data: "glass/cdgm/D-ZLAF52LA-25.yml"
         - PAGE: H-ZLAF53B
           name: "H-ZLAF53B"
           data: "glass/cdgm/H-ZLAF53B.yml"
@@ -8886,12 +9063,24 @@
         - PAGE: H-ZLAF56B
           name: "H-ZLAF56B"
           data: "glass/cdgm/H-ZLAF56B.yml"
+        - PAGE: D-ZLAF61
+          name: "D-ZLAF61"
+          data: "glass/cdgm/D-ZLAF61.yml"
+        - PAGE: D-ZLAF61-25
+          name: "D-ZLAF61-25"
+          data: "glass/cdgm/D-ZLAF61-25.yml"
         - PAGE: H-ZLAF66
           name: "H-ZLAF66"
           data: "glass/cdgm/H-ZLAF66.yml"
         - PAGE: H-ZLAF66GT
           name: "H-ZLAF66GT"
           data: "glass/cdgm/H-ZLAF66GT.yml"
+        - PAGE: D-ZLAF67
+          name: "D-ZLAF67"
+          data: "glass/cdgm/D-ZLAF67.yml"
+        - PAGE: D-ZLAF67-25
+          name: "D-ZLAF67-25"
+          data: "glass/cdgm/D-ZLAF67-25.yml"
         - PAGE: H-ZLAF68B
           name: "H-ZLAF68B"
           data: "glass/cdgm/H-ZLAF68B.yml"
@@ -8904,9 +9093,18 @@
         - PAGE: H-ZLAF69
           name: "H-ZLAF69"
           data: "glass/cdgm/H-ZLAF69.yml"
+        - PAGE: H-ZLAF69A
+          name: "H-ZLAF69A"
+          data: "glass/cdgm/H-ZLAF69A.yml"
         - PAGE: H-ZLAF71
           name: "H-ZLAF71"
           data: "glass/cdgm/H-ZLAF71.yml"
+        - PAGE: H-ZLAF71AGT
+          name: "H-ZLAF71AGT"
+          data: "glass/cdgm/H-ZLAF71AGT.yml"
+        - PAGE: H-ZLAF73
+          name: "H-ZLAF73"
+          data: "glass/cdgm/H-ZLAF73.yml"
         - PAGE: H-ZLAF75A
           name: "H-ZLAF75A"
           data: "glass/cdgm/H-ZLAF75A.yml"
@@ -8916,9 +9114,42 @@
         - PAGE: H-ZLAF76
           name: "H-ZLAF76"
           data: "glass/cdgm/H-ZLAF76.yml"
+        - PAGE: H-ZLAF76A
+          name: "H-ZLAF76A"
+          data: "glass/cdgm/H-ZLAF76A.yml"
         - PAGE: H-ZLAF78B
           name: "H-ZLAF78B"
           data: "glass/cdgm/H-ZLAF78B.yml"
+        - PAGE: D-ZLAF81
+          name: "D-ZLAF81"
+          data: "glass/cdgm/D-ZLAF81.yml"
+        - PAGE: D-ZLAF81-25
+          name: "D-ZLAF81-25"
+          data: "glass/cdgm/D-ZLAF81-25.yml"
+        - PAGE: D-ZLAF85A
+          name: "D-ZLAF85A"
+          data: "glass/cdgm/D-ZLAF85A.yml"
+        - PAGE: D-ZLAF85A-25
+          name: "D-ZLAF85A-25"
+          data: "glass/cdgm/D-ZLAF85A-25.yml"
+        - PAGE: D-ZLAF85L
+          name: "D-ZLAF85L"
+          data: "glass/cdgm/D-ZLAF85L.yml"
+        - PAGE: D-ZLAF85L-25
+          name: "D-ZLAF85L-25"
+          data: "glass/cdgm/D-ZLAF85L-25.yml"
+        - PAGE: D-ZLAF85LN
+          name: "D-ZLAF85LN"
+          data: "glass/cdgm/D-ZLAF85LN.yml"
+        - PAGE: D-ZLAF85LN-25
+          name: "D-ZLAF85LN-25"
+          data: "glass/cdgm/D-ZLAF85LN-25.yml"
+        - PAGE: D-ZLAF85LS
+          name: "D-ZLAF85LS"
+          data: "glass/cdgm/D-ZLAF85LS.yml"
+        - PAGE: D-ZLAF85LS-25
+          name: "D-ZLAF85LS-25"
+          data: "glass/cdgm/D-ZLAF85LS-25.yml"
         - PAGE: H-ZLAF89L
           name: "H-ZLAF89L"
           data: "glass/cdgm/H-ZLAF89L.yml"
@@ -11141,34 +11372,34 @@
           name: "Tkachenko et al. 2006: n(e) 0.532–1.7 µm"
           data: "other/liquid crystals/5CB/Tkachenko-e.yml"
         - PAGE: Wu-25.1C-o
-          name: "Wu et al. 1993: n(o) 0.4–0.8 µm; 25.1 °C"
+          name: "Wu et al. 1993: n(o) 0.4–0.8 µm; 25.1 ℃"
           data: "other/liquid crystals/5CB/Wu-25.1C-o.yml"
         - PAGE: Wu-25.1C-e
-          name: "Wu et al. 1993: n(e) 0.4–0.8 µm; 25.1 °C"
+          name: "Wu et al. 1993: n(e) 0.4–0.8 µm; 25.1 ℃"
           data: "other/liquid crystals/5CB/Wu-25.1C-e.yml"
         - PAGE: Wu-27.2C-o
-          name: "Wu et al. 1993: n(o) 0.4–0.8 µm; 27.2 °C"
+          name: "Wu et al. 1993: n(o) 0.4–0.8 µm; 27.2 ℃"
           data: "other/liquid crystals/5CB/Wu-27.2C-o.yml"
         - PAGE: Wu-27.2C-e
-          name: "Wu et al. 1993: n(e) 0.4–0.8 µm; 27.2 °C"
+          name: "Wu et al. 1993: n(e) 0.4–0.8 µm; 27.2 ℃"
           data: "other/liquid crystals/5CB/Wu-27.2C-e.yml"
         - PAGE: Wu-29.9C-o
-          name: "Wu et al. 1993: n(o) 0.4–0.8 µm; 29.9 °C"
+          name: "Wu et al. 1993: n(o) 0.4–0.8 µm; 29.9 ℃"
           data: "other/liquid crystals/5CB/Wu-29.9C-o.yml"
         - PAGE: Wu-29.9C-e
-          name: "Wu et al. 1993: n(e) 0.4–0.8 µm; 29.9 °C"
+          name: "Wu et al. 1993: n(e) 0.4–0.8 µm; 29.9 ℃"
           data: "other/liquid crystals/5CB/Wu-29.9C-e.yml"
         - PAGE: Wu-32.6C-o
-          name: "Wu et al. 1993: n(o) 0.4–0.8 µm; 32.6 °C"
+          name: "Wu et al. 1993: n(o) 0.4–0.8 µm; 32.6 ℃"
           data: "other/liquid crystals/5CB/Wu-32.6C-o.yml"
         - PAGE: Wu-32.6C-e
-          name: "Wu et al. 1993: n(e) 0.4–0.8 µm; 32.6 °C"
+          name: "Wu et al. 1993: n(e) 0.4–0.8 µm; 32.6 ℃"
           data: "other/liquid crystals/5CB/Wu-32.6C-e.yml"
         - PAGE: Wu-34.8C-o
-          name: "Wu et al. 1993: n(o) 0.4–0.8 µm; 34.8 °C"
+          name: "Wu et al. 1993: n(o) 0.4–0.8 µm; 34.8 ℃"
           data: "other/liquid crystals/5CB/Wu-34.8C-o.yml"
         - PAGE: Wu-34.8C-e
-          name: "Wu et al. 1993: n(e) 0.4–0.8 µm; 34.8 °C"
+          name: "Wu et al. 1993: n(e) 0.4–0.8 µm; 34.8 ℃"
           data: "other/liquid crystals/5CB/Wu-34.8C-e.yml"
     - BOOK: 5PCH
       name: "5PCH (4-trans-pentylcyclohexylcyanobenzene)"
@@ -11181,46 +11412,46 @@
           name: "Li et al. 2005: n(e) 0.450–0.656 µm"
           data: "other/liquid crystals/5PCH/Li-e.yml"
         - PAGE: Wu-25.0C-o
-          name: "Wu et al. 1993: n(o) 0.4–0.8 µm; 25.0 °C"
+          name: "Wu et al. 1993: n(o) 0.4–0.8 µm; 25.0 ℃"
           data: "other/liquid crystals/5PCH/Wu-25.0C-o.yml"
         - PAGE: Wu-25.0C-e
-          name: "Wu et al. 1993: n(e) 0.4–0.8 µm; 25.0 °C"
+          name: "Wu et al. 1993: n(e) 0.4–0.8 µm; 25.0 ℃"
           data: "other/liquid crystals/5PCH/Wu-25.0C-e.yml"
         - PAGE: Wu-30.4-o
-          name: "Wu et al. 1993: n(o) 0.4–0.8 µm; 30.4 °C"
+          name: "Wu et al. 1993: n(o) 0.4–0.8 µm; 30.4 ℃"
           data: "other/liquid crystals/5PCH/Wu-30.4C-o.yml"
         - PAGE: Wu-30.4C-e
-          name: "Wu et al. 1993: n(e) 0.4–0.8 µm; 30.4 °C"
+          name: "Wu et al. 1993: n(e) 0.4–0.8 µm; 30.4 ℃"
           data: "other/liquid crystals/5PCH/Wu-30.4C-e.yml"
         - PAGE: Wu-34.8C-o
-          name: "Wu et al. 1993: n(o) 0.4–0.8 µm; 34.8 °C"
+          name: "Wu et al. 1993: n(o) 0.4–0.8 µm; 34.8 ℃"
           data: "other/liquid crystals/5PCH/Wu-34.8C-o.yml"
         - PAGE: Wu-34.8C-e
-          name: "Wu et al. 1993: n(e) 0.4–0.8 µm; 34.8 °C"
+          name: "Wu et al. 1993: n(e) 0.4–0.8 µm; 34.8 ℃"
           data: "other/liquid crystals/5PCH/Wu-34.8C-e.yml"
         - PAGE: Wu-40.1C-o
-          name: "Wu et al. 1993: n(o) 0.4–0.8 µm; 40.1 °C"
+          name: "Wu et al. 1993: n(o) 0.4–0.8 µm; 40.1 ℃"
           data: "other/liquid crystals/5PCH/Wu-40.1C-o.yml"
         - PAGE: Wu-40.1C-e
-          name: "Wu et al. 1993: n(e) 0.4–0.8 µm; 40.1 °C"
+          name: "Wu et al. 1993: n(e) 0.4–0.8 µm; 40.1 ℃"
           data: "other/liquid crystals/5PCH/Wu-40.1C-e.yml"
         - PAGE: Wu-45.4C-o
-          name: "Wu et al. 1993: n(o) 0.4–0.8 µm; 45.4 °C"
+          name: "Wu et al. 1993: n(o) 0.4–0.8 µm; 45.4 ℃"
           data: "other/liquid crystals/5PCH/Wu-45.4C-o.yml"
         - PAGE: Wu-45.4C-e
-          name: "Wu et al. 1993: n(e) 0.4–0.8 µm; 45.4 °C"
+          name: "Wu et al. 1993: n(e) 0.4–0.8 µm; 45.4 ℃"
           data: "other/liquid crystals/5PCH/Wu-45.4C-e.yml"   
         - PAGE: Wu-50.8C-o
-          name: "Wu et al. 1993: n(o) 0.4–0.8 µm; 50.8 °C"
+          name: "Wu et al. 1993: n(o) 0.4–0.8 µm; 50.8 ℃"
           data: "other/liquid crystals/5PCH/Wu-50.8C-o.yml"
         - PAGE: Wu-50.8C-e
-          name: "Wu et al. 1993: n(e) 0.4–0.8 µm; 50.8 °C"
+          name: "Wu et al. 1993: n(e) 0.4–0.8 µm; 50.8 ℃"
           data: "other/liquid crystals/5PCH/Wu-50.8C-e.yml"
         - PAGE: Wu-53.4C-o
-          name: "Wu et al. 1993: n(o) 0.4–0.8 µm; 53.4 °C"
+          name: "Wu et al. 1993: n(o) 0.4–0.8 µm; 53.4 ℃"
           data: "other/liquid crystals/5PCH/Wu-53.4C-o.yml"
         - PAGE: Wu-53.4C-e
-          name: "Wu et al. 1993: n(e) 0.4–0.8 µm; 53.4 °C"
+          name: "Wu et al. 1993: n(e) 0.4–0.8 µm; 53.4 ℃"
           data: "other/liquid crystals/5PCH/Wu-53.4C-e.yml"
     - BOOK: E7
       name: "E7"
@@ -11304,13 +11535,13 @@
       info: "other/biodisel.html"
       content:
         - PAGE: Wang-20C
-          name: "Wang et al. 2015: 20 °C; n,k 0.300–2.50 µm"
+          name: "Wang et al. 2015: 20 ℃; n,k 0.300–2.50 µm"
           data: "other/fuel/biodisel/Wang-20C.yml"
         - PAGE: Wang-40C
-          name: "Wang et al. 2015: 40 °C; n,k 0.300–2.50 µm"
+          name: "Wang et al. 2015: 40 ℃; n,k 0.300–2.50 µm"
           data: "other/fuel/biodisel/Wang-40C.yml"
         - PAGE: Wang-60C
-          name: "Wang et al. 2015: 60 °C; n,k 0.300–2.50 µm"
+          name: "Wang et al. 2015: 60 ℃; n,k 0.300–2.50 µm"
           data: "other/fuel/biodisel/Wang-60C.yml"
     - DIVIDER: "Index matching liquids"
     - BOOK: BK7_matching_liquid

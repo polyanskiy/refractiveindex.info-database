@@ -3,7 +3,7 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: "L. W. Tilton, E. K. Plyler, and R. E. Stephens. Refractive index of silver chloride for visible and infra-red radiant energy, <a href=\"https://doi.org/10.1364/JOSA.40.000540\"><i>J. Opt. Soc. Am.</i> <b>40</b>, 540-541 (1950)</a>"
-COMMENTS: "23.9 °C"
+COMMENTS: "23.9 ℃"
 DATA:
   - type: formula 4
     wavelength_range: 0.578 20.6

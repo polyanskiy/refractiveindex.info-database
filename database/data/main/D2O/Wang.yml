@@ -3,7 +3,7 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: "Y. Wang, W. Wen, K. Wang, P. Zhai, P. Qiu, K. Wang. Measurement of absorption spectrum of deuterium oxide (D<sub>2</sub>O) and its application to signal enhancement in multiphoton microscopy at the 1700-nm window, <a href=\"https://doi.org/10.1063/1.4939970\"><i>Appl. Phys. Lett.</i> <b>108</b>, 021112 (2016)</a>"
-COMMENTS: "22 °C."
+COMMENTS: "22 ℃."
 DATA:
   - type: tabulated k
     data: |
@@ -709,4 +709,4 @@ DATA:
         2.598 2.07042E-03
         2.600 2.10358E-03
 SPECS:
-    temperature: 22 °C
+    temperature: 22 ℃

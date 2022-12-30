@@ -3,7 +3,7 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: "S. G. Warren. Optical constants of ice from the ultraviolet to the microwave, <a href=\"https://doi.org/10.1364/AO.23.001206\"><i>Appl. Opt.</i> <b>23</b>, 1206-1225 (1984)</a>"
-COMMENTS: "Water ice (solid H<sub>2</sub>O) at -7 °C"
+COMMENTS: "Water ice (solid H<sub>2</sub>O) at -7 ℃"
 DATA:
   - type: tabulated nk
     data: |
@@ -476,4 +476,4 @@ DATA:
         1.500E+2 1.8227 9.620E-2
         1.670E+2 1.8296 8.300E-2
 SPECS:
-    temperature: -7 °C
+    temperature: -7 ℃

@@ -20,12 +20,12 @@ SPECS:
     Vickers_hardness: 142 kgf/mm<sup>2</sup>
     Youngs_modulus: 19.8 GPa
     thermal_expansion:
-      - temperature_range: 25 100 °C
+      - temperature_range: 25 100 ℃
         coefficient: 22.5e-06 K<sup>-1</sup>
     thermal_dispersion:
       - type: "dn_rel/dT"
-        temperature_range: 0 40 °C
+        temperature_range: 0 40 ℃
         wavelength: 10 µm
         value: 30.5e-6 K<sup>-1</sup>
-    transition_temperature: 140 °C
+    transition_temperature: 140 ℃
     

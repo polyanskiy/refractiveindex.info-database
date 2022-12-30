@@ -3,7 +3,7 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: "<a href=\"https://refractiveindex.info/download/data/2011/barberini/d05870-v-512-e.pdf\">Barberini D0587 glass specifications, 2011-01</a>"
-COMMENTS: "20 °C<br>Photochromic Glass; Colour: clear; Application: Lower segment glass for photochromic ophthalmic crown glass"
+COMMENTS: "20 ℃<br>Photochromic Glass; Colour: clear; Application: Lower segment glass for photochromic ophthalmic crown glass"
 DATA:
   - type: tabulated n
     data: |

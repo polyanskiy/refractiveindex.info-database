@@ -3,7 +3,7 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: "A. Jolivet, C. Labbé, C. Frilay, O. Debieu, P. Marie, B. Horcholle, F. Lemarié, X. Portier, C. Grygiel, S. Duprey, W. Jadwisienczak, D. Ingram, M. Upadhyay, A. David, A. Fouchet, U. Lüders, J. Cardin. Structural, optical, and electrical properties of TiO<sub>2</sub> thin films deposited by ALD: Impact of the substrate, the deposited thickness and the deposition temperature. <a href=\"http://dx.doi.org/10.1016/j.apsusc.2022.155214\"><i>Appl. Surf. Sci.</i> <b>608</b>, 155214 (2023)</a> (Numerical data kindly provided by Julien Cardin)"
-COMMENTS: "TiO<sub>2</sub> anatase thin film deposited by ALD at 300 °C"
+COMMENTS: "TiO<sub>2</sub> anatase thin film deposited by ALD at 300 ℃"
 DATA:
   - type: tabulated nk
     data: |

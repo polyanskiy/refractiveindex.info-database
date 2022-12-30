@@ -3,7 +3,7 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: "U. Griesmann and J. H. Burnett. Refractivity of nitrogen gas in the vacuum ultraviolet, <a href=\"https://doi.org/10.1364/OL.24.001699\"><i>Opt. lett.</i> <b>24</b>, 1699-1701 (1999)</a>"
-COMMENTS: "Standard conditions: 0 °C; 101 325 Pa."
+COMMENTS: "Standard conditions: 0 ℃; 101 325 Pa."
 DATA:
   - type: formula 6
     wavelength_range: 0.145 0.270
@@ -11,5 +11,5 @@ DATA:
 SPECS:
     n_absolute: true
     wavelength_vacuum: true
-    temperature: 0 °C
+    temperature: 0 ℃
     pressure: 101325 Pa

@@ -3,7 +3,7 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: "E. R. Peck and K. Reeder. Dispersion of air, <a href=\"https://doi.org/10.1364/JOSA.62.000958\"><i>J. Opt. Soc. Am.</i> <b>62</b>, 958-962 (1972)</a>"
-COMMENTS: "Standard air: dry air at 15 °C, 101.325 kPa and with 450 ppm CO<sub>2</sub> content."
+COMMENTS: "Standard air: dry air at 15 ℃, 101.325 kPa and with 450 ppm CO<sub>2</sub> content."
 DATA:
   - type: formula 6
     wavelength_range: 0.185 1.7
@@ -11,5 +11,5 @@ DATA:
 SPECS:
     n_absolute: true
     wavelength_vacuum: true
-    temperature: 15 °C
+    temperature: 15 ℃
     pressure: 101325 Pa

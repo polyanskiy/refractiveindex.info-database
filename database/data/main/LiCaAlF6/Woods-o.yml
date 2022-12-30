@@ -3,7 +3,7 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: "B. W. Woods et al.. Thermomechanical and thermo-optical properties of the LiCaAlF<sub>6</sub>:Cr<sup>3+</sup> laser material, <a href=\"https://doi.org/10.1364/JOSAB.8.000970\"><i>J. Opt. Soc. Am. B</i> <b>8</b>, 970-977 (1991)</a>."
-COMMENTS: "26 °C. Ordinary ray (o)."
+COMMENTS: "26 ℃. Ordinary ray (o)."
 DATA:
   - type: formula 4
     wavelength_range: 0.4 1.0

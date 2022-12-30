@@ -3,7 +3,7 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: "Handbook of Optical Materials, Marvin J. Weber. CRC Press 2003 [<a href=\"https://books.google.com/books?id=6VpQDoef05wC&hl=en\">link</a>]<br>*Original source of data is unknown: \"Handbook...\" cites a paper that doesn't include any information on optical constants of Deuterium."
-COMMENTS: "0 °C"
+COMMENTS: "0 ℃"
 DATA:
   - type: tabulated n
     data: |
@@ -27,4 +27,4 @@ DATA:
         0.579065 1.00013727
 SPECS:
     n_absolute: true
-    temperature: 0 °C
+    temperature: 0 ℃

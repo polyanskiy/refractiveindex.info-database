@@ -3,7 +3,7 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: "D. I. Yakubovsky, Y. V. Stebunov, R. V. Kirtaev, G. A. Ermolaev, M. S. Mironov, S. M. Novikov, A. V. Arsenin,  V. S. Volkov. Ultrathin and ultrasmooth gold films on monolayer MoS<sub>2</sub>, <a href=\"https://doi.org/10.1002/admi.201900196\"><i>Adv. Mater. Interfaces</i> <b>6</b>, 1900196 (2019)</a> (Numerical data kindly provided by Georgy Ermolaev)"
-COMMENTS: "Au thickness = 6.1 nm, e-beam evaporated at 5 Å/s with a base pressure of 5e-7 Torr on MoS<sub>2</sub> CVD monolayer on SiO<sub>2</sub> substrate at T = 20 °C. Thickness was determined by AFM."
+COMMENTS: "Au thickness = 6.1 nm, e-beam evaporated at 5 Å/s with a base pressure of 5e-7 Torr on MoS<sub>2</sub> CVD monolayer on SiO<sub>2</sub> substrate at T = 20 ℃. Thickness was determined by AFM."
 DATA:
   - type: tabulated nk
     data: | 

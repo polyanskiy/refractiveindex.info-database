@@ -3,7 +3,7 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: "Y. Fujii and T. Sakudo. Dielectric and optical properties of KTaO<sub>3</sub>, <a href=\"https://doi.org/10.1143/JPSJ.41.888\"><i>J. Phys. Soc. Jpn.</i> <b>41</b>, 888-893 (1976)</a>."
-COMMENTS: "300 K (27 °C)"
+COMMENTS: "300 K (27 ℃)"
 DATA:
   - type: formula 1
     wavelength_range: 0.4 1.06

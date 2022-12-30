@@ -3,7 +3,7 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: "S. Ghosal, J. L. Ebert, and S. A. Self. The infrared refractive indices of CHBr<sub>3</sub>, CCl<sub>4</sub> and CS<sub>2</sub>, <a href=\"https://doi.org/10.1016/0020-0891(93)90120-V\"><i>IR Physics</i> <b>34</b>, 621-628 (1993)</a>"
-COMMENTS: "298 K (25 °C)"
+COMMENTS: "298 K (25 ℃)"
 DATA:
   - type: tabulated n
     data: |

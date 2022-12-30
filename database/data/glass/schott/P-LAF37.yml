@@ -42,8 +42,8 @@ SPECS:
     glass_status: standard
     density: 3.987 g/cm<sup>3</sup>
     thermal_expansion:
-      - temperature_range: -30 70 °C
+      - temperature_range: -30 70 ℃
         coefficient: 6.26e-06 K<sup>-1</sup>
-      - temperature_range: 20 300 °C
+      - temperature_range: 20 300 ℃
         coefficient: 7.8e-06 K<sup>-1</sup>
     dPgF: -0.008

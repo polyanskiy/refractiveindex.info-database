@@ -43,18 +43,18 @@ DATA:
 SPECS:
     n_absolute: false
     wavelength_vacuum: false
-    temperature: 20.0 °C
+    temperature: 20.0 ℃
     thermal_dispersion:
       - type: "Schott formula"
         coefficients: 6.41e-05 0 0 1.68e-07 0 9.96e-01
     density: 4.41 g/cm<sup>3</sup>
     thermal_expansion:
-      - temperature_range: 20 100 °C
+      - temperature_range: 20 100 ℃
         coefficient: 12.5e-06 K<sup>-1</sup>
     specific_heat: 0.33 J/(g·K)
     thermal_conductivity:
       - value: 0.24 W/(m·K)
-    transition_temperature: 368 °C
+    transition_temperature: 368 ℃
     Knoop_hardness: 1.41 GPa
     fracture_toughness: 0.55 MPa·m<sup>1/2</sup>
     shear_modulus: 8.9 GPa

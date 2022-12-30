@@ -3,7 +3,7 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: "J. Šik, J. Hora, J. Humlı́ček. Optical functions of silicon at high temperatures, <a href=\"https://doi.org/10.1063/1.368951\"><i>J. Appl. Phys.</i> <b>84</b>, 6291–6298 (1998)</a>"
-COMMENTS: "Temperature: 25 °C (298 K)."
+COMMENTS: "Temperature: 25 ℃ (298 K)."
 DATA:
   - type: tabulated nk
     data: |
@@ -55,4 +55,4 @@ DATA:
         0.6048 3.9441 0.0761
         0.6199 3.9123 0.0792
 SPECS:
-    temperature: 25 °C
+    temperature: 25 ℃

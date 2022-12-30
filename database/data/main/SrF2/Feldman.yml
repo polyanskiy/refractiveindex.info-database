@@ -7,4 +7,4 @@ DATA:
   - type: formula 1
     wavelength_range: 0.21 11.5
     coefficients: 0 0.67805894 0.05628989 0.37140533 0.10801027 3.3485284 39.906666
-COMMENTS: "20 °C"
+COMMENTS: "20 ℃"
