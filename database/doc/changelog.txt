@@ -1,5 +1,7 @@
 ﻿============================== Next release ==============================
   
+  new data (thanks to Frank Somhorst, University of Twente, Netherlands, for submitting data!)
+    main/EuS/Meretska.yml
   new data (thanks to Callum Stirling, University of Southampton, UK, for suggesting data!)
     main/HfO2/Bright.yml
   new data (thanks to Osamu Takayama, Technical University of Denmark, Lyngby, Denmark, for submitting data!)

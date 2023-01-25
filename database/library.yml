@@ -2659,7 +2659,15 @@
           data: "main/CuGaS2/Boyd-120-o.yml"
         - PAGE: Boyd-120-e
           name: "Boyd et al. 1971: n(e) 0.55–11.5 µm; 120 ℃"
-          data: "main/CuGaS2/Boyd-120-e.yml"
+          data: "main/CuGaS2/Boyd-120-e.yml"  
+    - BOOK: EuS
+      name: "EuS (Europium sulfide)"
+      info: "main/EuS.html"
+      content:
+        - DIVIDER: "Thin film"
+        - PAGE: Meretska
+          name: "Meretska et al. 2022: thin film; n,k 0.190–1.700 µm"
+          data: "main/EuS/Meretska.yml"
     - BOOK: GaS
       name: "GaS (Gallium sulfide)"
       info: "main/GaS.html"
