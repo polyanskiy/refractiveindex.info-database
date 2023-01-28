@@ -6,7 +6,7 @@ REFERENCES: "Z. Guo, H. Gu, M. Fang, L. Yed, S. Liu, Giant in-plane optical and 
 COMMENTS: "Tellurene. Ordinary ray (o)."
 DATA:
   - type: tabulated nk
-    data: 
+    data: |
         0.400 1.06337 2.15703
         0.405 1.08186 2.18582
         0.410 1.10076 2.21468
