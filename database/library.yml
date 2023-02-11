@@ -11701,6 +11701,13 @@
         - PAGE: Jobsis
           name: "Jöbsis et al. 2021: n,k 0.300–1.70 µm"
           data: "other/perovskite/Cs2AgBiBr6/Jobsis.yml"
+    - BOOK: CsPbI3
+      name: "CsPbI3 (Cesium lead triiodide)"
+      info: "other/CsPbI3.html"
+      content:
+        - PAGE: Aftenieva
+          name: "Aftenieva et al. 2023: n,k 0.300–1.20 µm"
+          data: "other/perovskite/CsPbI3/Aftenieva.yml"
     - BOOK: 2D_HOIP
       name: "2D HOIP (Hybrid organic-inorganic perovskite)"
       info: "other/perovskite.html"
@@ -11732,6 +11739,14 @@
         - PAGE: Song-DJ4
           name: "Song et al. 2021: DJ4; n,k 0.371–1.69 µm"
           data: "other/perovskite/2D HOIP/Song-DJ4.yml"
+    - DIVIDER: "Quantum dots"
+    - BOOK: CdSe-ZnCdS
+      name: "CdSe/ZnCdS (Cadmium selenide / zinc cadmium sulfide core/shell)"
+      info: "other/CdSe-ZnCdS.html"
+      content:
+        - PAGE: Aftenieva
+          name: "Aftenieva et al. 2023: n,k 0.350–1.20 µm"
+          data: "other/quantum dots/CdSe-ZnCdS/Aftenieva.yml"
     - DIVIDER: "Heat transfer fluids"
     - BOOK: TherminolVP-1
       name: "Therminol VP-1"

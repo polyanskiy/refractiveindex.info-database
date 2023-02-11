@@ -1,5 +1,8 @@
 ﻿============================== Next release ==============================
-  
+
+  new data (thanks to Tobias König, Leibniz-Institut für Polymerforschung Dresden, Germany, for submitting data!)  
+    other/perovskite/CsPbI3/Aftenieva.yml
+    other/quantum dots/CdSe-ZnCdS/Aftenieva.yml
   new data (thanks to Frank Somhorst, University of Twente, Netherlands, for submitting data!)
     main/EuS/Meretska.yml
   new data (thanks to Callum Stirling, University of Southampton, UK, for suggesting data!)
