@@ -1,5 +1,7 @@
 ﻿============================== Next release ==============================
 
+  new data (thanks to Jan Hrabovsky, Charles University, Prague, Czech Republic, for submitting data!)
+    main/C/Taylor.yml
   new data (thanks to Tobias König, Leibniz-Institut für Polymerforschung Dresden, Germany, for submitting data!)  
     other/perovskite/CsPbI3/Aftenieva.yml
     other/quantum dots/CdSe-ZnCdS/Aftenieva.yml

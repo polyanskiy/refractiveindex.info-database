@@ -543,6 +543,9 @@
         - PAGE: Phillip
           name: "Phillip and Taft 1964: Diamond; n,k 0.0354–10 µm"
           data: "main/C/Phillip.yml"
+        - PAGE: Taylor
+          name: "Taylor et al. 2023: Single-crystal CVD film; n,k 0.193–1.69 µm"
+          data: "main/C/Taylor.yml"
         - PAGE: Peter
           name: "Peter 1923: Diamond; n 0.226–0.760 µm"
           data: "main/C/Peter.yml"
@@ -550,6 +553,9 @@
         - PAGE: Dore
           name: "Dore et al. 1998: Polycrystalline CVD diamond; n,k 2.5–500 µm"
           data: "main/C/Dore.yml"
+        - PAGE: Taylor
+          name: "Taylor et al. 2023: Single-crystal CVD film; n,k 0.193–1.69 µm"
+          data: "main/C/Taylor.yml"
         - DIVIDER: "Amorphous thin film"
         - PAGE: Hagemann
           name: "Hagemann et al. 1974: n,k 0.0000413–124 µm"
