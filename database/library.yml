@@ -554,7 +554,7 @@
           name: "Dore et al. 1998: Polycrystalline CVD diamond; n,k 2.5–500 µm"
           data: "main/C/Dore.yml"
         - PAGE: Taylor
-          name: "Taylor et al. 2023: Single-crystal CVD film; n,k 0.193–1.69 µm"
+          name: "Taylor et al. 2023: Single-crystal CVD; n,k 0.193–1.69 µm"
           data: "main/C/Taylor.yml"
         - DIVIDER: "Amorphous thin film"
         - PAGE: Hagemann
@@ -3124,6 +3124,19 @@
         - PAGE: Ermolaev
           name: "Ermolaev et al. 2021: thin film; n,k 0.245–3.30 µm"
           data: "main/PtSe2/Ermolaev.yml"
+    - BOOK: SnSe
+      name: "SnSe (Tin selenide)"
+      info: "main/SnSe.html"
+      content:      
+        - PAGE: Guo-α
+          name: "Guo et al. 2022: n,k(α) 0.193–1.69 µm"
+          data: "main/SnSe/Guo-alpha.yml"
+        - PAGE: Guo-β
+          name: "Guo et al. 2022: n,k(β) 0.193–1.69 µm"
+          data: "main/SnSe/Guo-beta.yml"
+        - PAGE: Guo-γ
+          name: "Guo et al. 2022: n,k(γ) 0.193–1.69 µm"
+          data: "main/SnSe/Guo-gamma.yml"
     - BOOK: SnSe2
       name: "SnSe<sub>2</sub> (Tin diselenide)"
       info: "main/SnSe2.html"
@@ -3503,7 +3516,7 @@
         - DIVIDER: "Models and simulations"
         - PAGE: Sato
           name: "Sato and Adachi 1993: n,k 0.221–0.827 µm"
-          data: "main/ZnTe/Sato.yml"      
+          data: "main/ZnTe/Sato.yml"
     - BOOK: ZrTe5
       name: "ZrTe5 (Zirconium pentatelluride)"
       info: "main/ZrTe5.html"

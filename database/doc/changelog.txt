@@ -1,5 +1,9 @@
 ﻿============================== Next release ==============================
 
+  new data (thanks to Zhengfeng Guo, Huazhong University of Science and Technology, Wuhan, China, for submitting data!)
+    main/SnSe/Guo-alpha.yml
+    main/SnSe/Guo-beta.yml
+    main/SnSe/Guo-alpha.yml
   new data (thanks to Jan Hrabovsky, Charles University, Prague, Czech Republic, for submitting data!)
     main/C/Taylor.yml
   new data (thanks to Tobias König, Leibniz-Institut für Polymerforschung Dresden, Germany, for submitting data!)  
