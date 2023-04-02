@@ -3009,8 +3009,8 @@ DATA:
         3.299 2.64078 0
         3.300 2.64078 0
 SPECS:
-    n_absolute: true
-    wavelength_vacuum: true
+    n_is_absolute: true
+    wavelength_is_vacuum: true
     film_thickness: 20 nm
     substrate: SiO2
     deposition_method: CVD

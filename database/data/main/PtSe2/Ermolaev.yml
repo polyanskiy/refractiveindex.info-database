@@ -3064,8 +3064,8 @@ DATA:
         3.299 3.51946 0.00111
         3.300 3.51940 0.00110
 SPECS:
-    n_absolute: true
-    wavelength_vacuum: true
+    n_is_absolute: true
+    wavelength_is_vacuum: true
     film_thickness: 5 nm
     substrate: sapphire
     deposition_method: CVD

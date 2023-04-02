@@ -25,9 +25,9 @@ DATA:
         1.529 -0.0000E+00
         2.325 -0.0000E+00
 SPECS:
-    n_absolute: false
-    wavelength_vacuum: false
-    temperature: 25.0 ℃
+    n_is_absolute: false
+    wavelength_is_vacuum: false
+    temperature: 25.0 °C
     nd: 1.754998
     Vd: 52.326713
     glass_code: 755523

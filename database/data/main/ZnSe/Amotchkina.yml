@@ -133,5 +133,5 @@ DATA:
         0.884 3.32E-08
         0.888 0.00E+00
 SPECS:
-    n_absolute: false
-    wavelength_vacuum: false
+    n_is_absolute: false
+    wavelength_is_vacuum: false

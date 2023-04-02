@@ -14,18 +14,18 @@ DATA:
         12 2.7755 3.820E-07
         14 2.7683 7.576E-06
 SPECS:
-    n_absolute: false
-    wavelength_vacuum: false
+    n_is_absolute: false
+    wavelength_is_vacuum: false
     density: 4.63 g/cm<sup>3</sup>
     Vickers_hardness: 142 kgf/mm<sup>2</sup>
     Youngs_modulus: 19.8 GPa
     thermal_expansion:
-      - temperature_range: 25 100 ℃
+      - temperature_range: 25 100 °C
         coefficient: 22.5e-06 K<sup>-1</sup>
     thermal_dispersion:
       - type: "dn_rel/dT"
-        temperature_range: 0 40 ℃
+        temperature_range: 0 40 °C
         wavelength: 10 µm
         value: 30.5e-6 K<sup>-1</sup>
-    transition_temperature: 140 ℃
+    transition_temperature: 140 °C
     

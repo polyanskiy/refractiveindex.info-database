@@ -3,7 +3,7 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: "K. Moutzouris, G. Hloupis, I. Stavrakas, D. Triantis and M.-H. Chou. Temperature-dependent visible to near-infrared optical properties of 8 mol% Mg-doped lithium tantalate, <a href=\"https://doi.org/10.1364/OME.1.000458\"><i>Optical Materials Express</i> <b>1</b>, 458-465 (2011)</a>"
-COMMENTS: "8 mol% Mg-doped congruent lithium tantalate (MCLT). Extraordinary ray(e). 22 ℃ (see the original publication for temperature-dependent dispersion formula)."
+COMMENTS: "8 mol% Mg-doped congruent lithium tantalate (MCLT). Extraordinary ray(e). 22 °C (see the original publication for temperature-dependent dispersion formula)."
 DATA:
   - type: formula 3
     wavelength_range: 0.450 1.551

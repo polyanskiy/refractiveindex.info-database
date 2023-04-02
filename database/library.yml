@@ -17,6 +17,18 @@
         - PAGE: Choi
           name: "Choi et al. 2020: n,k 1.23–6.99 µm"
           data: "main/Ag/Choi.yml"
+        - PAGE: Ferrera-298K
+          name: "Ferrera et al. 2019: n,k 0.245–1.45 µm; 298 K"
+          data: "main/Ag/Ferrera-298K.yml"
+        - PAGE: Ferrera-404K
+          name: "Ferrera et al. 2019: n,k 0.245–1.45 µm; 404 K"
+          data: "main/Ag/Ferrera-404K.yml"
+        - PAGE: Ferrera-501K
+          name: "Ferrera et al. 2019: n,k 0.245–1.45 µm; 501 K"
+          data: "main/Ag/Ferrera-501K.yml"
+        - PAGE: Ferrera-600K
+          name: "Ferrera et al. 2019: n,k 0.245–1.45 µm; 600 K"
+          data: "main/Ag/Ferrera-600K.yml"
         - PAGE: Jiang
           name: "Jiang et al. 2016: n,k 0.300–2.000 µm"
           data: "main/Ag/Jiang.yml"
@@ -135,10 +147,10 @@
           name: "Börzsönyi et al. 2008: n 0.4–1.0 µm"
           data: "main/Ar/Borzsonyi.yml"
         - PAGE: Peck-0C
-          name: "Peck and Fisher 1964: n 0.47–2.06 µm; 0 ℃"
+          name: "Peck and Fisher 1964: n 0.47–2.06 µm; 0 °C"
           data: "main/Ar/Peck-0C.yml"
         - PAGE: Peck-15C
-          name: "Peck and Fisher 1964: n 0.47–2.06 µm; 15 ℃"
+          name: "Peck and Fisher 1964: n 0.47–2.06 µm; 15 °C"
           data: "main/Ar/Peck-15C.yml"
         - PAGE: Larsen
           name: "Larsén 1934: n 0.230–0.568 µm"
@@ -488,13 +500,13 @@
       info: "main/CsBr.html"
       content:
         - PAGE: Li
-          name: "Li 1976: n 0.21–55 µm; 20 ℃"
+          name: "Li 1976: n 0.21–55 µm; 20 °C"
           data: "main/CsBr/Li.yml"
         - PAGE: Querry
           name: "Querry 1987: n,k 0.213–149 µm"
           data: "main/CsBr/Querry.yml"
         - PAGE: Rodney
-          name: "Rodney and Spindler 1953: n 0.365–39 µm; 27 ℃"
+          name: "Rodney and Spindler 1953: n 0.365–39 µm; 27 °C"
           data: "main/CsBr/Rodney.yml"
     - BOOK: KBr
       name: "KBr (Potassium bromide)"
@@ -922,16 +934,16 @@
       info: "main/CaF2.html"
       content:
         - PAGE: Malitson
-          name: "Malitson 1963: n 0.23–9.7 µm; 24 ℃"
+          name: "Malitson 1963: n 0.23–9.7 µm; 24 °C"
           data: "main/CaF2/Malitson.yml"
         - PAGE: Daimon-20
-          name: "Daimon and Masumura 2002: n 0.138–2.326 µm; 20 ℃"
+          name: "Daimon and Masumura 2002: n 0.138–2.326 µm; 20 °C"
           data: "main/CaF2/Daimon-20.yml"
         - PAGE: Daimon-25
-          name: "Daimon and Masumura 2002: n 0.138–2.326 µm; 25 ℃"
+          name: "Daimon and Masumura 2002: n 0.138–2.326 µm; 25 °C"
           data: "main/CaF2/Daimon-25.yml"
         - PAGE: Li
-          name: "Li 1980: n 0.15–12.0 µm; 20 ℃"
+          name: "Li 1980: n 0.15–12.0 µm; 20 °C"
           data: "main/CaF2/Li.yml"
         - PAGE: Kaiser
           name: "Kaiser et al. 1964: n,k 10–80 µm"
@@ -1381,10 +1393,10 @@
           name: "Roberts 1986: n,k 0.250–0.750 µm"
           data: "main/Ir/Roberts.yml"
         - PAGE: Hass-40C
-          name: "Hass et al. 1967: n,k 0.005–0.546 µm; deposited at 40 ℃"
+          name: "Hass et al. 1967: n,k 0.005–0.546 µm; deposited at 40 °C"
           data: "main/Ir/Hass-40C.yml"
         - PAGE: Hass-300C
-          name: "Hass et al. 1967: n,k 0.005–0.546 µm; deposited at 300 ℃"
+          name: "Hass et al. 1967: n,k 0.005–0.546 µm; deposited at 300 °C"
           data: "main/Ir/Hass-300C.yml"
     - DIVIDER: "K - Potassium"
     - BOOK: K
@@ -1576,16 +1588,16 @@
       info: "main/N2.html"
       content:
         - PAGE: Peck-0C
-          name: "Peck and Khanna 1966: n 0.47–2.06 µm; 0 ℃"
+          name: "Peck and Khanna 1966: n 0.47–2.06 µm; 0 °C"
           data: "main/N2/Peck-0C.yml"
         - PAGE: Peck-15C
-          name: "Peck and Khanna 1966: n 0.47–2.06 µm; 15 ℃"
+          name: "Peck and Khanna 1966: n 0.47–2.06 µm; 15 °C"
           data: "main/N2/Peck-15C.yml"
         - PAGE: Borzsonyi
-          name: "Börzsönyi et al. 2008: n 0.4–1.0 µm; 0 ℃"
+          name: "Börzsönyi et al. 2008: n 0.4–1.0 µm; 0 °C"
           data: "main/N2/Borzsonyi.yml"
         - PAGE: Griesmann
-          name: "Griesmann and Burnett 1999: n 0.145–0.270 µm; 0 ℃"
+          name: "Griesmann and Burnett 1999: n 0.145–0.270 µm; 0 °C"
           data: "main/N2/Griesmann.yml"
     - BOOK: AlN
       name: "AlN (Aluminium nitride)"
@@ -1677,13 +1689,13 @@
           name: "Shkondin et al. 2017: n,k 0.211–1.69 µm"
           data: "main/TiN/Shkondin.yml"
         - PAGE: Shkondin-700
-          name: "Shkondin et al. 2017: Annealed at 700 ℃; n,k 0.211–1.69 µm"
+          name: "Shkondin et al. 2017: Annealed at 700 °C; n,k 0.211–1.69 µm"
           data: "main/TiN/Shkondin-700.yml"
         - PAGE: Shkondin-800
-          name: "Shkondin et al. 2017: Annealed at 800 ℃; n,k 0.211–1.69 µm"
+          name: "Shkondin et al. 2017: Annealed at 800 °C; n,k 0.211–1.69 µm"
           data: "main/TiN/Shkondin-800.yml"
         - PAGE: Shkondin-900
-          name: "Shkondin et al. 2017: Annealed at 900 ℃; n,k 0.211–1.69 µm"
+          name: "Shkondin et al. 2017: Annealed at 900 °C; n,k 0.211–1.69 µm"
           data: "main/TiN/Shkondin-900.yml"
     - BOOK: VN
       name: "VN (Vanadium nitride)"
@@ -1718,7 +1730,7 @@
           data: "main/Na/Ives.yml"
         - DIVIDER: "Liquid"
         - PAGE: Inagaki-liquid
-          name: "Inagaki et al. 1976: Liquid @ 120 ℃; n,k 0.335–2.00 µm"
+          name: "Inagaki et al. 1976: Liquid @ 120 °C; n,k 0.335–2.00 µm"
           data: "main/Na/Inagaki-liquid.yml"
     - DIVIDER: "Nb - Niobium and niobates"
     - BOOK: Nb
@@ -1811,7 +1823,7 @@
           name: "Smith et al. 1976: n 0.168–0.289 µm"
           data: "main/O2/Smith.yml"
         - PAGE: Zhang
-          name: "Zhang et al. 2008: n 0.4–1.8 µm; 20 ℃"
+          name: "Zhang et al. 2008: n 0.4–1.8 µm; 20 °C"
           data: "main/O2/Zhang.yml"
     - BOOK: Al2O3
       name: "Al<sub>2</sub>O<sub>3</sub> (Aluminium sesquioxide, Sapphire, Alumina)"
@@ -1927,31 +1939,31 @@
       content:
         - DIVIDER: "Liquid water, H2O"
         - PAGE: Hale
-          name: "Hale and Querry 1973: Water; n,k 0.2–200 µm; 25 ℃"
+          name: "Hale and Querry 1973: Water; n,k 0.2–200 µm; 25 °C"
           data: "main/H2O/Hale.yml"          
         - PAGE: Wang
-          name: "Wang et al. 2017: Water; k 1.2–1.9 µm; 22 ℃"
+          name: "Wang et al. 2017: Water; k 1.2–1.9 µm; 22 °C"
           data: "main/H2O/Wang.yml"
         - PAGE: Kedenburg
-          name: "Kedenburg et al. 2012: Water; n 0.5–1.6 µm, k 0.5–1.75 µm; 20.0 ℃"
+          name: "Kedenburg et al. 2012: Water; n 0.5–1.6 µm, k 0.5–1.75 µm; 20.0 °C"
           data: "main/H2O/Kedenburg.yml"
         - PAGE: Daimon-19.0C
-          name: "Daimon and Masumura 2007: Water; n 0.18–1.13 µm; 19.0 ℃"
+          name: "Daimon and Masumura 2007: Water; n 0.18–1.13 µm; 19.0 °C"
           data: "main/H2O/Daimon-19.0C.yml"
         - PAGE: Daimon-20.0C
-          name: "Daimon and Masumura 2007: Water; n 0.18–1.13 µm; 20.0 ℃"
+          name: "Daimon and Masumura 2007: Water; n 0.18–1.13 µm; 20.0 °C"
           data: "main/H2O/Daimon-20.0C.yml"
         - PAGE: Daimon-21.5C
-          name: "Daimon and Masumura 2007: Water; n 0.18–1.13 µm; 21.5 ℃"
+          name: "Daimon and Masumura 2007: Water; n 0.18–1.13 µm; 21.5 °C"
           data: "main/H2O/Daimon-21.5C.yml"
         - PAGE: Daimon-24.0C
-          name: "Daimon and Masumura 2007: Water; n 0.18–1.13 µm; 24.0 ℃"
+          name: "Daimon and Masumura 2007: Water; n 0.18–1.13 µm; 24.0 °C"
           data: "main/H2O/Daimon-24.0C.yml"
         - PAGE: Segelstein
-          name: "Segelstein 1981: Water; n,k 0.034–1.0e7 µm; 25 ℃"
+          name: "Segelstein 1981: Water; n,k 0.034–1.0e7 µm; 25 °C"
           data: "main/H2O/Segelstein.yml"
         - PAGE: Asfar-H2O
-          name: "Afsar and Hasted 1977: Water; n,k 22.22–1733 µm; 19.0 ℃"
+          name: "Afsar and Hasted 1977: Water; n,k 22.22–1733 µm; 19.0 °C"
           data: "main/H2O/Asfar.yml"
         - DIVIDER: "Water ice"
         - PAGE: Warren-2008
@@ -1986,16 +1998,16 @@
           data: "main/H2O/Kofman-150K.yml"
         - DIVIDER: "Supercooled liquid water"
         - PAGE: Rowe-240K
-          name: "Rowe et al. 2020: Water; n,k 0.667–10400 µm; -33 ℃"
+          name: "Rowe et al. 2020: Water; n,k 0.667–10400 µm; -33 °C"
           data: "main/H2O/Rowe-240K.yml"
         - PAGE: Rowe-253K
-          name: "Rowe et al. 2020: Water; n,k 0.667–10400 µm; -20 ℃"
+          name: "Rowe et al. 2020: Water; n,k 0.667–10400 µm; -20 °C"
           data: "main/H2O/Rowe-253K.yml"
         - PAGE: Rowe-263K
-          name: "Rowe et al. 2020: Water; n,k 0.667–10400 µm; -10 ℃"
+          name: "Rowe et al. 2020: Water; n,k 0.667–10400 µm; -10 °C"
           data: "main/H2O/Rowe-263K.yml"
         - PAGE: Rowe-273K
-          name: "Rowe et al. 2020: Water; n,k 0.667–10400 µm; 0 ℃"
+          name: "Rowe et al. 2020: Water; n,k 0.667–10400 µm; 0 °C"
           data: "main/H2O/Rowe-273K.yml"
         - DIVIDER: "Heavy water, D2O"
         - PAGE: Kedenburg-D2O
@@ -2073,10 +2085,10 @@
           name: "Lemarchand 2013: Thin film; n,k 0.25–2.5 µm"
           data: "main/Nb2O5/Lemarchand.yml"
         - PAGE: Horcholle-400
-          name: "Horcholle et al. 2022: Thin film annealed at 400 ℃; n,k 0.207–0.827 µm"
+          name: "Horcholle et al. 2022: Thin film annealed at 400 °C; n,k 0.207–0.827 µm"
           data: "main/Nb2O5/Horcholle-400.yml"
         - PAGE: Horcholle-800
-          name: "Horcholle et al. 2022: Thin film annealed at 800 ℃; n,k 0.207–0.827 µm"
+          name: "Horcholle et al. 2022: Thin film annealed at 800 °C; n,k 0.207–0.827 µm"
           data: "main/Nb2O5/Horcholle-800.yml"
     - BOOK: Sc2O3
       name: "Sc<sub>2</sub>O<sub>3</sub> (Scandium sesquioxide)"
@@ -2281,16 +2293,16 @@
       info: "main/CdGeP2.html"
       content:
         - PAGE: Boyd-20-o
-          name: "Boyd et al. 1972: n(o) 0.8–12.5 µm; 20 ℃"
+          name: "Boyd et al. 1972: n(o) 0.8–12.5 µm; 20 °C"
           data: "main/CdGeP2/Boyd-20-o.yml"
         - PAGE: Boyd-20-e
-          name: "Boyd et al. 1972: n(e) 0.8–12.5 µm; 20 ℃"
+          name: "Boyd et al. 1972: n(e) 0.8–12.5 µm; 20 °C"
           data: "main/CdGeP2/Boyd-20-e.yml"
         - PAGE: Boyd-118-o
-          name: "Boyd et al. 1972: n(o) 0.8–12.5 µm; 118 ℃"
+          name: "Boyd et al. 1972: n(o) 0.8–12.5 µm; 118 °C"
           data: "main/CdGeP2/Boyd-118-o.yml"
         - PAGE: Boyd-118-e
-          name: "Boyd et al. 1972: n(e) 0.8–12.5 µm; 118 ℃"
+          name: "Boyd et al. 1972: n(e) 0.8–12.5 µm; 118 °C"
           data: "main/CdGeP2/Boyd-118-e.yml"
     - BOOK: GaP
       name: "GaP (Gallium phosphide)"
@@ -2351,16 +2363,16 @@
           name: "Zelmon et al. 2001: n(e) 2–9 µm"
           data: "main/ZnGeP2/Zelmon-e.yml"
         - PAGE: Boyd-20-o
-          name: "Boyd et al. 1971: n(o) 0.64–12 µm; 20 ℃"
+          name: "Boyd et al. 1971: n(o) 0.64–12 µm; 20 °C"
           data: "main/ZnGeP2/Boyd-20-o.yml"
         - PAGE: Boyd-20-e
-          name: "Boyd et al. 1971: n(e) 0.64–12 µm; 20 ℃"
+          name: "Boyd et al. 1971: n(e) 0.64–12 µm; 20 °C"
           data: "main/ZnGeP2/Boyd-20-e.yml"
         - PAGE: Boyd-70-o
-          name: "Boyd et al. 1971: n(o) 0.64–12 µm; 70 ℃"
+          name: "Boyd et al. 1971: n(o) 0.64–12 µm; 70 °C"
           data: "main/ZnGeP2/Boyd-70-o.yml"
         - PAGE: Boyd-70-e
-          name: "Boyd et al. 1971: n(e) 0.64–12 µm; 70 ℃"
+          name: "Boyd et al. 1971: n(e) 0.64–12 µm; 70 °C"
           data: "main/ZnGeP2/Boyd-70-e.yml"
     - BOOK: KH2PO4
       name: "KH<sub>2</sub>PO<sub>4</sub> (Potassium dihydrogen phosphate, KDP)"
@@ -2540,10 +2552,10 @@
           name: "Weaver et al. 1977: n,k 0.20–12.40 µm"
           data: "main/Rh/Weaver.yml"
         - PAGE: Coulter-40
-          name: "Coulter et al. 1973: Thin film deposited at 40 ℃; n,k 0.405–0.612 µm"
+          name: "Coulter et al. 1973: Thin film deposited at 40 °C; n,k 0.405–0.612 µm"
           data: "main/Rh/Coulter-40.yml"
         - PAGE: Coulter-300
-          name: "Coulter et al. 1973: Thin film deposited at 300 ℃; n,k 0.405–0.612 µm"
+          name: "Coulter et al. 1973: Thin film deposited at 300 °C; n,k 0.405–0.612 µm"
           data: "main/Rh/Coulter-300.yml"
     - DIVIDER: "Ru - Ruthenium"
     - BOOK: Ru
@@ -2655,16 +2667,16 @@
       info: "main/CuGaS2.html"
       content:
         - PAGE: Boyd-20-o
-          name: "Boyd et al. 1971: n(o) 0.55–11.5 µm; 20 ℃"
+          name: "Boyd et al. 1971: n(o) 0.55–11.5 µm; 20 °C"
           data: "main/CuGaS2/Boyd-20-o.yml"
         - PAGE: Boyd-20-e
-          name: "Boyd et al. 1971: n(e) 0.55–11.5 µm; 20 ℃"
+          name: "Boyd et al. 1971: n(e) 0.55–11.5 µm; 20 °C"
           data: "main/CuGaS2/Boyd-20-e.yml"
         - PAGE: Boyd-120-o
-          name: "Boyd et al. 1971: n(o) 0.55–11.5 µm; 120 ℃"
+          name: "Boyd et al. 1971: n(o) 0.55–11.5 µm; 120 °C"
           data: "main/CuGaS2/Boyd-120-o.yml"
         - PAGE: Boyd-120-e
-          name: "Boyd et al. 1971: n(e) 0.55–11.5 µm; 120 ℃"
+          name: "Boyd et al. 1971: n(e) 0.55–11.5 µm; 120 °C"
           data: "main/CuGaS2/Boyd-120-e.yml"  
     - BOOK: EuS
       name: "EuS (Europium sulfide)"
@@ -3250,19 +3262,19 @@
           name: "Chandler-Horowitz and Amirtharaj 2005: n 2.5–22.2 µm, k 6.25–23.3 µm"
           data: "main/Si/Chandler-Horowitz.yml"
         - PAGE: Sik-25C
-          name: "Šik et al. 1998: n,k 0.29–0.62 µm; 25 ℃"
+          name: "Šik et al. 1998: n,k 0.29–0.62 µm; 25 °C"
           data: "main/Si/Sik-25C.yml"
         - PAGE: Sik-250C
-          name: "Šik et al. 1998: n,k 0.29–0.62 µm; 250 ℃"
+          name: "Šik et al. 1998: n,k 0.29–0.62 µm; 250 °C"
           data: "main/Si/Sik-250C.yml"
         - PAGE: Sik-500C
-          name: "Šik et al. 1998: n,k 0.29–0.62 µm; 500 ℃"
+          name: "Šik et al. 1998: n,k 0.29–0.62 µm; 500 °C"
           data: "main/Si/Sik-500C.yml"
         - PAGE: Sik-700C
-          name: "Šik et al. 1998: n,k 0.29–0.62 µm; 700 ℃"
+          name: "Šik et al. 1998: n,k 0.29–0.62 µm; 700 °C"
           data: "main/Si/Sik-700C.yml"
         - PAGE: Sik-850C
-          name: "Šik et al. 1998: n,k 0.29–0.62 µm; 850 ℃"
+          name: "Šik et al. 1998: n,k 0.29–0.62 µm; 850 °C"
           data: "main/Si/Sik-850C.yml"
         - PAGE: Green-1995
           name: "Green and Keevers 1995: n 0.25–1.45 µm, k 0.25–1.00 µm"
@@ -3271,31 +3283,31 @@
           name: "Daub 1995: k 0.94–1.42 µm"
           data: "main/Si/Daub.yml"
         - PAGE: Vuye-20C
-          name: "Vuye et al. 1993: n,k 0.26–0.83 µm; 20 ℃"
+          name: "Vuye et al. 1993: n,k 0.26–0.83 µm; 20 °C"
           data: "main/Si/Vuye-20C.yml"
         - PAGE: Vuye-100C
-          name: "Vuye et al. 1993: n,k 0.26–0.83 µm; 100 ℃"
+          name: "Vuye et al. 1993: n,k 0.26–0.83 µm; 100 °C"
           data: "main/Si/Vuye-100C.yml"
         - PAGE: Vuye-150C
-          name: "Vuye et al. 1993: n,k 0.26–0.83 µm; 150 ℃"
+          name: "Vuye et al. 1993: n,k 0.26–0.83 µm; 150 °C"
           data: "main/Si/Vuye-150C.yml"
         - PAGE: Vuye-200C
-          name: "Vuye et al. 1993: n,k 0.26–0.83 µm; 200 ℃"
+          name: "Vuye et al. 1993: n,k 0.26–0.83 µm; 200 °C"
           data: "main/Si/Vuye-200C.yml"
         - PAGE: Vuye-250C
-          name: "Vuye et al. 1993: n,k 0.26–0.83 µm; 250 ℃"
+          name: "Vuye et al. 1993: n,k 0.26–0.83 µm; 250 °C"
           data: "main/Si/Vuye-250C.yml"
         - PAGE: Vuye-300C
-          name: "Vuye et al. 1993: n,k 0.26–0.83 µm; 300 ℃"
+          name: "Vuye et al. 1993: n,k 0.26–0.83 µm; 300 °C"
           data: "main/Si/Vuye-300C.yml"
         - PAGE: Vuye-350C
-          name: "Vuye et al. 1993: n,k 0.26–0.83 µm; 350 ℃"
+          name: "Vuye et al. 1993: n,k 0.26–0.83 µm; 350 °C"
           data: "main/Si/Vuye-350C.yml"
         - PAGE: Vuye-400C
-          name: "Vuye et al. 1993: n,k 0.26–0.83 µm; 400 ℃"
+          name: "Vuye et al. 1993: n,k 0.26–0.83 µm; 400 °C"
           data: "main/Si/Vuye-400C.yml"
         - PAGE: Vuye-450C
-          name: "Vuye et al. 1993: n,k 0.26–0.83 µm; 450 ℃"
+          name: "Vuye et al. 1993: n,k 0.26–0.83 µm; 450 °C"
           data: "main/Si/Vuye-450C.yml"
         - PAGE: Jellison
           name: "Jellison 1992: n,k 0.234–0.840 µm"
@@ -3639,34 +3651,34 @@
           name: "Birnbaum and DeShazer 1976: n(e) 0.488–3.39 µm"
           data: "main/YVO4/Birnbaum-e.yml"
         - PAGE: Shi-o-20C
-          name: "Shi et al. 2001: n(o) 0.48–1.34 µm; 20 ℃"
+          name: "Shi et al. 2001: n(o) 0.48–1.34 µm; 20 °C"
           data: "main/YVO4/Shi-o-20C.yml"
         - PAGE: Shi-e-20C
-          name: "Shi et al. 2001: n(e) 0.48–1.34 µm; 20 ℃"
+          name: "Shi et al. 2001: n(e) 0.48–1.34 µm; 20 °C"
           data: "main/YVO4/Shi-e-20C.yml"
         - PAGE: Shi-o-50C
-          name: "Shi et al. 2001: n(o) 0.48–1.34 µm; 50 ℃"
+          name: "Shi et al. 2001: n(o) 0.48–1.34 µm; 50 °C"
           data: "main/YVO4/Shi-o-50C.yml"
         - PAGE: Shi-e-50C
-          name: "Shi et al. 2001: n(e) 0.48–1.34 µm; 50 ℃"
+          name: "Shi et al. 2001: n(e) 0.48–1.34 µm; 50 °C"
           data: "main/YVO4/Shi-e-50C.yml"
         - PAGE: Shi-o-80C
-          name: "Shi et al. 2001: n(o) 0.48–1.34 µm; 80 ℃"
+          name: "Shi et al. 2001: n(o) 0.48–1.34 µm; 80 °C"
           data: "main/YVO4/Shi-o-80C.yml"
         - PAGE: Shi-e-80C
-          name: "Shi et al. 2001: n(e) 0.48–1.34 µm; 80 ℃"
+          name: "Shi et al. 2001: n(e) 0.48–1.34 µm; 80 °C"
           data: "main/YVO4/Shi-e-80C.yml"
         - PAGE: Shi-o-110C
-          name: "Shi et al. 2001: n(o) 0.48–1.34 µm; 110 ℃"
+          name: "Shi et al. 2001: n(o) 0.48–1.34 µm; 110 °C"
           data: "main/YVO4/Shi-o-110C.yml"
         - PAGE: Shi-e-110C
-          name: "Shi et al. 2001: n(e) 0.48–1.34 µm; 110 ℃"
+          name: "Shi et al. 2001: n(e) 0.48–1.34 µm; 110 °C"
           data: "main/YVO4/Shi-e-110C.yml"
         - PAGE: Shi-o-140C
-          name: "Shi et al. 2001: n(o) 0.48–1.34 µm; 140 ℃"
+          name: "Shi et al. 2001: n(o) 0.48–1.34 µm; 140 °C"
           data: "main/YVO4/Shi-o-140C.yml"
         - PAGE: Shi-e-140C
-          name: "Shi et al. 2001: n(e) 0.48–1.34 µm; 140 ℃"
+          name: "Shi et al. 2001: n(e) 0.48–1.34 µm; 140 °C"
           data: "main/YVO4/Shi-e-140C.yml"
     - DIVIDER: "W - Tungsten and tungstates"
     - BOOK: W
@@ -3831,10 +3843,10 @@
       content:
         - DIVIDER: "Gas"
         - PAGE: Rollefson
-          name: "Rollefson and Havens 1940: Gas at 0 ℃; n 1.68–14.8 µm"
+          name: "Rollefson and Havens 1940: Gas at 0 °C; n 1.68–14.8 µm"
           data: "organic/CH4 - methane/Rollefson.yml" 
         - PAGE: Loria
-          name: "Loria 1909: Gas at 0 ℃; n 0.529–0.659 µm"
+          name: "Loria 1909: Gas at 0 °C; n 0.529–0.659 µm"
           data: "organic/CH4 - methane/Loria.yml"  
         - DIVIDER: "Liquid"
         - PAGE: Martonchik-liquid-111K
@@ -3855,7 +3867,7 @@
       info: "organic/ethane.html"
       content:
         - PAGE: Loria
-          name: "Loria 1909: Gas at 0 ℃; n 0.523–0.668 µm"
+          name: "Loria 1909: Gas at 0 °C; n 0.523–0.668 µm"
           data: "organic/C2H6 - ethane/Loria.yml"
     - BOOK: pentane
       name: "C<sub>5</sub>H<sub>12</sub> (Pentane)"
@@ -3927,7 +3939,7 @@
       info: "organic/acetylene.html"
       content:
         - PAGE: Loria
-          name: "Loria 1909: Gas at 0 ℃; n 0.529–0.659 µm"
+          name: "Loria 1909: Gas at 0 °C; n 0.529–0.659 µm"
           data: "organic/C2H2 - acetylene/Loria.yml"
     - DIVIDER: "Alkenes"
     - BOOK: ethylene
@@ -3935,7 +3947,7 @@
       info: "organic/ethylene.html"
       content:
         - PAGE: Loria
-          name: "Loria 1909: Gas at 0 ℃; n 0.523–0.668 µm"
+          name: "Loria 1909: Gas at 0 °C; n 0.523–0.668 µm"
           data: "organic/C2H4 - ethylene/Loria.yml"
     - DIVIDER: "Alcohols"
     - BOOK: methanol
@@ -3984,13 +3996,13 @@
           name: "Kozma et al. 2005: iso-propanol; n 0.230–0.641 µm"
           data: "organic/C3H8O - propanol/Kozma.yml"
         - PAGE: Wang-20C
-          name: "Wang et al. 2018: iso-propanol, 20 ℃; n,k 1.66–19.1 µm"
+          name: "Wang et al. 2018: iso-propanol, 20 °C; n,k 1.66–19.1 µm"
           data: "organic/C3H8O - propanol/Wang-20C.yml"
         - PAGE: Wang-50C
-          name: "Wang et al. 2018: iso-propanol, 50 ℃; n,k 1.66–19.1 µm"
+          name: "Wang et al. 2018: iso-propanol, 50 °C; n,k 1.66–19.1 µm"
           data: "organic/C3H8O - propanol/Wang-50C.yml"
         - PAGE: Wang-70C
-          name: "Wang et al. 2018: iso-propanol, 70 ℃; n,k 1.66–19.1 µm"
+          name: "Wang et al. 2018: iso-propanol, 70 °C; n,k 1.66–19.1 µm"
           data: "organic/C3H8O - propanol/Wang-70C.yml"
         - PAGE: Myers
           name: "Myers et al. 2018: iso-propanol; n,k 1.28–25.0 µm"
@@ -4012,13 +4024,13 @@
           name: "El-Kashef 2000: n 0.4–0.8 µm"
           data: "organic/C4H10O - butanol/El-Kashef.yml" 
         - PAGE: Wang-20C
-          name: "Wang et al. 2018: n-Butanol, 20 ℃; n,k 1.66–19.1 µm"
+          name: "Wang et al. 2018: n-Butanol, 20 °C; n,k 1.66–19.1 µm"
           data: "organic/C4H10O - butanol/Wang-20C.yml"
         - PAGE: Wang-60C
-          name: "Wang et al. 2018: n-Butanol, 60 ℃; n,k 1.66–19.1 µm"
+          name: "Wang et al. 2018: n-Butanol, 60 °C; n,k 1.66–19.1 µm"
           data: "organic/C4H10O - butanol/Wang-60C.yml"
         - PAGE: Wang-90C
-          name: "Wang et al. 2018: n-Butanol, 90 ℃; n,k 1.66–19.1 µm"
+          name: "Wang et al. 2018: n-Butanol, 90 °C; n,k 1.66–19.1 µm"
           data: "organic/C4H10O - butanol/Wang-90C.yml" 
         - PAGE: Moutzouris-n
           name: "Moutzouris et al. 2013: n-Butanol; n 0.450–1.55 µm"
@@ -11399,34 +11411,34 @@
           name: "Tkachenko et al. 2006: n(e) 0.532–1.7 µm"
           data: "other/liquid crystals/5CB/Tkachenko-e.yml"
         - PAGE: Wu-25.1C-o
-          name: "Wu et al. 1993: n(o) 0.4–0.8 µm; 25.1 ℃"
+          name: "Wu et al. 1993: n(o) 0.4–0.8 µm; 25.1 °C"
           data: "other/liquid crystals/5CB/Wu-25.1C-o.yml"
         - PAGE: Wu-25.1C-e
-          name: "Wu et al. 1993: n(e) 0.4–0.8 µm; 25.1 ℃"
+          name: "Wu et al. 1993: n(e) 0.4–0.8 µm; 25.1 °C"
           data: "other/liquid crystals/5CB/Wu-25.1C-e.yml"
         - PAGE: Wu-27.2C-o
-          name: "Wu et al. 1993: n(o) 0.4–0.8 µm; 27.2 ℃"
+          name: "Wu et al. 1993: n(o) 0.4–0.8 µm; 27.2 °C"
           data: "other/liquid crystals/5CB/Wu-27.2C-o.yml"
         - PAGE: Wu-27.2C-e
-          name: "Wu et al. 1993: n(e) 0.4–0.8 µm; 27.2 ℃"
+          name: "Wu et al. 1993: n(e) 0.4–0.8 µm; 27.2 °C"
           data: "other/liquid crystals/5CB/Wu-27.2C-e.yml"
         - PAGE: Wu-29.9C-o
-          name: "Wu et al. 1993: n(o) 0.4–0.8 µm; 29.9 ℃"
+          name: "Wu et al. 1993: n(o) 0.4–0.8 µm; 29.9 °C"
           data: "other/liquid crystals/5CB/Wu-29.9C-o.yml"
         - PAGE: Wu-29.9C-e
-          name: "Wu et al. 1993: n(e) 0.4–0.8 µm; 29.9 ℃"
+          name: "Wu et al. 1993: n(e) 0.4–0.8 µm; 29.9 °C"
           data: "other/liquid crystals/5CB/Wu-29.9C-e.yml"
         - PAGE: Wu-32.6C-o
-          name: "Wu et al. 1993: n(o) 0.4–0.8 µm; 32.6 ℃"
+          name: "Wu et al. 1993: n(o) 0.4–0.8 µm; 32.6 °C"
           data: "other/liquid crystals/5CB/Wu-32.6C-o.yml"
         - PAGE: Wu-32.6C-e
-          name: "Wu et al. 1993: n(e) 0.4–0.8 µm; 32.6 ℃"
+          name: "Wu et al. 1993: n(e) 0.4–0.8 µm; 32.6 °C"
           data: "other/liquid crystals/5CB/Wu-32.6C-e.yml"
         - PAGE: Wu-34.8C-o
-          name: "Wu et al. 1993: n(o) 0.4–0.8 µm; 34.8 ℃"
+          name: "Wu et al. 1993: n(o) 0.4–0.8 µm; 34.8 °C"
           data: "other/liquid crystals/5CB/Wu-34.8C-o.yml"
         - PAGE: Wu-34.8C-e
-          name: "Wu et al. 1993: n(e) 0.4–0.8 µm; 34.8 ℃"
+          name: "Wu et al. 1993: n(e) 0.4–0.8 µm; 34.8 °C"
           data: "other/liquid crystals/5CB/Wu-34.8C-e.yml"
     - BOOK: 5PCH
       name: "5PCH (4-trans-pentylcyclohexylcyanobenzene)"
@@ -11439,46 +11451,46 @@
           name: "Li et al. 2005: n(e) 0.450–0.656 µm"
           data: "other/liquid crystals/5PCH/Li-e.yml"
         - PAGE: Wu-25.0C-o
-          name: "Wu et al. 1993: n(o) 0.4–0.8 µm; 25.0 ℃"
+          name: "Wu et al. 1993: n(o) 0.4–0.8 µm; 25.0 °C"
           data: "other/liquid crystals/5PCH/Wu-25.0C-o.yml"
         - PAGE: Wu-25.0C-e
-          name: "Wu et al. 1993: n(e) 0.4–0.8 µm; 25.0 ℃"
+          name: "Wu et al. 1993: n(e) 0.4–0.8 µm; 25.0 °C"
           data: "other/liquid crystals/5PCH/Wu-25.0C-e.yml"
         - PAGE: Wu-30.4-o
-          name: "Wu et al. 1993: n(o) 0.4–0.8 µm; 30.4 ℃"
+          name: "Wu et al. 1993: n(o) 0.4–0.8 µm; 30.4 °C"
           data: "other/liquid crystals/5PCH/Wu-30.4C-o.yml"
         - PAGE: Wu-30.4C-e
-          name: "Wu et al. 1993: n(e) 0.4–0.8 µm; 30.4 ℃"
+          name: "Wu et al. 1993: n(e) 0.4–0.8 µm; 30.4 °C"
           data: "other/liquid crystals/5PCH/Wu-30.4C-e.yml"
         - PAGE: Wu-34.8C-o
-          name: "Wu et al. 1993: n(o) 0.4–0.8 µm; 34.8 ℃"
+          name: "Wu et al. 1993: n(o) 0.4–0.8 µm; 34.8 °C"
           data: "other/liquid crystals/5PCH/Wu-34.8C-o.yml"
         - PAGE: Wu-34.8C-e
-          name: "Wu et al. 1993: n(e) 0.4–0.8 µm; 34.8 ℃"
+          name: "Wu et al. 1993: n(e) 0.4–0.8 µm; 34.8 °C"
           data: "other/liquid crystals/5PCH/Wu-34.8C-e.yml"
         - PAGE: Wu-40.1C-o
-          name: "Wu et al. 1993: n(o) 0.4–0.8 µm; 40.1 ℃"
+          name: "Wu et al. 1993: n(o) 0.4–0.8 µm; 40.1 °C"
           data: "other/liquid crystals/5PCH/Wu-40.1C-o.yml"
         - PAGE: Wu-40.1C-e
-          name: "Wu et al. 1993: n(e) 0.4–0.8 µm; 40.1 ℃"
+          name: "Wu et al. 1993: n(e) 0.4–0.8 µm; 40.1 °C"
           data: "other/liquid crystals/5PCH/Wu-40.1C-e.yml"
         - PAGE: Wu-45.4C-o
-          name: "Wu et al. 1993: n(o) 0.4–0.8 µm; 45.4 ℃"
+          name: "Wu et al. 1993: n(o) 0.4–0.8 µm; 45.4 °C"
           data: "other/liquid crystals/5PCH/Wu-45.4C-o.yml"
         - PAGE: Wu-45.4C-e
-          name: "Wu et al. 1993: n(e) 0.4–0.8 µm; 45.4 ℃"
+          name: "Wu et al. 1993: n(e) 0.4–0.8 µm; 45.4 °C"
           data: "other/liquid crystals/5PCH/Wu-45.4C-e.yml"   
         - PAGE: Wu-50.8C-o
-          name: "Wu et al. 1993: n(o) 0.4–0.8 µm; 50.8 ℃"
+          name: "Wu et al. 1993: n(o) 0.4–0.8 µm; 50.8 °C"
           data: "other/liquid crystals/5PCH/Wu-50.8C-o.yml"
         - PAGE: Wu-50.8C-e
-          name: "Wu et al. 1993: n(e) 0.4–0.8 µm; 50.8 ℃"
+          name: "Wu et al. 1993: n(e) 0.4–0.8 µm; 50.8 °C"
           data: "other/liquid crystals/5PCH/Wu-50.8C-e.yml"
         - PAGE: Wu-53.4C-o
-          name: "Wu et al. 1993: n(o) 0.4–0.8 µm; 53.4 ℃"
+          name: "Wu et al. 1993: n(o) 0.4–0.8 µm; 53.4 °C"
           data: "other/liquid crystals/5PCH/Wu-53.4C-o.yml"
         - PAGE: Wu-53.4C-e
-          name: "Wu et al. 1993: n(e) 0.4–0.8 µm; 53.4 ℃"
+          name: "Wu et al. 1993: n(e) 0.4–0.8 µm; 53.4 °C"
           data: "other/liquid crystals/5PCH/Wu-53.4C-e.yml"
     - BOOK: E7
       name: "E7"
@@ -11562,13 +11574,13 @@
       info: "other/biodisel.html"
       content:
         - PAGE: Wang-20C
-          name: "Wang et al. 2015: 20 ℃; n,k 0.300–2.50 µm"
+          name: "Wang et al. 2015: 20 °C; n,k 0.300–2.50 µm"
           data: "other/fuel/biodisel/Wang-20C.yml"
         - PAGE: Wang-40C
-          name: "Wang et al. 2015: 40 ℃; n,k 0.300–2.50 µm"
+          name: "Wang et al. 2015: 40 °C; n,k 0.300–2.50 µm"
           data: "other/fuel/biodisel/Wang-40C.yml"
         - PAGE: Wang-60C
-          name: "Wang et al. 2015: 60 ℃; n,k 0.300–2.50 µm"
+          name: "Wang et al. 2015: 60 °C; n,k 0.300–2.50 µm"
           data: "other/fuel/biodisel/Wang-60C.yml"
     - DIVIDER: "Index matching liquids"
     - BOOK: BK7_matching_liquid

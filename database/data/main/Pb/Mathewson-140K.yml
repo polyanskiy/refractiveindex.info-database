@@ -3,7 +3,7 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: "A. G. Mathewson and H. P. Myers. Absolute values of the optical constants of some pure metals, <a href=\"https://doi.org/10.1088/0031-8949/4/6/009\"><i>Phys. Scr.</i> <b>4</b>, 291-292 (1971)</a>"
-COMMENTS: "140 K (-133.15 ℃)"
+COMMENTS: "140 K (-133.15 °C)"
 DATA:
   - type: tabulated nk
     data: |
@@ -67,6 +67,6 @@ DATA:
         1.65312 0.83169 11.90343
         1.77120 0.90683 12.68157
 SPECS:
-    n_absolute: true
-    wavelength_vacuum: true
+    n_is_absolute: true
+    wavelength_is_vacuum: true
     temperature: 140 K

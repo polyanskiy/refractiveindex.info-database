@@ -2,7 +2,7 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "J. E. Bertie, Z. Lan, R. N. Jones, Y. Apelblat. Infrared intensities of liquids XVIII: Accurate optical constants and molar absorption coefficients between 6500 and 800 cm<sup>-1</sup> of dichloromethane at 25℃, from spectra recorded in several laboratories, <a href=\"https://doi.org/10.1366/0003702953964435\"><i>Appl. Spectrosc.</i> <b>49</b>, 840 (1995)</a>"
+REFERENCES: "J. E. Bertie, Z. Lan, R. N. Jones, Y. Apelblat. Infrared intensities of liquids XVIII: Accurate optical constants and molar absorption coefficients between 6500 and 800 cm<sup>-1</sup> of dichloromethane at 25°C, from spectra recorded in several laboratories, <a href=\"https://doi.org/10.1366/0003702953964435\"><i>Appl. Spectrosc.</i> <b>49</b>, 840 (1995)</a>"
 DATA:
   - type: tabulated nk
     data: |
@@ -1312,4 +1312,4 @@ DATA:
         12.4651 1.2990 4.858E-03
         12.5253 1.2910 6.080E-03
 SPECS:
-    temperature: 25 ℃
+    temperature: 25 °C

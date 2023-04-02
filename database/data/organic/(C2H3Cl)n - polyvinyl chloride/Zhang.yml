@@ -625,5 +625,5 @@ DATA:
         19.640 1.54316 5.41E-03
         19.942 1.54354 5.60E-03
 SPECS:
-    n_absolute: true
-    wavelength_vacuum: false
+    n_is_absolute: true
+    wavelength_is_vacuum: false

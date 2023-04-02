@@ -340,7 +340,7 @@ DATA:
         12.711 24.718 82.117
         15.811 34.658 96.620
 SPECS:
-    n_absolute: true
-    wavelength_vacuum: true
+    n_is_absolute: true
+    wavelength_is_vacuum: true
     film_thickness: 20 nm
     substrate: Ni/SiO2

@@ -2509,8 +2509,8 @@ DATA:
         29.99 1.563795 12.196592
         30.00 1.564540 12.203296
 SPECS:
-    n_absolute: true
-    wavelength_vacuum: true
+    n_is_absolute: true
+    wavelength_is_vacuum: true
     film_thickness: 400 nm
     substrate: InP
 

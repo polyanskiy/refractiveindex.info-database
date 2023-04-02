@@ -3,7 +3,7 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: "J. V. Martonchik and G. S. Orton. Optical constants of liquid and solid methane, <a href=\"https://doi.org/10.1364/AO.33.008306\"><i>Appl. Opt.</i> <b>33</b>, 8306-8317 (1994)</a>"
-COMMENTS: "Phase I solid methane at 30 K (-243.15 ℃)<br>CAUTION: don't rely on interpolated values: Most data points represent values at local maxima or minima"
+COMMENTS: "Phase I solid methane at 30 K (-243.15 °C)<br>CAUTION: don't rely on interpolated values: Most data points represent values at local maxima or minima"
 DATA:
   - type: tabulated nk
     data: |

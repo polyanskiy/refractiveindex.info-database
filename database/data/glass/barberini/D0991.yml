@@ -3,7 +3,7 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: "<a href=\"https://refractiveindex.info/download/data/2010/barberini/d0991e.pdf\">Barberini D0991 glass specifications, 2010-06</a>"
-COMMENTS: "20 ℃<br>Mold Glass; Colour: clear; Application: Special glass for moulds, in particular suitable for a rapid chemical toughening without problems."
+COMMENTS: "20 °C<br>Mold Glass; Colour: clear; Application: Special glass for moulds, in particular suitable for a rapid chemical toughening without problems."
 DATA:
   - type: tabulated n
     data: |

@@ -36,9 +36,9 @@ DATA:
         2.200 1.0275E-06
         2.400 2.0973E-06
 SPECS:
-    n_absolute: false
-    wavelength_vacuum: false
-    temperature: 20.0 ℃
+    n_is_absolute: false
+    wavelength_is_vacuum: false
+    temperature: 20.0 °C
     thermal_dispersion:
       - type: "Schott formula"
         coefficients: -6.9e-06 1.71e-08 -4.57e-11 1.16e-06 8.99e-10 0.285
@@ -48,9 +48,9 @@ SPECS:
     glass_status: preferred
     density: 3.52 g/cm<sup>3</sup>
     thermal_expansion:
-      - temperature_range: -30 70 ℃
+      - temperature_range: -30 70 °C
         coefficient: 8.4e-06 K<sup>-1</sup>
-      - temperature_range: 20 300 ℃
+      - temperature_range: 20 300 °C
         coefficient: 1.04e-05 K<sup>-1</sup>
     dPgF: 0.0151
     climatic_resistance: 1.0

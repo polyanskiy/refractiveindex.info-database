@@ -625,5 +625,5 @@ DATA:
         19.640 1.70015 3.11E-02
         19.942 1.69881 3.22E-02
 SPECS:
-    n_absolute: true
-    wavelength_vacuum: false
+    n_is_absolute: true
+    wavelength_is_vacuum: false

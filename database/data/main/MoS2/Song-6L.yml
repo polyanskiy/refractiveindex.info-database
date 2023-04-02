@@ -1092,7 +1092,7 @@ DATA:
         1.6875 4.032929 0.256428
         1.6900 4.033089 0.256457
 SPECS:
-    n_absolute: true
-    wavelength_vacuum: true
+    n_is_absolute: true
+    wavelength_is_vacuum: true
     film_thickness: 6L
     substrate: c-sapphire

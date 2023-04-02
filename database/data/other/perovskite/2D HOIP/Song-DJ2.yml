@@ -602,6 +602,6 @@ DATA:
         1.68354E+00 2.03865E+00 9.54000E-03
         1.68702E+00 2.03830E+00 9.53000E-03
 SPECS:
-    n_absolute: true
-    wavelength_vacuum: true
+    n_is_absolute: true
+    wavelength_is_vacuum: true
     substrate: glass

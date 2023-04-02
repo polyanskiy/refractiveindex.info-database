@@ -3,7 +3,7 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: "Marcin Szczurowski - Private communications [<a href=\"https://refractiveindex.info/download/data/2013/Szczurowski - n_PMMA_raw.png\">original data</a>]. To be published."
-COMMENTS: "23 ℃. PMMA synthesized in Marie-Curie University in Lublin, Poland"
+COMMENTS: "23 °C. PMMA synthesized in Marie-Curie University in Lublin, Poland"
 DATA:
   - type: formula 2
     wavelength_range: 0.4047 1.083

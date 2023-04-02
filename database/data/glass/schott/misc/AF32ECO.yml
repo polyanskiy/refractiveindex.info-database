@@ -32,13 +32,13 @@ DATA:
         1.970 8.2062E-07
         2.325 3.1818E-06
 SPECS:
-    n_absolute: false
-    wavelength_vacuum: false
-    temperature: 20.0 ℃
+    n_is_absolute: false
+    wavelength_is_vacuum: false
+    temperature: 20.0 °C
     nd: 1.511531
     Vd: 62.574031
     glass_status: standard
     density: 2.43 g/cm<sup>3</sup>
     thermal_expansion:
-      - temperature_range: -30 70 ℃
+      - temperature_range: -30 70 °C
         coefficient: 3.2e-06 K<sup>-1</sup>

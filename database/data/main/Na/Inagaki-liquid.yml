@@ -3,7 +3,7 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: "T. Inagaki, E. T. Arakawa, R. D. Birkhoff, M. W. Williams. Optical properties of liquid Na between 0.6 and 3.8 eV, <a href=\"https://doi.org/10.1103/PhysRevB.13.5610\"><i>Phs. Rev. B</i> <b>13</b>, 5610-5612 (1976)</a>"
-COMMENTS: "Liquid Na at 120 ℃"
+COMMENTS: "Liquid Na at 120 °C"
 DATA:
   - type: tabulated nk
     data: |
@@ -31,6 +31,6 @@ DATA:
         1.800 0.230 7.64
         2.000 0.310 8.43
 SPECS:
-    n_absolute: true
-    wavelength_vacuum: true
-    temperature: 120 ℃
+    n_is_absolute: true
+    wavelength_is_vacuum: true
+    temperature: 120 °C

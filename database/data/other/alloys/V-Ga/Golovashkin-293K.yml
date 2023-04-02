@@ -3,7 +3,7 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: "A. I. Golovashkin, I. S. Levchenko and G. P. Motulevich. Optical properties and electron characteristics of vanadium-gallium alloys obtained by evaporation in vacuum, <a href=\"http://jetp.ac.ru/cgi-bin/e/index/e/30/1/p44?a=list\"><i>Sov. Phys. JETP</i> <b>30</b>, 44-48 (1970)</a>"
-COMMENTS: "293 K (19.85 ℃). Avaraged data for samples containing 37, 33, and 6 wt% gallium (optical constants of the three samples are close to one another)."
+COMMENTS: "293 K (19.85 °C). Avaraged data for samples containing 37, 33, and 6 wt% gallium (optical constants of the three samples are close to one another)."
 DATA:
   - type: tabulated nk
     data: |

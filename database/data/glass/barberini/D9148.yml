@@ -3,7 +3,7 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: "<a href=\"https://refractiveindex.info/download/data/2010/barberini/d91480-rosalite-9148-uv-(final)-e.pdf\">Barberini D9148 glass specifications, 2010-08</a>"
-COMMENTS: "20 ℃<br>Sun Protection Glass; Colour: dark rose; Application: light tinted sunglare filter with contrast intensification red / yellow and high UV - absorption filter category 1 acc. to DIN EN 1836"
+COMMENTS: "20 °C<br>Sun Protection Glass; Colour: dark rose; Application: light tinted sunglare filter with contrast intensification red / yellow and high UV - absorption filter category 1 acc. to DIN EN 1836"
 DATA:
   - type: tabulated n
     data: |

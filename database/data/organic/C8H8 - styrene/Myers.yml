@@ -3,7 +3,7 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: "T. L. Myers, R. G. Tonkyn, T. O. Danby, M. S. Taubman, B. E. Bernacki, J. C. Birnbaum, S. W. Sharpe, T. J. Johnson. Accurate measurement of the optical constants n and k for a series of 57 inorganic and organic liquids for optical modeling and detection, <a href=\"https://doi.org/10.1177/0003702817742848\"><i>Appl. Spectrosc.</i> <b>72</b>, 535-550 (2018)</a> (see Supplemental Material for numerical data)"
-COMMENTS: "Isopropanol. 26 ℃."
+COMMENTS: "Isopropanol. 26 °C."
 DATA:
   - type: tabulated nk
     data: |
@@ -15353,6 +15353,6 @@ DATA:
         2.49902E+01 1.54853E+00 3.88554E-03
         2.50203E+01 1.54853E+00 3.94747E-03
 SPECS:
-    n_absolute: true
-    wavelength_vacuum: true
-    temperature: 26 ℃
+    n_is_absolute: true
+    wavelength_is_vacuum: true
+    temperature: 26 °C

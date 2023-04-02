@@ -3,7 +3,7 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: "<a href=\"https://refractiveindex.info/download/data/2010/barberini/d14200-s-4020-e.pdf\">Barberini D1420 1 glass specifications, 2010-08</a>"
-COMMENTS: "20 ℃<br>Sun Protection Glass; Colour: grey; Application: Neutral Crown Shade C medium tinted sunglare filter with IR- and UV-absorption filter category 2 acc. to DIN EN 1836 (for τ<sub>v</sub> < 18% filter category 3)"
+COMMENTS: "20 °C<br>Sun Protection Glass; Colour: grey; Application: Neutral Crown Shade C medium tinted sunglare filter with IR- and UV-absorption filter category 2 acc. to DIN EN 1836 (for τ<sub>v</sub> < 18% filter category 3)"
 DATA:
   - type: tabulated n
     data: |

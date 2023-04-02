@@ -3,7 +3,7 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: "P. Giannios, K. G. Toutouzas, M. Matiatou, K. Stasinos, M. M. Konstadoulakis, G. C. Zografos, and K. Moutzouris. Visible to near-infrared refractive properties of freshly-excised human-liver tissues: marking hepatic malignancies, <a href=\"https://doi.org/10.1038/srep27910\"><i>Sci. Rep.</i> <b>6</b>, 27910 (2016)</a>"
-COMMENTS: "24 ℃ ± 2 ℃."
+COMMENTS: "24 °C ± 2 °C."
 DATA:
   - type: formula 5
     wavelength_range: 0.45 1.551

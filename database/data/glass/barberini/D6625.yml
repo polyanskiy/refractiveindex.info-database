@@ -3,7 +3,7 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: "<a href=\"https://refractiveindex.info/download/data/2011/barberini/d6625e.pdf\">Barberini D6625 glass specifications, 2011-03</a>"
-COMMENTS: "20 ℃<br>Photochromic Glass; Colour: darkbrown; Application: High index glass sensitive to light for corrective lenses and sun glare filter; luminous transmittance range 87% (τ<sub>0</sub>) / 25% (τ<sub>1</sub>) or filter categories 0 / 2 respectively and UV-absorption"
+COMMENTS: "20 °C<br>Photochromic Glass; Colour: darkbrown; Application: High index glass sensitive to light for corrective lenses and sun glare filter; luminous transmittance range 87% (τ<sub>0</sub>) / 25% (τ<sub>1</sub>) or filter categories 0 / 2 respectively and UV-absorption"
 DATA:
   - type: tabulated n
     data: |

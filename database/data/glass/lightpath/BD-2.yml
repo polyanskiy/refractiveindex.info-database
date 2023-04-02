@@ -20,8 +20,8 @@ DATA:
         13 2.5892 2.069E-5
         14 2.5843 2.228E-5
 SPECS:
-    n_absolute: false
-    wavelength_vacuum: false
+    n_is_absolute: false
+    wavelength_is_vacuum: false
     density: 4.67 g/cm<sup>3</sup>
     Knoop_hardness: 150 kgf/mm<sup>2</sup>
     Youngs_modulus: 22.1 GPa
@@ -30,4 +30,4 @@ SPECS:
     thermal_dispersion:
       - type: "dn_rel/dT"
         value: 91e-6 K<sup>-1</sup>
-    transition_temperature: 278 ℃
+    transition_temperature: 278 °C

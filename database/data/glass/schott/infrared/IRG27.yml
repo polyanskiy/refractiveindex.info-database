@@ -38,21 +38,21 @@ DATA:
         12.5 4.1133E-04
         12.7 6.9812E-04
 SPECS:
-    n_absolute: false
-    wavelength_vacuum: false
-    temperature: 20.0 ℃
+    n_is_absolute: false
+    wavelength_is_vacuum: false
+    temperature: 20.0 °C
     thermal_dispersion:
       - type: "Schott formula"
         coefficients: -3.89e-06 0 0 1.77e-05 0 6.04e-02
     density: 3.20 g/cm<sup>3</sup>
     thermal_expansion:
-      - temperature_range: 20 100 ℃
+      - temperature_range: 20 100 °C
         coefficient: 22.5e-06 K<sup>-1</sup>
     specific_heat: 0.482 J/(g·K)
     thermal_conductivity:
-      - temperature: 25 ℃
+      - temperature: 25 °C
         value: 0.33 W/(m·K)
-    transition_temperature: 197 ℃
+    transition_temperature: 197 °C
     Knoop_hardness: 1.11 GPa
     fracture_toughness: 0.285 MPa·m<sup>1/2</sup>
     Youngs_modulus: 16.77 GPa

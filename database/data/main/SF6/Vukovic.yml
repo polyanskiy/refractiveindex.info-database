@@ -9,7 +9,7 @@ DATA:
     wavelength_range: 0.6 1.3
     coefficients: 1.00071517 4.996e-6 -2
 SPECS:
-    n_absolute: true
-    wavelength_vacuum: true
-    temperature: 15 ℃
+    n_is_absolute: true
+    wavelength_is_vacuum: true
+    temperature: 15 °C
     pressure: 101325 Pa

@@ -3,7 +3,7 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: "Handbook of Optical Constants of Solids, Edward D. Palik, ed. Academic Press, Boston, 1985"
-COMMENTS: "25 ℃"
+COMMENTS: "25 °C"
 DATA:
   - type: formula 1
     wavelength_range: 0.57 39.4

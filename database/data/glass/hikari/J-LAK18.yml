@@ -43,9 +43,9 @@ DATA:
         2.200 2.4381E-06
         2.400 9.7561E-06
 SPECS:
-    n_absolute: false
-    wavelength_vacuum: false
-    temperature: 23.0 ℃
+    n_is_absolute: false
+    wavelength_is_vacuum: false
+    temperature: 23.0 °C
     thermal_dispersion:
       - type: "Schott formula"
         coefficients: 2.411e-06 1.1591e-08 -1.5325e-12 5.5519e-07 3.2417e-10 0.13983
@@ -53,7 +53,7 @@ SPECS:
     Vd: 54.611531
     density: 4.17 g/cm<sup>3</sup>
     thermal_expansion:
-      - temperature_range: -30 70 ℃
+      - temperature_range: -30 70 °C
         coefficient: 5.6e-06 K<sup>-1</sup>
     dPgF: -0.0085
     phosphate_resistance: 3.0

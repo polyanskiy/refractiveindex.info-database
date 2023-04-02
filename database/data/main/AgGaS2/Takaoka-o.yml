@@ -3,7 +3,7 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: "E. Takaoka and K. Kato, Thermo-optic dispersion formula for AgGaS<sub>2</sub>, <a href=\"https://doi.org/10.1364/AO.38.004577\"><i>Appl. Opt.</i>, <b>38</b>, 4577-4580 (1999)</a>"
-COMMENTS: "Ordinary ray (o); 20.0 ℃"
+COMMENTS: "Ordinary ray (o); 20.0 °C"
 DATA:
   - type: formula 4
     wavelength_range: 0.58 10.59

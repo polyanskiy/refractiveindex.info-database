@@ -2305,5 +2305,5 @@ DATA:
         6.04801E-02 5.09860E-01 1.64758E-01
         6.07766E-02 5.00167E-01 1.67368E-01
 SPECS:
-    n_absolute: true
-    wavelength_vacuum: true
+    n_is_absolute: true
+    wavelength_is_vacuum: true

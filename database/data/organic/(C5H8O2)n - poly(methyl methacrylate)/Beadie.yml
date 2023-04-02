@@ -4,7 +4,7 @@
 
 REFERENCES: "G. Beadie, M. Brindza, R. A. Flynn, A. Rosenberg, and J. S. Shirk. Refractive index measurements of poly(methyl methacrylate) (PMMA) from 0.4-1.6 μm, <a href=\"https://doi.org/10.1364/AO.54.00F139\"> <i>Appl. Opt.</i> <b>54</b>, F139-F143 (2015)</a>"
 
-COMMENTS: "20.1 ℃. Absolute accuracy < 2×10<sup>-4</sup>."
+COMMENTS: "20.1 °C. Absolute accuracy < 2×10<sup>-4</sup>."
 DATA:
   - type: formula 3
     wavelength_range: 0.42 1.62

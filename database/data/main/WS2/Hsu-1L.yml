@@ -1981,6 +1981,6 @@ DATA:
         0.8500 3.7993E+00 0.0000E+00
         0.8502 3.7891E+00 0.0000E+00
 SPECS:
-    n_absolute: true
-    wavelength_vacuum: true
+    n_is_absolute: true
+    wavelength_is_vacuum: true
     film_thickness: 1L

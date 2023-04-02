@@ -3,7 +3,7 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: "C. C. Wang, X. C. Li, J. Y. Tan, L. H. Liu. Experimental measurement of optical constant of biodiesel by double optical pathlength transmission method, <a href=\"https://doi.org/10.3788/LOP52.051206\"><i>Laser Optoelectron. Prog.</i> <b>52</b>, 051206 (2015)</a> (Numerical data kindly provided by Chengchao Wang)"
-COMMENTS: "Biodiesel, 20 ℃."
+COMMENTS: "Biodiesel, 20 °C."
 DATA:
   - type: tabulated n
     data: |
@@ -129,6 +129,6 @@ DATA:
         2.470 4.192E-04
         2.500 3.484E-04
 SPECS:
-    n_absolute: true
-    wavelength_vacuum: true
-    temperature: 20.0 ℃
+    n_is_absolute: true
+    wavelength_is_vacuum: true
+    temperature: 20.0 °C

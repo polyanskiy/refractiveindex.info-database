@@ -3,7 +3,7 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: "K. Wang, W. Wen, Y. Wang, K. Wang, J. He, J. Wang, P. Zhai, Y. Yang, P. Qiu. Order-of-magnitude multiphoton signal enhancement based on characterization of absorption spectra of immersion oils at the 1700-nm window, <a href=\"https://doi.org/10.1364/OE.25.005909\"><i>Opt. Express</i> <b>25</b>, 5909-5916 (2017)</a>"
-COMMENTS: "22 ℃."
+COMMENTS: "22 °C."
 DATA:
   - type: tabulated k
     data: |
@@ -359,4 +359,4 @@ DATA:
         1.898 5.07788E-05
         1.900 5.15516E-05
 SPECS:
-    temperature: 22 ℃
+    temperature: 22 °C

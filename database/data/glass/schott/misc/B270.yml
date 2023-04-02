@@ -3,7 +3,7 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: "<a href=\"https://refractiveindex.info/download/data/1993/Schott_B270.pdf\">B 270 datasheet, August 1993</a>"
-COMMENTS: "20 ℃. Clear high transmission crown glass (modified soda-lime glass) available in form of sheets, profile rods strips and blanks"
+COMMENTS: "20 °C. Clear high transmission crown glass (modified soda-lime glass) available in form of sheets, profile rods strips and blanks"
 DATA:
   - type: tabulated n
     data: |

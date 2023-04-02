@@ -3,7 +3,7 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: "W. S. Rodney and R. J. Spindler. Refractive index of cesium bromide for ultraviolet, visible, and infrared wavelengths, <a href=\"http://archive.org/details/jresv51n3p123\">J. Res. Nat. Bur. Stand. <b>51</b>, 123-126 (1953)</a>"
-COMMENTS: "27 ℃"
+COMMENTS: "27 °C"
 DATA:
   - type: formula 1
     wavelength_range: 0.365 39

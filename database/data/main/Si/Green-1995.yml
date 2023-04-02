@@ -3,7 +3,7 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: "M. A. Green and M. J. Keevers. Optical properties of intrinsic silicon at 300 K, <a href=\"https://doi.org/10.1002/pip.4670030303\"><i>Progress in photovoltaics</i> <b>3</b>, 189-192 (1995)</a>"
-COMMENTS: "300 K (27 ℃)"
+COMMENTS: "300 K (27 °C)"
 DATA:
   - type: tabulated n
     data: |

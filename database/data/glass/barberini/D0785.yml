@@ -3,7 +3,7 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: "<a href=\"https://refractiveindex.info/download/data/2010/barberini/d0785e.pdf\">Barberini D0785 glass specifications, 2010-08</a>"
-COMMENTS: "20 ℃<br>High Index Glass; Colour: clear; Application: High index light weight glass for corrective lenses with very high power"
+COMMENTS: "20 °C<br>High Index Glass; Colour: clear; Application: High index light weight glass for corrective lenses with very high power"
 DATA:
   - type: tabulated n
     data: |

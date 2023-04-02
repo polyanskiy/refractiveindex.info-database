@@ -3,7 +3,7 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: "S. Tsuda, S. Yamaguchi, Y. Kanamori, and H. Yugami. Spectral and angular shaping of infrared radiation in a polymer resonator with molecular vibrational modes, <a href=\"https://doi.org/10.1364/OE.26.006899\"><i>Opt. Express</i> <b>26</b>, 6899-6915 (2018)</a>"
-COMMENTS: "MicroChem PMMA resist with a molecular weight of 950,000; Baked at 100 ℃ for 10 min on a hot plate."
+COMMENTS: "MicroChem PMMA resist with a molecular weight of 950,000; Baked at 100 °C for 10 min on a hot plate."
 DATA:
   - type: formula 5
     wavelength_range: 0.6 1.0

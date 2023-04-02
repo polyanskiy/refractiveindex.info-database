@@ -40,18 +40,18 @@ DATA:
         2.200 1.6127E-06
         2.400 2.1400E-06
 SPECS:
-    n_absolute: false
-    wavelength_vacuum: false
-    temperature: 20.0 ℃
+    n_is_absolute: false
+    wavelength_is_vacuum: false
+    temperature: 20.0 °C
     nd: 1.614131
     Vd: 40.025731
     glass_code: 614400
     glass_status: preferred
     density: 3.56 g/cm<sup>3</sup>
     thermal_expansion:
-      - temperature_range: -30 70 ℃
+      - temperature_range: -30 70 °C
         coefficient: 8.3e-06 K<sup>-1</sup>
-      - temperature_range: 20 300 ℃
+      - temperature_range: 20 300 °C
         coefficient: 9.4e-06 K<sup>-1</sup>
     dPgF: 0.0001
     climatic_resistance: 1.0

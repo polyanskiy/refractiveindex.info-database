@@ -3,7 +3,7 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: "<a href=\"https://refractiveindex.info/download/data/2022/CDGM-ZEMAX202206new.AGF\">CDGM Zemax catalog 2022-06</a> (obtained from <a href=\"http://www.cdgmgd.com/go.htm?k=Download&url=downList\">http://www.cdgmgd.com</a>)<br>See also <a href=\"https://refractiveindex.info/download/data/2022/CDGM202206.pdf\">CDGM optical glass data sheets</a>"
-COMMENTS: "anneal rate:4℃/h"
+COMMENTS: "anneal rate:4°C/h"
 DATA:
   - type: formula 2 
     range: 0.365 2.325
@@ -40,14 +40,14 @@ DATA:
         2.200 9.1643E-07
         2.400 3.8601E-06
 SPECS:
-    n_absolute: false
-    wavelength_vacuum: false
-    temperature: 20.0 ℃
+    n_is_absolute: false
+    wavelength_is_vacuum: false
+    temperature: 20.0 °C
     nd: 1.854500
     Vd: 40.593546
     glass_code: 855406
     density: 5.29 g/cm<sup>3</sup>
     thermal_expansion:
-      - temperature_range: 20 300 ℃
+      - temperature_range: 20 300 °C
         coefficient: 8.1e-06 K<sup>-1</sup>
     dPgF: -0.008

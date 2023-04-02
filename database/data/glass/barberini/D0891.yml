@@ -3,7 +3,7 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: "<a href=\"https://refractiveindex.info/download/data/2010/barberini/d0891e.pdf\">Barberini D0891 glass specifications, 2010-06</a>"
-COMMENTS: "20 ℃<br>Normal Crown Glass (Uni/Bifocal); Colour: clear; Application: UV-absorbing glass for corrective lenses"
+COMMENTS: "20 °C<br>Normal Crown Glass (Uni/Bifocal); Colour: clear; Application: UV-absorbing glass for corrective lenses"
 DATA:
   - type: tabulated n
     data: |

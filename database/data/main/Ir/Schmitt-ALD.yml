@@ -2008,8 +2008,8 @@ DATA:
         19.9901 50.933 77.970
         20.0000 50.955 77.988
 SPECS:
-    n_absolute: true
-    wavelength_vacuum: true
+    n_is_absolute: true
+    wavelength_is_vacuum: true
     film_thickness: 66 nm
     substrate: Si
     deposition_method: ALD

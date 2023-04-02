@@ -3,7 +3,7 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: "T. Larsén. Beitrag zur Dispersion der Edelgase. <a href=\"https://doi.org/10.1007/BF01343498\"><i>Z. Physik</i> <b>88</b>, 389-394 (1934)</a>"
-COMMENTS: "Standard conditions: 0 ℃, 760 torr (101.325 kPa)."
+COMMENTS: "Standard conditions: 0 °C, 760 torr (101.325 kPa)."
 DATA:
   - type: tabulated n
     data: |
@@ -25,7 +25,7 @@ DATA:
         0.546225 1.000282550
         0.567740 1.000282175
 SPECS:
-    n_absolute: true
-    wavelength_vacuum: true
-    temperature: 0 ℃
+    n_is_absolute: true
+    wavelength_is_vacuum: true
+    temperature: 0 °C
     pressure: 101325 Pa

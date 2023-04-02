@@ -3,7 +3,7 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: "D. J. Segelstein. <i>The complex refractive index of water</i>, <a href=\"http://hdl.handle.net/10355/11599\">Master Thesis</a> (1981)<br>Note: This is a continuation of work of <a href=\"https://refractiveindex.info/?shelf=main&book=H2O&page=Hale\"><i>Hale and Querry (1973)</i></a> providing improved data and extended range."
-COMMENTS: "Liquid water (H<sub>2</sub>O) at 25 ℃ (from <i>Hale and Querry 1973</i>)"
+COMMENTS: "Liquid water (H<sub>2</sub>O) at 25 °C (from <i>Hale and Querry 1973</i>)"
 DATA:
   - type: tabulated nk
     data: |
@@ -1255,6 +1255,6 @@ DATA:
         9.9083193E+06 8.848600 7.0111643E-03
         1.0000000E+07 8.848600 6.9309081E-03
 SPECS:
-    n_absolute: true
-    wavelength_vacuum: true
-    temperature: 25 ℃
+    n_is_absolute: true
+    wavelength_is_vacuum: true
+    temperature: 25 °C

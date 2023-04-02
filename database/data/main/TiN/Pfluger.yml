@@ -58,6 +58,6 @@ DATA:
         1.2399 2.69E0 5.04E0
         2.4797 4.52E0 8.25E0
 SPECS:
-    n_absolute: true
-    wavelength_vacuum: true
+    n_is_absolute: true
+    wavelength_is_vacuum: true
     substrate: Mo

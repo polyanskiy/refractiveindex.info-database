@@ -158,5 +158,5 @@ DATA:
         1.653123 3.9859 9.1902
         2.479684 4.3246 12.6968
 SPECS:
-    n_absolute: true
-    wavelength_vacuum: true
+    n_is_absolute: true
+    wavelength_is_vacuum: true
