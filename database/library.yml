@@ -2121,6 +2121,9 @@
         - PAGE: Malitson
           name: "Malitson 1965: Fused silica; n 0.21–6.7 µm"
           data: "main/SiO2/Malitson.yml"
+        - PAGE: Arosa
+          name: "Arosa and de la Fuente 2020: Fused silica; n 0.26–1.7 µm"
+          data: "main/SiO2/Arosa.yml"
         - PAGE: Popova
           name: "Popova et al. 1972: Fused silica; n,k 7–50 µm"
           data: "main/SiO2/Popova.yml"
