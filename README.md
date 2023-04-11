@@ -30,3 +30,7 @@ https://github.com/mtarek/refractiveindex.info (fork and further development)
 ### RefractiveIndex.jl
 Julia interface to refractiveindex.info database<br>
 https://github.com/stillyslalom/RefractiveIndex.jl
+
+### refractiveindex on PYPI
+Easy Python interface to RefractiveIndex database. Based on parsing method from PyTMM project, usage simular to `RefractiveIndex.jl` for Julia.<br/>
+https://github.com/toftul/refractiveindex
