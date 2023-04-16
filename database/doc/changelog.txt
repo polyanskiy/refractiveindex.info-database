@@ -16,6 +16,9 @@
     main/Ag/Ferrera-404K.yml
     main/Ag/Ferrera-501K.yml
     main/Ag/Ferrera-600K.yml
+    main/Au/Magnozzi-25C.yml
+    main/Au/Magnozzi-225C.yml
+    main/Au/Magnozzi-350C.yml
   new data (thanks to Zhengfeng Guo, Huazhong University of Science and Technology, Wuhan, China, for submitting data!)
     main/SnSe/Guo-alpha.yml
     main/SnSe/Guo-beta.yml

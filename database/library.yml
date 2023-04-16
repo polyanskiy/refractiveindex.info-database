@@ -371,6 +371,18 @@
         - PAGE: Lemarchand-11.7nm
           name: "Lemarchand 2013: 11.7-nm film; n,k 0.35–1.8 µm"
           data: "main/Au/Lemarchand-11.7nm.yml"
+          
+        - DIVIDER: "Experimental data: nanoparticles"
+        - PAGE: Magnozzi-25C
+          name: "Magnozzi et al. 2019: n,k 0.252–1.45 µm; 25 °C"
+          data: "main/Au/Magnozzi-25C.yml"
+        - PAGE: Magnozzi-225C
+          name: "Magnozzi et al. 2019: n,k 0.252–1.45 µm; 225 °C"
+          data: "main/Au/Magnozzi-225C.yml"
+        - PAGE: Magnozzi-350C
+          name: "Magnozzi et al. 2019: n,k 0.252–1.45 µm; 350 °C"
+          data: "main/Au/Magnozzi-350C.yml"
+          
         - DIVIDER: "Models and simulations"
         - PAGE: Rakic-BB
           name: "Rakić et al. 1998: Brendel-Bormann model; n,k 0.248–6.20 µm"
