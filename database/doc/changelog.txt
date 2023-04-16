@@ -1,5 +1,8 @@
 ﻿============================== Next release ==============================
 
+  new data
+    main/LiIO3/Umegaki-o.yml
+    main/LiIO3/Umegaki-e.yml
   new data (thanks to Yago Arosa Lobato, Universidade de Santiago de Compostela, Spain!)
     main/SiO2/Arosa.yml
   new data (thanks to Georgy Ermolaev, Moscow Institute of Physics and Technology, Russia, for submitting data in YAML format!)

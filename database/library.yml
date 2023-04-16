@@ -371,7 +371,6 @@
         - PAGE: Lemarchand-11.7nm
           name: "Lemarchand 2013: 11.7-nm film; n,k 0.35–1.8 µm"
           data: "main/Au/Lemarchand-11.7nm.yml"
-          
         - DIVIDER: "Experimental data: nanoparticles"
         - PAGE: Magnozzi-25C
           name: "Magnozzi et al. 2019: n,k 0.252–1.45 µm; 25 °C"
@@ -382,7 +381,6 @@
         - PAGE: Magnozzi-350C
           name: "Magnozzi et al. 2019: n,k 0.252–1.45 µm; 350 °C"
           data: "main/Au/Magnozzi-350C.yml"
-          
         - DIVIDER: "Models and simulations"
         - PAGE: Rakic-BB
           name: "Rakić et al. 1998: Brendel-Bormann model; n,k 0.248–6.20 µm"
@@ -1364,6 +1362,12 @@
       name: "LiIO<sub>3</sub> (Lithium iodate)"
       info: "main/LiIO3.html"
       content:
+        - PAGE: Umegaki-o
+          name: "Umegaki et al. 1971: n(o) 0.4–5.7 µm"
+          data: "main/LiIO3/Umegaki-o.yml"
+        - PAGE: Umegaki-e
+          name: "Umegaki et al. 1971: n(e) 0.4–5.7 µm"
+          data: "main/LiIO3/Umegaki-e.yml"
         - PAGE: Herbst-o
           name: "Herbst 1976: n(o) 0.546–5.0 µm"
           data: "main/LiIO3/Herbst-o.yml"
