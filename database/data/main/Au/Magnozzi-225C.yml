@@ -3,7 +3,7 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: "M. Magnozzi, M. Ferrera, L. Mattera, M. Canepa, F. Bisio. Plasmonics of Au nanoparticles in a hot thermodynamic bath, <a href=\"https://doi.org/10.1039/C8NR09038F\"><i>Nanoscale</i>, <b>11</b>, 1140–1146 (2019)</a> (Numerical data kindly provided by Michele Magnozzi)"
-COMMENTS: "225 °C. 4 nm thick film of closely-packed Au nanoparticles deposited on a nanopatterned LiF(110) substrate by molecular beam epitaxy at glancing angle at ~10<sup>-9</sup> mbar."
+COMMENTS: "Optically-thick and morphologically-flat Au film at 225 °C."
 DATA:
   - type: tabulated nk
     data: |
@@ -612,4 +612,3 @@ SPECS:
     n_is_absolute: true
     wavelength_is_vacuum: true
     temperature: 225 °C
-    substrate: LiF
