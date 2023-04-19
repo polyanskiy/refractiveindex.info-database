@@ -4766,6 +4766,13 @@
         - PAGE: Vogt-703ppm
           name: "Vogt et al. 2016: 703 ppm Fe2O3; n,k 0.30–1.69 µm"
           data: "glass/misc/soda-lime/Vogt-703ppm.yml"
+    - BOOK: BGG
+      name: "BGG (barium gallogermanate) glass"
+      info: "glass/BGG.html"
+      content:
+        - PAGE: Zelmon
+          name: "Zelmon et al. 2002: n 0.4–5.0 µm"
+          data: "glass/misc/BGG/Zelmon.yml"
     - BOOK: ZBLAN
       name: "ZBLAN fluoride glass"
       info: "glass/ZBLAN.html"

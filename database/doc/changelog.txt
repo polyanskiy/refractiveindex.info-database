@@ -1,6 +1,7 @@
 ﻿============================== Next release ==============================
 
   new data
+    glass/misc/BGG/Zelmon.yml
     main/LiIO3/Umegaki-o.yml
     main/LiIO3/Umegaki-e.yml
   new data (thanks to Yago Arosa Lobato, Universidade de Santiago de Compostela, Spain!)
