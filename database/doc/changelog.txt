@@ -1,5 +1,7 @@
 ﻿============================== Next release ==============================
 
+  new data (thanks to Kristupas Tikuišis, Charles University, Prague, Czech Republic, for submitting data in YAML format!)
+    main/C/Tikuisis.yml
   new data
     glass/misc/BGG/Zelmon.yml
     main/LiIO3/Umegaki-o.yml

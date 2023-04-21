@@ -633,6 +633,9 @@
         - PAGE: Weber
           name: "Weber et al. 2010: Graphene; n,k 0.21–1.0 µm"
           data: "main/C/Weber.yml"
+        - PAGE: Tikuisis
+          name: "Tikuišis et al. 2023: Graphene; n,k 0.226–4.40 µm"
+          data: "main/C/Tikuisis.yml"
         - PAGE: El-Sayed
           name: "El-Sayed et al. 2021: Graphene; n,k 0.24–1.0 µm"
           data: "main/C/El-Sayed.yml"
