@@ -4730,6 +4730,13 @@
           name: "K-SFLD11 (SUMITA)"
           data: "glass/sumita/K-SFLD11.yml"
           info: "glass/SUMITA.html"
+    - DIVIDER: "Optical glass with additional data"
+    - BOOK: K108-LZOS
+      name: "K108 (LZOS)"
+      content:
+        - PAGE: Bassarab
+          name: "Bassarab et al. 2023: n,k 0.185–150000 µm"
+          data: "glass/lzos/K108/Bassarab.yml"
     - DIVIDER: "Multiple purpose glass"
     - BOOK: fused_silica
       name: "Fused silica (fused quartz)"
@@ -12173,3 +12180,4 @@
         - PAGE: diesel_soot
           name: "Diesel soot"
           data: "other/soots/diesel soot/Querry-NMSU.yml"
+

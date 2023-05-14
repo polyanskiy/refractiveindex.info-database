@@ -1,5 +1,7 @@
 ﻿============================== Next release ==============================
 
+  new data (thanks to Grigory Kropotov, TYDEX LLC, St. Petersburg, Russia, for submitting data in YAML format!)
+	glass/lzos/K108/Bassarab.yml
   new data (thanks to Kristupas Tikuišis, Charles University, Prague, Czech Republic, for submitting data in YAML format!)
     main/C/Tikuisis.yml
   new data
@@ -50,6 +52,7 @@
   miscellaneous
     update CDGM glass data
     SiN data from 'other/anti-reflective coatings/SiN' moved to 'main/Si3N4'
+    Start working on n2 database
 
 
 ============================== 2022-10-01 ==============================
