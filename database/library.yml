@@ -1870,6 +1870,9 @@
         - PAGE: Boidin
           name: "Boidin et al. 2016: Thin film; n 0.3–18 µm"
           data: "main/Al2O3/Boidin.yml"
+        - PAGE: Zhukovsky
+          name: "Zhukovsky et al. 2015: Thin film; n 0.211–1.69 µm"
+          data: "main/Al2O3/Zhukovsky.yml"
         - PAGE: Kischkat
           name: "Kischkat et al. 2012: Thin film; n,k 1.54–14.3 µm"
           data: "main/Al2O3/Kischkat.yml"
@@ -2224,6 +2227,9 @@
         - PAGE: Siefke
           name: "Siefke et al. 2016: Thin film; n,k 0.120–125 µm"
           data: "main/TiO2/Siefke.yml"
+        - PAGE: Zhukovsky
+          name: "Zhukovsky et al. 2015: Thin film; n 0.211–1.69 µm"
+          data: "main/TiO2/Zhukovsky.yml"
         - DIVIDER: "Nanoparticles"
         - PAGE: Bodurov
           name: "Bodurov et al. 2016: Nanoparticles; n 0.405–0.635 µm"
