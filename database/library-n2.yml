@@ -15,7 +15,7 @@
           data: "main/BeAl2O4/Adair.yml"
     - BOOK: Gd3Sc2Al3O12
       name: "Gd<sub>3</sub>Sc<sub>2</sub>Al<sub>3</sub>O<sub>12</sub> (Gadolinium scandium aluminium garnet, GSAG)"
-      info: "main/Gd3Sc2Al312.html"
+      info: "main/Gd3Sc2Al3O12.html"
       content:
         - PAGE: Adair
           name: "Adair et al. 1989"
@@ -393,7 +393,7 @@
           data: "main/Er2O3/Adair.yml"
     - BOOK: Ga2O3
       name: "Ga<sub>2</sub>O<sub>3</sub> (Gallium oxide)"
-      info: "main/Er2O3.html"
+      info: "main/Ga2O3.html"
       content:
         - PAGE: Adair
           name: "Adair et al. 1989"
@@ -729,14 +729,14 @@
     - DIVIDER: "Doped crystals"
     - BOOK: Yb-KGW
       name: "Yb:KGd(WO<sub>4</sub>)<sub>2</sub> (Ytterbium doped potassium gadolinium tungstate, Yb:KGW)"
-      info: "other/Yb-KGd(WO4)2.html"
+      info: "main/KGd(WO4)2.html"
       content:
         - PAGE: Selivanov-β
           name: "Selivanov et al. 2006: n2(β)"
           data: "other/doped crystals/Yb-KGd(WO4)2/Selivanov-beta.yml"
     - BOOK: Yb-KYW
       name: "Yb:KY(WO<sub>4</sub>)<sub>2</sub> (Ytterbium doped potassium yttrium tungstate, Yb:KYW)"
-      info: "other/Yb-KY(WO4)2.html"
+      info: "main/KY(WO4)2.html"
       content:
         - PAGE: Selivanov-α
           name: "Selivanov et al. 2006: n2(α)"
@@ -749,7 +749,7 @@
           data: "other/doped crystals/Yb-KY(WO4)2/Selivanov-gamma.yml"
     - BOOK: Yb-YVO
       name: "Yb:YVO<sub>4</sub> (Ytterbium-doped yttrium orthovanadate, Yb:YVO)"
-      info: "other/Yb-YVO4.html"
+      info: "main/YVO4.html"
       content:
         - PAGE: Selivanov-o
           name: "Selivanov et al. 2006: (o)"
