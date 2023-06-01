@@ -708,5 +708,5 @@ DATA:
 SPECS:
     n_is_absolute: true
     wavelength_is_vacuum: true
-    film_thickness: 105 nm
+    film_thickness: 105e-9
     substrate: Si

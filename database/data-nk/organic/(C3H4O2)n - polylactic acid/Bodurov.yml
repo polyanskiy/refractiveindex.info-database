@@ -12,5 +12,5 @@ SPECS:
     n_is_absolute: false
     wavelength_is_vacuum: false
     temperature: 24 °C
-    film_thickness: 45 μm
+    film_thickness: 45e-6
     substrate: glass

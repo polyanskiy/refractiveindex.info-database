@@ -75,4 +75,4 @@ SPECS:
     n_is_absolute: false
     wavelength_is_vacuum: false
     substrate: Ge
-    film_thickness: 1.008 µm
+    film_thickness: 1.00e-6

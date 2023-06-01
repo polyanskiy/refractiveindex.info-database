@@ -6564,5 +6564,5 @@ DATA:
 SPECS:
     n_is_absolute: true
     wavelength_is_vacuum: true
-    film_thickness: 310 nm
+    film_thickness: 310e-9
     substrate: Ge

@@ -3011,6 +3011,6 @@ DATA:
 SPECS:
     n_is_absolute: true
     wavelength_is_vacuum: true
-    film_thickness: 20 nm
+    film_thickness: 20e-9
     substrate: SiO2
     deposition_method: CVD

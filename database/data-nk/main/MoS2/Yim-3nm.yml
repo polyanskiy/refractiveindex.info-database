@@ -46,5 +46,5 @@ DATA:
 SPECS:
     n_is_absolute: true
     wavelength_is_vacuum: true
-    film_thickness: 3.01 nm
+    film_thickness: 3.01e-9
     substrate: SiO2/Si

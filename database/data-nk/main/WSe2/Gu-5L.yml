@@ -1094,5 +1094,5 @@ DATA:
 SPECS:
     n_is_absolute: true
     wavelength_is_vacuum: true
-    film_thickness: 4L
+    film_thickness: 5L
     substrate: sapphire

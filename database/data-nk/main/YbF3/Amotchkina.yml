@@ -263,4 +263,4 @@ SPECS:
     n_is_absolute: false
     wavelength_is_vacuum: false
     substrate: ZnSe
-    film_thickness: 1.95 µm
+    film_thickness: 1.95e-6

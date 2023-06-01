@@ -154,5 +154,5 @@ DATA:
         1.69 1.875 0.00E+00
         1.7 1.875 0.00E+00
 SPECS:
-    film_thickness: 105 nm
+    film_thickness: 105e-9
     substrate: Si

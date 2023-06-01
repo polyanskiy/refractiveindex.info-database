@@ -711,5 +711,5 @@ DATA:
 SPECS:
     n_is_absolute: false
     wavelength_is_vacuum: false
-    film_thickness: 2 μm
+    film_thickness: 2e-6
     substrate: glass

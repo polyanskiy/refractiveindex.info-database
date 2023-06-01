@@ -687,6 +687,6 @@ DATA:
 SPECS:
     n_is_absolute: true
     wavelength_is_vacuum: true
-    film_thickness: 700 nm
+    film_thickness: 700e-9
     substrate: glass
  
