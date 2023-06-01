@@ -1664,7 +1664,7 @@
           data: "main/GaN/Lin-zincblende.yml"
         - DIVIDER: "Models and simulations"
         - PAGE: Kawashima
-          name: "Kawashima et al. 1997: thin film; n,k 0.131–0.919 µm"
+          name: "Kawashima et al. 1997: thin film; n,k 0.124–0.992 µm"
           data: "main/GaN/Kawashima.yml"
     - BOOK: Si3N4
       name: "Si<sub>3</sub>N<sub>4</sub>, SiN (Silicon nitride)"
