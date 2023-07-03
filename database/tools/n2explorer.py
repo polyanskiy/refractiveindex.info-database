@@ -32,7 +32,7 @@ page_info_paths = []
 wl = []
 n2 = []
 
-# we assume that this scripti is in the "tools" directory of the RII database
+# we assume that this script is in the "tools" directory of the RII database
 current_file_path = os.path.abspath(__file__)
 db_path = os.path.dirname(os.path.dirname(current_file_path))
 
@@ -366,9 +366,9 @@ def UpdateInfo():
 
 def html2mathtext(str):
     str = re.sub(r"<sub>(.*?)</sub>", r"$_{\1}$", str) # subscript
-    # html_str = re.sub(r"<sup>(.*?)</sup>", r"$^{\1}$", str) # superscript
-    # html_str = re.sub(r"<b>(.*?)</b>", r"$\\mathbf{\1}$", str) # bold
-    # html_str = re.sub(r"<i>(.*?)</i>", r"$\\mathit{\1}$", str) # italic
+    # str = re.sub(r"<sup>(.*?)</sup>", r"$^{\1}$", str) # superscript
+    # str = re.sub(r"<b>(.*?)</b>", r"$\\mathbf{\1}$", str) # bold
+    # str = re.sub(r"<i>(.*?)</i>", r"$\\mathit{\1}$", str) # italic
     return f"{str}"
             
 
