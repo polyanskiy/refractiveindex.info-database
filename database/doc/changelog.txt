@@ -15,6 +15,10 @@
   new data (thanks to Yago Arosa Lobato, Universidade de Santiago de Compostela, Spain!)
     main/SiO2/Arosa.yml
   new data (thanks to Georgy Ermolaev, Moscow Institute of Physics and Technology, Russia, for submitting data in YAML format!)
+    main/BN/Grudinin-o.yml
+    main/BN/Grudinin-e.yml
+    main/BN/Grudinin-DFT-o.yml
+    main/BN/Grudinin-DFT-e.yml
     other/perovskite/CsPbBr3/Ermolaev-o.yml
     other/perovskite/CsPbBr3/Ermolaev-e.yml
     other/perovskite/CsPbCl3/Ermolaev-o.yml

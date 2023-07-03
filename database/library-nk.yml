@@ -1642,9 +1642,23 @@
       name: "BN (Boron nitride)"
       info: "main/BN.html"
       content:
+        - DIVIDER: "Experimental data"
         - PAGE: Lee
-          name: "Lee et al. 2018: h-BN; n 0.45–1.2 µm"
+          name: "Lee et al. 2018: h-BN; n 0.450–1.20 µm"
           data: "main/BN/Lee.yml"
+        - PAGE: Grudinin-o
+          name: "Grudinin et al. 2023: h-BN; n(o) 0.250–1.70 µm"
+          data: "main/BN/Grudinin-o.yml"
+        - PAGE: Grudinin-e
+          name: "Grudinin et al. 2023: h-BN; n(e) 0.250–1.70 µm"
+          data: "main/BN/Grudinin-e.yml"
+        - DIVIDER: "Models and simulations"
+        - PAGE: Grudinin-DFT-o
+          name: "Grudinin et al. 2023: h-BN; n,k(o) 0.199–2.01 µm"
+          data: "main/BN/Grudinin-DFT-o.yml"
+        - PAGE: Grudinin-DFT-e
+          name: "Grudinin et al. 2023: h-BN; n,k(e) 0.199–2.01 µm"
+          data: "main/BN/Grudinin-DFT-e.yml"
     - BOOK: GaN
       name: "GaN (Gallium nitride)"
       info: "main/GaN.html"
@@ -12186,4 +12200,3 @@
         - PAGE: diesel_soot
           name: "Diesel soot"
           data: "other/soots/diesel soot/Querry-NMSU.yml"
-
