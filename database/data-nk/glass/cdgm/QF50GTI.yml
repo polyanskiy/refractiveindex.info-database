@@ -6,7 +6,7 @@ REFERENCES: "<a href=\"https://refractiveindex.info/download/data/2022/CDGM-ZEMA
 COMMENTS: "i line glass"
 DATA:
   - type: formula 2 
-    range: 0.313 2.325
+    wavelength_range: 0.313 2.325
     coefficients: 0 1.31145759 0.00988576985 0.840047425 102.880258 0.132407269 0.047752793
   - type: tabulated k
     data: |

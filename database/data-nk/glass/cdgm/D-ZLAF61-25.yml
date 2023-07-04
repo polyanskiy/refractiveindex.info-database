@@ -6,7 +6,7 @@ REFERENCES: "<a href=\"https://refractiveindex.info/download/data/2022/CDGM-ZEMA
 COMMENTS: "anneal rate:25°C/h"
 DATA:
   - type: formula 2 
-    range: 0.365 2.325
+    wavelength_range: 0.365 2.325
     coefficients: 0 0.384732155 0.0355326885 1.8424092 0.00916902591 1.21280764 95.9091697
   - type: tabulated k
     data: |
