@@ -2,7 +2,7 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "H. U. Yang, J. D'Archangel, M. L. Sundheimer, E. Tucker, G. D. Boreman, M. B. Raschke. Optical dielectric function of silver, <a href=\"https://doi.org/10.1103/PhysRevB.91.235137\"><i>Phys. Rev. B</i> <b>91</b>, 235137 (2015)</a> (see Supplemental Material for numerical data; data taken from 'Ag_C_corrected.csv')"
+REFERENCES: "H. U. Yang, J. D'Archangel, M. L. Sundheimer, E. Tucker, G. D. Boreman, M. B. Raschke. Optical dielectric function of silver, <a href=\"https://doi.org/10.1103/PhysRevB.91.235137\"><i>Phys. Rev. B</i> <b>91</b>, 235137 (2015)</a> (See Supplemental Material. Data taken from 'Ag_C_corrected.csv'.)"
 COMMENTS: "Template-stripped silver"
 DATA:
   - type: tabulated nk

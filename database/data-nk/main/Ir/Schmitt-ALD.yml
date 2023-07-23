@@ -2,7 +2,7 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "P. Schmitt, N. Felde, T. Doehring, M. Stollenwerk, I. Uschmann, K. Hanemann, M. Siegler, G. Klemm, N. Gratzke, A. Tuennermann, S. Schwinde, S. Schroeder, A. Szeghalmi. Optical, structural, and functional properties of highly reflective and stable iridium mirror coatings for infrared applications, <a href=\"https://doi.org/10.1364/OME.447306\"><i>Opt. Mater. Express</i> <b>12</b>, 545-559 (2022)</a><br>(See supplementary materials for numerical data. High-resolution data kindly provided by Paul Schmitt.)"
+REFERENCES: "P. Schmitt, N. Felde, T. Doehring, M. Stollenwerk, I. Uschmann, K. Hanemann, M. Siegler, G. Klemm, N. Gratzke, A. Tuennermann, S. Schwinde, S. Schroeder, A. Szeghalmi. Optical, structural, and functional properties of highly reflective and stable iridium mirror coatings for infrared applications, <a href=\"https://doi.org/10.1364/OME.447306\"><i>Opt. Mater. Express</i> <b>12</b>, 545-559 (2022)</a> (See supplementary materials. High-resolution data kindly provided by Paul Schmitt.)"
 COMMENTS: "Iridium coating deposited by atomic layer deposition (ALD)."
 DATA:
   - type: tabulated nk

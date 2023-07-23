@@ -2,7 +2,7 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "F. Cheng, P.-H. Su, J. Choi, S. Gwo, X. Li, C.-K. Shih. Epitaxial growth of atomically smooth aluminum on silicon and its intrinsic optical properties, <a href=\"https://doi.org/10.1021/acsnano.6b05556\"><i>ACS Nano</i> <b>10</b>, 9852-9860 (2016)</a><br>(see supporting information for numerical data)"
+REFERENCES: "F. Cheng, P.-H. Su, J. Choi, S. Gwo, X. Li, C.-K. Shih. Epitaxial growth of atomically smooth aluminum on silicon and its intrinsic optical properties, <a href=\"https://doi.org/10.1021/acsnano.6b05556\"><i>ACS Nano</i> <b>10</b>, 9852-9860 (2016)</a> (See supporting information)"
 COMMENTS: "Epitaxially grown Al film, dielectric constants for room temperature"
 DATA:
   - type: tabulated nk

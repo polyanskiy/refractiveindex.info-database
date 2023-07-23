@@ -2,7 +2,7 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "Y. Jiang, S. Pillai, M. A. Green. Realistic silver optical constants for plasmonics, <a href=\"https://doi.org/10.1038/srep30605\"><i>Sci. Rep.</i> <b>6</b>, 30605 (2016)</a><br>(see supplementary materials for numerical data)"
+REFERENCES: "Y. Jiang, S. Pillai, M. A. Green. Realistic silver optical constants for plasmonics, <a href=\"https://doi.org/10.1038/srep30605\"><i>Sci. Rep.</i> <b>6</b>, 30605 (2016)</a> (See supplementary materials)"
 COMMENTS: "Improved dataset representative of overlayer-protected, freshly deposited and annealed Ag films on silicon-nitride and glass. Room temperature."
 DATA:
   - type: tabulated nk

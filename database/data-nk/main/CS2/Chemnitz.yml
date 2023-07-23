@@ -2,7 +2,7 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "M. Chemnitz, M. Gebhardt, C. Gaida, F. Stutzki, J. Kobelke, J. Limpert, A. Tünnermann, M. A. Schmidt. Hybrid soliton dynamics in liquid-core fibres, <a href=\"https://doi.org/10.1038/s41467-017-00033-5\"><i>Nat. Commun.</i> <b>8</b>, 42 (2017)</a><br>(see Supplementary information for details)"
+REFERENCES: "M. Chemnitz, M. Gebhardt, C. Gaida, F. Stutzki, J. Kobelke, J. Limpert, A. Tünnermann, M. A. Schmidt. Hybrid soliton dynamics in liquid-core fibres, <a href=\"https://doi.org/10.1038/s41467-017-00033-5\"><i>Nat. Commun.</i> <b>8</b>, 42 (2017)</a> (See Supplementary information)"
 COMMENTS: "20 °C."
 DATA:
   - type: formula 1

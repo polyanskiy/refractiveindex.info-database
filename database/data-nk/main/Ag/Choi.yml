@@ -2,7 +2,7 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "J. Choi, F. Cheng, J. W. Cleary, L. Sun, C. K. Dass, J. R. Hendrickson, C.-Y. Wang, S. Gwo, C.-K. Shih, X. Li. Optical dielectric constants of single crystalline silver films in the long wavelength range, <a href=\"https://www.osapublishing.org/ome/abstract.cfm?uri=ome-10-2-693\"><i>Opt. Mater. Express</i> <b>10</b>, 693-703 (2020)</a><br>(see supplementary materials for numerical data)"
+REFERENCES: "J. Choi, F. Cheng, J. W. Cleary, L. Sun, C. K. Dass, J. R. Hendrickson, C.-Y. Wang, S. Gwo, C.-K. Shih, X. Li. Optical dielectric constants of single crystalline silver films in the long wavelength range, <a href=\"https://www.osapublishing.org/ome/abstract.cfm?uri=ome-10-2-693\"><i>Opt. Mater. Express</i> <b>10</b>, 693-703 (2020)</a> (See supplementary materials)"
 COMMENTS: "Epitaxially grown, atomically smooth, single crystalline thick Ag film. Room temperature."
 DATA:
   - type: tabulated nk

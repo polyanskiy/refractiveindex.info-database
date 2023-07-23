@@ -2,7 +2,7 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "B. Song, F. Liu, H. Wang, J. Miao, Y. Chen, P. Kumar, H. Zhang, X. Liu, H. Gu, E. A. Stach, X. Liang, S. Liu, Z. Fakhraai, D. Jariwala. Giant gate-tunability of complex refractive index in semiconducting carbon nanotubes, <a href=\"https://doi.org/10.1021/acsphotonics.0c01220\"><i>ACS Photonics</i> <b>7</b>, 2896-2905 (2020)</a><br>(see Supporting information for details)"
+REFERENCES: "B. Song, F. Liu, H. Wang, J. Miao, Y. Chen, P. Kumar, H. Zhang, X. Liu, H. Gu, E. A. Stach, X. Liang, S. Liu, Z. Fakhraai, D. Jariwala. Giant gate-tunability of complex refractive index in semiconducting carbon nanotubes, <a href=\"https://doi.org/10.1021/acsphotonics.0c01220\"><i>ACS Photonics</i> <b>7</b>, 2896-2905 (2020)</a> (See Supporting information)"
 COMMENTS: "Carbon nanotubes. High-pressure carbon monoxide (HiPco) grown semiconducting single wall carbon nanotube (s-SWCNT) film on Si/SiO<sub>2</sub> substrate."
 DATA:
   - type: tabulated nk
