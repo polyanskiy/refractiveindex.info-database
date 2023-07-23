@@ -2258,10 +2258,20 @@
         - PAGE: Bodurov
           name: "Bodurov et al. 2016: Nanoparticles; n 0.405–0.635 µm"
           data: "main/TiO2/Bodurov.yml"
+    - BOOK: VO2
+      name: "VO2 (Vanadium dioxide)"
+      info: "main/VO2.html"
+      content:
+        - PAGE: Beaini-25C
+          name: "Beaini et al. 2020: n,k 0.5–25 µm; 25 °C"
+          data: "main/VO2/Beaini-25C.yml"
+        - PAGE: Beaini-100C
+          name: "Beaini et al. 2020: n,k 0.5–25 µm; 100 °C"
+          data: "main/VO2/Beaini-100C.yml"
     - BOOK: WO3
       name: "WO3 (Tungsten trioxide)"
       info: "main/WO3.html"
-      content:      
+      content:
         - PAGE: Kulikova
           name: "Kulikova et al. 2020: n,k 0.3–1.0 µm"
           data: "main/WO3/Kulikova.yml"

@@ -1,5 +1,8 @@
 ﻿============================== Next release ==============================
 
+  new data
+    main/VO2/Beaini-25C.yml
+    main/VO2/Beaini-100C.yml
   new data (thanks to Jan Suffczyński, University of Warsaw, Poland, for submitting data!)
     main/ScAlMgO4/Stefaniuk-o.yml
     main/ScAlMgO4/Stefaniuk-e.yml
