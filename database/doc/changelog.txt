@@ -1,5 +1,8 @@
 ﻿============================== Next release ==============================
 
+  new data (thanks to Jan Suffczyński, University of Warsaw, Poland, for submitting data!)
+    main/ScAlMgO4/Stefaniuk-o.yml
+    main/ScAlMgO4/Stefaniuk-e.yml
   new data (thanks to Osamu Takayama, Technical University of Denmark, Lyngby, Denmark, for submitting data!)
     main/Al2O3/Zhukovsky.yml
     main/TiO2/Zhukovsky.yml
@@ -59,6 +62,7 @@
     update CDGM glass data
     SiN data from 'other/anti-reflective coatings/SiN' moved to 'main/Si3N4'
     Start working on n2 database
+    Rename "library*.yml" to "catalog*.yml"
 
 
 ============================== 2022-10-01 ==============================
