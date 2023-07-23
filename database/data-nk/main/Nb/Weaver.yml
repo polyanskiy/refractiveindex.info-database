@@ -2,7 +2,7 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "J. H. Weaver, D. W. Lynch, C. G. Olson. Optical properties of niobium from 0.1 to 36.4 eV, <a href=\"https://doi.org/10.1103/PhysRevB.7.4311\"><i>Phys. Rev. B</i> <b>7</b>, 4311-4318 (1973)</a><br>(data points extracted from a figure)"
+REFERENCES: "J. H. Weaver, D. W. Lynch, C. G. Olson. Optical properties of niobium from 0.1 to 36.4 eV, <a href=\"https://doi.org/10.1103/PhysRevB.7.4311\"><i>Phys. Rev. B</i> <b>7</b>, 4311-4318 (1973)</a> (Data points extracted from a figure)"
 DATA:
   - type: tabulated nk
     data: |

@@ -2,7 +2,7 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "C.-W. Chen, S.-Y. Hsiao, C.-Y. Chen, H.-W. Kang, Z.-Y. Huang,  H.-W. Lin. Optical properties of organometal halide perovskite thin films and general device structure design rules for perovskite single and tandem solar cells, <a href=\"https://doi.org/10.1039/C4TA05237D\"><i>J. Mater. Chem. A</i> <b>3</b>, 9152-9159 (2015)</a><br>(Data points extracted from Supplementary materials, Figure S2)"
+REFERENCES: "C.-W. Chen, S.-Y. Hsiao, C.-Y. Chen, H.-W. Kang, Z.-Y. Huang,  H.-W. Lin. Optical properties of organometal halide perovskite thin films and general device structure design rules for perovskite single and tandem solar cells, <a href=\"https://doi.org/10.1039/C4TA05237D\"><i>J. Mater. Chem. A</i> <b>3</b>, 9152-9159 (2015)</a> (Data points extracted from Supplementary materials, Figure S2)"
 COMMENTS: "PEDOT:PSS (Clevios AI 4083) thin film."
 DATA:
   - type: tabulated n

@@ -2,7 +2,7 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "L.-Y. Chen, D. W. Lynch. The optical properties of AuAl<sub>2</sub> and PtAl<sub>2</sub>, <a href=\"https://doi.org/10.1002/pssb.2221480136\"><i>Phys. Status Solidi B</i> <b>148</b>, 387-394 (1988)</a><br>(data points extracted from a figure)"
+REFERENCES: "L.-Y. Chen, D. W. Lynch. The optical properties of AuAl<sub>2</sub> and PtAl<sub>2</sub>, <a href=\"https://doi.org/10.1002/pssb.2221480136\"><i>Phys. Status Solidi B</i> <b>148</b>, 387-394 (1988)</a> (Data points extracted from a figure)"
 COMMENTS: "Bulk sample. Room temperature."
 DATA:
   - type: tabulated nk

@@ -2,7 +2,7 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "M. E. Lin, B. N. Sverdlov, S. Strite, H. Morkoç, A. E. Drakin. Refractive indices of wurtzite and zincblende GaN, <a href=\"https://doi.org/10.1049/el:19931172\"><i>Electron. Lett.</i> <b>29</b>, 1759-1760 (1993)</a><br>(data points extracted from a figure)"
+REFERENCES: "M. E. Lin, B. N. Sverdlov, S. Strite, H. Morkoç, A. E. Drakin. Refractive indices of wurtzite and zincblende GaN, <a href=\"https://doi.org/10.1049/el:19931172\"><i>Electron. Lett.</i> <b>29</b>, 1759-1760 (1993)</a> (Data points extracted from a figure)"
 COMMENTS: "Zincblend GaN film grown on GaAs substrate by plasma-enhanced molecular beam epitaxy."
 DATA:
   - type: tabulated n

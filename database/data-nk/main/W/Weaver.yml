@@ -2,7 +2,7 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "J. H. Weaver, C. G. Olson, D. W. Lynch. Optical properties of crystalline tungsten, <a href=\"https://doi.org/10.1103/PhysRevB.12.1293\"><i>Phys. Rev. B</i> <b>12</b>, 1293-1297 (1975)</a><br>(data points extracted from a figure)"
+REFERENCES: "J. H. Weaver, C. G. Olson, D. W. Lynch. Optical properties of crystalline tungsten, <a href=\"https://doi.org/10.1103/PhysRevB.12.1293\"><i>Phys. Rev. B</i> <b>12</b>, 1293-1297 (1975)</a> (Data points extracted from a figure)"
 DATA:
   - type: tabulated nk
     data: |
