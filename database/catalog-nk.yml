@@ -2138,6 +2138,16 @@
         - PAGE: Arndt
           name: "Arndt et al. 1984: n 0.40–0.75 µm"
           data: "main/Sc2O3/Arndt.yml"
+    - BOOK: ScAlMgO4
+      name: "ScAlMgO<sub>4</sub> (Magnesium aluminate scandium oxide, SAM, SCAM)"
+      info: "main/ScAlMgO4.html"
+      content:
+        - PAGE: Stefaniuk-o
+          name: "Stefaniuk et al. 2023: n,k(o) 0.193–1.690 µm"
+          data: "main/ScAlMgO4/Stefaniuk-o.yml"
+        - PAGE: Stefaniuk-e
+          name: "Stefaniuk et al. 2023: n,k(e) 0.193–1.690 µm"
+          data: "main/ScAlMgO4/Stefaniuk-e.yml"
     - BOOK: SiO
       name: "SiO (Silicon monoxide)"
       info: "main/SiO.html"

@@ -36,7 +36,7 @@ n2 = []
 current_file_path = os.path.abspath(__file__)
 db_path = os.path.dirname(os.path.dirname(current_file_path))
 
-lib_path = os.path.join(db_path, "library-n2.yml")
+lib_path = os.path.join(db_path, "catalog-n2.yml")
 library = yaml.safe_load(open(lib_path, "r", encoding="utf-8").read())
 
 fig, ax = plt.subplots()
