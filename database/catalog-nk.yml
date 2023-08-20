@@ -110,6 +110,52 @@
         - PAGE: Rakic-LD
           name: "Rakić et al. 1998: Lorentz-Drude model; n,k 0.0620–248 µm"
           data: "main/Al/Rakic-LD.yml"
+    - BOOK: BeAl2O4
+      name: "BeAl<sub>2</sub>O<sub>4</sub> (Beryllium aluminate, chrysoberyl)"
+      info: "main/BeAl2O4.html"
+      content:
+        - PAGE: Walling-α
+          name: "Walling et al. 1980: n(α) 0.25–2.6 µm"
+          data: "main/BeAl2O4/Walling-alpha.yml"
+        - PAGE: Walling-β
+          name: "Walling et al. 1980: n(β) 0.25–2.6 µm"
+          data: "main/BeAl2O4/Walling-beta.yml"
+        - PAGE: Walling-γ
+          name: "Walling et al. 1980: n(γ) 0.25–2.6 µm"
+          data: "main/BeAl2O4/Walling-gamma.yml"
+    - BOOK: BeAl6O10
+      name: "BeAl<sub>6</sub>O<sub>10</sub> (Beryllium hexaaluminate, BHA)"
+      info: "main/BeAl6O10.html"
+      content:
+        - PAGE: Pestryakov-α
+          name: "Pestryakov et al. 1997: n(α) 0.43–1.1 µm"
+          data: "main/BeAl6O10/Pestryakov-alpha.yml"
+        - PAGE: Pestryakov-β
+          name: "Pestryakov et al. 1997: n(β) 0.43–1.1 µm"
+          data: "main/BeAl6O10/Pestryakov-beta.yml"
+        - PAGE: Pestryakov-γ
+          name: "Pestryakov et al. 1997: n(γ) 0.43–1.1 µm"
+          data: "main/BeAl6O10/Pestryakov-gamma.yml"
+    - BOOK: CaGdAlO4
+      name: "CaGdAlO<sub>4</sub> (Calcium gadolinium aluminate, CALGO)"
+      info: "main/CaGdAlO4.html"
+      content:
+        - PAGE: Loiko-o
+          name: "Loiko et al. 2017: n(o) 0.35–2.1 µm"
+          data: "main/CaGdAlO4/Loiko-o.yml"
+        - PAGE: Loiko-e
+          name: "Loiko et al. 2017: n(e) 0.35–2.1 µm"
+          data: "main/CaGdAlO4/Loiko-e.yml"
+    - BOOK: CaYAlO4
+      name: "CaYAlO<sub>4</sub> (Calcium yttrium aluminate, CALYO)"
+      info: "main/CaYAlO4.html"
+      content:
+        - PAGE: Loiko-o
+          name: "Loiko et al. 2017: n(o) 0.35–2.1 µm"
+          data: "main/CaYAlO4/Loiko-o.yml"
+        - PAGE: Loiko-e
+          name: "Loiko et al. 2017: n(e) 0.35–2.1 µm"
+          data: "main/CaYAlO4/Loiko-e.yml"
     - BOOK: Lu3Al5O12
       name: "Lu<sub>3</sub>Al<sub>5</sub>O<sub>12</sub> (Lutetium aluminium garnet, LuAG)"
       info: "main/Lu3Al5O12.html"

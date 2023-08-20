@@ -1,8 +1,10 @@
 ﻿============================== Next release ==============================
 
-  new data
-    main/VO2/Beaini-25C.yml
-    main/VO2/Beaini-100C.yml
+  new data (thanks to Dr. Jonas Heidrich, Menhir Photonics AG, Glattbrugg, Switzerland, for suggesting data!)
+    main/CaGdAlO4/Loiko-o.yml
+    main/CaGdAlO4/Loiko-e.yml
+    main/CaYAlO4/Loiko-o.yml
+    main/CaYAlO4/Loiko-e.yml
   new data (thanks to Jan Suffczyński, University of Warsaw, Poland, for submitting data!)
     main/ScAlMgO4/Stefaniuk-o.yml
     main/ScAlMgO4/Stefaniuk-e.yml
@@ -14,10 +16,6 @@
     glass/lzos/K108/Bassarab.yml
   new data (thanks to Kristupas Tikuišis, Charles University, Prague, Czech Republic, for submitting data in YAML format!)
     main/C/Tikuisis.yml
-  new data
-    glass/misc/BGG/Zelmon.yml
-    main/LiIO3/Umegaki-o.yml
-    main/LiIO3/Umegaki-e.yml
   new data (thanks to Yago Arosa Lobato, Universidade de Santiago de Compostela, Spain!)
     main/SiO2/Arosa.yml
   new data (thanks to Georgy Ermolaev, Moscow Institute of Physics and Technology, Russia, for submitting data in YAML format!)
@@ -61,6 +59,18 @@
     main/Nb2O5/Horcholle-800.yml
     main/TiO2/Jolivet-anatase.yml
     main/TiO2/Jolivet-amorphous.yml
+  new data
+    main/BeAl6O10/Pestryakov-alpha.yml
+    main/BeAl6O10/Pestryakov-beta.yml
+    main/BeAl6O10/Pestryakov-gamma.yml
+    main/BeAl2O4/Walling-alpha.yml
+    main/BeAl2O4/Walling-beta.yml
+    main/BeAl2O4/Walling-gamma.yml
+    main/VO2/Beaini-25C.yml
+    main/VO2/Beaini-100C.yml
+    glass/misc/BGG/Zelmon.yml
+    main/LiIO3/Umegaki-o.yml
+    main/LiIO3/Umegaki-e.yml
   miscellaneous
     update CDGM glass data
     SiN data from 'other/anti-reflective coatings/SiN' moved to 'main/Si3N4'
