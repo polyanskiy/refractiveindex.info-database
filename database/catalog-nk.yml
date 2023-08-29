@@ -275,6 +275,9 @@
         - PAGE: Aspnes
           name: "Aspnes et al. 1986: n,k 0.207–0.827 µm"
           data: "main/GaAs/Aspnes.yml"
+        - PAGE: Perner
+          name: "Perner et al. 2023: n 2.0–7.1 µm"
+          data: "main/GaAs/Perner.yml"
         - PAGE: Papatryfonos
           name: "Papatryfonos et al. 2021: n,k 0.260–1.88 µm"
           data: "main/GaAs/Papatryfonos.yml"
@@ -11052,6 +11055,12 @@
         - PAGE: Aspnes-80.4
           name: "Aspnes et al. 1986: n,k 0.207–0.827 µm; 80.4% Al"
           data: "other/semiconductor alloys/AlAs-GaAs/Aspnes-80.4.yml"
+        - PAGE: Perner-0
+          name: "Perner et al. 2023: n 2.0–7.1 µm; 0% Al"
+          data: "other/semiconductor alloys/AlAs-GaAs/Perner-0.yml"
+        - PAGE: Perner-92.9
+          name: "Perner et al. 2023: n 2.0–7.1 µm; 92.9% Al"
+          data: "other/semiconductor alloys/AlAs-GaAs/Perner-92.9.yml"
         - PAGE: Papatryfonos-0
           name: "Papatryfonos et al. 2021: n,k 0.260–1.88 µm; 0% Al"
           data: "other/semiconductor alloys/AlAs-GaAs/Papatryfonos-0.yml"
@@ -11077,9 +11086,6 @@
         - PAGE: Adachi-0.700
           name: "Adachi 1989: n,k 0.207–12.4 µm; 70.0% Al"
           data: "other/semiconductor alloys/AlAs-GaAs/Adachi-0.700.yml"
-        - PAGE: Perner
-          name: "Perner et al. 2023: n 2.0–7.1 µm; 92.9% Al"
-          data: "other/semiconductor alloys/AlAs-GaAs/Perner.yml"
     - BOOK: AlSb-GaSb
       name: "AlSb-GaSb (Aluminium gallium antimonide, AlGaSb)"
       info: "other/AlSb-GaSb.html"
