@@ -11077,6 +11077,9 @@
         - PAGE: Adachi-0.700
           name: "Adachi 1989: n,k 0.207–12.4 µm; 70.0% Al"
           data: "other/semiconductor alloys/AlAs-GaAs/Adachi-0.700.yml"
+        - PAGE: Perner
+          name: "Perner et al. 2023: n 2.0–7.1 µm; 92.9% Al"
+          data: "other/semiconductor alloys/AlAs-GaAs/Perner.yml"
     - BOOK: AlSb-GaSb
       name: "AlSb-GaSb (Aluminium gallium antimonide, AlGaSb)"
       info: "other/AlSb-GaSb.html"

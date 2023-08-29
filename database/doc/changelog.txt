@@ -1,5 +1,7 @@
 ﻿============================== Next release ==============================
 
+  new data (thanks to Lukas Perner, Universität Wien, Austria, for submitting data in YAML format!)
+    other/semiconductor alloys/AlAs-GaAs/Perner.yml
   new data (thanks to Dr. Jonas Heidrich, Menhir Photonics AG, Glattbrugg, Switzerland, for suggesting data!)
     main/CaGdAlO4/Loiko-o.yml
     main/CaGdAlO4/Loiko-e.yml
