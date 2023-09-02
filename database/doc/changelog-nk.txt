@@ -1,5 +1,14 @@
 ﻿============================== Next release ==============================
 
+  new data (thanks to Isaac Oguntoye, Tulane University, New Orleans, LA , USA, for submitting data!)
+    main/VO2/Oguntoye-20C.yml
+    main/VO2/Oguntoye-30C.yml
+    main/VO2/Oguntoye-40C.yml
+    main/VO2/Oguntoye-50C.yml
+    main/VO2/Oguntoye-55C.yml
+    main/VO2/Oguntoye-60C.yml
+    main/VO2/Oguntoye-70C.yml
+    main/VO2/Oguntoye-80C.yml
   new data (thanks to Lukas Perner, Universität Wien, Austria, for submitting data in YAML format!)
     main/GaAs/Perner.yml
     other/semiconductor alloys/AlAs-GaAs/Perner-0.yml

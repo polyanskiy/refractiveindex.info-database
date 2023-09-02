@@ -2317,6 +2317,30 @@
         - PAGE: Beaini-100C
           name: "Beaini et al. 2020: n,k 0.5–25 µm; 100 °C"
           data: "main/VO2/Beaini-100C.yml"
+        - PAGE: Oguntoye-20C
+          name: "Oguntoye et al. 2023: n,k 0.21–2.5 µm; 20 °C"
+          data: "main/VO2/Oguntoye-20C.yml"
+        - PAGE: Oguntoye-30C
+          name: "Oguntoye et al. 2023: n,k 0.21–2.5 µm; 30 °C"
+          data: "main/VO2/Oguntoye-30C.yml"
+        - PAGE: Oguntoye-40C
+          name: "Oguntoye et al. 2023: n,k 0.21–2.5 µm; 40 °C"
+          data: "main/VO2/Oguntoye-40C.yml"
+        - PAGE: Oguntoye-50C
+          name: "Oguntoye et al. 2023: n,k 0.21–2.5 µm; 50 °C"
+          data: "main/VO2/Oguntoye-50C.yml"
+        - PAGE: Oguntoye-55C
+          name: "Oguntoye et al. 2023: n,k 0.21–2.5 µm; 55 °C"
+          data: "main/VO2/Oguntoye-55C.yml"
+        - PAGE: Oguntoye-60C
+          name: "Oguntoye et al. 2023: n,k 0.21–2.5 µm; 60 °C"
+          data: "main/VO2/Oguntoye-60C.yml"
+        - PAGE: Oguntoye-70C
+          name: "Oguntoye et al. 2023: n,k 0.21–2.5 µm; 70 °C"
+          data: "main/VO2/Oguntoye-70C.yml"
+        - PAGE: Oguntoye-80C
+          name: "Oguntoye et al. 2023: n,k 0.21–2.5 µm; 80 °C"
+          data: "main/VO2/Oguntoye-80C.yml"
     - BOOK: WO3
       name: "WO3 (Tungsten trioxide)"
       info: "main/WO3.html"
