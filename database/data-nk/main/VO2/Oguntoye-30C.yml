@@ -3,7 +3,7 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: "I. O. Oguntoye, S. Padmanabha, M. Hinkle, T. Koutsougeras, A. J. Ollanik, M. D. Escarra. Continuously tunable optical modulation using vanadium dioxide Huygens metasurfaces, <a href=\"https://doi.org/10.1021/acsami.3c08493\"><i>ACS Appl. Mater. Interfaces</i> <b>15</b>, 41141–41150 (2023)</a> (Numerical data kindly provided by Isaac Oguntoye)"
-COMMENTS: "~170 nm-thick VO<sub>2</sub> film on SiO<sub>2</sub> substrate. 30 °C."
+COMMENTS: "~209 nm-thick VO<sub>2</sub> film on SiO<sub>2</sub> substrate. 30 °C."
 DATA:
   - type: tabulated nk
     data: |
@@ -1052,5 +1052,5 @@ SPECS:
     n_is_absolute: true
     wavelength_is_vacuum: true
     temperature: 30 °C
-    film_thickness: 170e-9
+    film_thickness: 209e-9
     substrate: SiO2
