@@ -73,6 +73,9 @@
     main/TiO2/Jolivet-anatase.yml
     main/TiO2/Jolivet-amorphous.yml
   new data
+    main/LiGaS2/Kato-alpha.yml
+    main/LiGaS2/Kato-beta.yml
+    main/LiGaS2/Kato-gamma.yml
     main/BeAl6O10/Pestryakov-alpha.yml
     main/BeAl6O10/Pestryakov-beta.yml
     main/BeAl6O10/Pestryakov-gamma.yml

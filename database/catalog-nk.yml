@@ -2850,6 +2850,22 @@
         - PAGE: Kato-e
           name: "Kato et al. 2016: n(e) 0.633–10.6 µm"
           data: "main/HgGa2S4/Kato-e.yml"
+          
+    
+    - BOOK: LiGaS2
+      name: "LiGaS<sub>2</sub> (Lithium gallium sulfide, LGS)"
+      info: "main/LiGaS2.html"
+      content:
+        - PAGE: Kato-α
+          name: "Kato et al. 2017: n(α) 1.025–10.591 µm"
+          data: "main/LiGaS2/Kato-alpha.yml"
+        - PAGE: Kato-β
+          name: "Kato et al. 2017: n(β) 1.025–10.591 µm"
+          data: "main/LiGaS2/Kato-beta.yml"
+        - PAGE: Kato-γ
+          name: "Kato et al. 2017: n(γ) 1.025–10.591 µm"
+          data: "main/LiGaS2/Kato-gamma.yml"
+          
     - BOOK: MoS2
       name: "MoS<sub>2</sub> (Molybdenum disulfide)"
       info: "main/MoS2.html"
