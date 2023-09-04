@@ -3,13 +3,12 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: "G. Jansonas, R. Budriūnas, M. Vengris, A. Varanavičius. Interferometric measurements of nonlinear refractive index in the infrared spectral range, <a href=\"https://doi.org/10.1364/OE.458850\"><i>Opt. Express</i> <b>30</b>, 30507–30524 (2022)</a>"
-COMMENTS: "Polycrystalline ZnS. 230 fs, 170 fs and 190 fs at 1.03 μm, 2.2 μm and 3.2 μm, respectively. Fourier Interferometry."
+COMMENTS: "Single crystal GaSe (o). Polar angle (θ): 0°. Electric field was parallel to the X dielectric axis. 170 fs and 190 at 2.2 μm and 3.2 μm, respectively. Estimated Kerr values were 35.2e-19 and 34.7e-19 at 2.2 μm and 3.2 μm, respectively.  Fourier Interferometry."
 DATA:
   - type: tabulated n2
     data: |
-        1.03 6.8e-19
-        2.2 7.4e-19
-        3.2 6.0e-19
+        2.2 21.4e-19
+        3.2 7.1e-19
 SPECS:
     n2_method: FI
-    pulse_duration: 230e-15 170e-15 190e-15
+    pulse_duration: 170e-15 190e-15
