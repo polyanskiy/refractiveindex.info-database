@@ -1,5 +1,13 @@
 ﻿============================== Next release ==============================
 
+  new data (thanks to Yongjin Sung, University of Wisconsin-Milwaukee, USA, for submitting data!)
+   main/SiO2/Nyakuchena.yml
+   glass/misc/soda-lime/Nyakuchena.yml
+   organic/(C5H8O2)n - poly(methyl methacrylate)/Nyakuchena.yml
+   organic/(C8H8)n - polystyren/Nyakuchena.yml
+   organic/C3H8O3 - glycerol/Nyakuchena.yml
+   other/microscopy mounting media/Eukitt/Nyakuchena.yml
+   other/microscopy mounting media/FluorSave/Nyakuchena.yml
   new data (thanks to Isaac Oguntoye, Tulane University, New Orleans, LA , USA, for submitting data!)
     main/VO2/Oguntoye-20C.yml
     main/VO2/Oguntoye-30C.yml

@@ -2215,6 +2215,9 @@
         - PAGE: Malitson
           name: "Malitson 1965: Fused silica; n 0.21–6.7 µm"
           data: "main/SiO2/Malitson.yml"
+        - PAGE: Nyakuchena
+          name: "Nyakuchena et al. 2023: n 1.10–1.65 µm"
+          data: "main/SiO2/Nyakuchena.yml"
         - PAGE: Arosa
           name: "Arosa and de la Fuente 2020: Fused silica; n 0.26–1.7 µm"
           data: "main/SiO2/Arosa.yml"
@@ -2850,8 +2853,6 @@
         - PAGE: Kato-e
           name: "Kato et al. 2016: n(e) 0.633–10.6 µm"
           data: "main/HgGa2S4/Kato-e.yml"
-          
-    
     - BOOK: LiGaS2
       name: "LiGaS<sub>2</sub> (Lithium gallium sulfide, LGS)"
       info: "main/LiGaS2.html"
@@ -2865,7 +2866,6 @@
         - PAGE: Kato-γ
           name: "Kato et al. 2017: n(γ) 1.025–10.591 µm"
           data: "main/LiGaS2/Kato-gamma.yml"
-          
     - BOOK: MoS2
       name: "MoS<sub>2</sub> (Molybdenum disulfide)"
       info: "main/MoS2.html"
@@ -4233,6 +4233,9 @@
         - PAGE: Rheims
           name: "Rheims et al. 1997: n 0.589–1.05 µm"
           data: "organic/C3H8O3 - glycerol/Rheims.yml"
+        - PAGE: Nyakuchena
+          name: "Nyakuchena et al. 2023: n 1.10–1.65 µm"
+          data: "organic/C3H8O3 - glycerol/Nyakuchena.yml"
         - PAGE: Gupta
           name: "Gupta et al. 2022: n 0.40–0.71 µm"
           data: "organic/C3H8O3 - glycerol/Gupta.yml"
@@ -4613,6 +4616,9 @@
         - PAGE: Sultanova
           name: "Sultanova et al. 2009: n 0.437–1.052 µm"
           data: "organic/(C5H8O2)n - poly(methyl methacrylate)/Sultanova.yml"
+        - PAGE: Nyakuchena
+          name: "Nyakuchena et al. 2023: n 1.10–1.65 µm"
+          data: "organic/(C5H8O2)n - poly(methyl methacrylate)/Nyakuchena.yml"
         - PAGE: Zhang-Tomson
           name: "Zhang et al. 2020: Tomson; n,k 0.4–20 µm"
           data: "organic/(C5H8O2)n - poly(methyl methacrylate)/Zhang-Tomson.yml"
@@ -4672,6 +4678,9 @@
         - PAGE: Sultanova
           name: "Sultanova et al. 2009: n 0.437–1.05 µm"
           data: "organic/(C8H8)n - polystyren/Sultanova.yml"
+        - PAGE: Nyakuchena
+          name: "Nyakuchena et al. 2023: n 1.10–1.65 µm"
+          data: "organic/(C8H8)n - polystyren/Nyakuchena.yml"
         - PAGE: Zhang
           name: "Zhang et al. 2020: n,k 0.4–20 µm"
           data: "organic/(C8H8)n - polystyren/Zhang.yml"
@@ -4896,6 +4905,9 @@
         - PAGE: Rubin-IR
           name: "Rubin 1985: Far-infared; n,k 5–300 µm"
           data: "glass/misc/soda-lime/Rubin-IR.yml"
+        - PAGE: Nyakuchena
+          name: "Nyakuchena et al. 2023: n 1.10–1.65 µm"
+          data: "glass/misc/soda-lime/Nyakuchena.yml"
         - PAGE: Vogt-5ppm
           name: "Vogt et al. 2016: 5 ppm Fe2O3; n,k 0.30–1.69 µm"
           data: "glass/misc/soda-lime/Vogt-5ppm.yml"
@@ -11831,6 +11843,21 @@
         - PAGE: Iezzi
           name: "Iezzi et al. 2020: n 0.300–1.00 µm"
           data: "other/optical adhesives/NOA-1348/Iezzi.yml"
+    - DIVIDER: "Microscopy mounting media"
+    - BOOK: Eukitt
+      name: "Eukitt"
+      info: "other/microscopy mounting media.html"
+      content:
+        - PAGE: Nyakuchena
+          name: "Nyakuchena et al. 2023: n 1.10–1.65 µm"
+          data: "other/microscopy mounting media/Eukitt/Nyakuchena.yml"
+    - BOOK: FluorSave
+      name: "FluorSave"
+      info: "other/microscopy mounting media.html"
+      content:
+        - PAGE: Nyakuchena
+          name: "Nyakuchena et al. 2023: n 1.10–1.65 µm"
+          data: "other/microscopy mounting media/FluorSave/Nyakuchena.yml"
     - DIVIDER: "Resists"
     - BOOK: pmma_resists
       name: "PMMA resists"
