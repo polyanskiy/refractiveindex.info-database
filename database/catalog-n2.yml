@@ -31,7 +31,7 @@
           name: "Adair et al. 1989"
           data: "main/MgAl2O4/Adair.yml"
     - BOOK: YAlO3
-      name: "YAlO<sub>3</sub> (Yttrium orthoaluminate)"
+      name: "YAlO<sub>3</sub> (Yttrium orthoaluminate, YAP)"
       info: "main/YAlO3.html"
       content:
         - PAGE: Adair
