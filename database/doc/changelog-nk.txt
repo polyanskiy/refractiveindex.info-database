@@ -81,6 +81,20 @@
     main/TiO2/Jolivet-anatase.yml
     main/TiO2/Jolivet-amorphous.yml
   new data
+    main/ZnS/Bond.yml
+    main/SrTiO3/Bond.yml
+    main/Y3Al5O12/Bond.yml
+    main/TiO2/Bond-o.yml
+    main/TiO2/Bond-e.yml
+    main/CdSe/Bond-o.yml
+    main/CdSe/Bond-e.yml
+    main/LiTaO3/Bond-o.yml
+    main/LiTaO3/Bond-e.yml
+    main/AlPO4/Bond-o.yml
+    main/AlPO4/Bond-e.yml
+    main/ZnWO4/Bond-alpha.yml
+    main/ZnWO4/Bond-beta.yml
+    main/ZnWO4/Bond-gamma.yml
     main/LiGaS2/Kato-alpha.yml
     main/LiGaS2/Kato-beta.yml
     main/LiGaS2/Kato-gamma.yml

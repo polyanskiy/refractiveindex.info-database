@@ -180,6 +180,9 @@
         - PAGE: Hrabovsky
           name: "Hrabovský et al. 2021: n 0.193–1.69 µm"
           data: "main/Y3Al5O12/Hrabovsky.yml"
+        - PAGE: Bond
+          name: "Bond 1965: n 0.4–4.0 µm"
+          data: "main/Y3Al5O12/Bond.yml"
     - DIVIDER: "Ar - Argon"
     - BOOK: Ar
       name: "Ar (Argon)"
@@ -2282,11 +2285,17 @@
       content:
         - DIVIDER: "Crystal"
         - PAGE: Devore-o
-          name: "Devore 1951: Crystal; n(o) 0.43–1.53 µm"
+          name: "Devore 1951: n(o) 0.43–1.53 µm"
           data: "main/TiO2/Devore-o.yml"
         - PAGE: Devore-e
-          name: "Devore 1951: Crystal; n(e) 0.43–1.53 µm"
+          name: "Devore 1951: n(e) 0.43–1.53 µm"
           data: "main/TiO2/Devore-e.yml"
+        - PAGE: Bond-o
+          name: "Bond 1965: n(o) 0.45–2.4 µm"
+          data: "main/TiO2/Bond-o.yml"
+        - PAGE: Bond-e
+          name: "Bond 1965: n(e) 0.45–2.4 µm"
+          data: "main/TiO2/Bond-e.yml"
         - DIVIDER: "Thin film"
         - PAGE: Kischkat
           name: "Kischkat et al. 2012: Thin film; n,k 1.54–14.29 µm"
@@ -2418,6 +2427,16 @@
           name: "Nemoshkalenko et al. 1968: n,k(e) 0.25–8.0 µm"
           data: "main/Os/Nemoshkalenko-e.yml"
     - DIVIDER: "P - Phosphides and phosphates"
+    - BOOK: AlPO4
+      name: "AlPO<sub>4</sub> (Aluminium phosphate)"
+      info: "main/AlPO4.html"
+      content:
+        - PAGE: Bond-o
+          name: "Bond et al. 1965: n(o) 0.40–2.6 µm"
+          data: "main/AlPO4/Bond-o.yml"
+        - PAGE: Bond-e
+          name: "Bond et al. 1965: n(e) 0.40–2.6 µm"
+          data: "main/AlPO4/Bond-e.yml"
     - BOOK: BP
       name: "BP (Boron phosphide)"
       info: "main/BP.html"
@@ -3036,6 +3055,9 @@
         - PAGE: Querry
           name: "Querry 1987: n,k 0.220–167 µm"
           data: "main/ZnS/Querry.yml"
+        - PAGE: Bond
+          name: "Bond 1965: n 0.45–2.4 µm"
+          data: "main/ZnS/Bond.yml"
         - DIVIDER: "Thin film"
         - PAGE: Amotchkina
           name: "Amotchkina et al, 2020: n 0.4–14 µm, k 0.4–1.0 µm"
@@ -3204,6 +3226,12 @@
         - PAGE: Lisitsa-e
           name: "Lisitsa et al. 1969: n(e) 1.01–22.0 µm"
           data: "main/CdSe/Lisitsa-e.yml"
+        - PAGE: Bond-o
+          name: "Bond et al. 1965: n(o) 0.80–4.0 µm"
+          data: "main/CdSe/Bond-o.yml"
+        - PAGE: Bond-e
+          name: "Bond et al. 1965: n(e) 0.80–4.0 µm"
+          data: "main/CdSe/Bond-e.yml"
         - DIVIDER: "Models and simulations"
         - PAGE: Ninomiya-o
           name: "Ninomiya and Adachi 1995: n,k(o) 0.234–1.03 µm"
@@ -3569,6 +3597,16 @@
         - PAGE: Fujii
           name: "Fujii and Sakudo 1976: n 0.4–1.06 µm"
           data: "main/KTaO3/Fujii.yml"
+    - BOOK: LiTaO3
+      name: "LiTaO<sub>3</sub> (Lithium tantalate)"
+      info: "main/LiTaO3.html"
+      content:
+        - PAGE: Bond-o
+          name: "Bond et al. 1965: n(o) 0.45–4.0 µm"
+          data: "main/LiTaO3/Bond-o.yml"
+        - PAGE: Bond-e
+          name: "Bond et al. 1965: n(e) 0.45–4.0 µm"
+          data: "main/LiTaO3/Bond-e.yml"
     - DIVIDER: "Te - Tellurium and tellurides"
     - BOOK: Te
       name: "Te (Tellurium)"
@@ -3763,6 +3801,9 @@
         - PAGE: Dodge
           name: "Dodge 1986: n 0.43–3.8 µm"
           data: "main/SrTiO3/Dodge.yml"
+        - PAGE: Bond
+          name: "Bond 1965: n 0.45–3.8 µm"
+          data: "main/SrTiO3/Bond.yml"
     - DIVIDER: "Tm - Thulium"
     - BOOK: Tm
       name: "Tm (Thulium)"
@@ -3868,6 +3909,19 @@
         - PAGE: Bond-e
           name: "Bond 1965: n(e) 0.45–4.0 µm"
           data: "main/CaWO4/Bond-e.yml"
+    - BOOK: ZnWO4
+      name: "ZnWO<sub>4</sub> (Zinc tungstate)"
+      info: "main/ZnWO4.html"
+      content:
+        - PAGE: Bond-α
+          name: "Bond et al. 1965: n(α) 0.42–4.0 µm"
+          data: "main/ZnWO4/Bond-alpha.yml"
+        - PAGE: Bond-β
+          name: "Bond et al. 1965: n(β) 0.42–3.6 µm"
+          data: "main/ZnWO4/Bond-beta.yml"
+        - PAGE: Bond-γ
+          name: "Bond et al. 1965: n(γ) 0.42–3.6 µm"
+          data: "main/ZnWO4/Bond-gamma.yml"
     - DIVIDER: "Xe - Xenon"
     - BOOK: Xe
       name: "Xe (Xenon)"
