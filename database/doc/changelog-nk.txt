@@ -30,6 +30,7 @@
     main/ScAlMgO4/Stefaniuk-o.yml
     main/ScAlMgO4/Stefaniuk-e.yml
   new data (thanks to Osamu Takayama, Technical University of Denmark, Lyngby, Denmark, for submitting data!)
+    main/TiN/Beliaev.yml
     main/Al2O3/Zhukovsky.yml
     main/TiO2/Zhukovsky.yml
     main/Si3N4/Beliaev.yml

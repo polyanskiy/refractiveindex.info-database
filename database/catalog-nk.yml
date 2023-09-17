@@ -1766,6 +1766,9 @@
         - PAGE: Pfluger
           name: "Pflüger et al. 1984: n,k 0.031–2.48 µm"
           data: "main/TiN/Pfluger.yml"
+        - PAGE: Beliaev
+          name: "Beliaev et al. 2023: n,k 0.211-20.0 µm"
+          data: "main/TiN/Beliaev.yml"
         - PAGE: Schnabel
           name: "Schnabel et al. 2018: n,k 0.292–0.809 µm"
           data: "main/TiN/Schnabel.yml"
