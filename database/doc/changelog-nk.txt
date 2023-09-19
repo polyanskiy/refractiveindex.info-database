@@ -82,6 +82,7 @@
     main/TiO2/Jolivet-anatase.yml
     main/TiO2/Jolivet-amorphous.yml
   new data
+    glass/schott/BK7/Lane.yml
     main/ZnS/Bond.yml
     main/SrTiO3/Bond.yml
     main/Y3Al5O12/Bond.yml

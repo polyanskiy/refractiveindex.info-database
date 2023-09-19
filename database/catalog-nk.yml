@@ -4926,6 +4926,13 @@
           data: "glass/sumita/K-SFLD11.yml"
           info: "glass/SUMITA.html"
     - DIVIDER: "Optical glass with additional data"
+    - BOOK: BK7-Schott
+      name: "BK7 (Schott)"
+      info: "glass/BK7.html"
+      content:
+        - PAGE: Lane
+          name: "Lane 1990: n,k 5.00–33.3 µm"
+          data: "glass/schott/BK7/Lane.yml"
     - BOOK: K108-LZOS
       name: "K108 (LZOS)"
       content:
