@@ -1,4 +1,4 @@
-﻿============================== Next release ==============================
+﻿============================== 2023-10-04 ==============================
 
   new data (thanks to Gaudenis Jansonas, Vilnius University, Lithuania, for submitting data in YAML format!)
     main/ZnS/Jansonas.yml
@@ -21,4 +21,4 @@
     other/mixed crystals/TlBr-TlI/Jansonas.yml
     other/mixed crystals/SrNb2O6-BaNb2O6/Jansonas.yml
   miscellaneous
-    April 2023: start working on n2 database; adding first datasets 
+    April 2023: start working on n2 database; adding first datasets

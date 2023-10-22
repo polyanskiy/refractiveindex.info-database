@@ -11428,6 +11428,29 @@
         - PAGE: Shkondin
           name: "Shkondin et al. 2017: n,k 2–20 µm"
           data: "other/doped crystals/Al-ZnO/Shkondin.yml"
+    - DIVIDER: "Non-stoichiometric compounds"
+    - BOOK: Si-O
+      name: "Si-O (Non-stoichiometric silicon oxide)"
+      info: "other/Si-O.html"
+      content:
+        - PAGE: Herguedas-SiO0.31
+          name: "Herguedas and Carretero 2023: SiO0.31; n,k 5.0–25 µm"
+          data: "other/non-stoichiometric compounds/Si-O/Herguedas-SiO0.31.yml"
+        - PAGE: Herguedas-SiO0.61
+          name: "Herguedas and Carretero 2023: SiO0.61; n,k 5.0–25 µm"
+          data: "other/non-stoichiometric compounds/Si-O/Herguedas-SiO0.61.yml"
+        - PAGE: Herguedas-SiO1.10
+          name: "Herguedas and Carretero 2023: SiO1.10; n,k 5.0–25 µm"
+          data: "other/non-stoichiometric compounds/Si-O/Herguedas-SiO1.10.yml"
+        - PAGE: Herguedas-SiO1.71
+          name: "Herguedas and Carretero 2023: SiO1.71; n,k 5.0–25 µm"
+          data: "other/non-stoichiometric compounds/Si-O/Herguedas-SiO1.71.yml"
+        - PAGE: Herguedas-SiO1.89
+          name: "Herguedas and Carretero 2023: SiO1.89; n,k 5.0–25 µm"
+          data: "other/non-stoichiometric compounds/Si-O/Herguedas-SiO1.89.yml"
+        - PAGE: Herguedas-SiO1.92
+          name: "Herguedas and Carretero 2023: SiO1.92; n,k 5.0–25 µm"
+          data: "other/non-stoichiometric compounds/Si-O/Herguedas-SiO1.92.yml"
     - DIVIDER: "Miscellaneous crystalline minerals"
     - BOOK: franckeite
       name: "Franckeite"

@@ -1,4 +1,15 @@
-﻿============================== Next release ==============================
+﻿============================== NEXT RELEASE ==============================
+
+  new data (thanks to Natalia Herguedas, Universidad de Zaragoza, Spain, for submitting data in YAML format!)
+    other/nonstoichiometric films/Si-O/Herguedas-SiO0.31.yml
+    other/nonstoichiometric films/Si-O/Herguedas-SiO0.61.yml
+    other/nonstoichiometric films/Si-O/Herguedas-SiO1.10.yml
+    other/nonstoichiometric films/Si-O/Herguedas-SiO1.71.yml
+    other/nonstoichiometric films/Si-O/Herguedas-SiO1.89.yml
+    other/nonstoichiometric films/Si-O/Herguedas-SiO1.92.yml
+
+
+============================== 2023-10-04 ==============================
 
   new data (thanks to Yongjin Sung, University of Wisconsin-Milwaukee, USA, for submitting data!)
    main/SiO2/Nyakuchena.yml
