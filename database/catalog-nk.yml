@@ -2207,28 +2207,32 @@
       name: "SiO (Silicon monoxide)"
       info: "main/SiO.html"
       content:
-        - PAGE: Fernandez-Perea
-          name: "Fernandez-Perea et al. 2009: n,k 0.00155–0.177 µm"
-          data: "main/SiO/Fernandez-Perea.yml"
+        - DIVIDER: "Thin film"
         - PAGE: Hass
           name: "Hass and Salzberg 1954: n,k 0.24–14.0 µm"
           data: "main/SiO/Hass.yml"
+        - PAGE: Herguedas
+          name: "Herguedas and Carretero 2023: n,k 5.0–25 µm"
+          data: "other/non-stoichiometric compounds/Si-O/Herguedas-SiO1.10.yml"
+        - PAGE: Fernandez-Perea
+          name: "Fernandez-Perea et al. 2009: n,k 0.00155–0.177 µm"
+          data: "main/SiO/Fernandez-Perea.yml"
     - BOOK: SiO2
       name: "SiO<sub>2</sub> (Silicon dioxide, Silica, Quartz)"
       info: "main/SiO2.html"
       content:
         - DIVIDER: "Fused silica"
         - PAGE: Malitson
-          name: "Malitson 1965: Fused silica; n 0.21–6.7 µm"
+          name: "Malitson 1965: n 0.21–6.7 µm"
           data: "main/SiO2/Malitson.yml"
         - PAGE: Nyakuchena
           name: "Nyakuchena et al. 2023: n 1.10–1.65 µm"
           data: "main/SiO2/Nyakuchena.yml"
         - PAGE: Arosa
-          name: "Arosa and de la Fuente 2020: Fused silica; n 0.26–1.7 µm"
+          name: "Arosa and de la Fuente 2020: n 0.26–1.7 µm"
           data: "main/SiO2/Arosa.yml"
         - PAGE: Popova
-          name: "Popova et al. 1972: Fused silica; n,k 7–50 µm"
+          name: "Popova et al. 1972: n,k 7–50 µm"
           data: "main/SiO2/Popova.yml"
         - DIVIDER: "Crystal"
         - PAGE: Ghosh-o
@@ -2245,16 +2249,19 @@
           data: "main/SiO2/Radhakrishnan-e.yml"
         - DIVIDER: "Thin film"
         - PAGE: Kischkat
-          name: "Kischkat et al. 2012: Thin film; n,k 1.54–14.3 µm"
+          name: "Kischkat et al. 2012: n,k 1.54–14.3 µm"
           data: "main/SiO2/Kischkat.yml"
+        - PAGE: Herguedas
+          name: "Herguedas and Carretero 2023: n,k 5.0–25 µm"
+          data: "other/non-stoichiometric compounds/Si-O/Herguedas-SiO1.92.yml"
         - PAGE: Rodriguez-de_Marcos
-          name: "Rodríguez-de Marcos et al. 2016: Thin film; n,k 0.03–1.5 µm"
+          name: "Rodríguez-de Marcos et al. 2016: n,k 0.03–1.5 µm"
           data: "main/SiO2/Rodriguez-de Marcos.yml"
         - PAGE: Gao
-          name: "Gao et al. 2013: Thin film; n,k 0.252–1.25 µm"
+          name: "Gao et al. 2013: n,k 0.252–1.25 µm"
           data: "main/SiO2/Gao.yml"
         - PAGE: Lemarchand
-          name: "Lemarchand 2013: Thin film; n,k 0.25–2.5 µm"
+          name: "Lemarchand 2013: n,k 0.25–2.5 µm"
           data: "main/SiO2/Lemarchand.yml"
     - BOOK: Ta2O5
       name: "Ta<sub>2</sub>O<sub>5</sub> (Tantalum pentoxide)"
