@@ -4594,6 +4594,13 @@
         - PAGE: Rheims
           name: "Rheims et al. 1997: n 0.589–1.05 µm"
           data: "organic/C9H8O - cinnamaldehyde/Rheims.yml"
+    - BOOK: rhodamine_6g
+      name: "C<sub>28</sub>H<sub>31</sub>ClN<sub>2</sub>O<sub>3</sub> (Rhodamine 6G)"
+      info: "organic/rhodamine_6g.html"
+      content:
+        - PAGE: Seçkin
+          name: "Seçkin et al. 2023: n,k 0.193–1.69 µm"
+          data: "organic/C28H31ClN2O3 - Rhodamine 6G/Seçkin.yml"
     - DIVIDER: "Polymers"
     - BOOK: polyvinil_chloride
       name: "(C<sub>2</sub>H<sub>3</sub>Cl)<sub>n</sub> (Polyvinyl chloride, PVC)"
