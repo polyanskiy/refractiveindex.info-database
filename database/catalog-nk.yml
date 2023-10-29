@@ -3031,6 +3031,13 @@
       name: "WS<sub>2</sub> (Tungsten disulfide)"
       info: "main/WS2.html"
       content:
+        - DIVIDER: "Bulk"
+        - PAGE: Vyshnevyy-o
+          name: "Vyshnevyy et al. 2023: n,k(o) 0.36–1.70 µm"
+          data: "main/WS2/Vyshnevyy-o.yml"
+        - PAGE: Vyshnevyy-e
+          name: "Vyshnevyy et al. 2023: n,k(e) 0.36–1.70 µm"
+          data: "main/WS2/Vyshnevyy-e.yml"
         - DIVIDER: "2D structures"
         - PAGE: Jung
           name: "Jung et al. 2019: monolayer film; n,k 0.38–0.89 µm"
