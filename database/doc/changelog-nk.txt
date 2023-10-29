@@ -4,7 +4,7 @@
     main/WS2/Vyshnevyy-o.yml
     main/WS2/Vyshnevyy-e.yml
   new data (thanks to Tobias König, Leibniz-Institut für Polymerforschung Dresden, Germany, for submitting data!)
-    organic/C28H31ClN2O3 - Rhodamine 6G/Seçkin.yml
+    organic/C28H31ClN2O3 - Rhodamine 6G/Seckin.yml
   new data (thanks to Natalia Herguedas, Universidad de Zaragoza, Spain, for submitting data in YAML format!)
     other/nonstoichiometric films/Si-O/Herguedas-SiO0.31.yml
     other/nonstoichiometric films/Si-O/Herguedas-SiO0.61.yml
