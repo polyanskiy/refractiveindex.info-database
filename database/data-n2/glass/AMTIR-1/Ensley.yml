@@ -7,8 +7,8 @@ COMMENTS: "100 fs. Z-scan."
 DATA:
   - type: tabulated n2
     data: |
-        2.0 3.3e-18
-        3.9 3.5e-18
+        2.0 3.8e-18
+        3.9 7.5e-18
 SPECS:
     n2_method: Z-scan
     pulse_duration: 100e-15
