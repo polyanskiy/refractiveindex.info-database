@@ -1,4 +1,13 @@
-﻿============================== 2023-10-04 ==============================
+﻿============================== NEXT RELEASE ==============================
+
+  new data
+    main/ZnSe/Pigeon.yml
+    main/GaSe/Pigeon.yml
+  corrected data
+    main/ZnSe/Pigeon.yml
+
+
+============================== 2023-10-04 ==============================
 
   new data (thanks to Gaudenis Jansonas, Vilnius University, Lithuania, for submitting data in YAML format!)
     main/ZnS/Jansonas.yml

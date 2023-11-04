@@ -638,6 +638,9 @@
         - PAGE: Jansonas-o
           name: "Jansonas et al. 2022: (o)"
           data: "main/GaSe/Jansonas.yml"
+        - PAGE: Pigeon
+          name: "Pigeon et al. 2020"
+          data: "main/GaSe/Pigeon.yml"
     - BOOK: ZnSe
       name: "ZnSe (Zinc selenide)"
       info: "main/ZnSe.html"
@@ -649,6 +652,9 @@
         - PAGE: Patwardhan
           name: "Patwardhan et al. 2021"
           data: "main/ZnSe/Patwardhan.yml"
+        - PAGE: Pigeon
+          name: "Pigeon et al. 2020"
+          data: "main/ZnSe/Pigeon.yml"
         - PAGE: Ensley
           name: "Ensley and Bambha 2019"
           data: "main/ZnSe/Ensley.yml"

@@ -7,7 +7,7 @@ COMMENTS: "300 ns. Four-wave mixing. Relative measurement (to GaAs). The authors
 DATA:
   - type: tabulated n2
     data: |
-        10.6 2.4e-19
+        10.6 2.1e-18
 SPECS:
     n2_method: FWM
     pulse_duration: 300e-9
