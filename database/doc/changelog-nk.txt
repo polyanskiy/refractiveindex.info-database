@@ -1,6 +1,11 @@
 ﻿============================== NEXT RELEASE ==============================
 
-  new data (thanks to Georgy Ermolaev, Moscow Institute of Physics and Technology, Russia, for submitting data in YAML format!)
+  new data (thanks to Angelos Xomalis, Norwegian University of Science and Technology, for submitting data!)
+    other/resists/Nanoscribe IP-S/Mavrona-uncured.yml
+    other/resists/Nanoscribe IP-S/Mavrona-cured.yml
+    other/resists/Nanoscribe IP-Dip/Mavrona-uncured.yml
+    other/resists/Nanoscribe IP-Dip/Mavrona-cured.yml
+  new data (thanks to Georgy Ermolaev, XPANCEO, Dubai, United Arab Emirates, for submitting data in YAML format!)
     main/WS2/Vyshnevyy-o.yml
     main/WS2/Vyshnevyy-e.yml
   new data (thanks to Tobias König, Leibniz-Institut für Polymerforschung Dresden, Germany, for submitting data!)
@@ -12,6 +17,8 @@
     other/nonstoichiometric films/Si-O/Herguedas-SiO1.71.yml
     other/nonstoichiometric films/Si-O/Herguedas-SiO1.89.yml
     other/nonstoichiometric films/Si-O/Herguedas-SiO1.92.yml
+  miscellaneous changes
+    resists data rearranged: added separate folder for each resist
 
 
 ============================== 2023-10-04 ==============================

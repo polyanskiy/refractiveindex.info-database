@@ -11967,45 +11967,91 @@
           name: "Nyakuchena et al. 2023: n 1.10–1.65 µm"
           data: "other/microscopy mounting media/FluorSave/Nyakuchena.yml"
     - DIVIDER: "Resists"
-    - BOOK: pmma_resists
-      name: "PMMA resists"
+    - BOOK: Microchem85mEL
+      name: "Microchem 8.5 mEL copolymer resist"
       info: "other/resists.html"
       content:
-        - PAGE: Microchem495
-          name: "Microchem 495 PMMA resist"
-          data: "other/resists/Microchem 495.yml"
-        - PAGE: Microchem950
-          name: "Microchem 950 PMMA resist"
-          data: "other/resists/Microchem 950.yml"
-    - BOOK: copolymer_resists
-      name: "Copolymer resists"
+        - PAGE: specs
+          name: "Spec sheet: n 0.2–1.1 µm"
+          data: "other/resists/Microchem 8.5 mEL/specs.yml"
+    - BOOK: Microchem495
+      name: "Microchem 495 PMMA resist"
       info: "other/resists.html"
       content:
-        - PAGE: Microchem85mEL
-          name: "Microchem 8.5 mEL copolymer resist"
-          data: "other/resists/Microchem 8.5 mEL.yml"
-    - BOOK: negative_tone_photoresists
-      name: "Negative tone photoresists"
+        - PAGE: specs
+          name: "Spec sheet: n 0.2–1.1 µm"
+          data: "other/resists/Microchem 495/specs.yml"
+    - BOOK: Microchem950
+      name: "Microchem 950 PMMA resist"
       info: "other/resists.html"
       content:
-        - PAGE: microresistEpoCore
-          name: "Micro resist EpoCore"
-          data: "other/resists/Micro resist EpoCore.yml"
-        - PAGE: microresistEpoClad
-          name: "Micro resist EpoClad"
-          data: "other/resists/Micro resist EpoClad.yml"
-        - PAGE: microresist_ma-N405_ma-T1050
-          name: "Micro resist ma-N 405 and ma-T 1050, 1:1"
-          data: "other/resists/Micro resist ma-N 405, ma-T 1050.yml"
-        - PAGE: microresist_ma-N1407
-          name: "Micro resist ma-N 1407"
-          data: "other/resists/Micro resist ma-N 1407.yml"
-        - PAGE: Microchem_SU8_2000
-          name: "Microchem SU-8 2000"
-          data: "other/resists/Microchem SU-8 2000.yml"
-        - PAGE: Microchem_SU8_3000
-          name: "Microchem SU-8 3000"
-          data: "other/resists/Microchem SU-8 3000.yml"
+        - PAGE: specs
+          name: "Spec sheet: n 0.2–1.1 µm"
+          data: "other/resists/Microchem 950/specs.yml" 
+    - BOOK: Microchem_SU8_2000
+      name: "Microchem SU-8 2000"
+      info: "other/resists.html"
+      content:
+        - PAGE: specs
+          name: "Spec sheet: n 0.32–0.80 µm"
+          data: "other/resists/Microchem SU-8 2000/specs.yml"
+    - BOOK: Microchem_SU8_3000
+      name: "Microchem SU-8 3000"
+      info: "other/resists.html"
+      content:
+        - PAGE: specs
+          name: "Spec sheet: n 0.32–1.7 µm"
+          data: "other/resists/Microchem SU-8 3000/specs.yml"
+    - BOOK: microresistEpoClad
+      name: "Micro resist EpoClad"
+      info: "other/resists.html"
+      content:
+        - PAGE: specs
+          name: "Spec sheet: n 0.45–1.55 µm"
+          data: "other/resists/Micro resist EpoClad/specs.yml"
+    - BOOK: microresistEpoCore
+      name: "Micro resist EpoCore"
+      info: "other/resists.html"
+      content:
+        - PAGE: specs
+          name: "Spec sheet: n 0.45–1.55 µm"
+          data: "other/resists/Micro resist EpoCore/specs.yml"
+    - BOOK: microresist_ma-N405_ma-T1050
+      name: "Micro resist ma-N 405 : ma-T 1050, 1:1"
+      info: "other/resists.html"
+      content:
+        - PAGE: Sarkar
+          name: "Sarkar et al. 2019: n,k 0.375–1.69 µm"
+          data: "other/resists/Micro resist ma-N 405, ma-T 1050/Sarkar.yml"
+    - BOOK: microresist_ma-N1407
+      name: "Micro resist ma-N 1407"
+      info: "other/resists.html"
+      content:
+        - PAGE: Sarkar
+          name: "Sarkar et al. 2019: n,k 0.301–1.69 µm"
+          data: "other/resists/Micro resist ma-N 1407/Sarkar.yml"          
+    - BOOK: Nanoscribe_IP-S
+      name: "Nanoscribe IP-S"
+      info: "other/resists.html"
+      content:
+        - PAGE: Mavrona-uncured
+          name: "Mavrona et al. 2023: Uncured; n,k 200–998 µm"
+          data: "other/resists/Nanoscribe IP-S/Mavrona-uncured.yml"
+        - PAGE: Mavrona-cured
+          name: "Mavrona et al. 2023: Cured; n,k 200–998 µm"
+          data: "other/resists/Nanoscribe IP-S/Mavrona-cured.yml"
+    - BOOK: Nanoscribe_IP-Dip
+      name: "Nanoscribe IP-Dip"
+      info: "other/resists.html"
+      content:
+        - PAGE: Mavrona-uncured
+          name: "Mavrona et al. 2023: Uncured; n,k 200–998 µm"
+          data: "other/resists/Nanoscribe IP-Dip/Mavrona-uncured.yml"
+        - PAGE: Mavrona-cured
+          name: "Mavrona et al. 2023: Cured; n,k 200–998 µm"
+          data: "other/resists/Nanoscribe IP-Dip/Mavrona-cured.yml"
+      
+      
     - DIVIDER: "Perovskite"
     - BOOK: CH3NH3PbBr3
       name: "CH3NH3PbBr3 (Methylammonium lead tribromide, MAPbBr3)"
