@@ -1,5 +1,18 @@
 ﻿============================== NEXT RELEASE ==============================
 
+  new data (thanks to Qifan Zheng, University of Wisconsin-Madison, USA, for suggesting data!)
+    main/CaF2/Zheng-21C.yml
+    main/CaF2/Zheng-186C.yml
+    main/CaF2/Zheng-368C.yml
+    main/BaF2/Zheng-21C.yml
+    main/BaF2/Zheng-186C.yml
+    main/BaF2/Zheng-368C.yml
+    main/MgF2/Zheng-o-21C.yml
+    main/MgF2/Zheng-o-186C.yml
+    main/MgF2/Zheng-o-368C.yml
+    main/MgF2/Zheng-e-21C.yml
+    main/MgF2/Zheng-e-186C.yml
+    main/MgF2/Zheng-e-368C.yml
   new data (thanks to Angelos Xomalis, Norwegian University of Science and Technology, for submitting data!)
     other/resists/Nanoscribe IP-S/Mavrona-uncured.yml
     other/resists/Nanoscribe IP-S/Mavrona-cured.yml

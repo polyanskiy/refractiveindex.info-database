@@ -981,37 +981,55 @@
       name: "BaF<sub>2</sub> (Barium fluoride)"
       info: "main/BaF2.html"
       content:
-        - PAGE: Kaiser
-          name: "Kaiser et al. 1964: n,k 10–80 µm"
-          data: "main/BaF2/Kaiser.yml"
-        - PAGE: Querry
-          name: "Querry 1987: n,k 0.220–167 µm"
-          data: "main/BaF2/Querry.yml"
         - PAGE: Li
           name: "Li 1980: n 0.15–15.0 µm"
           data: "main/BaF2/Li.yml"
+        - PAGE: Zheng-21C
+          name: "Zheng et al. 2023: n 0.22–1.7 µm; 21 °C"
+          data: "main/BaF2/Zheng-21C.yml"
+        - PAGE: Zheng-186C
+          name: "Zheng et al. 2023: n 0.22–1.7 µm; 186 °C"
+          data: "main/BaF2/Zheng-186C.yml"
+        - PAGE: Zheng-368C
+          name: "Zheng et al. 2023: n 0.22–1.7 µm; 368 °C"
+          data: "main/BaF2/Zheng-368C.yml"
+        - PAGE: Querry
+          name: "Querry 1987: n,k 0.220–167 µm"
+          data: "main/BaF2/Querry.yml"
         - PAGE: Malitson
           name: "Malitson 1964: n 0.265–10.3 µm"
           data: "main/BaF2/Malitson.yml"
+        - PAGE: Kaiser
+          name: "Kaiser et al. 1962: n,k 10–80 µm"
+          data: "main/BaF2/Kaiser.yml"
     - BOOK: CaF2
       name: "CaF<sub>2</sub> (Calcium fluoride)"
       info: "main/CaF2.html"
       content:
-        - PAGE: Malitson
-          name: "Malitson 1963: n 0.23–9.7 µm; 24 °C"
-          data: "main/CaF2/Malitson.yml"
+        - PAGE: Li
+          name: "Li 1980: n 0.15–12.0 µm; 20 °C"
+          data: "main/CaF2/Li.yml"
+        - PAGE: Zheng-21C
+          name: "Zheng et al. 2023: n 0.22–1.7 µm; 21 °C"
+          data: "main/CaF2/Zheng-21C.yml"
+        - PAGE: Zheng-186C
+          name: "Zheng et al. 2023: n 0.22–1.7 µm; 186 °C"
+          data: "main/CaF2/Zheng-186C.yml"
+        - PAGE: Zheng-368C
+          name: "Zheng et al. 2023: n 0.22–1.7 µm; 368 °C"
+          data: "main/CaF2/Zheng-368C.yml"
         - PAGE: Daimon-20
           name: "Daimon and Masumura 2002: n 0.138–2.326 µm; 20 °C"
           data: "main/CaF2/Daimon-20.yml"
         - PAGE: Daimon-25
           name: "Daimon and Masumura 2002: n 0.138–2.326 µm; 25 °C"
           data: "main/CaF2/Daimon-25.yml"
-        - PAGE: Li
-          name: "Li 1980: n 0.15–12.0 µm; 20 °C"
-          data: "main/CaF2/Li.yml"
         - PAGE: Kaiser
           name: "Kaiser et al. 1964: n,k 10–80 µm"
           data: "main/CaF2/Kaiser.yml"
+        - PAGE: Malitson
+          name: "Malitson 1963: n 0.23–9.7 µm; 24 °C"
+          data: "main/CaF2/Malitson.yml"
     - BOOK: CeF3
       name: "CeF<sub>3</sub> (Cerium trifluoride)"
       info: "main/CeF3.html"
@@ -1068,6 +1086,45 @@
         - PAGE: Woods-e
           name: "Woods et al. 1991: n(e) 0.4–1.0 µm"
           data: "main/LiCaAlF6/Woods-e.yml"
+    - BOOK: MgF2
+      name: "MgF<sub>2</sub> (Magnesium fluoride)"
+      info: "main/MgF2.html"
+      content:
+        - DIVIDER: "Crystal"
+        - PAGE: Li-o
+          name: "Li 1980: n(o) 0.14–7.5 µm"
+          data: "main/MgF2/Li-o.yml"
+        - PAGE: Li-e
+          name: "Li 1980: n(e) 0.14–7.5 µm"
+          data: "main/MgF2/Li-e.yml"
+        - PAGE: Zheng-o-21C
+          name: "Zheng et al. 2023: n(o) 0.22–1.7 µm; 21 °C"
+          data: "main/MgF2/Zheng-o-21C.yml"
+        - PAGE: Zheng-o-186C
+          name: "Zheng et al. 2023: n(o) 0.22–1.7 µm; 186 °C"
+          data: "main/MgF2/Zheng-o-186C.yml"
+        - PAGE: Zheng-o-368C
+          name: "Zheng et al. 2023: n(o) 0.22–1.7 µm; 368 °C"
+          data: "main/MgF2/Zheng-o-368C.yml"
+        - PAGE: Zheng-e-21C
+          name: "Zheng et al. 2023: n(e) 0.22–1.7 µm; 21 °C"
+          data: "main/MgF2/Zheng-e-21C.yml"
+        - PAGE: Zheng-e-186C
+          name: "Zheng et al. 2023: n(e) 0.22–1.7 µm; 186 °C"
+          data: "main/MgF2/Zheng-e-186C.yml"
+        - PAGE: Zheng-e-368C
+          name: "Zheng et al. 2023: n(e) 0.22–1.7 µm; 368 °C"
+          data: "main/MgF2/Zheng-e-368C.yml"
+        - PAGE: Dodge-o
+          name: "Dodge 1984: n(o) 0.2–7.0 µm"
+          data: "main/MgF2/Dodge-o.yml"
+        - PAGE: Dodge-e
+          name: "Dodge 1984: n(e) 0.2–7.0 µm"
+          data: "main/MgF2/Dodge-e.yml"
+        - DIVIDER: "Thin film"
+        - PAGE: Rodriguez-de_Marcos
+          name: "Rodríguez-de Marcos et al. 2017: n,k 0.03–2.0 µm"
+          data: "main/MgF2/Rodriguez-de Marcos.yml"
     - BOOK: NaF
       name: "NaF (Sodium fluoride)"
       info: "main/NaF.html"
@@ -1075,27 +1132,6 @@
         - PAGE: Li
           name: "Li 1976: n 0.15–17 µm"
           data: "main/NaF/Li.yml"
-    - BOOK: MgF2
-      name: "MgF<sub>2</sub> (Magnesium fluoride)"
-      info: "main/MgF2.html"
-      content:
-        - DIVIDER: "Crystal"
-        - PAGE: Dodge-o
-          name: "Dodge 1984: n(o) 0.2–7.0 µm"
-          data: "main/MgF2/Dodge-o.yml"
-        - PAGE: Dodge-e
-          name: "Dodge 1984: n(e) 0.2–7.0 µm"
-          data: "main/MgF2/Dodge-e.yml"
-        - PAGE: Li-o
-          name: "Li 1980: n(o) 0.14–7.5 µm"
-          data: "main/MgF2/Li-o.yml"
-        - PAGE: Li-e
-          name: "Li 1980: n(e) 0.14–7.5 µm"
-          data: "main/MgF2/Li-e.yml"
-        - DIVIDER: "Thin film"
-        - PAGE: Rodriguez-de_Marcos
-          name: "Rodríguez-de Marcos et al. 2017: n,k 0.03–2.0 µm"
-          data: "main/MgF2/Rodriguez-de Marcos.yml"
     - BOOK: PbF2
       name: "PbF<sub>2</sub> (Lead difluoride)"
       info: "main/PbF2.html"

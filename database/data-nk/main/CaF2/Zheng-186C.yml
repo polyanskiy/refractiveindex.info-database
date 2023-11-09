@@ -1,0 +1,14 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+REFERENCES: "Q. Zheng, X. Wang, D. Thompson. Temperature-dependent optical properties of monocrystalline CaF<sub>2</sub>, BaF<sub>2</sub>, and MgF<sub>2</sub>, <a href=\"https://doi.org/10.1364/OME.496246\"><i>Opt. Mater. Express</i> <b>13</b>, 2380–2391 (2023)</a> (See Supplementary materials)"
+COMMENTS: "186.4 °C. The supplementary materials of the original publication contain coefficients of the Sellmeier formula for multiple temperatures in the range of 21 °C to 368 °C."
+DATA:
+  - type: formula 1
+    wavelength_range: 0.22 1.7
+    coefficients: 0 0.56759 0.050264 0.46432 0.10089 3.8485 34.649
+SPECS:
+    n_is_absolute: false
+    wavelength_is_vacuum: false
+    temperature: 186.4 °C
