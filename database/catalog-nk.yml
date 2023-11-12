@@ -694,15 +694,21 @@
         - PAGE: Song
           name: "Song et al. 2018: Graphene; n,k 0.193–1.69 µm"
           data: "main/C/Song.yml"
-        - DIVIDER: "Carbon nanotubes"
+        - DIVIDER: "Carbon nanotubes (CNTs)"
         - PAGE: Ermolaev
-          name: "Ermolaev et al. 2020: Carbon nanotubes film, aerosol CVD; n,k 0.250–3.30 µm"
+          name: "Ermolaev et al. 2020: CNT film, aerosol CVD; n,k 0.250–3.30 µm"
           data: "main/C/Ermolaev.yml"
+        - PAGE: Ermolaev-SWCNT-o
+          name: "Ermolaev et al. 2023: Aligned CNT monolayer; n,k(o) 0.250–1.70 µm"
+          data: "main/C/Ermolaev-SWCNT-o.yml"
+        - PAGE: Ermolaev-SWCNT-e
+          name: "Ermolaev et al. 2023: Aligned CNT monolayer; n,k(e) 0.250–1.70 µm"
+          data: "main/C/Ermolaev-SWCNT-e.yml"
         - PAGE: Song-Arc
-          name: "Song et al. 2020: Carbon nanotubes film, Arc grown; n,k 0.370–1.69 µm"
+          name: "Song et al. 2020: CNT film, Arc grown; n,k 0.370–1.69 µm"
           data: "main/C/Song-Arc.yml"
         - PAGE: Song-HiPco
-          name: "Song et al. 2020: Carbon nanotubes film, HiPco grown; n,k 0.370–1.69 µm"
+          name: "Song et al. 2020: CNT film, HiPco grown; n,k 0.370–1.69 µm"
           data: "main/C/Song-HiPco.yml"
     - BOOK: B4C
       name: "B<sub>4</sub>C (Boron carbide)"
