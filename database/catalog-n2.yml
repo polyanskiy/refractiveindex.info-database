@@ -791,10 +791,35 @@
         - PAGE: Flom
           name: "Flom et al. 2015"
           data: "glass/BGG/Flom.yml"
-
 - SHELF: other
   name: "OTHER - miscellaneous materials"
   content:
+    - DIVIDER: "Mixed gases"
+    - BOOK: air
+      name: "Air"
+      info: "other/air.html"
+      content:
+        - PAGE: Polyanskiy
+          name: "Polyanskiy et al. 2021"
+          data: "other/mixed gases/air/Polyanskiy.yml"
+        - PAGE: Pigeon
+          name: "Pigeon et al. 2016"
+          data: "other/mixed gases/air/Pigeon.yml"
+        - PAGE: Geints
+          name: "Geints et al. 2011"
+          data: "other/mixed gases/air/Geints.yml"
+        - PAGE: Vlasov
+          name: "Vlasov et al. 1997"
+          data: "other/mixed gases/air/Vlasov.yml"
+        - PAGE: Shaw
+          name: "Shaw et al. 1993"
+          data: "other/mixed gases/air/Shaw.yml"
+        - PAGE: Pennington
+          name: "Pennington et al. 1989"
+          data: "other/mixed gases/air/Pennington.yml"
+        - PAGE: Shimoji
+          name: "Shimoji et al. 1989"
+          data: "other/mixed gases/air/Shimoji.yml"
     - DIVIDER: "Semiconductor alloys"
     - BOOK: AlN-Al2O3
       name: "AlN-Al<sub>2</sub>O<sub>3</sub> (Aluminium oxynitride, ALON)"
