@@ -12139,12 +12139,17 @@
       name: "CsPbCl3 (Cesium lead trichloride)"
       info: "other/CsPbCl3.html"
       content:
+        - DIVIDER: "Crystal"
         - PAGE: Ermolaev-o
           name: "Ermolaev et al. 2023: n,k(o) 0.400–0.800 µm"
           data: "other/perovskite/CsPbCl3/Ermolaev-o.yml"
         - PAGE: Ermolaev-e
           name: "Ermolaev et al. 2023: n,k(e) 0.400–0.800 µm"
           data: "other/perovskite/CsPbCl3/Ermolaev-e.yml"
+        - DIVIDER: "Thin film"
+        - PAGE: Zhang
+          name: "Zhang et al. 2023: n,k 0.193–1.69 µm"
+          data: "other/perovskite/CsPbCl3/Zhang.yml"
     - BOOK: CsPbI3
       name: "CsPbI3 (Cesium lead triiodide)"
       info: "other/CsPbI3.html"
@@ -12162,7 +12167,6 @@
         - PAGE: Ermolaev-Br1.3Cl1.7-e
           name: "Ermolaev et al. 2023: Br-1.3, Cl-1.7; n,k(e) 0.455–0.500 µm"
           data: "other/perovskite/CsPb(Br,Cl)3/Ermolaev-Br1.3Cl1.7-e.yml"
-          
         - PAGE: Ermolaev-Br1.8Cl1.2-o
           name: "Ermolaev et al. 2023: Br-1.8, Cl-1.2; n,k(o) 0.464–0.700 µm"
           data: "other/perovskite/CsPb(Br,Cl)3/Ermolaev-Br1.8Cl1.2-o.yml"

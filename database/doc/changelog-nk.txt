@@ -1,5 +1,7 @@
 ﻿============================== NEXT RELEASE ==============================
 
+  new data (thanks to Xuning Zhang, Huazhong University of Science and Technology, Wuhan, China, for submitting data in YAML format!)
+    other/perovskite/CsPbCl3/Zhang.yml
   new data (thanks to Qifan Zheng, University of Wisconsin-Madison, USA, for suggesting data!)
     main/CaF2/Zheng-21C.yml
     main/CaF2/Zheng-186C.yml
