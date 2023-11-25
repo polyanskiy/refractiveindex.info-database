@@ -1,0 +1,15 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+REFERENCES: "E. T. J. Nibbering, G. Grillon, M. A. Franco, B. S. Prade, A. Mysyrowicz. Determination of the inertial contribution to the nonlinear refractive index of air, N<sub>2</sub>, and O<sub>2</sub> by use of unfocused high-intensity femtosecond laser pulses, <a href=\"https://doi.org/10.1364/JOSAB.14.000650\"> <i>J. Opt. Soc. Am. B</i> <b>14</b>, 650-660 (1997)</a>"
+COMMENTS: "120 fs at 800 nm. Spectral analysis of self-phase modulation."
+DATA:
+  - type: tabulated n2
+    data: |
+        0.8 1.6e-23
+SPECS:
+    n2_method: SSPM
+    pulse_duration: 120e-15
+    temperature: 293 K
+    pressure: 101325

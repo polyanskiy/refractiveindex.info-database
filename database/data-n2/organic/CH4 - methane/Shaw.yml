@@ -1,0 +1,15 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+REFERENCES: "M. J. Shaw, C. J. Hooker, D. C. Wilson. Measurement of the nonlinear refractive index of air and other gases at 248 nm, <a href=\"https://doi.org/10.1016/0030-4018(93)90657-Q\"> <i>Opt. Commun.</i> <b>103</b>, 153-1960 (1993)</a>"
+COMMENTS: "10 ps at 248 nm. Spectral analysis of self-phase modulation."
+DATA:
+  - type: tabulated n2
+    data: |
+        0.248 1.1e-22
+SPECS:
+    n2_method: SSPM
+    pulse_duration: 10e-12
+    temperature: 300 K
+    pressure: 101325

@@ -53,6 +53,20 @@
         - PAGE: Owyoung
           name: "Owyoung 1973"
           data: "main/Y3Al5O12/Owyoung.yml"
+    - DIVIDER: "Ar - Argon"
+    - BOOK: Ar
+      name: "Ar (Argon)"
+      info: "main/Ar.html"
+      content:
+        - PAGE: Zahedpour
+          name: "Zahedpour et al. 2015"
+          data: "main/Ar/Zahedpour.yml"
+        - PAGE: Nibbering
+          name: "Nibbering et al. 1997"
+          data: "main/Ar/Nibbering.yml"
+        - PAGE: Shaw
+          name: "Shaw et al. 1993"
+          data: "main/Ar/Shaw.yml"
     - DIVIDER: "As - Arsenides and arsenates"
     - BOOK: GaAs
       name: "GaAs (Gallium arsenide)"
@@ -308,6 +322,13 @@
         - PAGE: Milam
           name: "Milam et al. 1977"
           data: "main/PbF2/Milam.yml"
+    - BOOK: SF6
+      name: "SF<sub>6</sub6> (Sulphur hexafluoride)"
+      info: "main/SF6.html"
+      content:
+        - PAGE: Nibbering
+          name: "Nibbering et al. 1997"
+          data: "main/SF6/Nibbering.yml"
     - BOOK: SrF2
       name: "SrF<sub>2</sub> (Strontium fluoride)"
       info: "main/SrF2.html"
@@ -365,6 +386,31 @@
         - PAGE: Sheik-Bahae
           name: "Sheik-Bahae et al. 1991"
           data: "main/Ge/Sheik-Bahae.yml"
+    - DIVIDER: "He - Helium"
+    - BOOK: He
+      name: "He (Helium)"
+      info: "main/He.html"
+      content:
+        - PAGE: Shaw
+          name: "Shaw et al. 1993"
+          data: "main/He/Shaw.yml"
+    - DIVIDER: "N - Nitrogen"
+    - BOOK: N2
+      name: "N<sub>2</sub> (Nitrogen)"
+      info: "main/N2.html"
+      content:
+        - PAGE: Pigeon
+          name: "Pigeon et al. 2016"
+          data: "main/N2/Pigeon.yml"
+        - PAGE: Zahedpour
+          name: "Zahedpour et al. 2015"
+          data: "main/N2/Zahedpour.yml"
+        - PAGE: Nibbering
+          name: "Nibbering et al. 1997"
+          data: "main/N2/Nibbering.yml"
+        - PAGE: Shaw
+          name: "Shaw et al. 1993"
+          data: "main/N2/Shaw.yml"
     - DIVIDER: "Nb - Niobates"
     - BOOK: LiNbO3
       name: "LiNbO<sub>3</sub> (Lithium niobate)"
@@ -373,7 +419,31 @@
         - PAGE: DeSalvo
           name: "DeSalvo et al. 1996: (e)"
           data: "main/LiNbO3/DeSalvo.yml"
-    - DIVIDER: "O - Oxides"
+    - DIVIDER: "Ne - Neon"
+    - BOOK: Ne
+      name: "Ne (Neon)"
+      info: "main/Ne.html"
+      content:
+        - PAGE: Shaw
+          name: "Shaw et al. 1993"
+          data: "main/Ne/Shaw.yml"
+    - DIVIDER: "O - Oxygen and oxides"
+    - BOOK: O2
+      name: "O<sub>2</sub> (Oxygen)"
+      info: "main/O2.html"
+      content:
+        - PAGE: Pigeon
+          name: "Pigeon et al. 2016"
+          data: "main/O2/Pigeon.yml"
+        - PAGE: Zahedpour
+          name: "Zahedpour et al. 2015"
+          data: "main/O2/Zahedpour.yml"
+        - PAGE: Nibbering
+          name: "Nibbering et al. 1997"
+          data: "main/O2/Nibbering.yml"
+        - PAGE: Shaw
+          name: "Shaw et al. 1993"
+          data: "main/O2/Shaw.yml"
     - BOOK: Al2O3
       name: "Al<sub>2</sub>O<sub>3</sub> (Aluminium sesquioxide, Sapphire, Alumina)"
       info: "main/Al2O3.html"
@@ -737,6 +807,14 @@
         - PAGE: Adair-e
           name: "Adair et al. 1989: (e)"
           data: "main/CaWO4/Adair-e.yml"
+    - DIVIDER: "Xe - Xenon"
+    - BOOK: Xe
+      name: "Xe (Xenon)"
+      info: "main/Xe.html"
+      content:
+        - PAGE: Nibbering
+          name: "Nibbering et al. 1997"
+          data: "main/Xe/Nibbering.yml"
 - SHELF: glass
   name: "GLASS - glasses"
   info: "glass.html"
@@ -791,6 +869,17 @@
         - PAGE: Flom
           name: "Flom et al. 2015"
           data: "glass/BGG/Flom.yml"
+- SHELF: organic
+  name: "ORGANIC - organic materials"
+  content:
+    - DIVIDER: "Alkanes"
+    - BOOK: methane
+      name: "CH<sub>4</sub> (Methane)"
+      info: "organic/methane.html"
+      content:
+        - PAGE: Shaw
+          name: "Shaw et al. 1993"
+          data: "organic/CH4 - methane/Shaw.yml" 
 - SHELF: other
   name: "OTHER - miscellaneous materials"
   content:
@@ -808,6 +897,9 @@
         - PAGE: Geints
           name: "Geints et al. 2011"
           data: "other/mixed gases/air/Geints.yml"
+        - PAGE: Nibbering
+          name: "Nibbering et al. 1997"
+          data: "other/mixed gases/air/Nibbering.yml"
         - PAGE: Vlasov
           name: "Vlasov et al. 1997"
           data: "other/mixed gases/air/Vlasov.yml"

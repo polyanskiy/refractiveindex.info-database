@@ -1,11 +1,28 @@
 ﻿============================== NEXT RELEASE ==============================
 
   new data
-    other/mixed gases/air/Polyanskiy.yml
+    other/mixed gases/air/Nibbering.yml
+    main/N2/Nibbering.yml
+    main/O2/Nibbering.yml
+    main/Ar/Nibbering.yml
+    main/Xe/Nibbering.yml
+    main/SF6/Nibbering.yml
+    other/mixed gases/air/Shaw.yml
+    main/N2/Shaw.yml
+    main/O2/Shaw.yml
+    main/Ar/Shaw.yml
+    main/Ne/Shaw.yml
+    main/He/Shaw.yml
+    organic/CH4 - methane/Shaw.yml
+    main/N2/Zahedpour.yml
+    main/O2/Zahedpour.yml
+    main/Ar/Zahedpour.yml
     other/mixed gases/air/Pigeon.yml
+    main/N2/Pigeon.yml
+    main/O2/Pigeon.yml
+    other/mixed gases/air/Polyanskiy.yml
     other/mixed gases/air/Geints.yml
     other/mixed gases/air/Vlasov.yml
-    other/mixed gases/air/Shaw.yml
     other/mixed gases/air/Pennington.yml
     other/mixed gases/air/Shimoji.yml
     main/ZnSe/Pigeon.yml
