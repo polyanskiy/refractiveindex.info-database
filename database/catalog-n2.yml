@@ -61,6 +61,9 @@
         - PAGE: Zahedpour
           name: "Zahedpour et al. 2015"
           data: "main/Ar/Zahedpour.yml"
+        - PAGE: Wahlstrand
+          name: "Wahlstrand et al. 2012"
+          data: "main/Ar/Wahlstrand.yml"
         - PAGE: Nibbering
           name: "Nibbering et al. 1997"
           data: "main/Ar/Nibbering.yml"
@@ -405,6 +408,9 @@
         - PAGE: Zahedpour
           name: "Zahedpour et al. 2015"
           data: "main/N2/Zahedpour.yml"
+        - PAGE: Wahlstrand
+          name: "Wahlstrand et al. 2012"
+          data: "main/N2/Wahlstrand.yml"
         - PAGE: Nibbering
           name: "Nibbering et al. 1997"
           data: "main/N2/Nibbering.yml"
@@ -438,6 +444,9 @@
         - PAGE: Zahedpour
           name: "Zahedpour et al. 2015"
           data: "main/O2/Zahedpour.yml"
+        - PAGE: Wahlstrand
+          name: "Wahlstrand et al. 2012"
+          data: "main/O2/Wahlstrand.yml"
         - PAGE: Nibbering
           name: "Nibbering et al. 1997"
           data: "main/O2/Nibbering.yml"
@@ -488,6 +497,13 @@
         - PAGE: Adair
           name: "Adair et al. 1989"
           data: "main/MgO/Adair.yml"
+    - BOOK: N2O
+      name: "N<sub>2</sub>O (Nitrous oxide)"
+      info: "main/N2O.html"
+      content:
+        - PAGE: Wahlstrand
+          name: "Wahlstrand et al. 2012"
+          data: "main/N2O/Wahlstrand.yml"
     - BOOK: SiO2
       name: "SiO<sub>2</sub> (Silicon dioxide, Silica, Quartz)"
       info: "main/SiO2.html"
