@@ -1736,7 +1736,7 @@
       name: "BN (Boron nitride)"
       info: "main/BN.html"
       content:
-        - DIVIDER: "Experimental data"
+        - DIVIDER: "Experimental data - Bulk"
         - PAGE: Lee
           name: "Lee et al. 2018: h-BN; n 0.450–1.20 µm"
           data: "main/BN/Lee.yml"
@@ -1746,6 +1746,13 @@
         - PAGE: Grudinin-e
           name: "Grudinin et al. 2023: h-BN; n(e) 0.250–1.70 µm"
           data: "main/BN/Grudinin-e.yml"
+        - DIVIDER: "Experimental data - Multilayer flakes"
+        - PAGE: Zotev-o
+          name: "Zotev et al. 2023: h-BN; n,k(o) 0.36–1.0 µm"
+          data: "main/BN/Zotev-o.yml"
+        - PAGE: Zotev-e
+          name: "Zotev et al. 2023: h-BN; n,k(e) 0.36–1.0 µm"
+          data: "main/BN/Zotev-e.yml"
         - DIVIDER: "Models and simulations"
         - PAGE: Grudinin-DFT-o
           name: "Grudinin et al. 2023: h-BN; n,k(o) 0.199–2.01 µm"
@@ -2898,12 +2905,20 @@
       name: "GaS (Gallium sulfide)"
       info: "main/GaS.html"
       content:
+        - DIVIDER: "Bulk"
         - PAGE: Kato-o
           name: "Kato and Umemura 2011: n(o) 0.633–10.6 µm"
           data: "main/GaS/Kato-o.yml"
         - PAGE: Kato-e
           name: "Kato and Umemura 2011: n(e) 0.633–10.6 µm"
           data: "main/GaS/Kato-e.yml"
+        - DIVIDER: "Multilayer flakes"
+        - PAGE: Zotev-o
+          name: "Zotev et al. 2023: n,k(o) 0.36–1.0 µm"
+          data: "main/GaS/Zotev-o.yml"
+        - PAGE: Zotev-e
+          name: "Zotev et al. 2023: n,k(e) 0.36–1.0 µm"
+          data: "main/GaS/Zotev-e.yml"
     - BOOK: HgS
       name: "HgS (Mercury sulfide)"
       info: "main/HgS.html"
@@ -2965,7 +2980,7 @@
           name: "Yim et al. 2014: 20-nm film; n,k 0.38–0.90 µm"
           data: "main/MoS2/Yim-20nm.yml"
         - PAGE: Islam-o
-          name: "Islam et al. 2021: 33.5-nm film; n,k(o) 0.190–1.70 µm"
+          name: "Islam et al. 2021: 33.5-nm film; n(o),k 0.190–1.70 µm"
           data: "main/MoS2/Islam-o.yml"
         - PAGE: Islam-e
           name: "Islam et al. 2021: 33.5-nm film; n(e) 0.954–1.70 µm"
@@ -2976,7 +2991,13 @@
           data: "main/MoS2/Munkhbat-o.yml"
         - PAGE: Munkhbat-e
           name: "Munkhbat et al. 2022: multilayer flakes; n(e) 0.30–1.69 µm"
-          data: "main/MoS2/Munkhbat-e.yml" 
+          data: "main/MoS2/Munkhbat-e.yml"
+        - PAGE: Zotev-o
+          name: "Zotev et al. 2023: n,k(o) 0.36–1.0 µm"
+          data: "main/MoS2/Zotev-o.yml"
+        - PAGE: Zotev-e
+          name: "Zotev et al. 2023: n,k(e) 0.36–1.0 µm"
+          data: "main/MoS2/Zotev-e.yml"
         - DIVIDER: "2D structures"
         - PAGE: Zhang
           name: "Zhang et al. 2015: monolayer (1L) film; n,k 0.40–0.75 µm"
@@ -3023,6 +3044,14 @@
         - PAGE: Jung
           name: "Jung et al. 2019: monolayer (1L) film; n,k 0.38–0.89 µm"
           data: "main/MoS2/Jung.yml"
+    - BOOK: NiPS3
+      name: "NiPS<sub>3</sub> ( Nickel phosphorus trisulfide)"
+      info: "main/NiPS3.html"
+      content:
+        - DIVIDER: "Multilayer flakes"
+        - PAGE: Zotev
+          name: "Zotev et al. 2023: n,k 0.36–1.0 µm"
+          data: "main/NiPS3/Zotev.yml"
     - BOOK: PbS
       name: "PbS (Lead sulfide)"
       info: "main/PbS.html"
@@ -3103,6 +3132,12 @@
         - PAGE: Munkhbat-e
           name: "Munkhbat et al. 2022: multilayer flakes; n(e) 0.30–1.69 µm"
           data: "main/WS2/Munkhbat-e.yml"
+        - PAGE: Zotev-o
+          name: "Zotev et al. 2023: n,k(o) 0.36–1.0 µm"
+          data: "main/WS2/Zotev-o.yml"
+        - PAGE: Zotev-e
+          name: "Zotev et al. 2023: n,k(e) 0.36–1.0 µm"
+          data: "main/WS2/Zotev-e.yml"
     - BOOK: ZnS
       name: "ZnS (Zinc sulfide)"
       info: "main/ZnS.html"
@@ -3200,7 +3235,7 @@
       name: "Se (Selenium)"
       info: "main/Se.html"
       content:
-        - DIVIDER: "Crystal"
+        - DIVIDER: "Bulk"
         - PAGE: Campel-o
           name: "Campel and Johnson 1969: n(o) 1.06–10.6 µm"
           data: "main/Se/Campel-o.yml"
@@ -3311,6 +3346,33 @@
         - PAGE: Kato-e
           name: "Kato et al. 2013: n(e) 0.8–162 µm"
           data: "main/GaSe/Kato-e.yml"
+    - BOOK: HfSe2
+      name: "HfSe2 (Hafnium diselenide)"
+      info: "main/HfSe2.html"
+      content:
+        - DIVIDER: "Multilayer flakes"
+        - PAGE: Zotev-o
+          name: "Zotev et al. 2023: n,k(o) 0.36–1.0 µm"
+          data: "main/HfSe2/Zotev-o.yml"
+        - PAGE: Zotev-e
+          name: "Zotev et al. 2023: n,k(e) 0.36–1.0 µm"
+          data: "main/HfSe2/Zotev-e.yml"
+    - BOOK: In2Se3
+      name: "In<sub>2</sub>Se<sub>3</sub> (Indium selenide)"
+      info: "main/In2Se3.html"
+      content:
+        - DIVIDER: "Multilayer flakes"
+        - PAGE: Zotev
+          name: "Zotev et al. 2023: n,k 0.36–1.0 µm"
+          data: "main/In2Se3/Zotev.yml"
+    - BOOK: MnPSe3
+      name: "MnPSe<sub>3</sub> (Manganese phosphorus selenide)"
+      info: "main/MnPSe3.html"
+      content:
+        - DIVIDER: "Multilayer flakes"
+        - PAGE: Zotev
+          name: "Zotev et al. 2023: n,k 0.36–1.0 µm"
+          data: "main/MnPSe3/Zotev.yml"
     - BOOK: MoSe2
       name: "MoSe<sub>2</sub> (Molybdenum diselenide)"
       info: "main/MoSe2.html"
@@ -3331,11 +3393,17 @@
           data: "main/MoSe2/Hsu-3L.yml"
         - DIVIDER: "Multilayer flakes"
         - PAGE: Munkhbat-o
-          name: "Munkhbat et al. 2022: multilayer flakes; n(o),k 0.30–1.69 µm"
+          name: "Munkhbat et al. 2022: multilayer flakes; n,k(o) 0.30–1.69 µm"
           data: "main/MoSe2/Munkhbat-o.yml"
         - PAGE: Munkhbat-e
           name: "Munkhbat et al. 2022: multilayer flakes; n(e) 0.30–1.69 µm"
           data: "main/MoSe2/Munkhbat-e.yml"
+        - PAGE: Zotev-o
+          name: "Zotev et al. 2023: n,k(o) 0.36–1.0 µm"
+          data: "main/MoSe2/Zotev-o.yml"
+        - PAGE: Zotev-e
+          name: "Zotev et al. 2023: n,k(e) 0.36–1.0 µm"
+          data: "main/MoSe2/Zotev-e.yml"
     - BOOK: NbSe2
       name: "NbSe<sub>2</sub> (Niobium diselenide)"
       info: "main/NbSe2.html"
@@ -3456,6 +3524,12 @@
         - PAGE: Munkhbat-e
           name: "Munkhbat et al. 2022: multilayer flakes; n(e) 0.30–1.69 µm"
           data: "main/WSe2/Munkhbat-e.yml"
+        - PAGE: Zotev-o
+          name: "Zotev et al. 2023: n,k(o) 0.36–1.0 µm"
+          data: "main/WSe2/Zotev-o.yml"
+        - PAGE: Zotev-e
+          name: "Zotev et al. 2023: n,k(e) 0.36–1.0 µm"
+          data: "main/WSe2/Zotev-e.yml"
     - BOOK: ZnSe
       name: "ZnSe (Zinc selenide)"
       info: "main/ZnSe.html"
@@ -3477,6 +3551,17 @@
         - PAGE: Adachi
           name: "Adachi and Taguchi 1991: n,k 0.234–0.827 µm"
           data: "main/ZnSe/Adachi.yml"
+    - BOOK: ZrSe2
+      name: "ZrSe<sub>2</sub> (Zirconium diselenide)"
+      info: "main/ZrSe2.html"
+      content:
+        - DIVIDER: "Multilayer flakes"
+        - PAGE: Zotev-o
+          name: "Zotev et al. 2023: n,k(o) 0.36–1.0 µm"
+          data: "main/ZrSe2/Zotev-o.yml"
+        - PAGE: Zotev-e
+          name: "Zotev et al. 2023: n,k(e) 0.36–1.0 µm"
+          data: "main/ZrSe2/Zotev-e.yml"
     - DIVIDER: "Si - Silicon, silicides and silicates"
     - BOOK: Si
       name: "Si (Silicon)"

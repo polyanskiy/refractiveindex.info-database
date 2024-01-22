@@ -1,5 +1,25 @@
 ﻿============================== NEXT RELEASE ==============================
 
+  new data (thanks to Panaiot Zotev, University of Sheffield, UK, for submitting data in YAML format!)
+    main/GaS/Zotev-o.yml
+    main/GaS/Zotev-e.yml
+    main/BN/Zotev-o.yml
+    main/BN/Zotev-e.yml
+    main/HfSe2/Zotev-o.yml
+    main/HfSe2/Zotev-e.yml
+    main/In2Se3/Zotev.yml
+    main/MnPSe3/Zotev.yml
+    main/MoS2/Zotev-o.yml
+    main/MoS2/Zotev-e.yml
+    main/MoSe2/Zotev-o.yml
+    main/MoSe2/Zotev-e.yml
+    main/NiPS3/Zotev.yml
+    main/WS2/Zotev-o.yml
+    main/WS2/Zotev-e.yml
+    main/WSe2/Zotev-o.yml
+    main/WSe2/Zotev-e.yml
+    main/ZrSe2/Zotev-o.yml
+    main/ZrSe2/Zotev-e.yml
   new data (thanks to Xuning Zhang, Huazhong University of Science and Technology, Wuhan, China, for submitting data in YAML format!)
     other/perovskite/CsPbCl3/Zhang.yml
   new data (thanks to Qifan Zheng, University of Wisconsin-Madison, USA, for suggesting data!)
