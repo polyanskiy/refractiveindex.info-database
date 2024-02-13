@@ -1,5 +1,7 @@
 ﻿============================== NEXT RELEASE ==============================
 
+  new data
+    main/AgBr/Polyanskiy.yml
   new data (thanks to Panaiot Zotev, University of Sheffield, UK, for submitting data in YAML format!)
     main/GaS/Zotev-o.yml
     main/GaS/Zotev-e.yml

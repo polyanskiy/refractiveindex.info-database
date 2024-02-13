@@ -1,6 +1,19 @@
 ﻿============================== NEXT RELEASE ==============================
-O
+
   new data
+    main/AgCl/Polyanskiy.yml
+    main/AgBr/Polyanskiy.yml
+    main/CsI/Polyanskiy.yml
+    main/GaAs/Polyanskiy.yml
+    main/Ge/Polyanskiy.yml
+    main/KBr/Polyanskiy.yml
+    main/Si/Polyanskiy.yml
+    main/ZnS/Polyanskiy.yml
+    main/ZnSe/Polyanskiy.yml
+    other/mixed crystals/TlBr-TlI/Polyanskiy.yml
+    glass/AMTIR-1/Polyanskiy.yml
+    glass/IRG24/Polyanskiy.yml
+    glass/IRG25/Polyanskiy.yml
     main/Ar/Wahlstrand.yml
     main/N2/Wahlstrand.yml
     main/N2O/Wahlstrand.yml

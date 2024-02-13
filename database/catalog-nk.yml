@@ -556,6 +556,9 @@
         - PAGE: Schröter
           name: "Schröter 1931: n 0.495–0.67 µm"
           data: "main/AgBr/Schroter.yml"
+        - PAGE: Polyanskiy
+          name: "Polyanskiy et al. 2024: n 0.495–12.7 µm"
+          data: "main/AgBr/Polyanskiy.yml"
     - BOOK: CsBr
       name: "CsBr (Cesium bromide)"
       info: "main/CsBr.html"

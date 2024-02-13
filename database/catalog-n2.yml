@@ -75,6 +75,9 @@
       name: "GaAs (Gallium arsenide)"
       info: "main/GaAs.html"
       content:
+        - PAGE: Polyanskiy
+          name: "Polyanskiy et al. 2024"
+          data: "main/GaAs/Polyanskiy.yml"
         - PAGE: Jansonas
           name: "Jansonas et al. 2022"
           data: "main/GaAs/Jansonas.yml"
@@ -133,6 +136,9 @@
       name: "KBr (Potassium bromide)"
       info: "main/KBr.html"
       content:
+        - PAGE: Polyanskiy
+          name: "Polyanskiy et al. 2024"
+          data: "main/KBr/Polyanskiy.yml"
         - PAGE: DeSalvo
           name: "DeSalvo et al. 1996"
           data: "main/KBr/DeSalvo.yml"
@@ -171,6 +177,9 @@
       name: "AgCl (Silver chloride)"
       info: "main/AgCl.html"
       content:
+        - PAGE: Polyanskiy
+          name: "Polyanskiy et al. 2024"
+          data: "main/AgCl/Polyanskiy.yml"
         - PAGE: Adair
           name: "Adair et al. 1989"
           data: "main/AgCl/Adair.yml"
@@ -312,6 +321,9 @@
       name: "NaF (Sodium fluoride)"
       info: "main/NaF.html"
       content:
+        - PAGE: Polyanskiy
+          name: "Polyanskiy et al. 2024"
+          data: "main/NaF/Polyanskiy.yml"
         - PAGE: Adair
           name: "Adair et al. 1989"
           data: "main/NaF/Adair.yml"
@@ -383,6 +395,9 @@
       name: "Ge (Germanium)"
       info: "main/Ge.html"
       content:
+        - PAGE: Polyanskiy
+          name: "Polyanskiy et al. 2024"
+          data: "main/Ge/Polyanskiy.yml"
         - PAGE: Ensley
           name: "Ensley and Bambha 2019"
           data: "main/Ge/Ensley.yml"
@@ -675,6 +690,9 @@
           name: "Adair et al. 1989: (e)"
           data: "main/ZnS/Adair-e.yml"
         - DIVIDER: "Polycrystalline"
+        - PAGE: Polyanskiy
+          name: "Polyanskiy et al. 2024"
+          data: "main/ZnS/Polyanskiy.yml"
         - PAGE: Jansonas
           name: "Jansonas et al. 2022"
           data: "main/ZnS/Jansonas.yml"
@@ -732,6 +750,9 @@
       info: "main/ZnSe.html"
       content:
         - DIVIDER: "Polycrystalline"
+        - PAGE: Polyanskiy
+          name: "Polyanskiy et al. 2024"
+          data: "main/ZnSe/Polyanskiy.yml"
         - PAGE: Jansonas
           name: "Jansonas et al. 2022"
           data: "main/ZnSe/Jansonas.yml"
@@ -755,6 +776,9 @@
       name: "Si (Silicon)"
       info: "main/Si.html"
       content:
+        - PAGE: Polyanskiy
+          name: "Polyanskiy et al. 2024"
+          data: "main/Si/Polyanskiy.yml"
         - PAGE: Jansonas
           name: "Jansonas et al. 2022"
           data: "main/Si/Jansonas.yml"
@@ -860,9 +884,26 @@
       name: "AMTIR-1 (IRG 22)"
       info: "glass/infrared glass.html"
       content:
+        - PAGE: Polyanskiy
+          name: "Polyanskiy et al. 2024"
+          data: "glass/AMTIR-1/Polyanskiy.yml"
         - PAGE: Ensley
           name: "Ensley and Bambha 2019"
           data: "glass/AMTIR-1/Ensley.yml"
+    - BOOK: IRG24
+      name: "IRG 24"
+      info: "glass/infrared glass.html"
+      content:
+        - PAGE: Polyanskiy
+          name: "Polyanskiy et al. 2024"
+          data: "glass/IRG24/Polyanskiy.yml"
+    - BOOK: IRG25
+      name: "IRG 25"
+      info: "glass/infrared glass.html"
+      content:
+        - PAGE: Polyanskiy
+          name: "Polyanskiy et al. 2024"
+          data: "glass/IRG25/Polyanskiy.yml"
     - BOOK: AMTIR-2
       name: "AMTIR-2 (IRG 26)"
       info: "glass/infrared glass.html"
@@ -955,6 +996,9 @@
       name: "TlBr-TlI (Thallium bromo-iodide, KRS-5)"
       info: "other/TlBr-TlI.html"
       content:
+        - PAGE: Polyanskiy
+          name: "Polyanskiy et al. 2024"
+          data: "other/mixed crystals/TlBr-TlI/Polyanskiy.yml"
         - PAGE: Jansonas
           name: "Jansonas et al. 2022"
           data: "other/mixed crystals/TlBr-TlI/Jansonas.yml"
