@@ -26,8 +26,8 @@ SPECS:
     Knoop_hardness: 150 kgf/mm<sup>2</sup>
     Youngs_modulus: 22.1 GPa
     thermal_expansion:
-        coefficient: 14e-06 K<sup>-1</sup>
+      - value: 14e-06 K<sup>-1</sup>
     thermal_dispersion:
-      - type: "dn_rel/dT"
+      - type: "dn/dT"
         value: 91e-6 K<sup>-1</sup>
     transition_temperature: 278 °C

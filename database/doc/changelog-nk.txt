@@ -1,6 +1,9 @@
 ﻿============================== NEXT RELEASE ==============================
 
-  (thanks to aspen138 for contributing a calculation script to GitHub!)
+  
+  updated data (thanks to Sam Rubin, Lightpath Technologies)
+    glass/lightpath/BD6.yml
+  new data (thanks to aspen138 for contributing a calculation script to GitHub!)
     other/mixed gases/air/Birch.yml
   new data
     main/AgBr/Polyanskiy.yml
