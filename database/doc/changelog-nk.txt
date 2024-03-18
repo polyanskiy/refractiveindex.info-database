@@ -65,6 +65,9 @@
     other/nonstoichiometric films/Si-O/Herguedas-SiO1.89.yml
     other/nonstoichiometric films/Si-O/Herguedas-SiO1.92.yml
   miscellaneous changes
+    other/mixed crystals/In2O3-SnO2/Konig.yml: add specs, improve comments and data formatting
+    other/mixed crystals/In2O3-SnO2/Konig-EMA.yml: add specs, improve comments and data formatting
+    other/mixed crystals/In2O3-SnO2/Moerland.yml: add specs, improve comments
     resists data rearranged: added separate folder for each resist
 
 
