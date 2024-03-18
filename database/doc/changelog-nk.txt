@@ -1,6 +1,9 @@
 ﻿============================== NEXT RELEASE ==============================
 
-  
+  new data (thanks to Manuela Schiek, Johannes Kepler University of Linz, Austria, for submitting data!)
+    other/mixed crystals/In2O3-SnO2/Minenkov-glass.yml
+    other/mixed crystals/In2O3-SnO2/Minenkov-wafer-top.yml
+    other/mixed crystals/In2O3-SnO2/Minenkov-wafer-bottom.yml
   updated data (thanks to Sam Rubin, Lightpath Technologies)
     glass/lightpath/BD6.yml
   new data (thanks to aspen138 for contributing a calculation script to GitHub!)

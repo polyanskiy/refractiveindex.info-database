@@ -11483,15 +11483,25 @@
       name: "In<sub>2</sub>O<sub>3</sub>-SnO<sub>2</sub> (Indium tin oxide, ITO)"
       info: "other/In2O3-SnO2.html"
       content:
-        - PAGE: Moerland
-          name: "Moerland and Hoogenboom 2016: n,k 0.4–1.0 µm"
-          data: "other/mixed crystals/In2O3-SnO2/Moerland.yml"
+        - DIVIDER: "Thin film"
         - PAGE: Konig
           name: "König et al. 2014: n,k 0.25–1.0 µm"
           data: "other/mixed crystals/In2O3-SnO2/Konig.yml"
         - PAGE: Konig-EMA
-          name: "König et al. 2014: EMA layer; n,k 0.25–1.0 µm"
+          name: "König et al. 2014: with EMA layer; n,k 0.25–1.0 µm"
           data: "other/mixed crystals/In2O3-SnO2/Konig-EMA.yml"
+        - PAGE: Minenkov-glass
+          name: "Minenkov et al. 2024: on glass; n,k 0.191–1.69 µm"
+          data: "other/mixed crystals/In2O3-SnO2/Minenkov-glass.yml"
+        - PAGE: Minenkov-wafer-top
+          name: "Minenkov et al. 2024: on Si wafer, top; n,k 0.191–1.69 µm"
+          data: "other/mixed crystals/In2O3-SnO2/Minenkov-wafer-top.yml"
+        - PAGE: Minenkov-wafer-bottom
+          name: "Minenkov et al. 2024: on Si wafer, bottom; n,k 0.191–1.69 µm"
+          data: "other/mixed crystals/In2O3-SnO2/Minenkov-wafer-bottom.yml"
+        - PAGE: Moerland
+          name: "Moerland and Hoogenboom 2016: n,k 0.4–1.0 µm"
+          data: "other/mixed crystals/In2O3-SnO2/Moerland.yml"
     - BOOK: TlBr-TlCl
       name: "TlBr-TlCl (Thallium bromo-chloride, KRS-6)"
       info: "other/TlBr-TlCl.html"
