@@ -4724,6 +4724,14 @@
         - PAGE: Moutzouris-γ
           name: "Moutzouris et al. 2011: n(γ) 0.450–1.55 µm"
           data: "organic/C8H5KO4 - potassium hydrogen phthalate/Moutzouris-gamma.yml"
+    - BOOK: acetaminophen
+      name: "C<sub>8</sub>H<sub>9</sub>NO<sub>2</sub> (Acetaminophen)"
+      info: "organic/acetaminophen.html"
+      content:
+      content:   
+        - PAGE: Juntunen
+          name: "Juntunen et al. 2024: n 1.10–1.65 µm"
+          data: "organic/C8H9NO2 - acetaminophen/Juntunen.yml"
     - BOOK: cinnamaldehyde
       name: "C<sub>9</sub>H<sub>8</sub>O (Cinnamaldehyde)"
       info: "organic/cinnamaldehyde.html"
@@ -4731,6 +4739,13 @@
         - PAGE: Rheims
           name: "Rheims et al. 1997: n 0.589–1.05 µm"
           data: "organic/C9H8O - cinnamaldehyde/Rheims.yml"
+    - BOOK: lactose_monohydrate
+      name: "C<sub>12</sub>H<sub>24</sub>O<sub>12</sub> (Lactose monohydrate)"
+      info: "organic/lactose monohydrate.html"
+      content:   
+        - PAGE: Juntunen
+          name: "Juntunen et al. 2024: n 1.10–1.65 µm"
+          data: "organic/C12H24O12 - lactose monohydrate/Juntunen.yml"
     - BOOK: rhodamine_6g
       name: "C<sub>28</sub>H<sub>31</sub>ClN<sub>2</sub>O<sub>3</sub> (Rhodamine 6G)"
       info: "organic/rhodamine_6g.html"
@@ -4776,9 +4791,6 @@
         - PAGE: Schneider-Sylgard184
           name: "Schneider et al. 2009: Sylgard 184; n 0.35–0.70 µm"
           data: "organic/(C2H6OSi)n - polydimethylsiloxane/Schneider-Sylgard184.yml"
-#        - PAGE: Czapla
-#          name: "Czapla and Hanssen 2021: Sylgard 184 10:1; n,k 0.25–100 µm"
-#          data: "organic/(C2H6OSi)n - polydimethylsiloxane/Czapla.yml"
         - PAGE: Zhang-5-1
           name: "Zhang et al. 2020: 5:1; n,k 0.4–20 µm"
           data: "organic/(C2H6OSi)n - polydimethylsiloxane/Zhang-5-1.yml"
@@ -4865,6 +4877,9 @@
         - PAGE: Sultanova
           name: "Sultanova et al. 2009: n 0.437–1.05 µm"
           data: "organic/(C6H10O5)n - cellulose/Sultanova.yml"
+        - PAGE: Juntunen
+          name: "Juntunen et al. 2024: microcrystalline; n 1.10–1.65 µm"
+          data: "organic/(C6H10O5)n - cellulose/Juntunen.yml"
     - BOOK: poly(N-isopropylacrylamide)
       name: "(C<sub>6</sub>H<sub>11</sub>NO)<sub>n</sub> (Poly(N-isopropylacrylamide), PNIPAM)"
       info: "organic/poly(N-isopropylacrylamide).html"
@@ -4879,22 +4894,25 @@
         - PAGE: Smith
           name: "Smith and Loewenstein 1975: n,k 29.4–200 µm"
           data: "organic/(C6H12)n - polymethylpentene/Smith.yml"
-    - BOOK: polystyren
+    - BOOK: polystyrene
       name: "(C<sub>8</sub>H<sub>8</sub>)<sub>n</sub> (Polystyrene, PS)"
-      info: "organic/polystyren.html"
+      info: "organic/polystyrene.html"
       content:
         - PAGE: Sultanova
           name: "Sultanova et al. 2009: n 0.437–1.05 µm"
-          data: "organic/(C8H8)n - polystyren/Sultanova.yml"
+          data: "organic/(C8H8)n - polystyrene/Sultanova.yml"
+        - PAGE: Juntunen
+          name: "Juntunen et al. 2024: n 1.10–1.65 µm"
+          data: "organic/(C8H8)n - polystyrene/Juntunen.yml"
         - PAGE: Nyakuchena
           name: "Nyakuchena et al. 2023: n 1.10–1.65 µm"
-          data: "organic/(C8H8)n - polystyren/Nyakuchena.yml"
+          data: "organic/(C8H8)n - polystyrene/Nyakuchena.yml"
         - PAGE: Zhang
           name: "Zhang et al. 2020: n,k 0.4–20 µm"
-          data: "organic/(C8H8)n - polystyren/Zhang.yml"
+          data: "organic/(C8H8)n - polystyrene/Zhang.yml"
         - PAGE: Myers
           name: "Myers et al. 2018: n,k 1.28–25.0 µm"
-          data: "organic/(C8H8)n - polystyren/Myers.yml"
+          data: "organic/(C8H8)n - polystyrene/Myers.yml"
     - BOOK: polyethylene_terephthalate
       name: "(C<sub>10</sub>H<sub>8</sub>O<sub>4</sub>)<sub>n</sub> (Polyethylene terephthalate, PET)"
       info: "organic/polyethylene terephthalate.html"
@@ -11739,93 +11757,101 @@
         - PAGE: Querry
           name: "Querry 1985: n,k 0.21–55.6 µm"
           data: "other/mixed organic-inorganic/Li-C12H4N4/Querry.yml"       
-    - DIVIDER: "Commercial plastics"
+    - DIVIDER: "Commercial polymers"
     - BOOK: CR-39
       name: "CR-39"
       info: "other/CR-39.html"
       content:
         - PAGE: poly
           name: "Polymer: n 0.58929 µm"
-          data: "other/commercial plastics/CR-39/poly.yml"
+          data: "other/commercial polymers/CR-39/poly.yml"
         - PAGE: mono
           name: "Monomer: n 0.58929 µm"
-          data: "other/commercial plastics/CR-39/mono.yml"
+          data: "other/commercial polymers/CR-39/mono.yml"
     - BOOK: EVASKY_S87
       name: "EVASKY S87"
       info: "organic/ethylene-vinyl acetate.html"
       content:
         - PAGE: Vogt
           name: "Vogt et al. 2016: n,k 0.25–2.5 µm"
-          data: "other/commercial plastics/EVASKY S87/Vogt.yml"
+          data: "other/commercial polymers/EVASKY S87/Vogt.yml"
     - BOOK: EVASKY_S88
       name: "EVASKY S88"
       info: "organic/ethylene-vinyl acetate.html"
       content:
         - PAGE: Vogt
           name: "Vogt et al. 2016: n,k 0.25–2.5 µm"
-          data: "other/commercial plastics/EVASKY S88/Vogt.yml"
+          data: "other/commercial polymers/EVASKY S88/Vogt.yml"
     - BOOK: Kapton
       name: "Kapton"
       info: "other/Kapton.html"
       content:
         - PAGE: Cunningham
           name: "Cunningham et al. 2011: n 30–490 µm, k 30–470 µm"
-          data: "other/commercial plastics/Kapton/Cunningham.yml"
+          data: "other/commercial polymers/Kapton/Cunningham.yml"
         - PAGE: Sahin
           name: "Sahin et al. 2019: n,k 160–3000 µm"
-          data: "other/commercial plastics/Kapton/Sahin.yml"
+          data: "other/commercial polymers/Kapton/Sahin.yml"
         - PAGE: Kumar
           name: "Kumar et al. 2011: n 0.41–0.65 µm, k 0.49–0.78 µm"
-          data: "other/commercial plastics/Kapton/Kumar.yml"
+          data: "other/commercial polymers/Kapton/Kumar.yml"
         - PAGE: French
           name: "French et al. 2009: n 0.19–1.59 µm, k 0.48–2.49 µm"
-          data: "other/commercial plastics/Kapton/French.yml"
+          data: "other/commercial polymers/Kapton/French.yml"
         - PAGE: Kawka
           name: "Kawka and Buckius 2001: n 1.44–4.97 µm, k 1.82–4.98 µm"
-          data: "other/commercial plastics/Kapton/Kawka.yml"
+          data: "other/commercial polymers/Kapton/Kawka.yml"
         - PAGE: Zhang
           name: "Zhang et al. 1998: n,k 1.67–20.0 µm"
-          data: "other/commercial plastics/Kapton/Zhang.yml"
+          data: "other/commercial polymers/Kapton/Zhang.yml"
         - PAGE: Philipp
           name: "Philipp et al. 1986: k 0.18–0.33 µm"
-          data: "other/commercial plastics/Kapton/Philipp.yml"
+          data: "other/commercial polymers/Kapton/Philipp.yml"
         - PAGE: Brannon
           name: "Brannon et al. 1985: k 0.19–0.39 µm"
-          data: "other/commercial plastics/Kapton/Brannon.yml"
+          data: "other/commercial polymers/Kapton/Brannon.yml"
         - PAGE: Arakawa
           name: "Arakawa et al. 1981: n 0.02–1.49 µm, k 0.02–0.43 µm"
-          data: "other/commercial plastics/Kapton/Arakawa.yml"
+          data: "other/commercial polymers/Kapton/Arakawa.yml"
         - PAGE: Smith
           name: "Smith and Loewenstein 1975: n,k 28.6–182 µm"
-          data: "other/commercial plastics/Kapton/Smith.yml"
+          data: "other/commercial polymers/Kapton/Smith.yml"
     - BOOK: NAS-21
       name: "NAS-21"
       info: "other/NAS-21.html"
       content:
         - PAGE: Sultanova
           name: "Sultanova et al. 2009: n 0.4368–1.052 µm"
-          data: "other/commercial plastics/NAS-21/Sultanova.yml"
+          data: "other/commercial polymers/NAS-21/Sultanova.yml"
     - BOOK: Optorez1330
       name: "Optorez 1330"
       info: "other/Optorez1330.html"
       content:
         - PAGE: Sultanova
           name: "Sultanova et al. 2009: n 0.4368–1.052 µm"
-          data: "other/commercial plastics/Optorez1330/Sultanova.yml"
+          data: "other/commercial polymers/Optorez1330/Sultanova.yml"    
+    - BOOK: Pharmacoat606
+      name: "Pharmacoat 606 (Hydroxypropyl methylcellulose, HPMC)"
+      info: "other/hydroxypropyl methylcellulose.html"
+      content:
+      content:   
+        - PAGE: Juntunen
+          name: "Juntunen et al. 2024: n 1.10–1.65 µm"
+          data: "other/commercial polymers/Pharmacoat 606/Juntunen.yml"
     - BOOK: SurlynA1601
       name: "Surlyn A-1601"
       info: "other/Surlyn.html"
       content:
         - PAGE: Smith
           name: "Smith and Loewenstein 1975: n,k 28.6–200 µm"
-          data: "other/commercial plastics/Surlyn A-1601/Smith.yml"
+          data: "other/commercial polymers/Surlyn A-1601/Smith.yml"
     - BOOK: ZeonexE48R
       name: "Zeonex E48R"
       info: "other/ZeonexE48R.html"
       content:
         - PAGE: Sultanova
           name: "Sultanova et al. 2009: n 0.4368–1.052 µm"
-          data: "other/commercial plastics/ZeonexE48R/Sultanova.yml"
+          data: "other/commercial polymers/ZeonexE48R/Sultanova.yml"
     - DIVIDER: "Liquid crystals"
     - BOOK: 5CB
       name: "5CB (4-pentyl-4'-cyanobiphenyl)"
@@ -12543,13 +12569,13 @@
           info: "organic/cellulose.html"
         - PAGE: NAS-21
           name: "NAS-21"
-          data: "other/commercial plastics/NAS-21/Sultanova.yml"
+          data: "other/commercial polymers/NAS-21/Sultanova.yml"
         - PAGE: Optorez1330
           name: "Optorez1330"
-          data: "other/commercial plastics/Optorez1330/Sultanova.yml"
+          data: "other/commercial polymers/Optorez1330/Sultanova.yml"
         - PAGE: ZeonexE48R
           name: "ZeonexE48R"
-          data: "other/commercial plastics/ZeonexE48R/Sultanova.yml"
+          data: "other/commercial polymers/ZeonexE48R/Sultanova.yml"
     - BOOK: crystals
       name: "CRYSTALS"
       info: "crystals.html"
