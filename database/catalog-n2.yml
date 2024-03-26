@@ -132,6 +132,13 @@
           name: "DeSalvo et al. 1996"
           data: "main/BaB2O4/DeSalvo.yml"
     - DIVIDER: "Br - Bromides"
+    - BOOK: AgBr
+      name: "AgBr (Silver bromide)"
+      info: "main/AgBr.html"
+      content:
+        - PAGE: Polyanskiy
+          name: "Polyanskiy et al. 2024"
+          data: "main/AgBr/Polyanskiy.yml"
     - BOOK: KBr
       name: "KBr (Potassium bromide)"
       info: "main/KBr.html"
