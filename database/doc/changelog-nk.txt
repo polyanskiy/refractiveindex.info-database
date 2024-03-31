@@ -61,6 +61,12 @@
     main/C/Ermolaev-SWCNT-e.yml
     main/WS2/Vyshnevyy-o.yml
     main/WS2/Vyshnevyy-e.yml
+    main/As2S3/Slavich-alpha.yml
+    main/As2S3/Slavich-beta.yml
+    main/As2S3/Slavich-gamma.yml
+    main/As2S3/Slavich-abinitio-alpha.yml
+    main/As2S3/Slavich-abinitio-beta.yml
+    main/As2S3/Slavich-abinitio-gamma.yml
   new data (thanks to Tobias König, Leibniz-Institut für Polymerforschung Dresden, Germany, for submitting data!)
     organic/C28H31ClN2O3 - Rhodamine 6G/Seckin.yml
   new data (thanks to Natalia Herguedas, Universidad de Zaragoza, Spain, for submitting data in YAML format!)

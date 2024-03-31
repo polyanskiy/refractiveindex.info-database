@@ -2820,9 +2820,30 @@
       name: "As<sub>2</sub>S<sub>3</sub> (Arsenic trisulfide)"
       info: "main/As2S3.html"
       content:
+        - DIVIDER: "Experimental data - crystal"
+        - PAGE: Slavich-alpha
+          name: "Slavich et al. 2024: n(α) 0.500–0.900 µm"
+          data: "main/As2S3/Slavich-alpha.yml"
+        - PAGE: Slavich-beta
+          name: "Slavich et al. 2024: n(β) 0.500–0.900 µm"
+          data: "main/As2S3/Slavich-beta.yml"
+        - PAGE: Slavich-gamma
+          name: "Slavich et al. 2024: n(γ) 0.500–0.900 µm"
+          data: "main/As2S3/Slavich-gamma.yml"
+        - DIVIDER: "Experimental data - glass"
         - PAGE: Rodney
           name: "Rodney et al. 1958: n 0.57–11.8 µm"
           data: "main/As2S3/Rodney.yml"
+        - DIVIDER: "Models and simulations - crystal"
+        - PAGE: Slavich-abinitio-alpha
+          name: "Slavich et al. 2024: Ab initio; n,k(α) 0.299–2.07 µm"
+          data: "main/As2S3/Slavich-abinitio-alpha.yml"
+        - PAGE: Slavich-abinitio-beta
+          name: "Slavich et al. 2024: Ab initio; n,k(β) 0.299–2.07 µm"
+          data: "main/As2S3/Slavich-abinitio-beta.yml"
+        - PAGE: Slavich-abinitio-gamma
+          name: "Slavich et al. 2024: Ab initio; n,k(γ) 0.299–2.07 µm"
+          data: "main/As2S3/Slavich-abinitio-gamma.yml"
     - BOOK: BaGa4S7
       name: "BaGa<sub>4</sub>S<sub>7</sub> (Barium gallium sulfide, BGS)"
       info: "main/BaGa4S7.html"
