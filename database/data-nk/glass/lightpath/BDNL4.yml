@@ -1,0 +1,70 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+REFERENCES: "<a href=\"https://refractiveindex.info/download/data/2024/BDNL Sell Sheet_4_3_2024.pdf\">BLACK DIAMOND BDNL4 Glass Datasheet (revision 2024-04-04)</a>"
+COMMENTS: "20 °C."
+DATA:
+  - type: tabulated n
+    data: |
+        1 2.754
+        2 2.667
+        4 2.647
+        6 2.643
+        8 2.639
+        10 2.636
+        12 2.632
+        14 2.628
+  - type: tabulated k
+    data: |
+        1.0 4.536E-09
+        1.5 5.491E-09
+        2.0 8.117E-09
+        2.5 1.154E-08
+        3.0 3.175E-08
+        3.5 2.061E-08
+        4.0 2.451E-08
+        4.5 3.259E-08
+        5.0 4.019E-08
+        5.5 5.165E-08
+        6.0 6.446E-08
+        6.5 8.897E-08
+        7.0 7.464E-08
+        7.5 1.009E-07
+        8.0 4.265E-07
+        8.5 1.265E-07
+        9.0 1.218E-07
+        9.5 1.497E-07
+        10.0 2.284E-07
+        10.5 5.080E-07
+        11.0 7.589E-07
+        11.5 1.624E-06
+        12.0 8.013E-06
+        12.5 2.621E-05
+        13.0 3.239E-05
+        13.5 1.647E-05
+        14.0 8.077E-06
+        14.5 5.436E-06
+        15.0 6.102E-06
+        15.5 5.241E-06
+SPECS:
+    n_is_absolute: false
+    wavelength_is_vacuum: false
+    temperature: 20 °C
+    density: 4.50 g/cm<sup>3</sup>
+    thermal_expansion:
+      - value: 25.2e-06 K<sup>-1</sup>
+    thermal_dispersion:
+      - type: "dn/dT"
+        wavelength_range: 8 12 µm
+        value: -16.3e-6 K<sup>-1</sup>
+      - type: "dn/dT"
+        wavelength_range: 3 5 µm
+        value: -14.3e-6 K<sup>-1</sup>
+      - type: "dn/dT"
+        wavelength_range: 1 2 µm
+        value: -9.7e-6 K<sup>-1</sup>
+    transition_temperature: 205 °C
+    thermal_conductivity: 0.17 W/m*K
+    Vickers_hardness: 151 HV
+    Youngs_modulus: 14.2 GPa

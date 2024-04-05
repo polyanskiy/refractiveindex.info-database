@@ -5435,9 +5435,13 @@
         - PAGE: BD-2
           name: "BD-2"
           data: "glass/lightpath/BD-2.yml"
+          data: "glass/lightpath/BD-2.yml"
+        - PAGE: BDNL4
+          name: "BDNL4"
+          data: "glass/lightpath/BDNL4.yml"
         - PAGE: BD6
           name: "BD6"
-          data: "glass/lightpath/BD6.yml"     
+          data: "glass/lightpath/BD6.yml"
     - DIVIDER: "Optical glass - SCHOTT"
     - BOOK: SCHOTT-K
       name: "SCHOTT - K (Crown)"
