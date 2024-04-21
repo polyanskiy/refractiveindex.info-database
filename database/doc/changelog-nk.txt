@@ -1,5 +1,32 @@
 ﻿============================== NEXT RELEASE ==============================
 
+  new data (thanks to Cesar Lopez-Zelaya, University of Central Florida, Orlando, USA, for submitting data!)
+    organic/C6H6 - benzene/Chang.yml
+    organic/C7H8 - toluene/Chang.yml
+    organic/C8H10 - xylene/Chang.yml
+    organic/C5H5N - pyridine/Chang.yml
+    organic/C6H5NO2 - nitrobenzene/Chang.yml
+    organic/CH2Cl2 - dichloromethane/Chang.yml
+    organic/CHCl3 - chloroform/Chang.yml
+    organic/CCl4 - carbon tetrachloride/Chang.yml
+    organic/CH4O - methanol/Chang.yml
+    organic/C2H6O - ethanol/Chang.yml
+    organic/C3H8O - propanol/Chang.yml
+    organic/C4H10O - butanol/Chang.yml
+    organic/C8H18O - octanol/Chang.yml
+    main/CS2/Chang.yml
+    organic/C7F5N - pentafluorobenzonitrile/Chang.yml
+    organic/CBrCl3 - bromotrichloromethane/Chang.yml
+    organic/C6F14 - perfluorohexane/Chang.yml
+    organic/C2Cl4 - tetrachloroethylene/Chang.yml
+    organic/C2Cl3N - trichloroacetonitrile/Chang.yml
+    organic/C4F6O3 - trifluoroacetic anhydride/Chang.yml
+    organic/C3H6O - acetone/Chang.yml
+    organic/C2H3N - acetonitrile/Chang.yml
+    organic/C6H14 - hexane/Chang.yml
+    organic/C6H12 - cyclohexane/Chang.yml
+    organic/C4H8O - tetrahydrofuran/Chang.yml
+    organic/C4H8O2 - dioxane/Chang.yml
   new data (thanks to Yongjin Sung, University of Wisconsin-Milwaukee, USA, for suggesting data!)
     organic/C12H24O12 - lactose monohydrate/Juntunen.yml
     organic/(C6H10O5)n - cellulose/Juntunen.yml

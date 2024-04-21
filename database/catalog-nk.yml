@@ -2864,6 +2864,9 @@
         - PAGE: Kedenburg
           name: "Kedenburg et al. 2012: n 0.5–1.6 µm"
           data: "main/CS2/Kedenburg.yml"
+        - PAGE: Chang
+          name: "Chang et al. 2024: n 0.4–2.0 µm"
+          data: "main/CS2/Chang.yml"
         - PAGE: Chemnitz
           name: "Chemnitz et al. 2017: n 0.3–12 µm"
           data: "main/CS2/Chemnitz.yml"
@@ -4264,6 +4267,9 @@
         - PAGE: Kozma
           name: "Kozma et al. 2005: n-Hexane; n 0.230–0.641 µm"
           data: "organic/C6H14 - hexane/Kozma.yml"
+        - PAGE: Chang
+          name: "Chang et al. 2024: n 0.4–2.0 µm"
+          data: "organic/C6H14 - hexane/Chang.yml"
         - PAGE: Kerl-293K
           name: "Kerl and Varchmin 1995: n-Hexane; 293 K; n 0.326–0.644 µm"
           data: "organic/C6H14 - hexane/Kerl-293K.yml"
@@ -4329,6 +4335,9 @@
         - PAGE: El-Kashef
           name: "El-Kashef 2000: n 0.4–0.8 µm"
           data: "organic/CH4O - methanol/El-Kashef.yml"
+        - PAGE: Chang
+          name: "Chang et al. 2024: n 0.4–2.0 µm"
+          data: "organic/CH4O - methanol/Chang.yml"
         - PAGE: Myers
           name: "Myers et al. 2018: n,k 1.28–25.0 µm"
           data: "organic/CH4O - methanol/Myers.yml"
@@ -4345,6 +4354,9 @@
         - PAGE: Rheims
           name: "Rheims et al. 1997: n 0.477–0.83 µm"
           data: "organic/C2H6O - ethanol/Rheims.yml"
+        - PAGE: Chang
+          name: "Chang et al. 2024: n 0.4–2.0 µm"
+          data: "organic/C2H6O - ethanol/Chang.yml"
         - PAGE: Myers
           name: "Myers et al. 2018: n,k 1.28–25.0 µm"
           data: "organic/C2H6O - ethanol/Myers.yml"
@@ -4367,6 +4379,9 @@
         - PAGE: Kozma
           name: "Kozma et al. 2005: iso-propanol; n 0.230–0.641 µm"
           data: "organic/C3H8O - propanol/Kozma.yml"
+        - PAGE: Chang
+          name: "Chang et al. 2024: n 0.4–2.0 µm"
+          data: "organic/C3H8O - propanol/Chang.yml"
         - PAGE: Wang-20C
           name: "Wang et al. 2018: iso-propanol, 20 °C; n,k 1.66–19.1 µm"
           data: "organic/C3H8O - propanol/Wang-20C.yml"
@@ -4394,7 +4409,10 @@
       content:
         - PAGE: El-Kashef
           name: "El-Kashef 2000: n 0.4–0.8 µm"
-          data: "organic/C4H10O - butanol/El-Kashef.yml" 
+          data: "organic/C4H10O - butanol/El-Kashef.yml"
+        - PAGE: Chang
+          name: "Chang et al. 2024: n 0.4–2.0 µm"
+          data: "organic/C4H10O - butanol/Chang.yml"
         - PAGE: Wang-20C
           name: "Wang et al. 2018: n-Butanol, 20 °C; n,k 1.66–19.1 µm"
           data: "organic/C4H10O - butanol/Wang-20C.yml"
@@ -4420,6 +4438,13 @@
         - PAGE: Moutzouris-iso
           name: "Moutzouris et al. 2013: Isoamyl alcohol; n 0.450–1.55 µm"
           data: "organic/C5H12O - pentanol/Moutzouris-iso.yml"
+    - BOOK: octanol
+      name: "C<sub>8</sub>H<sub>17</sub>OH (Octanol)"
+      info: "organic/octanol.html"
+      content:
+        - PAGE: Chang
+          name: "Chang et al. 2024: n 0.4–2.0 µm"
+          data: "organic/C8H18O - octanol/Chang.yml"
     - DIVIDER: "Diols"
     - BOOK: ethylene_glycol
       name: "C<sub>2</sub>H<sub>4</sub>(OH)<sub>2</sub> (Ethylene glycol)"
@@ -4514,6 +4539,9 @@
         - PAGE: Rheims
           name: "Rheims et al. 1997: n 0.477–0.83 µm"
           data: "organic/C6H12 - cyclohexane/Rheims.yml"
+        - PAGE: Chang
+          name: "Chang et al. 2024: n 0.4–2.0 µm"
+          data: "organic/C6H12 - cyclohexane/Chang.yml"
         - PAGE: Kozma
           name: "Kozma et al. 2005: n 0.230–0.641 µm"
           data: "organic/C6H12 - cyclohexane/Kozma.yml"
@@ -4526,6 +4554,14 @@
         - PAGE: Kerl-333K
           name: "Kerl and Varchmin 1995: 333 K; n 0.326–0.644 µm"
           data: "organic/C6H12 - cyclohexane/Kerl-333K.yml"
+    - DIVIDER: "Cyclic ethers"
+    - BOOK: tetrahydrofuran
+      name: "C<sub>4</sub>H<sub>8</sub>O (Tetrahydrofuran, THF)"
+      info: "organic/tetrahydrofuran.html"
+      content:
+        - PAGE: Chang
+          name: "Chang et al. 2024: n 0.4–2.0 µm"
+          data: "organic/C4H8O - tetrahydrofuran/Chang.yml"
     - DIVIDER: "Benzene and its derivatives"
     - BOOK: benzene
       name: "C<sub>6</sub>H<sub>6</sub> (Benzene)"
@@ -4534,9 +4570,31 @@
         - PAGE: Moutzouris
           name: "Moutzouris et al. 2013: n 0.450–1.55 µm"
           data: "organic/C6H6 - benzene/Moutzouris.yml"
+        - PAGE: Chang
+          name: "Chang et al. 2024: n 0.4–2.0 µm"
+          data: "organic/C6H6 - benzene/Chang.yml"
         - PAGE: Myers
           name: "Myers et al. 2018: n,k 1.28–25.0 µm"
           data: "organic/C6H6 - benzene/Myers.yml"
+    - BOOK: toluene
+      name: "C<sub>7</sub>H<sub>8</sub> (Toluene)"
+      info: "organic/toluene.html"
+      content:
+        - PAGE: Kedenburg
+          name: "Kedenburg et al. 2012: n 0.5–1.6 µm, k 0.5–1.75 µm"
+          data: "organic/C7H8 - toluene/Kedenburg.yml"
+        - PAGE: Chang
+          name: "Chang et al. 2024: n 0.4–2.0 µm"
+          data: "organic/C7H8 - toluene/Chang.yml"
+        - PAGE: Myers
+          name: "Myers et al. 2018: n,k 1.28–25.0 µm"
+          data: "organic/C7H8 - toluene/Myers.yml"
+        - PAGE: Moutzouris
+          name: "Moutzouris et al. 2013: n 0.450–1.55 µm"
+          data: "organic/C7H8 - toluene/Moutzouris.yml"
+        - PAGE: Kozma
+          name: "Kozma et al. 2005: n 0.300–0.641 µm"
+          data: "organic/C7H8 - toluene/Kozma.yml"
     - BOOK: styrene
       name: "C<sub>8</sub>H<sub>8</sub> (Styrene)"
       info: "organic/styrene.html"
@@ -4547,22 +4605,13 @@
         - PAGE: Myers
           name: "Myers et al. 2018: n,k 1.28–25.0 µm"
           data: "organic/C8H8 - styrene/Myers.yml"
-    - BOOK: toluene
-      name: "C<sub>7</sub>H<sub>8</sub> (Toluene)"
-      info: "organic/toluene.html"
+    - BOOK: xylene
+      name: "C<sub>8</sub>H<sub>10</sub> (Xylene)"
+      info: "organic/xylene.html"
       content:
-        - PAGE: Kedenburg
-          name: "Kedenburg et al. 2012: n 0.5–1.6 µm, k 0.5–1.75 µm"
-          data: "organic/C7H8 - toluene/Kedenburg.yml"
-        - PAGE: Myers
-          name: "Myers et al. 2018: n,k 1.28–25.0 µm"
-          data: "organic/C7H8 - toluene/Myers.yml"
-        - PAGE: Moutzouris
-          name: "Moutzouris et al. 2013: n 0.450–1.55 µm"
-          data: "organic/C7H8 - toluene/Moutzouris.yml"
-        - PAGE: Kozma
-          name: "Kozma et al. 2005: n 0.300–0.641 µm"
-          data: "organic/C7H8 - toluene/Kozma.yml"
+        - PAGE: Chang
+          name: "Chang et al. 2024: n 0.4–2.0 µm"
+          data: "organic/C8H10 - xylene/Chang.yml"
     - BOOK: trichlorobenzene
       name: "C<sub>6</sub>H<sub>3</sub>Cl<sub>3</sub> (Trichlorobenzene, TCB)"
       info: "organic/trichlorobenzene.html"
@@ -4577,9 +4626,26 @@
         - PAGE: Kedenburg
           name: "Kedenburg et al. 2012: n 0.5–1.6 µm"
           data: "organic/C6H5NO2 - nitrobenzene/Kedenburg.yml"
+        - PAGE: Chang
+          name: "Chang et al. 2024: n 0.4–2.0 µm"
+          data: "organic/C6H5NO2 - nitrobenzene/Chang.yml"
         - PAGE: Myers
           name: "Myers et al. 2018: n,k 1.28–25.0 µm"
           data: "organic/C6H5NO2 - nitrobenzene/Myers.yml"
+    - BOOK: pyridine
+      name: "C<sub>5</sub>H<sub>5</sub>N (Pyridine)"
+      info: "organic/pyridine.html"
+      content:
+        - PAGE: Chang
+          name: "Chang et al. 2024: n 0.4–2.0 µm"
+          data: "organic/C5H5N - pyridine/Chang.yml"
+    - BOOK: pentafluorobenzonitrile
+      name: "C<sub>7</sub>F<sub>5</sub>N (Pentafluorobenzonitrile)"
+      info: "organic/pentafluorobenzonitrile.html"
+      content:
+        - PAGE: Chang
+          name: "Chang et al. 2024: n 0.4–2.0 µm"
+          data: "organic/C7F5N - pentafluorobenzonitrile/Chang.yml"
     - DIVIDER: "Heterocyclic compounds"
     - BOOK: dioxane
       name: "C<sub>4</sub>H<sub>8</sub>O<sub>2</sub> (Dioxane)"
@@ -4588,6 +4654,9 @@
         - PAGE: Moutzouris
           name: "Moutzouris et al. 2013: n 0.450–1.55 µm"
           data: "organic/C4H8O2 - dioxane/Moutzouris.yml"
+        - PAGE: Chang
+          name: "Chang et al. 2024: n 0.4–2.0 µm"
+          data: "organic/C4H8O2 - dioxane/Chang.yml"
     - BOOK: oxathiane
       name: "C<sub>4</sub>H<sub>8</sub>OS (Oxathiane)"
       info: "organic/oxathiane.html"
@@ -4619,6 +4688,9 @@
         - PAGE: Rheims
           name: "Rheims et al. 1997: n 0.477–0.83 µm"
           data: "organic/C3H6O - acetone/Rheims.yml"
+        - PAGE: Chang
+          name: "Chang et al. 2024: n 0.4–2.0 µm"
+          data: "organic/C3H6O - acetone/Chang.yml"
     - DIVIDER: "Haloalkanes"
     - BOOK: bromoform
       name: "CHBr<sub>3</sub> (Bromoform)"
@@ -4634,6 +4706,9 @@
         - PAGE: Bertie
           name: "Bertie et al. 1995: n,k 1.54–12.5 µm"
           data: "organic/CH2Cl2 - dichloromethane/Bertie.yml"
+        - PAGE: Chang
+          name: "Chang et al. 2024: n 0.4–2.0 µm"
+          data: "organic/CH2Cl2 - dichloromethane/Chang.yml"
     - BOOK: chloroform
       name: "CHCl<sub>3</sub> (Chloroform)"
       info: "organic/chloroform.html"
@@ -4641,6 +4716,9 @@
         - PAGE: Kedenburg
           name: "Kedenburg et al. 2012: n 0.5–1.6 µm, k 0.5–1.75 µm"
           data: "organic/CHCl3 - chloroform/Kedenburg.yml"
+        - PAGE: Chang
+          name: "Chang et al. 2024: n 0.4–2.0 µm"
+          data: "organic/CHCl3 - chloroform/Chang.yml"
     - BOOK: carbon_tetrachloride
       name: "CCl<sub>4</sub> (Carbon tetrachloride)"
       info: "organic/carbon tetrachloride.html"
@@ -4648,12 +4726,37 @@
         - PAGE: Kedenburg
           name: "Kedenburg et al. 2012: n 0.5–1.6 µm, k 0.5–1.5 µm"
           data: "organic/CCl4 - carbon tetrachloride/Kedenburg.yml"
+        - PAGE: Chang
+          name: "Chang et al. 2024: n 0.4–2.0 µm"
+          data: "organic/CCl4 - carbon tetrachloride/Chang.yml"
         - PAGE: Moutzouris
           name: "Moutzouris et al. 2013: n 0.450–1.55 µm"
           data: "organic/CCl4 - carbon tetrachloride/Moutzouris.yml"
         - PAGE: Ghosal
           name: "Ghosal et al. 1993: n 1–9 µm"
           data: "organic/CCl4 - carbon tetrachloride/Ghosal.yml"
+    - BOOK: bromotrichloromethane
+      name: "CBrCl<sub>3</sub> (Bromotrichloromethane)"
+      info: "organic/bromotrichloromethane.html"
+      content:
+        - PAGE: Chang
+          name: "Chang et al. 2024: n 0.4–2.0 µm"
+          data: "organic/CBrCl3 - bromotrichloromethane/Chang.yml"
+    - BOOK: perfluorohexane
+      name: "C<sub>6</sub>F<sub>14</sub> (Perfluorohexane)"
+      info: "organic/perfluorohexane.html"
+      content:
+        - PAGE: Chang
+          name: "Chang et al. 2024: n 0.4–2.0 µm"
+          data: "organic/C6F14 - perfluorohexane/Chang.yml"
+    - DIVIDER: "Haloalkenes"
+    - BOOK: tetrachloroethylene
+      name: "C<sub>2</sub>Cl<sub>4</sub> (Tetrachloroethylene, PCE, PERC)"
+      info: "organic/tetrachloroethylene.html"
+      content:
+        - PAGE: Chang
+          name: "Chang et al. 2024: n 0.4–2.0 µm"
+          data: "organic/C2Cl4 - tetrachloroethylene/Chang.yml"
     - DIVIDER: "Nitriles"
     - BOOK: acetonitrile
       name: "C<sub>2</sub>H<sub>3</sub>N (Acetonitrile)"
@@ -4662,12 +4765,31 @@
         - PAGE: Kozma
           name: "Kozma et al. 2005: n 0.230–0.641 µm"
           data: "organic/C2H3N - acetonitrile/Kozma.yml"
+        - PAGE: Chang
+          name: "Chang et al. 2024: n 0.4–2.0 µm"
+          data: "organic/C2H3N - acetonitrile/Chang.yml"
         - PAGE: Myers
           name: "Myers et al. 2018: n,k 1.28–25.0 µm"
           data: "organic/C2H3N - acetonitrile/Myers.yml"
         - PAGE: Moutzouris
           name: "Moutzouris et al. 2013: n 0.450–1.55 µm"
           data: "organic/C2H3N - acetonitrile/Moutzouris.yml"
+    - DIVIDER: "Halonitriles"
+    - BOOK: trichloroacetonitrile
+      name: "C<sub>2</sub>Cl<sub>3</sub>N (Trichloroacetonitrile)"
+      info: "organic/trichloroacetonitrile.html"
+      content:
+        - PAGE: Chang
+          name: "Chang et al. 2024: n 0.4–2.0 µm"
+          data: "organic/C2Cl3N - trichloroacetonitrile/Chang.yml"
+    - DIVIDER: "Acyl halides"
+    - BOOK: trifluoroacetic_anhydride
+      name: "(CF<sub>3</sub>CO)<sub>2</sub>O (Trifluoroacetic anhydride, TFAA)"
+      info: "organic/trifluoroacetic anhydride.html"
+      content:
+        - PAGE: Chang
+          name: "Chang et al. 2024: n 0.4–2.0 µm"
+          data: "organic/C4F6O3 - trifluoroacetic anhydride/Chang.yml"
     - DIVIDER: "Amines"
     - BOOK: diisopropylaminoethanol
       name: "C<sub>8</sub>H<sub>19</sub>NO (Diisopropylaminoethanol, DIPA)"
@@ -12582,7 +12704,7 @@
           info: "organic/polyvinylpyrrolidone.html"
         - PAGE: ps
           name: "PS - Polystyren"
-          data: "organic/(C8H8)n - polystyren/Sultanova.yml"
+          data: "organic/(C8H8)n - polystyrene/Sultanova.yml"
           info: "organic/polystyren.html"
         - PAGE: pc
           name: "PC - Polycarbonate"
