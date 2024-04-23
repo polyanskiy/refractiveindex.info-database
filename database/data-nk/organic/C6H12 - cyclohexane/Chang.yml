@@ -7,7 +7,7 @@ COMMENTS: "21.5–22.0 °C."
 DATA:
   - type: formula 1
     wavelength_range: 0.4 2.0
-    coefficients: 0 1.004 0.09971 0.0108 3.450
+    coefficients: 0 1.004 0.0971 0.0108 3.450
 SPECS:
     n_is_absolute: false
     wavelength_is_vacuum: false
