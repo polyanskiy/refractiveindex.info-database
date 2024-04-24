@@ -2848,6 +2848,15 @@
       name: "BaGa<sub>4</sub>S<sub>7</sub> (Barium gallium sulfide, BGS)"
       info: "main/BaGa4S7.html"
       content:
+        - PAGE: Badikov-α
+          name: "Badikov et al 2010: n(α) 0.420–9.50 µm"
+          data: "main/BaGa4S7/Badikov-alpha.yml"
+        - PAGE: Badikov-β
+          name: "Badikov et al 2010: n(β) 0.420–9.50 µm"
+          data: "main/BaGa4S7/Badikov-beta.yml"
+        - PAGE: Badikov-γ
+          name: "Badikov et al 2010: n(γ) 0.420–9.50 µm"
+          data: "main/BaGa4S7/Badikov-gamma.yml"
         - PAGE: Kato-α
           name: "Kato et al 2021: n(α) 0.633–8.82 µm"
           data: "main/BaGa4S7/Kato-alpha.yml"
@@ -3316,6 +3325,28 @@
         - PAGE: Kato-e
           name: "Kato et al. 2018: n(e) 0.778–10.6 µm"
           data: "main/BaGa2GeSe6/Kato-e.yml"
+    - BOOK: BaGa4Se7
+      name: "BaGa<sub>4</sub>Se<sub>7</sub> (Barium gallium selenide, BGSe)"
+      info: "main/BaGa4Se7.html"
+      content:
+        - PAGE: Badikov-α
+          name: "Badikov et al 2010: n(α) 0.480–10.4 µm"
+          data: "main/BaGa4Se7/Badikov-alpha.yml"
+        - PAGE: Badikov-β
+          name: "Badikov et al 2010: n(β) 0.480–10.4 µm"
+          data: "main/BaGa4Se7/Badikov-beta.yml"
+        - PAGE: Badikov-γ
+          name: "Badikov et al 2010: n(γ) 0.480–10.4 µm"
+          data: "main/BaGa4Se7/Badikov-gamma.yml"
+        - PAGE: Kato-α
+          name: "Kato et al 2017: n(α) 0.901–10.6 µm"
+          data: "main/BaGa4Se7/Kato-alpha.yml"
+        - PAGE: Kato-β
+          name: "Kato et al 2017: n(β) 0.901–10.6 µm"
+          data: "main/BaGa4Se7/Kato-beta.yml"
+        - PAGE: Kato-γ
+          name: "Kato et al 2017: n(γ) 0.901–10.6 µm"
+          data: "main/BaGa4Se7/Kato-gamma.yml"
     - BOOK: Bi2Se3
       name: "Bi<sub>2</sub>Se<sub>3</sub> (Bismuth selenide)"
       info: "main/Bi2Se3.html"

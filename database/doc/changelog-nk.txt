@@ -1,5 +1,15 @@
 ﻿============================== NEXT RELEASE ==============================
 
+  new data
+    main/BaGa4Se7/Kato-alpha.yml
+    main/BaGa4Se7/Kato-beta.yml
+    main/BaGa4Se7/Kato-gamma.yml
+    main/BaGa4Se7/Badikov-alpha.yml
+    main/BaGa4Se7/Badikov-beta.yml
+    main/BaGa4Se7/Badikov-gamma.yml
+    main/BaGa4S7/Badikov-alpha.yml
+    main/BaGa4S7/Badikov-beta.yml
+    main/BaGa4S7/Badikov-gamma.yml
   new data (thanks to Cesar Lopez-Zelaya, University of Central Florida, Orlando, USA, for submitting data!)
     organic/C6H6 - benzene/Chang.yml
     organic/C7H8 - toluene/Chang.yml
