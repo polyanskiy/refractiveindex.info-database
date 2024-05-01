@@ -7,4 +7,4 @@ COMMENTS: "n<sub>β</sub>; 22 °C. See the original publication for temperature 
 DATA:
   - type: formula 4
     wavelength_range: 0.40 3.4
-    coefficients: 1 1.441195 2 0.2727456 2 2.543328 2 0.1370039 2 -0.02845018 2
+    coefficients: 1 1.336582 2 0.2581573 2 2.497064 2 0.1290921 2 -0.02517432 2
