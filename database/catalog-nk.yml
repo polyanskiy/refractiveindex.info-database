@@ -1895,6 +1895,15 @@
       name: "KNbO<sub>3</sub> (Potassium niobate)"
       info: "main/KNbO3.html"
       content:
+        - PAGE: Zysset-α
+          name: "Zysset et al. 1992: n(α) 0.40–3.4 µm"
+          data: "main/KNbO3/Zysset-alpha.yml"
+        - PAGE: Zysset-β
+          name: "Zysset et al. 1992: n(β) 0.40–3.4 µm"
+          data: "main/KNbO3/Zysset-beta.yml"
+        - PAGE: Zysset-γ
+          name: "Zysset et al. 1992: n(γ) 0.40–3.4 µm"
+          data: "main/KNbO3/Zysset-gamma.yml"
         - PAGE: Umemura-α
           name: "Umemura et al. 1999: n(α) 0.40–5.3 µm"
           data: "main/KNbO3/Umemura-alpha.yml"

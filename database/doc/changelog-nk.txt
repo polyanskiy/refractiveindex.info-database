@@ -1,5 +1,9 @@
 ﻿============================== NEXT RELEASE ==============================
 
+  new data (thanks to Ivan Biaggio, Lehigh University, USA, for suggesting data!)
+    main/KNbO3/Zysset-alpha.yml
+   main/KNbO3/Zysset-beta.yml
+    main/KNbO3/Zysset-gamma.yml
   new data
     main/BaGa4Se7/Kato-alpha.yml
     main/BaGa4Se7/Kato-beta.yml
