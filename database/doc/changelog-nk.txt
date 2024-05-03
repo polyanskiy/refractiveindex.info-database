@@ -1,8 +1,11 @@
 ﻿============================== NEXT RELEASE ==============================
 
+  new data (thanks to Michael Brennan, Air Force Research Laboratory, Wright-Patterson Air Force Base, Ohio, USA, for submitting data in YAML format!)
+    other/perovskite/CH3NH3PbCl3/Brennan.yml
+    other/perovskite/CH3NH3PbBr3/McCleese.yml
   new data (thanks to Ivan Biaggio, Lehigh University, USA, for suggesting data!)
     main/KNbO3/Zysset-alpha.yml
-   main/KNbO3/Zysset-beta.yml
+    main/KNbO3/Zysset-beta.yml
     main/KNbO3/Zysset-gamma.yml
   new data
     main/BaGa4Se7/Kato-alpha.yml
