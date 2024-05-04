@@ -419,6 +419,14 @@
         - PAGE: Shaw
           name: "Shaw et al. 1993"
           data: "main/He/Shaw.yml"
+    - DIVIDER: "I - Iodides"
+    - BOOK: CsI
+      name: "CsI (Cesium iodide)"
+      info: "main/CsI.html"
+      content:
+        - PAGE: Polyanskiy
+          name: "Polyanskiy et al. 2024"
+          data: "main/CsI/Polyanskiy.yml"
     - DIVIDER: "N - Nitrogen"
     - BOOK: N2
       name: "N<sub>2</sub> (Nitrogen)"
