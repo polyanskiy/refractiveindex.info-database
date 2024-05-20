@@ -3871,6 +3871,18 @@
         - PAGE: Adachi
           name: "Adachi et al. 1993: n,k 0.221–1.13 µm"
           data: "main/CdTe/Adachi.yml"
+    - BOOK: Ge2Sb2Te5
+      name: "Ge2Sb2Te5 (Germanium antimony telluride, GST)"
+      info: "main/Ge2Sb2Te5.html"
+      content:
+        - DIVIDER: "Crystal"
+        - PAGE: Frantz-crystal
+          name: "Frantz et al. 2024: n,k 0.350–32.4 µm"
+          data: "main/Ge2Sb2Te5/Frantz-crystal.yml"
+        - DIVIDER: "Amorphous"
+        - PAGE: Frantz-amorphous
+          name: "Frantz et al. 2024: n,k 0.350–29.6 µm"
+          data: "main/Ge2Sb2Te5/Frantz-amorphous.yml"        
     - BOOK: MoTe2
       name: "MoTe<sub>2</sub> (Molybdenum ditelluride)"
       info: "main/MoTe2.html"

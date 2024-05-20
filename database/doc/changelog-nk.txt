@@ -1,5 +1,8 @@
 ﻿============================== NEXT RELEASE ==============================
 
+  new data (thanks to Jesse Frantz, Naval Research Laboratory, Washington, DC, USA, for submitting data!)
+    main/Ge2Sb2Te5/Frantz-crystal.yml
+    main/Ge2Sb2Te5/Frantz-amorphous.yml
   new data (thanks to Michael Brennan, Air Force Research Laboratory, Wright-Patterson Air Force Base, Ohio, USA, for submitting data in YAML format!)
     other/perovskite/CH3NH3PbCl3/Brennan.yml
     other/perovskite/CH3NH3PbBr3/McCleese.yml
