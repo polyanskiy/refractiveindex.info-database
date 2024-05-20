@@ -1,6 +1,11 @@
 ﻿============================== NEXT RELEASE ==============================
 
   new data
+    main/CdTe/Tatsuura-100.yml
+    main/CdTe/Tatsuura-111.yml
+    main/Si/Tatsuura-100.yml
+    main/Si/Tatsuura-111.yml
+    main/GaAs/Tatsuura.yml
     main/AgCl/Polyanskiy.yml
     main/AgBr/Polyanskiy.yml
     main/CsI/Polyanskiy.yml

@@ -1,0 +1,13 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+REFERENCES: "S. Tatsuura, T. Matsubara, H. Mitsu, Y. Sato, I. Iwasa, M. Tian, M. Furuki. Cadmium telluride bulk crystal as an ultrafast nonlinear optical switch, <a href=\"https://doi.org/10.1063/1.2151256\"><i>Appl. Phys. Lett</i> <b>87</b>, 251110 (2005)</a>"
+COMMENTS: "Si[100]. 110 fs. Z-scan."
+DATA:
+  - type: tabulated n2
+    data: |
+        1.55 0.722e-17
+SPECS:
+    n2_method: Z-scan
+    pulse_duration: 110e-15

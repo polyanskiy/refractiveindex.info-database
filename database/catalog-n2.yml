@@ -87,6 +87,9 @@
         - PAGE: Hurlbut
           name: "Hurlbut et al. 2007"
           data: "main/GaAs/Hurlbut.yml"
+        - PAGE: Tatsuura
+          name: "Tatsuura et al. 2005"
+          data: "main/GaAs/Tatsuura.yml"
         - PAGE: Sheik-Bahae
           name: "Sheik-Bahae et al. 1991"
           data: "main/GaAs/Sheik-Bahae.yml"
@@ -806,6 +809,12 @@
         - PAGE: Bristow
           name: "Bristow et al. 2007"
           data: "main/Si/Bristow.yml"
+        - PAGE: Tatsuura-100
+          name: "Tatsuura et al. 2005; Si[100]"
+          data: "main/Si/Tatsuura-100.yml"
+        - PAGE: Tatsuura-111
+          name: "Tatsuura et al. 2005; Si[111]"
+          data: "main/Si/Tatsuura-111.yml"
     - DIVIDER: "Ta - Tantalates"
     - BOOK: KTaO3
       name: "KTaO<sub>3</sub> (Potassium tantalate)"
@@ -819,6 +828,12 @@
       name: "CdTe (Cadmium telluride)"
       info: "main/CdTe.html"
       content:
+        - PAGE: Tatsuura-100
+          name: "Tatsuura et al. 2005; CdTe[100]"
+          data: "main/CdTe/Tatsuura-100.yml"
+        - PAGE: Tatsuura-111
+          name: "Tatsuura et al. 2005; CdTe[111]"
+          data: "main/CdTe/Tatsuura-111.yml"
         - PAGE: Sheik-Bahae
           name: "Sheik-Bahae et al. 1991"
           data: "main/CdTe/Sheik-Bahae.yml"
