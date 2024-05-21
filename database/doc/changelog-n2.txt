@@ -47,7 +47,6 @@
     other/mixed gases/air/Vlasov.yml
     other/mixed gases/air/Pennington.yml
     other/mixed gases/air/Shimoji.yml
-    main/ZnSe/Pigeon.yml
     main/GaSe/Pigeon.yml
   corrected data
     main/ZnSe/Pigeon.yml
