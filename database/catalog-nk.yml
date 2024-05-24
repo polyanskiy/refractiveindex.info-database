@@ -619,9 +619,6 @@
         - PAGE: Phillip
           name: "Phillip and Taft 1964: Diamond; n,k 0.0354–10 µm"
           data: "main/C/Phillip.yml"
-        - PAGE: Taylor
-          name: "Taylor et al. 2023: Single-crystal CVD film; n,k 0.193–1.69 µm"
-          data: "main/C/Taylor.yml"
         - PAGE: Peter
           name: "Peter 1923: Diamond; n 0.226–0.760 µm"
           data: "main/C/Peter.yml"
