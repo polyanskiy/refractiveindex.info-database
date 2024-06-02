@@ -762,6 +762,13 @@
         - PAGE: Pfluger
           name: "Pflüger et al. 1984: n,k 0.0311–2.48 µm"
           data: "main/TiC/Pfluger.yml"
+    - BOOK: Ti3C2
+      name: "Ti<sub>3</sub>C<sub>2</sub> (Ti<sub>3</sub>C<sub>2</sub> MXene)"
+      info: "main/Ti3C2.html"
+      content:          
+        - PAGE: Panova
+          name: "Panova et al. 2024: n,k 0.300–3.30 µm"
+          data: "main/Ti3C2/Panova.yml"
     - BOOK: VC
       name: "VC (Vanadium carbide)"
       info: "main/VC.html"

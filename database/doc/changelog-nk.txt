@@ -106,7 +106,8 @@
     other/resists/Nanoscribe IP-Dip/Mavrona-uncured.yml
     other/resists/Nanoscribe IP-Dip/Mavrona-cured.yml
   new data (thanks to Georgy Ermolaev, XPANCEO, Dubai, United Arab Emirates, for submitting data in YAML format!)
-    main/C/Ermolaev-SWCNT-o.yml
+    main/Ti3C2/Panova.yml
+	main/C/Ermolaev-SWCNT-o.yml
     main/C/Ermolaev-SWCNT-e.yml
     main/WS2/Vyshnevyy-o.yml
     main/WS2/Vyshnevyy-e.yml
