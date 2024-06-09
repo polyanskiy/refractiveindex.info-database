@@ -12473,6 +12473,9 @@
         - PAGE: Ermolaev-e
           name: "Ermolaev et al. 2023: n,k(e) 0.500–0.949 µm"
           data: "other/perovskite/CsPbBr3/Ermolaev-e.yml"
+        - PAGE: Brennan
+          name: "Brennan et al. 2024: n,k 0.200–2.50 µm"
+          data: "other/perovskite/CsPbBr3/Brennan.yml"
     - BOOK: CsPbCl3
       name: "CsPbCl3 (Cesium lead trichloride)"
       info: "other/CsPbCl3.html"
