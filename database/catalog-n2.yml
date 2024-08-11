@@ -608,7 +608,7 @@
           name: "Adair et al. 1989: (e)"
           data: "main/ZnO/Adair-e.yml"
     - BOOK: ZrO2
-      name: "ZrO<sub>2</sub> (Zirconium dioxide, Zirconia)"   
+      name: "ZrO<sub>2</sub> (Zirconium dioxide, Zirconia)"
       info: "main/ZrO2.html"
       content:
         - PAGE: Adair
@@ -966,7 +966,7 @@
       content:
         - PAGE: Shaw
           name: "Shaw et al. 1993"
-          data: "organic/CH4 - methane/Shaw.yml" 
+          data: "organic/CH4 - methane/Shaw.yml"
 - SHELF: other
   name: "OTHER - miscellaneous materials"
   content:
@@ -1063,5 +1063,3 @@
         - PAGE: Selivanov-e
           name: "Selivanov et al. 2006: (e)"
           data: "other/doped crystals/Yb-YVO4/Selivanov-e.yml"
-          
-          

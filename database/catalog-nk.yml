@@ -765,7 +765,7 @@
     - BOOK: Ti3C2
       name: "Ti<sub>3</sub>C<sub>2</sub> (Ti<sub>3</sub>C<sub>2</sub> MXene)"
       info: "main/Ti3C2.html"
-      content:          
+      content:
         - PAGE: Panova
           name: "Panova et al. 2024: n,k 0.300–3.30 µm"
           data: "main/Ti3C2/Panova.yml"
@@ -1227,7 +1227,7 @@
         - DIVIDER: "Models and simulations"
         - PAGE: Werner-DFT
           name: "Werner et al. 2009: DFT calculations; n,k 0.0176–2.48 µm"
-          data: "main/Fe/Werner-DFT.yml" 
+          data: "main/Fe/Werner-DFT.yml"
     - BOOK: BiFeO3
       name: "BiFeO3 (Bismuth ferrite, BFO)"
       info: "main/BiFeO3.html"
@@ -1858,13 +1858,13 @@
           data: "main/Na/Smith.yml"
         - PAGE: Inagaki
           name: "Inagaki et al. 1976: n,k 0.326–2.07 µm"
-          data: "main/Na/Inagaki.yml"     
+          data: "main/Na/Inagaki.yml"
         - PAGE: Monin
           name: "Monin and Boutry 1974: n,k 0.254–0.620 µm"
           data: "main/Na/Monin.yml"
         - PAGE: Yamaguchi
           name: "Yamaguchi and Hanyu 1971: n,k 0.200–0.600 µm"
-          data: "main/Na/Yamaguchi.yml" 
+          data: "main/Na/Yamaguchi.yml"
         - PAGE: Althoff
           name: "Althoff and Hertz 1967: n,k 2.25–10.2 µm"
           data: "main/Na/Althoff.yml"
@@ -2043,7 +2043,7 @@
     - BOOK: CuO
       name: "CuO (Copper monoxide)"
       info: "main/CuO.html"
-      content:      
+      content:
         - PAGE: Brimhall
           name: "Brimhall et al. 2009: n,k 0.0101–0.0348 µm"
           data: "main/CuO/Brimhall.yml"
@@ -2095,7 +2095,7 @@
         - DIVIDER: "Liquid water, H2O"
         - PAGE: Hale
           name: "Hale and Querry 1973: Water; n,k 0.2–200 µm; 25 °C"
-          data: "main/H2O/Hale.yml"          
+          data: "main/H2O/Hale.yml"
         - PAGE: Wang
           name: "Wang et al. 2017: Water; k 1.2–1.9 µm; 22 °C"
           data: "main/H2O/Wang.yml"
@@ -2476,7 +2476,7 @@
           name: "Bodurov et al. 2016: Nanoparticles; n 0.405–0.635 µm"
           data: "main/ZnO/Bodurov.yml"
     - BOOK: ZrO2
-      name: "ZrO<sub>2</sub> (Zirconium dioxide, Zirconia)"   
+      name: "ZrO<sub>2</sub> (Zirconium dioxide, Zirconia)"
       info: "main/ZrO2.html"
       content:
         - DIVIDER: "Crystal"
@@ -2753,7 +2753,7 @@
           data: "main/Rb/Monin.yml"
         - PAGE: Yamaguchi
           name: "Yamaguchi and Hanyu 1973: n,k 0.200–0.600 µm"
-          data: "main/Rb/Yamaguchi.yml" 
+          data: "main/Rb/Yamaguchi.yml"
         - PAGE: Whang
           name: "Whang et al. 1972: n,k 0.117–0.380 µm"
           data: "main/Rb/Whang.yml"
@@ -2941,7 +2941,7 @@
           data: "main/CuGaS2/Boyd-120-o.yml"
         - PAGE: Boyd-120-e
           name: "Boyd et al. 1971: n(e) 0.55–11.5 µm; 120 °C"
-          data: "main/CuGaS2/Boyd-120-e.yml"  
+          data: "main/CuGaS2/Boyd-120-e.yml"
     - BOOK: EuS
       name: "EuS (Europium sulfide)"
       info: "main/EuS.html"
@@ -3515,7 +3515,7 @@
     - BOOK: SnSe
       name: "SnSe (Tin selenide)"
       info: "main/SnSe.html"
-      content:      
+      content:
         - PAGE: Guo-α
           name: "Guo et al. 2022: n,k(α) 0.193–1.69 µm"
           data: "main/SnSe/Guo-alpha.yml"
@@ -3886,7 +3886,7 @@
         - DIVIDER: "Amorphous"
         - PAGE: Frantz-amorphous
           name: "Frantz et al. 2024: n,k 0.350–29.6 µm"
-          data: "main/Ge2Sb2Te5/Frantz-amorphous.yml"        
+          data: "main/Ge2Sb2Te5/Frantz-amorphous.yml"
     - BOOK: MoTe2
       name: "MoTe<sub>2</sub> (Molybdenum ditelluride)"
       info: "main/MoTe2.html"
@@ -3947,7 +3947,7 @@
     - BOOK: ZrTe5
       name: "ZrTe5 (Zirconium pentatelluride)"
       info: "main/ZrTe5.html"
-      content:      
+      content:
         - PAGE: Guo-α
           name: "Guo et al. 2021: n,k(α) 0.193–1.30 µm"
           data: "main/ZrTe5/Guo-alpha.yml"
@@ -4047,7 +4047,7 @@
         - DIVIDER: "Experimental data"
         - PAGE: Johnson
           name: "Johnson and Christy 1974: n,k 0.188–1.937 µm"
-          data: "main/V/Johnson.yml"          
+          data: "main/V/Johnson.yml"
         - PAGE: Palm
           name: "Palm et al. 2018: n,k 0.301–1.68 µm"
           data: "main/V/Palm.yml"
@@ -4249,7 +4249,7 @@
         - DIVIDER: "Models and simulations"
         - PAGE: Werner-DFT
           name: "Werner et al. 2009: DFT calculations; n,k 0.0176–2.48 µm"
-          data: "main/Zn/Werner-DFT.yml"     
+          data: "main/Zn/Werner-DFT.yml"
     - DIVIDER: "Zr - Zirconium"
     - BOOK: Zr
       name: "Zr (Zirconium)"
@@ -4275,10 +4275,10 @@
         - DIVIDER: "Gas"
         - PAGE: Rollefson
           name: "Rollefson and Havens 1940: Gas at 0 °C; n 1.68–14.8 µm"
-          data: "organic/CH4 - methane/Rollefson.yml" 
+          data: "organic/CH4 - methane/Rollefson.yml"
         - PAGE: Loria
           name: "Loria 1909: Gas at 0 °C; n 0.529–0.659 µm"
-          data: "organic/CH4 - methane/Loria.yml"  
+          data: "organic/CH4 - methane/Loria.yml"
         - DIVIDER: "Liquid"
         - PAGE: Martonchik-liquid-111K
           name: "Martonchik and Orton 1994: Liquid at 111 K; n,k 0.002–71.4 µm"
@@ -4477,7 +4477,7 @@
           data: "organic/C4H10O - butanol/Wang-60C.yml"
         - PAGE: Wang-90C
           name: "Wang et al. 2018: n-Butanol, 90 °C; n,k 1.66–19.1 µm"
-          data: "organic/C4H10O - butanol/Wang-90C.yml" 
+          data: "organic/C4H10O - butanol/Wang-90C.yml"
         - PAGE: Moutzouris-n
           name: "Moutzouris et al. 2013: n-Butanol; n 0.450–1.55 µm"
           data: "organic/C4H10O - butanol/Moutzouris-n.yml"
@@ -4927,7 +4927,6 @@
       name: "C<sub>8</sub>H<sub>9</sub>NO<sub>2</sub> (Acetaminophen)"
       info: "organic/acetaminophen.html"
       content:
-      content:   
         - PAGE: Juntunen
           name: "Juntunen et al. 2024: n 1.10–1.65 µm"
           data: "organic/C8H9NO2 - acetaminophen/Juntunen.yml"
@@ -4941,7 +4940,7 @@
     - BOOK: lactose_monohydrate
       name: "C<sub>12</sub>H<sub>24</sub>O<sub>12</sub> (Lactose monohydrate)"
       info: "organic/lactose monohydrate.html"
-      content:   
+      content:
         - PAGE: Juntunen
           name: "Juntunen et al. 2024: n 1.10–1.65 µm"
           data: "organic/C12H24O12 - lactose monohydrate/Juntunen.yml"
@@ -5046,10 +5045,10 @@
           data: "organic/(C5H8O2)n - poly(methyl methacrylate)/Zhang-Mitsubishi.yml"
         - PAGE: Tsuda
           name: "Tsuda et al. 2018: n 0.6–1.0 µm"
-          data: "organic/(C5H8O2)n - poly(methyl methacrylate)/Tsuda.yml" 
+          data: "organic/(C5H8O2)n - poly(methyl methacrylate)/Tsuda.yml"
         - PAGE: Tsuda-LD
           name: "Tsuda et al. 2018: Lorentz-Drude model; n,k 2.50–18.2 µm"
-          data: "organic/(C5H8O2)n - poly(methyl methacrylate)/Tsuda-LD.yml"   
+          data: "organic/(C5H8O2)n - poly(methyl methacrylate)/Tsuda-LD.yml"
         - PAGE: Tsuda-BB
           name: "Tsuda et al. 2018: Brendel-Bormann model; n,k 2.50–18.2 µm"
           data: "organic/(C5H8O2)n - poly(methyl methacrylate)/Tsuda-BB.yml"
@@ -5437,7 +5436,7 @@
       content:
         - PAGE: Pilkington-Optiwhite
           name: "Pilkington Optiwhite™ (Low iron glass)"
-          data: "glass/nsg/Pilkington-Optiwhite.yml"       
+          data: "glass/nsg/Pilkington-Optiwhite.yml"
     - DIVIDER: "Display glass"
     - BOOK: CORNING-display
       name: "CORNING - display"
@@ -5612,7 +5611,6 @@
       content:
         - PAGE: BD-2
           name: "BD-2"
-          data: "glass/lightpath/BD-2.yml"
           data: "glass/lightpath/BD-2.yml"
         - PAGE: BDNL4
           name: "BDNL4"
@@ -11505,7 +11503,7 @@
       content:
         - PAGE: Palm
           name: "Palm et al. 2018: n,k 0.301–1.68 µm"
-          data: "other/alloys/V-H/Palm.yml"  
+          data: "other/alloys/V-H/Palm.yml"
     - BOOK: Zr-H
       name: "Zr-H (Zirconium-hydrogen alloy, Zirconium hydride)"
       info: "other/Zr-H.html"
@@ -11776,7 +11774,7 @@
     - BOOK: Si-InP
       name: "Si:InP (Silicon-doped indium phosphide)"
       info: "other/Si-InP.html"
-      content:    
+      content:
         - PAGE: Panah
           name: "Panah et al. 2016: n,k 5.0–30 µm"
           data: "other/doped crystals/Si-InP/Panah.yml"
@@ -11895,7 +11893,7 @@
       content:
         - PAGE: Stelling
           name: "Stelling et al. 2017: n,k 0.247–1.685 µm"
-          data: "other/mixed organic/P3HT-PC61BM/Stelling.yml"  
+          data: "other/mixed organic/P3HT-PC61BM/Stelling.yml"
     - BOOK: PEDOT-PSS
       name: "PEDOT:PSS"
       info: "other/PEDOT-PSS.html"
@@ -11909,7 +11907,7 @@
       content:
         - PAGE: Kerremans
           name: "Kerremans et al. 2020: n,k 0.37–1.6 µm"
-          data: "other/mixed organic/PBDBT-ITIC/Kerremans.yml"      
+          data: "other/mixed organic/PBDBT-ITIC/Kerremans.yml"
     - DIVIDER: "Mixed organic/inorganic compounds"
     - BOOK: H2O-C3H5(OH)3
       name: "H<sub>2</sub>O:C<sub>3</sub>H<sub>5</sub>(OH)<sub>3</sub> (Water:Glycerol)"
@@ -11926,7 +11924,7 @@
           data: "other/mixed organic-inorganic/H2O-C3H5(OH)3/Gupta-50.yml"
         - PAGE: Gupta-100
           name: "Gupta et al. 2022: n 0.40–0.71 µm; 100 wt% glycerol"
-          data: "organic/C3H8O3 - glycerol/Gupta.yml"      
+          data: "organic/C3H8O3 - glycerol/Gupta.yml"
     - BOOK: D2O-C3H5(OH)3
       name: "D<sub>2</sub>O:C<sub>3</sub>H<sub>5</sub>(OH)<sub>3</sub> (Heavy water:Glycerol)"
       info: "noinfo.html"
@@ -11945,7 +11943,7 @@
           data: "other/mixed organic-inorganic/D2O-C3H5(OH)3/Sarkar-75.yml"
         - PAGE: Gupta-100
           name: "Gupta et al. 2022: n 0.40–0.71 µm; 100 wt% glycerol"
-          data: "organic/C3H8O3 - glycerol/Gupta.yml" 
+          data: "organic/C3H8O3 - glycerol/Gupta.yml"
     - BOOK: Cu-C12H4N4
       name: "Cu:C<sub>12</sub>H<sub>4</sub>N<sub>4</sub> (Copper:tetracyanoquinodimethane, Cu:TCNQ )"
       info: "other/Cu-C12H4N4.html"
@@ -11959,7 +11957,7 @@
       content:
         - PAGE: Querry
           name: "Querry 1985: n,k 0.21–55.6 µm"
-          data: "other/mixed organic-inorganic/Li-C12H4N4/Querry.yml"       
+          data: "other/mixed organic-inorganic/Li-C12H4N4/Querry.yml"
     - DIVIDER: "Commercial polymers"
     - BOOK: CR-39
       name: "CR-39"
@@ -12032,12 +12030,11 @@
       content:
         - PAGE: Sultanova
           name: "Sultanova et al. 2009: n 0.4368–1.052 µm"
-          data: "other/commercial polymers/Optorez1330/Sultanova.yml"    
+          data: "other/commercial polymers/Optorez1330/Sultanova.yml"
     - BOOK: Pharmacoat606
       name: "Pharmacoat 606 (Hydroxypropyl methylcellulose, HPMC)"
       info: "other/hydroxypropyl methylcellulose.html"
       content:
-      content:   
         - PAGE: Juntunen
           name: "Juntunen et al. 2024: n 1.10–1.65 µm"
           data: "other/commercial polymers/Pharmacoat 606/Juntunen.yml"
@@ -12141,7 +12138,7 @@
           data: "other/liquid crystals/5PCH/Wu-45.4C-o.yml"
         - PAGE: Wu-45.4C-e
           name: "Wu et al. 1993: n(e) 0.4–0.8 µm; 45.4 °C"
-          data: "other/liquid crystals/5PCH/Wu-45.4C-e.yml"   
+          data: "other/liquid crystals/5PCH/Wu-45.4C-e.yml"
         - PAGE: Wu-50.8C-o
           name: "Wu et al. 1993: n(o) 0.4–0.8 µm; 50.8 °C"
           data: "other/liquid crystals/5PCH/Wu-50.8C-o.yml"
@@ -12359,7 +12356,7 @@
       content:
         - PAGE: specs
           name: "Spec sheet: n 0.2–1.1 µm"
-          data: "other/resists/Microchem 950/specs.yml" 
+          data: "other/resists/Microchem 950/specs.yml"
     - BOOK: Microchem_SU8_2000
       name: "Microchem SU-8 2000"
       info: "other/resists.html"
@@ -12401,7 +12398,7 @@
       content:
         - PAGE: Sarkar
           name: "Sarkar et al. 2019: n,k 0.301–1.69 µm"
-          data: "other/resists/Micro resist ma-N 1407/Sarkar.yml"          
+          data: "other/resists/Micro resist ma-N 1407/Sarkar.yml"
     - BOOK: Nanoscribe_IP-S
       name: "Nanoscribe IP-S"
       info: "other/resists.html"
