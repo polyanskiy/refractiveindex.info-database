@@ -236,16 +236,17 @@ def UpdatePageList():
             page_names.append(page.get("name"))
             page_paths.append(page.get("data"))
             page_info_paths.append(page.get("info"))
+            is_first_enabled = (len(page_ids)==1 and page_ids[0]!="") or (len(page_ids)==2 and page_ids[0]=="")
             # add a checkbox and check if it's the first enabled checkbox
             checkbox = QCheckBox(html2mathtext(page.get("name")))
-            is_first_enabled = (len(page_ids)==1 and page_ids[0]!="") or (len(page_ids)==2 and page_ids[0]=="")
             checkbox.setChecked(is_first_enabled)
             checkbox.stateChanged.connect(UpdatePlot)
             w.checkboxes.append(checkbox)
             w.checkboxes_layout.insertWidget(i, checkbox)
             # add a radiobutton and check if it's the first enabled radiobutton
             radiobutton = QRadioButton(html2mathtext(page.get("name")))
-            is_first_enabled = (len(page_ids)==1 and page_ids[0]!="") or (len(page_ids)==2 and page_ids[0]=="")
+            #not clear why this style tweaking is needed, but otherwise unchecked radiobuttons are colored
+            radiobutton.setStyleSheet("QRadioButton::indicator::unchecked {border-radius: 8px; border: 1px solid gray; background-color: white;}")
             radiobutton.setChecked(is_first_enabled)
             radiobutton.toggled.connect(UpdateDetails)
             w.radiobuttons.append(radiobutton)
@@ -258,13 +259,13 @@ def UpdatePageList():
             # add a hidden checkbox (label only)
             checkbox = QCheckBox(html2mathtext(page.get("DIVIDER")))
             checkbox.setEnabled(False)
-            checkbox.setStyleSheet("QCheckBox::indicator {width: 0px; height: 0px;}")
+            checkbox.setStyleSheet("QCheckBox::indicator {width: 0px; border: none;}")
             w.checkboxes.append(checkbox)
             w.checkboxes_layout.insertWidget(i, checkbox)
             # add a hidden radiobutton
             radiobutton = QRadioButton(html2mathtext(page.get("DIVIDER")))
             radiobutton.setEnabled(False)
-            radiobutton.setStyleSheet("QRadioButton::indicator {width: 0px; height: 0px;}")
+            radiobutton.setStyleSheet("QRadioButton::indicator {width: 0px; border: none;}")
             w.radiobuttons.append(radiobutton)
             w.radiobuttons_layout.insertWidget(i, radiobutton)
     UpdateData()
@@ -527,7 +528,6 @@ def stringify_dict(d, indent=0):
 
 
 #------------------------------------------------------------------------------------------
-##PopulateShelfList()
 app = QApplication(sys.argv)
 w = MainWindow()
 w.setWindowTitle("nk Explorer")

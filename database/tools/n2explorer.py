@@ -200,20 +200,16 @@ def UpdatePageList():
             page_names.append(page.get("name"))
             page_paths.append(page.get("data"))
             page_info_paths.append(page.get("info"))
+            is_first_enabled = (len(page_ids)==1 and page_ids[0]!="") or (len(page_ids)==2 and page_ids[0]=="")
             # add a checked checkbox
             checkbox = QCheckBox(html2mathtext(page.get("name")))
             checkbox.setChecked(True)
             checkbox.stateChanged.connect(UpdatePlot)
             w.checkboxes.append(checkbox)
             w.checkboxes_layout.insertWidget(i, checkbox)
-            # add a radiobutton and check the first enabled radiobutton
+            # add a radiobutton and check it if it's the first enabled radiobutton
             radiobutton = QRadioButton(html2mathtext(page.get("name")))
-            is_any_radiobutton_checked = False
-            for j in range(w.radiobuttons_layout.count()):
-                widget = w.radiobuttons_layout.itemAt(j).widget()
-                if isinstance(widget, QRadioButton) and widget.isChecked():
-                    is_any_radiobutton_checked = True
-            radiobutton.setChecked(not is_any_radiobutton_checked)
+            radiobutton.setChecked(is_first_enabled)
             radiobutton.toggled.connect(UpdateDetails)
             w.radiobuttons.append(radiobutton)
             w.radiobuttons_layout.insertWidget(i, radiobutton)
@@ -225,13 +221,13 @@ def UpdatePageList():
             # add a hidden checkbox (label only)
             checkbox = QCheckBox(html2mathtext(page.get("DIVIDER")))
             checkbox.setEnabled(False)
-            checkbox.setStyleSheet("QCheckBox::indicator {width: 0px; height: 0px;}")
+            checkbox.setStyleSheet("QCheckBox::indicator {width: 0px; border: none;}")
             w.checkboxes.append(checkbox)
             w.checkboxes_layout.insertWidget(i, checkbox)
             # add a hidden radiobutton
             radiobutton = QRadioButton(html2mathtext(page.get("DIVIDER")))
             radiobutton.setEnabled(False)
-            radiobutton.setStyleSheet("QRadioButton::indicator {width: 0px; height: 0px;}")
+            radiobutton.setStyleSheet("QRadioButton::indicator {width: 0px; border: none;}")
             w.radiobuttons.append(radiobutton)
             w.radiobuttons_layout.insertWidget(i, radiobutton)
     UpdateData()
@@ -373,7 +369,6 @@ def html2mathtext(str):
             
 
 #------------------------------------------------------------------------------------------
-##PopulateShelfList()
 app = QApplication(sys.argv)
 w = MainWindow()
 w.setWindowTitle("n2 Explorer")
