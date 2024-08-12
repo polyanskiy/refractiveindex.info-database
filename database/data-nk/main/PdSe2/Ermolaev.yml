@@ -6,7 +6,7 @@ REFERENCES: "G. Ermolaev, K. Voronin, D.G. Baranov, V. Kravets, G. Tselikov, Y. 
 COMMENTS: "Broadband optical constants of 4.5 nm PdSe<sub>2</sub> thin film in the spectral range 200–10000 nm."
 DATA:
   - type: tabulated nk
-    data: | 
+    data: |
         0.200 1.53775 1.18581
         0.201 1.54006 1.18933
         0.202 1.54229 1.19289

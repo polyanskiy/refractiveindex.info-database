@@ -6,7 +6,7 @@ REFERENCES: "G. A. Ermolaev, Y. Xie, L. Qian, M. K. Tatmyshevskiy, A. S. Slavich
 COMMENTS: "Monolayer of aligned single-walled carbon nanotubes (SWCNTs). Extraordinary ray (e)."
 DATA:
   - type: tabulated nk
-    data: | 
+    data: |
         0.250 1.48487 0.46233
         0.251 1.49185 0.45815
         0.252 1.49853 0.45379

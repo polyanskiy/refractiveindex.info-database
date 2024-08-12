@@ -6,7 +6,7 @@ REFERENCES: "G. A. Ermolaev, D. I. Yakubovsky, M. A. El-Sayed, M. K. Tatmyshevsk
 COMMENTS: "20 nm CVD SnS<sub>2</sub>."
 DATA:
   - type: tabulated nk
-    data: | 
+    data: |
         0.300 3.89427 1.04364
         0.301 3.81487 1.07071
         0.302 3.74986 1.09422

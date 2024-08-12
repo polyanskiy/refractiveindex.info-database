@@ -6,7 +6,7 @@ REFERENCES: "D. V. Grudinin, G. A. Ermolaev, D. G. Baranov, A. N. Toksumakov, K.
 COMMENTS: "Hexagonal boron nitride (hBN). DFT calculations. Extraordinary ray (e)."
 DATA:
   - type: tabulated nk
-    data: | 
+    data: |
         0.19883 1.40010 0.37944
         0.20007 1.40339 0.41328
         0.20132 1.38913 0.46367

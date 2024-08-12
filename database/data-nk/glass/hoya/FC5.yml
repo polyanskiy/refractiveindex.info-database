@@ -5,7 +5,7 @@
 REFERENCES: "<a href=\"http://refractiveindex.info/download/data/2017/hoya_2017-04-01.agf\">HOYA Zemax catalog 2017-04-01</a> (obtained from <a href=\"http://www.hoya-opticalworld.com/english/datadownload/\">http://www.hoya-opticalworld.com</a>)"
 COMMENTS: "General glass Type"
 DATA:
-  - type: formula 3 
+  - type: formula 3
     wavelength_range: 0.36501 1.01398
     coefficients: 2.1894054 -0.0099044908 2 0.008640337 -2 0.00022263067 -4 -1.2291942e-05 -6 5.9386349e-07 -8
   - type: tabulated k

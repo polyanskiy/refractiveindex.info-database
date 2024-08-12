@@ -5,7 +5,7 @@
 REFERENCES: "<a href=\"http://refractiveindex.info/download/data/2017/ohara_2017-11-30.agf\">OHARA Zemax catalog 2017-11-30</a> (obtained from <a href=\"http://www.ohara-inc.co.jp/en/product/optical/list/\">http://www.ohara-inc.co.jp</a>)<br>See also <a href=\"http://refractiveindex.info/download/data/2017/ohara_2017-11-30.pdf\">OHARA glass data sheets</a>"
 COMMENTS: "Improved Transmittance"
 DATA:
-  - type: formula 3 
+  - type: formula 3
     wavelength_range: 0.3 2.4
     coefficients: 3.120642 -0.011286328 2 0.040543249 -2 0.0033876996 -4 -0.00024180036 -6 2.7440285e-05 -8
   - type: tabulated k

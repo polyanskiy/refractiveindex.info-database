@@ -6,7 +6,7 @@ REFERENCES: "A. S. Slavich, G. A. Ermolaev, M. K. Tatmyshevskiy, A. N. Toksumako
 COMMENTS: "β-axis. Ab initio calculations."
 DATA:
   - type: tabulated nk
-    data: | 
+    data: |
         0.29875 3.48991 0.98646
         0.30191 3.49974 0.96294
         0.30514 3.54744 0.88781

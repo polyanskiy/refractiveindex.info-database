@@ -6,7 +6,7 @@ REFERENCES: "G. A. Ermolaev, K. V. Voronin, M. K. Tatmyshevskiy, A. B. Mazitov, 
 COMMENTS: "5 nm CVD PtSe<sub>2</sub>."
 DATA:
   - type: tabulated nk
-    data: | 
+    data: |
         0.245 1.77546 0.85891
         0.246 1.74998 0.86471
         0.247 1.72474 0.87070

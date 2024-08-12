@@ -6,7 +6,7 @@ REFERENCES: "G.A. Ermolaev, D.I. Yakubovsky, Y.V. Stebunov, A.A. Voronov, A.V. A
 COMMENTS: "CVD-grown monolayer."
 DATA:
   - type: tabulated nk
-    data: | 
+    data: |
         0.301 1.606890 1.554520
         0.302 1.610050 1.567430
         0.303 1.613270 1.580450

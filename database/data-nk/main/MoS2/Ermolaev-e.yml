@@ -6,7 +6,7 @@ REFERENCES: "G. A. Ermolaev, D. V. Grudinin, Y. V. Stebunov, K. V. Voronin, V. G
 COMMENTS: "Extraordinary ray (e).<br>MoS<sub>2</sub> bulk crystallographic c-axis optical constants."
 DATA:
   - type: tabulated n
-    data: | 
+    data: |
         0.360 3.28980
         0.361 3.28540
         0.362 3.28103

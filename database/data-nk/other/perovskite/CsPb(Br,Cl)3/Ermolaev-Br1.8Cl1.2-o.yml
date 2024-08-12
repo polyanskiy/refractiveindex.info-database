@@ -6,7 +6,7 @@ REFERENCES: "G. Ermolaev, A. P. Pushkarev, A. Zhizhchenko, A. A. Kuchmizhak, I. 
 COMMENTS: "CsPbBr<sub>1.8</sub>Cl<sub>1.2</sub> monocrystal. Ordinary ray (o)."
 DATA:
   - type: tabulated nk
-    data: | 
+    data: |
         0.464 2.12798 0.27815
         0.465 2.12867 0.29520
         0.466 2.13106 0.31379

@@ -5,7 +5,7 @@
 REFERENCES: "<a href=\"http://refractiveindex.info/download/data/2017/hoya_2017-04-01.agf\">HOYA Zemax catalog 2017-04-01</a> (obtained from <a href=\"http://www.hoya-opticalworld.com/english/datadownload/\">http://www.hoya-opticalworld.com</a>)"
 COMMENTS: "Glass for molded optics lens"
 DATA:
-  - type: formula 3 
+  - type: formula 3
     wavelength_range: 0.36501 1.01398
     coefficients: 2.9351948 -0.016193458 2 0.018392287 -2 0.0010086167 -4 -8.7565474e-05 -6 4.6921333e-06 -8
   - type: tabulated k

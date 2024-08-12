@@ -6,7 +6,7 @@ REFERENCES: "M. A. El-Sayed, G. A. Ermolaev, K. V. Voronin, R. I. Romanov, G. I.
 COMMENTS: "Broadband optical constants of CVD graphene in the spectral range 240–1000 nm."
 DATA:
   - type: tabulated nk
-    data: | 
+    data: |
         0.240 1.48050 2.34840
         0.241 1.50855 2.36330
         0.242 1.54042 2.37998

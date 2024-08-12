@@ -6,7 +6,7 @@ REFERENCES: "G. Ermolaev, A. P. Pushkarev, A. Zhizhchenko, A. A. Kuchmizhak, I. 
 COMMENTS: "CsPbBr<sub>3</sub> monocrystal. Ordinary ray (o)."
 DATA:
   - type: tabulated nk
-    data: | 
+    data: |
         0.500 2.29280 0.16069
         0.501 2.28770 0.16947
         0.502 2.28282 0.17919

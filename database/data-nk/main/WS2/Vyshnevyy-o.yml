@@ -6,7 +6,7 @@ REFERENCES: "A. A. Vyshnevyy, G. A. Ermolaev, D. V. Grudinin, K. V. Voronin, I. 
 COMMENTS: "Bulk WS<sub>2</sub>. Ordinary ray (o)."
 DATA:
   - type: tabulated nk
-    data: | 
+    data: |
         0.360 3.13052 2.00536
         0.361 3.13846 2.02574
         0.362 3.14698 2.04574

@@ -176,7 +176,7 @@ def UpdateBookList():
     book_ids = []
     book_names = []
     book_info_paths = []
-    
+
     for book in shelf:
         if "BOOK" in book:
             book_ids.append(book.get("BOOK"))
@@ -397,7 +397,7 @@ def html2mathtext(str):
     # str = re.sub(r"<b>(.*?)</b>", r"$\\mathbf{\1}$", str) # bold
     # str = re.sub(r"<i>(.*?)</i>", r"$\\mathit{\1}$", str) # italic
     return f"{str}"
-            
+
 
 #------------------------------------------------------------------------------------------
 app = QApplication(sys.argv)

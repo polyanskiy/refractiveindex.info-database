@@ -5,7 +5,7 @@
 REFERENCES: "<a href=\"http://refractiveindex.info/download/data/2017/ohara_2017-11-30.agf\">OHARA Zemax catalog 2017-11-30</a> (obtained from <a href=\"http://www.ohara-inc.co.jp/en/product/optical/list/\">http://www.ohara-inc.co.jp</a>)<br>See also <a href=\"http://refractiveindex.info/download/data/2017/ohara_2017-11-30.pdf\">OHARA glass data sheets</a>"
 COMMENTS: "Recommended "
 DATA:
-  - type: formula 2 
+  - type: formula 2
     wavelength_range: 0.33 2.4
     coefficients: 0 1.41910189 0.00726647428 0.258416881 0.0263842499 1.07385537 102.555463
   - type: tabulated k

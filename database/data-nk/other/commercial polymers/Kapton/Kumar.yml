@@ -4,7 +4,7 @@
 
 REFERENCES: "V. Kumar, P. Goyal, R. Gupta, S. Kumar. Tailoring of optical band gap and refractive index of heat treated Kapton-H Polyimide. <a href=\"https://www.imedpub.com/abstract/tailoring-of-optical-band-gap-and-refractive-index-of-heat-treated-kaptonh-polyimide-12997.html\"><i>Adv. Appl. Sci. Res.</i> <b>2</b> 79-85 <2011)</a>"
 COMMENTS: "Kapton-H polyimide "
-DATA: 
+DATA:
   - type: tabulated n
     data: |
         0.41 1.82786

@@ -6,7 +6,7 @@ REFERENCES: "G. A. Ermolaev,  A. P. Tsapenko, V. S. Volkov, A. S. Anisimov,  Y. 
 COMMENTS: "Aerosol CVD single-walled carbon nanotubes (SWCNTs)."
 DATA:
   - type: tabulated nk
-    data: | 
+    data: |
         0.250 1.08673 0.69065
         0.251 1.09622 0.69675
         0.252 1.10587 0.70253

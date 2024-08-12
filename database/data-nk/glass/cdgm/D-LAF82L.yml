@@ -4,7 +4,7 @@
 
 REFERENCES: "<a href=\"http://refractiveindex.info/download/data/2017/cdgm_2017-09.agf\">CDGM Zemax catalog 2017-09</a> (obtained from <a href=\"http://www.cdgmgd.com/208/\">http://www.cdgmgd.com</a>)"
 DATA:
-  - type: formula 3 
+  - type: formula 3
     wavelength_range: 0.365 1.014
     coefficients: 2.9384022 -0.011000275 2 0.026895091 -2 -0.00074423432 -4 0.00016294737 -6 -7.3175367e-06 -8
   - type: tabulated k

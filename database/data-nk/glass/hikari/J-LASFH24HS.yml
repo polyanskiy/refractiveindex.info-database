@@ -5,7 +5,7 @@
 REFERENCES: "<a href=\"http://refractiveindex.info/download/data/2017/nikon_2017-11.agf\">NIKON Zemax catalog 2017-11</a> (obtained from <a href=\"http://www.nikon.com/products/glass/lineup/materials/optical/\">http://www.nikon.com</a>)<br>See also <a href=\"http://refractiveindex.info/download/data/2017/hikari_2017-04-01.pdf\">HIKARI glass data sheets</a>"
 COMMENTS: ""
 DATA:
-  - type: formula 3 
+  - type: formula 3
     wavelength_range: 0.388865 2.05809
     coefficients: 3.45215485 -0.0140748042 2 0.0502420375 -2 0.00357942817 -4 -0.000494644665 -6 0.000129480898 -8 -1.35467075e-05 -10 6.96875364e-07 -12
   - type: tabulated k

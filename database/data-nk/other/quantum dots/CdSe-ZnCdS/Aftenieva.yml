@@ -4,9 +4,9 @@
 
 REFERENCES: "O. Aftenieva, M. Sudzius, A. Prudnikau, M. Adnan, S. Sarkar, V. Lesnyak, K. Leo, A. Fery, T. A. F. König. Lasing by template-assisted self-assembled quantum dots, <a href=\"https://doi.org/10.1002/adom.202202226\"><i>Adv. Opt. Mater.</i> 2202226 (2023)</a> (Numerical data kindly provided by Tobias König)"
 COMMENTS: "Cadmium selenide and zinc cadmium sulfide (CdSe/ZnCdS) core/shell quantum dots"
-DATA: 
+DATA:
   - type: tabulated nk
-    data: |             
+    data: |
         0.3500 1.861580 0.123181
         0.3510 1.859963 0.122132
         0.3520 1.858359 0.121092

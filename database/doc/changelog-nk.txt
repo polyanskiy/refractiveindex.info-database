@@ -256,7 +256,7 @@
 
 
 ============================== 2022-10-01 ==============================
-  
+
   new data (thanks to "jmmelko" (GitHub username), for suggesting data!)
     glass/misc/ZBLAN/Gan.yml
   new data (thanks to Brian Iezzi, University of Michigan, Ann Arbor, MI, USA, for submitting data!)
@@ -340,7 +340,7 @@
     other/liquid crystals/5PCH/Wu-40.1C-o.yml
     other/liquid crystals/5PCH/Wu-40.1C-e.yml
     other/liquid crystals/5PCH/Wu-45.4C-o.yml
-    other/liquid crystals/5PCH/Wu-45.4C-e.yml   
+    other/liquid crystals/5PCH/Wu-45.4C-e.yml
     other/liquid crystals/5PCH/Wu-50.8C-o.yml
     other/liquid crystals/5PCH/Wu-50.8C-e.yml
     other/liquid crystals/5PCH/Wu-53.4C-o.yml
@@ -598,7 +598,7 @@
 
 
 ============================== 2020-01-19 ==============================
-  
+
   new data (thanks to Ondrej Novak, Institute of Physics AS CR, Dolni Brezany, Czech Republic, for suggesting data!)
     main/YVO4/Birnbaum-o.yml
     main/YVO4/Birnbaum-e.yml
@@ -668,10 +668,10 @@
   updated data (thanks to Braden Czapla)
     organic/(C2H6OSi)n - polydimethylsiloxane/Querry-NIR.yml: comments
     organic/(C2H6OSi)n - polydimethylsiloxane/Querry-IR.yml: comments
-    main/SiO2/Popova.yml: re-calculated using improved script (fixed misprint in a formula in original publication) 
+    main/SiO2/Popova.yml: re-calculated using improved script (fixed misprint in a formula in original publication)
     main/Ge/Burnett.yml: formula range, reference, comments
 
-    
+
 ============================== 2019-02-11 ==============================
 
   new data (thanks to Kei Sugiyama, University of Tokyo, Japan, for providing data in YAML format!)
@@ -702,18 +702,18 @@
     library.yml: fix range of main/Fe/Ordal.yml data (thanks to Martin Borchert, FHI Berlin, Germany!)
     main/PbMoO4/Malitson-o.yml: fixed dispersion formula (denominator of the second term 0.033764 -> 0.33764) (Thanks to Darius H. Torchinsky, Temple University, Philadelphia, PA, USA!)
 
-    
+
 ============================== 2018-07-01 ==============================
 
-  !!! format modification !!! 
+  !!! format modification !!!
     'range' key in dispersion formulas replaced by 'wavelength_range'
     clean-up and expansion of "SPECS": YAML flexibility allows to include more data and organize it better than Zemax materials catalog file format (.agf)
-  new data (thanks to Samuel Philippian, IL, USA!)  
+  new data (thanks to Samuel Philippian, IL, USA!)
     main/Ir/Hass-40C.yml
     main/Ir/Hass-3000C.yml
     main/Os/Nemoshkalenko-o.yml
     main/Os/Nemoshkalenko-e.yml
-  new data (thanks to Kimberly Clifton, LightPath Technologies, Inc., Orlando, FL, USA!)  
+  new data (thanks to Kimberly Clifton, LightPath Technologies, Inc., Orlando, FL, USA!)
     glass/lightpath/BD6.yml
   new data (thanks to Tobias König for submitting data!)
     organic/(C6H11NO)n - poly(N-isopropylacrylamide)/Brasse.yml
@@ -803,7 +803,7 @@
     main/Pb/Mathewson-140K.yml
     main/In/Mathewson-298K.yml
     main/In/Mathewson-140K.yml
-    main/Li/Mathewson-298K.yml 
+    main/Li/Mathewson-298K.yml
     main/Li/Mathewson-140K.yml
     main/Na/Inagaki-liquid.yml
     main/Na/Yamaguchi.yml
@@ -835,7 +835,7 @@
 
 ============================== 2018-02-10 ==============================
 
-  !!! update of database structure !!! 
+  !!! update of database structure !!!
     added "info" - optional additional information that can be associated with shelves, books and pages
     information is stored in .html files located in the '/info' folder
     "info" key is used in the 'library.yml' for specifying the path to the corresponding .html file
@@ -913,10 +913,10 @@
   miscellaneous
     colons in id's of several pages replaced by dashes (e.g. Mg:LiTaO3 -> Mg-LiTaO3)
     optical glasses re-arranged in library.yml
-    
+
 
 ============================== 2017-09-05 ==============================
-  
+
   new data
     main/Ag/Wu.yml  (thanks to Yanwen Wu, University of Texas at Austin, TX, USA!)
     other/perovskite/CH3NH3PbI3/Ball.yml (thanks to Sam Stranks, University of Cambridge, UK!)
@@ -998,12 +998,12 @@
     main/GaN/Barker-o.yml: comments, references
   bug fixes
     main/Al2O3/Querry-e.yml: data (thanks to Philipp Franz, Paul-Drude-Institut für Festkörperelektronik, Berlin, Germany)
-    
+
 
 ============================== 2017-03-25 ==============================
 
   multiple bug fixes in library.yml (thanks to Thibault North!)
-  
+
 
 ============================== 2017-03-14 ==============================
 
@@ -1270,7 +1270,7 @@
     other/mixed gases/air/Ciddor.yml: comments
   bug fixes
     library.yml: fixed "HIKARI-KF" book wrongly named "HIKARI-FK"
-    
+
 
 ============================== 2016-05-25 ==============================
 
@@ -1317,7 +1317,7 @@
     main/BaB2O4/Eimerl-e.yml (updated authors list)
     main/H2O/* (added INFO sectoin)
     main/D2O/* (added INFO sectoin)
-    
+
 
 ============================== 2016-01-31 ==============================
 
@@ -1375,7 +1375,7 @@
     glass/hikari/*.yml
     glass/ohara/*.yml
     glass/schott/*.yml
-    
+
 
 ============================== 2015-12-01 ==============================
 
@@ -1402,7 +1402,7 @@
     fixed encoding error in main/Ag3AsS3/Hulme-e.yml (thanks to Thibault North!)
   other
     library.yml: ' - ' replaced by ': ' in page names
-    
+
 
 ============================== 2015-08-18 ==============================
 
@@ -1418,7 +1418,7 @@
     corrected publication date of main/Ho/Fernandez-Perea.yml data in library.yml (2008->2011)
     main/Tm/Garcia-Cortes.yml renamed to main/Tm/Vidal-Dasilva.yml; Record in library.yml updated accordingly
     removed legacy main/C/Amorphous.yml
-    
+
 
 ============================== 2015-07-05 ==============================
 
@@ -1442,7 +1442,7 @@
   other
     library.yml: Improved classification of organic compounds (alcohols -> alcohols, diols and triols)
     library.yml: Amyl alcohol renamed to Pentanol
-    
+
 
 ============================== 2015-05-24 ==============================
 
@@ -1465,7 +1465,7 @@
   small improvements
     "Numerical data kindly provided by..." notes modified to use same format across the database
     library.yml: added missing "n,k" in the names of some pages (in Ag, Al, Au, Cu)
-    
+
 
 ============================== 2015-03-11 ==============================
 
@@ -1490,7 +1490,7 @@
     organic/C7H8 - toluene/Moutzouris.yml
     organic/CCl4 - carbon tetrachloride/Moutzouris.yml
     organic/CH4O - methanol/Moutzouris.yml
-    
+
 
 ============================== 2015-02-15 ==============================
 
@@ -1529,14 +1529,14 @@
     added Pb and Ti "3D" shelf
     added "MISCELLANEOUS" book to "3D" shelf
     added acetylene and propane soot to "3D" shelf
-    
+
 
 ============================== 2015-01-17 ==============================
 
   !!! refractiveindex.info database is released to public domain via CC0 1.0 Universal Public Domain Dedication !!!
   bug fixes
     glass/schott/inquiry/N-BAF3 - added closing quotation mark in the "COMMENTS:" field
-    
+
 
 ============================== 2015-01-01 ==============================
 
@@ -1550,7 +1550,7 @@
     main/SrF2/Li.yml
     main/MgF2/Li-o.yml
     main/MgF2/Li-e.yml
-    
+
 
 ============================== 2014-11-08 ==============================
 
@@ -1578,7 +1578,7 @@
       "divider:" -> "DIVIDER:"
   other
     added a comment to all optical glass entries about refractive index and wavelength being relative to air (thanks to Rod Vance for the idea)
-    
+
 
 ============================== 2014-09-29 ==============================
 
@@ -1608,7 +1608,7 @@
         "Organic" -> "ORGANIC - organic materials"
         "Glass"   -> "GLASS - glasses"
         "Other"   -> "OTHER - miscellaneous materials"
-        
+
 
 ============================== 2014-07-21 ==============================
 
@@ -1618,7 +1618,7 @@
     main/GaAs/Skauli.yml
   updated data
     glass/vitron/*.yml (thanks to Dr. Rolf Henkel, VITRON Spezialwerkstoffe GmbH)
-    
+
 
 ============================== 2014-07-05 ==============================
 
@@ -1627,7 +1627,7 @@
     corrected link to 'Hagemann 1974 - DESY report SR-74-7.pdf' in several files
     removed extra newline symbols in the REFERENCES field in many files
     replaced /n by /r/n everywhere (previously booth notations for newline were used inconsistently)
-    
+
 
 ============================== 2014-07-01 ==============================
 

@@ -5,7 +5,7 @@
 REFERENCES: "<a href=\"http://refractiveindex.info/download/data/2017/schott_2017-01-20b.agf\">SCHOTT Zemax catalog 2017-01-20b</a> (obtained from <a href=\"http://www.schott.com/advanced_optics/english/download/\">http://www.schott.com</a>)<br>See also <a href=\"http://refractiveindex.info/download/data/2017/schott_2017-01-20.pdf\">SCHOTT glass data sheets</a>"
 COMMENTS: "         "
 DATA:
-  - type: formula 2 
+  - type: formula 2
     wavelength_range: 0.365 2.5
     coefficients: 0 1.39757037 0.00995906143 0.159201403 0.0546931752 1.2686543 119.248346
   - type: tabulated k

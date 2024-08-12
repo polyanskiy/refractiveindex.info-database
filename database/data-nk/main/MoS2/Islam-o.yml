@@ -6,7 +6,7 @@ REFERENCES: "K. M. Islam, R. Synowicki, T. Ismael, I. Oguntoye, N. Grinalds, M. 
 COMMENTS: "Thin film (step height 33.5 nm). In-plane (ordinary ray, o)."
 DATA:
   - type: tabulated nk
-    data: | 
+    data: |
         0.190 1.83397 1.75515
         0.191 1.82842 1.72664
         0.192 1.82288 1.71428

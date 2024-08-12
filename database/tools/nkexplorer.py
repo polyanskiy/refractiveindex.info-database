@@ -190,7 +190,7 @@ def UpdateBookList():
     book_ids = []
     book_names = []
     book_info_paths = []
-    
+
     for book in shelf:
         if "BOOK" in book:
             book_ids.append(book.get("BOOK"))
@@ -355,7 +355,7 @@ def UpdateData():
                     C16  = coefficients[15] if num_coeff>15 else 0
                     C17  = coefficients[16] if num_coeff>16 else 0
                     if datatype[1] == "1":
-                        tmp_n = (1 + C1 + C2/(1-(C3/wl)**2) + C4/(1-(C5/wl)**2) + C6/(1-(C7/wl)**2) 
+                        tmp_n = (1 + C1 + C2/(1-(C3/wl)**2) + C4/(1-(C5/wl)**2) + C6/(1-(C7/wl)**2)
                                         + C8/(1-(C9/wl)**2) + C10/(1-(C11/wl)**2) + C12/(1-(C13/wl)**2)
                                         + C14/(1-(C15/wl)**2) + C16/(1-(C17/wl)**2))**0.5
                     elif datatype[1] == "2":
@@ -386,7 +386,7 @@ def UpdateData():
         wl_k.append(tmp_wl_k)
         n.append(tmp_n)
         k.append(tmp_k)
-                    
+
 
 
 
@@ -455,7 +455,7 @@ def UpdateDetails():
             if datatype[0] == "formula":
                 dat += "wavelength_range: " + data.get("wavelength_range").strip() + "\n"
                 dat += "coefficients: " + data.get("coefficients").strip()
-        
+
 
         specs_dict = datafile.get("SPECS", {})
         spe = stringify_dict(specs_dict)

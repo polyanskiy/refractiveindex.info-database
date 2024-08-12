@@ -6,7 +6,7 @@ REFERENCES: "K. M. Islam, R. Synowicki, T. Ismael, I. Oguntoye, N. Grinalds, M. 
 COMMENTS: "Few-layer film (step height 2.15 nm). In-plane (ordinary ray, o)."
 DATA:
   - type: tabulated nk
-    data: | 
+    data: |
         0.190 1.65451 0.56183
         0.191 1.54583 0.63112
         0.192 1.51517 0.69783

@@ -6,7 +6,7 @@ REFERENCES: "G. Ermolaev, A. P. Pushkarev, A. Zhizhchenko, A. A. Kuchmizhak, I. 
 COMMENTS: "CsPbBr<sub>1.8</sub>Cl<sub>1.2</sub> monocrystal. Extraordinary ray (e)."
 DATA:
   - type: tabulated nk
-    data: | 
+    data: |
         0.464 2.24377 0
         0.465 2.24177 0
         0.466 2.23979 0

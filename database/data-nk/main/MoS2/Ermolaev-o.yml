@@ -6,7 +6,7 @@ REFERENCES: "G. A. Ermolaev,  Yu. V. Stebunov, A. A. Vyshnevyy, D. E. Tatarkin, 
 COMMENTS: "Ordinary ray (o).<br>Optical constants of in-plane component of dielectric tensor of bulk MoS<sub>2</sub> measured by spectroscopic ellipsometry."
 DATA:
   - type: tabulated nk
-    data: | 
+    data: |
         0.290 2.97680 2.65075
         0.291 2.98483 2.64028
         0.292 2.99229 2.62986

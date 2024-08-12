@@ -6,7 +6,7 @@ REFERENCES: "G. Ermolaev, A. P. Pushkarev, A. Zhizhchenko, A. A. Kuchmizhak, I. 
 COMMENTS: "CsPbBr<sub>3</sub> monocrystal. Extraordinary ray (e)."
 DATA:
   - type: tabulated nk
-    data: | 
+    data: |
         0.500 2.11250 0
         0.501 2.11162 0
         0.502 2.11074 0

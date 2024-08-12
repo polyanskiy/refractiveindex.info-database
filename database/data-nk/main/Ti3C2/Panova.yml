@@ -6,7 +6,7 @@ REFERENCES: "D. A. Panova, G. I. Tselikov, G. A. Ermolaev, A. V. Syuy, D. S. Zim
 COMMENTS: "Broadband optical constants of Ti<sub>3</sub>C<sub>2</sub> in the spectral range 30–3300 nm."
 DATA:
   - type: tabulated nk
-    data: | 
+    data: |
         0.300 1.79774 0.94287
         0.301 1.79793 0.96129
         0.302 1.79952 0.97881

@@ -5,7 +5,7 @@
 REFERENCES: "<a href=\"http://refractiveindex.info/download/data/2017/ohara_2017-11-30.agf\">OHARA Zemax catalog 2017-11-30</a> (obtained from <a href=\"http://www.ohara-inc.co.jp/en/product/optical/list/\">http://www.ohara-inc.co.jp</a>)<br>See also <a href=\"http://refractiveindex.info/download/data/2017/ohara_2017-11-30.pdf\">OHARA glass data sheets</a>"
 COMMENTS: "Low Softening Temperature "
 DATA:
-  - type: formula 2 
+  - type: formula 2
     wavelength_range: 0.3 2.4
     coefficients: 0 1.52780829 0.0114135883 0.232776367 0.0559068566 1.71638781 171.5118
   - type: tabulated k

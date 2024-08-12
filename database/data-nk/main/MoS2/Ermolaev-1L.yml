@@ -6,7 +6,7 @@ REFERENCES: "G. A. Ermolaev,  Yu. V. Stebunov, A. A. Vyshnevyy, D. E. Tatarkin, 
 COMMENTS: "Broadband optical constants of monolayer MoS<sub>2</sub> on SiO<sub>2</sub>/Si substrate were measured by spectroscopic ellipsometry in the spectral range 290–3300 nm. Tauc-Lorentz oscillators were used in ellipsometry model to describe the optical response of excitons."
 DATA:
   - type: tabulated nk
-    data: | 
+    data: |
         0.290 2.29091 3.21676E+00
         0.291 2.32147 3.23025E+00
         0.292 2.35315 3.24353E+00

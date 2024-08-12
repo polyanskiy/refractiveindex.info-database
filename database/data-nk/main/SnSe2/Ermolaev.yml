@@ -6,7 +6,7 @@ REFERENCES: "G. A. Ermolaev, D. I. Yakubovsky, M. A. El-Sayed, M. K. Tatmyshevsk
 COMMENTS: "6.5 nm CVD SnSe<sub>2</sub>."
 DATA:
   - type: tabulated nk
-    data: | 
+    data: |
         0.300 2.88950 2.59845
         0.301 2.94146 2.60255
         0.302 2.99352 2.60399

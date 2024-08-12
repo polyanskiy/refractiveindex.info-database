@@ -6,7 +6,7 @@ REFERENCES: "K. M. Islam, R. Synowicki, T. Ismael, I. Oguntoye, N. Grinalds, M. 
 COMMENTS: "Thin film (step height 33.5 nm). Out-of-plane (extraordinary ray, e)."
 DATA:
   - type: tabulated n
-    data: | 
+    data: |
         0.954 2.96523
         0.955 2.96516
         0.956 2.96509

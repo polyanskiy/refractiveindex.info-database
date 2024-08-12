@@ -6,7 +6,7 @@ REFERENCES: "K. M. Islam, R. Synowicki, T. Ismael, I. Oguntoye, N. Grinalds, M. 
 COMMENTS: "Monolayer film (1L, step height 0.61 nm). In-plane (ordinary ray, o)."
 DATA:
   - type: tabulated nk
-    data: | 
+    data: |
         0.190 1.40227 1.35572
         0.191 1.43827 1.46230
         0.192 1.53515 1.48379

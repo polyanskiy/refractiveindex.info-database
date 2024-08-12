@@ -5,7 +5,7 @@
 REFERENCES: "P.A. Kawka, R.O. Buckius. Optical Properties of Polyimide Films in the Infrared. <a href=\"https://doi.org/10.1023/A:1010797620483\"><i>Int. J. Thermophys.</i> <b>22</b>, 517–534 (2001)</a>"
 COMMENTS: "Fourier transform infrared (FTIR) spectroscopy is used to measure the bidirectional reflectivity of polyimide films on gold substrates in the infrared. The optical constants of cured polyimide are
 determined in the infrared region using a Lorentz model to characterize the absorption bands."
-DATA: 
+DATA:
   - type: tabulated n
     data: |
         1.44 1.67569

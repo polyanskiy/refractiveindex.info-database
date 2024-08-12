@@ -6,7 +6,7 @@ REFERENCES: "A. S. Slavich, G. A. Ermolaev, M. K. Tatmyshevskiy, A. N. Toksumako
 COMMENTS: "γ-axis. Ab initio calculations."
 DATA:
   - type: tabulated nk
-    data: | 
+    data: |
         0.29875 4.03606 1.08155
         0.30191 4.04109 1.18390
         0.30514 4.23306 1.15114

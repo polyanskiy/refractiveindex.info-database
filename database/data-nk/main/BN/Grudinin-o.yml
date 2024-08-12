@@ -6,7 +6,7 @@ REFERENCES: "D. V. Grudinin, G. A. Ermolaev, D. G. Baranov, A. N. Toksumakov, K.
 COMMENTS: "Hexagonal boron nitride (hBN). Experimental data. Ordinary ray (o)."
 DATA:
   - type: tabulated n
-    data: | 
+    data: |
         0.250 2.73586
         0.251 2.72750
         0.252 2.71930

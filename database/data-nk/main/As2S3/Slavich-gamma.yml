@@ -6,7 +6,7 @@ REFERENCES: "A. S. Slavich, G. A. Ermolaev, M. K. Tatmyshevskiy, A. N. Toksumako
 COMMENTS: "γ-axis."
 DATA:
   - type: tabulated n
-    data: | 
+    data: |
         0.500 3.38498
         0.501 3.38272
         0.502 3.38047

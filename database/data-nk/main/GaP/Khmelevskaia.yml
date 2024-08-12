@@ -5,7 +5,7 @@
 REFERENCES: "D. Khmelevskaia, D.I. Markina, V.V. Fedorov, G.A. Ermolaev, A.V. Arsenin, V.S. Volkov, A.S. Goltaev, Yu.M. Zadiranov, I.A. Tzibizov, A.P. Pushkarev, A.K. Samusev, A.A. Shcherbakov, P.A. Belov, I.S. Mukhin, S.V. Makarov. Directly grown crystalline gallium phosphide on sapphire for nonlinear all-dielectric nanophotonics, <a href=\"https://aip.scitation.org/doi/10.1063/5.0048969\"><i>Appl. Phys. Lett.</i>, <b>118</b>, 201101 (2021)</a> (Numerical data kindly provided by Georgy Ermolaev)"
 DATA:
   - type: tabulated nk
-    data: | 
+    data: |
         0.235 2.61161 3.74054
         0.236 2.66529 3.80122
         0.237 2.73213 3.85485

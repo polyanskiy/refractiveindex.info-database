@@ -6,7 +6,7 @@ REFERENCES: "C. Yao, W. Shen, X. Hu, C. Hu. Optical properties of large-size and
 COMMENTS: "Single crystal"
 DATA:
   - type: tabulated nk
-    data: | 
+    data: |
         0.210 2.318018 0.240511
         0.211 2.331045 0.255348
         0.212 2.351125 0.268621

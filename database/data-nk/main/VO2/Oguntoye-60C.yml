@@ -6,7 +6,7 @@ REFERENCES: "I. O. Oguntoye, S. Padmanabha, M. Hinkle, T. Koutsougeras, A. J. Ol
 COMMENTS: "~209 nm-thick VO<sub>2</sub> film on SiO<sub>2</sub> substrate. 60 °C."
 DATA:
   - type: tabulated nk
-    data: | 
+    data: |
         0.210 1.55554 0.83117
         0.211 1.55645 0.83067
         0.212 1.55754 0.83018

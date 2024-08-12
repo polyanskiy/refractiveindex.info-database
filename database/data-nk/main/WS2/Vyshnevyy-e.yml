@@ -6,7 +6,7 @@ REFERENCES: "A. A. Vyshnevyy, G. A. Ermolaev, D. V. Grudinin, K. V. Voronin, I. 
 COMMENTS: "Bulk WS<sub>2</sub>. Extraordinary ray (e)."
 DATA:
   - type: tabulated nk
-    data: | 
+    data: |
         0.360 3.41472 0
         0.361 3.40677 0
         0.362 3.39892 0

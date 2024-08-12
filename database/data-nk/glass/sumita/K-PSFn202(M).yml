@@ -4,7 +4,7 @@
 
 REFERENCES: "<a href=\"http://refractiveindex.info/download/data/2017/sumita_2017-02-02.agf\">SUMITA Zemax catalog 2017-02-02</a> (obtained from <a href=\"http://www.sumita-opt.co.jp/en/download/\">http://www.sumita-opt.co.jp</a>)<br>See also <a href=\"http://refractiveindex.info/download/data/2016/sumita_2016-02-01.pdf\">SUMITA optical glass data book</a>"
 DATA:
-  - type: formula 3 
+  - type: formula 3
     wavelength_range: 0.4 1.55
     coefficients: 3.8290543 -0.016470594 2 0.065112852 -2 0.0059865818 -4 -0.00053116084 -6 7.8076366e-05 -8
   - type: tabulated k

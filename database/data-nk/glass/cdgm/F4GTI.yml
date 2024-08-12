@@ -5,7 +5,7 @@
 REFERENCES: "<a href=\"https://refractiveindex.info/download/data/2022/CDGM-ZEMAX202206new.AGF\">CDGM Zemax catalog 2022-06</a> (obtained from <a href=\"http://www.cdgmgd.com/go.htm?k=Download&url=downList\">http://www.cdgmgd.com</a>)<br>See also <a href=\"https://refractiveindex.info/download/data/2022/CDGM202206.pdf\">CDGM optical glass data sheets</a>"
 COMMENTS: "i line glass"
 DATA:
-  - type: formula 2 
+  - type: formula 2
     wavelength_range: 0.365 2.325
     coefficients: 0 0.953714037 115.513417 1.31399551 0.00931937546 0.24063751 0.0452869078
   - type: tabulated k

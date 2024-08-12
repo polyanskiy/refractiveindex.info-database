@@ -6,7 +6,7 @@ REFERENCES: "A. Ishteev, K. Konstantinova, G. Ermolaev, D. Kiselev, D. Muratov, 
 COMMENTS: "Single crystal MAPbBr<sub>3</sub>."
 DATA:
   - type: tabulated nk
-    data: | 
+    data: |
         0.290 2.08010 0.92328
         0.291 2.18467 0.90981
         0.292 2.21939 0.90449

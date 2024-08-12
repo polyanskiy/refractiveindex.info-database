@@ -6,7 +6,7 @@ REFERENCES: "D. I. Yakubovsky, Y. V. Stebunov, R. V. Kirtaev, G. A. Ermolaev, M.
 COMMENTS: "Au thickness = 9.0 nm, e-beam evaporated at 5 Å/s with a base pressure of 5e-7 Torr on MoS<sub>2</sub> CVD monolayer on SiO<sub>2</sub> substrate at T = 20 °C. Thickness was determined by AFM."
 DATA:
   - type: tabulated nk
-    data: | 
+    data: |
         0.3 1.566 1.627
         0.31 1.448 1.714
         0.32 1.450 1.884

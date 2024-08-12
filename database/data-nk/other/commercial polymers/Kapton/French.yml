@@ -4,7 +4,7 @@
 
 REFERENCES: "R. H. French, J. M. Rodríguez-Parada, M. K. Yang, R. A. Derryberry, M. F. Lemon, M. J. Brown, C. R. Haeger, S. L. Samuels, E. C. Romano, R. E. Richardson. Optical properties of materials for concentrator photovoltaic systems, <a href=\"https://doi.org/10.1109/PVSC.2009.5411657\">2009 34th IEEE Photovoltaic Specialists Conference (PVSC), 2009, pp. 000394-000399</a>"
 COMMENTS: "Kapton HN from DuPont Electronic Technologies"
-DATA: 
+DATA:
   - type: tabulated n
     data: |
         0.19 1.34312

@@ -6,7 +6,7 @@ REFERENCES: "G. A. Ermolaev, K. V. Voronin, M. K. Tatmyshevskiy, A. B. Mazitov, 
 COMMENTS: "5 nm CVD PtS<sub>2</sub>."
 DATA:
   - type: tabulated nk
-    data: | 
+    data: |
         0.245 1.53569 2.54737
         0.246 1.56889 2.54982
         0.247 1.60209 2.55202
