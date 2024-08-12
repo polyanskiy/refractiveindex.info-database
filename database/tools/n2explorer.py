@@ -235,7 +235,7 @@ def UpdatePageList():
             w.checkboxes_layout.insertWidget(i, checkbox)
             # add a radiobutton and check it if it's the first enabled radiobutton
             radiobutton = QRadioButton(html2mathtext(page.get("name")))
-            radiobutton.setStyleSheet("all: unset;") # workaround to prevent coloring of unchecked radiobuttons
+            radiobutton.setStyleSheet("background: white") # workaround to prevent coloring of unchecked radiobuttons
             radiobutton.setChecked(is_first_enabled)
             radiobutton.toggled.connect(UpdateDetails)
             w.radiobuttons.append(radiobutton)
