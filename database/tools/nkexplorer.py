@@ -31,15 +31,20 @@ page_names = []
 page_paths = []
 page_info_paths = []
 
-wl = []
-n2 = []
+wl_n = []
+wl_k = []
+n = []
+k = []
+n_defined = []
+k_defined = []
 
 # we assume that this script is in the "tools" directory of the RII database
 current_file_path = os.path.abspath(__file__)
 db_path = os.path.dirname(os.path.dirname(current_file_path))
 
 lib_path = os.path.join(db_path, "catalog-nk.yml")
-library = yaml.safe_load(open(lib_path, "r", encoding="utf-8").read())
+with open(lib_path, "r", encoding="utf-8") as file:
+    library = yaml.safe_load(file)
 
 fig, ax = plt.subplots()
 
@@ -137,7 +142,6 @@ class MainWindow(QMainWindow):
         main_layout.addWidget(tab_widget)
 
         window = QWidget()
-        window.setWindowTitle("n2 Explorer")
         window.setLayout(main_layout)
 
         self.combobox1.currentIndexChanged.connect(UpdateBookList)
@@ -245,8 +249,7 @@ def UpdatePageList():
             w.checkboxes_layout.insertWidget(i, checkbox)
             # add a radiobutton and check if it's the first enabled radiobutton
             radiobutton = QRadioButton(html2mathtext(page.get("name")))
-            #not clear why this style tweaking is needed, but otherwise unchecked radiobuttons are colored
-            radiobutton.setStyleSheet("QRadioButton::indicator::unchecked {border-radius: 8px; border: 1px solid gray; background-color: white;}")
+            radiobutton.setStyleSheet("all: unset;") # workaround to prevent coloring of unchecked radiobuttons
             radiobutton.setChecked(is_first_enabled)
             radiobutton.toggled.connect(UpdateDetails)
             w.radiobuttons.append(radiobutton)
@@ -300,7 +303,8 @@ def UpdateData():
             tmp_k = []
             tmp_n_defined = False
             tmp_k_defined = False
-            datafile = yaml.safe_load(open(data_path, "r", encoding="utf-8").read())
+            with open(data_path, "r", encoding="utf-8") as file:
+                datafile = yaml.safe_load(file)
             for data in datafile.get("DATA"):
                 datatype = data.get("type").split()
                 if datatype[0] == "tabulated":
@@ -433,7 +437,8 @@ def UpdateDetails():
     data_path = os.path.join(db_path, "data-nk", page_paths[page_num])
     data_path = os.path.normpath(data_path)
     if os.path.exists(data_path):
-        datafile = yaml.safe_load(open(data_path, "r", encoding="utf-8").read())
+        with open(data_path, "r", encoding="utf-8") as file:
+            datafile = yaml.safe_load(file)
         ref += datafile.get("REFERENCES", "")
         com += datafile.get("COMMENTS", "")
 

@@ -9,7 +9,7 @@ import re
 
 from PyQt6.QtWidgets import QApplication, QMainWindow, QWidget
 from PyQt6.QtWidgets import QComboBox, QCheckBox, QRadioButton, QSpacerItem, QTextBrowser, QTabWidget
-from PyQt6.QtWidgets import QVBoxLayout, QHBoxLayout, QSizePolicy
+from PyQt6.QtWidgets import QVBoxLayout, QHBoxLayout, QGridLayout, QSizePolicy, QScrollArea
 
 import matplotlib.pyplot as plt
 from matplotlib.backends.backend_qtagg import FigureCanvasQTAgg as FigureCanvas
@@ -37,7 +37,8 @@ current_file_path = os.path.abspath(__file__)
 db_path = os.path.dirname(os.path.dirname(current_file_path))
 
 lib_path = os.path.join(db_path, "catalog-n2.yml")
-library = yaml.safe_load(open(lib_path, "r", encoding="utf-8").read())
+with open(lib_path, "r", encoding="utf-8") as file:
+    library = yaml.safe_load(file)
 
 fig, ax = plt.subplots()
 
@@ -45,6 +46,10 @@ class MainWindow(QMainWindow):
 
     def __init__(self):
         super().__init__()
+
+        # spacers for layout alignment
+        h_spacer = QSpacerItem(0, 0, QSizePolicy.Policy.Expanding, QSizePolicy.Policy.Minimum)
+        v_spacer = QSpacerItem(0, 0, QSizePolicy.Policy.Minimum, QSizePolicy.Policy.Expanding)
 
         # Shelves and Books combo boxes
         self.combobox1 = QComboBox()
@@ -63,33 +68,53 @@ class MainWindow(QMainWindow):
 
         # Page checkboxes (added/removed later depending on number of pages)
         self.checkboxes = []
-        self.checkboxes_layout = QVBoxLayout()
-        spacer1 = QSpacerItem(0, 0, QSizePolicy.Policy.Minimum, QSizePolicy.Policy.Expanding)
-        self.checkboxes_layout.addSpacerItem(spacer1)
+        self.checkboxes_widget = QWidget() #widget to set to scroll area (cannot set layout directly)
+        self.checkboxes_layout = QVBoxLayout(self.checkboxes_widget)
+        self.checkboxes_layout.addSpacerItem(v_spacer)
+        self.checkboxes_scroll = QScrollArea()
+        self.checkboxes_scroll.setWidget(self.checkboxes_widget)
+        self.checkboxes_scroll.setWidgetResizable(True)
 
-        # Page checkboxes (added/removed later depending on number of pages)
+        # Plot checkboxes
+        self.plot_checkboxes_layout = QHBoxLayout()
+        self.checkbox_LogX = QCheckBox("LogX")
+        self.checkbox_LogY = QCheckBox("LogY")
+        self.checkbox_LogX.setChecked(False)
+        self.checkbox_LogY.setChecked(False)
+        self.plot_checkboxes_layout.addSpacerItem(h_spacer)
+        self.plot_checkboxes_layout.addWidget(self.checkbox_LogX)
+        self.plot_checkboxes_layout.addWidget(self.checkbox_LogY)
+        self.plot_checkboxes_layout.addSpacerItem(h_spacer)
+
+        # Page radiobuttons (added/removed later depending on number of pages)
         self.radiobuttons = []
-        self.radiobuttons_layout = QVBoxLayout()
-        spacer2 = QSpacerItem(0, 0, QSizePolicy.Policy.Minimum, QSizePolicy.Policy.Expanding)
-        self.radiobuttons_layout.addSpacerItem(spacer2)
+        self.radiobuttons_widget = QWidget() #widget to set to scroll area (cannot set layout directly)
+        self.radiobuttons_layout = QVBoxLayout(self.radiobuttons_widget)
+        self.radiobuttons_layout.addSpacerItem(v_spacer)
+        self.radiobuttons_scroll = QScrollArea()
+        self.radiobuttons_scroll.setWidget(self.radiobuttons_widget)
+        self.radiobuttons_scroll.setWidgetResizable(True)
 
         # Tab widget
         tab_widget = QTabWidget()
 
         # Explorer tab
         tab1 = QWidget()
-        tab1_layout = QHBoxLayout(tab1)
-        tab1_layout.addLayout(self.checkboxes_layout)
-        tab1_layout.addWidget(self.canvas)
-        tab1_layout.setStretchFactor(self.canvas, 1) # stretch figure
+        tab1_layout = QGridLayout(tab1)
+        tab1_layout.addWidget(self.checkboxes_scroll,0,0,2,1)
+        tab1_layout.addWidget(self.canvas,0,1,1,1)
+        tab1_layout.addLayout(self.plot_checkboxes_layout,1,1,1,1)
+        tab1_layout.setColumnStretch(0, 1)
+        tab1_layout.setColumnStretch(1, 3)
         tab_widget.addTab(tab1, "Data explorer")
 
         # Details tab
         tab2 = QWidget()
         tab2_layout = QHBoxLayout(tab2)
-        tab2_layout.addLayout(self.radiobuttons_layout)
+        tab2_layout.addWidget(self.radiobuttons_scroll)
         tab2_layout.addWidget(self.details)
-        tab2_layout.setStretchFactor(self.details, 1) # stretch text box
+        tab2_layout.setStretchFactor(self.radiobuttons_scroll, 1)
+        tab2_layout.setStretchFactor(self.details, 3)
         tab_widget.addTab(tab2, "Details")
 
         # Info tab
@@ -105,11 +130,12 @@ class MainWindow(QMainWindow):
         main_layout.addWidget(tab_widget)
 
         window = QWidget()
-        window.setWindowTitle("n2 Explorer")
         window.setLayout(main_layout)
 
         self.combobox1.currentIndexChanged.connect(UpdateBookList)
         self.combobox2.currentIndexChanged.connect(UpdatePageList)
+        self.checkbox_LogX.stateChanged.connect(UpdatePlot)
+        self.checkbox_LogY.stateChanged.connect(UpdatePlot)
 
         self.setCentralWidget(window)
 
@@ -209,6 +235,7 @@ def UpdatePageList():
             w.checkboxes_layout.insertWidget(i, checkbox)
             # add a radiobutton and check it if it's the first enabled radiobutton
             radiobutton = QRadioButton(html2mathtext(page.get("name")))
+            radiobutton.setStyleSheet("all: unset;") # workaround to prevent coloring of unchecked radiobuttons
             radiobutton.setChecked(is_first_enabled)
             radiobutton.toggled.connect(UpdateDetails)
             w.radiobuttons.append(radiobutton)
@@ -248,7 +275,8 @@ def UpdateData():
         data_path = os.path.join(db_path, "data-n2", page_paths[i])
         data_path = os.path.normpath(data_path)
         if os.path.exists(data_path):
-            datafile = yaml.safe_load(open(data_path, "r", encoding="utf-8").read())
+            with open(data_path, "r", encoding="utf-8") as file:
+                datafile = yaml.safe_load(file)
             for data in datafile.get("DATA"):
                 if (data.get("type").split())[0] == "tabulated":
                     rows = data.get("data").split("\n")
@@ -275,6 +303,8 @@ def UpdatePlot():
             for k in range(len(n2[i])):
                 if n2[i][k] < 0:
                     all_n2_positive = False
+    ax.set_xscale('log' if w.checkbox_LogX.isChecked() else 'linear')
+    ax.set_yscale('log' if w.checkbox_LogY.isChecked() else 'linear')
     ax.set_title(html2mathtext(book_names[w.combobox2.currentIndex()]))
     ax.set_xlabel("Wavelength (μm)")
     ax.set_ylabel("n$_2$ (m$^2$/W)")
@@ -301,7 +331,8 @@ def UpdateDetails():
     data_path = os.path.join(db_path, "data-n2", page_paths[page_num])
     data_path = os.path.normpath(data_path)
     if os.path.exists(data_path):
-        datafile = yaml.safe_load(open(data_path, "r", encoding="utf-8").read())
+        with open(data_path, "r", encoding="utf-8") as file:
+            datafile = yaml.safe_load(file)
         ref += datafile.get("REFERENCES")
         com += datafile.get("COMMENTS")
 
