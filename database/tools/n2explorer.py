@@ -402,7 +402,7 @@ def html2mathtext(str):
 #------------------------------------------------------------------------------------------
 app = QApplication(sys.argv)
 w = MainWindow()
-w.setWindowTitle("n2 Explorer")
+w.setWindowTitle("n2 Explorer - Refractiveindex.info")
 w.show()
 UpdateShelfList()
 app.exec()

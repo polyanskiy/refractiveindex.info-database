@@ -535,7 +535,7 @@ def stringify_dict(d, indent=0):
 #------------------------------------------------------------------------------------------
 app = QApplication(sys.argv)
 w = MainWindow()
-w.setWindowTitle("nk Explorer")
+w.setWindowTitle("nk Explorer - Refractiveindex.info")
 w.show()
 UpdateShelfList()
 app.exec()
