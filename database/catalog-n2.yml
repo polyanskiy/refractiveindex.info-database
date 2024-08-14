@@ -348,7 +348,7 @@
           name: "Milam et al. 1977"
           data: "main/PbF2/Milam.yml"
     - BOOK: SF6
-      name: "SF<sub>6</sub6> (Sulphur hexafluoride)"
+      name: "SF<sub>6</sub> (Sulphur hexafluoride)"
       info: "main/SF6.html"
       content:
         - PAGE: Nibbering
