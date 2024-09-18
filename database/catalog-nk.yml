@@ -5128,6 +5128,36 @@
         - PAGE: Zhang
           name: "Zhang et al. 2020: n,k 0.4–20 µm"
           data: "organic/(C16H14O3)n - polycarbonate/Zhang.yml"
+    - BOOK: MDMO-PPV
+      name: "(C<sub>19</sub>H<sub>28</sub>O<sub>2</sub>)<sub>n</sub> (MDMO-PPV)"
+      info: "organic/MDMO-PPV.html"
+      content:
+        - PAGE: Kamptner-o
+          name: "Kamptner et al. 2024: n,k(o) 0.191–1.69 µm"
+          data: "organic/(C19H28O2)n - MDMO-PPV/Kamptner-o.yml"
+        - PAGE: Kamptner-e
+          name: "Kamptner et al. 2024: n,k(e) 0.191–1.69 µm"
+          data: "organic/(C19H28O2)n - MDMO-PPV/Kamptner-e.yml"
+    - BOOK: ZZ50
+      name: "(C<sub>31</sub>H<sub>38</sub>N<sub>2</sub>S<sub>3</sub>)<sub>n</sub> (ZZ50)"
+      info: "organic/ZZ50.html"
+      content:
+        - PAGE: Kamptner-o
+          name: "Kamptner et al. 2024: n,k(o) 0.191–1.69 µm"
+          data: "organic/(C31H38N2S3)n - ZZ50/Kamptner-o.yml"
+        - PAGE: Kamptner-e
+          name: "Kamptner et al. 2024: n,k(e) 0.191–1.69 µm"
+          data: "organic/(C31H38N2S3)n - ZZ50/Kamptner-e.yml"
+    - BOOK: F8BT
+      name: "(C<sub>35</sub>H<sub>42</sub>N<sub>2</sub>S)<sub>n</sub> (F8BT)"
+      info: "organic/F8BT.html"
+      content:
+        - PAGE: Kamptner-o
+          name: "Kamptner et al. 2024: n,k(o) 0.191–1.69 µm"
+          data: "organic/(C35H42N2S)n - F8BT/Kamptner-o.yml"
+        - PAGE: Kamptner-e
+          name: "Kamptner et al. 2024: n,k(e) 0.191–1.69 µm"
+          data: "organic/(C35H42N2S)n - F8BT/Kamptner-e.yml"
     - BOOK: polyetherimide
       name: "(C<sub>37</sub>H<sub>24</sub>O<sub>6</sub>N<sub>2</sub>)<sub>n</sub> (Polyetherimide, PEI)"
       info: "organic/polyetherimide.html"
@@ -5135,6 +5165,36 @@
         - PAGE: Zhang
           name: "Zhang et al. 2020: n,k 0.4–20 µm"
           data: "organic/(C37H24O6N2)n - polyetherimide/Zhang.yml"
+    - BOOK: PTB7
+      name: "(C<sub>41</sub>H<sub>53</sub>FO<sub>4</sub>S<sub>4</sub>)<sub>n</sub> (PTB7)"
+      info: "organic/PTB7.html"
+      content:
+        - PAGE: Kamptner-o
+          name: "Kamptner et al. 2024: n,k(o) 0.191–1.69 µm"
+          data: "organic/(C41H53FO4S4)n - PTB7/Kamptner-o.yml"
+        - PAGE: Kamptner-e
+          name: "Kamptner et al. 2024: n,k(e) 0.191–1.69 µm"
+          data: "organic/(C41H53FO4S4)n - PTB7/Kamptner-e.yml"
+    - BOOK: PDCBT
+      name: "(C<sub>42</sub>H<sub>56</sub>O<sub>4</sub>S<sub>2</sub>)<sub>n</sub> (PDCBT)"
+      info: "organic/PDCBT.html"
+      content:
+        - PAGE: Kamptner-o
+          name: "Kamptner et al. 2024: n,k(o) 0.191–1.69 µm"
+          data: "organic/(C42H56O4S2)n - PDCBT/Kamptner-o.yml"
+        - PAGE: Kamptner-e
+          name: "Kamptner et al. 2024: n,k(e) 0.191–1.69 µm"
+          data: "organic/(C42H56O4S2)n - PDCBT/Kamptner-e.yml"
+    - BOOK: PBDB-T-2F
+      name: "(C<sub>68</sub>H<sub>76</sub>F<sub>2</sub>O<sub>2</sub>S<sub>8</sub>)<sub>n</sub> (PBDB-T-2F)"
+      info: "organic/PBDB-T-2F.html"
+      content:
+        - PAGE: Kamptner-o
+          name: "Kamptner et al. 2024: n,k(o) 0.191–1.69 µm"
+          data: "organic/(C68H76F2O2S8)n - PBDB-T-2F/Kamptner-o.yml"
+        - PAGE: Kamptner-e
+          name: "Kamptner et al. 2024: n,k(e) 0.191–1.69 µm"
+          data: "organic/(C68H76F2O2S8)n - PBDB-T-2F/Kamptner-e.yml"
 - SHELF: glass
   name: "GLASS - glasses"
   info: "glass.html"

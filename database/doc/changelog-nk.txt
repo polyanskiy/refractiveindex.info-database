@@ -1,4 +1,21 @@
-﻿============================== 2024-08-14 ==============================
+﻿============================== NEXT RELEASE ==============================
+
+  new data (thanks to Manuela Schiek, Johannes Kepler University of Linz, Austria, for submitting data!)
+    organic/(C35H42N2S)n - F8BT/Kamptner-o.yml
+    organic/(C35H42N2S)n - F8BT/Kamptner-e.yml
+    organic/(C19H28O2)n - MDMO-PPV/Kamptner-o.yml
+    organic/(C19H28O2)n - MDMO-PPV/Kamptner-e.yml
+    organic/(C42H56O4S2)n - PDCBT/Kamptner-o.yml
+    organic/(C42H56O4S2)n - PDCBT/Kamptner-e.yml
+    organic/(C68H76F2O2S8)n - PBDB-T-2F/Kamptner-o.yml
+    organic/(C68H76F2O2S8)n - PBDB-T-2F/Kamptner-e.yml
+    organic/(C41H53FO4S4)n - PTB7/Kamptner-o.yml
+    organic/(C41H53FO4S4)n - PTB7/Kamptner-e.yml
+    organic/(C31H38N2S3)n - ZZ50/Kamptner-o.yml
+    organic/(C31H38N2S3)n - ZZ50/Kamptner-e.yml
+
+
+============================== 2024-08-14 ==============================
 
   new data (thanks to Jesse Frantz, Naval Research Laboratory, Washington, DC, USA, for submitting data!)
     main/Ge2Sb2Te5/Frantz-crystal.yml
