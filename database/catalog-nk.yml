@@ -5396,6 +5396,12 @@
         - PAGE: Rubin-IR
           name: "Rubin 1985: Far-infared; n,k 5–300 µm"
           data: "glass/misc/soda-lime/Rubin-IR.yml"
+        - PAGE: Kamptner
+          name: "Kamptner et al. 2024: n,k 0.191–1.69 µm"
+          data: "glass/misc/soda-lime/Kamptner.yml"
+        - PAGE: Kamptner-tin-side
+          name: "Kamptner et al. 2024: Tin side; n,k 0.191–1.69 µm"
+          data: "glass/misc/soda-lime/Kamptner-tin-side.yml"
         - PAGE: Nyakuchena
           name: "Nyakuchena et al. 2023: n 1.10–1.65 µm"
           data: "glass/misc/soda-lime/Nyakuchena.yml"

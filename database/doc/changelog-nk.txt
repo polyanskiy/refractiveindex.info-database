@@ -13,6 +13,8 @@
     organic/(C41H53FO4S4)n - PTB7/Kamptner-e.yml
     organic/(C31H38N2S3)n - ZZ50/Kamptner-o.yml
     organic/(C31H38N2S3)n - ZZ50/Kamptner-e.yml
+    glass/misc/soda-lime/Kamptner.yml
+    glass/misc/soda-lime/Kamptner-tin-side.yml
 
 
 ============================== 2024-08-14 ==============================
