@@ -32,5 +32,10 @@ Julia interface to refractiveindex.info database<br>
 https://github.com/stillyslalom/RefractiveIndex.jl
 
 ### refractiveindex on PYPI
-Easy Python interface to RefractiveIndex database. Based on parsing method from PyTMM project, usage simular to `RefractiveIndex.jl` for Julia.<br/>
+Easy Python interface to RefractiveIndex database. Based on parsing method from PyTMM project, usage simular to `RefractiveIndex.jl` for Julia.<br>
 https://github.com/toftul/refractiveindex
+
+### PyMoosh
+Python library for multilayer simulation and optimization<br>
+https://github.com/AnMoreau/PyMoosh
+
