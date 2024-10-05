@@ -4731,6 +4731,51 @@
         - PAGE: El-Kashef
           name: "El-Kashef 2000: n 0.4–0.8 µm"
           data: "organic/C2H4O2 - acetic acid/El-Kashef.yml"
+    - BOOK: valeric_acid
+      name: "C<sub>5</sub>H<sub>10</sub>O<sub>2</sub> (Valeric acid)"
+      info: "organic/valeric acid.html"
+      content:
+        - PAGE: Rubio
+          name: "Rubio et al. 2015: n 0.400–0.590 µm"
+          data: "organic/C5H10O2 - valeric acid/Rubio.yml"
+    - BOOK: caproic_acid
+      name: "C<sub>6</sub>H<sub>12</sub>O<sub>2</sub> (Caproic acid)"
+      info: "organic/caproic acid.html"
+      content:
+        - PAGE: Rubio
+          name: "Rubio et al. 2015: n 0.400–0.590 µm"
+          data: "organic/C6H12O2 - caproic acid/Rubio.yml"
+    - BOOK: enanthic_acid
+      name: "C<sub>7</sub>H<sub>14</sub>O<sub>2</sub> (Enanthic acid)"
+      info: "organic/enanthic acid.html"
+      content:
+        - PAGE: Rubio
+          name: "Rubio et al. 2015: n 0.400–0.590 µm"
+          data: "organic/C7H14O2 - enanthic acid/Rubio.yml"
+    - BOOK: caprylic_acid
+      name: "C<sub>8</sub>H<sub>16</sub>O<sub>2</sub> (Caprylic acid)"
+      info: "organic/caprylic acid.html"
+      content:
+        - PAGE: Rubio
+          name: "Rubio et al. 2015: n 0.400–0.590 µm"
+          data: "organic/C8H16O2 - caprylic acid/Rubio.yml"
+    - BOOK: pelargonic_acid
+      name: "C<sub>9</sub>H<sub>18</sub>O<sub>2</sub> (Pelargonic acid)"
+      info: "organic/pelargonic acid.html"
+      content:
+        - PAGE: Rubio
+          name: "Rubio et al. 2015: n 0.400–0.590 µm"
+          data: "organic/C9H18O2 - pelargonic acid/Rubio.yml"
+    - BOOK: oleic_acid
+      name: "C<sub>18</sub>H<sub>34</sub>O<sub>2</sub> (Oleic acid)"
+      info: "organic/oleic acid.html"
+      content:
+        - PAGE: Jones
+          name: "Jones et al. 2015: n 0.595–0.670 µm"
+          data: "organic/C18H34O2 - oleic acid/Jones.yml"
+        - PAGE: McGinty
+          name: "McGinty et al. 2009: n,k 2.00–13.3 µm"
+          data: "organic/C18H34O2 - oleic acid/McGinty.yml"
     - DIVIDER: "Diols"
     - BOOK: pentanediol
       name: "C<sub>5</sub>H<sub>12</sub>O<sub>2</sub> (Pentanediol)"

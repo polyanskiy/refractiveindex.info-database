@@ -1,5 +1,13 @@
 ﻿============================== NEXT RELEASE ==============================
 
+  new data (thanks to Fabio Lisi, University of Tokyo, Japan, for suggesting data!)
+    organic/C18H34O2 - oleic acid/McGinty.yml
+    organic/C18H34O2 - oleic acid/Jones.yml
+    organic/C5H10O2 - valeric acid/Rubio.yml
+    organic/C6H12O2 - caproic acid/Rubio.yml
+    organic/C7H14O2 - enanthic acid/Rubio.yml
+    organic/C8H16O2 - caprylic acid/Rubio.yml
+    organic/C9H18O2 - pelargonic acid/Rubio.yml
   new data (thanks to Osamu Takayama, Technical University of Denmark, Lyngby, Denmark, for submitting data!)
     main/TiN/Beliaev-ALD.yml
   new data (thanks to Manuela Schiek, Johannes Kepler University of Linz, Austria, for submitting data!)
