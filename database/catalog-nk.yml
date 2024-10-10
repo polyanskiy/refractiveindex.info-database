@@ -12677,9 +12677,20 @@
       name: "Blood"
       info: "other/blood.html"
       content:
+        - DIVIDER: "Whole blood"
         - PAGE: Rowe
           name: "Rowe et al. 2017: n,k 2–15 µm"
           data: "other/human body/blood/Rowe.yml"
+        - PAGE: Liu
+          name: "Liu et al. 2019: n 0.400–0.750 µm"
+          data: "other/human body/blood/Liu.yml"
+        - DIVIDER: "Blood components"
+        - PAGE: Liu-serum
+          name: "Liu et al. 2019: Serum; n 0.400–0.750 µm"
+          data: "other/human body/blood/Liu-serum.yml"
+        - PAGE: Liu-plasma
+          name: "Liu et al. 2019: Plasma; n 0.400–0.750 µm"
+          data: "other/human body/blood/Liu-plasma.yml"
     - BOOK: liver
       name: "Liver"
       info: "other/liver.html"

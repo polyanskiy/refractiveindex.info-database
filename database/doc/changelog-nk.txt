@@ -1,6 +1,9 @@
 ﻿============================== NEXT RELEASE ==============================
 
   new data (thanks to Fabio Lisi, University of Tokyo, Japan, for suggesting data!)
+    other/human body/blood/Liu.yml
+    other/human body/blood/Liu-serum.yml
+    other/human body/blood/Liu-plasma.yml
     organic/C18H34O2 - oleic acid/McGinty.yml
     organic/C18H34O2 - oleic acid/Jones.yml
     organic/C5H10O2 - valeric acid/Rubio.yml
