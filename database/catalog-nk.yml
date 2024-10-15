@@ -12691,6 +12691,13 @@
         - PAGE: Liu-plasma
           name: "Liu et al. 2019: Plasma; n 0.400–0.750 µm"
           data: "other/human body/blood/Liu-plasma.yml"
+    - BOOK: adipose_tissue
+      name: "Adipose tissue (body fat)"
+      info: "other/adipose tissue.html"
+      content:
+        - PAGE: Yanina
+          name: "Yanina et al. 2019: n,k 0.475–1.55 µm"
+          data: "other/human body/adipose tissue/Yanina.yml"
     - BOOK: liver
       name: "Liver"
       info: "other/liver.html"

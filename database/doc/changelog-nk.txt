@@ -1,6 +1,7 @@
 ﻿============================== NEXT RELEASE ==============================
 
   new data (thanks to Fabio Lisi, University of Tokyo, Japan, for suggesting data!)
+    other/human body/adipose tissue/Yanina.yml
     other/human body/blood/Liu.yml
     other/human body/blood/Liu-serum.yml
     other/human body/blood/Liu-plasma.yml
