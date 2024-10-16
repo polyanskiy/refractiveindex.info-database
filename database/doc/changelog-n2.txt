@@ -1,4 +1,16 @@
-﻿============================== 2024-08-14 ==============================
+﻿============================== NEXT RELEASE ==============================
+  new data
+    main/GaAs/Matteo-220fs.yml
+    main/GaAs/Matteo-200ps.yml
+    main/Ge/Matteo-220fs.yml
+    main/Ge/Matteo-200ps.yml
+    main/ZnSe/Matteo-220fs.yml
+    main/ZnSe/Matteo-200ps.yml
+    main/Te/Matteo-o.yml
+    main/Te/Matteo-e.yml
+
+
+============================== 2024-08-14 ==============================
 
   new data
     main/CdTe/Tatsuura-100.yml

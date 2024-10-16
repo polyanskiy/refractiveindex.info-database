@@ -1,0 +1,13 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+REFERENCES: "D. Matteo, S. Tochitsky, J. Pigeon, C. Joshi. Pulse length effects in the nonresonant long-wave infrared nonlinear optical response of n-Ge, GaAs, and ZnSe, <a href=\"https://doi.org/10.1364/JOSAB.534031\"><i>J. Opt. Soc. Am. B</i> <b>41</b>, E35 (2024)</a>"
+COMMENTS: "220 fs. Z-scan."
+DATA:
+  - type: tabulated n2
+    data: |
+        10.6 1e-18
+SPECS:
+    n2_method: Z-scan
+    pulse_duration: 220e-15

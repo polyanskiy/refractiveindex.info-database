@@ -75,6 +75,12 @@
       name: "GaAs (Gallium arsenide)"
       info: "main/GaAs.html"
       content:
+        - PAGE: Matteo-220fs
+          name: "Matteo et al. 2024; 220 fs"
+          data: "main/GaAs/Matteo-220fs.yml"
+        - PAGE: Matteo-200ps
+          name: "Matteo et al. 2024; 200 ps"
+          data: "main/GaAs/Matteo-200ps.yml"
         - PAGE: Polyanskiy
           name: "Polyanskiy et al. 2024"
           data: "main/GaAs/Polyanskiy.yml"
@@ -405,6 +411,12 @@
       name: "Ge (Germanium)"
       info: "main/Ge.html"
       content:
+        - PAGE: Matteo-220fs
+          name: "Matteo et al. 2024; 220 fs"
+          data: "main/Ge/Matteo-220fs.yml"
+        - PAGE: Matteo-200ps
+          name: "Matteo et al. 2024; 200 ps"
+          data: "main/Ge/Matteo-200ps.yml"
         - PAGE: Polyanskiy
           name: "Polyanskiy et al. 2024"
           data: "main/Ge/Polyanskiy.yml"
@@ -768,6 +780,12 @@
       info: "main/ZnSe.html"
       content:
         - DIVIDER: "Polycrystalline"
+        - PAGE: Matteo-220fs
+          name: "Matteo et al. 2024; 220 fs"
+          data: "main/ZnSe/Matteo-220fs.yml"
+        - PAGE: Matteo-200ps
+          name: "Matteo et al. 2024; 200 ps"
+          data: "main/ZnSe/Matteo-200ps.yml"
         - PAGE: Polyanskiy
           name: "Polyanskiy et al. 2024"
           data: "main/ZnSe/Polyanskiy.yml"
@@ -823,7 +841,17 @@
         - PAGE: Adair
           name: "Adair et al. 1989"
           data: "main/KTaO3/Adair.yml"
-    - DIVIDER: "Te - Tellurides"
+    - DIVIDER: "Te - Tellurium and tellurides"
+    - BOOK: Te
+      name: "Te (Tellurium)"
+      info: "main/Te.html"
+      content:
+        - PAGE: Matteo-o
+          name: "Matteo et al. 2023: (o)"
+          data: "main/Te/Matteo-o.yml"
+        - PAGE: Matteo-e
+          name: "Matteo et al. 2023: (e)"
+          data: "main/Te/Matteo-e.yml"
     - BOOK: CdTe
       name: "CdTe (Cadmium telluride)"
       info: "main/CdTe.html"
