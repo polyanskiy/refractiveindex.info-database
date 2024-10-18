@@ -4,7 +4,7 @@
 
 REFERENCES: "D. Franta, B. Hroncová, J. Dvořák, J. Vohánka, P Franta, I. Ohlídal, V. Pekař, D. Škoda. Wide spectral range optical characterization of niobium pentoxide (Nb<sub>2</sub>O<sub>5</sub>) films by universal dispersion model, <a href=\"https://doi.org/10.1016/j.optmat.2024.116133\"><i>Opt. Mat.</i>, <b>157</b>, 116133 (2024)</a> (Numerical data kindly provided by Jan Dvořák)"
 COMMENTS: "Nb<sub>2</sub>O<sub>5</sub>; Deposited by magnetron sputtering; Heterogenous data processing combining ellipsometric and spectrophotometric measurements of five samples with thicknesses between 20 and 250 nm; Room temperature."
-DATA: 
+DATA:
   - type: tabulated nk
     data: |
         0.120051 1.21597313804 1.251165144
