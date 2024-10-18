@@ -2239,15 +2239,19 @@
       name: "Nb<sub>2</sub>O<sub>5</sub> (Niobium pentoxide)"
       info: "main/Nb2O5.html"
       content:
-        - PAGE: Lemarchand
-          name: "Lemarchand 2013: Thin film; n,k 0.25–2.5 µm"
-          data: "main/Nb2O5/Lemarchand.yml"
+        - DIVIDER: "Thin film"
+        - PAGE: Franta
+          name: "Franta 2024: n,k 0.120–399 µm"
+          data: "main/Nb2O5/Franta.yml"
         - PAGE: Horcholle-400
           name: "Horcholle et al. 2022: Thin film annealed at 400 °C; n,k 0.207–0.827 µm"
           data: "main/Nb2O5/Horcholle-400.yml"
         - PAGE: Horcholle-800
           name: "Horcholle et al. 2022: Thin film annealed at 800 °C; n,k 0.207–0.827 µm"
           data: "main/Nb2O5/Horcholle-800.yml"
+        - PAGE: Lemarchand
+          name: "Lemarchand 2013: n,k 0.25–2.5 µm"
+          data: "main/Nb2O5/Lemarchand.yml"
     - BOOK: Sc2O3
       name: "Sc<sub>2</sub>O<sub>3</sub> (Scandium sesquioxide)"
       info: "main/Sc2O3.html"
