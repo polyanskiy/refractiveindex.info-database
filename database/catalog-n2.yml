@@ -5,7 +5,7 @@
 - SHELF: main
   name: "MAIN - simple inorganic materials"
   content:
-    - DIVIDER: "Al - Aluminates, Aluminium garnets"
+    - DIVIDER: "Al - Aluminates"
     - BOOK: BeAl2O4
       name: "BeAl<sub>2</sub>O<sub>4</sub> (Beryllium aluminate, chrysoberyl)"
       info: "main/BeAl2O4.html"
@@ -13,13 +13,6 @@
         - PAGE: Adair
           name: "Adair 1989"
           data: "main/BeAl2O4/Adair.yml"
-    - BOOK: Gd3Sc2Al3O12
-      name: "Gd<sub>3</sub>Sc<sub>2</sub>Al<sub>3</sub>O<sub>12</sub> (Gadolinium scandium aluminium garnet, GSAG)"
-      info: "main/Gd3Sc2Al3O12.html"
-      content:
-        - PAGE: Adair
-          name: "Adair et al. 1989"
-          data: "main/Gd3Sc2Al3O12/Adair.yml"
     - BOOK: MgAl2O4
       name: "MgAl<sub>2</sub>O<sub>4</sub> (Magnesium aluminate, spinel)"
       info: "main/MgAl2O4.html"
@@ -37,22 +30,6 @@
         - PAGE: Adair
           name: "Adair et al. 1989"
           data: "main/YAlO3/Adair.yml"
-    - BOOK: Y3Al5O12
-      name: "Y<sub>3</sub>Al<sub>5</sub>O<sub>12</sub> (Yttrium aluminium garnet, YAG)"
-      info: "main/Y3Al5O12.html"
-      content:
-        - PAGE: Kabacinski
-          name: "Kabaciński et al. 2019"
-          data: "main/Y3Al5O12/Kabacinski.yml"
-        - PAGE: Adair
-          name: "Adair et al. 1989"
-          data: "main/Y3Al5O12/Adair.yml"
-        - PAGE: Bliss
-          name: "Bliss et al. 1974"
-          data: "main/Y3Al5O12/Bliss.yml"
-        - PAGE: Owyoung
-          name: "Owyoung 1973"
-          data: "main/Y3Al5O12/Owyoung.yml"
     - DIVIDER: "Ar - Argon"
     - BOOK: Ar
       name: "Ar (Argon)"
@@ -377,35 +354,6 @@
         - PAGE: Milam
           name: "Milam et al. 1977: (o)"
           data: "main/YLiF4/Milam.yml"
-    - DIVIDER: "Ga - Gallium garnets"
-    - BOOK: Gd3Ga5O12
-      name: "Gd<sub>3</sub>Ga<sub>5</sub>O<sub>12</sub> (Gadolinium gallium garnet, GGG)"
-      info: "main/Gd3Ga5O12.html"
-      content:
-        - PAGE: Adair
-          name: "Adair et al. 1989"
-          data: "main/Gd3Ga5O12/Adair.yml"
-    - BOOK: Gd3Sc2Ga3O12
-      name: "Gd<sub>3</sub>Sc<sub>2</sub>Ga<sub>3</sub>O<sub>12</sub> (Gadolinium scandium gallium garnet, GSGG)"
-      info: "main/Gd3Sc2Ga3O12.html"
-      content:
-        - PAGE: Adair
-          name: "Adair et al. 1989"
-          data: "main/Gd3Sc2Ga3O12/Adair.yml"
-    - BOOK: La3Lu2Ga3O12
-      name: "La<sub>3</sub>Lu<sub>2</sub>Ga<sub>3</sub>O<sub>12</sub> (Lanthanum lutetium gallium garnet, LLGG)"
-      info: "main/La3Lu2Ga3O12.html"
-      content:
-        - PAGE: Adair
-          name: "Adair et al. 1989"
-          data: "main/La3Lu2Ga3O12/Adair.yml"
-    - BOOK: Y3Ga5O12
-      name: "Y<sub>3</sub>Ga<sub>5</sub>O<sub>12</sub> (Yttrium gallium garnet, YGG)"
-      info: "main/Y3Ga5O12.html"
-      content:
-        - PAGE: Adair
-          name: "Adair et al. 1989"
-          data: "main/Y3Ga5O12/Adair.yml"
     - DIVIDER: "Ge - Germanium"
     - BOOK: Ge
       name: "Ge (Germanium)"
@@ -478,7 +426,7 @@
         - PAGE: Shaw
           name: "Shaw et al. 1993"
           data: "main/Ne/Shaw.yml"
-    - DIVIDER: "O - Oxygen and oxides"
+    - DIVIDER: "O - Oxygen, oxides and garnets"
     - BOOK: O2
       name: "O<sub>2</sub> (Oxygen)"
       info: "main/O2.html"
@@ -535,6 +483,34 @@
         - PAGE: Adair
           name: "Adair et al. 1989"
           data: "main/Ga2O3/Adair.yml"
+    - BOOK: Gd3Sc2Al3O12
+      name: "Gd<sub>3</sub>Sc<sub>2</sub>Al<sub>3</sub>O<sub>12</sub> (Gadolinium scandium aluminium garnet, GSAG)"
+      info: "main/Gd3Sc2Al3O12.html"
+      content:
+        - PAGE: Adair
+          name: "Adair et al. 1989"
+          data: "main/Gd3Sc2Al3O12/Adair.yml"
+    - BOOK: Gd3Ga5O12
+      name: "Gd<sub>3</sub>Ga<sub>5</sub>O<sub>12</sub> (Gadolinium gallium garnet, GGG)"
+      info: "main/Gd3Ga5O12.html"
+      content:
+        - PAGE: Adair
+          name: "Adair et al. 1989"
+          data: "main/Gd3Ga5O12/Adair.yml"
+    - BOOK: Gd3Sc2Ga3O12
+      name: "Gd<sub>3</sub>Sc<sub>2</sub>Ga<sub>3</sub>O<sub>12</sub> (Gadolinium scandium gallium garnet, GSGG)"
+      info: "main/Gd3Sc2Ga3O12.html"
+      content:
+        - PAGE: Adair
+          name: "Adair et al. 1989"
+          data: "main/Gd3Sc2Ga3O12/Adair.yml"
+    - BOOK: La3Lu2Ga3O12
+      name: "La<sub>3</sub>Lu<sub>2</sub>Ga<sub>3</sub>O<sub>12</sub> (Lanthanum lutetium gallium garnet, LLGG)"
+      info: "main/La3Lu2Ga3O12.html"
+      content:
+        - PAGE: Adair
+          name: "Adair et al. 1989"
+          data: "main/La3Lu2Ga3O12/Adair.yml"          
     - BOOK: MgO
       name: "MgO (Magnesium monoxide)"
       info: "main/MgO.html"
@@ -609,6 +585,29 @@
         - PAGE: Adair
           name: "Adair et al. 1989"
           data: "main/Y2O3/Adair.yml"
+    - BOOK: Y3Al5O12
+      name: "Y<sub>3</sub>Al<sub>5</sub>O<sub>12</sub> (Yttrium aluminium garnet, YAG)"
+      info: "main/Y3Al5O12.html"
+      content:
+        - PAGE: Kabacinski
+          name: "Kabaciński et al. 2019"
+          data: "main/Y3Al5O12/Kabacinski.yml"
+        - PAGE: Adair
+          name: "Adair et al. 1989"
+          data: "main/Y3Al5O12/Adair.yml"
+        - PAGE: Bliss
+          name: "Bliss et al. 1974"
+          data: "main/Y3Al5O12/Bliss.yml"
+        - PAGE: Owyoung
+          name: "Owyoung 1973"
+          data: "main/Y3Al5O12/Owyoung.yml"
+    - BOOK: Y3Ga5O12
+      name: "Y<sub>3</sub>Ga<sub>5</sub>O<sub>12</sub> (Yttrium gallium garnet, YGG)"
+      info: "main/Y3Ga5O12.html"
+      content:
+        - PAGE: Adair
+          name: "Adair et al. 1989"
+          data: "main/Y3Ga5O12/Adair.yml"
     - BOOK: ZnO
       name: "ZnO (Zinc monoxide)"
       info: "main/ZnO.html"

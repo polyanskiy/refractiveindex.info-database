@@ -1,7 +1,12 @@
 ﻿============================== NEXT RELEASE ==============================
 
-  new data (thanks to Jan Dvořák, Masaryk University, Brno, Czechia, for submitting data in YAML format!)
+  new data (thanks to Jan Dvořák and Daniel Franta, Masaryk University, Brno, Czechia, for submitting data in YAML format!)
     main/Nb2O5/Franta.yml
+    main/HfO2/Franta.yml
+    main/MgF2/Franta.yml
+    main/Y3Al5O12/Franta.yml
+    main/Tb3Ga5O12/Franta.yml
+    main/Tb3Ga5O12/Schlarb.yml
   new data (thanks to Fabio Lisi, University of Tokyo, Japan, for suggesting data!)
     other/human body/adipose tissue/Yanina.yml
     other/human body/blood/Liu.yml

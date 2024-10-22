@@ -156,13 +156,6 @@
         - PAGE: Loiko-e
           name: "Loiko et al. 2017: n(e) 0.35–2.1 µm"
           data: "main/CaYAlO4/Loiko-e.yml"
-    - BOOK: Lu3Al5O12
-      name: "Lu<sub>3</sub>Al<sub>5</sub>O<sub>12</sub> (Lutetium aluminium garnet, LuAG)"
-      info: "main/Lu3Al5O12.html"
-      content:
-        - PAGE: Hrabovsky
-          name: "Hrabovský et al. 2021: n 0.193–1.69 µm"
-          data: "main/Lu3Al5O12/Hrabovsky.yml"
     - BOOK: MgAl2O4
       name: "MgAl<sub>2</sub>O<sub>4</sub> (Magnesium aluminate, spinel)"
       info: "main/MgAl2O4.html"
@@ -170,19 +163,6 @@
         - PAGE: Tropf
           name: "Tropf and Thomas 1991: n 0.35–5.5 µm"
           data: "main/MgAl2O4/Tropf.yml"
-    - BOOK: Y3Al5O12
-      name: "Y<sub>3</sub>Al<sub>5</sub>O<sub>12</sub> (Yttrium aluminium garnet, YAG)"
-      info: "main/Y3Al5O12.html"
-      content:
-        - PAGE: Zelmon
-          name: "Zelmon et al. 1998: n 0.4–5.0 µm"
-          data: "main/Y3Al5O12/Zelmon.yml"
-        - PAGE: Hrabovsky
-          name: "Hrabovský et al. 2021: n 0.193–1.69 µm"
-          data: "main/Y3Al5O12/Hrabovsky.yml"
-        - PAGE: Bond
-          name: "Bond 1965: n 0.4–4.0 µm"
-          data: "main/Y3Al5O12/Bond.yml"
     - DIVIDER: "Ar - Argon"
     - BOOK: Ar
       name: "Ar (Argon)"
@@ -1138,6 +1118,9 @@
         - PAGE: Rodriguez-de_Marcos
           name: "Rodríguez-de Marcos et al. 2017: n,k 0.03–2.0 µm"
           data: "main/MgF2/Rodriguez-de Marcos.yml"
+        - PAGE: Franta
+          name: "Franta et al. 017: n,k 0.0275–125 µm"
+          data: "main/MgF2/Franta.yml"
     - BOOK: NaF
       name: "NaF (Sodium fluoride)"
       info: "main/NaF.html"
@@ -1969,7 +1952,7 @@
         - PAGE: Werner-DFT
           name: "Werner et al. 2009: DFT calculations; n,k 0.0176–2.48 µm"
           data: "main/Ni/Werner-DFT.yml"
-    - DIVIDER: "O - Oxygen and oxides"
+    - DIVIDER: "O - Oxygen, oxides and garnets"
     - BOOK: O2
       name: "O<sub>2</sub> (Oxygen)"
       info: "main/O2.html"
@@ -2188,6 +2171,9 @@
         - PAGE: Al-Kuhaili
           name: "Al-Kuhaili 2004: n 0.2–2.0 µm"
           data: "main/HfO2/Al-Kuhaili.yml"
+        - PAGE: Franta
+          name: "Franta et al. 2015: n,k 0.115–125 µm"
+          data: "main/HfO2/Franta.yml"
         - PAGE: Bright
           name: "Bright et al. 2012: n,k 0.385–500 µm"
           data: "main/HfO2/Bright.yml"
@@ -2204,6 +2190,13 @@
         - PAGE: Kaminskii
           name: "Kaminskii et al. 2008: n 0.365–2.325 µm"
           data: "main/Lu2O3/Kaminskii.yml"
+    - BOOK: Lu3Al5O12
+      name: "Lu<sub>3</sub>Al<sub>5</sub>O<sub>12</sub> (Lutetium aluminium garnet, LuAG)"
+      info: "main/Lu3Al5O12.html"
+      content:
+        - PAGE: Hrabovsky
+          name: "Hrabovský et al. 2021: n 0.193–1.69 µm"
+          data: "main/Lu3Al5O12/Hrabovsky.yml"
     - BOOK: MgO
       name: "MgO (Magnesium monoxide)"
       info: "main/MgO.html"
@@ -2241,7 +2234,7 @@
       content:
         - DIVIDER: "Thin film"
         - PAGE: Franta
-          name: "Franta 2024: n,k 0.120–399 µm"
+          name: "Franta et al. 2024: n,k 0.120–399 µm"
           data: "main/Nb2O5/Franta.yml"
         - PAGE: Horcholle-400
           name: "Horcholle et al. 2022: Thin film annealed at 400 °C; n,k 0.207–0.827 µm"
@@ -2351,6 +2344,17 @@
         - PAGE: Gao
           name: "Gao et al. 2012: n,k 0.35–1.8 µm"
           data: "main/Ta2O5/Gao.yml"
+    - BOOK: Tb3Ga5O12
+      name: "Tb<sub>3</sub>Ga<sub>5</sub>O<sub>12</sub> (Terbium gallium garnet, TGG)"
+      info: "main/Tb3Ga5O12.html"
+      content:
+      content:
+        - PAGE: Schlarb
+          name: "Schlarb and Sugg 1994: n 0.405–1.18 µm"
+          data: "main/Tb3Ga5O12/Schlarb.yml"
+        - PAGE: Franta
+          name: "Franta et al. 2025: n,k 0.120–400 µm"
+          data: "main/Tb3Ga5O12/Franta.yml"
     - BOOK: TeO2
       name: "TeO<sub>2</sub> (Tellurium dioxide)"
       info: "main/TeO2.html"
@@ -2449,6 +2453,22 @@
         - PAGE: Nigara
           name: "Nigara 1968: n 0.25–9.6 µm"
           data: "main/Y2O3/Nigara.yml"
+    - BOOK: Y3Al5O12
+      name: "Y<sub>3</sub>Al<sub>5</sub>O<sub>12</sub> (Yttrium aluminium garnet, YAG)"
+      info: "main/Y3Al5O12.html"
+      content:
+        - PAGE: Zelmon
+          name: "Zelmon et al. 1998: n 0.4–5.0 µm"
+          data: "main/Y3Al5O12/Zelmon.yml"
+        - PAGE: Hrabovsky
+          name: "Hrabovský et al. 2021: n 0.193–1.69 µm"
+          data: "main/Y3Al5O12/Hrabovsky.yml"
+        - PAGE: Franta
+          name: "Franta et al. 2021: n,k 0.120–400 µm"
+          data: "main/Y3Al5O12/Franta.yml"
+        - PAGE: Bond
+          name: "Bond 1965: n 0.4–4.0 µm"
+          data: "main/Y3Al5O12/Bond.yml"
     - BOOK: Yb2O3
       name: "Yb<sub>2</sub>O<sub>3</sub> (Ytterbium sesquioxide)"
       info: "main/Yb2O3.html"
