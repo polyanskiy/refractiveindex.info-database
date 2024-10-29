@@ -8,6 +8,7 @@
     main/Tb3Ga5O12/Franta.yml
     main/Tb3Ga5O12/Schlarb.yml
     main/TiO2/Franta.yml
+    main/Si/Franta-10K.yml
     main/Si/Franta-50K.yml
     main/Si/Franta-100K.yml
     main/Si/Franta-150K.yml
