@@ -1037,6 +1037,13 @@
         - PAGE: Li
           name: "Li 1976: n 0.15–30 µm"
           data: "main/CsF/Li.yml"
+    - BOOK: GdF3
+      name: "GdF<sub>3</sub> (Gadolinium fluoride)"
+      info: "main/GdF3.html"
+      content:
+        - PAGE: Franta
+          name: "Franta et al. 2023: n,k 0.120–143 µm"
+          data: "main/GdF3/Franta.yml"
     - BOOK: KF
       name: "KF (Potassium fluoride)"
       info: "main/KF.html"
@@ -2296,6 +2303,9 @@
         - PAGE: Arosa
           name: "Arosa and de la Fuente 2020: n 0.26–1.7 µm"
           data: "main/SiO2/Arosa.yml"
+        - PAGE: Franta
+          name: "Franta et al. 2016: n,k 0.0248–125 µm"
+          data: "main/SiO2/Franta.yml"
         - PAGE: Popova
           name: "Popova et al. 1972: n,k 7–50 µm"
           data: "main/SiO2/Popova.yml"
@@ -2322,6 +2332,12 @@
         - PAGE: Rodriguez-de_Marcos
           name: "Rodríguez-de Marcos et al. 2016: n,k 0.03–1.5 µm"
           data: "main/SiO2/Rodriguez-de Marcos.yml"
+        - PAGE: Franta-25C
+          name: "Franta et al. 2016: n,k 0.0275–125 µm; 25 °C"
+          data: "main/SiO2/Franta-25C.yml"
+        - PAGE: Franta-300C
+          name: "Franta et al. 2016: n,k 0.0275–125 µm; 300 °C"
+          data: "main/SiO2/Franta-300C.yml"
         - PAGE: Gao
           name: "Gao et al. 2013: n,k 0.252–1.25 µm"
           data: "main/SiO2/Gao.yml"
@@ -2401,6 +2417,9 @@
         - PAGE: Zhukovsky
           name: "Zhukovsky et al. 2015: Thin film; n 0.211–1.69 µm"
           data: "main/TiO2/Zhukovsky.yml"
+        - PAGE: Franta
+          name: "Franta et al. 2015: Thin film; n,k 0.114–125 µm"
+          data: "main/TiO2/Franta.yml"
         - DIVIDER: "Nanoparticles"
         - PAGE: Bodurov
           name: "Bodurov et al. 2016: Nanoparticles; n 0.405–0.635 µm"
@@ -3669,6 +3688,42 @@
         - PAGE: Aspnes
           name: "Aspnes and Studna 1983: n,k 0.21–0.83 µm"
           data: "main/Si/Aspnes.yml"
+        - PAGE: Franta-50K
+          name: "Franta et al. 2017: n,k 0.0310–310 µm; 50 K"
+          data: "main/Si/Franta-50K.yml"
+        - PAGE: Franta-100K
+          name: "Franta et al. 2017: n,k 0.0310–310 µm; 100 K"
+          data: "main/Si/Franta-100K.yml"
+        - PAGE: Franta-150K
+          name: "Franta et al. 2017: n,k 0.0310–310 µm; 150 K"
+          data: "main/Si/Franta-150K.yml"
+        - PAGE: Franta-200K
+          name: "Franta et al. 2017: n,k 0.0310–310 µm; 200 K"
+          data: "main/Si/Franta-200K.yml"
+        - PAGE: Franta-250K
+          name: "Franta et al. 2017: n,k 0.0310–310 µm; 250 K"
+          data: "main/Si/Franta-250K.yml"
+        - PAGE: Franta-20C
+          name: "Franta et al. 2017: n,k 0.0310–310 µm; 20 °C"
+          data: "main/Si/Franta-20C.yml"
+        - PAGE: Franta-25C
+          name: "Franta et al. 2017: n,k 0.0310–310 µm; 25 °C"
+          data: "main/Si/Franta-25C.yml"
+        - PAGE: Franta-300K
+          name: "Franta et al. 2017: n,k 0.0310–310 µm; 300 K"
+          data: "main/Si/Franta-300K.yml"
+        - PAGE: Franta-350K
+          name: "Franta et al. 2017: n,k 0.0310–310 µm; 350 K"
+          data: "main/Si/Franta-350K.yml"
+        - PAGE: Franta-400K
+          name: "Franta et al. 2017: n,k 0.0310–310 µm; 400 K"
+          data: "main/Si/Franta-400K.yml"
+        - PAGE: Franta-450K
+          name: "Franta et al. 2017: n,k 0.0310–310 µm; 450 K"
+          data: "main/Si/Franta-450K.yml"
+        - PAGE: Franta-500K
+          name: "Franta et al. 2017: n,k 0.0310–310 µm; 500 K"
+          data: "main/Si/Franta-500K.yml"
         - PAGE: Shkondin
           name: "Shkondin et al. 2017: n,k 2–20 µm"
           data: "main/Si/Shkondin.yml"
@@ -3784,6 +3839,9 @@
         - PAGE: Pierce
           name: "Pierce and Spicer 1972: α-Si; n,k 0.0103–2.07 µm"
           data: "main/Si/Pierce.yml"
+        - PAGE: Franta
+          name: "Franta et al. 2013: n,k 0.138–26.9 µm"
+          data: "main/Si/Franta.yml"
     - BOOK: Bi12SiO20
       name: "Bi<sub>12</sub>SiO<sub>20</sub> (Bismuth silicate, BSO)"
       info: "main/Bi12SiO20.html"
