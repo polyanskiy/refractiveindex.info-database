@@ -3690,7 +3690,7 @@
           data: "main/Si/Aspnes.yml"
         - PAGE: Franta-10K
           name: "Franta et al. 2017: n,k 0.0310–310 µm; 10 K"
-          data: "main/Si/Franta-10K.yml
+          data: "main/Si/Franta-10K.yml"
         - PAGE: Franta-50K
           name: "Franta et al. 2017: n,k 0.0310–310 µm; 50 K"
           data: "main/Si/Franta-50K.yml"
