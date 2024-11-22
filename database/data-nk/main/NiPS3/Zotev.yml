@@ -2,8 +2,10 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "P. G. Zotev, Y. Wang, D. Andres-Penares, T. Severs-Millard, S. Randerson, X. Hu, L. Sortino, C. Louca, M. Brotons-Gisbert, T. Huq, S. Vezzoli, R. Sapienza, T. F. Krauss, B. D. Gerardot, A. I. Tartakovskii. Van der Waals materials for applications in nanophotonics, <a href=\"https://doi.org/10.1002/lpor.202200957\"><i>Laser and Photonics Rev.</i> <b>17</b>, 2200957 (2023)</a> (Numerical data kindly provided by Panaiot Zotev)"
-COMMENTS: "Multilayer crystals. Isotropic. Room temperature."
+REFERENCES: |
+    P. G. Zotev, Y. Wang, D. Andres-Penares, T. Severs-Millard, S. Randerson, X. Hu, L. Sortino, C. Louca, M. Brotons-Gisbert, T. Huq, S. Vezzoli, R. Sapienza, T. F. Krauss, B. D. Gerardot, A. I. Tartakovskii. Van der Waals materials for applications in nanophotonics, <a href="https://doi.org/10.1002/lpor.202200957"><i>Laser and Photonics Rev.</i> <b>17</b>, 2200957 (2023)</a> (Numerical data kindly provided by Panaiot Zotev)
+COMMENTS: |
+    Multilayer crystals. Isotropic. Room temperature.
 DATA:
   - type: tabulated nk
     data: |

@@ -2,8 +2,10 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "M. R. Vogt. <i>Development of physical models for the simulation of optical properties of solar cell modules</i>, <a href=\"https://www.tib.eu/en/search/id/TIBKAT%3A852464657\">PhD. Thesis (2015)</a>"
-COMMENTS: "105 nm thick silicon-nitride (SiN) film on a polished Si wafer. n = 1.91 @ 633 nm. Room temperature."
+REFERENCES: |
+    M. R. Vogt. <i>Development of physical models for the simulation of optical properties of solar cell modules</i>, <a href="https://www.tib.eu/en/search/id/TIBKAT%3A852464657">PhD. Thesis (2015)</a>
+COMMENTS: |
+    105 nm thick silicon-nitride (SiN) film on a polished Si wafer. n = 1.91 @ 633 nm. Room temperature.
 DATA:
   - type: tabulated nk
     data: |

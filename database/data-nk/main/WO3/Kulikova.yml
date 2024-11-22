@@ -2,8 +2,10 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "D.P. Kulikova, A.A. Dobronosova, V.V. Kornienko, I.A. Nechepurenko, A.S. Baburin, E.V. Sergeev, E.S. Lotkov, I.A. Rodionov, A.V. Baryshev, A.V. Dorofeenko. Optical properties of tungsten trioxide, palladium, and platinum thin films for functional nanostructures engineering, <a href=\"https://doi.org/10.1364/OE.405403\"><i>Opt. Express</i> <b>28</b>, 32049-32060 (2020)</a> (Numerical data kindly provided by Alexander Dorofeenko)"
-COMMENTS: "81 nm-thick WO<sub>3</sub> film deposited directly on SiO<sub>2</sub> substrate"
+REFERENCES: |
+    D.P. Kulikova, A.A. Dobronosova, V.V. Kornienko, I.A. Nechepurenko, A.S. Baburin, E.V. Sergeev, E.S. Lotkov, I.A. Rodionov, A.V. Baryshev, A.V. Dorofeenko. Optical properties of tungsten trioxide, palladium, and platinum thin films for functional nanostructures engineering, <a href="https://doi.org/10.1364/OE.405403"><i>Opt. Express</i> <b>28</b>, 32049-32060 (2020)</a> (Numerical data kindly provided by Alexander Dorofeenko)
+COMMENTS: |
+    81 nm-thick WO<sub>3</sub> film deposited directly on SiO<sub>2</sub> substrate
 DATA:
   - type: tabulated nk
     data: |

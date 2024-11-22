@@ -2,7 +2,8 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "U. S. Whang, E. T. Arakawa, T. A. Callcott. Optical properties of Cs for photons of energy 3.6–9.6 eV, <a href=\"https://doi.org/10.1364/JOSA.61.000740\"><i>J. Opt. Soc. Am.</i> <b>61</b>, 740-745 (1971)</a>"
+REFERENCES: |
+    U. S. Whang, E. T. Arakawa, T. A. Callcott. Optical properties of Cs for photons of energy 3.6–9.6 eV, <a href="https://doi.org/10.1364/JOSA.61.000740"><i>J. Opt. Soc. Am.</i> <b>61</b>, 740-745 (1971)</a>
 DATA:
   - type: tabulated nk
     data: |

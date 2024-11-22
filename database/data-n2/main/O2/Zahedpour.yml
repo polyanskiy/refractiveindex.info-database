@@ -2,8 +2,10 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "S. Zahedpour, J. K. Wahlstrand, H. M. Milchberg. Measurement of the nonlinear refractive index of air constituents at mid-infrared wavelengths, <a href=\"https://doi.org/10.1364/OL.40.005794\"> <i>Opt. Lett.</i> <b>40</b>,  5794-5795 (2015)</a>"
-COMMENTS: "40 fs. Single-shot supercontinuum spectral interferometry. Room temperature, atmospheric pressure.<br>For long pulses, the effective nonlinearity coefficient can be calculated by adding the rotational contribution to the reported instantaneous n<sub>2</sub>: n<sub>2,eff</sub> = n<sub>2</sub> + n<sub>2,rot</sub>, where n<sub>2,rot</sub> = 54×10<sup>-24</sup> m<sup>2</sup>/W."
+REFERENCES: |
+    S. Zahedpour, J. K. Wahlstrand, H. M. Milchberg. Measurement of the nonlinear refractive index of air constituents at mid-infrared wavelengths, <a href="https://doi.org/10.1364/OL.40.005794"> <i>Opt. Lett.</i> <b>40</b>,  5794-5795 (2015)</a>
+COMMENTS: |
+    40 fs. Single-shot supercontinuum spectral interferometry. Room temperature, atmospheric pressure.<br>For long pulses, the effective nonlinearity coefficient can be calculated by adding the rotational contribution to the reported instantaneous n<sub>2</sub>: n<sub>2,eff</sub> = n<sub>2</sub> + n<sub>2,rot</sub>, where n<sub>2,rot</sub> = 54×10<sup>-24</sup> m<sup>2</sup>/W.
 DATA:
   - type: tabulated n2
     data: |

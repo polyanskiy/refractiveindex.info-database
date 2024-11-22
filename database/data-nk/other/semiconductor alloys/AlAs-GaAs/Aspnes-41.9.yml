@@ -2,8 +2,10 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "D. E. Aspnes, S. M. Kelso, R. A. Logan and R. Bhat. Optical properties of Al<sub>x</sub>Ga<sub>1-x</sub>As, <a href=\"https://doi.org/10.1063/1.337426\"><i>J. Appl. Phys.</i> <b>60</b>, 754-767 (1986)</a>"
-COMMENTS: "Al<sub>x</sub>Ga<sub>1-x</sub>As; x = 0.419"
+REFERENCES: |
+    D. E. Aspnes, S. M. Kelso, R. A. Logan and R. Bhat. Optical properties of Al<sub>x</sub>Ga<sub>1-x</sub>As, <a href="https://doi.org/10.1063/1.337426"><i>J. Appl. Phys.</i> <b>60</b>, 754-767 (1986)</a>
+COMMENTS: |
+    Al<sub>x</sub>Ga<sub>1-x</sub>As; x = 0.419
 DATA:
   - type: tabulated nk
     data: |

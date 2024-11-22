@@ -2,8 +2,10 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "D. V. Vlasov, R. A. Garaev, V. V. Korobkin, R. V. Serov. Measurement of nonlinear polarizability of air, <i>Zh. Eksp. Teor. Fi.</i> <b>76</b>, 2039–2045 (1997)"
-COMMENTS: "30 ns at 1.064 μm. Elliptical polarization rotation."
+REFERENCES: |
+    D. V. Vlasov, R. A. Garaev, V. V. Korobkin, R. V. Serov. Measurement of nonlinear polarizability of air, <i>Zh. Eksp. Teor. Fi.</i> <b>76</b>, 2039–2045 (1997)
+COMMENTS: |
+    30 ns at 1.064 μm. Elliptical polarization rotation.
 DATA:
   - type: tabulated n2
     data: |

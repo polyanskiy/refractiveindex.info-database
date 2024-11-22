@@ -2,8 +2,10 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "G. A. Ermolaev, D. V. Grudinin, Y. V. Stebunov, K. V. Voronin, V. G. Kravets, J. Duan, A. B. Mazitov, G. I. Tselikov, A. Bylinkin, D. I. Yakubovsky, S. M. Novikov, D. G. Baranov, A. Y. Nikitin, I. A. Kruglov, T. Shegai, P. Alonso-González, A. N. Grigorenko, A. V. Arsenin, K. S. Novoselov, V. S. Volkov. Giant optical anisotropy in transition metal dichalcogenides for next-generation photonics, <a href=\"https://doi.org/10.1038/s41467-021-21139-x\"><i>Nat. Commun.</i>, <b>12</b>, 854 (2021)</a> (Numerical data kindly provided by Georgy Ermolaev)"
-COMMENTS: "Extraordinary ray (e).<br>MoS<sub>2</sub> bulk crystallographic c-axis optical constants."
+REFERENCES: |
+    G. A. Ermolaev, D. V. Grudinin, Y. V. Stebunov, K. V. Voronin, V. G. Kravets, J. Duan, A. B. Mazitov, G. I. Tselikov, A. Bylinkin, D. I. Yakubovsky, S. M. Novikov, D. G. Baranov, A. Y. Nikitin, I. A. Kruglov, T. Shegai, P. Alonso-González, A. N. Grigorenko, A. V. Arsenin, K. S. Novoselov, V. S. Volkov. Giant optical anisotropy in transition metal dichalcogenides for next-generation photonics, <a href="https://doi.org/10.1038/s41467-021-21139-x"><i>Nat. Commun.</i>, <b>12</b>, 854 (2021)</a> (Numerical data kindly provided by Georgy Ermolaev)
+COMMENTS: |
+    Extraordinary ray (e).<br>MoS<sub>2</sub> bulk crystallographic c-axis optical constants.
 DATA:
   - type: tabulated n
     data: |

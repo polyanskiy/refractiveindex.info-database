@@ -2,8 +2,10 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "G. A. Ermolaev, D. I. Yakubovsky, M. A. El-Sayed, M. K. Tatmyshevskiy, A. B. Mazitov, A. A. Popkova, I. M. Antropov, V. O. Bessonov,  A. S. Slavich, G. I. Tselikov, I. A. Kruglov, S. M. Novikov, A. A. Vyshnevyy, A. A. Fedyanin, A. V. Arsenin, V. S. Volkov. Broadband optical constants and nonlinear properties of SnS<sub>2</sub> and SnSe<sub>2</sub>, <a href=\"https://doi.org/10.3390/nano12010141\"><i>Nanomaterials</i> <b>12</b>, 141 (2022)</a> (Numerical data kindly provided by Georgy Ermolaev)"
-COMMENTS: "6.5 nm CVD SnSe<sub>2</sub>."
+REFERENCES: |
+    G. A. Ermolaev, D. I. Yakubovsky, M. A. El-Sayed, M. K. Tatmyshevskiy, A. B. Mazitov, A. A. Popkova, I. M. Antropov, V. O. Bessonov,  A. S. Slavich, G. I. Tselikov, I. A. Kruglov, S. M. Novikov, A. A. Vyshnevyy, A. A. Fedyanin, A. V. Arsenin, V. S. Volkov. Broadband optical constants and nonlinear properties of SnS<sub>2</sub> and SnSe<sub>2</sub>, <a href="https://doi.org/10.3390/nano12010141"><i>Nanomaterials</i> <b>12</b>, 141 (2022)</a> (Numerical data kindly provided by Georgy Ermolaev)
+COMMENTS: |
+    6.5 nm CVD SnSe<sub>2</sub>.
 DATA:
   - type: tabulated nk
     data: |

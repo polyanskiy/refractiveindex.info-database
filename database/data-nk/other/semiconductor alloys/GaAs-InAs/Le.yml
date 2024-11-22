@@ -2,8 +2,10 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "T. N. Le, J-L. Pelouard, F. Charra, S. Vassant. Determination of the far-infrared dielectric function of a thin InGaAs layer using a detuned Salisbury screen. <a href=\"https://doi.org/10.1364/OME.455445\"><i>Optical Material Express</i> <b>12</b>, 2711–2723 (2022)</a><br>[<a href=\"https://github.com/polyanskiy/refractiveindex.info-scripts/blob/master/scripts/Le%202022%20-%20InGaAs.py\">Calculation script (Python)</a>]"
-COMMENTS: "In<sub>1-x</sub>Ga<sub>x</sub>As; x=0.47. Thin film: 310 nm. Room temperature."
+REFERENCES: |
+    T. N. Le, J-L. Pelouard, F. Charra, S. Vassant. Determination of the far-infrared dielectric function of a thin InGaAs layer using a detuned Salisbury screen. <a href="https://doi.org/10.1364/OME.455445"><i>Optical Material Express</i> <b>12</b>, 2711–2723 (2022)</a><br>[<a href="https://github.com/polyanskiy/refractiveindex.info-scripts/blob/master/scripts/Le%202022%20-%20InGaAs.py">Calculation script (Python)</a>]
+COMMENTS: |
+    In<sub>1-x</sub>Ga<sub>x</sub>As; x=0.47. Thin film: 310 nm. Room temperature.
 DATA:
   - type: tabulated nk
     data: |

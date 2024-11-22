@@ -2,8 +2,10 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "T. L. Myers, R. G. Tonkyn, T. O. Danby, M. S. Taubman, B. E. Bernacki, J. C. Birnbaum, S. W. Sharpe, T. J. Johnson. Accurate measurement of the optical constants n and k for a series of 57 inorganic and organic liquids for optical modeling and detection, <a href=\"https://doi.org/10.1177/0003702817742848\"><i>Appl. Spectrosc.</i> <b>72</b>, 535-550 (2018)</a> (see Supplemental Material for numerical data)"
-COMMENTS: "26 °C"
+REFERENCES: |
+    T. L. Myers, R. G. Tonkyn, T. O. Danby, M. S. Taubman, B. E. Bernacki, J. C. Birnbaum, S. W. Sharpe, T. J. Johnson. Accurate measurement of the optical constants n and k for a series of 57 inorganic and organic liquids for optical modeling and detection, <a href="https://doi.org/10.1177/0003702817742848"><i>Appl. Spectrosc.</i> <b>72</b>, 535-550 (2018)</a> (see Supplemental Material for numerical data)
+COMMENTS: |
+    26 °C
 DATA:
   - type: tabulated nk
     data: |

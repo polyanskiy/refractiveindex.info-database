@@ -2,8 +2,10 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "G.E. Jellison Jr. Optical functions of GaAs, GaP, and Ge determined by two-channel polarization modulation ellipsometry, <a href=\"https://doi.org/10.1016/0925-3467(92)90022-F\"><i>Opt. Mat.</i> <b>1</b>, 151-160 (1992)</a>"
-COMMENTS: "Crysal orientation: <100>; Room temperature"
+REFERENCES: |
+    G.E. Jellison Jr. Optical functions of GaAs, GaP, and Ge determined by two-channel polarization modulation ellipsometry, <a href="https://doi.org/10.1016/0925-3467(92)90022-F"><i>Opt. Mat.</i> <b>1</b>, 151-160 (1992)</a>
+COMMENTS: |
+    Crysal orientation: <100>; Room temperature
 DATA:
   - type: tabulated nk
     data: |

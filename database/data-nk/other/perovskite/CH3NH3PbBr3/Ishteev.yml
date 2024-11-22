@@ -2,8 +2,10 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "A. Ishteev, K. Konstantinova, G. Ermolaev, D. Kiselev, D. Muratov, M. Voronova, T. Ilina, P. Lagov, O. Uvarov, Y. Pavlov, M. Letovaltseva, A. Arsenin, V. Volkov, S. Didenko, D. Saranin, A. Di Carlo. Investigation of structural and optical properties of MAPbBr<sub>3</sub> monocrystals under fast electron irradiation, <a href=\"https://doi.org/10.1039/D2TC00128D\"><i>J. Mater. Chem. C</i> <b>10</b>, 5821–5828 (2022)</a> (Numerical data kindly provided by Georgy Ermolaev)"
-COMMENTS: "Single crystal MAPbBr<sub>3</sub>."
+REFERENCES: |
+    A. Ishteev, K. Konstantinova, G. Ermolaev, D. Kiselev, D. Muratov, M. Voronova, T. Ilina, P. Lagov, O. Uvarov, Y. Pavlov, M. Letovaltseva, A. Arsenin, V. Volkov, S. Didenko, D. Saranin, A. Di Carlo. Investigation of structural and optical properties of MAPbBr<sub>3</sub> monocrystals under fast electron irradiation, <a href="https://doi.org/10.1039/D2TC00128D"><i>J. Mater. Chem. C</i> <b>10</b>, 5821–5828 (2022)</a> (Numerical data kindly provided by Georgy Ermolaev)
+COMMENTS: |
+    Single crystal MAPbBr<sub>3</sub>.
 DATA:
   - type: tabulated nk
     data: |

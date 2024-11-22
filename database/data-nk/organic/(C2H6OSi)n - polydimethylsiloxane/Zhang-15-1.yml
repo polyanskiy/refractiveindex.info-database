@@ -2,8 +2,10 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "1) X. Zhang, J. Qiu, X. Li, J. Zhao, L. Liu. Complex refractive indices measurements of polymers in visible and near-infrared bands, <a href=\"https://doi.org/10.1364/AO.383831\"><i>Appl. Opt.</i> <b>59</b>, 2337-2344 (2020)</a> (0.4-2 µm)<br>2) X. Zhang, J. Qiu, J. Zhao, X. Li, L. Liu. Complex refractive indices measurements of polymers in infrared bands, <a href=\"https://doi.org/10.1016/j.jqsrt.2020.107063\"><i>J. Quant. Spectrosc. Radiat. Transf.</i> <b>252</b>, 107063 (2020)</a> (2-20 µm)"
-COMMENTS: "Normal temperature and pressure. Mass (main agent) : Mass (curing agent) = 15:1. Manufacturer: Dow Corning, USA."
+REFERENCES: |
+    1) X. Zhang, J. Qiu, X. Li, J. Zhao, L. Liu. Complex refractive indices measurements of polymers in visible and near-infrared bands, <a href="https://doi.org/10.1364/AO.383831"><i>Appl. Opt.</i> <b>59</b>, 2337-2344 (2020)</a> (0.4-2 µm)<br>2) X. Zhang, J. Qiu, J. Zhao, X. Li, L. Liu. Complex refractive indices measurements of polymers in infrared bands, <a href="https://doi.org/10.1016/j.jqsrt.2020.107063"><i>J. Quant. Spectrosc. Radiat. Transf.</i> <b>252</b>, 107063 (2020)</a> (2-20 µm)
+COMMENTS: |
+    Normal temperature and pressure. Mass (main agent) : Mass (curing agent) = 15:1. Manufacturer: Dow Corning, USA.
 DATA:
   - type: tabulated nk
     data: |

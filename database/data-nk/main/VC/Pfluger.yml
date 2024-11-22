@@ -2,8 +2,10 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "1) J. Pflüger, J. Fink. Determination of optical constants by high-energy, electron-energy-loss spectroscopy (EELS), in <i>Handbook of optical constants of solids II</i>, Edward D. Palik, ed. Academic Press, 1991. pp. 293-310<br>2) J. Pflüger, J. Fink, W. Weber, K. P. Bohnen,  G. Crecelius. Dielectric properties of TiC<sub>x</sub>, TiN<sub>x</sub>, VC<sub>x</sub>, and VN<sub>x</sub> from 1.5 to 40 eV determined by electron-energy-loss spectroscopy, <a href=\"https://doi.org/10.1103/PhysRevB.30.1155\"><i>Phys. Rev. B</i> <b>30</b>, 1155-1163 (1984)</a><br>"
-COMMENTS: "VC<sub>0.88</sub>. Room temperature."
+REFERENCES: |
+    1) J. Pflüger, J. Fink. Determination of optical constants by high-energy, electron-energy-loss spectroscopy (EELS), in <i>Handbook of optical constants of solids II</i>, Edward D. Palik, ed. Academic Press, 1991. pp. 293-310<br>2) J. Pflüger, J. Fink, W. Weber, K. P. Bohnen,  G. Crecelius. Dielectric properties of TiC<sub>x</sub>, TiN<sub>x</sub>, VC<sub>x</sub>, and VN<sub>x</sub> from 1.5 to 40 eV determined by electron-energy-loss spectroscopy, <a href="https://doi.org/10.1103/PhysRevB.30.1155"><i>Phys. Rev. B</i> <b>30</b>, 1155-1163 (1984)</a><br>
+COMMENTS: |
+    VC<sub>0.88</sub>. Room temperature.
 DATA:
   - type: tabulated nk
     data: |

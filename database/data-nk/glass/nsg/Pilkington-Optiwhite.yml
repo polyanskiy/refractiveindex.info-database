@@ -2,8 +2,10 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "R. E. Treharne. RF magnetron sputtering of transparent conducting oxides and CdTe/CdS solar cells, <a href=\"http://etheses.dur.ac.uk/3310\"><i>PhD Thesis, University of Durham</i> (2011)</a> (Numerical data kindly provided by Dr. Robert Treharne)"
-COMMENTS: "Variable-angle ellipsometer was used to take amplitude and phase change measurements. The refractive index and extinction coefficient was extracted for NSG Opti-White (low-Fe) glass from a multi-oscillator model fit to the ellipsometry data, as a function of wavelength, from 300 to 1500 nm"
+REFERENCES: |
+    R. E. Treharne. RF magnetron sputtering of transparent conducting oxides and CdTe/CdS solar cells, <a href="http://etheses.dur.ac.uk/3310"><i>PhD Thesis, University of Durham</i> (2011)</a> (Numerical data kindly provided by Dr. Robert Treharne)
+COMMENTS: |
+    Variable-angle ellipsometer was used to take amplitude and phase change measurements. The refractive index and extinction coefficient was extracted for NSG Opti-White (low-Fe) glass from a multi-oscillator model fit to the ellipsometry data, as a function of wavelength, from 300 to 1500 nm
 DATA:
   - type: tabulated nk
     data: |

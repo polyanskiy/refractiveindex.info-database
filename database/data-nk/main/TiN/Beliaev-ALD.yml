@@ -2,8 +2,10 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "L. Yu. Beliaev, E. Shkondin, A. V. Lavrinenko, and O. Takayama. Titanium nitride nanotrench metasurfaces for mid-infrared chemical sensing, <a href=\"https://doi.org/10.1021/acsaom.3c00355\"><i>ACS Appl. Opt. Mater.</i> <b>2</b>, 88-96 (2023)</a> (Numerical data kindly provided by Osamu Takayama)"
-COMMENTS: "100 nm thick TiN film deposited by atomic layer deposition at 500 °C with post-annealing at 900 °C."
+REFERENCES: |
+    L. Yu. Beliaev, E. Shkondin, A. V. Lavrinenko, and O. Takayama. Titanium nitride nanotrench metasurfaces for mid-infrared chemical sensing, <a href="https://doi.org/10.1021/acsaom.3c00355"><i>ACS Appl. Opt. Mater.</i> <b>2</b>, 88-96 (2023)</a> (Numerical data kindly provided by Osamu Takayama)
+COMMENTS: |
+    100 nm thick TiN film deposited by atomic layer deposition at 500 °C with post-annealing at 900 °C.
 DATA:
   - type: tabulated nk
     data: |

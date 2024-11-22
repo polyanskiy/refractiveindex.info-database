@@ -2,8 +2,10 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "<a href=\"http://refractiveindex.info/download/data/2017/ohara_2017-11-30.agf\">OHARA Zemax catalog 2017-11-30</a> (obtained from <a href=\"http://www.ohara-inc.co.jp/en/product/optical/list/\">http://www.ohara-inc.co.jp</a>)<br>See also <a href=\"http://refractiveindex.info/download/data/2017/ohara_2017-11-30.pdf\">OHARA glass data sheets</a>"
-COMMENTS: "Recommended -The unique relative partial dispersion."
+REFERENCES: |
+    <a href="http://refractiveindex.info/download/data/2017/ohara_2017-11-30.agf">OHARA Zemax catalog 2017-11-30</a> (obtained from <a href="http://www.ohara-inc.co.jp/en/product/optical/list/">http://www.ohara-inc.co.jp</a>)<br>See also <a href="http://refractiveindex.info/download/data/2017/ohara_2017-11-30.pdf">OHARA glass data sheets</a>
+COMMENTS: |
+    Recommended -The unique relative partial dispersion.
 DATA:
   - type: formula 2
     wavelength_range: 0.365 2.325
@@ -47,7 +49,7 @@ SPECS:
     wavelength_is_vacuum: false
     temperature: 25.0 °C
     thermal_dispersion:
-      - type: "Schott formula"
+      - type: Schott formula
         coefficients: -2.1e-05 -7.63e-09 1.24e-11 2.82e-07 1.8e-10 0.224
     nd: 1.438750
     Vd: 94.661059

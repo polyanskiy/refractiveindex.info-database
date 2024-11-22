@@ -2,8 +2,10 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "G. Rosenblatt, B. Simkhovich, G. Bartal, M. Orenstein. Nonmodal plasmonics: Controlling the forced optical response of nanostructures, <a href=\"https://doi.org/10.1103/PhysRevX.10.011071\"><i>Phys. Rev. X</i> <b>10</b>, 011071 (2020)</a> (See supplemental materials)"
-COMMENTS: "21 nm Au film. Measured using a J.A Woollam VASE ellipsometer at room temperature."
+REFERENCES: |
+    G. Rosenblatt, B. Simkhovich, G. Bartal, M. Orenstein. Nonmodal plasmonics: Controlling the forced optical response of nanostructures, <a href="https://doi.org/10.1103/PhysRevX.10.011071"><i>Phys. Rev. X</i> <b>10</b>, 011071 (2020)</a> (See supplemental materials)
+COMMENTS: |
+    21 nm Au film. Measured using a J.A Woollam VASE ellipsometer at room temperature.
 DATA:
   - type: tabulated nk
     data: |

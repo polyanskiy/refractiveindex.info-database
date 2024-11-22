@@ -2,8 +2,10 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "A. Kumar, R. C. Rai, N. J. Podraza, S. Denev, M. Ramirez, Y.-H. Chu, L. W. Martin, J. Ihlefeld, T. Heeg, J. Schubert, D. G. Schlom, J. Orenstein, R. Ramesh, R. W. Collins, J. L. Musfeldt and V. Gopalan. Linear and nonlinear optical properties of BiFeO<sub>3</sub>, <a href=\"https://doi.org/10.1063/1.2901168\"><i> Appl. Phys. Lett. </i> <b>92</b>, 121915 (2008)</a> (Numerical data kindly provided by Ryan Haislmaier and Venkatraman Gopalan)"
-COMMENTS: "25 nm BiFeO<sub>3</sub> film grown on (100)SrTiO<sub>3</sub> substrate."
+REFERENCES: |
+    A. Kumar, R. C. Rai, N. J. Podraza, S. Denev, M. Ramirez, Y.-H. Chu, L. W. Martin, J. Ihlefeld, T. Heeg, J. Schubert, D. G. Schlom, J. Orenstein, R. Ramesh, R. W. Collins, J. L. Musfeldt and V. Gopalan. Linear and nonlinear optical properties of BiFeO<sub>3</sub>, <a href="https://doi.org/10.1063/1.2901168"><i> Appl. Phys. Lett. </i> <b>92</b>, 121915 (2008)</a> (Numerical data kindly provided by Ryan Haislmaier and Venkatraman Gopalan)
+COMMENTS: |
+    25 nm BiFeO<sub>3</sub> film grown on (100)SrTiO<sub>3</sub> substrate.
 DATA:
   - type: tabulated nk
     data: |

@@ -2,7 +2,8 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "<a href=\"https://refractiveindex.info/download/data/2022/CDGM-ZEMAX202206new.AGF\">CDGM Zemax catalog 2022-06</a> (obtained from <a href=\"http://www.cdgmgd.com/go.htm?k=Download&url=downList\">http://www.cdgmgd.com</a>)<br>See also <a href=\"https://refractiveindex.info/download/data/2022/CDGM202206.pdf\">CDGM optical glass data sheets</a>"
+REFERENCES: |
+    <a href="https://refractiveindex.info/download/data/2022/CDGM-ZEMAX202206new.AGF">CDGM Zemax catalog 2022-06</a> (obtained from <a href="http://www.cdgmgd.com/go.htm?k=Download&url=downList">http://www.cdgmgd.com</a>)<br>See also <a href="https://refractiveindex.info/download/data/2022/CDGM202206.pdf">CDGM optical glass data sheets</a>
 DATA:
   - type: formula 2
     wavelength_range: 0.302 2.325
@@ -45,7 +46,7 @@ SPECS:
     wavelength_is_vacuum: false
     temperature: 20.0 °C
     thermal_dispersion:
-      - type: "Schott formula"
+      - type: Schott formula
         coefficients: -1.18e-06 1.18e-08 -7.33e-11 5.47e-07 1.51e-09 0.174
     nd: 1.522490
     Vd: 59.480754

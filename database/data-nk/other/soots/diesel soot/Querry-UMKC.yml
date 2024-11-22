@@ -2,8 +2,10 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "M. R. Querry. Optical constants of minerals and other materials from the millimeter to the ultraviolet, <a href=\"https://apps.dtic.mil/sti/citations/ADA192210\"><i>Contractor Report</i> CRDEC-CR-88009 (1987)</a>"
-COMMENTS: "Diesel soot sample obtained at University of Missouri - Kansas City by open burning of diesel fuel."
+REFERENCES: |
+    M. R. Querry. Optical constants of minerals and other materials from the millimeter to the ultraviolet, <a href="https://apps.dtic.mil/sti/citations/ADA192210"><i>Contractor Report</i> CRDEC-CR-88009 (1987)</a>
+COMMENTS: |
+    Diesel soot sample obtained at University of Missouri - Kansas City by open burning of diesel fuel.
 DATA:
   - type: tabulated nk
     data: |

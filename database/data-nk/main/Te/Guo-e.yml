@@ -2,8 +2,10 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "Z. Guo, H. Gu, M. Fang, L. Yed, S. Liu, Giant in-plane optical and electronic anisotropy of tellurene: a quantitative exploration, <a href=\"https://doi.org/10.1039/D2NR03226K\"><i>Nanoscale</i>, <b>14</b>, 12238–12246 (2022)</a> (Numerical data kindly provided by Zhengfeng Guo)"
-COMMENTS: "Tellurene. Extraordinary ray (e)."
+REFERENCES: |
+    Z. Guo, H. Gu, M. Fang, L. Yed, S. Liu, Giant in-plane optical and electronic anisotropy of tellurene: a quantitative exploration, <a href="https://doi.org/10.1039/D2NR03226K"><i>Nanoscale</i>, <b>14</b>, 12238–12246 (2022)</a> (Numerical data kindly provided by Zhengfeng Guo)
+COMMENTS: |
+    Tellurene. Extraordinary ray (e).
 DATA:
   - type: tabulated nk
     data: |

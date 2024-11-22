@@ -2,8 +2,10 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "Q. Zheng, X. Wang, D. Thompson. Temperature-dependent optical properties of monocrystalline CaF<sub>2</sub>, BaF<sub>2</sub>, and MgF<sub>2</sub>, <a href=\"https://doi.org/10.1364/OME.496246\"><i>Opt. Mater. Express</i> <b>13</b>, 2380–2391 (2023)</a> (See Supplementary materials)"
-COMMENTS: "Ordinary ray (o). 186.4 °C. The supplementary materials of the original publication contain coefficients of the Sellmeier formula for multiple temperatures in the range of 21 °C to 368 °C."
+REFERENCES: |
+    Q. Zheng, X. Wang, D. Thompson. Temperature-dependent optical properties of monocrystalline CaF<sub>2</sub>, BaF<sub>2</sub>, and MgF<sub>2</sub>, <a href="https://doi.org/10.1364/OME.496246"><i>Opt. Mater. Express</i> <b>13</b>, 2380–2391 (2023)</a> (See Supplementary materials)
+COMMENTS: |
+    Ordinary ray (o). 186.4 °C. The supplementary materials of the original publication contain coefficients of the Sellmeier formula for multiple temperatures in the range of 21 °C to 368 °C.
 DATA:
   - type: formula 1
     wavelength_range: 0.22 1.7

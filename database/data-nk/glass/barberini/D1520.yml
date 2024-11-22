@@ -2,8 +2,10 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "<a href=\"https://refractiveindex.info/download/data/2010/barberini/d15200-driver-grey-e.pdf\">Barberini D1520 glass specifications, 2010-06</a>"
-COMMENTS: "20 °C<br>Sun Protection Glass; Colour: grey; Application: medium tinted sunglare filter with high UV-absorption filter category 2 acc. to DIN EN 1836 (for τ<sub>v</sub> < 18% filter category 3)"
+REFERENCES: |
+    <a href="https://refractiveindex.info/download/data/2010/barberini/d15200-driver-grey-e.pdf">Barberini D1520 glass specifications, 2010-06</a>
+COMMENTS: |
+    20 °C<br>Sun Protection Glass; Colour: grey; Application: medium tinted sunglare filter with high UV-absorption filter category 2 acc. to DIN EN 1836 (for τ<sub>v</sub> < 18% filter category 3)
 DATA:
   - type: tabulated n
     data: |

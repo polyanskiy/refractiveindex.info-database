@@ -2,7 +2,8 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "A. D. Rakić and M. L. Majewski. Modeling the optical dielectric function of GaAs and AlAs: Extension of Adachi’s model, <a href=\"https://doi.org/10.1063/1.363586\"><i>J. Appl. Phys.</i> <b>80</b>, 5909-5914 (1996)</a><br>[<a href=\"https://github.com/polyanskiy/refractiveindex.info-scripts/blob/master/scripts/Rakic%201996%20-%20AlAs.py\">Calculation script (Python)</a>]"
+REFERENCES: |
+    A. D. Rakić and M. L. Majewski. Modeling the optical dielectric function of GaAs and AlAs: Extension of Adachi’s model, <a href="https://doi.org/10.1063/1.363586"><i>J. Appl. Phys.</i> <b>80</b>, 5909-5914 (1996)</a><br>[<a href="https://github.com/polyanskiy/refractiveindex.info-scripts/blob/master/scripts/Rakic%201996%20-%20AlAs.py">Calculation script (Python)</a>]
 DATA:
   - type: tabulated nk
     data: |

@@ -2,8 +2,10 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "N. Herguedas and E. Carretero. Optical properties in mid-infrared range of silicon oxide thin films with different stoichiometries, <a href=\"https://doi.org/10.3390/nano13202749\"><i>Nanomaterials</i> <b>13</b>, 2749 (2023)</a>"
-COMMENTS: "SiO<sub>1.71</sub>. Sputtered Si with 40 sccm O<sub>2</sub> and 160 sccm Ar, which is equivalent to a oxygen partial pressure of 3.2 &times; 10<sup>-4</sup> mbar and a total pressure of 1.7 &times; 10<sup>-3</sup> mbar. Room temperature."
+REFERENCES: |
+    N. Herguedas and E. Carretero. Optical properties in mid-infrared range of silicon oxide thin films with different stoichiometries, <a href="https://doi.org/10.3390/nano13202749"><i>Nanomaterials</i> <b>13</b>, 2749 (2023)</a>
+COMMENTS: |
+    SiO<sub>1.71</sub>. Sputtered Si with 40 sccm O<sub>2</sub> and 160 sccm Ar, which is equivalent to a oxygen partial pressure of 3.2 &times; 10<sup>-4</sup> mbar and a total pressure of 1.7 &times; 10<sup>-3</sup> mbar. Room temperature.
 DATA:
   - type: tabulated nk
     data: |

@@ -2,8 +2,10 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "A. Minenkov, S. Hollweger, J. Duchoslav, O. Erdene-Ochir, M. Weise, E. Ermilova, A. Hertwig, M. Schiek. Monitoring the electrochemical failure of indium tin oxide electrodes via operando ellipsometry, <a href=\"https://doi.org/10.1021/acsami.3c17923\"><i>ACS Appl Mater Interfaces</i> <b>16</b>, 9517-9531 (2024)</a> (Numerical data kindly provided by Manuela Schiek)"
-COMMENTS: "110 nm thick ITO layer on glass type XY15S purchased from Xinyan Technology LTD."
+REFERENCES: |
+    A. Minenkov, S. Hollweger, J. Duchoslav, O. Erdene-Ochir, M. Weise, E. Ermilova, A. Hertwig, M. Schiek. Monitoring the electrochemical failure of indium tin oxide electrodes via operando ellipsometry, <a href="https://doi.org/10.1021/acsami.3c17923"><i>ACS Appl Mater Interfaces</i> <b>16</b>, 9517-9531 (2024)</a> (Numerical data kindly provided by Manuela Schiek)
+COMMENTS: |
+    110 nm thick ITO layer on glass type XY15S purchased from Xinyan Technology LTD.
 DATA:
   - type: tabulated nk
     data: |

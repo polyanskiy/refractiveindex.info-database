@@ -2,7 +2,8 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "U. S. Whang, E. T. Arakawa, T. A. Callcott. Optical properties of Rb between 3.3 and 10.5 eV, <a href=\"https://doi.org/10.1103/PhysRevB.5.2118\"><i>Phys. Rev. B</i> <b>5</b>, 2118-2124 (1972)</a>"
+REFERENCES: |
+    U. S. Whang, E. T. Arakawa, T. A. Callcott. Optical properties of Rb between 3.3 and 10.5 eV, <a href="https://doi.org/10.1103/PhysRevB.5.2118"><i>Phys. Rev. B</i> <b>5</b>, 2118-2124 (1972)</a>
 DATA:
   - type: tabulated nk
     data: |

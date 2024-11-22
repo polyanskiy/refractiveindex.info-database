@@ -2,8 +2,10 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "D. Matteo, S. Tochitsky, J. Pigeon, C. Joshi. Pulse length effects in the nonresonant long-wave infrared nonlinear optical response of n-Ge, GaAs, and ZnSe, <a href=\"https://doi.org/10.1364/JOSAB.534031\"><i>J. Opt. Soc. Am. B</i> <b>41</b>, E35 (2024)</a>"
-COMMENTS: "200 ps. Four-wave mixing."
+REFERENCES: |
+    D. Matteo, S. Tochitsky, J. Pigeon, C. Joshi. Pulse length effects in the nonresonant long-wave infrared nonlinear optical response of n-Ge, GaAs, and ZnSe, <a href="https://doi.org/10.1364/JOSAB.534031"><i>J. Opt. Soc. Am. B</i> <b>41</b>, E35 (2024)</a>
+COMMENTS: |
+    200 ps. Four-wave mixing.
 DATA:
   - type: tabulated n2
     data: |

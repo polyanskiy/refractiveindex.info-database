@@ -2,8 +2,10 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "T. R. Ensley and N. K. Bambha. Ultrafast nonlinear refraction measurements of infrared transmitting materials in the mid-wave infrared, <a  href=\"https://doi.org/10.1364/OE.380702\"><i>Opt. Express</i> <b>27</b>, 37940 (2019)</a>"
-COMMENTS: "Fused silica. 100 fs. Z-scan."
+REFERENCES: |
+    T. R. Ensley and N. K. Bambha. Ultrafast nonlinear refraction measurements of infrared transmitting materials in the mid-wave infrared, <a  href="https://doi.org/10.1364/OE.380702"><i>Opt. Express</i> <b>27</b>, 37940 (2019)</a>
+COMMENTS: |
+    Fused silica. 100 fs. Z-scan.
 DATA:
   - type: tabulated n2
     data: |

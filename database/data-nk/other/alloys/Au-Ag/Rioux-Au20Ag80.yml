@@ -2,8 +2,10 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "D. Rioux, S. Vallières, S. Besner, P. Muñoz, E. Mazur and M. Meunier. An analytic model for the dielectric function of Au, Ag, and their alloys, <a href=\"https://doi.org/10.1002/adom.201300457\"><i>Adv. Opt. Mater.</i> <b>2</b>, 176-182 (2014)</a> (See Supporting information for MATLAB model)"
-COMMENTS: "20% Au, 80% Ag. Model fitted on ellipsometric measurements on five different AuAg alloy thin film compositions; Thin film compositions: Au, Au:Ag 2:1, Au:Ag 1:1, Au:Ag 1:2, Ag; Film thickness: 80 nm"
+REFERENCES: |
+    D. Rioux, S. Vallières, S. Besner, P. Muñoz, E. Mazur and M. Meunier. An analytic model for the dielectric function of Au, Ag, and their alloys, <a href="https://doi.org/10.1002/adom.201300457"><i>Adv. Opt. Mater.</i> <b>2</b>, 176-182 (2014)</a> (See Supporting information for MATLAB model)
+COMMENTS: |
+    20% Au, 80% Ag. Model fitted on ellipsometric measurements on five different AuAg alloy thin film compositions; Thin film compositions: Au, Au:Ag 2:1, Au:Ag 1:1, Au:Ag 1:2, Ag; Film thickness: 80 nm
 DATA:
   - type: tabulated nk
     data: |

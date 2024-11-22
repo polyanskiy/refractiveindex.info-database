@@ -2,8 +2,10 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "<a href=\"https://refractiveindex.info/download/data/2010/barberini/d41500-ace-improved-e.pdf\">Barberini D4150 glass specifications, 2010-11</a>"
-COMMENTS: "20 °C<br>Sun Protection Glass; Colour: blue; Application: light tinted sunglare filter with contrast intensification and UV-absorption filter category 1 acc. to DIN EN 1836"
+REFERENCES: |
+    <a href="https://refractiveindex.info/download/data/2010/barberini/d41500-ace-improved-e.pdf">Barberini D4150 glass specifications, 2010-11</a>
+COMMENTS: |
+    20 °C<br>Sun Protection Glass; Colour: blue; Application: light tinted sunglare filter with contrast intensification and UV-absorption filter category 1 acc. to DIN EN 1836
 DATA:
   - type: tabulated n
     data: |

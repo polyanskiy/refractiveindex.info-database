@@ -3,8 +3,9 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: "1) C. Schinke, P. C. Peest, J. Schmidt, R. Brendel,  K. Bothe, M. R. Vogt, I. Kröger, S. Winter, A. Schirmacher, S. Lim, H. T. Nguyen, D. MacDonald. Uncertainty analysis for the coefficient of band-to-band absorption of crystalline silicon.
-<a href=\"https://doi.org/10.1063%2F1.4923379\"><i>AIP Advances</i> <b>5</b>, 67168 (2015)</a><br>2) M. R. Vogt. <i>Development of physical models for the simulation of optical properties of solar cell modules</i>, <a href=\"https://www.tib.eu/en/search/id/TIBKAT%3A852464657\">PhD. Thesis (2015)</a>"
-COMMENTS: "Relative uncertainties of the absorption coefficient: 0.4% at 0.250 µm, 11% at 0.6 µm, 1.4% at 1 µm, 12% at 1.2 µm and 180% at 1.45 µm. Temperature: 295 K."
+<a href="https://doi.org/10.1063%2F1.4923379"><i>AIP Advances</i> <b>5</b>, 67168 (2015)</a><br>2) M. R. Vogt. <i>Development of physical models for the simulation of optical properties of solar cell modules</i>, <a href="https://www.tib.eu/en/search/id/TIBKAT%3A852464657">PhD. Thesis (2015)</a>"
+COMMENTS: |
+    Relative uncertainties of the absorption coefficient: 0.4% at 0.250 µm, 11% at 0.6 µm, 1.4% at 1 µm, 12% at 1.2 µm and 180% at 1.45 µm. Temperature: 295 K.
 DATA:
   - type: tabulated nk
     data: |

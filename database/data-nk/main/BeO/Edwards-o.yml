@@ -2,8 +2,10 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "D. F. Edwards and R. H. White, \"Beryllium Oxide,\" in E. D. Palik (ed.), Handbook of Optical Constants of Solids II, Academic Press, Orlando, 1991, pp. 805-814."
-COMMENTS: "Ordinary ray (o). Room temperature."
+REFERENCES: |
+    D. F. Edwards and R. H. White, "Beryllium Oxide," in E. D. Palik (ed.), Handbook of Optical Constants of Solids II, Academic Press, Orlando, 1991, pp. 805-814.
+COMMENTS: |
+    Ordinary ray (o). Room temperature.
 DATA:
   - type: formula 1
     wavelength_range: 0.44 7.0

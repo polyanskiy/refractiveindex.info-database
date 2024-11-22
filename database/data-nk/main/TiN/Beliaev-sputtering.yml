@@ -2,8 +2,10 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "L. Yu. Beliaev, E. Shkondin, A. V. Lavrinenko, and O. Takayama. Optical properties of plasmonic titanium nitride thin films from ultraviolet to mid-infrared wavelengths deposited by pulsed-DC sputtering, thermal and plasma-enhanced atomic layer deposition, <a href=\"https://doi.org/10.1016/j.optmat.2023.114237\"><i>Opt. Mater.</i> <b>143</b>, 114237 (2023)</a> (Numerical data kindly provided by Osamu Takayama)"
-COMMENTS: "50 nm thick film deposited by pulsed-DC sputtering."
+REFERENCES: |
+    L. Yu. Beliaev, E. Shkondin, A. V. Lavrinenko, and O. Takayama. Optical properties of plasmonic titanium nitride thin films from ultraviolet to mid-infrared wavelengths deposited by pulsed-DC sputtering, thermal and plasma-enhanced atomic layer deposition, <a href="https://doi.org/10.1016/j.optmat.2023.114237"><i>Opt. Mater.</i> <b>143</b>, 114237 (2023)</a> (Numerical data kindly provided by Osamu Takayama)
+COMMENTS: |
+    50 nm thick film deposited by pulsed-DC sputtering.
 DATA:
   - type: tabulated nk
     data: |

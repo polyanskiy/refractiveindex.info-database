@@ -2,7 +2,8 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "S. Adachi. Optical dispersion relations for GaP, GaAs, GaSb, InP, InAs, InSb, Al<sub>x</sub>Ga<sub>1−x</sub>As, and In<sub>1−x</sub>Ga<sub>x</sub>As<sub>y</sub>P<sub>1−y</sub>, <a href=\"https://doi.org/10.1063/1.343580\"><i>J. Appl. Phys.</i> <b>66</b>, 6030-6040 (1989)</a><br>[<a href=\"https://github.com/polyanskiy/refractiveindex.info-scripts/blob/master/scripts/Adachi%201989%20-%20GaP.py\">Calculation script (Python)</a>]"
+REFERENCES: |
+    S. Adachi. Optical dispersion relations for GaP, GaAs, GaSb, InP, InAs, InSb, Al<sub>x</sub>Ga<sub>1−x</sub>As, and In<sub>1−x</sub>Ga<sub>x</sub>As<sub>y</sub>P<sub>1−y</sub>, <a href="https://doi.org/10.1063/1.343580"><i>J. Appl. Phys.</i> <b>66</b>, 6030-6040 (1989)</a><br>[<a href="https://github.com/polyanskiy/refractiveindex.info-scripts/blob/master/scripts/Adachi%201989%20-%20GaP.py">Calculation script (Python)</a>]
 DATA:
   - type: tabulated nk
     data: |

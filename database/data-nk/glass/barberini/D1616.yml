@@ -2,8 +2,10 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "<a href=\"https://refractiveindex.info/download/data/2010/barberini/d16160-grau-1616-e.pdf\">Barberini D1616 glass specifications, 2010-05</a>"
-COMMENTS: "20 °C<br>Sun Protection Glass; Colour: greyish-green; Application: dark tinted sunglare filter with high UV- absorption filter category 3 acc. to DIN EN 1836 (for τ<sub>v</sub> > 18 % filter category 2)"
+REFERENCES: |
+    <a href="https://refractiveindex.info/download/data/2010/barberini/d16160-grau-1616-e.pdf">Barberini D1616 glass specifications, 2010-05</a>
+COMMENTS: |
+    20 °C<br>Sun Protection Glass; Colour: greyish-green; Application: dark tinted sunglare filter with high UV- absorption filter category 3 acc. to DIN EN 1836 (for τ<sub>v</sub> > 18 % filter category 2)
 DATA:
   - type: tabulated n
     data: |

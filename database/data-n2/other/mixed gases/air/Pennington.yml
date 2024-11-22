@@ -2,8 +2,10 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "D. M. Pennington, M. A. Henesian, R. W. Hellwarth. Nonlinear index of air at 1.053 μm, <a href=\"https://doi.org/10.1103/PhysRevA.39.3003\"> <i>Phys. Rev. A</i> <b>39</b>, 3003-3009 (1989)</a>"
-COMMENTS: "1 ns at 1.053 μm. Elliptical polarization rotation."
+REFERENCES: |
+    D. M. Pennington, M. A. Henesian, R. W. Hellwarth. Nonlinear index of air at 1.053 μm, <a href="https://doi.org/10.1103/PhysRevA.39.3003"> <i>Phys. Rev. A</i> <b>39</b>, 3003-3009 (1989)</a>
+COMMENTS: |
+    1 ns at 1.053 μm. Elliptical polarization rotation.
 DATA:
   - type: tabulated n2
     data: |

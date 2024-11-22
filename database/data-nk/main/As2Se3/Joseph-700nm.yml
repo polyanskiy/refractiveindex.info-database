@@ -2,8 +2,10 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "S. Joseph, S. Sarkar, J. Joseph, Grating-coupled surface plasmon-polariton sensing at a flat metal–analyte interface in a hybrid-configuration, <a href=\"https://doi.org/10.1021/acsami.0c12525\"><i>ACS Appl. Mater. Interfaces</i>, <b>12</b>, 46519-46529 (2020)</a><br>(Numerical data kindly provided by Prof. Joby Joseph)"
-COMMENTS: "700 nm film on glass substrate."
+REFERENCES: |
+    S. Joseph, S. Sarkar, J. Joseph, Grating-coupled surface plasmon-polariton sensing at a flat metal–analyte interface in a hybrid-configuration, <a href="https://doi.org/10.1021/acsami.0c12525"><i>ACS Appl. Mater. Interfaces</i>, <b>12</b>, 46519-46529 (2020)</a><br>(Numerical data kindly provided by Prof. Joby Joseph)
+COMMENTS: |
+    700 nm film on glass substrate.
 DATA:
   - type: tabulated nk
     data: |

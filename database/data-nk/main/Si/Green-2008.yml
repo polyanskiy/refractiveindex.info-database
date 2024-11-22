@@ -2,8 +2,10 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "M. A. Green. Self-consistent optical parameters of intrinsic silicon at 300K including temperature coefficients, <a href=\"https://doi.org/10.1016/j.solmat.2008.06.009\"><i>Sol. Energ. Mat. Sol. Cells</i> <b>92</b>, 1305–1310 (2008)</a>"
-COMMENTS: "Combination of data sets enforcing KK consistency. 300 K (27 °C). k is for band-to-band absorption."
+REFERENCES: |
+    M. A. Green. Self-consistent optical parameters of intrinsic silicon at 300K including temperature coefficients, <a href="https://doi.org/10.1016/j.solmat.2008.06.009"><i>Sol. Energ. Mat. Sol. Cells</i> <b>92</b>, 1305–1310 (2008)</a>
+COMMENTS: |
+    Combination of data sets enforcing KK consistency. 300 K (27 °C). k is for band-to-band absorption.
 DATA:
   - type: tabulated nk
     data: |

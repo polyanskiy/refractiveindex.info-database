@@ -2,7 +2,8 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "H. E. Ives and H. B. Briggs. Optical constants of rubidium and cesium, <a href=\"https://doi.org/10.1364/JOSA.27.000395\"><i>J. Opt. Soc. Am.</i> <b>27</b>, 395-400 (1937)</a>"
+REFERENCES: |
+    H. E. Ives and H. B. Briggs. Optical constants of rubidium and cesium, <a href="https://doi.org/10.1364/JOSA.27.000395"><i>J. Opt. Soc. Am.</i> <b>27</b>, 395-400 (1937)</a>
 DATA:
   - type: tabulated nk
     data: |

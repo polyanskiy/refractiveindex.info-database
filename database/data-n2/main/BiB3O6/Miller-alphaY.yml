@@ -2,8 +2,10 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "S. Miller, F. Rotermund, G. Xu, F. Noack, V. Panyutin, V. Petrov, Polarization-dependent nonlinear refractive index of BiB<sub>3</sub>O<sub>6</sub>, <a href=\"https://doi.org/10.1016/j.optmat.2007.11.015\"><i>Opt. Mater.</i> <b>30</b>, 1469 (2008)</a>"
-COMMENTS: "E∥X (α); propagation ∥ Y. 56 ps. Z-scan."
+REFERENCES: |
+    S. Miller, F. Rotermund, G. Xu, F. Noack, V. Panyutin, V. Petrov, Polarization-dependent nonlinear refractive index of BiB<sub>3</sub>O<sub>6</sub>, <a href="https://doi.org/10.1016/j.optmat.2007.11.015"><i>Opt. Mater.</i> <b>30</b>, 1469 (2008)</a>
+COMMENTS: |
+    E∥X (α); propagation ∥ Y. 56 ps. Z-scan.
 DATA:
   - type: tabulated n2
     data: |

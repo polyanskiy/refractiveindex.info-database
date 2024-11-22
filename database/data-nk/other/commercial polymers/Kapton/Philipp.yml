@@ -2,8 +2,10 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "H. R. Philipp, H. S. Cole, Y. S. Liu, T. A. Sitnik. Optical absorption of some polymers in the region 240-170 nm, <a href=\"https://doi.org/10.1063/1.96940\"><i>Appl. Phys. Lett.</i> <b>48</b>, 192-194 (1986)</a>"
-COMMENTS: "Polyimide (Pyralin PI-2540)"
+REFERENCES: |
+    H. R. Philipp, H. S. Cole, Y. S. Liu, T. A. Sitnik. Optical absorption of some polymers in the region 240-170 nm, <a href="https://doi.org/10.1063/1.96940"><i>Appl. Phys. Lett.</i> <b>48</b>, 192-194 (1986)</a>
+COMMENTS: |
+    Polyimide (Pyralin PI-2540)
 DATA:
   - type: tabulated k
     data: |

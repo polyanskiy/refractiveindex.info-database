@@ -2,8 +2,10 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "A. S. Slavich, G. A. Ermolaev, M. K. Tatmyshevskiy, A. N. Toksumakov, O. G. Matveeva, D. V. Grudinin, K. V. Voronin, A. Mazitov, K. V. Kravtsov, A. V. Syuy, D. M. Tsymbarenko, M. S. Mironov, S. M. Novikov, I. Kruglov, D. A. Ghazaryan, A. A. Vyshnevyy, A. V. Arsenin, V. S. Volkov, K. S Novoselov. Exploring van der Waals materials with high anisotropy: geometrical and optical approaches, <a href=\"https://doi.org/10.1038/s41377-024-01407-3\"><i>Light Sci. Appl.</i>, <b>13</b>, 68 (2024)</a> (Numerical data kindly provided by Georgy Ermolaev)"
-COMMENTS: "α-axis."
+REFERENCES: |
+    A. S. Slavich, G. A. Ermolaev, M. K. Tatmyshevskiy, A. N. Toksumakov, O. G. Matveeva, D. V. Grudinin, K. V. Voronin, A. Mazitov, K. V. Kravtsov, A. V. Syuy, D. M. Tsymbarenko, M. S. Mironov, S. M. Novikov, I. Kruglov, D. A. Ghazaryan, A. A. Vyshnevyy, A. V. Arsenin, V. S. Volkov, K. S Novoselov. Exploring van der Waals materials with high anisotropy: geometrical and optical approaches, <a href="https://doi.org/10.1038/s41377-024-01407-3"><i>Light Sci. Appl.</i>, <b>13</b>, 68 (2024)</a> (Numerical data kindly provided by Georgy Ermolaev)
+COMMENTS: |
+    α-axis.
 DATA:
   - type: tabulated n
     data: |

@@ -2,7 +2,8 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "N. V. Smith. Optical constants of rubidium and cesium from 0.5 to 4.0 eV, <a href=\"https://doi.org/10.1103/PhysRevB.2.2840\"><i>Phs. Rev. B</i> <b>2</b>, 2840-2848 (1970)</a>"
+REFERENCES: |
+    N. V. Smith. Optical constants of rubidium and cesium from 0.5 to 4.0 eV, <a href="https://doi.org/10.1103/PhysRevB.2.2840"><i>Phs. Rev. B</i> <b>2</b>, 2840-2848 (1970)</a>
 DATA:
   - type: tabulated nk
     data: |

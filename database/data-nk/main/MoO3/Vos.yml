@@ -2,8 +2,10 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "M. Vos, B. Macco, N. F. W. Thissen, A. A. Bol, W. M. M. Kessels. Atomic layer deposition of molybdenum oxide from (N<sup>t</sup>Bu)<sub>2</sub>(NMe<sub>2</sub>)<sub>2</sub>Mo and O<sub>2</sub> plasma, <a href=\"https://doi.org/10.1116/1.4930161\"><i>J. Vac. Scia. Technol. A</i> <b>34</b>, 01A103 (2016)</a>"
-COMMENTS: "Amorphous MoO<sub>3</sub> deposited with ALD at 200 °C."
+REFERENCES: |
+    M. Vos, B. Macco, N. F. W. Thissen, A. A. Bol, W. M. M. Kessels. Atomic layer deposition of molybdenum oxide from (N<sup>t</sup>Bu)<sub>2</sub>(NMe<sub>2</sub>)<sub>2</sub>Mo and O<sub>2</sub> plasma, <a href="https://doi.org/10.1116/1.4930161"><i>J. Vac. Scia. Technol. A</i> <b>34</b>, 01A103 (2016)</a>
+COMMENTS: |
+    Amorphous MoO<sub>3</sub> deposited with ALD at 200 °C.
 DATA:
   - type: tabulated nk
     data: |

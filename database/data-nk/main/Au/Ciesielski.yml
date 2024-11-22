@@ -2,8 +2,10 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "A. Ciesielski, L. Skowronski, M. Trzinski, E. Gorecka, P. Trautman, T. Szoplik. Evidence of germanium segregation in gold thin films, <a href=\"https://doi.org/10.1016/j.susc.2018.03.020\"><i>Surf. Sci.</i> <b>674</b>, 73-78 (2018)</a> (Numerical data kindly provided by Arkadiusz Ciesielski)"
-COMMENTS: "35 nm-thick gold film deposited directly on SiO<sub>2</sub> substrate"
+REFERENCES: |
+    A. Ciesielski, L. Skowronski, M. Trzinski, E. Gorecka, P. Trautman, T. Szoplik. Evidence of germanium segregation in gold thin films, <a href="https://doi.org/10.1016/j.susc.2018.03.020"><i>Surf. Sci.</i> <b>674</b>, 73-78 (2018)</a> (Numerical data kindly provided by Arkadiusz Ciesielski)
+COMMENTS: |
+    35 nm-thick gold film deposited directly on SiO<sub>2</sub> substrate
 DATA:
   - type: tabulated nk
     data: |

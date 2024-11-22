@@ -2,8 +2,10 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "J. I. Larruquert, A. P. Pérez-Marín, S. García-Cortés, L. Rodríguez-de Marcos, J. A. Aznárez, J. A. Méndez. Self-consistent optical constants of sputter-deposited B<sub>4</sub>C thin films, <a href=\"https://doi.org/10.1364/JOSAA.29.000117\"><i>J. Opt. Soc. Am. A</i> <b>29</b>, 117-123 (2012)</a> (Numerical data kindly provided by Juan Larruquert)"
-COMMENTS: "Density: 2.28 g/cm<sup>3</sup>. Film deposited at room temperature."
+REFERENCES: |
+    J. I. Larruquert, A. P. Pérez-Marín, S. García-Cortés, L. Rodríguez-de Marcos, J. A. Aznárez, J. A. Méndez. Self-consistent optical constants of sputter-deposited B<sub>4</sub>C thin films, <a href="https://doi.org/10.1364/JOSAA.29.000117"><i>J. Opt. Soc. Am. A</i> <b>29</b>, 117-123 (2012)</a> (Numerical data kindly provided by Juan Larruquert)
+COMMENTS: |
+    Density: 2.28 g/cm<sup>3</sup>. Film deposited at room temperature.
 DATA:
   - type: tabulated nk
     data: |

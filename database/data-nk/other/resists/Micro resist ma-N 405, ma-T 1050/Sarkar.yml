@@ -2,8 +2,10 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "S. Sarkar, V. Gupta, M. Kumar, J. Schubert, P.T. Probst, J. Joseph, T.A.F. König, Hybridized guided-mode resonances via colloidal plasmonic self-assembled grating, <a href=\"https://doi.org/10.1021/acsami.8b20535\"><i>ACS Appl. Mater. Interfaces</i>, <b>11</b>, 13752-13760 (2019)</a><br>(Numerical data kindly provided by Dr. Tobias König)"
-COMMENTS: "Spin-coated negative photoresist ma-N 405 diluted with ma-T 1050 (micro resist technology GmbH) in a 1:1 ratio."
+REFERENCES: |
+    S. Sarkar, V. Gupta, M. Kumar, J. Schubert, P.T. Probst, J. Joseph, T.A.F. König, Hybridized guided-mode resonances via colloidal plasmonic self-assembled grating, <a href="https://doi.org/10.1021/acsami.8b20535"><i>ACS Appl. Mater. Interfaces</i>, <b>11</b>, 13752-13760 (2019)</a><br>(Numerical data kindly provided by Dr. Tobias König)
+COMMENTS: |
+    Spin-coated negative photoresist ma-N 405 diluted with ma-T 1050 (micro resist technology GmbH) in a 1:1 ratio.
 DATA:
   - type: tabulated nk
     data: |

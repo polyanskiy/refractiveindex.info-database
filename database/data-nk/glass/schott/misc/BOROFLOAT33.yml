@@ -2,8 +2,10 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "<a href=\"https://refractiveindex.info/download/data/2014/BOROFLOAT 33_Refractive Index.pdf\">Datasheet \"BOROFLOAT® 33 glass - Optical Properties\", SCHOTT North America Inc. (2014)</a><br>(Courtesy of SCHOTT North America)"
-COMMENTS: "Room temperature. ORIENTATION VALUES ONLY!"
+REFERENCES: |
+    <a href="https://refractiveindex.info/download/data/2014/BOROFLOAT 33_Refractive Index.pdf">Datasheet "BOROFLOAT® 33 glass - Optical Properties", SCHOTT North America Inc. (2014)</a><br>(Courtesy of SCHOTT North America)
+COMMENTS: |
+    Room temperature. ORIENTATION VALUES ONLY!
 DATA:
   - type: tabulated n
     data: |

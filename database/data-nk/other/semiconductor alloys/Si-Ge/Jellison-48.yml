@@ -2,8 +2,10 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "G. E. Jellison Jr., T. E. Haynes, H. H. Burke. Optical functions of silicon-germanium alloys determined using spectroscopic ellipsometry, <a href=\"https://doi.org/10.1016/0925-3467(93)90035-Y\"><i>Opt. Mat.</i> <b>2</b>, 105-117 (1993)</a>"
-COMMENTS: "Si<sub>x</sub>Ge<sub>1-x</sub>, x = 0.28. 4-μm film grown on Ge substrate."
+REFERENCES: |
+    G. E. Jellison Jr., T. E. Haynes, H. H. Burke. Optical functions of silicon-germanium alloys determined using spectroscopic ellipsometry, <a href="https://doi.org/10.1016/0925-3467(93)90035-Y"><i>Opt. Mat.</i> <b>2</b>, 105-117 (1993)</a>
+COMMENTS: |
+    Si<sub>x</sub>Ge<sub>1-x</sub>, x = 0.28. 4-μm film grown on Ge substrate.
 DATA:
   - type: tabulated nk
     data: |

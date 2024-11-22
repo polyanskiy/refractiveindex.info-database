@@ -2,8 +2,10 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "T. Stefaniuk, J. Suffczyński, M. Wierzbowska, J. Z. Domagała, J. Kisielewski, A. Kłos, A. Korneluk, H. Teisseyre. Optical, electronic, and structural properties of ScAlMgO<sub>4</sub>, <a href=\"https://doi.org/10.1103/PhysRevB.107.085205\"><i>Phys. Rev. B</i> <b>107</b>, 085205 (2023)</a> (See Supplemental Material. Missing data points kindly provided by Jan Suffczyński.)"
-COMMENTS: "Ordinary ray (o)."
+REFERENCES: |
+    T. Stefaniuk, J. Suffczyński, M. Wierzbowska, J. Z. Domagała, J. Kisielewski, A. Kłos, A. Korneluk, H. Teisseyre. Optical, electronic, and structural properties of ScAlMgO<sub>4</sub>, <a href="https://doi.org/10.1103/PhysRevB.107.085205"><i>Phys. Rev. B</i> <b>107</b>, 085205 (2023)</a> (See Supplemental Material. Missing data points kindly provided by Jan Suffczyński.)
+COMMENTS: |
+    Ordinary ray (o).
 DATA:
   - type: tabulated nk
     data: |

@@ -2,8 +2,10 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "J. J. Pigeon, S. Ya. Tochitsky, E. C. Welch, C. Joshi. Measurements of the nonlinear refractive index of air, N<sub>2</sub>, and O<sub>2</sub> at 10 μm using four-wave mixing, <a href=\"https://doi.org/10.1364/OL.41.003924\"> <i>Opt. Lett.</i> <b>41</b>,  3924-3927 (2016)</a>"
-COMMENTS: "200 ps at 10.6 nm. Four-wave mixing. Room temperature, atmospheric pressure."
+REFERENCES: |
+    J. J. Pigeon, S. Ya. Tochitsky, E. C. Welch, C. Joshi. Measurements of the nonlinear refractive index of air, N<sub>2</sub>, and O<sub>2</sub> at 10 μm using four-wave mixing, <a href="https://doi.org/10.1364/OL.41.003924"> <i>Opt. Lett.</i> <b>41</b>,  3924-3927 (2016)</a>
+COMMENTS: |
+    200 ps at 10.6 nm. Four-wave mixing. Room temperature, atmospheric pressure.
 DATA:
   - type: tabulated n2
     data: |

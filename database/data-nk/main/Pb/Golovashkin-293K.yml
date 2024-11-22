@@ -2,8 +2,10 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "A. I. Golovashkin and G. P. Motulevich. Optical properties of lead in the visible and infrared spectral ranges, <a href=\"http://jetp.ac.ru/cgi-bin/e/index/e/26/5/p881?a=list\"><i>Sov. Phys. JETP</i> <b>26</b>, 881-887 (1968)</a>"
-COMMENTS: "293 K (19.85 °C)"
+REFERENCES: |
+    A. I. Golovashkin and G. P. Motulevich. Optical properties of lead in the visible and infrared spectral ranges, <a href="http://jetp.ac.ru/cgi-bin/e/index/e/26/5/p881?a=list"><i>Sov. Phys. JETP</i> <b>26</b>, 881-887 (1968)</a>
+COMMENTS: |
+    293 K (19.85 °C)
 DATA:
   - type: tabulated nk
     data: |

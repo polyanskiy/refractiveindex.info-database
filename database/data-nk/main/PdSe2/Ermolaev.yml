@@ -2,8 +2,10 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "G. Ermolaev, K. Voronin, D.G. Baranov, V. Kravets, G. Tselikov, Y. Stebunov, D. Yakubovsky, S. Novikov, A. Vyshnevyy, A. Mazitov, I. Kruglov, S. Zhukov, R. Romanov, A. M. Markeev, A. Arsenin, K. S. Novoselov, A.N. Grigorenko, V. S. Volkov. Topological phase singularities in atomically thin high-refractive-index materials, <a href=\"https://doi.org/10.1038/s41467-022-29716-4\"><i>Nat. Commun.</i> <b>13</b>, 2049 (2022)</a> (Numerical data kindly provided by Georgy Ermolaev)"
-COMMENTS: "Broadband optical constants of 4.5 nm PdSe<sub>2</sub> thin film in the spectral range 200–10000 nm."
+REFERENCES: |
+    G. Ermolaev, K. Voronin, D.G. Baranov, V. Kravets, G. Tselikov, Y. Stebunov, D. Yakubovsky, S. Novikov, A. Vyshnevyy, A. Mazitov, I. Kruglov, S. Zhukov, R. Romanov, A. M. Markeev, A. Arsenin, K. S. Novoselov, A.N. Grigorenko, V. S. Volkov. Topological phase singularities in atomically thin high-refractive-index materials, <a href="https://doi.org/10.1038/s41467-022-29716-4"><i>Nat. Commun.</i> <b>13</b>, 2049 (2022)</a> (Numerical data kindly provided by Georgy Ermolaev)
+COMMENTS: |
+    Broadband optical constants of 4.5 nm PdSe<sub>2</sub> thin film in the spectral range 200–10000 nm.
 DATA:
   - type: tabulated nk
     data: |

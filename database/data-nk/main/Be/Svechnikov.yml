@@ -2,8 +2,10 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "M. Svechnikov, N. Chkhalo, A. Lopatin, R. Pleshkov, V. Polkovnikov, N. Salashchenko, F. Schäfers, M.G. Sertsu, A. Sokolov, N. Tsybin. Optical constants of sputtered beryllium thin films determined from photoabsorption measurements in the spectral range 20.4–250 eV, <a href=\"https://doi.org/10.1107/S1600577519014188\"><i>J. Synchrotron Rad.</i> <b>27</b>, 75-82 (2020)</a>"
-COMMENTS: "Optical constants are derived from the initial data that include measurements of the transmittance of two free-standing Be films with thicknesses of 70 nm and 152 nm, as well as reflectometric measurements of similar films on a substrate."
+REFERENCES: |
+    M. Svechnikov, N. Chkhalo, A. Lopatin, R. Pleshkov, V. Polkovnikov, N. Salashchenko, F. Schäfers, M.G. Sertsu, A. Sokolov, N. Tsybin. Optical constants of sputtered beryllium thin films determined from photoabsorption measurements in the spectral range 20.4–250 eV, <a href="https://doi.org/10.1107/S1600577519014188"><i>J. Synchrotron Rad.</i> <b>27</b>, 75-82 (2020)</a>
+COMMENTS: |
+    Optical constants are derived from the initial data that include measurements of the transmittance of two free-standing Be films with thicknesses of 70 nm and 152 nm, as well as reflectometric measurements of similar films on a substrate.
 DATA:
   - type: tabulated nk
     data: |

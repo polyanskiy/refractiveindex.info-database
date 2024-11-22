@@ -2,8 +2,10 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "<a href=\"https://refractiveindex.info/download/data/2023/50415_Lightpath_BD6_Datasheet.pdf\">BLACK DIAMOND BD6 Glass Datasheet (revision 2023-07-28)</a><br>See also <a href=\"https://refractiveindex.info/download/data/2018/LPTHCORP-1512_BD6 Glass DataSheet.pdf\">datasheet revision 2018-03-02</a> for more information."
-COMMENTS: "20 °C. "
+REFERENCES: |
+    <a href="https://refractiveindex.info/download/data/2023/50415_Lightpath_BD6_Datasheet.pdf">BLACK DIAMOND BD6 Glass Datasheet (revision 2023-07-28)</a><br>See also <a href="https://refractiveindex.info/download/data/2018/LPTHCORP-1512_BD6 Glass DataSheet.pdf">datasheet revision 2018-03-02</a> for more information.
+COMMENTS: |
+    20 °C. 
 DATA:
   - type: tabulated n
     data: |

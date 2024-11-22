@@ -2,8 +2,10 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "<a href=\"https://refractiveindex.info/download/data/2013/BD-2.pdf\">BD-2 Glass Datasheet (revision 2013-05)</a>"
-COMMENTS: "All values represent glass characteristics after molding"
+REFERENCES: |
+    <a href="https://refractiveindex.info/download/data/2013/BD-2.pdf">BD-2 Glass Datasheet (revision 2013-05)</a>
+COMMENTS: |
+    All values represent glass characteristics after molding
 DATA:
   - type: tabulated nk
     data: |

@@ -2,8 +2,10 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "H. Gu, B. Song, M. Fang, Y. Hong, X. Chen, H. Jiang, W. Ren, and S. Liu, Layer-dependent dielectric and optical properties of centimeter-scale 2D WSe<sub>2</sub>: evolution from a single layer to few layers. <a href=\"https://doi.org/10.1039/C9NR04270A\"><i>Nanoscale</i> <b>11</b>, 22762-22771 (2019)</a> (Numerical data kindly provided by Baokun Song)"
-COMMENTS: "Monolayer (1-layer, 1L)"
+REFERENCES: |
+    H. Gu, B. Song, M. Fang, Y. Hong, X. Chen, H. Jiang, W. Ren, and S. Liu, Layer-dependent dielectric and optical properties of centimeter-scale 2D WSe<sub>2</sub>: evolution from a single layer to few layers. <a href="https://doi.org/10.1039/C9NR04270A"><i>Nanoscale</i> <b>11</b>, 22762-22771 (2019)</a> (Numerical data kindly provided by Baokun Song)
+COMMENTS: |
+    Monolayer (1-layer, 1L)
 DATA:
   - type: tabulated nk
     data: |

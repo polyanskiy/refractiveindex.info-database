@@ -2,7 +2,8 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "N. V. Smith. Optical constants of sodium and potassium from 0.5 to 4.0 eV by split-beam ellipsometry, <a href=\"https://doi.org/10.1103/PhysRev.183.634\"><i>Phs. Rev.</i> <b>183</b>, 634-644 (1969)</a>"
+REFERENCES: |
+    N. V. Smith. Optical constants of sodium and potassium from 0.5 to 4.0 eV by split-beam ellipsometry, <a href="https://doi.org/10.1103/PhysRev.183.634"><i>Phs. Rev.</i> <b>183</b>, 634-644 (1969)</a>
 DATA:
   - type: tabulated nk
     data: |

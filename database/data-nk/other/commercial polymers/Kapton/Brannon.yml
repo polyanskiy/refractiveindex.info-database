@@ -2,8 +2,10 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "J. H. Brannon, J. R. Lankard, A. I. Baise, F. Burns, J. Kaufman. Excimer laser etching of polyimide, <a href=\"https://doi.org/10.1063/1.336012\"><i>J. Appl. Phys.</i> <b>58</b>, 2036-2043 (1985)</a>"
-COMMENTS: "Polyimide thin films which are chemically identical to Kapton thin films."
+REFERENCES: |
+    J. H. Brannon, J. R. Lankard, A. I. Baise, F. Burns, J. Kaufman. Excimer laser etching of polyimide, <a href="https://doi.org/10.1063/1.336012"><i>J. Appl. Phys.</i> <b>58</b>, 2036-2043 (1985)</a>
+COMMENTS: |
+    Polyimide thin films which are chemically identical to Kapton thin films.
 DATA:
   - type: tabulated k
     data: |

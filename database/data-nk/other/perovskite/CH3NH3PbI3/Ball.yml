@@ -2,7 +2,8 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "J. M. Ball, S. D. Stranks, M. T. Hörantner, S. Hüttner, W. Zhang, E. J. W. Crossland, I. Ramirez, M. Riede, M. B. Johnston, R. H. Friend, H. J. Snaith. Optical properties and limiting photocurrent of thin-film perovskite solar cells, <a href=\"https://doi.org/10.1039/C4EE03224A\"><i>Energy Environ. Sci</i> <b>8</b>, 602-609 (2015)</a> - see <i>Supplementary materials</i>"
+REFERENCES: |
+    J. M. Ball, S. D. Stranks, M. T. Hörantner, S. Hüttner, W. Zhang, E. J. W. Crossland, I. Ramirez, M. Riede, M. B. Johnston, R. H. Friend, H. J. Snaith. Optical properties and limiting photocurrent of thin-film perovskite solar cells, <a href="https://doi.org/10.1039/C4EE03224A"><i>Energy Environ. Sci</i> <b>8</b>, 602-609 (2015)</a> - see <i>Supplementary materials</i>
 DATA:
   - type: tabulated nk
     data: |

@@ -2,8 +2,10 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "G. A. Ermolaev,  Yu. V. Stebunov, A. A. Vyshnevyy, D. E. Tatarkin,  D. I. Yakubovsky, S. M. Novikov,  D. G. Baranov, T. Shegai, A. Y. Nikitin,  A. V. Arsenin, V. S. Volkov. Broadband optical properties of monolayer and bulk MoS<sub>2</sub>, <a href=\"https://doi.org/10.1038/s41699-020-0155-x\"><i>NPJ 2D Mater. Appl.</i>, <b>4</b>, 21 (2020)</a> (Numerical data kindly provided by Georgy Ermolaev)"
-COMMENTS: "Ordinary ray (o).<br>Optical constants of in-plane component of dielectric tensor of bulk MoS<sub>2</sub> measured by spectroscopic ellipsometry."
+REFERENCES: |
+    G. A. Ermolaev,  Yu. V. Stebunov, A. A. Vyshnevyy, D. E. Tatarkin,  D. I. Yakubovsky, S. M. Novikov,  D. G. Baranov, T. Shegai, A. Y. Nikitin,  A. V. Arsenin, V. S. Volkov. Broadband optical properties of monolayer and bulk MoS<sub>2</sub>, <a href="https://doi.org/10.1038/s41699-020-0155-x"><i>NPJ 2D Mater. Appl.</i>, <b>4</b>, 21 (2020)</a> (Numerical data kindly provided by Georgy Ermolaev)
+COMMENTS: |
+    Ordinary ray (o).<br>Optical constants of in-plane component of dielectric tensor of bulk MoS<sub>2</sub> measured by spectroscopic ellipsometry.
 DATA:
   - type: tabulated nk
     data: |

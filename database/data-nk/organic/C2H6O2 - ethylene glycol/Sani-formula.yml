@@ -2,8 +2,10 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "1) E. Sani and A. Dell'Oro. Optical constants of ethylene glycol over an extremely wide spectral range, <a href=\"https://doi.org/10.1016/j.optmat.2014.04.035\"><i>Optical Materials</i> <b>37</b>, 36-41 (2014)</a><br>2) E. Sani and A. Dell'Oro. Corrigendum to \"Optical constants of ethylene glycol over an extremely wide spectral range\", <a href=\"https://doi.org/10.1016/j.optmat.2015.06.039\"><i>Optical Materials</i> <b>48</b>, 281 (2015)</a>"
-COMMENTS: "Room temperature"
+REFERENCES: |
+    1) E. Sani and A. Dell'Oro. Optical constants of ethylene glycol over an extremely wide spectral range, <a href="https://doi.org/10.1016/j.optmat.2014.04.035"><i>Optical Materials</i> <b>37</b>, 36-41 (2014)</a><br>2) E. Sani and A. Dell'Oro. Corrigendum to "Optical constants of ethylene glycol over an extremely wide spectral range", <a href="https://doi.org/10.1016/j.optmat.2015.06.039"><i>Optical Materials</i> <b>48</b>, 281 (2015)</a>
+COMMENTS: |
+    Room temperature
 DATA:
   - type: formula 2
     wavelength_range: 0.185 2.8

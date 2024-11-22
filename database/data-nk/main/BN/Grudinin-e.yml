@@ -2,8 +2,10 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "D. V. Grudinin, G. A. Ermolaev, D. G. Baranov, A. N. Toksumakov, K. V. Voronin, A. S. Slavich, A. A. Vyshnevyy, A. B. Mazitov, I. A. Kruglov, D. A. Ghazaryan, A. V. Arsenin, K. S. Novoselov, V. S. Volkov. Hexagonal boron nitride nanophotonics: a record-breaking material for the ultraviolet and visible spectral ranges, <a href=\"https://doi.org/10.1039/D3MH00215B\"><i>Mater. Horiz.</i>, XXX, XXX (2023)</a> (Numerical data kindly provided by Georgy Ermolaev)"
-COMMENTS: "Hexagonal boron nitride (hBN). Experimental data. Extraordinary ray (e)."
+REFERENCES: |
+    D. V. Grudinin, G. A. Ermolaev, D. G. Baranov, A. N. Toksumakov, K. V. Voronin, A. S. Slavich, A. A. Vyshnevyy, A. B. Mazitov, I. A. Kruglov, D. A. Ghazaryan, A. V. Arsenin, K. S. Novoselov, V. S. Volkov. Hexagonal boron nitride nanophotonics: a record-breaking material for the ultraviolet and visible spectral ranges, <a href="https://doi.org/10.1039/D3MH00215B"><i>Mater. Horiz.</i>, XXX, XXX (2023)</a> (Numerical data kindly provided by Georgy Ermolaev)
+COMMENTS: |
+    Hexagonal boron nitride (hBN). Experimental data. Extraordinary ray (e).
 DATA:
   - type: tabulated n
     data: |

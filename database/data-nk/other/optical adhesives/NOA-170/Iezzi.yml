@@ -2,8 +2,10 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "B. Iezzi, Z. Afkhami, S. Sanvordenker, D. Hoelzle, K. Barton, M. Shtein. Electrohydrodynamic jet printing of 1D photonic crystals: Part II — Optical design and reflectance characteristics, <a href=\"https://doi.org/10.1002/admt.202000431\"><i>Adv. Mater Technol.</i> <b>5</b>, 2000431 (2020)</a> (Numerical data kindly provided by Brian Iezzi)"
-COMMENTS: "2 μm film spin-coated onto glass substrates."
+REFERENCES: |
+    B. Iezzi, Z. Afkhami, S. Sanvordenker, D. Hoelzle, K. Barton, M. Shtein. Electrohydrodynamic jet printing of 1D photonic crystals: Part II — Optical design and reflectance characteristics, <a href="https://doi.org/10.1002/admt.202000431"><i>Adv. Mater Technol.</i> <b>5</b>, 2000431 (2020)</a> (Numerical data kindly provided by Brian Iezzi)
+COMMENTS: |
+    2 μm film spin-coated onto glass substrates.
 DATA:
   - type: tabulated n
     data: |

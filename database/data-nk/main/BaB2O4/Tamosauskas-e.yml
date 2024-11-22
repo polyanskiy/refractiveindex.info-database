@@ -2,8 +2,10 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "1) G. Tamošauskas, G. Beresnevičius, D. Gadonas, A. Dubietis. Transmittance and phase matching of BBO crystal in the 3−5 μm range and its application for the characterization of mid-infrared laser pulses, <a href=\"https://doi.org/10.1364/OME.8.001410\"><i>Opt. Mater. Express</i> <b>8</b>, 1410-1418 (2018)</a><br>2) G. Tamošauskas. β-barium borate (BBO) absorption in the 0.188-6.22 μm range, <a href=\"https://arxiv.org/abs/2111.01212\">arXiv:2111.01212 [physics.optics] (2021)</a> (Numerical data kindly provided by Gintaras Tamošauskas)"
-COMMENTS: "Beta barium borate (ß-BaB<sub>2</sub>O<sub>4</sub>, BBO). Extraordinary ray (e)."
+REFERENCES: |
+    1) G. Tamošauskas, G. Beresnevičius, D. Gadonas, A. Dubietis. Transmittance and phase matching of BBO crystal in the 3−5 μm range and its application for the characterization of mid-infrared laser pulses, <a href="https://doi.org/10.1364/OME.8.001410"><i>Opt. Mater. Express</i> <b>8</b>, 1410-1418 (2018)</a><br>2) G. Tamošauskas. β-barium borate (BBO) absorption in the 0.188-6.22 μm range, <a href="https://arxiv.org/abs/2111.01212">arXiv:2111.01212 [physics.optics] (2021)</a> (Numerical data kindly provided by Gintaras Tamošauskas)
+COMMENTS: |
+    Beta barium borate (ß-BaB<sub>2</sub>O<sub>4</sub>, BBO). Extraordinary ray (e).
 DATA:
   - type: formula 2
     wavelength_range: 0.188 5.2

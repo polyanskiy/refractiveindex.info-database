@@ -2,8 +2,10 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "C. C. Wang, J. Y. Tan, C. Y. Jing, L. H. Liu. Temperature-dependent optical constants of liquid isopropanol, n-butanol and n-decane, <a href=\"https://doi.org/10.1364/AO.57.003003\"><i>Appl. Opt.</i> <b>57</b>, 3303-3311 (2018)</a> (Numerical data kindly provided by Chengchao Wang)"
-COMMENTS: "n-butanol, 90 °C."
+REFERENCES: |
+    C. C. Wang, J. Y. Tan, C. Y. Jing, L. H. Liu. Temperature-dependent optical constants of liquid isopropanol, n-butanol and n-decane, <a href="https://doi.org/10.1364/AO.57.003003"><i>Appl. Opt.</i> <b>57</b>, 3303-3311 (2018)</a> (Numerical data kindly provided by Chengchao Wang)
+COMMENTS: |
+    n-butanol, 90 °C.
 DATA:
   - type: tabulated nk
     data: |

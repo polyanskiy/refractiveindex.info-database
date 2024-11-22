@@ -2,8 +2,10 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "E. R. Peck and S. Hung. Refractivity and dispersion of hydrogen in the visible and near infrared, <a href=\"https://doi.org/10.1364/JOSA.67.001550\"><i>J. Opt. Soc. Am.</i> <b>67</b>, 1550-1554 (1977)</a>"
-COMMENTS: "Standard conditions. 0 °C, 760 torr (101.325 kPa)."
+REFERENCES: |
+    E. R. Peck and S. Hung. Refractivity and dispersion of hydrogen in the visible and near infrared, <a href="https://doi.org/10.1364/JOSA.67.001550"><i>J. Opt. Soc. Am.</i> <b>67</b>, 1550-1554 (1977)</a>
+COMMENTS: |
+    Standard conditions. 0 °C, 760 torr (101.325 kPa).
 DATA:
   - type: formula 6
     wavelength_range: 0.1680 1.6945

@@ -2,8 +2,10 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "A. Sytchkova, A. Belosludtsev, L. Volosevičienė, R. Juškėnas, R. Simniškis. Optical, structural and electrical properties of sputtered ultrathin chromium films, <a href=\"https://doi.org/10.1016/j.optmat.2021.111530\"><i>Opt. Mater.</i> <b>121</b>, 111530 (2021)</a> (Numerical data kindly provided by Alexandr Belosludtsev)"
-COMMENTS: "12 nm film deposited on fused silica by magnetron sputtering."
+REFERENCES: |
+    A. Sytchkova, A. Belosludtsev, L. Volosevičienė, R. Juškėnas, R. Simniškis. Optical, structural and electrical properties of sputtered ultrathin chromium films, <a href="https://doi.org/10.1016/j.optmat.2021.111530"><i>Opt. Mater.</i> <b>121</b>, 111530 (2021)</a> (Numerical data kindly provided by Alexandr Belosludtsev)
+COMMENTS: |
+    12 nm film deposited on fused silica by magnetron sputtering.
 DATA:
   - type: tabulated nk
     data: |

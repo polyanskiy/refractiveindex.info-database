@@ -2,8 +2,10 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "L. Gampel and F. M. Johnson, Index of refraction of single-crystal selenium, <a https://doi.org/10.1364/JOSA.59.000072\"><i>J. Opt. Soc. Am.</i>, <b>59</b>, 72-73 (1969)</a>"
-COMMENTS: "Single-crystal selenium; 23 °C; Ordinary ray."
+REFERENCES: |
+    L. Gampel and F. M. Johnson, Index of refraction of single-crystal selenium, <a https://doi.org/10.1364/JOSA.59.000072"><i>J. Opt. Soc. Am.</i>, <b>59</b>, 72-73 (1969)</a>
+COMMENTS: |
+    Single-crystal selenium; 23 °C; Ordinary ray.
 DATA:
   - type: tabulated n
     data: |

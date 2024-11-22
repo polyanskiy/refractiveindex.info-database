@@ -2,8 +2,10 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "O. Aftenieva, J. Brunner, M. Adnan, S. Sarkar, A. Fery, Y. Vaynzof, T. A. F. König. Directional Amplified Photoluminescence through Large-Area Perovskite-Based Metasurfaces, <a href=\"https://doi.org/10.1021/acsnano.2c09482\"><i>ACS Nano</i> <b>17</b>, 2399–2410 (2023)</a> (Numerical data kindly provided by Tobias König)"
-COMMENTS: "Cesium lead triiodide (CsPbI<sub>3</sub>) perovskite nanocrystals"
+REFERENCES: |
+    O. Aftenieva, J. Brunner, M. Adnan, S. Sarkar, A. Fery, Y. Vaynzof, T. A. F. König. Directional Amplified Photoluminescence through Large-Area Perovskite-Based Metasurfaces, <a href="https://doi.org/10.1021/acsnano.2c09482"><i>ACS Nano</i> <b>17</b>, 2399–2410 (2023)</a> (Numerical data kindly provided by Tobias König)
+COMMENTS: |
+    Cesium lead triiodide (CsPbI<sub>3</sub>) perovskite nanocrystals
 DATA:
   - type: tabulated nk
     data: |

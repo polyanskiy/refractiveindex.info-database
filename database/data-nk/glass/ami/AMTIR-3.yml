@@ -2,7 +2,8 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "Handbook of Optics, Vol. 2, 2nd edition. McGraw-Hill 1994"
+REFERENCES: |
+    Handbook of Optics, Vol. 2, 2nd edition. McGraw-Hill 1994
 DATA:
   - type: formula 1
     wavelength_range: 3 14

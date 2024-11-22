@@ -2,8 +2,10 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "D. Chandler-Horowitz and P. M. Amirtharaj. High-accuracy, midinfrared (450 cm<sup>−1</sup> ≤ ω ≤ 4000 cm<sup>−1</sup>) refractive index values of silicon, <a href=\"https://doi.org/10.1063/1.1923612\"><i>J. Appl. Phys.</i> <b>97</b>, 123526 (2005)</a>"
-COMMENTS: "Room temperatue."
+REFERENCES: |
+    D. Chandler-Horowitz and P. M. Amirtharaj. High-accuracy, midinfrared (450 cm<sup>−1</sup> ≤ ω ≤ 4000 cm<sup>−1</sup>) refractive index values of silicon, <a href="https://doi.org/10.1063/1.1923612"><i>J. Appl. Phys.</i> <b>97</b>, 123526 (2005)</a>
+COMMENTS: |
+    Room temperatue.
 DATA:
   - type: formula 4
     wavelength_range: 2.5 22.222

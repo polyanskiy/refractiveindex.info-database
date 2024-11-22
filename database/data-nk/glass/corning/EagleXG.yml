@@ -2,7 +2,8 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "<a href=\"https://refractiveindex.info/download/data/2006/Corning_Eagle_XGdisplayglass.pdf\">Corning Material Information (2006)</a>"
+REFERENCES: |
+    <a href="https://refractiveindex.info/download/data/2006/Corning_Eagle_XGdisplayglass.pdf">Corning Material Information (2006)</a>
 DATA:
   - type: tabulated n
     data: |

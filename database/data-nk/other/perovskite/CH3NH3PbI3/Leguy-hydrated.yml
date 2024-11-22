@@ -2,8 +2,10 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "A. M. A. Leguy, Y. Hu, M. Campoy-Quiles, M. I. Alonso, O. J. Weber, P. Azarhoosh, M. van Schilfgaarde, M. T. Weller, T Bein, J. Nelson, P. Docampo, and P. R. F. Barnes. Reversible hydration of CH<sub>3</sub>NH<sub>3</sub>PbI<sub>3</sub> in films, single crystals, and solar cells, <a href=\"https://doi.org/10.1021/acs.chemmater.5b00660\"><i>Chem. Matter.</i> <b>27</b>, 3397-3407 (2015)</a>"
-COMMENTS: "Hydrated single crystal CH<sub>3</sub>NH<sub>3</sub>PbI<sub>3</sub>.H<sub>2</sub>O; orientation unknown, hydrate phase grown on single crystal; room temperature; critical point model used for fit, 249 nm - 427 nm - fit not reliable for sub-bandgap region - see reference"
+REFERENCES: |
+    A. M. A. Leguy, Y. Hu, M. Campoy-Quiles, M. I. Alonso, O. J. Weber, P. Azarhoosh, M. van Schilfgaarde, M. T. Weller, T Bein, J. Nelson, P. Docampo, and P. R. F. Barnes. Reversible hydration of CH<sub>3</sub>NH<sub>3</sub>PbI<sub>3</sub> in films, single crystals, and solar cells, <a href="https://doi.org/10.1021/acs.chemmater.5b00660"><i>Chem. Matter.</i> <b>27</b>, 3397-3407 (2015)</a>
+COMMENTS: |
+    Hydrated single crystal CH<sub>3</sub>NH<sub>3</sub>PbI<sub>3</sub>.H<sub>2</sub>O; orientation unknown, hydrate phase grown on single crystal; room temperature; critical point model used for fit, 249 nm - 427 nm - fit not reliable for sub-bandgap region - see reference
 DATA:
   - type: tabulated nk
     data: |

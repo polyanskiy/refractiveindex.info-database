@@ -2,8 +2,10 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "P. Gant, F. Ghasemi, D. Maeso, C. Munuera, E. López-Elvira, R. Frisenda, D. Pérez De Lara, G. Rubio-Bollinger, M. Garcia-Hernandez, A. Castellanos-Gomez4. Optical contrast and refractive index of natural van der Waals heterostructure nanosheets of franckeite, <a href=\"https://doi.org/10.3762/bjnano.8.235\"><i>Beilstein J. Nanotechnol.</i> <b>8</b>, 2357-2362 (2017)</a> (Numerical data kindly provided by Andres Castellanos-Gomez)"
-COMMENTS: "Optical constants derived from reflectance spectra of 25-170 nm franckeite films on SiO<sub>2</sub>/Si substrate."
+REFERENCES: |
+    P. Gant, F. Ghasemi, D. Maeso, C. Munuera, E. López-Elvira, R. Frisenda, D. Pérez De Lara, G. Rubio-Bollinger, M. Garcia-Hernandez, A. Castellanos-Gomez4. Optical contrast and refractive index of natural van der Waals heterostructure nanosheets of franckeite, <a href="https://doi.org/10.3762/bjnano.8.235"><i>Beilstein J. Nanotechnol.</i> <b>8</b>, 2357-2362 (2017)</a> (Numerical data kindly provided by Andres Castellanos-Gomez)
+COMMENTS: |
+    Optical constants derived from reflectance spectra of 25-170 nm franckeite films on SiO<sub>2</sub>/Si substrate.
 DATA:
   - type: tabulated nk
     data: |

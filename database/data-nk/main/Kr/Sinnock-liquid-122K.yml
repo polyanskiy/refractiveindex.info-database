@@ -2,8 +2,10 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "A. C. Sinnock and B. L. Smith. Refractive indices of the condensed inert gases, <a href=\"https://doi.org/10.1103/PhysRev.181.1297\"><i>Phys. Rev.</i> <b>181</b>, 1297-1307 (1969)</a>"
-COMMENTS: "Liquid krypton at 122 K (-151.15 °C)."
+REFERENCES: |
+    A. C. Sinnock and B. L. Smith. Refractive indices of the condensed inert gases, <a href="https://doi.org/10.1103/PhysRev.181.1297"><i>Phys. Rev.</i> <b>181</b>, 1297-1307 (1969)</a>
+COMMENTS: |
+    Liquid krypton at 122 K (-151.15 °C).
 DATA:
   - type: tabulated n
     data: |

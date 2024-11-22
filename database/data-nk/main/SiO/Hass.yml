@@ -2,7 +2,8 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "G. Hass and C. D. Salzberg. Optical properties of silicon monoxide in the wavelength region from 0.24 to 14.0 microns, <a href=\"https://doi.org/10.1364/JOSA.44.000181\"><i>J. Opt. Soc. Am.</i> <b>44</b>, 181-183 (1954)</a> (Data points extracted from a figure)"
+REFERENCES: |
+    G. Hass and C. D. Salzberg. Optical properties of silicon monoxide in the wavelength region from 0.24 to 14.0 microns, <a href="https://doi.org/10.1364/JOSA.44.000181"><i>J. Opt. Soc. Am.</i> <b>44</b>, 181-183 (1954)</a> (Data points extracted from a figure)
 DATA:
   - type: tabulated n
     data: |

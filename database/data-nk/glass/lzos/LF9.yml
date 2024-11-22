@@ -2,7 +2,8 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "<a href=\"http://lzos.ru/en/index.php?option=com_content&task=view&id=54\">LZOS Clear optical glass catalogue</a>"
+REFERENCES: |
+    <a href="http://lzos.ru/en/index.php?option=com_content&task=view&id=54">LZOS Clear optical glass catalogue</a>
 DATA:
   - type: tabulated n
     data: |

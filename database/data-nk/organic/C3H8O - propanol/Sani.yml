@@ -2,8 +2,10 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "E. Sani and A. Dell'Oro. Spectral optical constants of ethanol and isopropanol from ultraviolet to far infrared, <a href=\"https://doi.org/10.1016/j.optmat.2016.06.041\"><i>Optical Materials</i> <b>60</b>, 137-141 (2016)</a>"
-COMMENTS: "Room temperature"
+REFERENCES: |
+    E. Sani and A. Dell'Oro. Spectral optical constants of ethanol and isopropanol from ultraviolet to far infrared, <a href="https://doi.org/10.1016/j.optmat.2016.06.041"><i>Optical Materials</i> <b>60</b>, 137-141 (2016)</a>
+COMMENTS: |
+    Room temperature
 DATA:
   - type: tabulated nk
     data: |

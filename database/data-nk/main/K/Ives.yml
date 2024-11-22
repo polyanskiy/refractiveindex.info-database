@@ -2,7 +2,8 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "H. E. Ives and H. B. Briggs. The optical constants of potassium, <a href=\"https://doi.org/10.1364/JOSA.26.000238\"><i>J. Opt. Soc. Am.</i> <b>26</b>, 238-246 (1936)</a>"
+REFERENCES: |
+    H. E. Ives and H. B. Briggs. The optical constants of potassium, <a href="https://doi.org/10.1364/JOSA.26.000238"><i>J. Opt. Soc. Am.</i> <b>26</b>, 238-246 (1936)</a>
 DATA:
   - type: tabulated nk
     data: |

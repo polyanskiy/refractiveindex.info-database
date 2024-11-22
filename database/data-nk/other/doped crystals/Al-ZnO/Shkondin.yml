@@ -2,8 +2,10 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "E. Shkondin, O. Takayama, M. E. Aryaee Panah, P. Liu, P. V. Larsen, M. D. Mar, F. Jensen, and A. V. Lavrinenko. Large-scale high aspect ratio Al-doped ZnO nanopillars arrays as anisotropic metamaterials, <a href=\"https://doi.org/10.1364/OME.7.001606\"><i>Opt. Mater. Express</i> <b>7</b>, 1606-1627 (2017)</a> (Numerical data kindly provided by Osamu Takayama)"
-COMMENTS: "Nanopillar."
+REFERENCES: |
+    E. Shkondin, O. Takayama, M. E. Aryaee Panah, P. Liu, P. V. Larsen, M. D. Mar, F. Jensen, and A. V. Lavrinenko. Large-scale high aspect ratio Al-doped ZnO nanopillars arrays as anisotropic metamaterials, <a href="https://doi.org/10.1364/OME.7.001606"><i>Opt. Mater. Express</i> <b>7</b>, 1606-1627 (2017)</a> (Numerical data kindly provided by Osamu Takayama)
+COMMENTS: |
+    Nanopillar.
 DATA:
   - type: tabulated nk
     data: |

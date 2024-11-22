@@ -2,8 +2,10 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "M. A. El-Sayed, G. A. Ermolaev, K. V. Voronin, R. I. Romanov, G. I. Tselikov, D. I. Yakubovsky, N. V. Doroshina, A. B. Nemtsov, V. R. Solovey, A. A. Voronov, S. M. Novikov, A. A. Vyshnevyy, A. M. Markeev, A. V. Arsenin, V. S. Volkov. Optical constants of chemical vapor deposited graphene for photonic applications, <a href=\"https://www.mdpi.com/2079-4991/11/5/1230\"><i>Nanomaterials</i>, <b>11</b>, 1230 (2021)</a> (Numerical data kindly provided by Georgy Ermolaev)"
-COMMENTS: "Broadband optical constants of CVD graphene in the spectral range 240–1000 nm."
+REFERENCES: |
+    M. A. El-Sayed, G. A. Ermolaev, K. V. Voronin, R. I. Romanov, G. I. Tselikov, D. I. Yakubovsky, N. V. Doroshina, A. B. Nemtsov, V. R. Solovey, A. A. Voronov, S. M. Novikov, A. A. Vyshnevyy, A. M. Markeev, A. V. Arsenin, V. S. Volkov. Optical constants of chemical vapor deposited graphene for photonic applications, <a href="https://www.mdpi.com/2079-4991/11/5/1230"><i>Nanomaterials</i>, <b>11</b>, 1230 (2021)</a> (Numerical data kindly provided by Georgy Ermolaev)
+COMMENTS: |
+    Broadband optical constants of CVD graphene in the spectral range 240–1000 nm.
 DATA:
   - type: tabulated nk
     data: |

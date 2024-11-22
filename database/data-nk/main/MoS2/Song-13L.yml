@@ -2,8 +2,10 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "B. Song, H. Gu, M. Fang, X. Chen, H. Jiang, R. Wang, T. Zhai, Y.-T. Ho, S. Liu. Layer-dependent dielectric function of wafer-scale 2D MoS<sub>2</sub>, <a href=\"https://doi.org/10.1002/adom.201801250\"><i>Adv. Optical Mater.</i> <b>7</b>, 1801250 (2019)</a> (Numerical data kindly provided by Baokun Song)"
-COMMENTS: "13-layer, 13L"
+REFERENCES: |
+    B. Song, H. Gu, M. Fang, X. Chen, H. Jiang, R. Wang, T. Zhai, Y.-T. Ho, S. Liu. Layer-dependent dielectric function of wafer-scale 2D MoS<sub>2</sub>, <a href="https://doi.org/10.1002/adom.201801250"><i>Adv. Optical Mater.</i> <b>7</b>, 1801250 (2019)</a> (Numerical data kindly provided by Baokun Song)
+COMMENTS: |
+    13-layer, 13L
 DATA:
   - type: tabulated nk
     data: |

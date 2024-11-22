@@ -2,7 +2,8 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "S. Yamaguchi, T. Hanyu. The optical properties of Rb, <a href=\"https://doi.org/10.1143/JPSJ.35.1371\"><i>J. Phys. Soc. Jpn.</i> <b>35</b>, 1371-1377 (1973)</a>"
+REFERENCES: |
+    S. Yamaguchi, T. Hanyu. The optical properties of Rb, <a href="https://doi.org/10.1143/JPSJ.35.1371"><i>J. Phys. Soc. Jpn.</i> <b>35</b>, 1371-1377 (1973)</a>
 DATA:
   - type: tabulated nk
     data: |

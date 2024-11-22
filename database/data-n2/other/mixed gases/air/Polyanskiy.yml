@@ -2,8 +2,10 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "M. N. Polyanskiy, M. Babzien, I. V. Pogorelsky, R. Kupfer, K. L. Vodopyanov, M. A. Palmer. Single-shot measurement of the nonlinear refractive index of air at 9.2 µm with a picosecond terawatt CO<sub>2</sub> laser, <a href=\"https://doi.org/10.1364/OL.423800\"> <i>Opt. Lett.</i> <b>46</b>, 2067-2070 (2021)</a>"
-COMMENTS: "2 ps at 9.2 µm. Spatial profile analysis."
+REFERENCES: |
+    M. N. Polyanskiy, M. Babzien, I. V. Pogorelsky, R. Kupfer, K. L. Vodopyanov, M. A. Palmer. Single-shot measurement of the nonlinear refractive index of air at 9.2 µm with a picosecond terawatt CO<sub>2</sub> laser, <a href="https://doi.org/10.1364/OL.423800"> <i>Opt. Lett.</i> <b>46</b>, 2067-2070 (2021)</a>
+COMMENTS: |
+    2 ps at 9.2 µm. Spatial profile analysis.
 DATA:
   - type: tabulated n2
     data: |

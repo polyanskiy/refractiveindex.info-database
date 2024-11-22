@@ -2,8 +2,10 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "S. Zollner, C. Lin, E. Schönherr, A. Böhringer, M. Cardona. The dielectric function of AlSb from 1.4 to 5.8 eV determined by spectroscopic ellipsometry, <a href=\"https://doi.org/10.1063/1.343888\"><i>J. Appl. Phys.</i> <b>66</b>, 383-387 (1989)</a>"
-COMMENTS: "300 K"
+REFERENCES: |
+    S. Zollner, C. Lin, E. Schönherr, A. Böhringer, M. Cardona. The dielectric function of AlSb from 1.4 to 5.8 eV determined by spectroscopic ellipsometry, <a href="https://doi.org/10.1063/1.343888"><i>J. Appl. Phys.</i> <b>66</b>, 383-387 (1989)</a>
+COMMENTS: |
+    300 K
 DATA:
   - type: tabulated nk
     data: |

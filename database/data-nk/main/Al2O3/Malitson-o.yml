@@ -2,8 +2,10 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "1) I. H. Malitson and M. J. Dodge. Refractive Index and Birefringence of Synthetic Sapphire, <a href=\"http://www.opticsinfobase.org/josa/abstract.cfm?uri=josa-62-11-1336\"><i>J. Opt. Soc. Am.</i> <b>62</b>, 1405 (1972)</a><br>2) M. J. Dodge, \"Refractive Index\" in Handbook of Laser Science and Technology, Volume IV, Optical Materials: Part 2, CRC Press, Boca Raton, 1986, p. 30<br>* Ref. 1 is a talk abstract in a conference program; Ref. 2 provides a dispersion formula"
-COMMENTS: "Synthetic sapphire, Ordinary ray (o), 20 °C"
+REFERENCES: |
+    1) I. H. Malitson and M. J. Dodge. Refractive Index and Birefringence of Synthetic Sapphire, <a href="http://www.opticsinfobase.org/josa/abstract.cfm?uri=josa-62-11-1336"><i>J. Opt. Soc. Am.</i> <b>62</b>, 1405 (1972)</a><br>2) M. J. Dodge, "Refractive Index" in Handbook of Laser Science and Technology, Volume IV, Optical Materials: Part 2, CRC Press, Boca Raton, 1986, p. 30<br>* Ref. 1 is a talk abstract in a conference program; Ref. 2 provides a dispersion formula
+COMMENTS: |
+    Synthetic sapphire, Ordinary ray (o), 20 °C
 DATA:
   - type: formula 1
     wavelength_range: 0.20 5.0

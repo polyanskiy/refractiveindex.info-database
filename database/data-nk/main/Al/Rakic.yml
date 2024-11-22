@@ -2,8 +2,10 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "A. D. Rakić. Algorithm for the determination of intrinsic optical constants of metal films: application to aluminum, <a href=\"https://doi.org/10.1364/AO.34.004755\"><i>Appl. Opt.</i> <b>34</b>, 4755-4767 (1995)</a>"
-COMMENTS: "\"Optical and electron-energy-loss data for evaporated-aluminum films have been critically analyzed and used in an iterative, self-consistent algorithm that represents a combination of the Kramers-Kronig analysis and the semiquantum-model application.\""
+REFERENCES: |
+    A. D. Rakić. Algorithm for the determination of intrinsic optical constants of metal films: application to aluminum, <a href="https://doi.org/10.1364/AO.34.004755"><i>Appl. Opt.</i> <b>34</b>, 4755-4767 (1995)</a>
+COMMENTS: |
+    \Optical and electron-energy-loss data for evaporated-aluminum films have been critically analyzed and used in an iterative, self-consistent algorithm that represents a combination of the Kramers-Kronig analysis and the semiquantum-model application.""
 DATA:
   - type: tabulated nk
     data: |

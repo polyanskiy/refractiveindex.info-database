@@ -2,8 +2,10 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "R. L. Olmon, B. Slovick, T. W. Johnson, D. Shelton, S.-H. Oh, G. D. Boreman, and M. B. Raschke. Optical dielectric function of gold, <a href=\"https://doi.org/10.1103/PhysRevB.86.235147\"><i>Phys. Rev. B</i> <b>86</b>, 235147 (2012)</a> (See Supplemental Material)"
-COMMENTS: "Template-stripped gold"
+REFERENCES: |
+    R. L. Olmon, B. Slovick, T. W. Johnson, D. Shelton, S.-H. Oh, G. D. Boreman, and M. B. Raschke. Optical dielectric function of gold, <a href="https://doi.org/10.1103/PhysRevB.86.235147"><i>Phys. Rev. B</i> <b>86</b>, 235147 (2012)</a> (See Supplemental Material)
+COMMENTS: |
+    Template-stripped gold
 DATA:
   - type: tabulated nk
     data: |

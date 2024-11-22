@@ -2,8 +2,10 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "1) T. Kawashima, H. Yoshikawa, S. Adachi. Optical properties of hexagonal GaN, <a href=\"https://doi.org/10.1063/1.365671\"><i>J. Appl. Phys.</i> <b>82</b>, 3528-3535 (1997)</a><br>2) S. Logothetidis, J. Petalas, M. Cardona, T. D. Moustakas. Optical properties and temperature dependence of the interband transitions of cubic and hexagonal GaN, <a href=\"https://doi.org/10.1103/PhysRevB.50.18017\"><i>Phys. Rev. B</i> <b>50</b>, 18017-18029 (1994)</a><br>* Authors of Ref. 1 provide a simplified model of the interband transitions (MDF) based on their experimental data combined with experimental data from Ref. 2.<br>[<a href=\"https://github.com/polyanskiy/refractiveindex.info-scripts/blob/master/scripts/Kawashima%201997%20-%20GaN.py\">Calculation script (Python)</a>]"
-COMMENTS: "Single-crystalline hexagonal GaN (α-GaN) film on (0001) sapphire substrate. Ordinary ray (o, E⊥c). Room temperature."
+REFERENCES: |
+    1) T. Kawashima, H. Yoshikawa, S. Adachi. Optical properties of hexagonal GaN, <a href="https://doi.org/10.1063/1.365671"><i>J. Appl. Phys.</i> <b>82</b>, 3528-3535 (1997)</a><br>2) S. Logothetidis, J. Petalas, M. Cardona, T. D. Moustakas. Optical properties and temperature dependence of the interband transitions of cubic and hexagonal GaN, <a href="https://doi.org/10.1103/PhysRevB.50.18017"><i>Phys. Rev. B</i> <b>50</b>, 18017-18029 (1994)</a><br>* Authors of Ref. 1 provide a simplified model of the interband transitions (MDF) based on their experimental data combined with experimental data from Ref. 2.<br>[<a href="https://github.com/polyanskiy/refractiveindex.info-scripts/blob/master/scripts/Kawashima%201997%20-%20GaN.py">Calculation script (Python)</a>]
+COMMENTS: |
+    Single-crystalline hexagonal GaN (α-GaN) film on (0001) sapphire substrate. Ordinary ray (o, E⊥c). Room temperature.
 DATA:
   - type: tabulated nk
     data: |

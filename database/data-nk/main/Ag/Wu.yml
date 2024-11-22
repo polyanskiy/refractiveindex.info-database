@@ -2,8 +2,10 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "Y. Wu, C. Zhang, N. M. Estakhri, Y. Zhao, J. Kim, M. Zhang, X. X. Liu, G. K. Pribil, A. Alù, C. K. Shih, X. Li. Intrinsic optical properties and enhanced plasmonic response of epitaxial silver, <a href=\"https://doi.org/10.1002/adma.201401474\"><i>Adv. Mater.</i> <b>26</b>, 6106-6110 (2014)</a> (See Supporting information)"
-COMMENTS: "<u>Abstract</u>: Using atomically smooth epitaxial silver films, new optical permittivity highlighting significant loss reduction in the visible frequency range is extracted. Largely enhanced propagation distances of surface plasmon polaritons are measured, confirming the low intrinsic loss in silver. The new permittivity is free of extrinsic spectral features associated with grain boundaries and localized plasmons inevitably present in thermally deposited films."
+REFERENCES: |
+    Y. Wu, C. Zhang, N. M. Estakhri, Y. Zhao, J. Kim, M. Zhang, X. X. Liu, G. K. Pribil, A. Alù, C. K. Shih, X. Li. Intrinsic optical properties and enhanced plasmonic response of epitaxial silver, <a href="https://doi.org/10.1002/adma.201401474"><i>Adv. Mater.</i> <b>26</b>, 6106-6110 (2014)</a> (See Supporting information)
+COMMENTS: |
+    <u>Abstract</u>: Using atomically smooth epitaxial silver films, new optical permittivity highlighting significant loss reduction in the visible frequency range is extracted. Largely enhanced propagation distances of surface plasmon polaritons are measured, confirming the low intrinsic loss in silver. The new permittivity is free of extrinsic spectral features associated with grain boundaries and localized plasmons inevitably present in thermally deposited films.
 DATA:
   - type: tabulated nk
     data: |

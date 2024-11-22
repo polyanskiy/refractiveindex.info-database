@@ -2,8 +2,10 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "D. Franta, M.-G. Mureșan. Wide spectral range optical characterization of yttrium aluminum garnet (YAG) single crystal by universal dispersion model, <a href=\"https://doi.org/10.1364/OME.441088\"><i>Opt. Mater. Express</i> <b>11</b>, 3930–3945 (2021)</a> (Numerical data kindly provided by Daniel Franta)"
-COMMENTS: "Single-crystal Y<sub>3</sub>Al<sub>5</sub>O<sub>12</sub>; Heterogenous data processing combining ellipsometric and spectrophotometric measurements with refractive index data (Zelmon et al. 1998); 2 mm thick plate; Room temperature."
+REFERENCES: |
+    D. Franta, M.-G. Mureșan. Wide spectral range optical characterization of yttrium aluminum garnet (YAG) single crystal by universal dispersion model, <a href="https://doi.org/10.1364/OME.441088"><i>Opt. Mater. Express</i> <b>11</b>, 3930–3945 (2021)</a> (Numerical data kindly provided by Daniel Franta)
+COMMENTS: |
+    Single-crystal Y<sub>3</sub>Al<sub>5</sub>O<sub>12</sub>; Heterogenous data processing combining ellipsometric and spectrophotometric measurements with refractive index data (Zelmon et al. 1998); 2 mm thick plate; Room temperature.
 DATA:
   - type: tabulated nk
     data: |

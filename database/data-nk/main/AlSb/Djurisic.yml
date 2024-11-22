@@ -2,7 +2,8 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "A. B. Djurišić, E. H. Li, D. Rakić, M. L. Majewski. Modeling the optical properties of AlSb, GaSb, and InSb, <a href=\"https://doi.org/10.1007/s003390050006\"><i>Appl. Phys. A</i> <b>70</b>, 29-32 (2000)</a><br>[<a href=\"https://github.com/polyanskiy/refractiveindex.info-scripts/blob/master/scripts/Djurisic%202000%20-%20AlSb.py\">Calculation script (Python)</a>]"
+REFERENCES: |
+    A. B. Djurišić, E. H. Li, D. Rakić, M. L. Majewski. Modeling the optical properties of AlSb, GaSb, and InSb, <a href="https://doi.org/10.1007/s003390050006"><i>Appl. Phys. A</i> <b>70</b>, 29-32 (2000)</a><br>[<a href="https://github.com/polyanskiy/refractiveindex.info-scripts/blob/master/scripts/Djurisic%202000%20-%20AlSb.py">Calculation script (Python)</a>]
 DATA:
   - type: tabulated nk
     data: |

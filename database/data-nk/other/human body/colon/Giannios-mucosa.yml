@@ -2,8 +2,10 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "P. Giannios, S. Koutsoumpos, K. G. Toutouzas, M. Matiatou, G. C. Zografos, and K. Moutzouris. Complex refractive index of normal and malignant human colorectal tissue in the visible and near-infrared, <a href=\"https://doi.org/10.1002/jbio.201600001\"><i>J. Biophotonics</i> <b>?</b>, ?-? (2016)</a>"
-COMMENTS: "24 °C ± 2 °C."
+REFERENCES: |
+    P. Giannios, S. Koutsoumpos, K. G. Toutouzas, M. Matiatou, G. C. Zografos, and K. Moutzouris. Complex refractive index of normal and malignant human colorectal tissue in the visible and near-infrared, <a href="https://doi.org/10.1002/jbio.201600001"><i>J. Biophotonics</i> <b>?</b>, ?-? (2016)</a>
+COMMENTS: |
+    24 °C ± 2 °C.
 DATA:
   - type: formula 5
     wavelength_range: 0.45 1.551

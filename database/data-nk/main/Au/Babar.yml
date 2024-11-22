@@ -2,7 +2,8 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "S. Babar and J. H. Weaver. Optical constants of Cu, Ag, and Au revisited, <a href=\"https://doi.org/10.1364/AO.54.000477\"><i>Appl. Opt.</i> <b>54</b>, 477-481 (2015)</a>"
+REFERENCES: |
+    S. Babar and J. H. Weaver. Optical constants of Cu, Ag, and Au revisited, <a href="https://doi.org/10.1364/AO.54.000477"><i>Appl. Opt.</i> <b>54</b>, 477-481 (2015)</a>
 DATA:
   - type: tabulated nk
     data: |

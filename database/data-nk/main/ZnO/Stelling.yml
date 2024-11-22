@@ -2,8 +2,10 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "C. Stelling, C. R. Singh, M. Karg, T. A. F. König, M. Thelakkat, M. Retsch. Plasmonic nanomeshes: their ambivalent role as transparent electrodes in organic solar cells, <a href=\"https://doi.org/10.1038/srep42530\"><i>Sci. Rep.</i> <b>7</b>, 42530 (2017)</a> - see Supplementary information (Numerical data kindly provided by Tobias König)"
-COMMENTS: "Isotropic ZnO thin film (thickness 40 nm) on silicon substrate."
+REFERENCES: |
+    C. Stelling, C. R. Singh, M. Karg, T. A. F. König, M. Thelakkat, M. Retsch. Plasmonic nanomeshes: their ambivalent role as transparent electrodes in organic solar cells, <a href="https://doi.org/10.1038/srep42530"><i>Sci. Rep.</i> <b>7</b>, 42530 (2017)</a> - see Supplementary information (Numerical data kindly provided by Tobias König)
+COMMENTS: |
+    Isotropic ZnO thin film (thickness 40 nm) on silicon substrate.
 DATA:
   - type: tabulated nk
     data: |

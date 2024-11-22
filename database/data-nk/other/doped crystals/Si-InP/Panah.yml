@@ -2,8 +2,10 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "M. E. A.  Panah, O. Takayama, S. V. Morozov, K. E. Kudryavtsev, E. S. Semenova, A. V. Lavrinenko. Highly doped InP as a low loss plasmonic material for mid-IR region, <a href=\"https://doi.org/10.1364/OE.24.029077\"><i>Opt. Express</i> <b>24</b>, 29077-29088 (2016)</a> (Numerical data kindly provided by Osamu Takayama)"
-COMMENTS: "400 nm silicon-doped InP (Si:InP) layer on undoped InP substrate."
+REFERENCES: |
+    M. E. A.  Panah, O. Takayama, S. V. Morozov, K. E. Kudryavtsev, E. S. Semenova, A. V. Lavrinenko. Highly doped InP as a low loss plasmonic material for mid-IR region, <a href="https://doi.org/10.1364/OE.24.029077"><i>Opt. Express</i> <b>24</b>, 29077-29088 (2016)</a> (Numerical data kindly provided by Osamu Takayama)
+COMMENTS: |
+    400 nm silicon-doped InP (Si:InP) layer on undoped InP substrate.
 DATA:
   - type: tabulated nk
     data: |

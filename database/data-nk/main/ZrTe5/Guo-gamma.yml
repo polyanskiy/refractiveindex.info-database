@@ -2,8 +2,10 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "Z. Guo, H. Gu, M. Fang, B. Song, W. Wang, X. Chen, C. Zhang, H. Jiang, L. Wang, S. Liu. Complete dielectric tensor and giant optical anisotropy in quasi-one-dimensional ZrTe<sub>5</sub>, <a href=\"https://doi.org/10.1021/acsmaterialslett.1c00026\"><i>ACS Mater. Lett.</i>, <b>3</b>, 6525–6534 (2021)</a> (Numerical data kindly provided by Zhengfeng Guo)"
-COMMENTS: "n<sub>γ</sub>, k<sub>γ</sub>; room temperature."
+REFERENCES: |
+    Z. Guo, H. Gu, M. Fang, B. Song, W. Wang, X. Chen, C. Zhang, H. Jiang, L. Wang, S. Liu. Complete dielectric tensor and giant optical anisotropy in quasi-one-dimensional ZrTe<sub>5</sub>, <a href="https://doi.org/10.1021/acsmaterialslett.1c00026"><i>ACS Mater. Lett.</i>, <b>3</b>, 6525–6534 (2021)</a> (Numerical data kindly provided by Zhengfeng Guo)
+COMMENTS: |
+    n<sub>γ</sub>, k<sub>γ</sub>; room temperature.
 DATA:
   - type: tabulated nk
     data: |

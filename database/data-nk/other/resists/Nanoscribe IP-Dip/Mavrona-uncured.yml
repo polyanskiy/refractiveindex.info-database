@@ -2,8 +2,10 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "E. Mavrona, A. Theodosi, K. Mackosz, E. Perivolari, I. Utke, J. Michler, J. Schwiedrzik, M. Kafesaki, O. Tsilipakos, A. Xomalis, Refractive index measurement of IP-S and IP-Dip photoresists at THz frequencies and validation via 3D photonic metamaterials made by direct laser writing, <a href=\"https://doi.org/10.1364/OME.500287\"><i>Opt. Mater. Express</i>, <b>13</b>, 3355-3364 (2023)</a><br>(Numerical data kindly provided by Angelos Xomalis)"
-COMMENTS: "Nanoscribe IP-Dip photoresist for direct laser writing. Uncured."
+REFERENCES: |
+    E. Mavrona, A. Theodosi, K. Mackosz, E. Perivolari, I. Utke, J. Michler, J. Schwiedrzik, M. Kafesaki, O. Tsilipakos, A. Xomalis, Refractive index measurement of IP-S and IP-Dip photoresists at THz frequencies and validation via 3D photonic metamaterials made by direct laser writing, <a href="https://doi.org/10.1364/OME.500287"><i>Opt. Mater. Express</i>, <b>13</b>, 3355-3364 (2023)</a><br>(Numerical data kindly provided by Angelos Xomalis)
+COMMENTS: |
+    Nanoscribe IP-Dip photoresist for direct laser writing. Uncured.
 DATA:
   - type: tabulated nk
     data: |

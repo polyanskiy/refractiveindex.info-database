@@ -2,8 +2,10 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "R Kerremans, C. Kaiser, W. Li, N. Zarrabi, P. Meredith, A. Armin, The optical constants of solution-processed semiconductors—new challenges with perovskites and non-fullerene acceptors, <a href=\"https://doi.org/10.1002/adom.202000319\"><i>Adv. Opt. Mater.</i> <b>8</b>, 2000319 (2020)</a> (Data points extracted from Figure 4, PBDB-T:ITIC, Ellipsometry)"
-COMMENTS: "PBDB-T:ITIC (1:1) thin film."
+REFERENCES: |
+    R Kerremans, C. Kaiser, W. Li, N. Zarrabi, P. Meredith, A. Armin, The optical constants of solution-processed semiconductors—new challenges with perovskites and non-fullerene acceptors, <a href="https://doi.org/10.1002/adom.202000319"><i>Adv. Opt. Mater.</i> <b>8</b>, 2000319 (2020)</a> (Data points extracted from Figure 4, PBDB-T:ITIC, Ellipsometry)
+COMMENTS: |
+    PBDB-T:ITIC (1:1) thin film.
 DATA:
   - type: tabulated n
     data: |

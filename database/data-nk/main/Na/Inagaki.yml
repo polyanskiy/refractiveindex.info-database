@@ -2,7 +2,8 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "T. Inagaki, L. C. Emerson, E. T. Arakawa, M. W. Williams. Optical properties of solid Na and Li between 0.6 and 3.8 eV, <a href=\"https://doi.org/10.1103/PhysRevB.13.2305\"><i>Phs. Rev. B</i> <b>13</b>, 2305-2313 (1976)</a>"
+REFERENCES: |
+    T. Inagaki, L. C. Emerson, E. T. Arakawa, M. W. Williams. Optical properties of solid Na and Li between 0.6 and 3.8 eV, <a href="https://doi.org/10.1103/PhysRevB.13.2305"><i>Phs. Rev. B</i> <b>13</b>, 2305-2313 (1976)</a>
 DATA:
   - type: tabulated nk
     data: |

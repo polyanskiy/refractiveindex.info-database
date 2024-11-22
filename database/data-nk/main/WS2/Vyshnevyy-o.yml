@@ -2,8 +2,10 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "A. A. Vyshnevyy, G. A. Ermolaev, D. V. Grudinin, K. V. Voronin, I. Kharichkin, A. Mazitov, I. A. Kruglov, D. I. Yakubovky, P. Mishra, R. V. Kirtaev, A. V. Arsenin, K. S. Novoselov, L. Martin-Moreno, V. S. Volkov. Van der Waals Materials for overcoming fundamental limitations in photonic integrated circuitry, <a href=\"https://pubs.acs.org/doi/abs/10.1021/acs.nanolett.3c02051\"><i>Nano Lett.</i>, <b>23</b>, 8057–8064 (2023)</a> (Numerical data kindly provided by Georgy Ermolaev)"
-COMMENTS: "Bulk WS<sub>2</sub>. Ordinary ray (o)."
+REFERENCES: |
+    A. A. Vyshnevyy, G. A. Ermolaev, D. V. Grudinin, K. V. Voronin, I. Kharichkin, A. Mazitov, I. A. Kruglov, D. I. Yakubovky, P. Mishra, R. V. Kirtaev, A. V. Arsenin, K. S. Novoselov, L. Martin-Moreno, V. S. Volkov. Van der Waals Materials for overcoming fundamental limitations in photonic integrated circuitry, <a href="https://pubs.acs.org/doi/abs/10.1021/acs.nanolett.3c02051"><i>Nano Lett.</i>, <b>23</b>, 8057–8064 (2023)</a> (Numerical data kindly provided by Georgy Ermolaev)
+COMMENTS: |
+    Bulk WS<sub>2</sub>. Ordinary ray (o).
 DATA:
   - type: tabulated nk
     data: |

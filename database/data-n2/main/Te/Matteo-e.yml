@@ -2,8 +2,10 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "D. Matteo, S. Tochitsky, C. Joshi. Tellurium crystal pumped with ultrafast 10 µm pulses demonstrates a giant nonlinear optical response, <a href=\"https://doi.org/10.1364/OE.497186\"><i>Opt. Express</i> <b>31</b>, 27239 (2023)</a>"
-COMMENTS: "Extraordinary ray (e). 220 fs. Spectral broadening."
+REFERENCES: |
+    D. Matteo, S. Tochitsky, C. Joshi. Tellurium crystal pumped with ultrafast 10 µm pulses demonstrates a giant nonlinear optical response, <a href="https://doi.org/10.1364/OE.497186"><i>Opt. Express</i> <b>31</b>, 27239 (2023)</a>
+COMMENTS: |
+    Extraordinary ray (e). 220 fs. Spectral broadening.
 DATA:
   - type: tabulated n2
     data: |

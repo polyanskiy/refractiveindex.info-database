@@ -2,7 +2,8 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "<a href=\"https://refractiveindex.info/download/data/2017/schott-infrared-chalcogenide-glasses-irg-22-english-us-11052017.pdf\">SCHOTT Infrared Chalcogenide Glasses - IRG 22 Product flyer (Version Aptil 2017)</a>"
+REFERENCES: |
+    <a href="https://refractiveindex.info/download/data/2017/schott-infrared-chalcogenide-glasses-irg-22-english-us-11052017.pdf">SCHOTT Infrared Chalcogenide Glasses - IRG 22 Product flyer (Version Aptil 2017)</a>
 DATA:
   - type: formula 2
     wavelength_range: 1.0 12
@@ -45,7 +46,7 @@ SPECS:
     wavelength_is_vacuum: false
     temperature: 20.0 °C
     thermal_dispersion:
-      - type: "Schott formula"
+      - type: Schott formula
         coefficients: 6.41e-05 0 0 1.68e-07 0 9.96e-01
     density: 4.41 g/cm<sup>3</sup>
     thermal_expansion:

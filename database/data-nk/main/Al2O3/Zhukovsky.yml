@@ -2,8 +2,10 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "S. V. Zhukovsky, A. Andryieuski, O. Takayama, E. Shkondin, R. Malureanu, F. Jensen, A. V. Lavrinenko. Experimental demonstration of effective medium approximation breakdown in deeply subwavelength all-dielectric multilayers, <a href=\"https://doi.org/10.1103/PhysRevLett.115.177402\"><i>Phys. Rev. Lett.</i> <b>115</b>, 177402 (2015)</a> (Numerical data kindly provided by Osamu Takayama)"
-COMMENTS: "20 nm thick films on Si substrate deposited by atomic layer deposition (ALD) at 120 °C deposition temperature."
+REFERENCES: |
+    S. V. Zhukovsky, A. Andryieuski, O. Takayama, E. Shkondin, R. Malureanu, F. Jensen, A. V. Lavrinenko. Experimental demonstration of effective medium approximation breakdown in deeply subwavelength all-dielectric multilayers, <a href="https://doi.org/10.1103/PhysRevLett.115.177402"><i>Phys. Rev. Lett.</i> <b>115</b>, 177402 (2015)</a> (Numerical data kindly provided by Osamu Takayama)
+COMMENTS: |
+    20 nm thick films on Si substrate deposited by atomic layer deposition (ALD) at 120 °C deposition temperature.
 DATA:
   - type: tabulated nk
     data: |

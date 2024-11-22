@@ -2,8 +2,10 @@
 # refractiveindex.info database is in the public domain
 # copyright and related rights waived via CC0 1.0
 
-REFERENCES: "R. J. Moerland and J. P. Hoogenboom. Subnanometer-accuracy optical distance ruler based on fluorescence quenching by transparent conductors, <a href=\"https://doi.org/10.1364/OPTICA.3.000112\"><i>Optica</i> <b>3</b>, 112-117 (2016)</a> - see <i>Supplementary materials</i><br>(Numerical data kindly provided by Robert Moerland)"
-COMMENTS: "17 nm ITO film on D263M glass substrate. Purchased from Optics Balzers. Surface roughness (1 sigma) = 0.4 nm. Variable angle spectroscopic ellipsometry data + normal-incidence transmittance data fitted over the 400 to 900 nm range."
+REFERENCES: |
+    R. J. Moerland and J. P. Hoogenboom. Subnanometer-accuracy optical distance ruler based on fluorescence quenching by transparent conductors, <a href="https://doi.org/10.1364/OPTICA.3.000112"><i>Optica</i> <b>3</b>, 112-117 (2016)</a> - see <i>Supplementary materials</i><br>(Numerical data kindly provided by Robert Moerland)
+COMMENTS: |
+    17 nm ITO film on D263M glass substrate. Purchased from Optics Balzers. Surface roughness (1 sigma) = 0.4 nm. Variable angle spectroscopic ellipsometry data + normal-incidence transmittance data fitted over the 400 to 900 nm range.
 DATA:
   - type: tabulated nk
     data: |
