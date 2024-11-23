@@ -3,8 +3,14 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: |
-    "1) S. Ninomiya and S. Adachi. Optical properties of cubic and hexagonal CdSe, <a href="https://doi.org/10.1063/1.359815"><i>J. Appl. Phys.</i> <b>78</b>, 4681-4689 (1995)</a><br>2) Y. D. Kim, M. V. Klein, S. F. Ren, Y. C. Chang, H. Luo, N. Samarth, J. K. Furdyna.
-    Optical properties of zinc-blende CdSe and Zn<sub>x</sub>Cd<sub>1−x</sub>Se films grown on GaAs, <a href="https://doi.org/10.1103/PhysRevB.49.7262"><i>Phys. Rev. B</i> <b>49</b>, 7262-7270 (1994)</a><br>* Authors of Ref. 1 provide a simplified model of the interband transitions (MDF) based on the experimental data from Ref. 2.<br>[<a href="https://github.com/polyanskiy/refractiveindex.info-scripts/blob/master/scripts/Ninomiya%201995%20-%20cubic%20CdSe.py">Calculation script (Python)</a>]"
+    1) S. Ninomiya and S. Adachi.
+    Optical properties of cubic and hexagonal CdSe,
+    <a href="https://doi.org/10.1063/1.359815"><i>J. Appl. Phys.</i> <b>78</b>, 4681-4689 (1995)</a><br>
+    2) Y. D. Kim, M. V. Klein, S. F. Ren, Y. C. Chang, H. Luo, N. Samarth, J. K. Furdyna.
+    Optical properties of zinc-blende CdSe and Zn<sub>x</sub>Cd<sub>1−x</sub>Se films grown on GaAs,
+    <a href="https://doi.org/10.1103/PhysRevB.49.7262"><i>Phys. Rev. B</i> <b>49</b>, 7262-7270 (1994)</a><br>
+    * Authors of Ref. 1 provide a simplified model of the interband transitions (MDF) based on the experimental data from Ref. 2.<br>
+    [<a href="https://github.com/polyanskiy/refractiveindex.info-scripts/blob/master/scripts/Ninomiya%201995%20-%20cubic%20CdSe.py">Calculation script (Python)</a>]
 COMMENTS: |
     Cubic CdSe. Room temperature.
 DATA:
