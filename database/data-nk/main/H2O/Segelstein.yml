@@ -1257,6 +1257,4 @@ DATA:
         9.9083193E+06 8.848600 7.0111643E-03
         1.0000000E+07 8.848600 6.9309081E-03
 SPECS:
-    n_is_absolute: true
-    wavelength_is_vacuum: true
     temperature: 25 °C

@@ -11,7 +11,5 @@ DATA:
     wavelength_range: 0.45 1.2
     coefficients: 0 3.263 0.1644
 SPECS:
-    n_is_absolute: false
-    wavelength_is_vacuum: false
     film_thickness: 1e-6
     substrate: SiO2

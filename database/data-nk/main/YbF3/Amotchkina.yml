@@ -262,7 +262,5 @@ DATA:
         13.9550 7.00E-02
         13.9750 7.04E-02
 SPECS:
-    n_is_absolute: false
-    wavelength_is_vacuum: false
     substrate: ZnSe
     film_thickness: 1.95e-6

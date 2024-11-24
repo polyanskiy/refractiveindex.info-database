@@ -2010,8 +2010,6 @@ DATA:
         19.9901 45.605 59.053
         20.0000 45.620 59.066
 SPECS:
-    n_is_absolute: true
-    wavelength_is_vacuum: true
     film_thickness: 78e-9
     substrate: Si
     deposition_method: MS

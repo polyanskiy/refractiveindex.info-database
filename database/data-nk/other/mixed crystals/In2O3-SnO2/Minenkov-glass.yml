@@ -716,7 +716,5 @@ DATA:
         1.68520 0.23301 1.76384
         1.68869 0.23337 1.77193
 SPECS:
-    n_is_absolute: true
-    wavelength_is_vacuum: true
     film_thickness: 110e-9
     substrate: glass

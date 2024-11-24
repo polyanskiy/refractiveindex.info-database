@@ -708,8 +708,6 @@ DATA:
         1.68540 3.167038 6.683687
         1.68888 3.176147 6.693765
 SPECS:
-    n_is_absolute: true
-    wavelength_is_vacuum: true
     film_thickness: 105e-9
     substrate: Si
     annealing_temperature: 800 °C

@@ -1094,6 +1094,4 @@ DATA:
         1.687285E+00 2.367287E+00 0.000000E+00
         1.689784E+00 2.367273E+00 0.000000E+00
 SPECS:
-    n_is_absolute: true
-    wavelength_is_vacuum: true
     substrate: glass

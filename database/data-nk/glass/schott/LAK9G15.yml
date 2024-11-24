@@ -30,8 +30,6 @@ DATA:
         2.325 5.2793E-06
         2.500 1.4583E-05
 SPECS:
-    n_is_absolute: false
-    wavelength_is_vacuum: false
     nd: 1.69064
     Vd: 54.76
     glass_code: 691548.353

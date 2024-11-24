@@ -33,6 +33,4 @@ DATA:
         1.800 0.230 7.64
         2.000 0.310 8.43
 SPECS:
-    n_is_absolute: true
-    wavelength_is_vacuum: true
     temperature: 120 °C

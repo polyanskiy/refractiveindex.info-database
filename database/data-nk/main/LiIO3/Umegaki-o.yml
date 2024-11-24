@@ -10,6 +10,3 @@ DATA:
   - type: formula 4
     wavelength_range: 0.4 5.7
     coefficients: 3.415716 0.047031 0 0.035306 1 0 0 0 0 -0.008801 2
-SPECS:
-    n_is_absolute: false
-    wavelength_is_vacuum: false

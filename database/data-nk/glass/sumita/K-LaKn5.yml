@@ -32,8 +32,6 @@ DATA:
         1.500 1.8041E-07
         2.000 6.4970E-07
 SPECS:
-    n_is_absolute: false
-    wavelength_is_vacuum: false
     temperature: 20.0 °C
     thermal_dispersion:
       - type: Schott formula

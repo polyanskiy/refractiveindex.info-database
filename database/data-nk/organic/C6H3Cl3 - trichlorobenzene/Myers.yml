@@ -15355,6 +15355,4 @@ DATA:
         2.49902E+01 1.58543E+00 1.51656E-02
         2.50203E+01 1.58543E+00 1.45205E-02
 SPECS:
-    n_is_absolute: true
-    wavelength_is_vacuum: true
     temperature: 26 °C

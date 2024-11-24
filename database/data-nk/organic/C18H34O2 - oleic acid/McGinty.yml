@@ -4417,6 +4417,4 @@ DATA:
         13.311704 1.47197 0.00253
         13.328814 1.47023 0.00453
 SPECS:
-    n_is_absolute: true
-    wavelength_is_vacuum: true
     temperature: 298

@@ -1210,7 +1210,5 @@ DATA:
         4.3792 5.58436 5.24112
         4.3977 5.59544 5.25296
 SPECS:
-    n_is_absolute: true
-    wavelength_is_vacuum: true
     substrate: SiC
     film_thickness: 1L

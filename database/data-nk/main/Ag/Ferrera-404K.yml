@@ -615,7 +615,5 @@ DATA:
         1.445811 0.314221 9.964140
         1.449249 0.315125 9.987024
 SPECS:
-    n_is_absolute: true
-    wavelength_is_vacuum: true
     temperature: 404 K
     substrate: Si/SiO2

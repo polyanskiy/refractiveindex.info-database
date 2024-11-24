@@ -509,7 +509,5 @@ DATA:
         0.997451 3.082050 1.821871
         0.999007 3.084235 1.824003
 SPECS:
-    n_is_absolute: true
-    wavelength_is_vacuum: true
     substrate: Si
     film_thickness: 1L

@@ -131,7 +131,5 @@ DATA:
         2.49 1.000272906525
         2.50 1.000272904557
 SPECS:
-    n_is_absolute: true
-    wavelength_is_vacuum: true
     temperature: 15 °C
     pressure: 101325 Pa

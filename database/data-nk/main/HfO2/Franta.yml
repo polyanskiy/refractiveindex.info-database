@@ -2441,7 +2441,5 @@ DATA:
         124.764 4.381871769089 0.3455379116984
         125.124 4.381744481687 0.3444736390195
 SPECS:
-    n_is_absolute: true
-    wavelength_is_vacuum: true
     film_thickness: 112.7e-9
     substrate: c-Si

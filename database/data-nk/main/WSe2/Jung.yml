@@ -197,7 +197,5 @@ DATA:
         0.88087 4.09239 0.03144
         0.89352 4.06830 0.02343
 SPECS:
-    n_is_absolute: true
-    wavelength_is_vacuum: true
     film_thickness: 1L
     substrate: Al2O3

@@ -708,7 +708,5 @@ DATA:
         1.68540 3.606338 5.569190
         1.68888 3.615960 5.576678
 SPECS:
-    n_is_absolute: true
-    wavelength_is_vacuum: true
     film_thickness: 105e-9
     substrate: Si

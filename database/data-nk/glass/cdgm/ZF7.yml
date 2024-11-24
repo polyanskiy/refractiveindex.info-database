@@ -38,8 +38,6 @@ DATA:
         2.200 9.3489E-07
         2.400 1.6340E-06
 SPECS:
-    n_is_absolute: false
-    wavelength_is_vacuum: false
     temperature: 20.0 °C
     nd: 1.806277
     Vd: 25.380144

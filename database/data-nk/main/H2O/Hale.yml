@@ -179,6 +179,4 @@ DATA:
         190 2.119 0.501
         200 2.130 0.504
 SPECS:
-    n_is_absolute: true
-    wavelength_is_vacuum: true
     temperature: 25 °C

@@ -113,8 +113,6 @@ DATA:
         0.830 3.752 0.007
         0.840 3.750 0.004
 SPECS:
-    n_is_absolute: true
-    wavelength_is_vacuum: false
     x: 0.85
     thickness: 7 μm
     substrate: Si

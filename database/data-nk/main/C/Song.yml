@@ -1094,7 +1094,5 @@ DATA:
         1.6875 3.399492 2.586866
         1.6900 3.402166 2.589762
 SPECS:
-    n_is_absolute: true
-    wavelength_is_vacuum: true
     substrate: quartz_glass
     film_thickness: 1L

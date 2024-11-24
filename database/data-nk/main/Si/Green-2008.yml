@@ -131,6 +131,4 @@ DATA:
         1.4400e+00 3.4860e+00 2.0626e-13
         1.4500e+00 3.4850e+00 1.3846e-13
 SPECS:
-    n_is_absolute: true
-    wavelength_is_vacuum: true
     temperature: 300 K

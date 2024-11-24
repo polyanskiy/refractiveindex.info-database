@@ -159,6 +159,3 @@ DATA:
         1.239842 1.9148 11.0895
         1.653123 0.9686 14.3034
         2.479684 0.8071 22.4158
-SPECS:
-    n_is_absolute: true
-    wavelength_is_vacuum: true

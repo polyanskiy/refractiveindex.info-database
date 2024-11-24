@@ -311,7 +311,5 @@ DATA:
         3.29 3.131 16.346
         3.3 3.141 16.498
 SPECS:
-    n_is_absolute: true
-    wavelength_is_vacuum: true
     film_thickness: 4.1e-9
     substrate: MoS2/SiO2

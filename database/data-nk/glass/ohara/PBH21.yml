@@ -20,8 +20,6 @@ DATA:
         0.650 6.7684E-08
         0.700 8.4189E-08
 SPECS:
-    n_is_absolute: false
-    wavelength_is_vacuum: false
     temperature: 25.0 °C
     thermal_dispersion:
       - type: Schott formula

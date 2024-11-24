@@ -74,7 +74,5 @@ DATA:
         0.99 3.60E-05
         1.00 0.00E+00
 SPECS:
-    n_is_absolute: false
-    wavelength_is_vacuum: false
     substrate: Ge
     film_thickness: 1.00e-6

@@ -11,6 +11,4 @@ DATA:
     wavelength_range: 0.405 0.635
     coefficients: 0 3.3037 0.1987971
 SPECS:
-    n_is_absolute: false
-    wavelength_is_vacuum: false
     temperature: 24 °C

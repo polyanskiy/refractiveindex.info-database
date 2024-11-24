@@ -1094,6 +1094,4 @@ DATA:
         1.6875 1.696194 0.000000
         1.6900 1.696116 0.000000
 SPECS:
-    n_is_absolute: true
-    wavelength_is_vacuum: true
     substrate: Si

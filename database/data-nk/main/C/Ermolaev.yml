@@ -3061,6 +3061,4 @@ DATA:
         3.299 1.57425 0.86761
         3.300 1.57382 0.86798
 SPECS:
-    n_is_absolute: true
-    wavelength_is_vacuum: true
     substrate: glass

@@ -50,8 +50,6 @@ DATA:
         15.0 5.1120E-05
         15.5 4.2490E-05
 SPECS:
-    n_is_absolute: false
-    wavelength_is_vacuum: false
     temperature: 20 °C
     density: 4.50 g/cm<sup>3</sup>
     thermal_expansion:

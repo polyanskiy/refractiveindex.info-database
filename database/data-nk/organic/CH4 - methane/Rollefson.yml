@@ -59,6 +59,5 @@ DATA:
         14.00 1.00044840
         14.80 1.00044380
 SPECS:
-    n_is_absolute: true
     temperature: 0 °C
     pressure: 101325 Pa

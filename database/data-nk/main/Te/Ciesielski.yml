@@ -288,7 +288,5 @@ DATA:
         1.9375 4.284 0.005
         2.0000 4.252 0.002
 SPECS:
-    n_is_absolute: true
-    wavelength_is_vacuum: true
     film_thickness: 30e-9
     substrate: SiO2

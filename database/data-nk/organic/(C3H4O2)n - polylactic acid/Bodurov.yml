@@ -11,8 +11,6 @@ DATA:
     wavelength_range: 0.405 0.635
     coefficients: 0 0.9809 0.2123719
 SPECS:
-    n_is_absolute: false
-    wavelength_is_vacuum: false
     temperature: 24 °C
     film_thickness: 45e-6
     substrate: glass

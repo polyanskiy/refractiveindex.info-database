@@ -24,5 +24,4 @@ DATA:
         0.708 1.74 0.0057
         0.827 1.74 0.0030
 SPECS:
-    wavelength_is_vacuum: true
     substrate: fused_quartz

@@ -209,6 +209,3 @@ DATA:
         5.8646e+01 7.0868e+01 1.0585e+02
         6.0296e+01 7.2533e+01 1.0721e+02
         6.1992e+01 7.4214e+01 1.0858e+02
-SPECS:
-    n_is_absolute: true
-    wavelength_is_vacuum: true

@@ -1051,8 +1051,6 @@ DATA:
         2.494 2.78562 0.15795
         2.500 2.78529 0.15803
 SPECS:
-    n_is_absolute: true
-    wavelength_is_vacuum: true
     temperature: 20 °C
     film_thickness: 209e-9
     substrate: SiO2

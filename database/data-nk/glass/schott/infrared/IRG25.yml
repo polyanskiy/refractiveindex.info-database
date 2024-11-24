@@ -41,8 +41,6 @@ DATA:
         15.0 5.4962E-05
         15.5 9.2605E-05
 SPECS:
-    n_is_absolute: false
-    wavelength_is_vacuum: false
     temperature: 20.0 °C
     thermal_dispersion:
       - type: Schott formula

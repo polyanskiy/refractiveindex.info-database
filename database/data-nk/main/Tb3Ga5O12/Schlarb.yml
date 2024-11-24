@@ -19,5 +19,4 @@ DATA:
         1.15228 1.9421
         1.17668 1.9415
 SPECS:
-    n_is_absolute: true
     temperature: 20 °C

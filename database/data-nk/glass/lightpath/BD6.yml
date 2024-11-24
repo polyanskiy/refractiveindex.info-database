@@ -17,8 +17,6 @@ DATA:
         12 2.772
         14 2.764
 SPECS:
-    n_is_absolute: false
-    wavelength_is_vacuum: false
     temperature: 20 °C
     density: 4.63 g/cm<sup>3</sup>
     thermal_expansion:
@@ -28,4 +26,3 @@ SPECS:
         wavelength_range: 8 12 µm
         value: 30.5e-6 K<sup>-1</sup>
     transition_temperature: 185 °C
-    

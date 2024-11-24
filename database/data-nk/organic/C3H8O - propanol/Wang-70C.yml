@@ -498,6 +498,4 @@ DATA:
         18.78 1.236 1.502E-01
         19.06 1.281 7.080E-01
 SPECS:
-    n_is_absolute: true
-    wavelength_is_vacuum: true
     temperature: 70.0 °C

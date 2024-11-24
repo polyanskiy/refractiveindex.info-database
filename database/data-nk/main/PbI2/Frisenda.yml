@@ -1011,6 +1011,4 @@ DATA:
         0.7931673 2.7543 0.0000
         0.7935374 2.7532 0.0000
 SPECS:
-    n_is_absolute: true
-    wavelength_is_vacuum: true
     substrate: SiO2/Si
