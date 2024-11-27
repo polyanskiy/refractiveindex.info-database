@@ -3,7 +3,10 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: |
-    K. Stahrenberg, Th. Herrmann, K. Wilmers, N. Esser, W. Richter, and M. J. G. Lee. Optical properties of copper and silver in the energy range 2.5-9.0 eV, <a href="https://doi.org/10.1103/PhysRevB.64.115111"><i>Phys Rev. B</i> <b>64</b>, 115111 (2001)</a> (Numerical data kindly provided by Prof. Dr. Norbert Esser)
+    K. Stahrenberg, Th. Herrmann, K. Wilmers, N. Esser, W. Richter, and M. J. G. Lee.
+    Optical properties of copper and silver in the energy range 2.5-9.0 eV.
+    <a href="https://doi.org/10.1103/PhysRevB.64.115111"><i>Phys Rev. B</i> <b>64</b>, 115111 (2001)</a>
+    (Numerical data kindly provided by Prof. Dr. Norbert Esser)
 DATA:
   - type: tabulated nk
     data: |

@@ -3,7 +3,10 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: |
-    D. Franta, D. Nečas, I. Ohlídal. A. Giglia, Dispersion model for optical thin films applicable in wide spectral range <a href="https://doi.org/10.1117/12.2190104"><i>Proc. SPIE</i> <b>9628</b>, 96281U (2015)</a> (Numerical data kindly provided by Daniel Franta)
+    D. Franta, D. Nečas, I. Ohlídal. A. Giglia.
+    Dispersion model for optical thin films applicable in wide spectral range
+    <a href="https://doi.org/10.1117/12.2190104"><i>Proc. SPIE</i> <b>9628</b>, 96281U (2015)</a>
+    (Numerical data kindly provided by Daniel Franta)
 COMMENTS: |
     Film TiO<sub>2</sub>; Deposited by e-beam evaporation on c-Si; 99.6 nm thick film with an amorphous (very fine polycrystalline) structure; Heterogenous data processing combining ellipsometric and spectrophotometric measurements; Room temperature.
 DATA:

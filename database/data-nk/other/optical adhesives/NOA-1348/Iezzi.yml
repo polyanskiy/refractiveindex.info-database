@@ -3,7 +3,10 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: |
-    B. Iezzi, Z. Afkhami, S. Sanvordenker, D. Hoelzle, K. Barton, M. Shtein. Electrohydrodynamic jet printing of 1D photonic crystals: Part II — Optical design and reflectance characteristics, <a href="https://doi.org/10.1002/admt.202000431"><i>Adv. Mater Technol.</i> <b>5</b>, 2000431 (2020)</a> (Numerical data kindly provided by Brian Iezzi)
+    B. Iezzi, Z. Afkhami, S. Sanvordenker, D. Hoelzle, K. Barton, M. Shtein.
+    Electrohydrodynamic jet printing of 1D photonic crystals: Part II — Optical design and reflectance characteristics.
+    <a href="https://doi.org/10.1002/admt.202000431"><i>Adv. Mater Technol.</i> <b>5</b>, 2000431 (2020)</a>
+    (Numerical data kindly provided by Brian Iezzi)
 COMMENTS: |
     2 μm film spin-coated onto glass substrates.
 DATA:
@@ -711,5 +714,7 @@ DATA:
         0.999 1.3578925
         1.000 1.3578857
 SPECS:
+    n_is_absolute: false
+    wavelength_is_vacuum: false
     film_thickness: 2e-6
     substrate: glass

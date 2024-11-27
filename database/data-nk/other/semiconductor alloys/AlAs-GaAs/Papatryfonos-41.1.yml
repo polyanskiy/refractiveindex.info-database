@@ -3,7 +3,10 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: |
-    K. Papatryfonos, T. Angelova, A. Brimont, B. Reid, S. Guldin, P. R. Smith, M. Tang, K. Li, A. J. Seeds, H. Liu, D. R. Selviah. Refractive indices of MBE-grown Al<sub>x</sub>Ga<sub>1-x</sub>As ternary alloys in the transparent wavelength region, <a href="https://doi.org/10.1063/5.0039631"><i>AIP Adv.</i> <b>11</b>, 025327 (2021)</a> (Numerical data kindly provided by Konstantinos Papatryfonos)
+    K. Papatryfonos, T. Angelova, A. Brimont, B. Reid, S. Guldin, P. R. Smith, M. Tang, K. Li, A. J. Seeds, H. Liu, D. R. Selviah.
+    Refractive indices of MBE-grown Al<sub>x</sub>Ga<sub>1-x</sub>As ternary alloys in the transparent wavelength region.
+    <a href="https://doi.org/10.1063/5.0039631"><i>AIP Adv.</i> <b>11</b>, 025327 (2021)</a>
+    (Numerical data kindly provided by Konstantinos Papatryfonos)
 COMMENTS: |
     Al<sub>x</sub>Ga<sub>1-x</sub>As; x = 0.411
 DATA:
@@ -215,3 +218,6 @@ DATA:
         1.77132 3.16453E+00 0.00000E+00
         1.82342 3.16215E+00 0.00000E+00
         1.87868 3.15895E+00 0.00000E+00
+SPECS:
+    n_is_absolute: true
+    wavelength_is_vacuum: true

@@ -3,7 +3,9 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: |
-    K. Kato et al.. Sellmeier and thermo-optic dispersion formulas for GaSe (Revisited). <a href="https://doi.org/10.1364/AO.52.002325"><i>Appl. Opt.</i> <b>52</b>, 2325-2328 (2013)</a>
+    K. Kato, F. Tanno, N. Umemura.
+    Sellmeier and thermo-optic dispersion formulas for GaSe (Revisited).
+    <a href="https://doi.org/10.1364/AO.52.002325"><i>Appl. Opt.</i> <b>52</b>, 2325-2328 (2013)</a>
 COMMENTS: |
     20 °C, Extraordinary ray (e)
 DATA:

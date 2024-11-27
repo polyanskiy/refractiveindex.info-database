@@ -3,7 +3,10 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: |
-    V. V. Bassarab, V. A. Shalygin, A. A. Shakhmin, V. S. Sokolov, G. I. Kropotov. Spectroscopy of a borosilicate crown glass in the wavelength range of 0.2 µm–15 cm, <a href="https://doi.org/10.1088/2040-8986/accaf9"><i>J. Opt.</i> <b>25</b>, 065401 (2023)</a> (see Supplementary data)
+    V. V. Bassarab, V. A. Shalygin, A. A. Shakhmin, V. S. Sokolov, G. I. Kropotov.
+    Spectroscopy of a borosilicate crown glass in the wavelength range of 0.2 µm–15 cm.
+    <a href="https://doi.org/10.1088/2040-8986/accaf9"><i>J. Opt.</i> <b>25</b>, 065401 (2023)</a>
+    (see Supplementary data)
 DATA:
   - type: tabulated nk
     data: |

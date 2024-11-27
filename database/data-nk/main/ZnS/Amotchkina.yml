@@ -3,7 +3,12 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: |
-    T. Amotchkina, M. Trubetskov, D. Hahner, V. Pervak, Characterization of e-beam evaporated Ge, YbF<sub>3</sub>, ZnS, and LaF<sub>3</sub> thin films for laser-oriented coatings, <a href="https://doi.org/10.1364/AO.59.000A40"><i>Appl. Opt.</i> <b>59</b>, A40-A47 (2020)</a> (Data kindly provided by Tatiana Amotchkina [<a href="https://refractiveindex.info/download/data/2020/Amotchkina/ZnS_nk.xlsx">data</a>] [<a href="https://refractiveindex.info/download/data/2020/Amotchkina/Summary_for_RefractiveIndexINFO.pdf">description</a>])
+    T. Amotchkina, M. Trubetskov, D. Hahner, V. Pervak.
+    Characterization of e-beam evaporated Ge, YbF<sub>3</sub>, ZnS, and LaF<sub>3</sub> thin films for laser-oriented coatings.
+    <a href="https://doi.org/10.1364/AO.59.000A40"><i>Appl. Opt.</i> <b>59</b>, A40-A47 (2020)</a>
+    (Data kindly provided by Tatiana Amotchkina
+    [<a href="https://refractiveindex.info/download/data/2020/Amotchkina/ZnS_nk.xlsx">data</a>]
+    [<a href="https://refractiveindex.info/download/data/2020/Amotchkina/Summary_for_RefractiveIndexINFO.pdf">description</a>])
 COMMENTS: |
     1.008 µm ZnS film deposited on 3 mm thick Ge substrate by e-beam evaporation at 120 °C substrate temperature.
 DATA:

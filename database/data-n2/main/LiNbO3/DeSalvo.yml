@@ -3,7 +3,9 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: |
-    R. DeSalvo, A. A. Said, D. J. Hagan, E. W. Van Stryland, M. Sheik-Bahae. Infrared to ultraviolet measurements of two-photon absorption and n<sub>2</sub> in wide bandgap solids, <a href="https://doi.org/10.1109/3.511545"><i>IEEE J. Quantum Electron.</i> <b>32</b>, 1324 (1996)</a>
+    R. DeSalvo, A. A. Said, D. J. Hagan, E. W. Van Stryland, M. Sheik-Bahae.
+    Infrared to ultraviolet measurements of two-photon absorption and n<sub>2</sub> in wide bandgap solids.
+    <a href="https://doi.org/10.1109/3.511545"><i>IEEE J. Quantum Electron.</i> <b>32</b>, 1324 (1996)</a>
 COMMENTS: |
     Extraordinary ray (e). 22 ps @ 532 nm, 30 ps @ 1064 nm. Z-scan.
 DATA:

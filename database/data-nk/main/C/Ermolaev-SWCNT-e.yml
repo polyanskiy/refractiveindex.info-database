@@ -3,7 +3,10 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: |
-    G. A. Ermolaev, Y. Xie, L. Qian, M. K. Tatmyshevskiy, A. S. Slavich, A. V. Arsenin, J. Zhang, V. S. Volkov, A. I. Chernov. Anisotropic optical properties of monolayer aligned single-walled carbon nanotubes, <a href="https://doi.org/10.1002/pssr.202300199"><i>Phys. Status Solidi RRL</i>, 2300199 (2023)</a> (Numerical data kindly provided by Georgy Ermolaev)
+    G. A. Ermolaev, Y. Xie, L. Qian, M. K. Tatmyshevskiy, A. S. Slavich, A. V. Arsenin, J. Zhang, V. S. Volkov, A. I. Chernov.
+    Anisotropic optical properties of monolayer aligned single-walled carbon nanotubes.
+    <a href="https://doi.org/10.1002/pssr.202300199"><i>Phys. Status Solidi RRL</i>, 2300199 (2023)</a>
+    (Numerical data kindly provided by Georgy Ermolaev)
 COMMENTS: |
     Monolayer of aligned single-walled carbon nanotubes (SWCNTs). Extraordinary ray (e).
 DATA:

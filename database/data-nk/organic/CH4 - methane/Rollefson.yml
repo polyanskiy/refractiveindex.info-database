@@ -3,7 +3,9 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: |
-    R. Rollefson and R. Havens. Index of refraction of methane in the infra-red and the dipole moment of the CH bond, <a href="https://doi.org/10.1103/PhysRev.57.710"><i>Phys. Rev.</i> <b>57</b>, 710-717 (1940)</a>
+    R. Rollefson and R. Havens.
+    Index of refraction of methane in the infra-red and the dipole moment of the CH bond.
+    <a href="https://doi.org/10.1103/PhysRev.57.710"><i>Phys. Rev.</i> <b>57</b>, 710-717 (1940)</a>
 COMMENTS: |
     Gaseous methane at standard conditions. 0 °C, 760 torr (101.325 kPa).
 DATA:

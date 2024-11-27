@@ -3,7 +3,9 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: |
-    M. A. Ordal, R. J. Bell, R. W. Alexander, L. A. Newquist, M. R. Querry. Optical properties of Al, Fe, Ti, Ta, W, and Mo at submillimeter wavelengths, <a href="https://doi.org/10.1364/AO.27.001203"><i>Appl. Opt.</i> <b>27</b>, 1203-1209 (1988)</a>
+    M. A. Ordal, R. J. Bell, R. W. Alexander, L. A. Newquist, M. R. Querry.
+    Optical properties of Al, Fe, Ti, Ta, W, and Mo at submillimeter wavelengths.
+    <a href="https://doi.org/10.1364/AO.27.001203"><i>Appl. Opt.</i> <b>27</b>, 1203-1209 (1988)</a>
 DATA:
   - type: tabulated nk
     data: |

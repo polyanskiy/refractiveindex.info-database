@@ -3,7 +3,13 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: |
-    1) J. Walling, O. Peterson, H. Jenssen, R. Morris, E. O'Dell. Tunable alexandrite lasers, <a href="https://doi.org/10.1109/JQE.1980.1070430"><i>IEEE J. Quantum Electron.</i>, <b>16</b>, 1302–1315 (1980)</a><br>2) P. Loiko, A. Major. Dispersive properties of alexandrite and beryllium hexaaluminate crystals, <a href="https://doi.org/10.1364/OME.6.002177"><i>Opt. Mater. Express</i>, <b>6</b>, 2177–2183 (2016)</a><br>* Ref. 2 provides a dispersion formula based on  the experimental data from Ref. 1
+    1) J. Walling, O. Peterson, H. Jenssen, R. Morris, E. O'Dell.
+    Tunable alexandrite lasers.
+    <a href="https://doi.org/10.1109/JQE.1980.1070430"><i>IEEE J. Quantum Electron.</i>, <b>16</b>, 1302–1315 (1980)</a><br>
+    2) P. Loiko, A. Major.
+    Dispersive properties of alexandrite and beryllium hexaaluminate crystals.
+    <a href="https://doi.org/10.1364/OME.6.002177"><i>Opt. Mater. Express</i>, <b>6</b>, 2177–2183 (2016)</a><br>
+    * Ref. 2 provides a dispersion formula based on  the experimental data from Ref. 1
 COMMENTS: |
     n<sub>β</sub>; Room temperature.
 DATA:

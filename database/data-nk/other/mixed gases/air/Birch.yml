@@ -3,7 +3,10 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: |
-    K. P. Birch and M. J. Downs. Correction to the updated Edlén equation for the refractive index of air, <a href="https://doi.org/10.1088/0026-1394/31/4/006"><i>Metrologia</i> <b>31</b>, 3015 (1994)</a><br>[<a href="https://github.com/polyanskiy/refractiveindex.info-scripts/blob/master/scripts/Birch%201994%20-%20air.py">Calculation script (Python)</a> - can be used to calculate the refractive index of air for specific values of humidity, temperature, and pressure]
+    K. P. Birch and M. J. Downs.
+    Correction to the updated Edlén equation for the refractive index of air.
+    <a href="https://doi.org/10.1088/0026-1394/31/4/006"><i>Metrologia</i> <b>31</b>, 3015 (1994)</a><br>
+    [<a href="https://github.com/polyanskiy/refractiveindex.info-scripts/blob/master/scripts/Birch%201994%20-%20air.py">Calculation script (Python)</a> - can be used to calculate the refractive index of air for specific values of humidity, temperature, and pressure]
 COMMENTS: |
     Standard air: dry air at 15 °C, 101.325 kPa and with 450 ppm CO<sub>2</sub> content.
 DATA:
@@ -41,5 +44,7 @@ DATA:
         0.64 1.000276441999
         0.65 1.000276322880
 SPECS:
+    n_is_absolute: true
+    wavelength_is_vacuum: true
     temperature: 15 °C
     pressure: 101325 Pa

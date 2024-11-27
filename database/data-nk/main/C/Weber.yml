@@ -3,7 +3,10 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: |
-    J. W. Weber, V. E. Calado and M. C. M. van de Sanden. Optical constants of graphene measured by spectroscopic ellipsometry, <a href="https://doi.org/10.1063/1.3475393"><i>Appl. Phys. Lett.</i> <b>97</b>, 091904 (2010)</a> (Numerical data kindly provided by Jan-Willem Weber)
+    J. W. Weber, V. E. Calado, M. C. M. van de Sanden.
+    Optical constants of graphene measured by spectroscopic ellipsometry.
+    <a href="https://doi.org/10.1063/1.3475393"><i>Appl. Phys. Lett.</i> <b>97</b>, 091904 (2010)</a>
+    (Numerical data kindly provided by Jan-Willem Weber)
 COMMENTS: |
     Graphene (mechanically exfoliated flake). Thickness: 3.4 Å. Substrate: silicon with 98-nm silicon oxide layer.
 DATA:

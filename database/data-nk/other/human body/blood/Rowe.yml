@@ -3,7 +3,10 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: |
-    D. J. Rowe, D. Smith, J. S. Wilkinson. Complex refractive index spectra of whole blood and aqueous solutions of anticoagulants, analgesics and buffers in the mid-infrared, <a href="https://doi.org/10.1038/s41598-017-07842-0"><i>Sci. Rep.</i> <b>7</b>, 7356 (2017)</a> (Numerical data kindly provided by David Rowe)
+    D. J. Rowe, D. Smith, J. S. Wilkinson.
+    Complex refractive index spectra of whole blood and aqueous solutions of anticoagulants, analgesics and buffers in the mid-infrared.
+    <a href="https://doi.org/10.1038/s41598-017-07842-0"><i>Sci. Rep.</i> <b>7</b>, 7356 (2017)</a>
+    (Numerical data kindly provided by David Rowe)
 DATA:
   - type: tabulated nk
     data: |
@@ -2254,3 +2257,6 @@ DATA:
         14.901022 1.265045 0.427952
         14.943964 1.267412 0.429401
         14.987155 1.269779 0.430848
+SPECS:
+    n_is_absolute: true
+    wavelength_is_vacuum: false

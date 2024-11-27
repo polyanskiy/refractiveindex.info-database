@@ -3,7 +3,9 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: |
-    H. R. Phillip and E. A. Taft. Kramers-Kronig Analysis of Reflectance Data for Diamond, <a href="https://doi.org/10.1103/PhysRev.136.A1445"><i> Phys. Rev.</i> <b>136</b>, A1445-A1448 (1964)</a>
+    H. R. Phillip and E. A. Taft.
+    Kramers-Kronig analysis of reflectance data for diamond.
+    <a href="https://doi.org/10.1103/PhysRev.136.A1445"><i> Phys. Rev.</i> <b>136</b>, A1445-A1448 (1964)</a>
 DATA:
   - type: tabulated nk
     data: |

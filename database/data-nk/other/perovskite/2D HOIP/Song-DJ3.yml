@@ -3,7 +3,10 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: |
-    B. Song, J. Hou, H. Wang, S. Sidhik, J. Miao, H. Gu, H. Zhang, S. Liu, Z. Fakhraai, J. Even, J.-C. Blancon, A. D. Mohite, D. Jariwala. Determination of dielectric functions and exciton oscillator strength of two-dimensional hybrid perovskites, <a href="https://doi.org/10.1021/acsmaterialslett.0c00505"><i>ACS Materials Lett.</i> <b>3</b>, 148-159 (2021)</a><br>(Numerical data kindly provided by Baokun Song)
+    B. Song, J. Hou, H. Wang, S. Sidhik, J. Miao, H. Gu, H. Zhang, S. Liu, Z. Fakhraai, J. Even, J.-C. Blancon, A. D. Mohite, D. Jariwala.
+    Determination of dielectric functions and exciton oscillator strength of two-dimensional hybrid perovskites.
+    <a href="https://doi.org/10.1021/acsmaterialslett.0c00505"><i>ACS Materials Lett.</i> <b>3</b>, 148-159 (2021)</a>
+    (Numerical data kindly provided by Baokun Song)
 COMMENTS: |
     Two-dimensional (2D) hybrid organic−inorganic perovskite (HOIP) semiconductor. Dion−Jacobson (DJ) phase.<br> A'</sub>(MA)<sub>m-1</sub>Pb<sub>m</sub>I<sub>3m+1</sub>,<br>where A' = 4−(aminomethyl)piperidinium (4AMP), MA = CH<sub>3</sub>NH<sub>3</sub>, and m determines the thickness of the lead−iodide perovskite layer.<br><b>m = 3</b>
 DATA:
@@ -604,4 +607,6 @@ DATA:
         1.68354E+00 2.03917E+00 0.00000E+00
         1.68702E+00 2.03878E+00 0.00000E+00
 SPECS:
+    n_is_absolute: true
+    wavelength_is_vacuum: true
     substrate: glass

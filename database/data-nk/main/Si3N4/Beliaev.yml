@@ -3,7 +3,10 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: |
-    L. Yu. Beliaev, E. Shkondin, A. V. Lavrinenko, O. Takayama. <i>Optical, structural and composition properties of silicon nitride films deposited by reactive radio-frequency sputtering, low pressure and plasma-enhanced chemical vapor deposition</i>, <a href="https://doi.org/10.1016/j.tsf.2022.139568"><i>Thin Solid Films</i> <b>763</b>, 139568 (2022)</a> (Numerical data kindly provided by Osamu Takayama)
+    L. Yu. Beliaev, E. Shkondin, A. V. Lavrinenko, O. Takayama.
+    Optical, structural and composition properties of silicon nitride films deposited by reactive radio-frequency sputtering, low pressure and plasma-enhanced chemical vapor deposition.
+    <a href="https://doi.org/10.1016/j.tsf.2022.139568"><i>Thin Solid Films</i> <b>763</b>, 139568 (2022)</a>
+    (Numerical data kindly provided by Osamu Takayama)
 COMMENTS: |
     100 nm thick film deposited by plasma-enchased CVD with certain recipe as an example. Optical properties of SiN films produced by different deposition methods and process parameters can be found in the reference.
 DATA:

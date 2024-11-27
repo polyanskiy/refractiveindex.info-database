@@ -3,7 +3,10 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: |
-    X. Zhang, Y. Chen, X. Liu, Z. Liu, H. Gu, S. Bo, G. Liao. Optimizing the design of the vapor-deposited CsPbCl<sub>3</sub>-based optoelectronic devices via simulations and experiments, <a href="https://doi.org/10.1002/adfm.202310945"><i>Adv. Funct. Mater.</i>, 2310945 (2023)</a> (Numerical data kindly provided by Xuning Zhang)
+    X. Zhang, Y. Chen, X. Liu, Z. Liu, H. Gu, S. Bo, G. Liao.
+    Optimizing the design of the vapor-deposited CsPbCl<sub>3</sub>-based optoelectronic devices via simulations and experiments.
+    <a href="https://doi.org/10.1002/adfm.202310945"><i>Adv. Funct. Mater.</i>, 2310945 (2023)</a>
+    (Numerical data kindly provided by Xuning Zhang)
 COMMENTS: |
     Vapor-deposited thin film. Film thickness: 198 nm; Room temperature
 DATA:
@@ -1094,5 +1097,7 @@ DATA:
         1.6875 1.714128 0
         1.6900 1.714063 0
 SPECS:
+    n_is_absolute: true
+    wavelength_is_vacuum: true
     film_thickness: 198e-9
     substrate: glass

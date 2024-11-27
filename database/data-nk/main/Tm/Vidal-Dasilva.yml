@@ -3,7 +3,10 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: |
-    M. Vidal-Dasilva, M. Fernández-Perea, J. A. Aznárez, J. I. Larruquert, J. A. Méndez, L. Poletto, A. M. Malvezzi, A. Giglia, and S. Nannarone. Transmittance and optical constants of Tm films in the 2.75-1600 eV spectral range, <a href="https://doi.org/10.1063/1.3129507"><i>J. Appl. Phys.</i> <b>105</b>, 103110 (2009)</a> (Numerical data kindly provided by Juan Larruquert)
+    M. Vidal-Dasilva, M. Fernández-Perea, J. A. Aznárez, J. I. Larruquert, J. A. Méndez, L. Poletto, A. M. Malvezzi, A. Giglia, S. Nannarone.
+    Transmittance and optical constants of Tm films in the 2.75–1600 eV spectral range.
+    <a href="https://doi.org/10.1063/1.3129507"><i>J. Appl. Phys.</i> <b>105</b>, 103110 (2009)</a>
+    (Numerical data kindly provided by Juan Larruquert)
 COMMENTS: |
     Density: 9.33 g/cm<sup>3</sup>. Film deposited at room temperature.
 DATA:

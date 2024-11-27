@@ -3,7 +3,12 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: |
-    1) T. P. Otanicar, P. E. Phelan J. S. Golden. Optical properties of liquids for direct absorption solar thermal energy systems, <a href="https://doi.org/10.1016/j.solener.2008.12.009"><i>Solar Energy</i> <b>83</b>, 969-977 (2009)</a> - extinction coefficient<br>2) C. Wohlfarth, B. Wohlfarth. Optical Constants. Springer-Verlag, New York (1996) (as cited in ref. 1) - refractive index
+    1) T. P. Otanicar, P. E. Phelan J. S. Golden.
+    Optical properties of liquids for direct absorption solar thermal energy systems.
+    <a href="https://doi.org/10.1016/j.solener.2008.12.009"><i>Solar Energy</i> <b>83</b>, 969-977 (2009)</a> - extinction coefficient<br>
+    2) C. Wohlfarth, B. Wohlfarth.
+    Optical Constants.
+    Springer-Verlag, New York (1996) (as cited in ref. 1) - refractive index
 COMMENTS: |
     25 °C
 DATA:

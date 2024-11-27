@@ -3,7 +3,9 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: |
-    Q. Lin, J. Zhang, G. Piredda, R. W. Boyd, P. M. Fauchet, G. P. Agrawal. Dispersion of silicon nonlinearities in the near infrared region, <a  href="https://doi.org/10.1063/1.2750523"><i>Appl. Phys. Lett.</i> <b>91</b>, 021111 (2007)</a>
+    Q. Lin, J. Zhang, G. Piredda, R. W. Boyd, P. M. Fauchet, G. P. Agrawal.
+    Dispersion of silicon nonlinearities in the near infrared region.
+    <a href="https://doi.org/10.1063/1.2750523"><i>Appl. Phys. Lett.</i> <b>91</b>, 021111 (2007)</a>
 COMMENTS: |
     100 fs. Z-scan.
 DATA:

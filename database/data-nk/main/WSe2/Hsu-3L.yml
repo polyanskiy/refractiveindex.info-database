@@ -3,7 +3,10 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: |
-    C. Hsu,  R. Frisenda, R. Schmidt, A. Arora, S. M. de Vasconcellos,  R. Bratschitsch,  H. S. J. van der Zant, A. Castellanos-Gomez. Thickness-dependent refractive index of 1L, 2L, and 3L MoS<sub>2</sub>, MoSe<sub>2</sub>, WS<sub>2</sub>, and WSe<sub>2</sub>, <a href="https://doi.org/10.1002/adom.201900239"><i>Adv. Optical Mater.</i> <b>7</b>, 1900239 (2019)</a> (Numerical data kindly provided by Andres Castellanos-Gomez)
+    C. Hsu,  R. Frisenda, R. Schmidt, A. Arora, S. M. de Vasconcellos,  R. Bratschitsch,  H. S. J. van der Zant, A. Castellanos-Gomez.
+    Thickness-dependent refractive index of 1L, 2L, and 3L MoS<sub>2</sub>, MoSe<sub>2</sub>, WS<sub>2</sub>, and WSe<sub>2</sub>.
+    <a href="https://doi.org/10.1002/adom.201900239"><i>Adv. Optical Mater.</i> <b>7</b>, 1900239 (2019)</a>
+    (Numerical data kindly provided by Andres Castellanos-Gomez)
 COMMENTS: |
     3-layer (3L)
 DATA:

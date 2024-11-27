@@ -3,7 +3,10 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: |
-    K. J. Palm, J. B. Murray, T. C. Narayan, J. N. Munday. Dynamic optical properties of metal hydrides, <a href="https://doi.org/10.1021/acsphotonics.8b01243"><i>ACS Photonics</i> <b>5</b>, 4677-4686 (2018)</a><br>(Numerical data kindly provided by Kevin Palm)
+    K. J. Palm, J. B. Murray, T. C. Narayan, J. N. Munday.
+    Dynamic optical properties of metal hydrides.
+    <a href="https://doi.org/10.1021/acsphotonics.8b01243"><i>ACS Photonics</i> <b>5</b>, 4677-4686 (2018)</a>
+    (Numerical data kindly provided by Kevin Palm)
 COMMENTS: |
     Zirconium Hydride, Under 7 bar H2 gas, Room temperature, 200 nm thin film, electron beam evaporated, vacuum annealed 2 hr 350 °C.
 DATA:
@@ -694,3 +697,4 @@ DATA:
         1.677569092 4.043814 3.108687
         1.681048584 4.048812 3.111004
         1.684528687 4.053823 3.113303
+

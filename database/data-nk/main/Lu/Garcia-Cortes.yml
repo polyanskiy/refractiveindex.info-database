@@ -3,7 +3,10 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: |
-    S. García-Cortés, L. Rodríguez-de Marcos, J. I. Larruquert, J. A. Aznárez, J. A. Méndez, L. Poletto, F. Frassetto, A. M. Malvezzi, A. Giglia, N. Mahne and S. Nannarone. Transmittance and optical constants of Lu films in the 3-1800 eV spectral range, <a href="https://doi.org/10.1063/1.3481062"><i>J. Appl. Phys.</i> <b>108</b>, 063514 (2010)</a> (Numerical data kindly provided by Juan Larruquert)
+    S. García-Cortés, L. Rodríguez-de Marcos, J. I. Larruquert, J. A. Aznárez, J. A. Méndez, L. Poletto, F. Frassetto, A. M. Malvezzi, A. Giglia, N. Mahne, S. Nannarone.
+    Transmittance and optical constants of Lu films in the 3-1800 eV spectral range.
+    <a href="https://doi.org/10.1063/1.3481062"><i>J. Appl. Phys.</i> <b>108</b>, 063514 (2010)</a>
+    (Numerical data kindly provided by Juan Larruquert)
 COMMENTS: |
     Density: 9.84 g/cm<sup>3</sup>. Film deposited at room temperature.
 DATA:

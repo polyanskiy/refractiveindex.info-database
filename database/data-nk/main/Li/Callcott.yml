@@ -3,7 +3,9 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: |
-    T. A. Callcott and E. T. Arakawa. Ultraviolet optical properties of Li, <a href="https://doi.org/10.1364/JOSA.64.000839"><i>J. Opt. Soc. Am.</i> <b>64</b>, 839-845 (1974)</a>
+    T. A. Callcott and E. T. Arakawa.
+    Ultraviolet optical properties of Li.
+    <a href="https://doi.org/10.1364/JOSA.64.000839"><i>J. Opt. Soc. Am.</i> <b>64</b>, 839-845 (1974)</a>
 DATA:
   - type: tabulated nk
     data: |

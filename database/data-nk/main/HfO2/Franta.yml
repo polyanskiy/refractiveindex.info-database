@@ -3,7 +3,10 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: |
-    D. Franta, D. Nečas, I. Ohlídal. Universal dispersion model for characterization of optical thin films over wide spectral range: Application to hafnia, <a href="https://doi.org/10.1364/AO.54.009108"><i>Appl. Opt.</i> <b>54</b>, 9108–9119 (2015)</a> (Numerical data kindly provided by Daniel Franta)
+    D. Franta, D. Nečas, I. Ohlídal.
+    Universal dispersion model for characterization of optical thin films over wide spectral range: Application to hafnia.
+    <a href="https://doi.org/10.1364/AO.54.009108"><i>Appl. Opt.</i> <b>54</b>, 9108–9119 (2015)</a>
+    (Numerical data kindly provided by Daniel Franta)
 COMMENTS: |
     Film HfO<sub>2</sub>; Deposited by e-beam evaporation on c-Si; 112.7 nm thick film with an amorphous (very fine polycrystalline) structure; Heterogenous data processing combining ellipsometric and spectrophotometric measurements; Room temperature.
 DATA:

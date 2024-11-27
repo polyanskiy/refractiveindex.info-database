@@ -3,7 +3,9 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: |
-    H. H. Li. Refractive index of silicon and germanium and its wavelength and temperature derivatives, <a href="https://doi.org/10.1063/1.555624"><i>J. Phys. Chem. Ref. Data</i> <b>9</b>, 561-658 (1993)</a>
+    H. H. Li.
+    Refractive index of silicon and germanium and its wavelength and temperature derivatives.
+    <a href="https://doi.org/10.1063/1.555624"><i>J. Phys. Chem. Ref. Data</i> <b>9</b>, 561-658 (1993)</a>
 COMMENTS: |
     293 K (20 °C)
 DATA:

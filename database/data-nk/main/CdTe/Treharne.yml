@@ -3,7 +3,10 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: |
-    R. E. Treharne, A. Seymour-Pierce, K. Durose, K. Hutchings, S. Roncallo, D. Lane, Optical design and fabrication of fully sputtered CdTe/CdS solar cells, <a href="https://doi.org/10.1088/1742-6596/286/1/012038"><i>J. Phys: Conf. Ser.</i> <b>286</b>, 012038, (2011)</a> (Numerical data kindly provided Dr. Robert Treharne)
+    R. E. Treharne, A. Seymour-Pierce, K. Durose, K. Hutchings, S. Roncallo, D. Lane,
+    Optical design and fabrication of fully sputtered CdTe/CdS solar cells.
+    <a href="https://doi.org/10.1088/1742-6596/286/1/012038"><i>J. Phys: Conf. Ser.</i> <b>286</b>, 012038, (2011)</a>
+    (Numerical data kindly provided Dr. Robert Treharne)
 COMMENTS: |
     A CdTe film was deposited on to a soda-lime glass substrate using RF magnetron sputtering. A variable-angle ellipsometer was used to take amplitude and phase change measurements. The refractive index and extinction coefficient was extracted from a multi-oscillator model fit to the ellipsometry data, as a function of wavelength, from 300 to 1500 nm
 DATA:

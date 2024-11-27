@@ -3,7 +3,9 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: |
-    D. P. Arndt, R. M. A. Azzam, J. M. Bennett, J. P. Borgogno, C. K. Carniglia, W. E. Case, J. A. Dobrowolski, U. J. Gibson, T. Tuttle Hart, F. C. Ho, V. A. Hodgkin, W. P. Klapp, H. A. Macleod, E. Pelletier, M. K. Purvis, D. M. Quinn, D. H. Strome, R. Swenson, P. A. Temple, and T. F. Thonn. Multiple determination of the optical constants of thin-film coating materials, <a href="https://doi.org/10.1364/AO.23.003571"><i>Appl. Opt.</i> <b>23</b>, 3571-3596 (1984)</a>
+    D. P. Arndt, R. M. A. Azzam, J. M. Bennett, J. P. Borgogno, C. K. Carniglia, W. E. Case, J. A. Dobrowolski, U. J. Gibson, T. Tuttle Hart, F. C. Ho, V. A. Hodgkin, W. P. Klapp, H. A. Macleod, E. Pelletier, M. K. Purvis, D. M. Quinn, D. H. Strome, R. Swenson, P. A. Temple, T. F. Thonn.
+    Multiple determination of the optical constants of thin-film coating materials.
+    <a href="https://doi.org/10.1364/AO.23.003571"><i>Appl. Opt.</i> <b>23</b>, 3571-3596 (1984)</a>
 COMMENTS: |
     Thin film. Mean values of measurements by different methods.
 DATA:

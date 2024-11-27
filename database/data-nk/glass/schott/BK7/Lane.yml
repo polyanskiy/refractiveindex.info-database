@@ -3,7 +3,9 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: |
-    D. W. Lane. The optical properties and laser irradiation of some common glasses, <a href="https://doi.org/10.1088/0022-3727/23/12/037"><i> J. Phys. D: Appl. Phys.</i> <b>23</b>, 1727 (1990)</a>
+    D. W. Lane.
+    The optical properties and laser irradiation of some common glasses.
+    <a href="https://doi.org/10.1088/0022-3727/23/12/037"><i> J. Phys. D: Appl. Phys.</i> <b>23</b>, 1727 (1990)</a>
 DATA:
   - type: tabulated nk
     data: |

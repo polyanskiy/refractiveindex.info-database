@@ -3,7 +3,10 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: |
-    H. Zhang, Y. Ma, Y. Wan, X. Rong, Z. Xie, W. Wang, L. Dai. Measuring the refractive index of highly crystalline monolayer MoS<sub>2</sub> with high confidence, <a href="https://doi.org/10.1038/srep08440"><i>Sci. Rep.</i> <b>5</b>, 8440 (2015)</a> (Numerical data kindly provided by Hui Zhang)
+    H. Zhang, Y. Ma, Y. Wan, X. Rong, Z. Xie, W. Wang, L. Dai.
+    Measuring the refractive index of highly crystalline monolayer MoS<sub>2</sub> with high confidence.
+    <a href="https://doi.org/10.1038/srep08440"><i>Sci. Rep.</i> <b>5</b>, 8440 (2015)</a>
+    (Numerical data kindly provided by Hui Zhang)
 COMMENTS: |
     Monocrystalline monolayer MoS2; Synthesized with chemical vapor deposition (CVD) method; Room temperature.
 DATA:

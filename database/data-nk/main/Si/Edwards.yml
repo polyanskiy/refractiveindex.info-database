@@ -3,7 +3,9 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: |
-    D. F. Edwards and E. Ochoa , Infrared Refractive Indexes of Silicon, <a href="https://doi.org/10.1364/AO.19.004130"><i>Appl. Opt.</i>, <b>19</b>, 4130-4131 (1980)</a>
+    D. F. Edwards and E. Ochoa.
+    Infrared Refractive Indexes of Silicon.
+    <a href="https://doi.org/10.1364/AO.19.004130"><i>Appl. Opt.</i>, <b>19</b>, 4130-4131 (1980)</a>
 COMMENTS: |
     26 °C, crystal orientation <111>; 3-4 Ω-cm, n-type (phosporous-dopped)
 DATA:

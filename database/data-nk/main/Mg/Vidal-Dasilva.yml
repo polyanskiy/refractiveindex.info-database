@@ -3,7 +3,10 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: |
-    M. Vidal-Dasilva, A. L. Aquila, E. M. Gullikson, F. Salmassi and J. I. Larruquert. Optical constants of magnetron-sputtered magnesium films in the 25-1300 eV energy range, <a href="https://doi.org/10.1063/1.3481457"><i>J. Appl. Phys.</i> <b>108</b>, 063517 (2010)</a> (Numerical data kindly provided by Juan Larruquert)
+    M. Vidal-Dasilva, A. L. Aquila, E. M. Gullikson, F. Salmassi, J. I. Larruquert.
+    Optical constants of magnetron-sputtered magnesium films in the 25-1300 eV energy range.
+    <a href="https://doi.org/10.1063/1.3481457"><i>J. Appl. Phys.</i> <b>108</b>, 063517 (2010)</a>
+    (Numerical data kindly provided by Juan Larruquert)
 COMMENTS: |
     Density: 1.738 g/cm<sup>3</sup>. Film deposited at room temperature.
 DATA:

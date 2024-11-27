@@ -3,7 +3,9 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: |
-    D. L. Windt, W. C. Cash, M. Scott, P. Arendt, B. Newnam, R. F. Fisher, A. B. Swartzlander. Optical constants for thin films of Ti, Zr, Nb, Mo, Ru, Rh, Pd, Ag, Hf, Ta, W, Re, Ir, Os, Pt, and Au from 24 Å to 1216 Å, <a href="https://doi.org/10.1364/AO.27.000246"><i>Appl. Opt.</i> <b>27</b>, 246-278 (1988)</a>
+    D. L. Windt, W. C. Cash, M. Scott, P. Arendt, B. Newnam, R. F. Fisher, A. B. Swartzlander.
+    Optical constants for thin films of Ti, Zr, Nb, Mo, Ru, Rh, Pd, Ag, Hf, Ta, W, Re, Ir, Os, Pt, and Au from 24 Å to 1216 Å.
+    <a href="https://doi.org/10.1364/AO.27.000246"><i>Appl. Opt.</i> <b>27</b>, 246-278 (1988)</a>
 DATA:
   - type: tabulated nk
     data: |

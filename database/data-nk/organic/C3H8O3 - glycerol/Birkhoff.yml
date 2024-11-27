@@ -3,7 +3,9 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: |
-    R. D. Birkhoff, L. R. Painter, J. M. Heller Jr. Optical and dielectric functions of liquid glycerol from gas photoionization measurements, <a href="https://doi.org/10.1063/1.437098"><i>J. Chem. Phys.</i> <b>69</b>, 4185-4188 (1978)</a>
+    R. D. Birkhoff, L. R. Painter, J. M. Heller Jr.
+    Optical and dielectric functions of liquid glycerol from gas photoionization measurements.
+    <a href="https://doi.org/10.1063/1.437098"><i>J. Chem. Phys.</i> <b>69</b>, 4185-4188 (1978)</a>
 DATA:
   - type: tabulated nk
     data: |

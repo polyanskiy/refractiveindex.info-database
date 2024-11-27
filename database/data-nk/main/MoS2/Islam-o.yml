@@ -3,7 +3,10 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: |
-    K. M. Islam, R. Synowicki, T. Ismael, I. Oguntoye, N. Grinalds, M. D. Escarra. In-plane and out-of-plane optical properties of monolayer, few-layer, and thin-film MoS<sub>2</sub> from 190 to 1700 nm and their application in photonic device design, <a href="https://doi.org/10.1002/adpr.202000180"><i>Adv. Photonics Res.</i>, <b>2021</b> 2000180</a> (Numerical data kindly provided by Kazi Islam)
+    K. M. Islam, R. Synowicki, T. Ismael, I. Oguntoye, N. Grinalds, M. D. Escarra.
+    In-plane and out-of-plane optical properties of monolayer, few-layer, and thin-film MoS<sub>2</sub> from 190 to 1700 nm and their application in photonic device design.
+    <a href="https://doi.org/10.1002/adpr.202000180"><i>Adv. Photonics Res.</i>, <b>2021</b> 2000180</a> 
+    (Numerical data kindly provided by Kazi Islam)
 COMMENTS: |
     Thin film (step height 33.5 nm). In-plane (ordinary ray, o).
 DATA:

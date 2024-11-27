@@ -3,7 +3,10 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: |
-    D. A. Panova, G. I. Tselikov, G. A. Ermolaev, A. V. Syuy, D. S. Zimbovskii, O. O. Kapitanova, D. I. Yakubovsky, A. B. Mazitov, I. A. Kruglov, A. A. Vyshnevyy, A. V. Arsenin, V. S. Volkov. Broadband optical properties of Ti<sub>3</sub>C<sub>2</sub> MXene revisited, <a href="https://doi.org/10.1364/OL.503636"><i>Opt. Lett.</i>, <b>49</b>, 25–28 (2024)</a> (Numerical data kindly provided by Georgy Ermolaev)
+    D. A. Panova, G. I. Tselikov, G. A. Ermolaev, A. V. Syuy, D. S. Zimbovskii, O. O. Kapitanova, D. I. Yakubovsky, A. B. Mazitov, I. A. Kruglov, A. A. Vyshnevyy, A. V. Arsenin, V. S. Volkov.
+    Broadband optical properties of Ti<sub>3</sub>C<sub>2</sub> MXene revisited.
+    <a href="https://doi.org/10.1364/OL.503636"><i>Opt. Lett.</i>, <b>49</b>, 25–28 (2024)</a>
+    (Numerical data kindly provided by Georgy Ermolaev)
 COMMENTS: |
     Broadband optical constants of Ti<sub>3</sub>C<sub>2</sub> in the spectral range 30–3300 nm.
 DATA:

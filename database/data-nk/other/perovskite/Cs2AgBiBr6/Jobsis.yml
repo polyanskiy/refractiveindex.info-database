@@ -3,7 +3,10 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: |
-    H. J. Jöbsis, V. M. Caselli, S. H. C. Askes,  E. C. Garnett,  T. J. Savenije,  F. T. Rabouw,  E. M. Hutter. Recombination and localization: Unfolding the pathways behind conductivity losses in Cs<sub>2</sub>AgBiBr<sub>6</sub> thin films, <a href="https://doi.org/10.1063/5.0061899"><i>Appl. Phys. Lett.</i> <b>119</b>, 131908 (2021)</a> (Numerical data kindly provided by Huygen Jöbsis)
+    H. J. Jöbsis, V. M. Caselli, S. H. C. Askes,  E. C. Garnett,  T. J. Savenije,  F. T. Rabouw,  E. M. Hutter.
+    Recombination and localization: Unfolding the pathways behind conductivity losses in Cs<sub>2</sub>AgBiBr<sub>6</sub> thin films.
+    <a href="https://doi.org/10.1063/5.0061899"><i>Appl. Phys. Lett.</i> <b>119</b>, 131908 (2021)</a>
+    (Numerical data kindly provided by Huygen Jöbsis)
 COMMENTS: |
     Cs<sub>2</sub>AgBiBr<sub>6</sub> thin films of 100 nm at room temperature
 DATA:
@@ -709,3 +712,4 @@ DATA:
         1.694E+00 1.942405E+00 6.09000E-04
         1.696E+00 1.942367E+00 6.08000E-04
         1.698E+00 1.942329E+00 6.07000E-04
+

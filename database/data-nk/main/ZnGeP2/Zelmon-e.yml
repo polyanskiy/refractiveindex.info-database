@@ -3,7 +3,9 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: |
-    D. E. Zelmon et al.. Refractive-index measurements and Sellmeier coefficients for zinc germanium phosphide from 2 to 9 µm with implications for phase matching in optical frequency-conversion devices, <a href="https://doi.org/10.1364/JOSAB.18.001307"><i>J. Opt. Soc. Am. B</i> <b>18</b>, 1307-1310 (2001)</a>
+    D. E. Zelmon, E. A. Hanning, P. G. Schunemann.
+    Refractive-index measurements and Sellmeier coefficients for zinc germanium phosphide from 2 to 9 µm with implications for phase matching in optical frequency-conversion devices.
+    <a href="https://doi.org/10.1364/JOSAB.18.001307"><i>J. Opt. Soc. Am. B</i> <b>18</b>, 1307-1310 (2001)</a>
 COMMENTS: |
     Extraordinary ray (e); 21-22 °C.
 DATA:

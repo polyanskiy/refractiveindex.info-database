@@ -3,9 +3,12 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: |
-    A. Kamptner, M. C. Scharber, M. Schiek. Accurate determination of the uniaxial complex refractive index and the optical band gap of polymer thin films to correlate their absorption strength and onset of absorption, <a href="https://doi.org/10.1002/cphc.202400233"><i>Chem. Phys. Chem.</i> <b>X</b>, XX–XX (2024)</a> (See Supporting Information. Numerical data kindly provided by Manuela Schiek)
+    A. Kamptner, M. C. Scharber, M. Schiek.
+    Accurate determination of the uniaxial complex refractive index and the optical band gap of polymer thin films to correlate their absorption strength and onset of absorption.
+    <a href="https://doi.org/10.1002/cphc.202400233"><i>Chem. Phys. Chem.</i> e202400233 (2024)</a>
+    (See Supporting Information. Numerical data kindly provided by Manuela Schiek)
 COMMENTS: |
-    Glass objective slide (Marienfeld, 7.5 cm x 2.5 cm, 1 mm thick). \Tin" side of the float glass. Float glass is produced by pouring molten glass onto liquid tin, so that the glass floats on top of the liquid tin while it cools down forming very flat sheets. Some tin diffuses into the glass surface facing the tin bath during the cooling procedure. This side of the glass, the "tin" side, receives different surface optical properties compared to the other side, the "air" side."
+    Glass objective slide (Marienfeld, 7.5 cm x 2.5 cm, 1 mm thick). "Tin" side of the float glass. Float glass is produced by pouring molten glass onto liquid tin, so that the glass floats on top of the liquid tin while it cools down forming very flat sheets. Some tin diffuses into the glass surface facing the tin bath during the cooling procedure. This side of the glass, the "tin" side, receives different surface optical properties compared to the other side, the "air" side."
 DATA:
   - type: tabulated nk
     data: |

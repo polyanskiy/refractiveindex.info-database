@@ -3,7 +3,9 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: |
-    E. R. Peck and D. J. Fisher. Dispersion of argon, <a href="https://doi.org/10.1364/JOSA.54.001362"><i>J. Opt. Soc. Am.</i> <b>54</b>, 1362-1364 (1964)</a>
+    E. R. Peck and D. J. Fisher.
+    Dispersion of argon.
+    <a href="https://doi.org/10.1364/JOSA.54.001362"><i>J. Opt. Soc. Am.</i> <b>54</b>, 1362-1364 (1964)</a>
 COMMENTS: |
     Standard conditions: 0 °C, 760 torr (101.325 kPa).
 DATA:

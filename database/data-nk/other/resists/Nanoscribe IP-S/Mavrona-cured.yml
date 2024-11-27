@@ -3,7 +3,10 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: |
-    E. Mavrona, A. Theodosi, K. Mackosz, E. Perivolari, I. Utke, J. Michler, J. Schwiedrzik, M. Kafesaki, O. Tsilipakos, A. Xomalis, Refractive index measurement of IP-S and IP-Dip photoresists at THz frequencies and validation via 3D photonic metamaterials made by direct laser writing, <a href="https://doi.org/10.1364/OME.500287"><i>Opt. Mater. Express</i>, <b>13</b>, 3355-3364 (2023)</a><br>(Numerical data kindly provided by Angelos Xomalis)
+    E. Mavrona, A. Theodosi, K. Mackosz, E. Perivolari, I. Utke, J. Michler, J. Schwiedrzik, M. Kafesaki, O. Tsilipakos, A. Xomalis.
+    Refractive index measurement of IP-S and IP-Dip photoresists at THz frequencies and validation via 3D photonic metamaterials made by direct laser writing.
+    <a href="https://doi.org/10.1364/OME.500287"><i>Opt. Mater. Express</i>, <b>13</b>, 3355-3364 (2023)</a>
+    (Numerical data kindly provided by Angelos Xomalis)
 COMMENTS: |
     Nanoscribe IP-S photoresist for direct laser writing. Cured.
 DATA:
@@ -1974,3 +1977,6 @@ DATA:
         993.638 1.61926531 3.03790E-02
         995.654 1.61932542 3.04150E-02
         997.678 1.61938589 3.04520E-02
+SPECS:
+    n_is_absolute: true
+    wavelength_is_vacuum: true

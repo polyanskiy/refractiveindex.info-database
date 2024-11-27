@@ -3,7 +3,10 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: |
-    R Kerremans, C. Kaiser, W. Li, N. Zarrabi, P. Meredith, A. Armin, The optical constants of solution-processed semiconductors—new challenges with perovskites and non-fullerene acceptors, <a href="https://doi.org/10.1002/adom.202000319"><i>Adv. Opt. Mater.</i> <b>8</b>, 2000319 (2020)</a> (Data points extracted from Figure 4, PBDB-T:ITIC, Ellipsometry)
+    R Kerremans, C. Kaiser, W. Li, N. Zarrabi, P. Meredith, A. Armin.
+    The optical constants of solution-processed semiconductors—new challenges with perovskites and non-fullerene acceptors.
+    <a href="https://doi.org/10.1002/adom.202000319"><i>Adv. Opt. Mater.</i> <b>8</b>, 2000319 (2020)</a>
+    (Data points extracted from Figure 4, PBDB-T:ITIC, Ellipsometry)
 COMMENTS: |
     PBDB-T:ITIC (1:1) thin film.
 DATA:
@@ -301,3 +304,4 @@ DATA:
         1.5780 0.00576
         1.5890 0.00578
         1.6000 0.00579
+

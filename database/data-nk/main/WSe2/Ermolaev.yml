@@ -3,7 +3,10 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: |
-    G.A. Ermolaev, D.I. Yakubovsky, Y.V. Stebunov, A.A. Voronov, A.V. Arsenin, V.S. Volkov. Spectroscopic ellipsometry of large area monolayer WS<sub>2</sub> and WSe<sub>2</sub> films, <a href="https://doi.org/10.1063/5.0054947"><i>AIP Conf. Proc.</i>, 2359, 020005 (2021)</a> (Numerical data kindly provided by Dr. Georgy Ermolaev)
+    G.A. Ermolaev, D.I. Yakubovsky, Y.V. Stebunov, A.A. Voronov, A.V. Arsenin, V.S. Volkov.
+    Spectroscopic ellipsometry of large area monolayer WS<sub>2</sub> and WSe<sub>2</sub> films.
+    <a href="https://doi.org/10.1063/5.0054947"><i>AIP Conf. Proc.</i>, 2359, 020005 (2021)</a>
+    (Numerical data kindly provided by Dr. Georgy Ermolaev)
 COMMENTS: |
     CVD-grown monolayer.
 DATA:

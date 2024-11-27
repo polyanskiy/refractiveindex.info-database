@@ -3,7 +3,10 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: |
-    B. Munkhbat, P. Wrobel, T. J. Antosiewicz, T. O. Shegai. Optical constants of several multilayer transition metal dichalcogenides spectroscopic ellipsometry in the 300–1700 nm range: High index, anisotropy, and hyperbolicity, <a href="https://doi.org/10.1021/acsphotonics.2c00433"><i>ACS Photonics</i> <b>9</b>, 2398–2407 (2022)</a> (Numerical data kindly provided by Tomasz Antosiewicz)
+    B. Munkhbat, P. Wrobel, T. J. Antosiewicz, T. O. Shegai.
+    Optical constants of several multilayer transition metal dichalcogenides spectroscopic ellipsometry in the 300–1700 nm range: High index, anisotropy, and hyperbolicity.
+    <a href="https://doi.org/10.1021/acsphotonics.2c00433"><i>ACS Photonics</i> <b>9</b>, 2398–2407 (2022)</a>
+    (Numerical data kindly provided by Tomasz Antosiewicz)
 COMMENTS: |
     Multilayer flakes. n<sub>α</sub>, k<sub>α</sub>. Room temperature.
 DATA:

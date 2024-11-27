@@ -3,7 +3,10 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: |
-    J. A. Frantz, J. D. Myers, A. Clabeau, R. Y. Bekele, N. Hong, M. A. Vincenti, M. Gandolfi, J. S. Sanghera, Optical constants of germanium antimony telluride (GST) in amorphous, crystalline, and intermediate states, <a href="https://doi.org/10.1364/OME.506019"><i>Opt. Mater. Express</i> <b>13</b>, 3631-3640 (2023)</a> (See supplemental materials)
+    J. A. Frantz, J. D. Myers, A. Clabeau, R. Y. Bekele, N. Hong, M. A. Vincenti, M. Gandolfi, J. S. Sanghera.
+    Optical constants of germanium antimony telluride (GST) in amorphous, crystalline, and intermediate states.
+    <a href="https://doi.org/10.1364/OME.506019"><i>Opt. Mater. Express</i> <b>13</b>, 3631-3640 (2023)</a>
+    (See supplemental materials)
 COMMENTS: |
     Crystalline Ge<sub>2</sub>Sb<sub>2</sub>Te<sub>5</sub>.
 DATA:

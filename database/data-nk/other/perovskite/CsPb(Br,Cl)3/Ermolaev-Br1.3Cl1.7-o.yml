@@ -3,7 +3,10 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: |
-    G. Ermolaev, A. P. Pushkarev, A. Zhizhchenko, A. A. Kuchmizhak, I. Iorsh, I. Kruglov, A. Mazitov, A. Ishteev, K. Konstantinova, D. Saranin, A. Slavich, D. Stosic, E. S. Zhukova, G. Tselikov, A. D. Carlo, A. Arsenin, K. S. Novoselov, S. V. Makarov, V. S. Volkov. Giant and tunable excitonic optical anisotropy in single-crystal halide perovskites, <a href="https://doi.org/10.1021/acs.nanolett.2c04792"><i>Nano Lett.</i> <b>23</b>, 2570–2577 (2023)</a> (Numerical data kindly provided by Georgy Ermolaev)
+    G. Ermolaev, A. P. Pushkarev, A. Zhizhchenko, A. A. Kuchmizhak, I. Iorsh, I. Kruglov, A. Mazitov, A. Ishteev, K. Konstantinova, D. Saranin, A. Slavich, D. Stosic, E. S. Zhukova, G. Tselikov, A. D. Carlo, A. Arsenin, K. S. Novoselov, S. V. Makarov, V. S. Volkov.
+    Giant and tunable excitonic optical anisotropy in single-crystal halide perovskites.
+    <a href="https://doi.org/10.1021/acs.nanolett.2c04792"><i>Nano Lett.</i> <b>23</b>, 2570–2577 (2023)</a>
+    (Numerical data kindly provided by Georgy Ermolaev)
 COMMENTS: |
     CsPbBr<sub>1.3</sub>Cl<sub>1.7</sub> monocrystal. Ordinary ray (o).
 DATA:
@@ -55,3 +58,6 @@ DATA:
         0.498 2.19789 0
         0.499 2.19452 0
         0.500 2.19123 0
+SPECS:
+    n_is_absolute: true
+    wavelength_is_vacuum: true

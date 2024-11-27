@@ -3,9 +3,12 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: |
-    G. A. Ermolaev, D. I. Yakubovsky, Yu. V. Stebunov, A. V. Arsenin, V. S. Volkov. Spectral ellipsometry of monolayer transition metal dichalcogenides: Analysis of excitonic peaks in dispersion, <a href="https://doi.org/10.1116/1.5122683"><i>J. Vac. Sci. Technol. B</i> <b>38</b>, 014002 (2020)</a> (Numerical data kindly provided by Georgy Ermolaev)
+    G. A. Ermolaev, D. I. Yakubovsky, Yu. V. Stebunov, A. V. Arsenin, V. S. Volkov.
+    Spectral ellipsometry of monolayer transition metal dichalcogenides: Analysis of excitonic peaks in dispersion.
+    <a href="https://doi.org/10.1116/1.5122683"><i>J. Vac. Sci. Technol. B</i> <b>38</b>, 014002 (2020)</a>
+    (Numerical data kindly provided by Georgy Ermolaev)
 COMMENTS: |
-    Optical constants of monolayer WS<sub>2</sub> were measured by spectroscopic ellipsometry in the spectral range 365&#8209;1700&nbsp;nm. WS<sub>2</sub> samples were grown on sapphire by atmospheric pressure chemical vapor deposition and then transferred on silicon wafers covered by 295&nbsp;nm SiO<sub>2</sub>. Tauc–Lorentz oscillators were used in ellipsometry model to describe the optical response of excitons.
+    Optical constants of monolayer WS<sub>2</sub> were measured by spectroscopic ellipsometry in the spectral range 365–1700 nm. WS<sub>2</sub> samples were grown on sapphire by atmospheric pressure chemical vapor deposition and then transferred on silicon wafers covered by 295&nbsp;nm SiO<sub>2</sub>. Tauc–Lorentz oscillators were used in ellipsometry model to describe the optical response of excitons.
 DATA:
   - type: tabulated nk
     data: |

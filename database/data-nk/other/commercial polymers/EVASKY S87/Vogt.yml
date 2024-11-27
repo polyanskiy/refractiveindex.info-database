@@ -3,7 +3,11 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: |
-    1) M. R. Vogt, H. Schulte-Huxel, D. Hinken, H. Holst, M. Winter, S. Blankemeyer, R. Witteck, M. Köntges, K. Bothe, R. Brendel. Optical constants of UV transparent EVA and the impact on the PV module output power under realistic illumination, <a href="https://doi.org/10.1016/j.egypro.2016.07.136"><i>Energy Procedia</i> <b>92</b>, 523-530 (2016)</a><br>2) M. R. Vogt. <i>Development of physical models for the simulation of optical properties of solar cell modules</i>, <a href="https://www.tib.eu/en/search/id/TIBKAT%3A852464657">PhD. Thesis (2015)</a>
+    1) M. R. Vogt, H. Schulte-Huxel, D. Hinken, H. Holst, M. Winter, S. Blankemeyer, R. Witteck, M. Köntges, K. Bothe, R. Brendel.
+    Optical constants of UV transparent EVA and the impact on the PV module output power under realistic illumination.
+    <a href="https://doi.org/10.1016/j.egypro.2016.07.136"><i>Energy Procedia</i> <b>92</b>, 523-530 (2016)</a><br>
+    2) M. R. Vogt. <i>Development of physical models for the simulation of optical properties of solar cell modules</i>.
+    <a href="https://www.tib.eu/en/search/id/TIBKAT%3A852464657">PhD. Thesis (2015)</a>
 COMMENTS: |
     Ethylene-vinyl acetate (EVA) with enhanced UV transmission. Room temperature.
 DATA:

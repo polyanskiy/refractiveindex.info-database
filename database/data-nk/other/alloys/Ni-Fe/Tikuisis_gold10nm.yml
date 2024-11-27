@@ -3,7 +3,10 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: |
-    K. K. Tikuišis, L. Beran, P. Cejpek, K. Uhlířová, J. Hamrle, M. Vaňatka, M. Urbánek, M. Veis. Optical and magneto-optical properties of permalloy thin films in 0.7-6.4 eV photon energy range, <a href="https://doi.org/10.1016/j.matdes.2016.10.036"><i>Mater. Des.</i> <b>114</b>, 31-39 (2017)</a> (Numerical data kindly provided by Kristupas Kazimieras Tikuišis)
+    K. K. Tikuišis, L. Beran, P. Cejpek, K. Uhlířová, J. Hamrle, M. Vaňatka, M. Urbánek, M. Veis.
+    Optical and magneto-optical properties of permalloy thin films in 0.7-6.4 eV photon energy range.
+    <a href="https://doi.org/10.1016/j.matdes.2016.10.036"><i>Mater. Des.</i> <b>114</b>, 31-39 (2017)</a>
+    (Numerical data kindly provided by Kristupas Kazimieras Tikuišis)
 COMMENTS: |
     10 nm thick Permalloy (80% nickel, 20% iron) film with protective 3 nm thick gold layer on top. Room temperature. Obtained by multi-angle spectroscopic ellipsometry.
 DATA:

@@ -3,7 +3,10 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: |
-    J. Valentine, S. Zhang, T. Zentgraf, E. Ulin-Avila, D. A. Genov, G. Bartal and X. Zhang. Three-dimensional optical metamaterial with a negative refractive index, <a href="https://doi.org/10.1038/nature07247"><i>Nature</i> <b>455</b>, 376-379 (2008)</a> (Data points extracted from a figure)
+    J. Valentine, S. Zhang, T. Zentgraf, E. Ulin-Avila, D. A. Genov, G. Bartal, X. Zhang.
+    Three-dimensional optical metamaterial with a negative refractive index.
+    <a href="https://doi.org/10.1038/nature07247"><i>Nature</i> <b>455</b>, 376-379 (2008)</a>
+    (Data points extracted from a figure)
 DATA:
   - type: tabulated n
     data: |

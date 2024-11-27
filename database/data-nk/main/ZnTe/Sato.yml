@@ -3,7 +3,10 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: |
-    K. Sato and S. Adachi. Optical properties of ZnTe, <a href="https://doi.org/10.1063/1.353305"><i>J. Appl. Phys.</i> <b>73</b>, 926-931 (1993)</a><br>[<a href="https://github.com/polyanskiy/refractiveindex.info-scripts/blob/master/scripts/Sato%201993%20-%20ZnTe.py">Calculation script (Python)</a>]
+    K. Sato and S. Adachi.
+    Optical properties of ZnTe.
+    <a href="https://doi.org/10.1063/1.353305"><i>J. Appl. Phys.</i> <b>73</b>, 926-931 (1993)</a><br>
+    [<a href="https://github.com/polyanskiy/refractiveindex.info-scripts/blob/master/scripts/Sato%201993%20-%20ZnTe.py">Calculation script (Python)</a>]
 COMMENTS: |
     Fit of author's experimental data to a simplified model of the interband transitions (MDF). Room Temperature.
 DATA:

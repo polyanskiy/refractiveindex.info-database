@@ -3,7 +3,10 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: |
-    T. A. F. König, P. A. Ledin, J. Kerszulis, M. A. Mahmoud, M. A. El-Sayed, J. R. Reynolds, V. V. Tsukruk. Electrically tunable plasmonic behavior of nanocube-polymer nanomaterials induced by a redox-active electrochromic polymer, <a href="https://doi.org/10.1021/nn501601e"><i>ACS Nano</i> <b>8</b>, 6182-6192 (2014)</a> (Numerical data kindly provided by Tobias König)
+    T. A. F. König, P. A. Ledin, J. Kerszulis, M. A. Mahmoud, M. A. El-Sayed, J. R. Reynolds, V. V. Tsukruk.
+    Electrically tunable plasmonic behavior of nanocube-polymer nanomaterials induced by a redox-active electrochromic polymer.
+    <a href="https://doi.org/10.1021/nn501601e"><i>ACS Nano</i> <b>8</b>, 6182-6192 (2014)</a>
+    (Numerical data kindly provided by Tobias König)
 COMMENTS: |
     Optical constants of 2 nm roughness layer (effective medium approximation, EMA layer). Setup: BK7+ITO(72nm)+EMA(2nm)). ITO purchased from Delta Technology (CG-60IN-CUV), 15–25 ohms.
 DATA:
@@ -484,5 +487,7 @@ DATA:
         0.99844 1.15103355 0.00616236
         1.00000 1.14970346 0.00620547
 SPECS:
+    n_is_absolute: true
+    wavelength_is_vacuum: true
     film_thickness: 2e-9
     substrate: glass/ITO

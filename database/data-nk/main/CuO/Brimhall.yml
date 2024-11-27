@@ -3,7 +3,9 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: |
-    N. Brimhall, N. Herrick, D. D. Allred, R. S. Turley, M. Ware, J. Peatross. Measured optical constants of copper from 10 nm to 35 nm, <a href="https://doi.org/10.1364/OE.17.023873"><i>Optics Express</i> <b>17</b>, 23873-23879 (2009)</a>
+    N. Brimhall, N. Herrick, D. D. Allred, R. S. Turley, M. Ware, J. Peatross.
+    Measured optical constants of copper from 10 nm to 35 nm.
+    <a href="https://doi.org/10.1364/OE.17.023873"><i>Opt. Express</i> <b>17</b>, 23873-23879 (2009)</a>
 COMMENTS: |
     CuO film formed on the surface of Cu exposed to air.
 DATA:

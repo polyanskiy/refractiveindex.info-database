@@ -3,7 +3,9 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: |
-    M. David, D. Disnan, A. Lardschneider, D. Wacht, H. Hoang, G. Ramer, H. Detz, B. Lendl, U. Schmid, G. Strasser, B. Hinkov. Structure and mid-infrared optical properties of spin-coated polyethylene films developed for integrated photonics applications, <a href="https://doi.org/10.1364/OME.458667"><i>Opt. Mater. Express</i> <b>12</b>, 2168-2180 (2022)</a>
+    M. David, D. Disnan, A. Lardschneider, D. Wacht, H. Hoang, G. Ramer, H. Detz, B. Lendl, U. Schmid, G. Strasser, B. Hinkov.
+    Structure and mid-infrared optical properties of spin-coated polyethylene films developed for integrated photonics applications.
+    <a href="https://doi.org/10.1364/OME.458667"><i>Opt. Mater. Express</i> <b>12</b>, 2168-2180 (2022)</a>
 COMMENTS: |
     Spin-coated LLDPE. Measured using approximately 270 nm thick film (concentration 2%, dissolved in Toluene). Data at λ < 2 μm removed on author's request.
 DATA:

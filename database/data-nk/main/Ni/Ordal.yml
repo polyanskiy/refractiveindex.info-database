@@ -3,7 +3,9 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: |
-    M. A. Ordal, R. J. Bell, R. W. Alexander, L. L. Long, M. R. Querry. Optical properties of Au, Ni, and Pb at submillimeter wavelengths, <a href="https://doi.org/10.1364/AO.26.000744"><i>Appl. Opt.</i> <b>26</b>, 744-752 (1987)</a>
+    M. A. Ordal, R. J. Bell, R. W. Alexander, L. L. Long, M. R. Querry.
+    Optical properties of Au, Ni, and Pb at submillimeter wavelengths.
+    <a href="https://doi.org/10.1364/AO.26.000744"><i>Appl. Opt.</i> <b>26</b>, 744-752 (1987)</a>
 DATA:
   - type: tabulated nk
     data: |

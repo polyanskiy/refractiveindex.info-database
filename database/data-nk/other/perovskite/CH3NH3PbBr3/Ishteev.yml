@@ -3,7 +3,10 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: |
-    A. Ishteev, K. Konstantinova, G. Ermolaev, D. Kiselev, D. Muratov, M. Voronova, T. Ilina, P. Lagov, O. Uvarov, Y. Pavlov, M. Letovaltseva, A. Arsenin, V. Volkov, S. Didenko, D. Saranin, A. Di Carlo. Investigation of structural and optical properties of MAPbBr<sub>3</sub> monocrystals under fast electron irradiation, <a href="https://doi.org/10.1039/D2TC00128D"><i>J. Mater. Chem. C</i> <b>10</b>, 5821–5828 (2022)</a> (Numerical data kindly provided by Georgy Ermolaev)
+    A. Ishteev, K. Konstantinova, G. Ermolaev, D. Kiselev, D. Muratov, M. Voronova, T. Ilina, P. Lagov, O. Uvarov, Y. Pavlov, M. Letovaltseva, A. Arsenin, V. Volkov, S. Didenko, D. Saranin, A. Di Carlo.
+    Investigation of structural and optical properties of MAPbBr<sub>3</sub> monocrystals under fast electron irradiation.
+    <a href="https://doi.org/10.1039/D2TC00128D"><i>J. Mater. Chem. C</i> <b>10</b>, 5821–5828 (2022)</a>
+    (Numerical data kindly provided by Georgy Ermolaev)
 COMMENTS: |
     Single crystal MAPbBr<sub>3</sub>.
 DATA:
@@ -1050,3 +1053,6 @@ DATA:
         3.280 2.01019 0.07637
         3.290 2.01303 0.05382
         3.300 2.00041 0.12813
+SPECS:
+    n_is_absolute: true
+    wavelength_is_vacuum: true

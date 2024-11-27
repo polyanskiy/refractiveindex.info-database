@@ -3,7 +3,13 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: |
-    1) J. I. Larruquert, J. A. Aznárez, J. A. Méndez, A. M. Malvezzi, L. Poletto, S. Covini. Optical properties of scandium films in the far and the extreme ultraviolet, <a href="https://doi.org/10.1364/AO.43.003271"><i>Appl. Opt.</i> <b>43</b>, 3271-3278 (2004)</a><br>2) M. Fernández-Perea, J. I. Larruquert, J. A. Aznárez, J. A. Méndez, L. Poletto, A. M. Malvezzi, A. Giglia, S. Nannarone. Determination of optical constants of scandium films in the 20-1000 eV range, <a href="https://doi.org/10.1364/JOSAA.23.002880"><i>J. Opt. Soc. Am. A</i> <b>23</b>, 2880-2887 (2006)</a> (Numerical data kindly provided by Juan Larruquert)
+    1) J. I. Larruquert, J. A. Aznárez, J. A. Méndez, A. M. Malvezzi, L. Poletto, S. Covini.
+    Optical properties of scandium films in the far and the extreme ultraviolet.
+    <a href="https://doi.org/10.1364/AO.43.003271"><i>Appl. Opt.</i> <b>43</b>, 3271-3278 (2004)</a><br>
+    2) M. Fernández-Perea, J. I. Larruquert, J. A. Aznárez, J. A. Méndez, L. Poletto, A. M. Malvezzi, A. Giglia, S. Nannarone.
+    Determination of optical constants of scandium films in the 20-1000 eV range.
+    <a href="https://doi.org/10.1364/JOSAA.23.002880"><i>J. Opt. Soc. Am. A</i> <b>23</b>, 2880-2887 (2006)</a>
+    (Numerical data kindly provided by Juan Larruquert)
 COMMENTS: |
     Density: 2.84 g/cm<sup>3</sup>. Film deposited at room temperature.
 DATA:

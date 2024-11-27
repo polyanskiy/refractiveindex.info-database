@@ -3,7 +3,9 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: |
-    W. H. Dalzell and A. F. Sarofim. Optical constants of soot and their application to heat-flux calculations, <a href="https://doi.org/10.1115/1.3580063"><i>J. Heat Transfer </i> <b>91</b>, 100-104 (1969)</a>
+    W. H. Dalzell and A. F. Sarofim.
+    Optical constants of soot and their application to heat-flux calculations.
+    <a href="https://doi.org/10.1115/1.3580063"><i>J. Heat Transfer </i> <b>91</b>, 100-104 (1969)</a>
 COMMENTS: |
     Room temperature
 DATA:

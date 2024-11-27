@@ -3,7 +3,9 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: |
-    J. C. Sutherland and E. T. Arakawa. Optical properties of potassium for photons of energy 3.96 to 9.69 eV, <a href="https://doi.org/10.1364/JOSA.58.001080"><i>J. Opt. Soc. Am.</i> <b>58</b>, 1080-1083 (1968)</a>
+    J. C. Sutherland and E. T. Arakawa.
+    Optical properties of potassium for photons of energy 3.96 to 9.69 eV.
+    <a href="https://doi.org/10.1364/JOSA.58.001080"><i>J. Opt. Soc. Am.</i> <b>58</b>, 1080-1083 (1968)</a>
 DATA:
   - type: tabulated n
     data: |

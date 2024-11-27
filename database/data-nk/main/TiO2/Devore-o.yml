@@ -3,7 +3,9 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: |
-    J. R. Devore. Refractive indices of rutile and sphalerite, <a href="https://doi.org/10.1364/JOSA.41.000416"><i>J. Opt. Soc. Am.</i> <b>41</b>, 416-419 (1951)</a>
+    J. R. Devore.
+    Refractive indices of rutile and sphalerite.
+    <a href="https://doi.org/10.1364/JOSA.41.000416"><i>J. Opt. Soc. Am.</i> <b>41</b>, 416-419 (1951)</a>
 COMMENTS: |
     Ordinary ray (o); Room temperature.
 DATA:

@@ -3,7 +3,10 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: |
-    T. A. F. König, P. A. Ledin, J. Kerszulis, M. A. Mahmoud; M. A. El-Sayed, J. R. Reynolds and V. V. Tsukruk. Electrically tunable plasmonic behavior of nanocube-polymer nanomaterials induced by a redox-active electrochromic polymer, <a href="https://doi.org/10.1021/nn501601e"><i>ACS Nano</i> <b>8</b>, 6182-6192 (2014)</a> (Numerical data kindly provided by Tobias König)
+    T. A. F. König, P. A. Ledin, J. Kerszulis, M. A. Mahmoud, M. A. El-Sayed, J. R. Reynolds, V. V. Tsukruk.
+    Electrically tunable plasmonic behavior of nanocube-polymer nanomaterials induced by a redox-active electrochromic polymer.
+    <a href="https://doi.org/10.1021/nn501601e"><i>ACS Nano</i> <b>8</b>, 6182-6192 (2014)</a>
+    (Numerical data kindly provided by Tobias König)
 COMMENTS: |
     Optical constants of poly(vinylpyrrolidone) (PVP)
 DATA:

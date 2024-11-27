@@ -12791,20 +12791,20 @@
       info: other/liver.html
       content:
         - PAGE: Giannios
-          name: "Giannios et al. 2016: n,k 0.45–1.551 µm"
+          name: "Giannios et al. 2017: n,k 0.45–1.551 µm"
           data: other/human body/liver/Giannios.yml
     - BOOK: colon
       name: "Colon"
       info: other/colon.html
       content:
         - PAGE: Giannios-mucosa
-          name: "Giannios et al. 2016: Mucosa; n,k 0.45–1.551 µm"
+          name: "Giannios et al. 2017: Mucosa; n,k 0.45–1.551 µm"
           data: other/human body/colon/Giannios-mucosa.yml
         - PAGE: Giannios-submucosa
-          name: "Giannios et al. 2016: Submucosa; n,k 0.45–1.551 µm"
+          name: "Giannios et al. 2017: Submucosa; n,k 0.45–1.551 µm"
           data: other/human body/colon/Giannios-submucosa.yml
         - PAGE: Giannios-serosa
-          name: "Giannios et al. 2016: Serosa; n,k 0.45–1.551 µm"
+          name: "Giannios et al. 2017: Serosa; n,k 0.45–1.551 µm"
           data: other/human body/colon/Giannios-serosa.yml
     - BOOK: DNA
       name: "DNA"

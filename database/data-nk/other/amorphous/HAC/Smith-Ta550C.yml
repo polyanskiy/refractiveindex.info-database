@@ -3,7 +3,9 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: |
-    F. W. Smith. Optical constants of a hydrogenated amorphous carbon film, <a href="https://doi.org/10.1063/1.333135"><i>J. Appl. Phys.</i> <b>55</b>, 764 (1984)</a>
+    F. W. Smith.
+    Optical constants of a hydrogenated amorphous carbon film.
+    <a href="https://doi.org/10.1063/1.333135"><i>J. Appl. Phys.</i> <b>55</b>, 764 (1984)</a>
 COMMENTS: |
     Annealed (Ta = 550 °C)
 DATA:
@@ -25,3 +27,4 @@ DATA:
         0.827 2.04 0.240
 SPECS:
     substrate: fused_quartz
+    

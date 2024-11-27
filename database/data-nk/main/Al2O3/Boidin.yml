@@ -3,7 +3,10 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: |
-    R. Boidin, T. Halenkovič, V. Nazabal, L. Beneš, P. Němec. Pulsed laser deposited alumina thin films, <a href="https://doi.org/10.1016/j.ceramint.2015.09.048"><i>Ceramics International</i> <b>42</b>, 1177-1182 (2016)</a> (Numerical data kindly provided by Tomáš Halenkovič)
+    R. Boidin, T. Halenkovič, V. Nazabal, L. Beneš, P. Němec.
+    Pulsed laser deposited alumina thin films.
+    <a href="https://doi.org/10.1016/j.ceramint.2015.09.048"><i>Ceramics International</i> <b>42</b>, 1177-1182 (2016)</a>
+    (Numerical data kindly provided by Tomáš Halenkovič)
 COMMENTS: |
     Thin films of amorphous alumina were fabricated using pulsed laser deposition in vacuum.<br>Influence of deposition parameters, specifically deposition time under vacuum and partial pressure of argon, is discussed in the original publication.
 DATA:

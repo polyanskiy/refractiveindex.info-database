@@ -3,7 +3,10 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: |
-    G. A. Ermolaev,  A. P. Tsapenko, V. S. Volkov, A. S. Anisimov,  Y. G. Gladush, A. G. Nasibulin, Express determination of thickness and dielectric function of single-walled carbon nanotube films, <a href="https://doi.org/10.1063/5.0012933"><i>Appl. Phys. Lett.</i>, 116, 231103 (2020)</a> (Numerical data kindly provided by Georgy Ermolaev)
+    G. A. Ermolaev,  A. P. Tsapenko, V. S. Volkov, A. S. Anisimov,  Y. G. Gladush, A. G. Nasibulin.
+    Express determination of thickness and dielectric function of single-walled carbon nanotube films.
+    <a href="https://doi.org/10.1063/5.0012933"><i>Appl. Phys. Lett.</i>, 116, 231103 (2020)</a>
+    (Numerical data kindly provided by Georgy Ermolaev)
 COMMENTS: |
     Aerosol CVD single-walled carbon nanotubes (SWCNTs).
 DATA:

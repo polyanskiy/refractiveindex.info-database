@@ -3,7 +3,9 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: |
-    A. Börzsönyi, Z. Heiner, M. P. Kalashnikov, A. P. Kovács, and K. Osvay, Dispersion measurement of inert gases and gas mixtures at 800 nm, <a href="https://doi.org/10.1364/AO.47.004856"><i>Appl. Opt.</i> <b>47</b>, 4856-4863 (2008)</a>
+    A. Börzsönyi, Z. Heiner, M. P. Kalashnikov, A. P. Kovács, K. Osvay.
+    Dispersion measurement of inert gases and gas mixtures at 800 nm.
+    <a href="https://doi.org/10.1364/AO.47.004856"><i>Appl. Opt.</i> <b>47</b>, 4856-4863 (2008)</a>
 COMMENTS: |
     273 K (0 °C), 1000 mbar.
 DATA:
@@ -11,5 +13,7 @@ DATA:
     wavelength_range: 0.4 1.0
     coefficients: 0 14926.44e-8 19.36e-6 41807.57e-8 7.434e-3
 SPECS:
+    n_is_absolute: true
+    wavelength_is_vacuum: true
     temperature: 273 K
     pressure: 100000 Pa

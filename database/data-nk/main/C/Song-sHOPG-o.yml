@@ -3,7 +3,10 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: |
-    B. Song, H. Gu, S. Zhu, H. Jiang, X. Chen, C. Zhang, S. Liu. Broadband optical properties of graphene and HOPG investigated by spectroscopic Mueller matrix ellipsometry, <a href="https://doi.org/10.1016/j.apsusc.2018.01.051"><i>Appl. Surf. Sci</i> <b>439</b>, 1079-1087 (2018)</a> (Numerical data kindly provided by Baokun Song)
+    B. Song, H. Gu, S. Zhu, H. Jiang, X. Chen, C. Zhang, S. Liu.
+    Broadband optical properties of graphene and HOPG investigated by spectroscopic Mueller matrix ellipsometry.
+    <a href="https://doi.org/10.1016/j.apsusc.2018.01.051"><i>Appl. Surf. Sci</i> <b>439</b>, 1079-1087 (2018)</a>
+    (Numerical data kindly provided by Baokun Song)
 COMMENTS: |
     Highly oriented pyrolytic graphite (HOPG). Bulk. s-plane (s-HOPG). Ordinary ray (o).
 DATA:

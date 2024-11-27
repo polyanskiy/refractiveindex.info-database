@@ -3,7 +3,10 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: |
-    S. Ninomiya and S. Adachi. Optical properties of cubic and hexagonal CdSe, <a href="https://doi.org/10.1063/1.359815"><i>J. Appl. Phys.</i> <b>78</b>, 4681-4689 (1995)</a><br>[<a href="https://github.com/polyanskiy/refractiveindex.info-scripts/blob/master/scripts/Ninomiya%201995%20-%20hexagonal%20CdSe-e.py">Calculation script (Python)</a>]
+    S. Ninomiya and S. Adachi.
+    Optical properties of cubic and hexagonal CdSe.
+    <a href="https://doi.org/10.1063/1.359815"><i>J. Appl. Phys.</i> <b>78</b>, 4681-4689 (1995)</a><br>
+    [<a href="https://github.com/polyanskiy/refractiveindex.info-scripts/blob/master/scripts/Ninomiya%201995%20-%20hexagonal%20CdSe-o.py">Calculation script (Python)</a>]
 COMMENTS: |
     Hexagonal CdSe. Fit of author's experimental data to a simplified model of the interband transitions (MDF). Extraordinary ray (e), room temperature.
 DATA:

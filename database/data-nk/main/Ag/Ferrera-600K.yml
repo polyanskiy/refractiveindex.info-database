@@ -3,7 +3,10 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: |
-    M. Ferrera, M. Magnozzi, F. Bisio, M. Canepa. Temperature-dependent permittivity of silver and implications for thermoplasmonics, <a href="https://doi.org/10.1103/PhysRevMaterials.3.105201"><i>Phys. Rev. Mater.</i>, <b>3</b>, 105201 (2019)</a> (See Supplemental Material)
+    M. Ferrera, M. Magnozzi, F. Bisio, M. Canepa.
+    Temperature-dependent permittivity of silver and implications for thermoplasmonics.
+    <a href="https://doi.org/10.1103/PhysRevMaterials.3.105201"><i>Phys. Rev. Mater.</i>, <b>3</b>, 105201 (2019)</a>
+    (See Supplemental Material)
 COMMENTS: |
     600 K (327 °C). Optically thick and morphologically flat polycrystalline Ag film, deposited by molecular beam epitaxy on a silicon wafer with a native oxide substrate.<br>The supplemental material of the original publication provides extra information by including additional data for 25 temperatures within the range of 298–600 K.
 DATA:
