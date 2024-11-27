@@ -12,6 +12,3 @@ DATA:
   - type: formula 2
     wavelength_range: 0.400 0.750
     coefficients: 0 0.7960 1.0772e-2
-SPECS:
-    n_is_absolute: false
-    wavelength_is_vacuum: false

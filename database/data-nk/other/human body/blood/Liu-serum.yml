@@ -10,6 +10,3 @@ DATA:
   - type: formula 5
     wavelength_range: 0.400 0.750
     coefficients: 1.3350 4.6513e-3 -2 -1.3069e-4 -4
-SPECS:
-    n_is_absolute: false
-    wavelength_is_vacuum: false

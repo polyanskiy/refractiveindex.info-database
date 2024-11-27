@@ -1977,6 +1977,3 @@ DATA:
         993.638 1.61926531 3.03790E-02
         995.654 1.61932542 3.04150E-02
         997.678 1.61938589 3.04520E-02
-SPECS:
-    n_is_absolute: true
-    wavelength_is_vacuum: true

@@ -462,6 +462,3 @@ DATA:
         0.947 2.11865 0
         0.948 2.11849 0
         0.949 2.11833 0
-SPECS:
-    n_is_absolute: true
-    wavelength_is_vacuum: true

@@ -6567,7 +6567,5 @@ DATA:
         48.76040 4.57893 0.00141
         48.77473 4.57638 0.00136
 SPECS:
-    n_is_absolute: true
-    wavelength_is_vacuum: true
     film_thickness: 310e-9
     substrate: Ge

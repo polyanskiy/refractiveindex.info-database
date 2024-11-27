@@ -134,6 +134,4 @@ DATA:
         2.470 4.192E-04
         2.500 3.484E-04
 SPECS:
-    n_is_absolute: true
-    wavelength_is_vacuum: true
     temperature: 20.0 °C
