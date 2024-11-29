@@ -22,12 +22,14 @@ DATA:
         13 2.5892 2.069E-5
         14 2.5843 2.228E-5
 SPECS:
-    density: 4.67 g/cm<sup>3</sup>
-    Knoop_hardness: 150 kgf/mm<sup>2</sup>
-    Youngs_modulus: 22.1 GPa
+    density: 4670
+    hardness:
+      - type: Knoop
+        value: 150 kgf/mm<sup>2</sup>
+    Youngs_modulus: 22.1e9
     thermal_expansion:
-      - value: 14e-06 K<sup>-1</sup>
+      - value: 14e-06
     thermal_dispersion:
       - type: "dn/dT"
-        value: 91e-6 K<sup>-1</sup>
-    transition_temperature: 278 °C
+        value: 91e-6
+    transformation_temperature: 278 °C

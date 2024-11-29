@@ -50,21 +50,26 @@ DATA:
         15.0 5.1120E-05
         15.5 4.2490E-05
 SPECS:
-    temperature: 20 °C
-    density: 4.50 g/cm<sup>3</sup>
+    temperature: 293
+    density: 4500
     thermal_expansion:
-      - value: 25.2e-06 K<sup>-1</sup>
+      - value: 25.2e-06
     thermal_dispersion:
       - type: "dn/dT"
-        wavelength_range: 8 12 µm
-        value: -16.3e-6 K<sup>-1</sup>
+        temperature: 295
+        wavelength_range: 8 12
+        value: -16.3e-6
       - type: "dn/dT"
-        wavelength_range: 3 5 µm
-        value: -14.3e-6 K<sup>-1</sup>
+        temperature: 295
+        wavelength_range: 3 5
+        value: -14.3e-6
       - type: "dn/dT"
-        wavelength_range: 1 2 µm
-        value: -9.7e-6 K<sup>-1</sup>
-    transition_temperature: 205 °C
+        temperature: 295
+        wavelength_range: 1 2
+        value: -9.7e-6
+    transformation_temperature: 205 °C
     thermal_conductivity: 0.17 W/m*K
-    Vickers_hardness: 151 HV
-    Youngs_modulus: 14.2 GPa
+    hardness:
+      - type: Vickers
+        value: 151
+    Youngs_modulus: 14.2e9
