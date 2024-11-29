@@ -1,5 +1,7 @@
 ﻿============================== NEXT RELEASE ==============================
   
+  new data (thanks to Koichiro Ikeda, ISUZU GLASS LTD, Japan, for providing data!)
+    32 optical glass filters manufactured by ISUZU GLASS added to glass/isuzu/
   new data (thanks to Andrey Tselin, Skolkovo Institute of Science and Technology, Moscow, Russia)
     main/Pt/Tselin.yml
   new data (thanks to Daniel Franta and Jan Dvořák, Masaryk University, Brno, Czechia, for submitting data in YAML format!)

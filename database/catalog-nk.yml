@@ -5820,6 +5820,140 @@
         - PAGE: BD6
           name: "BD6"
           data: glass/lightpath/BD6.yml
+    - DIVIDER: "Optical glass filters"
+    - BOOK: ISUZU-IHU
+      name: "ISUZU - IHU (UV transmitting filter)"
+      info: glass/ISUZU.html
+      content:
+        - PAGE: IHU250H
+          name: "IHU250H"
+          data: glass/isuzu/IHU250H.yml
+        - PAGE: IHU290
+          name: "IHU290"
+          data: glass/isuzu/IHU290.yml
+        - PAGE: IHU310
+          name: "IHU310"
+          data: glass/isuzu/IHU310.yml
+        - PAGE: IHU340
+          name: "IHU340"
+          data: glass/isuzu/IHU340.yml
+        - PAGE: IHU350
+          name: "IHU350"
+          data: glass/isuzu/IHU350.yml
+    - BOOK: ISUZU-ITY
+      name: "ISUZU - ITY (UV sharp cut filter)"
+      info: glass/ISUZU.html
+      content:
+        - PAGE: ITY385
+          name: "ITY385"
+          data: glass/isuzu/ITY385.yml
+        - PAGE: ITY418
+          name: "ITY418"
+          data: glass/isuzu/ITY418.yml
+        - PAGE: ITY425
+          name: "ITY425"
+          data: glass/isuzu/ITY425.yml
+        - PAGE: ITY430
+          name: "ITY430"
+          data: glass/isuzu/ITY430.yml
+    - BOOK: ISUZU-IUV
+      name: "ISUZU - IUV (UV transmitting, Visible absorbing filter)"
+      info: glass/ISUZU.html
+      content:
+        - PAGE: IUV340
+          name: "IUV340"
+          data: glass/isuzu/IUV340.yml
+        - PAGE: IUV355
+          name: "IUV355"
+          data: glass/isuzu/IUV355.yml
+        - PAGE: IUV360
+          name: "IUV360"
+          data: glass/isuzu/IUV360.yml
+        - PAGE: IUV365
+          name: "IUV365"
+          data: glass/isuzu/IUV365.yml
+        - PAGE: IUV380W
+          name: "IUV380W0"
+          data: glass/isuzu/IUV380W.yml
+    - BOOK: ISUZU-ISK
+      name: "ISUZU - ISK (Heat absorbing filter)"
+      info: glass/ISUZU.html
+      content:
+        - PAGE: ISK150
+          name: "ISK150"
+          data: glass/isuzu/ISK150.yml
+      content:
+        - PAGE: ISK153
+          name: "ISK153"
+          data: glass/isuzu/ISK153.yml
+      content:
+        - PAGE: ISK157
+          name: "ISK157"
+          data: glass/isuzu/ISK157.yml
+      content:
+        - PAGE: ISK167
+          name: "ISK167"
+          data: glass/isuzu/ISK167.yml
+      content:
+        - PAGE: ISK171
+          name: "ISK171"
+          data: glass/isuzu/ISK171.yml
+      content:
+        - PAGE: ISK370
+          name: "ISK370"
+          data: glass/isuzu/ISK370.yml
+    - BOOK: ISUZU-IEC
+      name: "ISUZU - IEC (Blue filter for color compensation)"
+      info: glass/ISUZU.html
+      content:
+        - PAGE: IEC501
+          name: "IEC501"
+          data: glass/isuzu/IEC501.yml
+        - PAGE: IEC508
+          name: "IEC508"
+          data: glass/isuzu/IEC508.yml
+        - PAGE: IEC518
+          name: "IEC518"
+          data: glass/isuzu/IEC518.yml
+        - PAGE: IEC578
+          name: "IEC578"
+          data: glass/isuzu/IEC578.yml
+    - BOOK: ISUZU-IEB-IVB
+      name: "ISUZU - IEB, IVB (Blue filter)"
+      info: glass/ISUZU.html
+      content:
+        - PAGE: IEB400
+          name: "IEB400"
+          data: glass/isuzu/IEB400.yml
+        - PAGE: IEB470
+          name: "IEB470"
+          data: glass/isuzu/IEB470.yml
+        - PAGE: IVB490
+          name: "IVB490"
+          data: glass/isuzu/IVB490.yml
+    - BOOK: ISUZU-IVG
+      name: "ISUZU - IVG (Green filter)"
+      info: glass/ISUZU.html
+      content:
+        - PAGE: IVG530
+          name: "IVG530"
+          data: glass/isuzu/IVG530.yml
+        - PAGE: IVG540
+          name: "IVG540"
+          data: glass/isuzu/IVG540.yml
+        - PAGE: IVG550
+          name: "IVG550"
+          data: glass/isuzu/IVG550.yml
+    - BOOK: ISUZU-ILA-ILB
+      name: "ISUZU - ILA, ILB (Light balancing filter)"
+      info: glass/ISUZU.html
+      content:
+        - PAGE: ILA400
+          name: "ILA400"
+          data: glass/isuzu/ILA400.yml
+        - PAGE: ILB90
+          name: "ILB90"
+          data: glass/isuzu/ILB90.yml
     - DIVIDER: "Optical glass - SCHOTT"
     - BOOK: SCHOTT-K
       name: "SCHOTT - K (Crown)"
