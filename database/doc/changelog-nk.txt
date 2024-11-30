@@ -1,5 +1,9 @@
 ﻿============================== NEXT RELEASE ==============================
   
+  new data (thanks to Daniel Rüdisser, HTflux Engineering GmbH, Graz, Austria, for submitting data in YAML format!)
+    glass/schott/misc/DURAN.yml
+  updated data
+    glass/schott/misc/BOROFLOAT33.yml
   new data (thanks to Koichiro Ikeda, ISUZU GLASS LTD, Japan, for providing data!)
     32 optical glass filters manufactured by ISUZU GLASS added to glass/isuzu/
   new data (thanks to Andrey Tselin, Skolkovo Institute of Science and Technology, Moscow, Russia)

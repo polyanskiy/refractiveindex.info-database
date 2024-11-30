@@ -5583,6 +5583,9 @@
         - PAGE: BOROFLOAT33
           name: "BOROFLOAT® 33"
           data: glass/schott/misc/BOROFLOAT33.yml
+        - PAGE: DURAN
+          name: "DURAN®"
+          data: glass/schott/misc/DURAN.yml
         - PAGE: LITHOSIL-Q
           name: "LITHOSIL-Q (obsolete)"
           data: glass/schott/LITHOSIL-Q.yml
