@@ -9,6 +9,8 @@ REFERENCES: |
     (Numerical data kindly provided by Daniel Franta)
 COMMENTS: |
     Film GdF<sub>3</sub>; Deposited by thermal evaporation on c-Si; Five sample with an polycrystalline structure and nominal thicknesses 20–600 nm; Multi-sample method; Heterogenous data processing combining ellipsometric and spectrophotometric measurements; Inhomogeneous layers; Optical constants correspond to the thinest film; Room temperature.
+SPECS:
+    substrate: c-Si
 DATA:
   - type: tabulated nk
     data: |

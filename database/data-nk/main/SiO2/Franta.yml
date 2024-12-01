@@ -5,7 +5,7 @@
 REFERENCES: |
     D. Franta, D. Nečas, I. Ohlídal. A. Giglia.
     Optical characterization of SiO2 thin films using universal dispersion model over wide spectral range.
-    <a href="https://doi.org/10.1117/12.2227580"><i>Proc. of SPIE </i> <b>9890</b>, 989014 (2016)</a>
+    <a href="https://doi.org/10.1117/12.2227580"><i>Proc. SPIE </i> <b>9890</b>, 989014 (2016)</a>
     (Numerical data kindly provided by Daniel Franta)  
 COMMENTS: |
     Fused silica SiO<sub>2</sub> plate; Thickness 0.405 mm; Heterogenous data processing combining ellipsometric and spectrophotometric measurements with tabulated refractive index data (SCHOTT Lithosil Q2 product sheet) and Palik's tabulated data in EUV (only the spectral distribution of the imaginary part of the susceptibility and not the absolute value was fitted); Room temperature.

@@ -9,6 +9,9 @@ REFERENCES: |
     (Numerical data kindly provided by Daniel Franta)
 COMMENTS: |
     Film TiO<sub>2</sub>; Deposited by e-beam evaporation on c-Si; 99.6 nm thick film with an amorphous (very fine polycrystalline) structure; Heterogenous data processing combining ellipsometric and spectrophotometric measurements; Room temperature.
+SPECS:
+    film_thickness: 99.6e-9
+    substrate: c-Si
 DATA:
   - type: tabulated nk
     data: |

@@ -11,6 +11,8 @@ COMMENTS: |
     <b>Film:</b> prepared by ALD, 350 nm TiO<sub>2</sub>. See <a href=\https://doi.org/10.1088/0957-4484/26/2/024003">Ratzsch et al. <i>Nanotechnology</i> <b>26</b>, 024003 (2015)</a>.<br>
     <b>Measurement:</b> ellipsometer Jobin Yvon UVISEL2 VUV: 1.5–8.7 eV; ellipsometer Jobin Yvon UVISEL: 0.6–6.5 eV; ellipsometer Woollam IRVASE: 300–6500 cm<sup>-1</sup>; spectrophotometer McPhersom VUVas 2000: 5.6–10.3 eV; spectrophotometer Perkin Elmer Lambda 1050: 0.5-6.7 eV; spectrophotometer Bruker Vertex 80v: 80-7500 cm<sup>-1</sup>.<br>
     <b>Fit model:</b> universal dispersion model. See <a href="https://doi.org/10.1364/AO.54.009108">Franta et al. <i>Appl. Opt.</i> <b>54</b>, 9108–9119 (2015)</a>."
+SPECS:
+    film_thickness: 350e-9
 DATA:
   - type: tabulated nk
     data: |

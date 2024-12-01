@@ -8,7 +8,11 @@ REFERENCES: |
     <a href="https://doi.org/10.1016/j.tsf.2013.04.129"><i>Thin Solid Films</i> <b>541</b>, 12-16 (2013)</a>
     (Numerical data kindly provided by Daniel Franta)
 COMMENTS: |
-    Film a-Si:H; Multi-sample method; Heterogenous data processing combining ellipsometric and spectrophotometric measurements on films deposited on c-Si and glass; Experimental data of the films deposited on c=Si are taken from D. Franta, D. Nečas, L. Zajíčková, I. Ohlídal, J, Stuchlík, D. Chvostová, Application of sum rule to the dispersion model of hydrogenated amorphous silicon, <a href=\https://doi.org/10.1016/j.tsf.2013.04.012"><i>Thin Solid Films</i> <b>539</b>, 233-244 (2013)</a>; Room temperature"
+    Film a-Si:H; Multi-sample method; Heterogenous data processing combining ellipsometric and spectrophotometric measurements on films deposited on c-Si and glass; Experimental data of the films deposited on c=Si are taken from
+    D. Franta, D. Nečas, L. Zajíčková, I. Ohlídal, J, Stuchlík, D. Chvostová.
+    Application of sum rule to the dispersion model of hydrogenated amorphous silicon,
+    <a href=\https://doi.org/10.1016/j.tsf.2013.04.012"><i>Thin Solid Films</i> <b>539</b>, 233-244 (2013)</a>.
+    Room temperature."
 DATA:
   - type: tabulated nk
     data: |

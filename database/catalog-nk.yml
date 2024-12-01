@@ -1992,16 +1992,19 @@
           data: main/Al2O3/Malitson.yml
         - DIVIDER: "Thin film"
         - PAGE: Hagemann
-          name: "Hagemann et al. 1974: Thin film; n,k 0.000775–0.207 µm"
+          name: "Hagemann et al. 1974: n,k 0.000775–0.207 µm"
           data: main/Al2O3/Hagemann.yml
         - PAGE: Boidin
-          name: "Boidin et al. 2016: Thin film; n 0.3–18 µm"
+          name: "Boidin et al. 2016: n 0.3–18 µm"
           data: main/Al2O3/Boidin.yml
+        - PAGE: Franta
+          name: "Franta et al. 2015: n,k 0.114–125 µm"
+          data: main/Al2O3/Franta.yml
         - PAGE: Zhukovsky
-          name: "Zhukovsky et al. 2015: Thin film; n 0.211–1.69 µm"
+          name: "Zhukovsky et al. 2015: n 0.211–1.69 µm"
           data: main/Al2O3/Zhukovsky.yml
         - PAGE: Kischkat
-          name: "Kischkat et al. 2012: Thin film; n,k 1.54–14.3 µm"
+          name: "Kischkat et al. 2012: n,k 1.54–14.3 µm"
           data: main/Al2O3/Kischkat.yml
         - PAGE: Querry
           name: "Querry 1985: Thin film (oxidized Al mirror); n,k 0.21–12.5 µm"
@@ -2348,6 +2351,7 @@
       name: "Ta<sub>2</sub>O<sub>5</sub> (Tantalum pentoxide)"
       info: main/Ta2O5.html
       content:
+        - DIVIDER: "Thin film"
         - PAGE: Bright-amorphous
           name: "Bright et al. 2013: Amorphous film; n,k 0.5–1000 µm"
           data: main/Ta2O5/Bright-amorphous.yml
@@ -2360,6 +2364,9 @@
         - PAGE: Gao
           name: "Gao et al. 2012: n,k 0.35–1.8 µm"
           data: main/Ta2O5/Gao.yml
+        - PAGE: Franta
+          name: "Franta et al. 2015: n,k 0.114–125 µm"
+          data: main/Ta2O5/Franta.yml
     - BOOK: Tb3Ga5O12
       name: "Tb<sub>3</sub>Ga<sub>5</sub>O<sub>12</sub> (Terbium gallium garnet, TGG)"
       info: main/Tb3Ga5O12.html
@@ -5097,10 +5104,10 @@
         - PAGE: Bernhardt-SS-RR-e
           name: "Bernhardt et al. 2024: Enantiomerically pure; n,k(e) 0.300–1.69 µm"
           data: organic/C50H80N2O4 - ProSQ-C16/Bernhardt-RR-SS-e.yml
-        - PAGE: Bernhardt-SS-RR-o
+        - PAGE: Bernhardt-rac-o
           name: "Bernhardt et al. 2024: Racemic mixture; n,k(o) 0.300–1.69 µm"
           data: organic/C50H80N2O4 - ProSQ-C16/Bernhardt-rac-o.yml
-        - PAGE: Bernhardt-SS-RR-e
+        - PAGE: Bernhardt-rac-e
           name: "Bernhardt et al. 2024: Racemic mixture; n,k(e) 0.300–1.69 µm"
           data: organic/C50H80N2O4 - ProSQ-C16/Bernhardt-rac-e.yml
     - DIVIDER: "Polymers"

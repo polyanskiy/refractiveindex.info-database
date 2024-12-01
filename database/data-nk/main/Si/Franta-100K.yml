@@ -8,7 +8,17 @@ REFERENCES: |
     <a href="https://doi.org/j.apsusc.2017.02.021"><i>Appl. Surf. Sci.</i> <b>421</b>, 405-419 (2017)</a>
     (Numerical data kindly provided by Daniel Franta)
 COMMENTS: |
-    Float zone c-Si; Heterogenous data processing combining ellipsometric and spectrophotometric measurements with refractive index determined in B. J. Frey, D. B. Leviton, and T. J. Madison, Temperature-dependent refractive index of silicon and germanium, <a href=\https://doi.org/10.1117/12.672850"><i>Proc. SPIE</i> <b>6273</b>, 62732J (2006)</a>; Numerical procedures updated in D. Franta, P. Franta, J. Vohánka, M. Čermák, I. Ohlídal, Determination of thicknesses and temperatures of crystalline silicon wafers from optical measurements in the far infrared region, <a href="https://doi.org/10.1063/1.5026195"><i>J. Appl. Phys.</i> <b>123</b>, 185707 (2018)</a>; Temperature 100 K."
+    Float zone c-Si; Heterogenous data processing combining ellipsometric and spectrophotometric measurements with refractive index determined in 
+    B. J. Frey, D. B. Leviton, T. J. Madison.
+    Temperature-dependent refractive index of silicon and germanium,
+    <a href=\https://doi.org/10.1117/12.672850"><i>Proc. SPIE</i> <b>6273</b>, 62732J (2006)</a>.
+    Numerical procedures updated in
+    D. Franta, P. Franta, J. Vohánka, M. Čermák, I. Ohlídal.
+    Determination of thicknesses and temperatures of crystalline silicon wafers from optical measurements in the far infrared region,
+    <a href="https://doi.org/10.1063/1.5026195"><i>J. Appl. Phys.</i> <b>123</b>, 185707 (2018)</a>.
+    Temperature 100 K."
+SPECS:
+    temperature: 100
 DATA:
   - type: tabulated nk
     data: |

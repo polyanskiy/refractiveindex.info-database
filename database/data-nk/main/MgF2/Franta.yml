@@ -9,6 +9,9 @@ REFERENCES: |
     (Numerical data kindly provided by Daniel Franta)
 COMMENTS: |
     Film MgF<sub>2</sub>; Deposited by e-beam evaporation on c-Si; 134.2 nm thick film with an polycrystalline structure; Heterogenous data processing combining ellipsometric and spectrophotometric measurements; Room temperature.
+SPECS:
+    film_thickness: 134.2e-9
+    substrate: c-Si
 DATA:
   - type: tabulated nk
     data: |
