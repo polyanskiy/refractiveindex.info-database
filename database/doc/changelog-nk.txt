@@ -1,5 +1,10 @@
 ﻿============================== NEXT RELEASE ==============================
   
+  new data (thanks to Manuela Schiek, Johannes Kepler University of Linz, Austria, for submitting data!)
+    organic/C50H80N2O4 - ProSQ-C16/Bernhardt-RR-SS-o.yml
+    organic/C50H80N2O4 - ProSQ-C16/Bernhardt-RR-SS-e.yml
+    organic/C50H80N2O4 - ProSQ-C16/Bernhardt-rac-o.yml
+  organic/C50H80N2O4 - ProSQ-C16/Bernhardt-rac-e.yml
   new data (thanks to Daniel Rüdisser, HTflux Engineering GmbH, Graz, Austria, for submitting data in YAML format!)
     glass/schott/misc/DURAN.yml
   updated data

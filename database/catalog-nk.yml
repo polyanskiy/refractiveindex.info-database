@@ -5087,6 +5087,22 @@
         - PAGE: Seckin
           name: "Seçkin et al. 2023: n,k 0.193–1.69 µm"
           data: organic/C28H31ClN2O3 - Rhodamine 6G/Seckin.yml
+    - BOOK: C50H80N2O4 - ProSQ-C16
+      name: "C<sub>50</sub>H<sub>80</sub>N<sub>2</sub>O<sub>4</sub> (ProSQ-C16)"
+      info: organic/ProSQ-C16.html
+      content:
+        - PAGE: Bernhardt-SS-RR-o
+          name: "Bernhardt et al. 2024: Enantiomerically pure; n,k(o) 0.300–1.69 µm"
+          data: organic/C50H80N2O4 - ProSQ-C16/Bernhardt-RR-SS-o.yml
+        - PAGE: Bernhardt-SS-RR-e
+          name: "Bernhardt et al. 2024: Enantiomerically pure; n,k(e) 0.300–1.69 µm"
+          data: organic/C50H80N2O4 - ProSQ-C16/Bernhardt-RR-SS-e.yml
+        - PAGE: Bernhardt-SS-RR-o
+          name: "Bernhardt et al. 2024: Racemic mixture; n,k(o) 0.300–1.69 µm"
+          data: organic/C50H80N2O4 - ProSQ-C16/Bernhardt-rac-o.yml
+        - PAGE: Bernhardt-SS-RR-e
+          name: "Bernhardt et al. 2024: Racemic mixture; n,k(e) 0.300–1.69 µm"
+          data: organic/C50H80N2O4 - ProSQ-C16/Bernhardt-rac-e.yml
     - DIVIDER: "Polymers"
     - BOOK: polyvinil_chloride
       name: "(C<sub>2</sub>H<sub>3</sub>Cl)<sub>n</sub> (Polyvinyl chloride, PVC)"
