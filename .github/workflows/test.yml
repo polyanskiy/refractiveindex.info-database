@@ -1,3 +1,8 @@
+# This `test.yml` file defines a GitHub action that will run for all pull requests,
+# and for all pushes to main. It installs the python test libraries `parameterized`
+# and `pytest`, and then runs the `pytest` command. This automatically detects
+# `test_*.py` files and executes tests therein.
+
 name: CI
 
 on:
@@ -5,8 +10,8 @@ on:
   push:
     branches:
       - main
-  schedule:
-      - cron: "0 13 * * 1"  # Every Monday at 9AM EST
+  # schedule:
+  #     - cron: "0 13 * * 1"  # Every Monday at 9AM EST
 
 jobs:
   test-parsing:

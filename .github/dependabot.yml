@@ -1,0 +1,15 @@
+# This `dependabot.yml` file handles automatic security/version updates. In this repo,
+# it may e.g. update the version of the checkout action used in the `test.yml` action.
+# See https://github.com/dependabot/dependabot-core for additional info.
+
+version: 2
+updates:
+  - package-ecosystem: "pip"
+    directory: "/" # Location of package manifests
+    schedule:
+      interval: "daily"
+
+  - package-ecosystem: github-actions
+    directory: /
+    schedule:
+      interval: monthly
