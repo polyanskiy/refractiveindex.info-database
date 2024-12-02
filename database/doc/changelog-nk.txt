@@ -1,5 +1,14 @@
 ﻿============================== NEXT RELEASE ==============================
   
+  (thanks to Pascal Rauthe, Karlsruhe Institute of Technology, Germany, for suggesting data!)
+    organic/C5H10O2 - propyl acetate/Li.yml
+    organic/C2H6OS - dimethyl sulfoxide/Li.yml
+    organic/C3H7NO - dimethylformamide/Li.yml
+    organic/C4H9NO - dimethylacetamide/Li.yml
+    organic/CH2Cl2 - dichloromethane/Li.yml
+    organic/C4H8O - tetrahydrofuran/Li.yml
+    organic/C8H10 - xylene/Li.yml
+    organic/C4H8O2 - ethyl acetate/Li.yml
   new data (thanks to Manuela Schiek, Johannes Kepler University of Linz, Austria, for submitting data!)
     organic/C50H80N2O4 - ProSQ-C16/Bernhardt-RR-SS-o.yml
     organic/C50H80N2O4 - ProSQ-C16/Bernhardt-RR-SS-e.yml
