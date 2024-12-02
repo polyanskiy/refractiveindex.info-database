@@ -9,7 +9,7 @@ on:
   pull_request:
   push:
     branches:
-      - main
+      - master
   # schedule:
   #     - cron: "0 13 * * 1"  # Every Monday at 9AM EST
 
