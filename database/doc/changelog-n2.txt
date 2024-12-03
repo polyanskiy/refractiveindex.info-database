@@ -1,5 +1,6 @@
 ﻿============================== NEXT RELEASE ==============================
   new data
+    organic/(C10H8O4)n - polyethylene terephthalate/Mironov.yml
     main/GaAs/Matteo-220fs.yml
     main/GaAs/Matteo-200ps.yml
     main/Ge/Matteo-220fs.yml

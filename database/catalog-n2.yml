@@ -994,6 +994,14 @@
         - PAGE: Shaw
           name: "Shaw et al. 1993"
           data: organic/CH4 - methane/Shaw.yml
+    - DIVIDER: "Polymers"
+    - BOOK: polyethylene_terephthalate
+      name: "(C<sub>10</sub>H<sub>8</sub>O<sub>4</sub>)<sub>n</sub> (Polyethylene terephthalate, PET)"
+      info: organic/polyethylene terephthalate.html
+      content:
+        - PAGE: Mironov
+          name: "Mironov et al. 2015"
+          data: organic/(C10H8O4)n - polyethylene terephthalate/Mironov.yml
 - SHELF: other
   name: "OTHER - miscellaneous materials"
   content:
