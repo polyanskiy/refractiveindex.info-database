@@ -27,6 +27,7 @@ def custom_name_func(testcase_func, param_num, param):
     # Generate the custom test name from the test arguments.
     del param_num
     path = str(param.args[0])
+    path = path.replace("\\", "/")  # On windows, directories are separated by `\`.
     assert "/database/" in path
     path = path[path.index("/database/") :]
     return f"{testcase_func.__name__}{parameterized.to_safe_name(path)}"
