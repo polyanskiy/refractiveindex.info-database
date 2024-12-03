@@ -36,5 +36,5 @@ def custom_name_func(testcase_func, param_num, param):
 class ParseTest(unittest.TestCase):
     @parameterized.expand(PATHS, name_func=custom_name_func)
     def test_can_parse(self, path):
-        with open(path, "r") as stream:
+        with open(path, "r", encoding="utf-8") as stream:
             yaml.safe_load(stream)
