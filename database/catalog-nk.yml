@@ -11787,6 +11787,16 @@
           name: "Peck and Reeder 1972: n 0.185–1.7 µm"
           data: other/mixed gases/air/Peck.yml
     - DIVIDER: "Alloys"
+    - BOOK: stainless_steel
+      name: "Stainless steel"
+      info: other/stainless steel.html
+      content:
+        - PAGE: Karlsson-austenitic
+          name: "Karlsson and Ribbing 1982: Austenitic steel; n,k 0.20–2.50 µm"
+          data: other/alloys/stainless steel/Karlsson-austenitic.yml
+        - PAGE: Karlsson-ferritic
+          name: "Karlsson and Ribbing 1982: Ferritic steel; n,k 0.20–2.50 µm"
+          data: other/alloys/stainless steel/Karlsson-ferritic.yml
     - BOOK: Au-Ag
       name: "Au-Ag (Gold-silver alloy)"
       info: other/Au-Ag.html

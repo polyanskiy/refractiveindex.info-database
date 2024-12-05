@@ -1,6 +1,9 @@
 ﻿============================== NEXT RELEASE ==============================
-  
-  (thanks to Pascal Rauthe, Karlsruhe Institute of Technology, Germany, for suggesting data!)
+    
+  new data (thanks to Philipp Häberle, Digital artist, Stuttgart, Germany, for requesting the info!)
+    other/alloys/stainless steel/Karlsson-austenic.yml
+    other/alloys/stainless steel/Karlsson-ferritic.yml
+  new data (thanks to Pascal Rauthe, Karlsruhe Institute of Technology, Germany, for suggesting data!)
     organic/C5H10O2 - propyl acetate/Li.yml
     organic/C2H6OS - dimethyl sulfoxide/Li.yml
     organic/C3H7NO - dimethylformamide/Li.yml
