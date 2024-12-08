@@ -618,5 +618,5 @@ DATA:
         1.445811 0.265468 9.831430
         1.449249 0.266176 9.854231
 SPECS:
-    temperature: 298 K
+    temperature: 298
     substrate: Si/SiO2

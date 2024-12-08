@@ -50,8 +50,8 @@ SPECS:
     specific_heat: 0.482 J/(g·K)
     thermal_conductivity:
       - temperature: 298
-        value: 0.33 W/(m·K)
-    transformation_temperature: 197 °C
+        value: 0.33
+    transformation_temperature: 470
     hardness:
       - type: Knoop
         value: 1.11e9

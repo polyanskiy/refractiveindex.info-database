@@ -13,4 +13,4 @@ DATA:
     wavelength_range: 0.210 0.757
     coefficients: 0 0.331 0.071 0.164 0.134
 SPECS:
-    temperature: 50 K
+    temperature: 50

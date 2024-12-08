@@ -18,5 +18,5 @@ DATA:
     wavelength_range: 0.1404 0.5462
     coefficients: 0 0.00128145 184.661 0.0220486 376.840
 SPECS:
-    temperature: 0 °C
-    pressure: 101325 Pa
+    temperature: 273.15
+    pressure: 101325

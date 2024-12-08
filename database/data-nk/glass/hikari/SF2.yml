@@ -29,13 +29,13 @@ DATA:
         0.650 5.1751E-09
         0.700 5.5732E-09
 SPECS:
-    temperature: 20.0 °C
+    temperature: 293
     nd: 1.647690
     Vd: 33.841849
     glass_code: 648338
     glass_status: preferred
     density: 3.85 g/cm<sup>3</sup>
     thermal_expansion:
-      - temperature_range: -30 70 °C
-        coefficient: 9.8e-06 K<sup>-1</sup>
+      - temperature_range: 243 343
+        coefficient: 9.8e-06
     dPgF: 0.0013

@@ -13144,7 +13144,7 @@
           name: "Aluminium (Al)"
           data: main/Al/Rakic-BB.yml
           info: main/Al.html
-        - PAGE: "brass"
+        - PAGE: brass
           name: "Brass (Cu-Zn alloy)"
           data: other/alloys/Cu-Zn/Querry-Cu70Zn30.yml
           info: other/Cu-Zn.html
@@ -13293,14 +13293,14 @@
           name: "Mercury (Hg)"
           data: main/Hg/Inagaki.yml
           info: main/Hg.html
-    - BOOK: "misc"
+    - BOOK: misc
       name: "MISCELLANEOUS"
       info: other/soot.html
       content:
-        - PAGE: "acetylene_soot"
+        - PAGE: acetylene_soot
           name: "Acetylene soot"
           data: other/soots/acetylene soot/Dalzell.yml
-        - PAGE: "propane_soot"
+        - PAGE: propane_soot
           name: "Propanee soot"
           data: other/soots/propane soot/Dalzell.yml
         - PAGE: diesel_soot

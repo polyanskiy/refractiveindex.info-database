@@ -27,7 +27,7 @@ DATA:
         1.529 -0.0000E+00
         2.325 -0.0000E+00
 SPECS:
-    temperature: 25.0 °C
+    temperature: 298
     nd: 1.648497
     Vd: 53.035185
     glass_code: 649530

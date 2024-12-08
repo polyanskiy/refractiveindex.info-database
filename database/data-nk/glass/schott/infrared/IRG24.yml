@@ -52,8 +52,8 @@ SPECS:
         coefficient: 20.0e-06
     specific_heat: 0.37 J/(g·K)
     thermal_conductivity:
-      - value: 0.18 W/(m·K)
-    transformation_temperature: 225 °C
+      - value: 0.18
+    transformation_temperature: 498
     hardness:
       - type: Knoop
         value: 1.12e9

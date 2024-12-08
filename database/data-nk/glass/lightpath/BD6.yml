@@ -26,4 +26,4 @@ SPECS:
       - type: "dn/dT"
         wavelength_range: 8 12
         value: 30.5e-6
-    transformation_temperature: 185 °C
+    transformation_temperature: 458

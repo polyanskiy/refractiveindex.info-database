@@ -67,5 +67,5 @@ DATA:
         0.29254 1.0004588
         0.29806 1.0004572
 SPECS:
-    temperature: 0 °C
-    pressure: 101325 Pa
+    temperature: 273.15
+    pressure: 101325

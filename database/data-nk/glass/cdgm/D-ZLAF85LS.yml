@@ -42,12 +42,12 @@ DATA:
         2.200 9.1643E-07
         2.400 3.8601E-06
 SPECS:
-    temperature: 20.0 °C
+    temperature: 293
     nd: 1.854500
     Vd: 40.593546
     glass_code: 855406
     density: 5.29 g/cm<sup>3</sup>
     thermal_expansion:
-      - temperature_range: 20 300 °C
-        coefficient: 8.1e-06 K<sup>-1</sup>
+      - temperature_range: 293 573
+        coefficient: 8.1e-06
     dPgF: -0.008

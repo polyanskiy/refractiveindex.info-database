@@ -13,6 +13,6 @@ DATA:
     wavelength_range: 0.405 0.635
     coefficients: 0 1.1490 0.1234783
 SPECS:
-    temperature: 24 °C
+    temperature: 297
     film_thickness: 10e-6
     substrate: glass

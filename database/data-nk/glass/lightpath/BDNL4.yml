@@ -67,9 +67,9 @@ SPECS:
         temperature: 295
         wavelength_range: 1 2
         value: -9.7e-6
-    transformation_temperature: 205 °C
+    transformation_temperature: 478
     thermal_conductivity: 0.17 W/m*K
     hardness:
       - type: Vickers
-        value: 151
+        value: 1.48e9
     Youngs_modulus: 14.2e9

@@ -15,11 +15,11 @@ DATA:
         0.400 -0.0000E+00
         0.700 -0.0000E+00
 SPECS:
-    temperature: 23.0 °C
+    temperature: 296
     nd: 1.540720
     Vd: 47.224817
     glass_status: preferred
     density: 2.52 g/cm<sup>3</sup>
     thermal_expansion:
-      - temperature_range: -30 70 °C
-        coefficient: 8.1e-06 K<sup>-1</sup>
+      - temperature_range: 243 343
+        coefficient: 8.1e-06

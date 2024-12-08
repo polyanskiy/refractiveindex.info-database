@@ -99,5 +99,5 @@ DATA:
         5.19 1.000272741304
         5.20 1.000272738855
 SPECS:
-    temperature: 15 °C
-    pressure: 101325 Pa
+    temperature: 288.15
+    pressure: 101325

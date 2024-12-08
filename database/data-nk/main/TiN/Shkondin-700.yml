@@ -713,4 +713,4 @@ DATA:
 SPECS:
     film_thickness: 105e-9
     substrate: Si
-    annealing_temperature: 700 °C
+    annealing_temperature: 973

@@ -36,7 +36,7 @@ DATA:
         2.200 9.9038E-07
         2.400 1.7593E-06
 SPECS:
-    temperature: 23.0 °C
+    temperature: 296
     thermal_dispersion:
       - type: Schott formula
         coefficients: -8.721e-06 8.957e-09 -1.2236e-12 1.0287e-06 1.5626e-09 0.30338
@@ -44,7 +44,7 @@ SPECS:
     Vd: 23.077896
     density: 3.82 g/cm<sup>3</sup>
     thermal_expansion:
-      - temperature_range: -30 70 °C
-        coefficient: 8.4e-06 K<sup>-1</sup>
+      - temperature_range: 243 343
+        coefficient: 8.4e-06
     dPgF: 0.0202
     phosphate_resistance: 1.0

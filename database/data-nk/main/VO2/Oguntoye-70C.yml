@@ -1054,6 +1054,6 @@ DATA:
         2.494 2.67642 4.26304
         2.500 2.68466 4.26946
 SPECS:
-    temperature: 70 °C
+    temperature: 343
     film_thickness: 209e-9
     substrate: SiO2

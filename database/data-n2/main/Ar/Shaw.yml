@@ -15,5 +15,5 @@ DATA:
 SPECS:
     n2_method: SSPM
     pulse_duration: 10e-12
-    temperature: 300 K
+    temperature: 300
     pressure: 101325

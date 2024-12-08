@@ -13,4 +13,4 @@ DATA:
     wavelength_range: 1.10 1.65
     coefficients: 1.5062 -0.0018 2 0.0057 -2
 SPECS:
-    temperature: 23 °C
+    temperature: 296

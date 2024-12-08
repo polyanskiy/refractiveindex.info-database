@@ -25,11 +25,11 @@ SPECS:
     density: 4670
     hardness:
       - type: Knoop
-        value: 150 kgf/mm<sup>2</sup>
+        value: 1.47e9
     Youngs_modulus: 22.1e9
     thermal_expansion:
       - value: 14e-06
     thermal_dispersion:
       - type: "dn/dT"
         value: 91e-6
-    transformation_temperature: 278 °C
+    transformation_temperature: 551
