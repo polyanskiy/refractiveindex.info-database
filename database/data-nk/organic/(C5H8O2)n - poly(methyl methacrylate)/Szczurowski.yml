@@ -8,6 +8,8 @@ REFERENCES: |
     [<a href="https://refractiveindex.info/download/data/2013/Szczurowski - n_PMMA_raw.png">original data</a>].
 COMMENTS: |
     23 °C. PMMA synthesized in Marie-Curie University in Lublin, Poland
+SPECS:
+    temperature: 296
 DATA:
   - type: formula 2
     wavelength_range: 0.4047 1.083

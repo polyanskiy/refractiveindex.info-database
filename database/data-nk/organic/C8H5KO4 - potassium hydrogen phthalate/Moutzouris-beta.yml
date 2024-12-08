@@ -8,6 +8,8 @@ REFERENCES: |
     <a href="https://doi.org/10.1016/j.optmat.2010.12.021"><i>Opt. Mater.</i> <b>33</b>, 812-816 (2011)</a>
 COMMENTS: |
     n<sub>β</sub>; 24.5 °C (see the original publication for temperature-dependent dispersion formula).
+SPECS:
+    temperature: 277.65
 DATA:
   - type: formula 4
     wavelength_range: 0.450 1.551

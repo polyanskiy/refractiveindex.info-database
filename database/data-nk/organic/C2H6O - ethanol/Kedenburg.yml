@@ -8,6 +8,8 @@ REFERENCES: |
     <a href="https://doi.org/10.1364/OME.2.001588"><i>Opt. Mater. Express</i> <b>2</b>, 1588-1611 (2012)</a>
 COMMENTS: |
     20 °C.
+SPECS:
+    temperature: 293
 DATA:
   - type: formula 2
     wavelength_range: 0.5 1.6

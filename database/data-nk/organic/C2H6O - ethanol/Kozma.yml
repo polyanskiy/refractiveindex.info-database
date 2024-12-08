@@ -8,6 +8,8 @@ REFERENCES: |
     <a href="https://doi.org/10.1364/JOSAB.22.001479"><i>J. Opt. Soc. Am. B</i> <b>22</b>, 1479-1485 (2005)</a>
 COMMENTS: |
     22 °C
+SPECS:
+    temperature: 293
 DATA:
   - type: formula 5
     wavelength_range: 0.230 0.6407

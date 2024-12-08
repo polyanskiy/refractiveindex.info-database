@@ -8,6 +8,8 @@ REFERENCES: |
     <a href="https://doi.org/10.1016/0022-2860(95)08758-N"><i>J. Mol. Struct.</i> <b>349</b>, 257-260 (1995)</a>
 COMMENTS: |
     n-Pentane; 333 K (60 °C). See the original publication for the expression for n(λ,T).
+SPECS:
+    temperature: 333
 DATA:
   - type: formula 5
     wavelength_range: 0.326 0.644

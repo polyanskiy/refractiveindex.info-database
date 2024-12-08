@@ -11,6 +11,8 @@ REFERENCES: |
     Springer-Verlag, New York (1996) (as cited in ref. 1) - refractive index
 COMMENTS: |
     25 °C
+SPECS:
+    temperature: 298
 DATA:
   - type: tabulated n
     data: |

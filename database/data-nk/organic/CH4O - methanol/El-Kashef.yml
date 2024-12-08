@@ -8,6 +8,8 @@ REFERENCES: |
     <a href="https://doi.org/10.1016/S0921-4526(99)00856-X"><i>Physica B</i> <b>279</b>, 295-301 (2000)</a>
 COMMENTS: |
     25 °C
+SPECS:
+    temperature: 298
 DATA:
   - type: formula 5
     wavelength_range: 0.4 0.8

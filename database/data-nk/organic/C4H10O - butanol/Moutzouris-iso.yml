@@ -8,6 +8,8 @@ REFERENCES: |
     <a href="https://doi.org/10.1007/s00340-013-5744-3"><i>Appl. Phys. B</i> <b>116</b>, 617-622 (2013)</a>
 COMMENTS: |
     Isobutanol; 300 K (27 °C).
+SPECS:
+    temperature: 300
 DATA:
   - type: formula 3
     wavelength_range: 0.450 1.551

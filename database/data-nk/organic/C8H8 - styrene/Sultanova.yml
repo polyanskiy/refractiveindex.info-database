@@ -8,7 +8,9 @@ REFERENCES: |
     <a href="http://przyrbwn.icm.edu.pl/APP/ABSTR/116/a116-4-42.html"><i>Acta Physica Polonica A</i> <b>116</b>, 585-587 (2009)</a><br>
     (fit of the experimental data with the Sellmeier dispersion formula: Mikhail Polyanskiy)
 COMMENTS: |
-    20 °C
+    20 °C.
+SPECS:
+    temperature: 293
 DATA:
   - type: formula 2
     wavelength_range: 0.4368 1.052

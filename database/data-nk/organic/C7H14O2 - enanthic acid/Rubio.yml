@@ -7,10 +7,10 @@ REFERENCES: |
     Refractive index temperature and wavelength dependencies of normal saturated fatty acids in liquid state.
     <a href="https://doi.org/10.1016/j.expthermflusci.2004.11.002"><i>Exp. Therm. Fluid Sci.</i> <b>29</b>, 681-684 (2015)</a>
 COMMENTS: |
-    20 °C (293.15 K). For the temperature-dependent formula, refer to the original publication.
+    20 °C (293 K). For the temperature-dependent formula, refer to the original publication.
 DATA:
   - type: formula 5
     wavelength_range: 0.400 0.590
     coefficients: 1.41155 3.92342E-3 -2
 SPECS:
-    temperature: 293.15
+    temperature: 293
