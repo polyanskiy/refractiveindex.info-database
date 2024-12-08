@@ -3,11 +3,11 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: |
-    1) <a href="schott-BOROFLOAT-opticalproperties-datasheet-US_2021_06.pdf">BOROFLOAT® 33 – Optical Properties, June 2021</a>
+    1) <a href="https://refractiveindex.info/download/data/2021/schott-BOROFLOAT-opticalproperties-datasheet-US_2021_06.pdf">BOROFLOAT® 33 – Optical Properties, June 2021</a>
     (obtained from <a href="https://www.schott.com/en-us/products/borofloat-p1000314/downloads/">http://www.schott.com</a>).<br>
     Refractive index: Fit of numerical data with Sellmeier equation - Mikhail Polyanskiy<br>
-    Extinction coefficient: Transmission data extracted from figures and converted to k values - Mikhail Polyanskiy
-    2) <a href="BOROFLOAT_Technical_Data_OnePager_032019_US.pdf">BOROFLOAT® 33 – Technical data, March 2019</a>
+    Extinction coefficient: Transmission data extracted from figures and converted to k values - Mikhail Polyanskiy<br>
+    2) <a href="https://refractiveindex.info/download/data/2019/BOROFLOAT_Technical_Data_OnePager_032019_US.pdf">BOROFLOAT® 33 – Technical data, March 2019</a>
     (obtained from <a href="https://www.schott.com/en-us/products/borofloat-p1000314/downloads/">http://www.schott.com</a>).
 COMMENTS: |
     Room temperature.
