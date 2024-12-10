@@ -3,7 +3,7 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: |
-    <a href="http://refractiveindex.info/download/data/2017/schott_2017-01-20b.agf">SCHOTT Zemax catalog 2017-01-20b</a> (obtained from <a href="http://www.schott.com/advanced_optics/english/download/">http://www.schott.com</a>)<br>See also <a href="http://refractiveindex.info/download/data/2017/schott_2017-01-20.pdf">SCHOTT glass data sheets</a>
+    <a href="https://refractiveindex.info/download/data/2017/schott_2017-01-20b.agf">SCHOTT Zemax catalog 2017-01-20b</a> (obtained from <a href="https://www.schott.com/en-us/products/optical-glass-p1000267/downloads/">http://www.schott.com</a>)<br>See also <a href="https://refractiveindex.info/download/data/2017/schott_2017-01-20.pdf">SCHOTT glass data sheets</a>
 COMMENTS: |
     suitable for precision molding        
 DATA:
@@ -35,16 +35,16 @@ DATA:
 SPECS:
     temperature: 293
     thermal_dispersion:
-      - type: Schott formula
+      - type: formula A
         coefficients: -2.55e-06 5.68e-09 -2.85e-11 9.5e-07 1.54e-09 0.275
     nd: 1.7225
     Vd: 29.23
     glass_code: 723292.293
     glass_status: standard
-    density: 2.934 g/cm<sup>3</sup>
+    density: 2934
     thermal_expansion:
       - temperature_range: 243 343
-        coefficient: 8.99e-06
+        value: 8.99e-06
       - temperature_range: 293 573
-        coefficient: 1.113e-05
+        value: 1.113e-05
     dPgF: 0.0104

@@ -3,7 +3,7 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: |
-    <a href="http://refractiveindex.info/download/data/2017/hoya_2017-04-01.agf">HOYA Zemax catalog 2017-04-01</a> (obtained from <a href="http://www.hoya-opticalworld.com/english/datadownload/">http://www.hoya-opticalworld.com</a>)
+    <a href="https://refractiveindex.info/download/data/2017/hoya_2017-04-01.agf">HOYA Zemax catalog 2017-04-01</a> (obtained from <a href="http://www.hoya-opticalworld.com/english/datadownload/">http://www.hoya-opticalworld.com</a>)
 COMMENTS: |
     Recommended glass type
 DATA:
@@ -53,18 +53,18 @@ DATA:
 SPECS:
     temperature: 293
     thermal_dispersion:
-      - type: Schott formula
+      - type: formula A
         coefficients: 3.05e-06 1.07e-08 -2.21e-11 4.35e-07 4.49e-10 0.185
     nd: 1.69680
     Vd: 55.46
     glass_code: 697555
     glass_status: standard
-    density: 3.67 g/cm<sup>3</sup>
+    density: 3670
     thermal_expansion:
       - temperature_range: 243 343
-        coefficient: 5.6e-06
+        value: 5.6e-06
       - temperature_range: 293 573
-        coefficient: 7.2e-06
+        value: 7.2e-06
     dPgF: -0.0059
     climatic_resistance: 1.0
     acid_resistance: 4.0

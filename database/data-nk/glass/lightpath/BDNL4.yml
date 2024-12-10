@@ -55,21 +55,23 @@ SPECS:
     thermal_expansion:
       - value: 25.2e-06
     thermal_dispersion:
-      - type: "dn/dT"
+      - type: dn/dT
         temperature: 295
         wavelength_range: 8 12
         value: -16.3e-6
-      - type: "dn/dT"
+      - type: dn/dT
         temperature: 295
         wavelength_range: 3 5
         value: -14.3e-6
-      - type: "dn/dT"
+      - type: dn/dT
         temperature: 295
         wavelength_range: 1 2
         value: -9.7e-6
     transformation_temperature: 478
-    thermal_conductivity: 0.17 W/m*K
+    thermal_conductivity:
+      - value: 0.17
     hardness:
       - type: Vickers
         value: 1.48e9
-    Youngs_modulus: 14.2e9
+    youngs_modulus:
+      - value: 14.2e9

@@ -44,19 +44,23 @@ DATA:
 SPECS:
     temperature: 293
     thermal_dispersion:
-      - type: Schott formula
+      - type: formula A
         coefficients: 6.41e-05 0 0 1.68e-07 0 9.96e-01
     density: 4410
     thermal_expansion:
       - temperature_range: 293 373
-        coefficient: 12.5e-06
-    specific_heat: 0.33 J/(g·K)
+        value: 12.5e-06
+    specific_heat:
+      - value: 330
     thermal_conductivity:
       - value: 0.24
     transformation_temperature: 641
     hardness:
       - type: Knoop
         value: 1.41e9
-    fracture_toughness: 0.55 MPa·m<sup>1/2</sup>
-    shear_modulus: 8.9e9
-    Youngs_modulus: 21.5e9
+    fracture_toughness:
+      - value: 0.55e6
+    shear_modulus:
+      - value: 8.9e9
+    youngs_modulus:
+      - value: 21.5e9

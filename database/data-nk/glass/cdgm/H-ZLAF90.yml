@@ -39,14 +39,14 @@ DATA:
 SPECS:
     temperature: 293
     thermal_dispersion:
-      - type: Schott formula
+      - type: formula A
         coefficients: -2.2e-06 1.4e-08 -1.91e-11 1.04e-06 1.38e-09 0.29
     nd: 2.000690
     Vd: 25.425752
-    density: 4.74 g/cm<sup>3</sup>
+    density: 4740
     thermal_expansion:
       - temperature_range: 243 343
-        coefficient: 7e-06
+        value: 7e-06
       - temperature_range: 293 573
-        coefficient: 8.7e-06
+        value: 8.7e-06
     dPgF: 0.0117

@@ -3,7 +3,7 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: |
-    <a href="http://refractiveindex.info/download/data/2017/ohara_2017-11-30.agf">OHARA Zemax catalog 2017-11-30</a> (obtained from <a href="http://www.ohara-inc.co.jp/en/product/optical/list/">http://www.ohara-inc.co.jp</a>)<br>See also <a href="http://refractiveindex.info/download/data/2017/ohara_2017-11-30.pdf">OHARA glass data sheets</a>
+    <a href="https://refractiveindex.info/download/data/2017/ohara_2017-11-30.agf">OHARA Zemax catalog 2017-11-30</a> (obtained from <a href="http://www.ohara-inc.co.jp/en/product/optical/list/">http://www.ohara-inc.co.jp</a>)<br>See also <a href="https://refractiveindex.info/download/data/2017/ohara_2017-11-30.pdf">OHARA glass data sheets</a>
 COMMENTS: |
     Recommended 
 DATA:
@@ -39,17 +39,17 @@ DATA:
 SPECS:
     temperature: 298
     thermal_dispersion:
-      - type: Schott formula
+      - type: formula A
         coefficients: 4.3e-06 1.23e-08 -3.62e-11 7.71e-07 8.56e-10 0.265
     nd: 1.749497
     Vd: 35.283397
     glass_code: 750353
-    density: 3.81 g/cm<sup>3</sup>
+    density: 3810
     thermal_expansion:
       - temperature_range: 243 343
-        coefficient: 6.7e-06
+        value: 6.7e-06
       - temperature_range: 293 573
-        coefficient: 7.9e-06
+        value: 7.9e-06
     dPgF: 0.0025
     climatic_resistance: 1.0
     acid_resistance: 1.0

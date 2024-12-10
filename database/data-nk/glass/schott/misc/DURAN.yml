@@ -13,14 +13,15 @@ SPECS:
     nd: 1.527
     Vd: 58.6
     density: 2230
-    Youngs_modulus: 63e9
+    youngs_modulus:
+      - value: 63e9
     Poissons_ratio: 0.20
     thermal_expansion:
       - temperature_range: 293 573
-        coefficient: 3.3-06
+        value: 3.3-06
     thermal_conductivity:
       - temperature: 363
-        coefficient: 1.2
+        value: 1.2
     transformation_temperature: 798
     hydrolytic_resistance: 1
     acid_resistance: 1

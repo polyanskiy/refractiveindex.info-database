@@ -3,7 +3,7 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: |
-    <a href="http://refractiveindex.info/download/data/2017/nikon_2017-11.agf">NIKON Zemax catalog 2017-11</a> (obtained from <a href="http://www.nikon.com/products/glass/lineup/materials/optical/">http://www.nikon.com</a>)<br>See also <a href="http://refractiveindex.info/download/data/2017/hikari_2017-04-01.pdf">HIKARI glass data sheets</a>
+    <a href="https://refractiveindex.info/download/data/2017/nikon_2017-11.agf">NIKON Zemax catalog 2017-11</a> (obtained from <a href="http://www.nikon.com/products/glass/lineup/materials/optical/">http://www.nikon.com</a>)<br>See also <a href="https://refractiveindex.info/download/data/2017/hikari_2017-04-01.pdf">HIKARI glass data sheets</a>
 COMMENTS: |
     
 DATA:
@@ -48,12 +48,12 @@ DATA:
 SPECS:
     temperature: 296
     thermal_dispersion:
-      - type: Schott formula
+      - type: formula A
         coefficients: 2.9976e-06 1.104e-08 1.8476e-12 7.0436e-07 7.6931e-10 0.16596
     nd: 1.816000
     Vd: 46.594128
-    density: 4.99 g/cm<sup>3</sup>
+    density: 4990
     thermal_expansion:
       - temperature_range: 243 343
-        coefficient: 5.6e-06
+        value: 5.6e-06
     dPgF: -0.0096

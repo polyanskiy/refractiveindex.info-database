@@ -3,7 +3,7 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: |
-    <a href="http://refractiveindex.info/download/data/2017/hoya_2017-04-01.agf">HOYA Zemax catalog 2017-04-01</a> (obtained from <a href="http://www.hoya-opticalworld.com/english/datadownload/">http://www.hoya-opticalworld.com</a>)
+    <a href="https://refractiveindex.info/download/data/2017/hoya_2017-04-01.agf">HOYA Zemax catalog 2017-04-01</a> (obtained from <a href="http://www.hoya-opticalworld.com/english/datadownload/">http://www.hoya-opticalworld.com</a>)
 COMMENTS: |
     Glass for molded optics lens
 DATA:
@@ -52,18 +52,18 @@ DATA:
 SPECS:
     temperature: 293
     thermal_dispersion:
-      - type: Schott formula
+      - type: formula A
         coefficients: 3.06e-06 7.53e-09 -3.42e-11 7.88e-07 1.05e-09 4.45e-10
     nd: 1.69350
     Vd: 53.20
     glass_code: 694532
     glass_status: standard
-    density: 3.52 g/cm<sup>3</sup>
+    density: 3520
     thermal_expansion:
       - temperature_range: 243 343
-        coefficient: 6.5e-06
+        value: 6.5e-06
       - temperature_range: 293 573
-        coefficient: 8.6e-06
+        value: 8.6e-06
     dPgF: -0.0059
     climatic_resistance: 1.0
     stain_resistance: 4.0

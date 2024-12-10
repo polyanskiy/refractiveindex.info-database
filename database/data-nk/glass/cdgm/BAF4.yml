@@ -47,10 +47,10 @@ SPECS:
     Vd: 46.505886
     glass_code: 583465
     glass_status: preferred
-    density: 3.28 g/cm<sup>3</sup>
+    density: 3280
     thermal_expansion:
       - temperature_range: 243 343
-        coefficient: 7.8e-06
+        value: 7.8e-06
       - temperature_range: 293 573
-        coefficient: 9.1e-06
+        value: 9.1e-06
     dPgF: 0.0007

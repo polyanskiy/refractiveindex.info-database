@@ -40,17 +40,17 @@ DATA:
 SPECS:
     temperature: 293
     thermal_dispersion:
-      - type: Schott formula
+      - type: formula A
         coefficients: 3.8e-06 2.76e-08 -6.03e-11 1.6e-06 1.02e-09 0.279
     nd: 1.784701
     Vd: 26.075871
     glass_code: 785261
     glass_status: preferred
-    density: 4.99 g/cm<sup>3</sup>
+    density: 4990
     thermal_expansion:
       - temperature_range: 243 343
-        coefficient: 8.2e-06
+        value: 8.2e-06
       - temperature_range: 293 573
-        coefficient: 1.02e-05
+        value: 1.02e-05
     dPgF: 0.0052
     climatic_resistance: 1.0

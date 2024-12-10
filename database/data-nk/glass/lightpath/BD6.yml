@@ -23,7 +23,7 @@ SPECS:
     thermal_expansion:
       - value: 22.5e-06
     thermal_dispersion:
-      - type: "dn/dT"
+      - type: dn/dT
         wavelength_range: 8 12
         value: 30.5e-6
     transformation_temperature: 458

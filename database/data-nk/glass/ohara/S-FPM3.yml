@@ -3,7 +3,7 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: |
-    <a href="http://refractiveindex.info/download/data/2017/ohara_2017-11-30.agf">OHARA Zemax catalog 2017-11-30</a> (obtained from <a href="http://www.ohara-inc.co.jp/en/product/optical/list/">http://www.ohara-inc.co.jp</a>)<br>See also <a href="http://refractiveindex.info/download/data/2017/ohara_2017-11-30.pdf">OHARA glass data sheets</a>
+    <a href="https://refractiveindex.info/download/data/2017/ohara_2017-11-30.agf">OHARA Zemax catalog 2017-11-30</a> (obtained from <a href="http://www.ohara-inc.co.jp/en/product/optical/list/">http://www.ohara-inc.co.jp</a>)<br>See also <a href="https://refractiveindex.info/download/data/2017/ohara_2017-11-30.pdf">OHARA glass data sheets</a>
 COMMENTS: |
     Recommended - The unique relative partial dispersion.
 DATA:
@@ -47,14 +47,14 @@ DATA:
 SPECS:
     temperature: 298
     thermal_dispersion:
-      - type: Schott formula
+      - type: formula A
         coefficients: -1.39e-05 1.49e-09 1.66e-11 3.43e-07 1.65e-10 0.218
     nd: 1.537750
     Vd: 74.703119
-    density: 3.64 g/cm<sup>3</sup>
+    density: 3640
     thermal_expansion:
       - temperature_range: 243 343
-        coefficient: 1.15e-05
+        value: 1.15e-05
     dPgF: 0.0186
     climatic_resistance: 1.0
     acid_resistance: 5.1

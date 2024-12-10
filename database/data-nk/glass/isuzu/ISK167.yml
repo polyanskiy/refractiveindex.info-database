@@ -14,7 +14,7 @@ SPECS:
     density: 2640
     thermal_expansion:
       - temperature_range: 373 573
-        coefficient: 6.0e-06
+        value: 6.0e-06
     transformation_temperature: 882
     durability: 1
     hardness:
