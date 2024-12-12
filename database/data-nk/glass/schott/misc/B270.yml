@@ -7,7 +7,7 @@ REFERENCES: |
 COMMENTS: |
     20 °C. Clear high transmission crown glass (modified soda-lime glass) available in form of sheets, profile rods strips and blanks.
 SPECS:
-  - temperature: 293
+    temperature: 293
 DATA:
   - type: tabulated n
     data: |

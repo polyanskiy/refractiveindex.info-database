@@ -3420,6 +3420,10 @@
       name: "Bi<sub>2</sub>Se<sub>3</sub> (Bismuth selenide)"
       info: main/Bi2Se3.html
       content:
+        - DIVIDER: "Thin film"
+        - PAGE: Ermolaev
+          name: "Ermolaev et al. 2023: CVD film; n,k 0.290–3.30 µm"
+          data: main/Bi2Se3/Ermolaev.yml
         - DIVIDER: "2D structures"
         - PAGE: Fang-2L
           name: "Fang et al. 2020: 2-layer (2L) film; n,k 0.193–1.69 µm"
@@ -3949,6 +3953,14 @@
         - PAGE: Guo-e
           name: "Guo et al. 2022: n,k(e) 0.400–0.900 µm"
           data: main/Te/Guo-e.yml
+    - BOOK: Bi2Te3
+      name: "Bi<sub>2</sub>Te<sub>3</sub> (Bismuth telluride)"
+      info: main/Bi2Te3.html
+      content:
+        - DIVIDER: "Thin film"
+        - PAGE: Ermolaev
+          name: "Ermolaev et al. 2024: CVD flakes; n,k 0.450–1.50 µm"
+          data: main/Bi2Te3/Ermolaev.yml
     - BOOK: CdTe
       name: "CdTe (Cadmium telluride)"
       info: main/CdTe.html

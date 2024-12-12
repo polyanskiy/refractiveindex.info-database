@@ -15,10 +15,11 @@ SPECS:
     density: 2230
     youngs_modulus:
       - value: 63e9
-    Poissons_ratio: 0.20
+    poissons_ratio:
+      - value: 0.20
     thermal_expansion:
       - temperature_range: 293 573
-        value: 3.3-06
+        value: 3.3e-06
     thermal_conductivity:
       - temperature: 363
         value: 1.2

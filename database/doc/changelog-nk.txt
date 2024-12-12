@@ -1,5 +1,8 @@
 ﻿============================== NEXT RELEASE ==============================
-    
+
+  new data (thanks to Georgy Ermolaev, XPANCEO, Dubai, United Arab Emirates, for submitting data in YAML format!)
+    main/Bi2Se3/Ermolaev.yml
+    main/Bi2Te3/Ermolaev.yml
   new data (thanks to Philipp Häberle, Digital artist, Stuttgart, Germany, for requesting the info!)
     other/alloys/stainless steel/Karlsson-austenic.yml
     other/alloys/stainless steel/Karlsson-ferritic.yml
