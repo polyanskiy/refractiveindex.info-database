@@ -5955,23 +5955,18 @@
         - PAGE: ISK150
           name: "ISK150"
           data: glass/isuzu/ISK150.yml
-      content:
         - PAGE: ISK153
           name: "ISK153"
           data: glass/isuzu/ISK153.yml
-      content:
         - PAGE: ISK157
           name: "ISK157"
           data: glass/isuzu/ISK157.yml
-      content:
         - PAGE: ISK167
           name: "ISK167"
           data: glass/isuzu/ISK167.yml
-      content:
         - PAGE: ISK171
           name: "ISK171"
           data: glass/isuzu/ISK171.yml
-      content:
         - PAGE: ISK370
           name: "ISK370"
           data: glass/isuzu/ISK370.yml
