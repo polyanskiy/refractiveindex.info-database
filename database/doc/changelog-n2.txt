@@ -1,4 +1,4 @@
-﻿============================== NEXT RELEASE ==============================
+﻿============================== 2024-12-31 ==============================
   new data
     organic/(C10H8O4)n - polyethylene terephthalate/Mironov.yml
     main/GaAs/Matteo-220fs.yml
