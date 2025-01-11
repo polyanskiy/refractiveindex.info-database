@@ -1,0 +1,20 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+NAMES:
+  - Ethyl cinnamate
+  - C<sub>11</sub>H<sub>12</sub>O<sub>2</sub>
+  - Ethyl 3-phenylprop-2-enoate
+
+ABOUT: |
+    Ethyl cinnamate (C<sub>11</sub>H<sub>12</sub>O<sub>2</sub>) is a pale yellow to colorless liquid that possesses a characteristic, pleasant aroma similar to cinnamon. It is commonly used in the fragrance industry due to its attractive scent. Additionally, it finds application as a flavoring agent in certain food products, imparting a spicy, cinnamon-like taste. In the realm of organic synthesis, ethyl cinnamate can serve as a precursor for various chemicals. Its pleasing scent and flavoring properties have also led to its use in some cosmetic products.
+    
+    Chemical formula:
+    2-(HO)C<sub>6</sub>H<sub>4</sub>CO<sub>2</sub>C<sub>2</sub>H<sub>5</sub>
+
+LINKS:
+  - url: https://en.wikipedia.org/wiki/Ethyl_cinnamate
+    text: Ethyl cinnamate - Wikipedia
+  - url: https://webbook.nist.gov/cgi/cbook.cgi?ID=C4610699
+    text: (Z)-Ethyl cinnamate - NIST Chemistry WebBook

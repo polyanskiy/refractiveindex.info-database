@@ -1,0 +1,20 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+NAMES:
+  - Cinnamaldehyde
+  - C<sub>9</sub>H<sub>8</sub>O
+  - (2E)-3-phenylprop-2-enal
+  - (E)-Cinnamaldehyde
+  - Cinnamic aldehyde
+  - Trans-cinnamaldehyde
+
+ABOUT: |
+    Cinnamaldehyde (<i>C<sub>9</sub>H<sub>8</sub>O</i>) is the organic compound responsible for the characteristic flavor and aroma of cinnamon. It is a pale yellow, viscous liquid that is slightly soluble in water but highly soluble in organic solvents. Cinnamaldehyde is derived from the steam distillation of the oil of cinnamon bark. In addition to its use as a flavoring agent in foods, beverages, and confectionery, it has antimicrobial properties and is used in some types of fungicides. Furthermore, due to its pleasant scent and flavor, it is a common ingredient in cosmetics and chewing gums.
+
+LINKS:
+  - url: https://en.wikipedia.org/wiki/Cinnamaldehyde
+    text: Cinnamaldehyde - Wikipedia
+  - url: https://webbook.nist.gov/cgi/cbook.cgi?ID=C14371109
+    text: Cinnamaldehyde, (E)- - NIST Chemistry WebBook

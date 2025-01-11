@@ -1,0 +1,14 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+REFERENCES: |
+    X. Li, C. Wang, L. Ma, L. Liu.
+    Ellipsometry-transmission measurement of the complex refractive indices for a series of organic solvents in the 200–1700 nm spectral range.
+    <a href="https://doi.org/10.1016/j.infrared.2022.104313"><i>Infrared Phys. Technol.</i> <b>125</b>, 104313 (2022)</a>
+COMMENTS: |
+    Room temperature.
+DATA:
+  - type: formula 5
+    wavelength_range: 0.2 1.700
+    coefficients: 1.3587 5.269e-03 -2 -6.492e-05 -4 3.906e-06 -6

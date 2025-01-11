@@ -1,0 +1,25 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+NAMES:
+  - Tetrahydrofuran
+  - THF
+  - C<sub>4</sub>H<sub>8</sub>O
+  - Oxolane
+  - Butylene oxide
+  - Cyclotetramethylene oxide
+  - Diethylene oxide
+  - Furanidin
+  - Tetramethylene oxide
+
+ABOUT: |
+    Tetrahydrofuran (C<sub>4</sub>H<sub>8</sub>O), commonly referred to as THF, is a cyclic ether that appears as a clear, colorless liquid with an ether-like odor. It is highly volatile, water-miscible, and has a low viscosity, which makes it an excellent solvent for a wide variety of organic substances, including resins, polymers, and some metals. THF is particularly crucial in the production of polyvinyl chloride (PVC) piping and adhesives due to its ability to dissolve PVC without reacting with it. It is also widely used as a precursor to polymers and as a reaction medium in organic synthesis. Due to its rapid evaporation rate and excellent solvency, THF is often employed in specialized applications in both laboratory and industrial settings. However, it poses significant health risks if inhaled, ingested, or contacted with skin, necessitating careful handling.
+
+LINKS:
+  - url: https://en.wikipedia.org/wiki/Tetrahydrofuran
+    text: Tetrahydrofuran - Wikipedia
+  - url: https://pubchem.ncbi.nlm.nih.gov/compound/Tetrahydrofuran
+    text: Tetrahydrofuran - PubChem
+  - url: https://webbook.nist.gov/cgi/cbook.cgi?ID=C109999
+    text: Tetrahydrofuran - NIST Chemistry WebBook

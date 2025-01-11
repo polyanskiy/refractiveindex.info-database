@@ -1,0 +1,24 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+NAMES:
+  - Silk
+
+LINKS:
+  - url: https://en.wikipedia.org/wiki/Silk
+    text: Silk - Wikipedia
+  - url: https://en.wikipedia.org/wiki/Spider_silk
+    text: Spider silk - Wikipedia
+  - url: https://ase.tufts.edu/biomedical/unolab/silk_optics.html
+    text: Silk optics - Silklab at Tufts University
+  - url: https://en.wikipedia.org/wiki/Fibroin
+    text: Fibroin - Wikipedia
+  - url: https://en.wikipedia.org/wiki/Bombyx_mori
+    text: Bombyx mori - Wikipedia
+  - url: https://en.wikipedia.org/wiki/Antheraea_mylitta
+    text: Antheraea mylitta - Wikipedia
+  - url: https://en.wikipedia.org/wiki/Antheraea_assamensis
+    text: Antheraea assamensis - Wikipedia
+  - url: http://www.wormspit.com/erisilkworms.htm
+    text: Samia ricini, the eri silkworms - Wormspit.com

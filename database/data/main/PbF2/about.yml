@@ -1,0 +1,20 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+NAMES:
+  - Lead difluoride
+  - PbF<sub>2</sub>
+  - Lead fluoride
+  - Lead(II) fluoride
+
+ABOUT: |
+    Lead difluoride (PbF<sub>2</sub>) is a crystalline compound that exhibits notable optical properties. It has a wide transmission range, spanning from the ultraviolet to the far-infrared region, making it an attractive choice for certain optical applications. In addition, PbF<sub>2</sub> is used in the fabrication of specialty glass, especially in combination with heavy metals, to produce glasses with unique refractive properties. Its optical properties have also led to its consideration in infrared optics, such as in the production of lenses and windows for IR systems. However, due to the presence of lead, precautions should be taken when handling or working with PbF<sub>2</sub> to minimize exposure.
+
+LINKS:
+  - url: https://webbook.nist.gov/cgi/cbook.cgi?ID=C7783462
+    text: Lead difluoride - NIST Chemistry WebBook
+  - url: https://en.wikipedia.org/wiki/Lead(II)_fluoride
+    text: Lead(II) fluoride - Wikipedia
+  - url: https://www.webelements.com/compounds/lead/lead_difluoride.html
+    text: Lead difluoride - WebElements

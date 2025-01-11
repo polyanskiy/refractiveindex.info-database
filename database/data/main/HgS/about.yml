@@ -1,0 +1,27 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+NAMES:
+  - Mercury sulfide
+  - HgS
+  - Mercuric sulfide
+  - Mercury sulphide
+  - Mercury(II) sulfide
+  - Cinnabar
+  - Vermilion
+
+ABOUT: |
+    Mercury sulfide (HgS) is a compound that exists in both red (cinnabar) and black (metacinnabar) forms. The red cinnabar form has been historically significant as a pigment in art and decoration. In the realm of optics, HgS is of limited use due to its poor transparency and the toxicity of mercury. However, its semiconducting properties have attracted attention for potential applications in photodetectors and other optoelectronic devices. Caution should be exercised when handling this material due to the inherent risks associated with mercury.
+    
+    Mineral: Cinnabar
+
+LINKS:
+  - url: https://en.wikipedia.org/wiki/Mercury_sulfide
+    text: Mercury sulfide - Wikipedia
+  - url: https://www.webelements.com/compounds/mercury/mercury_sulphide.html
+    text: Mercury sulphide - WebElements
+  - url: https://en.wikipedia.org/wiki/Cinnabar
+    text: Cinnabar - Wikipedia
+  - url: https://en.wikipedia.org/wiki/Vermilion
+    text: Vermilon - Wikipedia

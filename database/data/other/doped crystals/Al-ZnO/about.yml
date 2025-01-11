@@ -1,0 +1,16 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+NAMES:
+  - Aluminium-doped zinc oxide
+  - AZO
+  - Al:ZnO
+
+LINKS:
+  - url: https://en.wikipedia.org/wiki/Zinc_oxide
+    text: Zinc oxide - Wikipedia
+  - url: https://en.wikipedia.org/wiki/Aluminium
+    text: Aluminium - Wikipedia
+  - url: https://en.wikipedia.org/wiki/Dopant
+    text: Dopant - Wikipedia

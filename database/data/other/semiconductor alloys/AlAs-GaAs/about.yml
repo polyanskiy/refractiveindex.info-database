@@ -1,0 +1,14 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+NAMES:
+  - Aluminium gallium arsenide
+  - AlGaAs
+  - Aluminum gallium arsenide
+
+LINKS:
+  - url: https://en.wikipedia.org/wiki/Aluminium_gallium_arsenide
+    text: Aluminium gallium arsenide - Wikipedia
+  - url: https://www.ioffe.ru/SVA/NSM/Semicond/AlGaAs
+    text: Aluminium Gallium Arsenide - NSM Archive

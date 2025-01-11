@@ -1,0 +1,18 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+NAMES:
+  - Germanium
+  - Ge
+
+ABOUT: |
+    Germanium is a brittle, lustrous, gray-white metalloid with a diamond-like crystalline structure. While opaque in the visible spectrum, it becomes transparent in the mid-infrared range, from approximately 2 µm to 14 µm. This unique transparency makes germanium highly valuable in the field of infrared optics. It is commonly utilized as a material for lenses, windows, and prisms in thermal imaging systems, as well as a substrate for mid-infrared detectors and emitters. The material is also employed in semiconductor applications, particularly in the production of transistors and photodetectors.Due to its considerable thermal conductivity, it is commonly employed in high-power laser systems. However, its sensitivity to oxidation and high density may pose some limitations for certain applications.
+
+LINKS:
+  - url: https://en.wikipedia.org/wiki/Germanium
+    text: Germanium - Wikipedia
+  - url: https://www.webelements.com/germanium
+    text: Germanium - WebElements
+  - url: https://www.ioffe.ru/SVA/NSM/Semicond/Ge
+    text: Germanium - NSM Archive

@@ -1,0 +1,21 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+NAMES:
+  - Copper-zinc alloy
+  - Cu-Zn
+  - Brass
+
+ABOUT: |
+    Brass is an alloy primarily composed of copper and zinc, prized for its versatility and attractive gold-like appearance. Its mechanical properties, such as strength and ductility, can be adjusted by varying the copper-to-zinc ratio, making it suitable for a wide range of applications—from musical instruments and decorative pieces to plumbing and marine hardware. Brass is relatively resistant to corrosion and easy to machine, further contributing to its popularity in manufacturing and engineering fields. In decorative contexts, the natural patina that can develop on brass adds to its aesthetic appeal and cultural significance.
+
+LINKS:
+  - url: https://en.wikipedia.org/wiki/Brass
+    text: Brass - Wikipedia
+  - url: https://en.wikipedia.org/wiki/Copper
+    text: Copper - Wikipedia
+  - url: https://en.wikipedia.org/wiki/Zinc
+    text: Zinc - Wikipedia
+  - url: https://en.wikipedia.org/wiki/Alloy
+    text: Alloy - Wikipedia

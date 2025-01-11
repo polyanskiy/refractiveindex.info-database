@@ -1,0 +1,14 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+NAMES:
+  - Colon
+  - Large intestine
+  - Large bowel
+
+LINKS:
+  - url: https://en.wikipedia.org/wiki/Large_intestine
+    text: Large intestine - Wikipedia
+  - url: http://www.webmd.com/digestive-disorders/picture-of-the-colon
+    text: "The Colon (Human Anatomy): Picture, Function, Definition, Problems - WebMD"

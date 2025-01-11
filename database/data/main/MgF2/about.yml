@@ -1,0 +1,20 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+NAMES:
+  - Magnesium fluoride
+  - MgF<sub>2</sub>
+  - Magnesium difluoride
+  - Magnesium(II) fluoride
+
+ABOUT: |
+    Magnesium fluoride (MgF<sub>2</sub>) is a transparent crystalline material known for its outstanding transmission properties in the ultraviolet to infrared spectrum. It is birefringent and often used in optical components such as windows, lenses, prisms, and polarizers. MgF<sub>2</sub> is commonly applied as a protective antireflection coating on optical elements due to its high laser damage threshold, making it especially valuable for applications involving intense ultraviolet light, like those in excimer lasers. Its resistance to mechanical and thermal shocks, coupled with its transparency, also makes it suitable for use in rugged environments and outer space applications.
+
+LINKS:
+  - url: https://webbook.nist.gov/cgi/cbook.cgi?ID=C7783406
+    text: Magnesium fluoride - NIST Chemistry WebBook
+  - url: https://en.wikipedia.org/wiki/Magnesium_fluoride
+    text: Magnesium fluoride - Wikipedia
+  - url: https://www.webelements.com/compounds/magnesium/magnesium_difluoride.html
+    text: Magnesium difluoride - WebElements

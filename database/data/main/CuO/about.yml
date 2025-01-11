@@ -1,0 +1,24 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+NAMES:
+  - Copper monoxide
+  - CuO
+  - Cupric oxide
+  - Copper(II) oxide
+  - Copper oxide
+  - Tenorite
+
+ABOUT: |
+    Copper monoxide (CuO) is a p-type semiconductor compound with a monoclinic crystal structure. Although its primary applications are often in the realms of catalysis and as a pigment, it has gained attention in the field of optics due to its interesting nonlinear optical properties. Copper monoxide is also studied for its potential use in photovoltaic and photodetector applications, where its relatively narrow band gap can be advantageous. While it may not be a mainstream material in optical systems, its unique properties make it an interesting subject of study for specialized optical applications.
+    
+    Mineral: Tenorite
+
+LINKS:
+  - url: https://en.wikipedia.org/wiki/Copper(II)_oxide
+    text: Copper(II) oxide - Wikipedia
+  - url: https://www.webelements.com/compounds/copper/copper_oxide.html
+    text: Copper oxide - WebElements
+  - url: https://en.wikipedia.org/wiki/Tenorite
+    text: Tenorite - Wikipedia

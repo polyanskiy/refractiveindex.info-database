@@ -1,0 +1,26 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+NAMES:
+  - Methanol
+  - CH<sub>4</sub>O
+  - Hydroxymethane
+  - Methyl alcohol
+  - Methyl hydrate
+  - Methyl hydroxide
+  - Methylic alcohol
+  - Methylol
+  - Wood alcohol
+
+ABOUT: |
+    Methanol (CH<sub>4</sub>O), also known as wood alcohol, is a clear, colorless liquid with a slightly sweet odor. It is the simplest alcohol and is used as an antifreeze, solvent, fuel, and as a feedstock for producing various chemicals. Methanol is flammable and is toxic when ingested, inhaled, or absorbed through the skin. It can cause blindness if ingested. In the field of optics, methanol is often utilized as a solvent in various spectroscopic studies due to its ability to dissolve a wide range of organic compounds.
+    
+    Chemical formula:
+    CH<sub>3</sub>OH or MeOH
+
+LINKS:
+  - url: https://en.wikipedia.org/wiki/Methanol
+    text: Methanol - Wikipedia
+  - url: https://webbook.nist.gov/cgi/cbook.cgi?ID=C67561
+    text: Methyl Alcohol - NIST Chemistry WebBook

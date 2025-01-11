@@ -1,0 +1,14 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+NAMES:
+  - Blood (Human body)
+
+LINKS:
+  - url: https://en.wikipedia.org/wiki/Blood
+    text: Blood - Wikipedia
+  - url: https://www.webmd.com/heart/anatomy-picture-of-blood
+    text: "Human Anatomy: Blood - Cells, Plasma, Circulation, and More - WebMD"
+  - url: http://www.hematology.org/Patients/Basics
+    text: Blood Basics - American Society of Hematology

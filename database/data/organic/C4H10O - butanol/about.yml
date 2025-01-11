@@ -1,0 +1,78 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+NAMES:
+  - Butanol
+  - C<sub>4</sub>H<sub>10</sub>O
+  - Butyl alcohol
+  - n-Butanol
+  - sec-Butanol
+  - Isobutanol
+  - tert-Butanol
+  - Butan-1-ol
+  - Butalcohol
+  - Butanol
+  - 1-Butanol
+  - Butyl alcohol
+  - Butyl hydrate
+  - Butylic alcohol
+  - Butyralcohol
+  - Butyric alcohol
+  - Butyryl alcohol
+  - Hydroxybutane
+  - Propylcarbinol
+  - Butan-2-ol
+  - 2-Butanol
+  - sec-Butyl alcohol
+  - 2-Butyl alcohol
+  - 2-Methylpropan-1-ol
+  - Isobutyl alcohol
+  - IBA
+  - 2-Methyl-1-propanol
+  - 1-Propanol, 2-methyl-
+  - 2-Methylpropyl alcohol
+  - tert-Butyl alcohol
+  - TBA
+  - 2-Methylpropan-2-ol
+  - 2-Methyl-2-propanol
+  - 2M2P
+  - 2-Propanol, 2-methyl-
+
+ABOUT: |
+    Butanol (C<sub>4</sub>H<sub>10</sub>O) refers to a group of four isomeric alcohol compounds with a four-carbon structure. The isomers include n-butanol (or 1-butanol), isobutanol (or 2-methyl-1-propanol), sec-butanol (or 2-butanol), and tert-butanol (or 2-methyl-2-propanol). Of these, n-butanol is the most commonly referred to when discussing "butanol."
+    
+    Butanol is a colorless liquid at room temperature with a characteristic alcoholic odor. It is moderately soluble in water but is very soluble in most organic solvents. It's utilized in a wide variety of applications, including as a solvent in the manufacturing of resins, plasticizers, and other chemicals. It's also employed in the formulation of paints, coatings, varnishes, and inks. In addition, butanol is considered a potential biofuel, as it can be produced from biomass sources and has properties comparable to gasoline.
+    
+    Chemical formula (n-Butanol):
+    CH<sub>3</sub>(CH<sub>2</sub>)<sub>3</sub>OH or C<sub>4</sub>H<sub>9</sub>OH
+    
+    
+    Chemical formula (sec-Butanol):
+    CH<sub>3</sub>CH(OH)CH<sub>2</sub>CH<sub>3</sub>
+    
+    Chemical formula (Isobutanol):
+    (CH<sub>3</sub>)<sub>2</sub>CHCH<sub>2</sub>OH
+    
+    Chemical formula (tert-Butanol):
+    (CH<sub>3</sub>)<sub>3</sub>COH
+
+LINKS:
+  - url: https://en.wikipedia.org/wiki/Butanol
+    text: Butanol - Wikipedia
+  - url: https://en.wikipedia.org/wiki/N-Butanol
+    text: n-Butanol - Wikipedia
+  - url: https://webbook.nist.gov/cgi/cbook.cgi?ID=C71363
+    text: 1-Butanol - NIST Chemistry WebBook
+  - url: https://en.wikipedia.org/wiki/2-Butanol
+    text: 2-Butanol - Wikipedia
+  - url: https://webbook.nist.gov/cgi/cbook.cgi?ID=C78922
+    text: 2-Butanol - NIST Chemistry WebBook
+  - url: https://en.wikipedia.org/wiki/Isobutanol
+    text: Isobutanol - Wikipedia
+  - url: https://webbook.nist.gov/cgi/cbook.cgi?ID=C78831
+    text: 1-Propanol, 2-methyl- - NIST Chemistry WebBook
+  - url: https://en.wikipedia.org/wiki/Tert-Butyl_alcohol
+    text: tert-Butyl alcohol - Wikipedia
+  - url: https://webbook.nist.gov/cgi/cbook.cgi?ID=C75650
+    text: 2-Propanol, 2-methyl- - NIST Chemistry WebBook

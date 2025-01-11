@@ -1,0 +1,16 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+NAMES:
+  - Mercury
+  - Hg
+
+ABOUT: |
+    Mercury (Hg) is a liquid metal at room temperature, notable for its high density and low melting point. While it has limited direct applications in optics, mercury vapor is used in some specialized lighting sources such as mercury-vapor lamps. It's crucial to exercise extreme caution when handling mercury due to its toxic nature, especially in vapor form. Mercury amalgams and compounds are also utilized in various technologies but are being phased out in many applications due to environmental and health concerns. It's worth mentioning that in older barometers and thermometers, mercury was commonly used, although alternatives have largely replaced it in such devices today.
+
+LINKS:
+  - url: https://en.wikipedia.org/wiki/Mercury
+    text: Mercury - Wikipedia
+  - url: https://www.webelements.com/mercury/
+    text: Mercury - WebElements

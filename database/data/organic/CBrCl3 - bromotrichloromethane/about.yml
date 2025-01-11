@@ -1,0 +1,17 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+NAMES:
+  - Methane
+  - CH<sub>4</sub>
+  - Tetrahydridocarbon
+
+ABOUT: |
+    Methane (CH<sub>4</sub>) is the simplest alkane and is a colorless, odorless gas under standard conditions. It is the primary constituent of natural gas and is notable for being a potent greenhouse gas. In the environment, methane is produced during the anaerobic decomposition of organic matter, such as in wetlands, ruminant digestion, and landfills. It can also be found in various industrial processes and is used as a fuel for heating and electricity generation. In the realm of optics, methane's refractive properties might be of interest, especially when considering its potential presence in gaseous atmospheres of extraterrestrial bodies.
+
+LINKS:
+  - url: https://en.wikipedia.org/wiki/Methane
+    text: Methane - Wikipedia
+  - url: https://webbook.nist.gov/cgi/cbook.cgi?ID=C74828
+    text: Methane - NIST Chemistry WebBook

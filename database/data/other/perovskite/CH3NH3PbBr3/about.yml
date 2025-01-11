@@ -1,0 +1,19 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+NAMES:
+  - Methylammonium lead bromide
+  - CH<sub>3</sub>NH<sub>3</sub>PbBr<sub>3</sub>
+  - MAPbBr<sub>3</sub>
+
+ABOUT: |
+    Methylammonium lead bromide (CH<sub>3</sub>NH<sub>3</sub>PbBr<sub>3</sub>) is a hybrid organic-inorganic perovskite material noted for its outstanding optical properties and high efficiency in photovoltaic applications. This compound forms a crystalline structure that is effective in light absorption and electron-hole separation, making it highly advantageous for use in solar cells. Its refractive index and other optical characteristics are of particular interest for optical applications, including photovoltaic devices and light-emitting diodes (LEDs).
+    
+    While CH<sub>3</sub>NH<sub>3</sub>PbBr<sub>3</sub> shows great promise in advanced technological applications, it poses environmental and health risks due to its lead content. Additionally, its stability under environmental conditions remains a subject of extensive research, aiming to enhance its durability and safety for commercial use.
+
+LINKS:
+  - url: https://en.wikipedia.org/wiki/Perovskite_(structure)
+    text: Perovskite (structure) - Wikipedia
+  - url: https://en.wikipedia.org/wiki/Perovskite_solar_cell
+    text: Perovskite solar cell - Wikipedia

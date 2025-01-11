@@ -1,0 +1,55 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+REFERENCES: |
+    A. S. Slavich, G. A. Ermolaev, M. K. Tatmyshevskiy, A. N. Toksumakov, O. G. Matveeva, D. V. Grudinin, K. V. Voronin, A. Mazitov, K. V. Kravtsov, A. V. Syuy, D. M. Tsymbarenko, M. S. Mironov, S. M. Novikov, I. Kruglov, D. A. Ghazaryan, A. A. Vyshnevyy, A. V. Arsenin, V. S. Volkov, K. S Novoselov.
+    Exploring van der Waals materials with high anisotropy: geometrical and optical approaches.
+    <a href="https://doi.org/10.1038/s41377-024-01407-3"><i>Light Sci. Appl.</i>, <b>13</b>, 68 (2024)</a>
+    (Numerical data kindly provided by Georgy Ermolaev)
+COMMENTS: |
+    α-axis.
+DATA:
+  - type: tabulated n
+    data: |
+        0.500 2.40425
+        0.510 2.38351
+        0.520 2.36395
+        0.530 2.34549
+        0.540 2.32804
+        0.550 2.31154
+        0.560 2.29591
+        0.570 2.28110
+        0.580 2.26704
+        0.590 2.25370
+        0.600 2.24102
+        0.610 2.22895
+        0.620 2.21747
+        0.630 2.20653
+        0.640 2.19609
+        0.650 2.18614
+        0.660 2.17663
+        0.670 2.16755
+        0.680 2.15886
+        0.690 2.15055
+        0.700 2.14259
+        0.710 2.13497
+        0.720 2.12766
+        0.730 2.12065
+        0.740 2.11392
+        0.750 2.10746
+        0.760 2.10126
+        0.770 2.09529
+        0.780 2.08955
+        0.790 2.08403
+        0.800 2.07871
+        0.810 2.07359
+        0.820 2.06866
+        0.830 2.06390
+        0.840 2.05931
+        0.850 2.05488
+        0.860 2.05061
+        0.870 2.04648
+        0.880 2.04249
+        0.890 2.03864
+        0.900 2.03491

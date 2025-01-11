@@ -1,0 +1,15 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+NAMES:
+  - Silicon-doped indium phosphide
+  - Si:InP
+
+LINKS:
+  - url: https://en.wikipedia.org/wiki/Indium(III)_phosphide
+    text: Indium(III) phosphide - Wikipedia
+  - url: https://en.wikipedia.org/wiki/Silicon
+    text: Silicon - Wikipedia
+  - url: https://en.wikipedia.org/wiki/Dopant
+    text: Dopant - Wikipedia

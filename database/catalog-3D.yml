@@ -1,0 +1,135 @@
+- SHELF: 3d
+  name: "3D - selected data for 3D artists"
+  content:
+    - BOOK: metals
+      name: "METALS"
+      content:
+        - PAGE: aluminium
+          name: "Aluminium (Al)"
+          data: main/Al/nk/Rakic-BB.yml
+        - PAGE: brass
+          name: "Brass (Cu-Zn alloy)"
+          data: other/alloys/Cu-Zn/nk/Querry-Cu70Zn30.yml
+        - PAGE: copper
+          name: "Copper (Cu)"
+          data: main/Cu/nk/Rakic-BB.yml
+        - PAGE: gold
+          name: "Gold (Au)"
+          data: main/Au/nk/Rakic-BB.yml
+        - PAGE: iron
+          name: "Iron (Fe)"
+          data: main/Fe/nk/Johnson.yml
+        - PAGE: lead
+          name: "Lead (Pb)"
+          data: main/Pb/nk/Golovashkin-293K.yml
+        - PAGE: mercury
+          name: "Mercury (Hg)"
+          data: main/Hg/nk/Inagaki.yml
+        - PAGE: platinum
+          name: "Platinum (Pt)"
+          data: main/Pt/nk/Rakic-BB.yml
+        - PAGE: silver
+          name: "Silver (Ag)"
+          data: main/Ag/nk/Rakic-BB.yml
+        - PAGE: titanium
+          name: "Titanium (Ti)"
+          data: main/Ti/nk/Johnson.yml
+    - BOOK: plastics
+      name: "PLASTICS"
+      content:
+        - PAGE: pmma
+          name: "PMMA - Poly(methyl methacrylate)"
+          data: organic/(C5H8O2)n - poly(methyl methacrylate)/nk/Sultanova.yml
+        - PAGE: pvp
+          name: "PVP - Polyvinylpyrrolidone"
+          data: organic/(C6H9NO)n - polyvinylpyrrolidone/nk/Konig.yml
+        - PAGE: ps
+          name: "PS - Polystyren"
+          data: organic/(C8H8)n - polystyrene/nk/Sultanova.yml
+        - PAGE: pc
+          name: "PC - Polycarbonate"
+          data: organic/(C16H14O3)n - polycarbonate/nk/Sultanova.yml
+        - PAGE: Cellulose
+          name: "Cellulose"
+          data: organic/(C6H10O5)n - cellulose/nk/Sultanova.yml
+        - PAGE: NAS-21
+          name: "NAS-21"
+          data: other/commercial polymers/NAS-21/nk/Sultanova.yml
+        - PAGE: Optorez1330
+          name: "Optorez1330"
+          data: other/commercial polymers/Optorez1330/nk/Sultanova.yml
+        - PAGE: ZeonexE48R
+          name: "ZeonexE48R"
+          data: other/commercial polymers/ZeonexE48R/nk/Sultanova.yml
+    - BOOK: crystals
+      name: "CRYSTALS"
+      content:
+        - PAGE: diamond
+          name: "Diamond (C)"
+          data: main/C/nk/Phillip.yml
+        - PAGE: germanium
+          name: "Germanium (Ge)"
+          data: main/Ge/nk/Aspnes.yml
+        - PAGE: ice
+          name: "Ice (H2O)"
+          data: main/H2O/nk/Warren-2008.yml
+        - PAGE: quartz
+          name: "Quartz (SiO2)"
+          data: main/SiO2/nk/Malitson.yml
+        - PAGE: salt
+          name: "Salt (NaCl)"
+          data: main/NaCl/nk/Li.yml
+        - PAGE: sapphire
+          name: "Sapphire (Al2O3)"
+          data: main/Al2O3/nk/Malitson-o.yml
+        - PAGE: silicon
+          name: "Silicon (Si)"
+          data: main/Si/nk/Vuye-20C.yml
+    - BOOK: glass
+      name: "GLASS"
+      content:
+        - PAGE: BK7
+          name: "BK7 optical glass (crown)"
+          data: glass-2/schott/optical/N-BK7.yml
+        - PAGE: BAF10
+          name: "BAF10 optical glass (flint)"
+          data: glass-2/schott/optical/N-BAF10.yml
+        - PAGE: soda-lime-clear
+          name: "Soda-lime glass - Clear"
+          data: glass-2/misc/soda-lime/Rubin-clear.yml
+        - PAGE: soda-lime-bronze
+          name: "Soda-lime glass - Bronze"
+          data: glass-2/misc/soda-lime/Rubin-bronze.yml
+        - PAGE: soda-lime-grey
+          name: "Soda-lime glass - Grey"
+          data: glass-2/misc/soda-lime/Rubin-grey.yml
+        - PAGE: soda-lime-green
+          name: "Soda-lime glass - Green"
+          data: glass-2/misc/soda-lime/Rubin-green.yml
+    - BOOK: liquids
+      name: "LIQUIDS"
+      content:
+        - PAGE: water
+          name: "Water (H2O)"
+          data: main/H2O/nk/Hale.yml
+        - PAGE: acetone
+          name: "Acetone (C3H6O)"
+          data: organic/C3H6O - acetone/nk/Rheims.yml
+        - PAGE: benzene
+          name: "Benzene (C6H6)"
+          data: organic/C6H6 - benzene/nk/Moutzouris.yml
+        - PAGE: mercury
+          name: "Mercury (Hg)"
+          data: main/Hg/nk/Inagaki.yml
+    - BOOK: misc
+      name: "MISCELLANEOUS"
+      content:
+        - PAGE: acetylene_soot
+          name: "Acetylene soot"
+          data: other/soots/acetylene soot/nk/Dalzell.yml
+        - PAGE: propane_soot
+          name: "Propanee soot"
+          data: other/soots/propane soot/nk/Dalzell.yml
+        - PAGE: diesel_soot
+          name: "Diesel soot"
+          data: other/soots/diesel soot/nk/Querry-NMSU.yml

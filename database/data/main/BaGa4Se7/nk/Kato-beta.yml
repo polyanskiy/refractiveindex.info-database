@@ -1,0 +1,14 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+REFERENCES: |
+    K. Kato, K. Miyata, V. Petrov.
+    Phase-matching properties of BaGa<sub>4</sub>Se<sub>7</sub> for SHG and SFG in the 0.901–10.5910 μm range.
+    <a href="https://doi.org/10.1364/AO.56.002978"><i>Appl. Opt.</i>, <b>56</b>, 2978–2981 (2017)</a>
+COMMENTS: |
+    n<sub>β</sub>; room temperature.
+DATA:
+  - type: formula 4
+    wavelength_range: 0.901 10.591
+    coefficients: 6.86603 0.26816 0 0.04259 1 682.97 0 781.78 1

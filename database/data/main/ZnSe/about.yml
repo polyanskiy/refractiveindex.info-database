@@ -1,0 +1,16 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+NAMES:
+  - Zinc selenide
+  - ZnSe
+
+ABOUT: |
+    Zinc selenide (ZnSe) is a binary compound semiconductor with a cubic zinc blende structure. This material is transparent in the visible and near-infrared regions of the electromagnetic spectrum, with a wide direct bandgap of approximately 2.7 eV. Due to its transparency and high refractive index, ZnSe has become a popular choice for high-power infrared laser systems, especially CO<sub>2</sub> lasers, where ZnSe optics are used as output couplers and beam expanders. ZnSe can also be doped with various elements, most notably with chromium (Cr:ZnSe), to produce mid-infrared solid-state lasers. In addition, ZnSe is utilized in the fabrication of light-emitting diodes, photodetectors, and solar cells.
+
+LINKS:
+  - url: https://en.wikipedia.org/wiki/Zinc_selenide
+    text: Zinc Selenide - Wikipedia
+  - url: https://www.webelements.com/compounds/zinc/zinc_selenide.html
+    text: Zinc Selenide - WebElements

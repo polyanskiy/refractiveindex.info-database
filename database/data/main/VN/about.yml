@@ -1,0 +1,17 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+NAMES:
+  - Vanadium nitride
+  - VN
+  - Vanadium(III) nitride
+
+ABOUT: |
+    Vanadium nitride (VN) is a compound of vanadium and nitrogen, possessing properties that make it desirable in various industrial applications. It exhibits a combination of hardness and electrical conductivity. As a result, it's often used as a wear-resistant coating to extend the lifespan of tools and machining components. Due to its electrical conductivity, it can also be found in microelectronics as a barrier layer. Additionally, in the field of metallurgy, VN is used as an additive to steel to refine grain size and consequently, improve the mechanical properties of the steel. Its thin films are of interest in the electronics industry for their potential applications in resistive random-access memory devices.
+
+LINKS:
+  - url: https://en.wikipedia.org/wiki/Vanadium_nitride
+    text: Vanadium nitride - Wikipedia
+  - url: https://www.webelements.com/compounds/vanadium/vanadium_nitride.html
+    text: Vanadium nitride - WebElements

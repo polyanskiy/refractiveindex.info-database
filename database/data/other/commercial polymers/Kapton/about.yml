@@ -1,0 +1,15 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+NAMES:
+  - Kapton
+
+ABOUT: |
+    Kapton is a polyimide film developed by DuPont in the late 1960s that remains stable across a wide range of temperatures.
+
+LINKS:
+  - url: https://en.wikipedia.org/wiki/Kapton
+    text: Kapton - Wikipedia
+  - url: https://www.dupont.com/electronic-materials/polyimide-films.html
+    text: Polyimide films - DuPont

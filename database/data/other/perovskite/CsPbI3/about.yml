@@ -1,0 +1,15 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+NAMES:
+  - Cesium lead triiodide
+  - CsPbI<sub>3</sub>
+
+LINKS:
+  - url: https://pubchem.ncbi.nlm.nih.gov/compound/Cesium-Lead-Triiodide
+    text: Cesium Lead Triiodide - PubChem
+  - url: https://en.wikipedia.org/wiki/Perovskite_(structure)
+    text: Perovskite (structure) - Wikipedia
+  - url: https://en.wikipedia.org/wiki/Perovskite_solar_cell
+    text: Perovskite solar cell - Wikipedia

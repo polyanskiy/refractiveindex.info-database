@@ -1,0 +1,15 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+NAMES:
+  - Lead selenide
+  - PbSe
+  - Lead(II) selenide
+
+ABOUT: |
+    Lead selenide (PbSe) is a semiconducting material with noteworthy sensitivity to infrared radiation. Due to its ability to detect infrared, it finds applications in photodetectors, especially for the mid-infrared range. This makes PbSe detectors beneficial for various technologies, including thermal imaging and spectroscopy. Additionally, PbSe is researched for potential uses in photovoltaic cells and other optoelectronic devices. However, as with other lead compounds, precautions should be taken due to the potential toxicity of lead.
+
+LINKS:
+  - url: https://en.wikipedia.org/wiki/Lead(II)_selenide
+    text: Lead(II) selenide - Wikipedia

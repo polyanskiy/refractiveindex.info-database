@@ -1,0 +1,18 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+NAMES:
+  - Gallium phosphide, GaP
+  - Gallium(III) phosphide
+
+ABOUT: |
+    Gallium phosphide (GaP) is a binary III-V semiconductor with a direct bandgap of 2.26 eV, making it useful in specific optoelectronic applications. It is commonly employed in red, orange, and green light-emitting diodes (LEDs). One of the notable advantages of GaP is its high thermal conductivity, which allows for better heat dissipation in electronic devices. While it does not exhibit the same level of efficiency as materials like GaAs in high-frequency applications, GaP is used as a substrate material for other III-V semiconductors, such as GaAs and InP, to form heterostructure devices. It also finds applications in photonic integrated circuits and is sometimes used in combination with other semiconductors to engineer desired electronic or optical properties.
+
+LINKS:
+  - url: https://en.wikipedia.org/wiki/Gallium(III)_phosphide
+    text: Gallium(III) phosphide - Wikipedia
+  - url: https://www.webelements.com/compounds/gallium/gallium_phosphide.html
+    text: Gallium phosphide - WebelEments
+  - url: https://www.ioffe.ru/SVA/NSM/Semicond/GaP
+    text: Gallium phosphide - NSM Archive

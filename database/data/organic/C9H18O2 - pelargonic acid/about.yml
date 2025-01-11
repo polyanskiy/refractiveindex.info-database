@@ -1,0 +1,23 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+NAMES:
+  - Pelargonic acid
+  - C<sub>9</sub>H<sub>18</sub>O<sub>2</sub>
+  - Nonanoic acid
+  - n-Nonanoic acid
+  - 1-Nonanoic acid
+  - "C9:0"
+
+ABOUT: |
+    Pelargonic acid is a saturated fatty acid with a nine-carbon chain. It is a colorless oily liquid with an unpleasant odor. Naturally occurring in some plants and essential oils, pelargonic acid is used as a contact herbicide for weed control. Additionally, it is employed in the production of lubricants, plasticizers, and as an intermediate in organic synthesis.
+    
+    Chemical formula:
+    CH<sub>3</sub>(CH<sub>2</sub>)<sub>7</sub>COOH
+
+LINKS:
+  - url: https://en.wikipedia.org/wiki/Nonanoic_acid
+    text: Pelargonic acid - Wikipedia
+  - url: https://webbook.nist.gov/cgi/cbook.cgi?ID=112050
+    text: Nonanoic acid - NIST Chemistry WebBook

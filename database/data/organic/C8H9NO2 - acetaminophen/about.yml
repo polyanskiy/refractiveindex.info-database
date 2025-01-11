@@ -1,0 +1,24 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+NAMES:
+  - Acetaminophen (Paracetamol)
+  - C<sub>8</sub>H<sub>9</sub>NO<sub>2</sub>
+  - Paracetamol
+  - APAP
+  - N-acetyl-p-aminophenol
+  - Acetamol
+  - Tempra
+  - Tylenol
+  - Panadol
+  - "CAS Number: 103-90-2"
+
+ABOUT: |
+    <p>Acetaminophen, also known as paracetamol, is a widely used over-the-counter analgesic (pain reliever) and antipyretic (fever reducer). It is commonly employed to relieve mild to moderate pain from headaches, muscle aches, menstrual periods, colds and sore throats, toothaches, backaches, and reactions to vaccinations (shots), as well as to reduce fever. Acetaminophen operates by inhibiting the production of prostaglandins, chemicals in the body that cause pain and inflammation. While effective for mild pain relief and fever reduction, acetaminophen does not reduce inflammation, as do nonsteroidal anti-inflammatory drugs (NSAIDs) such as aspirin or ibuprofen. It is available in various forms, including tablets, capsules, liquid suspensions, and as an ingredient in a wide array of combination medications.</p>
+
+LINKS:
+  - url: https://en.wikipedia.org/wiki/Paracetamol
+    text: Paracetamol - Wikipedia
+  - url: https://pubchem.ncbi.nlm.nih.gov/compound/1983
+    text: Acetaminophen - PubChem

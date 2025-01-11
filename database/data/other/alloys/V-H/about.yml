@@ -1,0 +1,14 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+NAMES:
+  - Vanadium hydride
+  - Vanadium-hydrogen alloy
+  - V-H
+
+LINKS:
+  - url: https://webbook.nist.gov/cgi/formula?ID=C13966933
+    text: Vanadium hydride - Nist Chemistry WebBook
+  - url: https://en.wikipedia.org/wiki/Alloy
+    text: Alloy - Wikipedia

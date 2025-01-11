@@ -1,0 +1,16 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+NAMES:
+  - Zirconium diselenide
+  - ZrSe<sub>2</sub>
+
+ABOUT: |
+    Zirconium diselenide (ZrSe<sub>2</sub>) is a layered transition metal dichalcogenide known for its unique electronic and optical properties. This material crystallizes in a hexagonal structure, similar to other dichalcogenides, and is recognized for its semiconducting behavior. ZrSe<sub>2</sub> exhibits an indirect bandgap, which is a point of interest for its applications in electronic and optoelectronic devices. The ability to exfoliate ZrSe<sub>2</sub> into thin films or monolayers opens up possibilities in the realm of two-dimensional material science, potentially paving the way for innovations in flexible and transparent electronic devices. Besides its electronic properties, ZrSe<sub>2</sub> is also notable for its thermal and mechanical stability. The exploration of its optical properties, particularly the refractive index, is essential for the development of optical components such as waveguides and photodetectors, where precise control of light-matter interactions is crucial. As research in ZrSe<sub>2</sub> advances, detailed knowledge of its refractive index across different wavelengths will be invaluable for both fundamental research and practical technological applications.
+
+LINKS:
+  - url: https://materialsproject.org/materials/mp-2076/
+    text: ZreS<sub>2</sub> - The Materials Project
+  - url: https://pubchem.ncbi.nlm.nih.gov/compound/Zirconium-selenide
+    text: Zirconium diselenide - PubChem

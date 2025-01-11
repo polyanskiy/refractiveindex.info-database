@@ -1,0 +1,25 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+NAMES:
+  - Cerium trifluoride
+  - CeF<sub>3</sub>
+  - Cerium(III) fluoride
+  - Cerium fluoride
+  - Fluocerite-(Ce)
+
+ABOUT: |
+    Cerium fluoride (CeF<sub>3</sub>) is an inorganic compound that crystallizes in the hexagonal or orthorhombic structure. This material is notable for its scintillating properties, which makes it particularly useful in radiation detection applications such as medical imaging and high-energy physics experiments. With a high atomic number and a high density, CeF<sub>3</sub> is very effective at stopping high-energy photons, thereby converting their energy into a detectable light signal. It has a fast decay time, which is crucial for time-resolved measurements. Additionally, cerium fluoride is chemically stable and non-hygroscopic, an important feature for long-term operational reliability. While it is generally less expensive than other rare-earth scintillators, the challenge lies in optimizing its light yield and improving the energy resolution of detectors in which it is used. Synthesis methods for CeF<sub>3</sub> include solid-state reaction, hydrothermal processes, and co-precipitation, with each offering different advantages in terms of crystal quality and purity. Overall, CeF<sub>3</sub> remains a material of interest for various optoelectronic applications and continues to be the subject of research aimed at optimizing its scintillating properties.
+    
+    Mineral: Fluocerite-(Ce)
+
+LINKS:
+  - url: https://webbook.nist.gov/cgi/formula?ID=C7758885
+    text: Cerium trifluoride - NIST Chemistry WebBook
+  - url: https://en.wikipedia.org/wiki/Cerium(III)_fluoride
+    text: Cerium(III) fluoride - Wikipedia
+  - url: https://www.webelements.com/compounds/cerium/cerium_trifluoride.html
+    text: Cerium trifluoride - WebElements
+  - url: https://en.wikipedia.org/wiki/Fluocerite
+    text: Fluocerite - Wikipedia

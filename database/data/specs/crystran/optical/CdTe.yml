@@ -1,0 +1,290 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+REFERENCES: |
+    Crystran Ltd.
+    <a href="https://issuu.com/crystran/docs/handbook_2023_website">
+    The Crystran handbook of infra-red and ultra-violet optical materials (5th edition, 2023)
+    </a><br>
+    See also
+    <a href="https://www.crystran.com/optical-materials/cadmium-telluride-cdte">
+    Crystran CdTe online data sheet
+    </a>
+COMMENTS: |
+    CdTe is rarely used because of its toxicity. The finished optics are not particularly hazardous but should be handled with care. However, difficulties with processing cadmium compounds means that very few optical companies will cut and polish the material. Crystran Ltd does NOT supply CdTe. This data is provided for reference only. A form of CdTe was originally utilised as the obsolete Kodak designation of IRTRAN-6<br>
+    CAUTION: Cadmium salts are TOXIC and should be handled with care.<br>
+    REFERENCES:<br>
+    (1) Handbook Optical Constants, ed Palik, V1, ISBN 0-12-544420-6<br>
+    (2) NIST USA data<br>
+    (3) Hawkins, Sherwood, Djotni: Mid IR Filters for astronomical and remote sensing instrumentation. Invited Paper SPIE Conference Glasgow 2008
+CONDITIONS:
+    temperature: 300
+PROPERTIES:
+    density:
+      - value: 6200
+    thermal_dispersion:
+      - type: constant
+        value: 5e-05
+    thermal_expansion:
+      - temperature: 293
+        value: 5.9e-06
+    hardness:
+      - type: Knoop
+        value: 5.30e8
+    melting_point:
+      - value: 1365
+    thermal_conductivity:
+      - temperature: 293
+        value: 6.2
+    youngs_modulus:
+      - value: 36.52e9
+    poissons_ratio:
+      - value: 0.41
+    solubility:
+      - value: 0
+DATA:
+  - type: tabulated n
+    data: |
+        0.8 2.876
+        1.0 2.840
+        2.0 2.713
+        2.5 2.702
+        3.0 2.695
+        3.5 2.691
+        4.0 2.6807
+        5.0 2.684
+        6.0 2.681
+        7.0 2.679
+        8.0 2.677
+        10.0 2.653
+        12.5 2.646
+        15.5 2.6407
+        20.0 2.614
+        22.2 2.601
+        24.8 2.5801
+        26.32 2.570
+        27.03 2.564
+  - type: tabulated k
+    data: |
+        16.0 0.00E+00
+        16.1 0.00E+00
+        16.2 0.00E+00
+        16.3 0.00E+00
+        16.4 0.00E+00
+        16.5 0.00E+00
+        16.6 0.00E+00
+        16.7 0.00E+00
+        16.8 0.00E+00
+        16.9 0.00E+00
+        17.0 0.00E+00
+        17.1 0.00E+00
+        17.2 0.00E+00
+        17.3 0.00E+00
+        17.4 0.00E+00
+        17.5 0.00E+00
+        17.6 0.00E+00
+        17.7 0.00E+00
+        17.8 0.00E+00
+        17.9 0.00E+00
+        18.0 0.00E+00
+        18.1 0.00E+00
+        18.2 0.00E+00
+        18.3 0.00E+00
+        18.4 0.00E+00
+        18.5 0.00E+00
+        18.6 0.00E+00
+        18.7 0.00E+00
+        18.8 0.00E+00
+        18.9 0.00E+00
+        19.0 0.00E+00
+        19.1 0.00E+00
+        19.2 0.00E+00
+        19.3 0.00E+00
+        19.4 0.00E+00
+        19.5 0.00E+00
+        19.6 0.00E+00
+        19.7 0.00E+00
+        19.8 0.00E+00
+        19.9 0.00E+00
+        20.0 0.00E+00
+        20.1 0.00E+00
+        20.2 0.00E+00
+        20.3 0.00E+00
+        20.4 0.00E+00
+        20.5 0.00E+00
+        20.6 0.00E+00
+        20.7 0.00E+00
+        20.8 0.00E+00
+        20.9 3.09E-07
+        21.0 2.63E-06
+        21.1 4.04E-06
+        21.2 4.45E-06
+        21.3 4.25E-06
+        21.4 3.92E-06
+        21.5 3.92E-06
+        21.6 5.07E-06
+        21.7 6.85E-06
+        21.8 8.05E-06
+        21.9 8.87E-06
+        22.0 9.49E-06
+        22.1 1.00E-05
+        22.2 1.08E-05
+        22.3 1.22E-05
+        22.4 1.41E-05
+        22.5 1.63E-05
+        22.6 1.89E-05
+        22.7 2.15E-05
+        22.8 2.39E-05
+        22.9 2.59E-05
+        23.0 2.76E-05
+        23.1 2.88E-05
+        23.2 2.98E-05
+        23.3 3.11E-05
+        23.4 3.24E-05
+        23.5 3.36E-05
+        23.6 3.46E-05
+        23.7 3.56E-05
+        23.8 3.74E-05
+        23.9 3.99E-05
+        24.0 3.81E-05
+        24.1 3.67E-05
+        24.2 3.80E-05
+        24.3 3.92E-05
+        24.4 4.10E-05
+        24.5 4.32E-05
+        24.6 4.60E-05
+        24.7 4.92E-05
+        24.8 5.28E-05
+        24.9 5.69E-05
+        25.0 6.19E-05
+        25.1 6.64E-05
+        25.2 6.98E-05
+        25.3 7.05E-05
+        25.4 7.20E-05
+        25.5 7.45E-05
+        25.6 7.63E-05
+        25.7 7.80E-05
+        25.8 8.03E-05
+        25.9 8.21E-05
+        26.0 8.36E-05
+        26.1 8.49E-05
+        26.2 8.63E-05
+        26.3 8.77E-05
+        26.4 8.93E-05
+        26.5 9.11E-05
+        26.6 9.30E-05
+        26.7 9.46E-05
+        26.8 9.63E-05
+        26.9 9.82E-05
+        27.0 9.99E-05
+        27.1 1.01E-04
+        27.2 1.03E-04
+        27.3 1.10E-04
+        27.4 1.10E-04
+        27.5 1.21E-04
+        27.6 1.27E-04
+        27.7 1.31E-04
+        27.8 1.42E-04
+        27.9 1.46E-04
+        28.0 1.59E-04
+        28.1 1.70E-04
+        28.2 1.83E-04
+        28.3 2.05E-04
+        28.4 2.18E-04
+        28.5 2.32E-04
+        28.6 2.56E-04
+        28.7 2.77E-04
+        28.8 2.96E-04
+        28.9 3.17E-04
+        29.0 3.43E-04
+        29.1 3.78E-04
+        29.2 4.10E-04
+        29.3 4.41E-04
+        29.4 4.74E-04
+        29.5 5.07E-04
+        29.6 5.44E-04
+        29.7 5.88E-04
+        29.8 6.39E-04
+        29.9 6.90E-04
+        30.0 7.38E-04
+        30.1 7.81E-04
+        30.2 8.23E-04
+        30.3 8.67E-04
+        30.4 9.18E-04
+        30.5 9.76E-04
+        30.6 1.04E-03
+        30.7 1.10E-03
+        30.8 1.16E-03
+        30.9 1.22E-03
+        31.0 1.28E-03
+        31.1 1.35E-03
+        31.2 1.41E-03
+        31.3 1.48E-03
+        31.4 1.55E-03
+        31.5 1.64E-03
+        31.6 1.74E-03
+        31.7 1.89E-03
+        31.8 2.05E-03
+        31.9 2.25E-03
+        32.0 2.50E-03
+        32.1 2.83E-03
+        32.2 3.17E-03
+        32.3 3.57E-03
+        32.4 4.11E-03
+        32.5 4.83E-03
+        32.6 5.31E-03
+        32.7 5.55E-03
+        32.8 5.74E-03
+        32.9 5.96E-03
+        33.0 6.21E-03
+        33.1 6.40E-03
+        33.2 6.52E-03
+        33.3 6.58E-03
+        33.4 6.62E-03
+        33.5 6.67E-03
+        33.6 6.73E-03
+        33.7 6.79E-03
+        33.8 6.85E-03
+        33.9 6.92E-03
+        34.0 7.00E-03
+        34.1 7.12E-03
+        34.2 7.31E-03
+        34.3 7.67E-03
+        34.4 8.22E-03
+        34.5 8.46E-03
+        34.6 8.13E-03
+        34.7 7.64E-03
+        34.8 7.09E-03
+        34.9 6.84E-03
+        35.0 6.82E-03
+        35.1 6.81E-03
+        35.2 6.78E-03
+        35.3 6.71E-03
+        35.4 6.62E-03
+        35.5 6.53E-03
+        35.6 6.49E-03
+        35.7 6.46E-03
+        35.8 6.42E-03
+        35.9 6.37E-03
+        36.0 6.32E-03
+        36.1 6.27E-03
+        36.2 6.22E-03
+        36.3 6.17E-03
+        36.4 6.13E-03
+        36.5 6.08E-03
+        36.6 6.03E-03
+        36.7 5.98E-03
+        36.8 5.95E-03
+        36.9 5.99E-03
+        37.0 6.07E-03
+        37.1 6.15E-03
+        37.2 6.20E-03
+        37.3 6.24E-03
+        37.4 6.31E-03
+        37.5 6.44E-03
+        37.6 6.61E-03
+        37.7 6.76E-03
+        37.8 6.87E-03
+        37.9 7.05E-03
+        38.0 7.69E-03

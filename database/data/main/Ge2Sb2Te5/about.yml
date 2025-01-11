@@ -1,0 +1,15 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+NAMES:
+  - Germanium antimony telluride
+  - Ge<sub>2</sub>Sb<sub>2</sub>Te<sub>5</sub>
+  - GST
+
+ABOUT: |
+    Germanium antimony telluride (GST) is a phase-change material commonly used in optical data storage and photonic applications due to its remarkable optical properties. This chalcogenide compound exhibits distinct refractive indices in its amorphous and crystalline states, allowing for reversible switching between these phases with the application of heat or laser pulses. This unique characteristic makes GST an essential material in rewritable optical discs, such as DVDs and Blu-rays, as well as in advanced photonic devices. The refractive index of Ge<sub>2</sub>Sb<sub>2</sub>Te<sub>5</sub> varies significantly with wavelength, making it a versatile material for various optical applications, including waveguides, modulators, and sensors. Additionally, its compatibility with existing semiconductor fabrication processes enables integration into electronic and photonic circuits, paving the way for innovative technologies in data storage and processing.
+
+LINKS:
+  - url: https://next-gen.materialsproject.org/materials/mp-3534
+    text: Ge<sub>2</sub>Sb<sub>2</sub>Te<sub>5</sub> - The Materials Project

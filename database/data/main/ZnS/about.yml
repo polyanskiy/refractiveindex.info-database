@@ -1,0 +1,24 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+NAMES:
+  - Zinc sulfide
+  - ZnS
+  - Zinc sulphide
+  - Zinc blende
+  - Sphalerite
+  - Wurtzite
+
+ABOUT: |
+    Zinc sulfide (ZnS) is a semiconducting material that exhibits either a sphalerite (cubic) or wurtzite (hexagonal) crystal structure. It has a direct bandgap of around 3.68 eV for the cubic form and 3.91 eV for the hexagonal form. Due to its luminescent properties, ZnS has been extensively used in applications like electroluminescent panels, X-ray screens, and phosphorescent materials. Doped ZnS, especially with copper or silver, can produce phosphorescent materials widely used in various displays. ZnS is also employed as a host matrix in many quantum dot applications. Additionally, its infrared transmission capability makes it valuable for infrared optics, and it's frequently used in infrared windows and lenses.
+    
+    Minerals: Sphalerite (mineral of cubic ZnS), Wurtzite (mineral of hexagonal ZnS)
+
+LINKS:
+  - url: https://en.wikipedia.org/wiki/Zinc_sulfide
+    text: Zinc sulfide - Wikipedia
+  - url: https://www.webelements.com/compounds/zinc/zinc_sulphide.html
+    text: Zinc sulfide - WebElements
+  - url: https://webbook.nist.gov/cgi/cbook.cgi?ID=C1314983
+    text: Zinc sulphide - NIST Chemistry WebBook

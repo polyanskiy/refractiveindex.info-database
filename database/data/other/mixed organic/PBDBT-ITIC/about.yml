@@ -1,0 +1,19 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+NAMES:
+  - PBDB-T:ITIC
+
+ABOUT: |
+    Applications: Solar cells
+    
+    PBDB-T  chemical composition: (C<sub>68</sub>H<sub>78</sub>O<sub>2</sub>S<sub>8</sub>)<sub>n</sub>
+    
+    ITIC  chemical composition: C<sub>94</sub>H<sub>82</sub>N<sub>4</sub>O<sub>2</sub>S<sub>4</sub>
+
+LINKS:
+  - url: https://www.sigmaaldrich.com/catalog/product/aldrich/901099
+    text: PBDB-T - Sigma Aldrich
+  - url: https://www.sigmaaldrich.com/catalog/product/aldrich/900799
+    text: ITIC - Sigma Aldrich

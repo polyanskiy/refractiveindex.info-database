@@ -1,0 +1,20 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+NAMES:
+  - Electrum
+  - Green gold
+  - Gold-silver alloy
+  - Au-Ag
+
+ABOUT: |
+    Electrum, or green gold, is a naturally occurring alloy of gold and silver with trace amounts of copper and other metals.
+
+LINKS:
+  - url: https://en.wikipedia.org/wiki/Electrum
+    text: Electrum - Wikipedia
+  - url: https://en.wikipedia.org/wiki/Gold
+    text: Gold - Wikipedia
+  - url: https://en.wikipedia.org/wiki/Silver
+    text: Silver - Wikipedia

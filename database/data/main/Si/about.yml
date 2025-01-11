@@ -1,0 +1,25 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+NAMES:
+  - Silicon
+  - Si
+  - Polycrystalline silicon
+  - Poly
+  - Semicrystalline silicon
+
+ABOUT: |
+    Silicon (Si) is a crystalline, brittle element with a bluish-grey metallic luster. It stands as the second most abundant element in the Earth's crust, primarily in the form of silicates and oxides. In its pure form, silicon is employed extensively in the electronics industry for the fabrication of semiconductors, which form the basis of most modern electronic devices. The ability of silicon to act as a substrate for microelectronic devices stems from its semiconductor properties and the potential to precisely dope it with other elements to modify its electrical characteristics. Furthermore, silicon finds use in the photovoltaic industry in solar cells. When it comes to optics, silicon is transparent to infrared light, making it valuable for infrared lenses and other optical components. However, it's opaque to visible light. The material's versatility and abundance have made it integral to many industries, from construction to electronics and beyond
+
+LINKS:
+  - url: https://en.wikipedia.org/wiki/Silicon
+    text: Silicon - Wikipedia
+  - url: https://en.wikipedia.org/wiki/Crystalline_silicon
+    text: Crystalline silicon - Wikipedia
+  - url: https://en.wikipedia.org/wiki/Amorphous_silicon
+    text: Amorphous silicon - Wikipedia
+  - url: https://www.webelements.com/silicon
+    text: Silicon - WebElements
+  - url: https://www.ioffe.ru/SVA/NSM/Semicond/Si
+    text: Silicon - NSM Archive

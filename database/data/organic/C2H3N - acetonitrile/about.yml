@@ -1,0 +1,24 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+NAMES:
+  - Acetonitrile
+  - C<sub>2</sub>H<sub>3</sub>N
+  - Cyanomethane
+  - Ethanenitrile
+  - Ethyl nitrile
+  - Methanecarbonitrile
+  - Methyl cyanide
+
+ABOUT: |
+    Acetonitrile (C<sub>2</sub>H<sub>3</sub>N): A colorless, volatile liquid, acetonitrile possesses a faintly sweet odor reminiscent of almonds. Widely used as a solvent, it has a high dielectric constant and is particularly effective in the dissolution of ionic compounds. In the laboratory, it is commonly employed as a polar aprotic solvent in organic synthesis and chromatographic processes, including high-performance liquid chromatography (HPLC). Acetonitrile is also utilized in the manufacture of pharmaceuticals, perfumes, and rubber products. Its low UV absorbance makes it valuable in UV-visible spectroscopy applications. The compound is miscible with water and most common organic solvents.
+    
+    Chemical formula:
+    CH<sub>3</sub>CN
+
+LINKS:
+  - url: https://en.wikipedia.org/wiki/Acetonitrile
+    text: Acetonitrile - Wikipedia
+  - url: https://webbook.nist.gov/cgi/cbook.cgi?ID=C75058
+    text: Acetonitrile - NIST Chemistry WebBook

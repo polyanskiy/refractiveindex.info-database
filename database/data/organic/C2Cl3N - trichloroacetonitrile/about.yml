@@ -1,0 +1,22 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+NAMES:
+  - Trichloroacetonitrile
+  - C<sub>2</sub>Cl<sub>3</sub>N
+  - Cyanochloroform
+  - Trichlorocyanomethane
+  - Trichloroethanenitrile
+  - Trichloroethyl nitrile
+
+ABOUT: |
+    Trichloroacetonitrile (C<sub>2</sub>Cl<sub>3</sub>N) is a halogenated nitrile compound characterized by its colorless appearance and sharp, pungent odor. It is primarily used as a chemical intermediate in the synthesis of agrochemicals, pharmaceuticals, and other organic compounds. Trichloroacetonitrile is also employed in the production of antifungal agents and as a reagent in various chemical reactions where it contributes its halogen and nitrile functionalities. Although it is not commonly noted for its optical properties, trichloroacetonitrile's unique molecular structure could have potential uses in specialized optical measurements and studies involving nitrile-based materials.
+
+LINKS:
+  - url: https://en.wikipedia.org/wiki/Trichloroacetonitrile
+    text: Trichloroacetonitrile - Wikipedia
+  - url: https://pubchem.ncbi.nlm.nih.gov/compound/Trichloroacetonitrile
+    text: Trichloroacetonitrile - PubChem
+  - url: https://webbook.nist.gov/cgi/inchi?ID=C545062
+    text: Acetonitrile, trichloro- - NIST Chemistry WebBook

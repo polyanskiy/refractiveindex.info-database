@@ -1,0 +1,14 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+NAMES:
+  - Liver
+
+LINKS:
+  - url: https://en.wikipedia.org/wiki/Liver
+    text: Liver - Wikipedia
+  - url: http://www.webmd.com/digestive-disorders/picture-of-the-liver
+    text: "The Liver (Human Anatomy): Liver Picture, Definition, Function - WebMD"
+  - url: http://www.medicinenet.com/liver_anatomy_and_function/article.htm
+    text: "Liver: Pictures, Function, Disease Symptoms, and Tests - MedicineNet"

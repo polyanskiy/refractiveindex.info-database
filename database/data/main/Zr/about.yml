@@ -1,0 +1,16 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+NAMES:
+  - Zirconium
+  - Zr
+
+ABOUT: |
+    Zirconium (Zr) is a lustrous, greyish-white, soft, ductile, malleable metal that is solid at room temperature. It's located in group 4 of the periodic table and resembles hafnium and titanium in many of its properties. Zirconium is resistant to corrosion by alkalis, acids, salt water, and other agents, which makes it ideal for various applications in the chemical industry. Its most significant use is in the ceramic industry to make high-temperature ceramics, primarily in the form of zircon (zirconium silicate) which is derived from zirconium ore. Additionally, due to its low neutron-capture cross-section, zirconium alloys are used in nuclear reactors for cladding fuel elements. The metal also finds use in superconductive magnets. Another critical application of zirconium is in the construction of biocompatible implants for the human body, as it is non-toxic and not rejected by the immune system.
+
+LINKS:
+  - url: https://en.wikipedia.org/wiki/Zirconium
+    text: Zirconium - Wikipedia
+  - url: https://www.webelements.com/zirconium/
+    text: Zirconium - WebElements

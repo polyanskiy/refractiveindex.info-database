@@ -1,0 +1,27 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+NAMES:
+  - N,N-Dimethylformamide
+  - C<sub>3</sub>H<sub>7</sub>NO
+  - DMF
+  - Dimethylformamide
+  - N,N-Dimethylmethanamide
+  - DMF
+  - Formyldimethylamine
+  - Dimethylformalin
+
+ABOUT: |
+    N,N-Dimethylformamide (C<sub>3</sub>H<sub>7</sub>NO, DMF) is a colorless, high boiling point, polar aprotic solvent with a faint amine-like odor. It is widely used in organic synthesis and industrial applications due to its ability to dissolve a wide range of compounds. DMF is commonly employed in the production of acrylic fibers, plastics, pesticides, and as a solvent in peptide coupling for pharmaceuticals. It is miscible with water and most organic liquids, making it a versatile solvent in chemical reactions and processes.
+    
+    Chemical formula:
+    HCON(CH<sub>3</sub>)<sub>2</sub>
+
+LINKS:
+  - url: https://en.wikipedia.org/wiki/Dimethylformamide
+    text: N,N-Dimethylformamide - Wikipedia
+  - url: https://pubchem.ncbi.nlm.nih.gov/compound/Dimethylformamide
+    text: N,N-Dimethylformamide - PubChem
+  - url: https://webbook.nist.gov/cgi/cbook.cgi?ID=C68122
+    text: N,N-Dimethylformamide - NIST Chemistry WebBook

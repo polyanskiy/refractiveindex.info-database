@@ -1,0 +1,39 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+NAMES:
+  - Pentanol
+  - Amyl alcohol
+  - C<sub>5</sub>H<sub>12</sub>O
+  - Normal amyl alcohol
+  - Isoamyl alcohol
+  - 1-Pentanol
+  - n-Pentanol
+  - Pentan-1-ol
+  - 3-Methyl-1-Butanol
+  - 3-Methylbutan-1-ol
+  - Isopentyl alcohol
+  - Isopentanol
+  - Isobutylcarbinol
+
+ABOUT: |
+    Pentanol (Amyl alcohol, C<sub>5</sub>H<sub>12</sub>O) is an organic compound that belongs to the alcohol family. There are several isomers of pentanol, with the common name "amyl alcohol" often referring to a mixture of these isomers. Predominantly, it's used as a solvent and an intermediate in the production of other chemicals. In its pure form, pentanol has a characteristic alcoholic odor and is slightly viscous compared to lower alcohols. When considering its optical properties, pentanol is generally transparent in the visible spectrum. Like other alcohols, pentanol should be handled with care due to its flammable nature and potential health effects. Proper storage and precautions are necessary when working with or around this compound.
+    
+    Chemical formula (Normal amyl alcohol):
+    CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>OH or C<sub>5</sub>H<sub>11</sub>OH
+    
+    Chemical formula (Isoamyl alcohol):
+    (CH<sub>3</sub>)<sub>2</sub>CHCH<sub>2</sub>CH<sub>2</sub>OH
+
+LINKS:
+  - url: https://en.wikipedia.org/wiki/Amyl_alcohol
+    text: Amyl alcohol - Wikipedia
+  - url: https://en.wikipedia.org/wiki/1-Pentanol
+    text: 1-Pentanol - Wikipedia
+  - url: https://webbook.nist.gov/cgi/cbook.cgi?ID=C71410
+    text: 1-Pentanol - NIST Chemistry WebBook
+  - url: https://en.wikipedia.org/wiki/Isoamyl_alcohol
+    text: Isoamyl alcohol - Wikipedia
+  - url: https://webbook.nist.gov/cgi/cbook.cgi?ID=C123513
+    text: 1-Butanol, 3-methyl- - NIST Chemistry WebBook

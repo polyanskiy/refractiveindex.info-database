@@ -1,0 +1,20 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+NAMES:
+  - Diethyl sulfite
+  - C<sub>4</sub>H<sub>10</sub>O<sub>3</sub>S
+  - DES
+  - Diethyl sulphite
+  - Sulfurous acid
+  - Diethyl ester
+
+ABOUT: |
+    Diethyl sulfite (<i>C<sub>4</sub>H<sub>10</sub>O<sub>3</sub>S</i>) is a clear, colorless liquid with a characteristic sulfurous odor. This ester of sulfuric acid is commonly used as a reagent in organic synthesis, specifically in the preparation of certain organic compounds via alkylation and acylation reactions. Its unique chemical structure allows it to participate in a variety of chemical transformations, making it valuable in the realm of organic chemistry. Like many organic solvents, diethyl sulfite should be handled with care, ensuring that there is adequate ventilation when using it and that it is kept away from open flames and sources of ignition.
+
+LINKS:
+  - url: https://en.wikipedia.org/wiki/Diethyl_sulfite
+    text: Diethyl sulfite - Wikipedia
+  - url: https://webbook.nist.gov/cgi/cbook.cgi?ID=C623814
+    text: Diethyl sulfite - NIST Chemistry WebBook

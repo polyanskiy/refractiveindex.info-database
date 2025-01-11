@@ -1,0 +1,16 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+REFERENCES: |
+    H.-J. Chang, N. Munera, C. Lopez-Zelaya, D. Banerjee, G. Beadie, E. W. Van Stryland, D. J. Hagan.
+    Refractive index measurements of liquids from 0.5 to 2 µm using Rayleigh interferometry.
+    <a href="https://doi.org/10.1364/OME.519907"><i>Opt. Mater. Express</i> <b>14</b>, 1253–1267 (2024)</a>
+COMMENTS: |
+    21.5–22.0 °C
+DATA:
+  - type: formula 1
+    wavelength_range: 0.4 2.0
+    coefficients: 0 0.9923 0.107
+CONDITIONS:
+    temperature: 295

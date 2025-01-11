@@ -1,0 +1,24 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+NAMES:
+  - Acetic acid
+  - C<sub>2</sub>H<sub>4</sub>O<sub>2</sub>
+  - Ethanoic acid
+  - Acetyl hydroxide
+  - Hydrogen acetate (HAc)
+  - Ethylic acid
+  - Methanecarboxylic acid
+
+ABOUT: |
+    Acetic Acid (C<sub>2</sub>H<sub>4</sub>O<sub>2</sub>): A colorless liquid at room temperature, acetic acid is the primary component of vinegar, giving it its characteristic pungent smell and sour taste. It has a wide range of industrial and household applications, from synthetic fiber and plastic production to food preservatives. In its undiluted form, it's known as glacial acetic acid. Acetic acid exhibits strong hydrogen bonding properties, leading to its miscibility with water. In the realm of optics, it's sometimes used as a solvent or component in complex liquid mixtures.
+    
+    Chemical formula:
+    CH<sub>3</sub>COOH (AcOH)
+
+LINKS:
+  - url: https://en.wikipedia.org/wiki/Acetic_acid
+    text: Acetic acid - Wikipedia
+  - url: https://webbook.nist.gov/cgi/cbook.cgi?ID=64197
+    text: Acetic acid - NIST Chemistry WebBook

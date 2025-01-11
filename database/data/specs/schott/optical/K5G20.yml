@@ -1,0 +1,54 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+REFERENCES: |
+    <a href="https://refractiveindex.info/download/data/2017/schott_2017-01-20b.agf">SCHOTT Zemax catalog 2017-01-20b</a> (obtained from <a href="https://www.schott.com/en-us/products/optical-glass-p1000267/downloads/">http://www.schott.com</a>)<br>See also <a href="https://refractiveindex.info/download/data/2017/schott_2017-01-20.pdf">SCHOTT glass data sheets</a>
+COMMENTS: |
+    inquiry glass        
+DATA:
+  - type: formula 2
+    wavelength_range: 0.37 2.5
+    coefficients: 0 1.14094396 0.00694945478 0.14500119 0.0310574444 37.4705786 4536.25624
+  - type: tabulated k
+    data: |
+        0.380 2.4678E-06
+        0.390 1.1689E-06
+        0.400 6.2936E-07
+        0.405 4.9718E-07
+        0.420 2.6531E-07
+        0.436 1.6173E-07
+        0.460 1.0626E-07
+        0.500 6.3313E-08
+        0.546 4.2220E-08
+        0.580 3.3534E-08
+        0.620 2.9827E-08
+        0.660 2.7490E-08
+        0.700 1.7897E-08
+        1.060 1.6913E-08
+        1.530 1.1831E-07
+        1.970 1.7209E-06
+        2.325 5.7469E-06
+        2.500 9.0673E-06
+CONDITIONS:
+    temperature: 293
+PROPERTIES:
+    thermal_dispersion:
+      - type: formula A
+        coefficients: -2.22e-06 8.45e-09 -3.31e-11 5.44e-07 4.95e-10 0.214
+    nd: 1.52344
+    Vd: 56.76
+    glass_code: 523568.259
+    glass_status: special
+    density:
+      - value: 2593
+    thermal_expansion:
+      - temperature_range: 243 343
+        value: 8.99e-06
+      - temperature_range: 293 573
+        value: 1.028e-05
+    dPgF: 0.0017
+    resistance:
+        stain: 0.0
+        acid: 1.0
+        alkali: 1.0

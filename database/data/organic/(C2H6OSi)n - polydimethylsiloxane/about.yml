@@ -1,0 +1,22 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+NAMES:
+  - Polydimethylsiloxane
+  - (C<sub>2</sub>H<sub>6</sub>OSi)<sub>n</sub>
+  - PDMS
+  - Poly(dimethylsiloxane)
+  - Dimethicone
+  - Dimethylpolysiloxane
+  - E900
+  - SF-96
+  - RTV 615
+  - Sylgard 184
+
+ABOUT: |
+    Polydimethylsiloxane (PDMS, (C<sub>2</sub>H<sub>6</sub>OSi)<sub>n</sub>) is a widely utilized silicon-based organic polymer known for its unique rheological properties. Characterized by its clear, viscous appearance, PDMS is optically transparent, rendering it particularly suitable for various optical applications. This elastomer exhibits a range of beneficial attributes: it's non-toxic, chemically inert, non-flammable, and resistant to ultraviolet radiation and ozone. Additionally, it is hydrophobic, meaning it repels water, and possesses excellent dielectric properties over a broad frequency range. These characteristics make PDMS an ideal choice for a multitude of applications, ranging from household products like shampoos and caulking to medical devices and microfluidic chips. In the realm of optics, the material's transparency across a broad spectrum combined with its flexibility has led to its use in soft lithography processes, waveguides, and even in the fabrication of flexible optical devices. The refractive properties of PDMS derive from its siloxane backbone, which imparts the material with its distinct optical and mechanical characteristics.
+
+LINKS:
+  - url: https://en.wikipedia.org/wiki/Polydimethylsiloxane
+    text: Polydimethylsiloxane - Wikipedia

@@ -1,0 +1,18 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+NAMES:
+  - Cadmium fluoride
+  - CdF<sub>2</sub>
+  - Cadmium difluoride
+  - Cadmium(II) fluoride
+
+ABOUT: |
+    Cadmium fluoride (CdF<sub>2</sub>) is an inorganic compound that crystallizes in a cubic fluorite structure. Known for its transparent nature over a wide wavelength range, it has specialized applications in optics, particularly in the ultraviolet region. With its low refractive index and high transmission capability, CdF<sub>2</sub> is used in optical coatings and in the fabrication of windows for UV lasers and other UV optical systems. It also exhibits excellent thermal stability and a high resistance to chemical corrosion. However, its use is limited by the toxic nature of cadmium compounds, necessitating careful handling and disposal procedures. The compound can be synthesized through various methods, including precipitation from aqueous solutions or via high-temperature reactions between cadmium and fluorine gas. Overall, despite its toxicity, CdF<sub>2</sub> remains a material of interest in scientific research and industrial applications where its unique optical properties are essential.
+
+LINKS:
+  - url: https://en.wikipedia.org/wiki/Cadmium_fluoride
+    text: Cadmium fluoride - Wikipedia
+  - url: https://webelements.com/compounds/cadmium/cadmium_difluoride.html
+    text: Cadmium difluoride - WebElements

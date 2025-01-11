@@ -1,0 +1,16 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+REFERENCES: |
+    I. Yu. Yanina, E. N. Lazareva, V. V. Tuchin.
+    Refractive index of adipose tissue and lipid droplet measured in wide spectral and temperature ranges.
+    <a href="https://doi.org/10.1364/AO.57.004839"><i>Appl. Opt.</i> <b>24</b>, 035003 (2019)</a>
+COMMENTS: |
+    Human abdominal adipose tissue at 23 °C (296 K). See the original publication for temperature-dependent data.
+DATA:
+  - type: formula 2
+    wavelength_range: 0.475 1.55
+    coefficients: 0 1.1236 1.05566963e-2 0.2725 1.8867e1
+CONDITIONS:
+    temperature: 296

@@ -1,0 +1,25 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+NAMES:
+  - Nitrous oxide
+  - N<sub>2</sub>O
+  - Laughing gas
+  - Sweet air
+  - Nitrous, nos
+  - Protoxide of nitrogen
+  - Hyponitrous oxide
+  - Dinitrogen oxide
+  - Dinitrogen monoxide
+
+ABOUT: |
+    Nitrous oxide (N<sub>2</sub>O), commonly known as laughing gas, is a colorless, non-flammable gas with a slightly sweet odor. It is used extensively in medicine for its anesthetic and analgesic effects. N<sub>2</sub>O finds its unique place in the field of optics due to its interesting refractive properties. It exhibits a relatively stable refractive index, making it useful in various optical applications, particularly in the infrared spectrum. In the realm of atmospheric sciences, N<sub>2</sub>O's refractive index plays a crucial role in understanding and modeling the Earth's atmosphere, especially in relation to climate change and greenhouse gas effects. Additionally, its non-reactive nature and low absorption in the relevant spectral range make it an ideal candidate for use in controlled optical environments, such as in certain types of lasers and imaging technologies.
+
+LINKS:
+  - url: https://en.wikipedia.org/wiki/Nitrous_oxide
+    text: Nitrous oxide - Wikipedia
+  - url: https://pubchem.ncbi.nlm.nih.gov/compound/Nitrous-Oxide
+    text: Nitrous oxide - PubChem
+  - url: https://webbook.nist.gov/cgi/cbook.cgi?ID=C10024972
+    text: Nitrous oxide - NIST Chemistry WebBook

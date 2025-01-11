@@ -1,0 +1,17 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+NAMES:
+  - Sodium fluoride
+  - NaF
+  - Sodium(I) fluoride
+
+ABOUT: |
+    Sodium fluoride (NaF) is a white crystalline solid that, when purified, can be processed into transparent optical components. With a broad transparency window spanning from the ultraviolet to the mid-infrared regions, NaF is particularly valuable for certain optical applications, especially in deep ultraviolet systems. However, like some other alkali halides, NaF is sensitive to moisture and can be hygroscopic, making it imperative to ensure proper handling and storage to maintain its optical qualities.
+
+LINKS:
+  - url: https://en.wikipedia.org/wiki/Sodium_fluoride
+    text: Sodium fluoride - Wikipedia
+  - url: https://www.webelements.com/compounds/sodium/sodium_fluoride.html
+    text: Sodium fluoride - WebElements

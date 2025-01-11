@@ -1,0 +1,18 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+NAMES:
+  - Vanadium carbide
+  - VC
+  - Vanadium(IV) carbide
+  - Vanadium carbon
+
+ABOUT: |
+    Vanadium carbide (VC) is a hard, refractory ceramic compound composed of vanadium and carbon. It is an extremely hard material, with a hardness value that can rival that of diamond. This makes it a valuable additive in tool steels, where it provides increased wear resistance. Furthermore, VC can be used as a grain growth inhibitor, preventing grains from growing too large during the heat-treating process, which can be beneficial in achieving desired material properties in metallurgical applications. Additionally, vanadium carbide can also be found in coatings, often applied through processes like physical vapor deposition (PVD) to provide wear resistance in tools and parts.
+
+LINKS:
+  - url: https://en.wikipedia.org/wiki/Vanadium_carbide
+    text: Vanadium carbide - Wikipedia
+  - url: https://www.webelements.com/compounds/vanadium/vanadium_carbide.html
+    text: Vanadium carbide - WebElements

@@ -1,0 +1,25 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+NAMES:
+  - Tetrachloroethylene
+  - C<sub>2</sub>Cl<sub>4</sub>
+  - Perchloroethylene
+  - Perc
+  - Tetrachlorethene
+  - Perclene
+  - Carbon dichloride
+  - Perchlor
+  - Perchloroethene
+
+ABOUT: |
+    Tetrachloroethylene (C<sub>2</sub>Cl<sub>4</sub>), also known as perchloroethylene, is a halogenated alkene widely used as a dry cleaning solvent and metal degreasing agent. It is a dense, non-flammable liquid with a sweet, ether-like odor. Due to its ability to dissolve a wide range of organic materials, it is highly valued in the textile and chemical industries. Although not prominently used for its optical properties, tetrachloroethylene's high refractive index can be utilized in specialized optical applications such as non-aqueous refractometry and other scientific measurements where its solvent properties are advantageous.
+
+LINKS:
+  - url: https://en.wikipedia.org/wiki/Tetrachloroethylene
+    text: Tetrachloroethylene - Wikipedia
+  - url: https://pubchem.ncbi.nlm.nih.gov/compound/Tetrachloroethylene
+    text: Tetrachloroethylene - PubChem
+  - url: https://webbook.nist.gov/cgi/cbook.cgi?ID=C127184
+    text: Tetrachloroethylene - NIST Chemistry WebBook

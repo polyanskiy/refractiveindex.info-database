@@ -1,0 +1,19 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+NAMES:
+  - P3HT:PC61BM
+
+ABOUT: |
+    Applications: Solar cells
+
+    P3HT chemical composition: (C<sub>41</sub>H<sub>53</sub>FO<sub>4</sub>S<sub>4</sub>)<sub>n</sub>
+    
+    PC61BM chemical composition: C<sub>72</sub>H<sub>14</sub>O<sub>2</sub>
+
+LINKS:
+  - url: http://www.sigmaaldrich.com/catalog/product/aldrich/698997
+    text: P3HT - Sigma Aldrich
+  - url: https://en.wikipedia.org/wiki/Phenyl-C61-butyric_acid_methyl_ester
+    text: PC61BM - Wikipedia

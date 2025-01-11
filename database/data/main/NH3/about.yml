@@ -1,0 +1,24 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+NAMES:
+  - Ammonia
+  - NH<sub>3</sub>
+  - Azane
+  - Hydrogen nitride
+  - Trihydrogen nitride
+  - Nitro-sil
+
+ABOUT: |
+    Ammonia (NH<sub>3</sub>) is a compound of nitrogen and hydrogen, manifesting as a colorless gas with a distinct pungent smell. In the realm of optics, ammonia is notable not only for its refractive index and absorption characteristics, especially in the infrared region where it exhibits absorption bands, but also as a lasing medium. Ammonia gas has been used in far-infrared NH<sub>3</sub> lasers, which operate based on the molecule's inversion transitions. Industrially, ammonia plays a pivotal role in fertilizer production and also serves as a refrigerant. Its liquid form can dissolve a variety of inorganic salts, acting as a solvent. However, given its corrosive nature and potential to form explosive mixtures with air, it's imperative to handle and store ammonia with caution.
+
+LINKS:
+  - url: https://en.wikipedia.org/wiki/Ammonia
+    text: Ammonia - Wikipedia
+  - url: https://www.webelements.com/compounds/hydrogen/ammonia.html
+    text: Ammonia - WebElements
+  - url: http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=222&amp;loc=ec_rcs
+    text: Ammonia - PubChem
+  - url: https://webbook.nist.gov/cgi/cbook.cgi?ID=C7664417
+    text: Ammonia - NIST Chemistry WebBook

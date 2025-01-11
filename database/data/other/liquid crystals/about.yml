@@ -1,0 +1,15 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+NAMES:
+  - Liquid crystals
+
+ABOUT: |
+    Liquid crystal (LC) is a state of matter that have properties between those of a conventional liquid and those of a solid crystal.
+
+LINKS:
+  - url: https://en.wikipedia.org/wiki/Liquid_crystal
+    text: Liquid crystal - Wikipedia
+  - url: https://en.wikipedia.org/wiki/4-Cyano-4%27-pentylbiphenyl
+    text: 4-Cyano-4'-pentylbiphenyl - Wikipedia

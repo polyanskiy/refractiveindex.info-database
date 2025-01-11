@@ -1,0 +1,26 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+NAMES:
+  - Acetone
+  - C<sub>3</sub>H<sub>6</sub>O
+  - Propanone
+  - Dimethyl ketone
+  - 2-Propanone
+  - Propan-2-one
+  - Dimethylformaldehyde
+  - β-Ketopropane
+  - DMK
+
+ABOUT: |
+    Acetone (C<sub>3</sub>H<sub>6</sub>O): A clear, colorless liquid, acetone is a fast-evaporating solvent known for its distinct sweet smell. Commonly used as a nail polish remover and paint thinner, it is also an essential industrial solvent, playing a role in the production of pharmaceuticals, plastics, and other chemicals. Acetone is miscible with water and serves as an important solvent in the laboratory setting for cleaning and in organic synthesis. It has low absorption in the UV and visible spectral regions, making it useful for certain optical applications, especially as a solvent in liquid-based systems.
+    
+    Chemical formula:
+    CH<sub>3</sub>COCH<sub>3</sub>
+
+LINKS:
+  - url: https://en.wikipedia.org/wiki/Acetone
+    text: Acetone - Wikipedia
+  - url: https://webbook.nist.gov/cgi/cbook.cgi?ID=C67641
+    text: Acetone - NIST Chemistry WebBook

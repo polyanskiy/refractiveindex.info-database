@@ -1,0 +1,18 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+NAMES:
+  - Ammonium dihydrogen phosphate
+  - NH<sub>4</sub>H<sub>2</sub>PO<sub>4</sub>
+  - ADP
+  - Monoammonium phosphate
+  - MAP
+  - Ammonium phosphate
+
+ABOUT: |
+    Ammonium dihydrogen phosphate (NH<sub>4</sub>H<sub>2</sub>PO<sub>4</sub>), commonly known as ADP, is a white, crystalline solid that readily dissolves in water. In the realm of optics, ADP crystals have been employed for various applications due to their nonlinear optical properties. These crystals are particularly valuable for frequency doubling of laser light, especially in the ultraviolet range. ADP crystals exhibit birefringence, which makes them suitable for modulating light and serving as Pockels cells. Additionally, these crystals are used in optical parametric oscillators. Beyond optics, ADP is used as a fertilizer, given its high phosphate content. It also serves as a component in some fire extinguishers and is involved in various biological processes as a source of phosphorus and nitrogen.
+
+LINKS:
+  - url: https://en.wikipedia.org/wiki/Monoammonium_phosphate
+    text: Monoammonium phosphate - Wikipedia

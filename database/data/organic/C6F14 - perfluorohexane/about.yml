@@ -1,0 +1,26 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+NAMES:
+  - Perfluorohexane
+  - C<sub>6</sub>F<sub>14</sub>
+  - Tetradecafluorohexane
+  - Perflexane
+  - Hexane, perfluoro-
+  - Hexane, tetradecafluoro-
+  - Perfluoro-n-hexane
+  - FC-72
+  - Perfluorinated hexane
+  - Perfluoroisoheptane
+
+ABOUT: |
+    Perfluorohexane (C<sub>6</sub>F<sub>14</sub>) is a fully fluorinated carbon compound belonging to the class of perfluoroalkanes. It is a colorless, odorless, and chemically inert liquid that is highly resistant to heat, chemicals, and electrical conductivity. Due to these properties, perfluorohexane is primarily used in applications requiring high chemical stability and low reactivity, such as in cooling systems for electronic equipment and as a heat transfer fluid. It also finds use in the medical field as a liquid ventilation fluid to improve oxygen delivery in respiratory treatments. While its optical applications are not prominent, perfluorohexane's unique density and non-polar characteristics can be utilized in specialized scientific studies where such traits are required.
+
+LINKS:
+  - url: https://en.wikipedia.org/wiki/Perfluorohexane
+    text: Perfluorohexane - Wikipedia
+  - url: https://pubchem.ncbi.nlm.nih.gov/compound/Perflexane
+    text: Perflexane - PubChem
+  - url: https://webbook.nist.gov/cgi/cbook.cgi?ID=C355420
+    text: Hexane, tetradecafluoro- - NIST Chemistry WebBook

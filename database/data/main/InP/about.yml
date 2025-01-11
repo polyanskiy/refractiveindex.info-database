@@ -1,0 +1,17 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+NAMES:
+  - Indium phosphide
+  - InP
+  - Indium(III) phosphide
+
+ABOUT: |
+    Indium phosphide (InP) is a binary semiconductor composed of indium and phosphorus, belonging to the III-V group of semiconductors. It offers a high electron mobility and a direct bandgap, making it especially useful for optoelectronic devices that operate in the infrared and visible spectra. InP is widely used as a substrate material for epitaxial growth of other III-V semiconductors, such as GaAs and InGaAs, and is essential for constructing high-speed transistors and photonic integrated circuits. The material is often grown using molecular beam epitaxy (MBE) or metal-organic chemical vapor deposition (MOCVD). InP is particularly important in the fabrication of high-performance light-emitting diodes (LEDs), laser diodes, and waveguide-based photonic components. It's also a key material for fiber-optic communication systems. Handling InP requires caution due to the toxicity of its constituent elements.
+
+LINKS:
+  - url: https://en.wikipedia.org/wiki/Indium(III)_phosphide
+    text: Indium(III) phosphide - Wikipedia
+  - url: https://www.ioffe.ru/SVA/NSM/Semicond/InP
+    text: Indium phosphide - NSM Archive

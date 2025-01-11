@@ -1,0 +1,19 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+NAMES:
+  - Caesium
+  - Cs
+  - Cesium (American spelling)
+
+ABOUT: |
+    Caesium (Cs) is an alkali metal characterised by its softness and extremely low melting point for a metal, just above room temperature at 28.5 °C (83.3 °F). It is silvery-gold in colour and highly reactive, especially with water, leading to its storage in mineral oil or inert gases. In the realm of technology, caesium is crucial for the operation of atomic clocks, which use the microwave spectral line emitted by electrons in caesium atoms to define the second, the base unit of time. Due to the high precision of caesium-based atomic clocks, they serve as the timekeeping standard for global navigation satellite systems like GPS. Caesium is also used in photoelectric cells, ion propulsion systems, and as a catalyst in certain organic reactions. Despite its technological utility, caesium compounds must be handled with care as they can be corrosive and pose health risks upon exposure. Overall, caesium is a fascinating element whose unique properties make it indispensable in precision timekeeping and various specialised applications.
+
+LINKS:
+  - url: https://en.wikipedia.org/wiki/Caesium
+    text: Caesium - Wikipedia
+  - url: https://webbook.nist.gov/cgi/cbook.cgi?ID=C7440462
+    text: Cesium - NIST Chemistry WebBook
+  - url: https://www.webelements.com/caesium/
+    text: Caesium - WebElements

@@ -1,0 +1,20 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+NAMES:
+  - Gadolinium fluoride
+  - GdF<sub>3</sub>
+  - Gadolinium trifluoride
+  - Gadolinium(III) fluoride
+
+ABOUT: |
+    Gadolinium fluoride (GdF<sub>3</sub>) is an inorganic compound with a high melting point and notable transparency across a wide spectral range. It is commonly used in the development of optical materials such as fluoride glasses and is valued for its low refractive index, which makes it suitable for antireflection coatings. Additionally, GdF<sub>3</sub> has applications in laser systems, particularly in solid-state lasers, and it serves as a host material for rare-earth doping in luminescent materials. Its good thermal stability and resistance to moisture further enhance its utility in high-performance optical systems. GdF<sub>3</sub> is also known for its use in scintillation detectors and other photonic devices.
+
+LINKS:
+  - url: https://en.wikipedia.org/wiki/Gadolinium(III)_fluoride
+    text: Gadolinium(III) fluoride - Wikipedia
+  - url: https://webbook.nist.gov/cgi/cbook.cgi?ID=C13765269
+    text: Gadolinium trifluoride - NIST Chemistry WebBook
+  - url: https://www.webelements.com/compounds/gadolinium/gadolinium_trifluoride.html
+    text: Gadolinium trifluoride - WebElements

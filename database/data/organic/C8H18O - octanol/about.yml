@@ -1,0 +1,30 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+NAMES:
+  - Octanol
+  - C<sub>8</sub>H<sub>18</sub>O
+
+ABOUT: |
+    Octanol (C<sub>8</sub>H<sub>18</sub>O) is an organic compound that consists of an eight-carbon chain terminating in a hydroxyl group (-OH). It typically presents as a colorless, oily liquid with a faintly floral or citrus-like odor. Octanol is principally used as a solvent and in the manufacture of esters used in perfumes and flavorings. It also plays a role in the production of plasticizers and surfactants. In optical applications, the specific refractive index properties of octanol may prove advantageous for certain specialized uses. While octanol is less toxic compared to many organic solvents, it can still pose risks to health if improperly handled, necessitating measures for safe usage and storage.
+
+LINKS:
+  - url: https://en.wikipedia.org/wiki/Octanol
+    text: Octanol - Wikipedia
+  - url: https://en.wikipedia.org/wiki/1-Octanol
+    text: 1-Octanol - Wikipedia
+  - url: https://en.wikipedia.org/wiki/2-Octanol
+    text: 2-Octanol - Wikipedia
+  - url: https://webbook.nist.gov/cgi/cbook.cgi?ID=111875
+    text: 1-Octanol - NIST Chemistry WebBook
+  - url: https://webbook.nist.gov/cgi/cbook.cgi?ID=123966
+    text: 2-Octanol - NIST Chemistry WebBook
+  - url: https://pubchem.ncbi.nlm.nih.gov/compound/1-Octanol
+    text: 1-Octanol - PubChem
+  - url: https://pubchem.ncbi.nlm.nih.gov/compound/2-Octanol
+    text: 2-Octanol - PubChem
+  - url: https://pubchem.ncbi.nlm.nih.gov/compound/3-Octanol
+    text: 3-Octanol - PubChem
+  - url: https://pubchem.ncbi.nlm.nih.gov/compound/4-Octanol
+    text: 4-Octanol - PubChem

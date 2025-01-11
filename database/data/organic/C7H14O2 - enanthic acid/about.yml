@@ -1,0 +1,24 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+NAMES:
+  - Enanthic acid
+  - C<sub>7</sub>H<sub>14</sub>O<sub>2</sub>
+  - Heptanoic acid
+  - n-Heptanoic acid
+  - Oenanthic acid
+  - Enanthylic acid
+  - Heptylic acid
+
+ABOUT: |
+    Enanthic acid is a saturated fatty acid with a seven-carbon chain. It is a colorless oily liquid with an unpleasant, rancid odor. Naturally occurring in some plant oils, it is used in the synthesis of esters for fragrances and flavors. Industrially, enanthic acid serves as an intermediate in the production of lubricants and plasticizers.
+    
+    Chemical formula:
+    CH<sub>3</sub>(CH<sub>2</sub>)<sub>5</sub>COOH
+
+LINKS:
+  - url: https://en.wikipedia.org/wiki/Heptanoic_acid
+    text: Enanthic acid - Wikipedia
+  - url: https://webbook.nist.gov/cgi/cbook.cgi?ID=111148
+    text: Heptanoic acid - NIST Chemistry WebBook

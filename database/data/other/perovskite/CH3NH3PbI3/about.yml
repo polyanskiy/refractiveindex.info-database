@@ -1,0 +1,21 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+NAMES:
+  - Methylammonium lead iodide
+  - CH<sub>3</sub>NH<sub>3</sub>PbI<sub>3</sub>
+  - MAPbI<sub>3</sub>
+
+ABOUT: |
+    Methylammonium lead iodide (CH<sub>3</sub>NH<sub>3</sub>PbI<sub>3</sub>) is a prominent perovskite material used extensively in solar cell technology. It is renowned for its high photovoltaic efficiency due to its optimal band gap and strong light absorption capabilities. This compound typically forms a tetragonal crystalline structure that facilitates efficient charge transport, critical for its application in perovskite solar cells. Its optical properties, particularly its refractive index, are crucial for enhancing light-harvesting efficiency.
+    
+    Despite its potential in renewable energy applications, CH<sub>3</sub>NH<sub>3</sub>PbI<sub>3</sub> faces challenges related to environmental impact and stability, given its lead content and sensitivity to moisture and temperature.
+
+LINKS:
+  - url: https://en.wikipedia.org/wiki/Methylammonium_lead_halide
+    text: Methylammonium lead halide - Wikipedia
+  - url: https://en.wikipedia.org/wiki/Perovskite_(structure)
+    text: Perovskite (structure) - Wikipedia
+  - url: https://en.wikipedia.org/wiki/Perovskite_solar_cell
+    text: Perovskite solar cell - Wikipedia

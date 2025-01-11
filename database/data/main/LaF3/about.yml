@@ -1,0 +1,23 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+NAMES:
+  - Lanthanum fluoride
+  - LaF<sub>3</sub>
+  - Lanthanum trifluoride
+  - Lanthanum(III) fluoride
+  - Fluocerite-(La)
+
+ABOUT: |
+    Lanthanum fluoride (LaF<sub>3</sub>) is a white, crystalline, inorganic compound that is used in a variety of optical applications. It is a popular choice for the production of fluoride glass and is also used as a scintillation material in radiation detection. Due to its low refractive index, it is often used in antireflection coatings, especially for infrared optics. The compound is stable, has good thermal durability, and exhibits a wide transparency range, making it a versatile material for various optical systems. Its low solubility in water also makes it preferable in moisture-sensitive applications. LaF<sub>3</sub> is an important material in both research and commercial optical technologies.
+    
+    Mineral: Fluocerite-(La)
+
+LINKS:
+  - url: https://webbook.nist.gov/cgi/cbook.cgi?ID=C13709381
+    text: Lanthanum fluoride - NIST Chemistry WebBook
+  - url: https://www.webelements.com/compounds/lanthanum/lanthanum_trifluoride.html
+    text: Lanthanum trifluoride - WebElements
+  - url: https://en.wikipedia.org/wiki/Fluocerite
+    text: Fluocerite - Wikipedia

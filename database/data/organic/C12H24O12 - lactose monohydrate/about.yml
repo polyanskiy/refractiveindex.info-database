@@ -1,0 +1,21 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+NAMES:
+  - Lactose monohydrate
+  - C<sub>12</sub>H<sub>24</sub>O<sub>12</sub>
+  - Lactose hydrate
+  - Milk sugar monohydrate
+  - 4-O-β-D-Galactopyranosyl-D-glucose monohydrate
+  - D-Lactose monohydrate
+  - Pharmatose
+  - "CAS Number: 64044-51-5"
+  - "EINECS: 200-559-2"
+
+ABOUT: |
+    Lactose monohydrate is a carbohydrate and a derivative of lactose, where one molecule of lactose is chemically bound to a molecule of water. This compound is extensively utilized in the pharmaceutical and food industries as an excipient and a stabilizer for the formulation of tablets and capsules, as well as a filler in the manufacture of foods.
+
+LINKS:
+  - url: https://pubchem.ncbi.nlm.nih.gov/compound/Lactose-monohydrate
+    text: Lactose monohydrate - PubChem

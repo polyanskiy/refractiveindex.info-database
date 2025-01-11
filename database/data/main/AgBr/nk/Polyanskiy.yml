@@ -1,0 +1,13 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+REFERENCES: |
+    M. N. Polyanskiy, I. V. Pogorelsky, M. Babzien, K. L. Vodopyanov, M. A. Palmer.
+    Nonlinear refraction and absorption properties of optical materials for high-peak-power long-wave-infrared lasers.
+    <a href="https://doi.org/10.1364/OME.513971"><i>Opt. Mater. Express</i> <b>14</b>, 696–714 (2024)</a><br>
+    (fit of data from <a href="https://doi.org/10.1007/BF01391040">Schröter-1931</a> and <a href="https://doi.org/10.1364/AO.12.000409">McCarthy-1973</a>)
+DATA:
+  - type: formula 1
+    wavelength_range: 0.495 12.7
+    coefficients: 2.860 0.8677 0.32112 21.61 254.2

@@ -1,0 +1,18 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+NAMES:
+  - Krypton
+  - Kr
+
+ABOUT: |
+    Krypton (Kr) is a noble gas with limited chemical reactivity, but it has several important applications in the field of optics. It is used as a fill gas in various types of gas lasers, including krypton-ion lasers, which produce light in the visible and ultraviolet spectra. These lasers are employed in applications ranging from scientific research to entertainment. Krypton is also used in fluorescent lamps and as a trace gas in double- or triple-pane window insulation to reduce heat transfer. It is generally safe to handle but can act as a simple asphyxiant in high concentrations.
+
+LINKS:
+  - url: https://en.wikipedia.org/wiki/Krypton
+    text: Krypton - Wikipedia
+  - url: https://www.webelements.com/krypton/
+    text: Krypton - WebElements
+  - url: https://webbook.nist.gov/cgi/cbook.cgi?ID=C743990
+    text: Krypton - NIST Chemistry WebBook

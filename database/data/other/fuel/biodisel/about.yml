@@ -1,0 +1,12 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+NAMES:
+  - Biodisel
+
+LINKS:
+  - url: https://en.wikipedia.org/wiki/Biodiesel
+    text: Biodisel - Wikipedia
+  - url: https://www.biodiesel.org/
+    text: Biodisel.org

@@ -1,0 +1,16 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+NAMES:
+  - Niobium
+  - Nb
+
+ABOUT: |
+    Niobium (Nb) is a soft, grey, ductile transition metal, often recognized for its high melting point and unique superconducting properties. In the realm of optics, niobium's most noteworthy application lies in its thin film form, which can be utilized as a coating for specialized optical components. These coatings benefit from niobium's ability to provide excellent reflectivity in the infrared spectrum. Furthermore, due to its superconducting capabilities, niobium finds applications in advanced scientific equipment like particle accelerators and quantum computing setups, where it is used to fabricate superconducting radio-frequency (RF) cavities.
+
+LINKS:
+  - url: https://en.wikipedia.org/wiki/Niobium
+    text: Niobium - Wikipedia
+  - url: https://www.webelements.com/niobium/
+    text: Niobium - WebElements

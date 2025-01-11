@@ -1,0 +1,16 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+NAMES:
+  - Pentafluorobenzonitrile
+  - C<sub>7</sub>F<sub>5</sub>N
+
+ABOUT: |
+    Pentafluorobenzonitrile (C<sub>6</sub>F<sub>5</sub>CN) is a specialized chemical compound characterized by a benzene ring where five hydrogen atoms are replaced by fluorine atoms, with a nitrile group (-CN) attached. It appears as a colorless, crystalline solid with a distinctive, sharp odor. This compound is primarily used in the synthesis of various pharmaceuticals, agrochemicals, and materials due to its unique reactivity and the ability to introduce fluorine into other molecules. Pentafluorobenzonitrile is also valued for its applications in liquid crystal and fluoropolymer production. Optically, the strong electron-withdrawing effects of the fluorine atoms and the nitrile group can impart useful refractive properties to materials incorporating this compound. Handling pentafluorobenzonitrile requires precautions due to its potential toxicity and environmental impact.
+
+LINKS:
+  - url: https://webbook.nist.gov/cgi/cbook.cgi?ID=773820
+    text: Benzonitrile, pentafluoro- - NIST Chemistry WebBook
+  - url: https://pubchem.ncbi.nlm.nih.gov/compound/Pentafluorobenzonitrile
+    text: Pentafluorobenzonitrile - PubChem

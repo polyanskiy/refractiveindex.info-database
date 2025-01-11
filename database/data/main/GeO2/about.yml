@@ -1,0 +1,20 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+NAMES:
+  - Germanium dioxide
+  - GeO<sub>2</sub>
+  - Germanium(IV) oxide
+  - Germania
+  - Germanium oxide
+  - Germanic oxide
+
+ABOUT: |
+    Germanium dioxide (GeO<sub>2</sub>) is often encountered in crystalline forms, which are transparent in the ultraviolet and infrared regions of the spectrum. This material is important in optical applications like fiber optic systems, where it is used as a dopant to adjust the refractive index of silica fibers. The compound can exist in multiple polymorphs, including hexagonal and tetragonal forms, each with their own set of optical and mechanical properties. It's also a precursor for producing high-purity germanium for use in semiconductors.
+
+LINKS:
+  - url: https://en.wikipedia.org/wiki/Germanium_dioxide
+    text: Germanium dioxide - Wikipedia
+  - url: https://www.webelements.com/compounds/germanium/germanium_dioxide.html
+    text: Germanium dioxide - WebElements

@@ -1,0 +1,15 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+NAMES:
+  - Deoxyribonucleic acid
+  - DNA
+
+LINKS:
+  - url: https://en.wikipedia.org/wiki/DNA
+    text: DNA - Wikipedia
+  - url: https://www.nature.com/scitable/definition/deoxyribonucleic-acid-dna-107
+    text: Deoxyribonucleic acid / DNA - Scitable
+  - url: https://ghr.nlm.nih.gov/primer/basics/dna
+    text: What is DNA? - U.S. National Library of Medicine

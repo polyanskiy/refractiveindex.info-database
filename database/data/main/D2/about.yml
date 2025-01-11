@@ -1,0 +1,19 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+NAMES:
+  - Deuterium
+  - D<sub>2</sub>
+  - H-2
+
+ABOUT: |
+    Deuterium (D<sub>2</sub>) is an isotope of hydrogen consisting of a nucleus with one proton and one neutron, double the mass of ordinary hydrogen. It is commonly used in nuclear fusion research and as a tracer in chemical studies. In optics, deuterium lamps are often used as ultraviolet light sources due to their continuous spectrum that extends down to shorter wavelengths compared to ordinary hydrogen. These lamps are commonly used in ultraviolet-visible spectroscopy and other applications requiring a stable, broad-spectrum UV light source. Deuterium gas itself is transparent to a broad range of wavelengths, making it suitable for use in optical cells for spectroscopic studies that require isotopic sensitivity.
+
+LINKS:
+  - url: https://en.wikipedia.org/wiki/Deuterium
+    text: Deuterium - Wikipedia
+  - url: https://www.webelements.com/hydrogen/isotopes.html
+    text: Isotopes of hydrogen - WebElements
+  - url: https://webbook.nist.gov/cgi/cbook.cgi?ID=C7782390
+    text: Deuterium - NIST Chemistry WebBook

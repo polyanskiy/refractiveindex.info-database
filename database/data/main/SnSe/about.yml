@@ -1,0 +1,22 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+NAMES:
+  - Tin selenide
+  - SnSe
+  - Tin(II) selenide
+  - Stannous selenide
+
+ABOUT: |
+    Tin selenide (SnSe) is a layered semiconducting material with an orthorhombic crystal structure. This material has attracted significant attention due to its remarkable thermoelectric properties, particularly at low temperatures. SnSe has one of the highest thermoelectric efficiencies, making it a promising candidate for thermoelectric energy conversion, which can transform waste heat into electricity. The intrinsic p-type conductivity of SnSe can also be of interest for optoelectronic applications. Similar to other layered materials, SnSe can be exfoliated into nanosheets, opening avenues for research in the realm of two-dimensional materials. The combination of its unique properties makes SnSe a material of considerable research interest in both the energy and electronics sectors.
+
+LINKS:
+  - url: https://en.wikipedia.org/wiki/Tin_selenide
+    text: Tin selenide - Wikipedia
+  - url: https://pubchem.ncbi.nlm.nih.gov/compound/Tin-selenide
+    text: Tin selenide - PubChem
+  - url: https://webbook.nist.gov/cgi/inchi?ID=C1315066
+    text: Tin selenide - NIST Chemistry WebBook
+  - url: https://webelements.com/compounds/tin/tin_selenide.html
+    text: Tin selenide - WebElements

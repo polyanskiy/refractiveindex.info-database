@@ -1,0 +1,20 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+NAMES:
+  - Strontium oxide
+  - SrO
+  - Strontia
+  - Strontium monoxide
+
+ABOUT: |
+    Strontium oxide (SrO) is an inorganic compound that appears white and is odorless. It is formed when strontium metal is oxidized or when strontium salts are heated in the presence of oxygen. SrO is a basic oxide, meaning it can react with acids to form strontium salts. For instance, it reacts with water to form strontium hydroxide. This oxide is not commonly found on its own in nature but is typically seen as part of other mineral compounds. While it is not widely used in everyday applications, SrO is of interest in specialized areas such as the fabrication of specific glass types, ceramics, and in some electronics contexts. Proper care should be taken while handling SrO as strontium compounds can be harmful if ingested or inhaled.
+
+LINKS:
+  - url: https://en.wikipedia.org/wiki/Strontium_oxide
+    text: Strontium - Wikipedia
+  - url: https://webbook.nist.gov/cgi/inchi?ID=C1314110
+    text: Strontium monoxide - NIST Chemistry WebBook
+  - url: https://pubchem.ncbi.nlm.nih.gov/compound/Strontium-oxide
+    text: Strontium oxide - PubChem

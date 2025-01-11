@@ -1,0 +1,50 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+NAMES:
+  - Propanol
+  - C<sub>3</sub>H<sub>8</sub>O
+  - 1-Propanol
+  - Isopropanol
+  - Propan-1-ol
+  - n-Propyl alcohol
+  - n-Propanol
+  - n-PrOH
+  - Ethylcarbinol
+  - 1-Hydroxypropane
+  - Propanol
+  - Propionic alcohol
+  - Propionyl alcohol
+  - Propionylol
+  - Propyl alcohol
+  - Propylic alcohol
+  - Propylol
+  - Isopropyl alcohol
+  - 2-Propanol
+  - Propan-2-ol
+  - Isopropyl alcohol
+  - Rubbing alcohol
+  - Sec-propyl alcohol
+  - s-Propanol
+  - iPrOH
+  - IPA
+
+ABOUT: |
+    Propanol (C<sub>3</sub>H<sub>8</sub>O), also commonly referred to as propyl alcohol, comes in two isomeric forms: n-propanol (or 1-propanol) and isopropanol (or 2-propanol). These alcohols are clear, colorless liquids that are miscible with water and have a characteristic alcoholic odor. Both forms of propanol are used as solvents in the pharmaceutical, cosmetic, and chemical industries. n-Propanol is often employed in the manufacture of antiseptics, detergents, and disinfectants, whereas isopropanol, popularly known as rubbing alcohol, is used for its antiseptic properties and as a cleaning agent. In optics, the refractive properties of propanol can be explored when it's used as a medium or in conjunction with other materials to modify light behavior.
+    
+    Chemical formula (1-Propanol):
+    CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>OH
+    
+    Chemical formula (Isopropanol):
+    (CH<sub>3</sub>)<sub>2</sub>CHOH
+
+LINKS:
+  - url: https://en.wikipedia.org/wiki/1-Propanol
+    text: 1-Propanol - Wikipedia
+  - url: https://webbook.nist.gov/cgi/cbook.cgi?ID=C71238
+    text: 1-Propanol - NIST Chemistry WebBook
+  - url: https://en.wikipedia.org/wiki/Isopropyl_alcohol
+    text: Isopropyl alcohol - Wikipedia
+  - url: https://webbook.nist.gov/cgi/cbook.cgi?ID=C67630
+    text: Isopropyl alcohol - NIST Chemistry WebBook

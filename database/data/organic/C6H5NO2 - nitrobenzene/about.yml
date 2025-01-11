@@ -1,0 +1,18 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+NAMES:
+  - Nitrobenzene
+  - C<sub>6</sub>H<sub>5</sub>NO<sub>2</sub>
+  - Nitrobenzol
+  - Oil of mirbane
+
+ABOUT: |
+    Nitrobenzene (C<sub>6</sub>H<sub>5</sub>NO<sub>2</sub>) is an organic compound characterized by a benzene ring with a nitro group (-NO<sub>2</sub>) attached. It appears as a pale-yellow oily liquid with an almond-like odor. Widely used as a precursor to aniline, nitrobenzene serves as a stepping stone in the synthesis of various dyes, drugs, pesticides, and plastics. In the realm of optics, its specific properties may render it suitable for certain applications. Direct exposure can be hazardous as nitrobenzene is toxic and its vapors can be harmful when inhaled. Proper care should be exercised during its handling and storage.
+
+LINKS:
+  - url: https://en.wikipedia.org/wiki/Nitrobenzene
+    text: Nitrobenzene - Wikipedia
+  - url: https://webbook.nist.gov/cgi/cbook.cgi?ID=C98953
+    text: Benzene, nitro- - NIST Chemistry WebBook
