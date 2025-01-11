@@ -18,16 +18,13 @@ from matplotlib.backends.backend_qtagg import FigureCanvasQTAgg as FigureCanvas
 # arrays for library structure and content
 shelf_ids = []
 shelf_names = []
-shelf_info_paths = []
 
 book_ids = []
 book_names = []
-book_info_paths = []
 
 page_ids = []
 page_names = []
 page_paths = []
-page_info_paths = []
 
 wl = []
 n2 = []
@@ -62,9 +59,9 @@ class MainWindow(QMainWindow):
         self.details = QTextBrowser()
         self.details.setOpenExternalLinks(True)
 
-        # Info box
-        self.info = QTextBrowser()
-        self.info.setOpenExternalLinks(True)
+        # About box
+        self.about = QTextBrowser()
+        self.about.setOpenExternalLinks(True)
 
         # Page checkboxes (added/removed later depending on number of pages)
         self.checkboxes = []
@@ -117,11 +114,11 @@ class MainWindow(QMainWindow):
         tab2_layout.setStretchFactor(self.details, 3)
         tab_widget.addTab(tab2, "Details")
 
-        # Info tab
+        # About tab
         tab3 = QWidget()
         tab3_layout = QHBoxLayout(tab3)
-        tab3_layout.addWidget(self.info)
-        tab_widget.addTab(tab3, "Info")
+        tab3_layout.addWidget(self.about)
+        tab_widget.addTab(tab3, "About")
 
         # populate main_layout (vertical)
         main_layout = QVBoxLayout()
@@ -142,23 +139,25 @@ class MainWindow(QMainWindow):
 
 
 def UpdateShelfList():
-    global shelf_names, shelf_info_paths
+    global shelf_name
     shelf_ids = []
     shelf_names = []
-    shelf_info_paths = []
     for shelf in library:
         if "SHELF" in shelf:
             shelf_ids.append(shelf.get("SHELF"))
             shelf_names.append(shelf.get("name"))
-            shelf_info_paths.append(shelf.get("info"))
             w.combobox1.addItem(shelf.get("name"))
         elif "DIVIDER" in shelf:
             shelf_ids.append("")
             shelf_names.append("")
-            shelf_info_paths.append("")
             # add disabled item as divider
             w.combobox1.addItem("   " + shelf.get("DIVIDER"))
-            w.combobox1.model().item(w.combobox1.count()-1).setEnabled(False)
+            model_item = w.combobox1.model().item(w.combobox1.count()-1)
+            model_item.setEnabled(False)
+            font = model_item.font()
+            font.setBold(True)
+            model_item.setFont(font)
+            
     # select first enabled item
     for i in range(w.combobox1.count()):
         if w.combobox1.model().item(i).isEnabled():
@@ -166,7 +165,7 @@ def UpdateShelfList():
             break
 
 def UpdateBookList():
-    global book_ids, book_names, book_info_paths
+    global book_ids, book_names
 
     shelf = library[w.combobox1.currentIndex()].get("content")
     if not shelf:
@@ -175,21 +174,22 @@ def UpdateBookList():
     w.combobox2.clear()
     book_ids = []
     book_names = []
-    book_info_paths = []
 
     for book in shelf:
         if "BOOK" in book:
             book_ids.append(book.get("BOOK"))
             book_names.append(book.get("name"))
-            book_info_paths.append(book.get("info"))
             w.combobox2.addItem(re.sub("<[^<]+?>", "", book.get("name"))) # strip HTML tags from name)
         elif "DIVIDER" in book:
             book_ids.append("")
             book_names.append("")
-            book_info_paths.append("")
             # add disabled item as divider
             w.combobox2.addItem("   " + book.get("DIVIDER"))
-            w.combobox2.model().item(w.combobox2.count()-1).setEnabled(False)
+            model_item = w.combobox2.model().item(w.combobox2.count()-1)
+            model_item.setEnabled(False)
+            font = model_item.font()
+            font.setBold(True)
+            model_item.setFont(font)
     # select first enabled item
     for i in range(w.combobox2.count()):
         if w.combobox2.model().item(i).isEnabled():
@@ -197,7 +197,7 @@ def UpdateBookList():
             break
 
 def UpdatePageList():
-    global page_ids, page_names, page_paths, page_info_paths
+    global page_ids, page_names, page_paths
 
     shelf = library[w.combobox1.currentIndex()].get("content")
     if not shelf:
@@ -209,7 +209,6 @@ def UpdatePageList():
     page_ids = []
     page_names = []
     page_paths = []
-    page_info_paths = []
     # remove all checkboxes
     while w.checkboxes:
         checkbox = w.checkboxes.pop()
@@ -225,7 +224,6 @@ def UpdatePageList():
             page_ids.append(page.get("PAGE"))
             page_names.append(page.get("name"))
             page_paths.append(page.get("data"))
-            page_info_paths.append(page.get("info"))
             is_first_enabled = (len(page_ids)==1 and page_ids[0]!="") or (len(page_ids)==2 and page_ids[0]=="")
             # add a checked checkbox
             checkbox = QCheckBox(html2mathtext(page.get("name")))
@@ -244,23 +242,28 @@ def UpdatePageList():
             page_ids.append("")
             page_names.append("")
             page_paths.append("")
-            page_info_paths.append("")
             # add a hidden checkbox (label only)
             checkbox = QCheckBox(html2mathtext(page.get("DIVIDER")))
             checkbox.setEnabled(False)
+            font = checkbox.font()
+            font.setBold(True)
+            checkbox.setFont(font)
             checkbox.setStyleSheet("QCheckBox::indicator {width: 0px; border: none;}")
             w.checkboxes.append(checkbox)
             w.checkboxes_layout.insertWidget(i, checkbox)
             # add a hidden radiobutton
             radiobutton = QRadioButton(html2mathtext(page.get("DIVIDER")))
             radiobutton.setEnabled(False)
+            font = radiobutton.font()
+            font.setBold(True)
+            radiobutton.setFont(font)
             radiobutton.setStyleSheet("QRadioButton::indicator {width: 0px; border: none;}")
             w.radiobuttons.append(radiobutton)
             w.radiobuttons_layout.insertWidget(i, radiobutton)
     UpdateData()
     UpdatePlot()
     UpdateDetails()
-    UpdateInfo()
+    UpdateAbout()
 
 
 def UpdateData():
@@ -272,7 +275,7 @@ def UpdateData():
             wl.append(0)
             n2.append(0)
             continue
-        data_path = os.path.join(db_path, "data-n2", page_paths[i])
+        data_path = os.path.join(db_path, "data", page_paths[i])
         data_path = os.path.normpath(data_path)
         if os.path.exists(data_path):
             with open(data_path, "r", encoding="utf-8") as file:
@@ -320,7 +323,7 @@ def UpdateDetails():
     w.details.clear()
     ref = ""
     com = ""
-    spe = ""
+    con = ""
     dat = ""
     text = ""
 
@@ -328,7 +331,7 @@ def UpdateDetails():
         if w.radiobuttons[page_num].isChecked():
             break
 
-    data_path = os.path.join(db_path, "data-n2", page_paths[page_num])
+    data_path = os.path.join(db_path, "data", page_paths[page_num])
     data_path = os.path.normpath(data_path)
     if os.path.exists(data_path):
         with open(data_path, "r", encoding="utf-8") as file:
@@ -341,15 +344,20 @@ def UpdateDetails():
         # This element ([0]) is a dict again; we read the value of the "data" key from this dict
         dat = datafile.get("DATA")[0].get("data").strip()
 
-        specs_dict = datafile.get("SPECS", {})
-        spe = "\n".join([f"{key}: {value}" for key, value in specs_dict.items()])
+        conditions_dict = datafile.get("CONDITIONS", {})
+        con = stringify(conditions_dict)
+        
+        properties_dict = datafile.get("PROPERTIES", {})
+        pro = stringify(properties_dict)
 
-        if ref != "":
-            text  = "<h4>REFERENCES</h4><p>" + ref + "</p>"
+        if con != "":
+            text += "<h4>CONDITIONS</h4><pre>" + con + "</pre>"
+        if pro != "":
+            text += "<h4>PROPERTIES</h4><pre>" + pro + "</pre>"
         if com != "":
             text += "<h4>COMMENTS</h4><p>" + com + "</p>"
-        if spe != "":
-            text += "<h4>SPECS</h4><pre>" + spe + "</pre>"
+        if ref != "":
+            text  += "<h4>REFERENCES</h4><p>" + ref + "</p>"
         if dat != "":
             text += "<h4>DATA</h4><pre>" + dat + "</pre>"
         w.details.setHtml(text)
@@ -357,36 +365,101 @@ def UpdateDetails():
     else:
         text += "<p> Missing file: " + data_path + " </p>"
 
-def UpdateInfo():
-    w.info.clear()
-    shelf_num = w.combobox1.currentIndex()
-    book_num = w.combobox2.currentIndex()
+
+
+def UpdateAbout():
+    w.about.clear()
+    
     for page_num in range(len(page_ids)):
         if w.radiobuttons[page_num].isChecked():
             break
-    text = ""
-    if shelf_info_paths[shelf_num]:
-        info_path = os.path.normpath(os.path.join(db_path, "info", shelf_info_paths[shelf_num]))
-        if os.path.exists(info_path):
-            with open(info_path, "r", encoding="utf-8") as file:
-                text += file.read()
-        else:
-            text += "<p> Missing file: " + info_path + " </p>"
-    if book_info_paths[book_num]:
-        info_path = os.path.normpath(os.path.join(db_path, "info", book_info_paths[book_num]))
-        if os.path.exists(info_path):
-            with open(info_path, "r", encoding="utf-8") as file:
-                text += file.read()
-        else:
-            text += "<p> Missing file: " + info_path + " </p>"
-    if page_info_paths[page_num]:
-        info_path = os.path.normpath(os.path.join(db_path, "info", page_info_paths[page_num]))
-        if os.path.exists(info_path):
-            with open(info_path, "r", encoding="utf-8") as file:
-                text += file.read()
-        else:
-            text += "<p> Missing file: " + info_path + " </p>"
-    w.info.setHtml(text)
+    
+    about1 = ''
+    names1 = []
+    links1 = []
+    about2 = ''
+    names2 = []
+    links2 = []
+    text = ''
+
+    data_path = os.path.join(db_path, "data", page_paths[page_num])
+    data_path = os.path.normpath(data_path)
+    
+    datadir = os.path.dirname(page_paths[page_num])
+    dir_1up = os.path.dirname(datadir)
+    dir_2up = os.path.dirname(dir_1up)
+    
+    # up to two about.yml files: one or two levels higher in directory tree than the datafile
+    about_path1 = os.path.join(db_path, "data", dir_1up, "about.yml")
+    about_path2 = os.path.join(db_path, "data", dir_2up, "about.yml")
+    
+    if os.path.exists(about_path1):
+        with open(about_path1, "r", encoding="utf-8") as file:
+            aboutfile = yaml.safe_load(file)        
+        raw_read = aboutfile.get("NAMES", [[{}]])
+        names1 = [str(item) for item in raw_read]
+        about1 = aboutfile.get("ABOUT", {})
+        raw_read = aboutfile.get("LINKS", [])
+        for link in raw_read:
+            if 'url' in link and 'text' in link:
+                links1.append(f'<a href="{link["url"]}">{link["text"]}</a>')
+
+    if os.path.exists(about_path2):
+        with open(about_path2, "r", encoding="utf-8") as file:
+            aboutfile = yaml.safe_load(file)        
+        raw_read = aboutfile.get("NAMES", [[{}]])
+        names2 = [str(item) for item in raw_read]
+        about2 = aboutfile.get("ABOUT", {})
+        raw_read = aboutfile.get("LINKS", [])
+        for link in raw_read:
+            if 'url' in link and 'text' in link:
+                links2.append(f'<a href="{link["url"]}">{link["text"]}</a>')
+    
+    if about1 != '' or names1 or links1:
+        text += '<h3>About'
+        if(names1):
+            text += f' {names1[0]}'
+        text += '</h3>'
+        text += '<div style="margin:0 10px 10px 10px;">'
+        if about1 != '':
+            text += f'<p>{about1}</p>' 
+        if names1 and len(names1) > 1:
+            text += f'<h4>Other names and variants of {names1[0]}</h4>'
+            text += '<ul>'
+            for name in names1[1:]:
+                text += f'<li>{name}</li>'
+            text += '</ul>'
+        if links1:
+            text += '<h4>Links</h4>'
+            text += '<ul>'
+            for link in links1:
+                text += f'<li>{link}</li>'
+            text += '</ul>'            
+        text += '</div>'
+    
+    if about2 != '' or names2 or links2:
+        text += '<h3>About'
+        if(names2):
+            text += f' {names2[0]}'
+        text += '</h3>'
+        text += '<div style="margin:0 10px 10px 10px;">'
+        if about2 != '':
+            text += f'<p>{about2}</p>'
+        if names2 and len(names2) > 1:
+            text += f'<h4>Other names and variants of {names2[0]}</h4>'
+            text += '<ul>'
+            for name in names2[1:]:
+                text += f'<li>{name}</li>'
+            text += '</ul>'
+        if links2:
+            text += '<h4>Links</h4>'
+            text += '<ul>'
+            for link in links2:
+                text += f'<li>{link}</li>'
+            text += '</ul>'
+        text += '</div>'
+            
+    w.about.setHtml(text)
 
 
 
@@ -397,6 +470,23 @@ def html2mathtext(str):
     # str = re.sub(r"<b>(.*?)</b>", r"$\\mathbf{\1}$", str) # bold
     # str = re.sub(r"<i>(.*?)</i>", r"$\\mathit{\1}$", str) # italic
     return f"{str}"
+
+
+
+def stringify(d, indent=0):
+    s = ""
+    for i, (key, value) in enumerate(d.items()):
+        if i>0:
+            s += "\n"
+        s += " "*indent + f"{key}:"
+        if isinstance(value, dict):
+            s += "\n" + stringify(value, indent+2)
+        elif isinstance(value, list) and all(isinstance(ii, dict) for ii in value):
+            for item in value:
+                s += "\n  - " + stringify(item, indent+4).lstrip()
+        else:
+            s += f" {value}"
+    return s
 
 
 #------------------------------------------------------------------------------------------
