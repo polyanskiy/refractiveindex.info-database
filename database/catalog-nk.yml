@@ -6436,10 +6436,10 @@
           data: specs/schott/misc/DURAN.yml
         - PAGE: LITHOSIL-Q
           name: "LITHOSIL-Q (obsolete)"
-          data: specs/schott/LITHOSIL-Q.yml
+          data: specs/schott/misc/LITHOSIL-Q.yml
         - PAGE: LITHOTEC-CAF2
           name: "LITHOTEC-CAF2 (obsolete)"
-          data: specs/schott/LITHOTEC-CAF2.yml
+          data: specs/schott/misc/LITHOTEC-CAF2.yml
     - BOOK: HIKARI-multipurpose
       name: "HIKARI - multiple purpose"
       content:
@@ -6489,9 +6489,12 @@
         - PAGE: BaF2
           name: "BaF<sub>2</sub>"
           data: specs/crystran/optical/BaF2.yml
-        - PAGE: CaCO3
-          name: "CaCO<sub>3</sub>"
-          data: specs/crystran/optical/CaCO3.yml
+        - PAGE: CaCO3-o
+          name: "CaCO<sub>3</sub> (o)"
+          data: specs/crystran/optical/CaCO3-o.yml
+        - PAGE: CaCO3-e
+          name: "CaCO<sub>3</sub> (e)"
+          data: specs/crystran/optical/CaCO3-e.yml
         - PAGE: CdTe
           name: "CdTe"
           data: specs/crystran/optical/CdTe.yml
@@ -6504,9 +6507,12 @@
         - PAGE: CaF2
           name: "CaF<sub>2</sub>"
           data: specs/crystran/optical/CaF2.yml
-        - PAGE: quartz
-          name: "SiO<sub>2</sub> Quartz"
-          data: specs/crystran/optical/quartz.yml
+        - PAGE: quartz-o
+          name: "SiO<sub>2</sub> Quartz (o)"
+          data: specs/crystran/optical/quartz-o.yml
+        - PAGE: quartz-e
+          name: "SiO<sub>2</sub> Quartz (e)"
+          data: specs/crystran/optical/quartz-e.yml
     - DIVIDER: "Display glass"
     - BOOK: CORNING-display
       name: "CORNING - display"
@@ -12331,7 +12337,7 @@
           data: specs/lzos/optical/KF7.yml
 - DIVIDER: "Selected data"
 - SHELF: 3d
-  name: "3D - selected data for 3D artists"
+  name: "Selected materials for 3D artists"
   content:
     - BOOK: metals
       name: "METALS"
@@ -12431,16 +12437,16 @@
           data: specs/schott/optical/N-BAF10.yml
         - PAGE: soda-lime-clear
           name: "Soda-lime glass - Clear"
-          data: specs/misc/soda-lime/Rubin-clear.yml
+          data: glass/misc/soda-lime/nk/Rubin-clear.yml
         - PAGE: soda-lime-bronze
           name: "Soda-lime glass - Bronze"
-          data: specs/misc/soda-lime/Rubin-bronze.yml
+          data: glass/misc/soda-lime/nk/Rubin-bronze.yml
         - PAGE: soda-lime-grey
           name: "Soda-lime glass - Grey"
-          data: specs/misc/soda-lime/Rubin-grey.yml
+          data: glass/misc/soda-lime/nk/Rubin-grey.yml
         - PAGE: soda-lime-green
           name: "Soda-lime glass - Green"
-          data: specs/misc/soda-lime/Rubin-green.yml
+          data: glass/misc/soda-lime/nk/Rubin-green.yml
     - BOOK: liquids
       name: "LIQUIDS"
       content:

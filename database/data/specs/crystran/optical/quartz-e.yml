@@ -1,0 +1,49 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+REFERENCES: |
+    Crystran Ltd.
+    <a href="https://issuu.com/crystran/docs/handbook_2023_website">
+    The Crystran handbook of infra-red and ultra-violet optical materials (5th edition, 2023)
+    </a><br>
+    See also
+    <a href="https://www.crystran.com/optical-materials/crystal-quartz-sio2">
+    Crystran Crystal Quartz SiO<sub>2</sub> online data sheet
+    </a>
+COMMENTS: |
+    Optical data are for extraordinary ray (e).
+CONDITIONS:
+    orientation: e
+DATA:
+  - type: tabulated n
+    data: |
+        0.193 1.675
+        0.213 1.645
+        0.222 1.634
+        0.226 1.630
+        0.248 1.613
+        0.257 1.607
+        0.280 1.596
+        0.308 1.586
+        0.325 1.581
+        0.351 1.575
+        0.400 1.567
+        0.458 1.561
+        0.488 1.559
+        0.515 1.557
+        0.532 1.556
+        0.590 1.553
+        0.633 1.552
+        0.670 1.551
+        0.694 1.550
+        0.755 1.548
+        0.780 1.548
+        0.800 1.547
+        0.820 1.547
+        0.860 1.547
+        0.980 1.546
+        1.064 1.543
+        1.32 1.539
+        1.55 1.536
+        2.01 1.529

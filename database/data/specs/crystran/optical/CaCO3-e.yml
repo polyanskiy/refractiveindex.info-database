@@ -1,0 +1,32 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+REFERENCES: |
+    Crystran Ltd.
+    <a href="https://issuu.com/crystran/docs/handbook_2023_website">
+    The Crystran handbook of infra-red and ultra-violet optical materials (5th edition, 2023)
+    </a><br>
+    See also
+    <a href="https://www.crystran.com/optical-materials/calcite-caco3">
+    Crystran CaCO<sub>3</sub> online data sheet
+    </a>
+COMMENTS: |
+    Optical data are for extraordinary ray (e).
+CONDITIONS:
+    orientation: e
+DATA:
+  - type: tabulated n
+    data: |
+        0.20 1.5765
+        0.30 1.5137
+        0.41 1.4954
+        0.51 1.4896
+        0.64 1.4849
+        0.71 1.4835
+        0.80 1.4822
+        0.91 1.4810
+        1.04 1.4799
+        1.50 1.4774
+        1.91 1.4757
+        2.10 1.4749
