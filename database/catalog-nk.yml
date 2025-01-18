@@ -6489,12 +6489,18 @@
         - PAGE: BaF2
           name: "BaF<sub>2</sub>"
           data: specs/crystran/optical/BaF2.yml
+        - PAGE: diamond
+          name: "C - Diamond"
+          data: specs/crystran/optical/diamond.yml
         - PAGE: CaCO3-o
           name: "CaCO<sub>3</sub> (o)"
           data: specs/crystran/optical/CaCO3-o.yml
         - PAGE: CaCO3-e
           name: "CaCO<sub>3</sub> (e)"
           data: specs/crystran/optical/CaCO3-e.yml
+        - PAGE: CaF2
+          name: "CaF<sub>2</sub>"
+          data: specs/crystran/optical/CaF2.yml
         - PAGE: CdTe
           name: "CdTe"
           data: specs/crystran/optical/CdTe.yml
@@ -6504,15 +6510,21 @@
         - PAGE: CsI
           name: "CsI"
           data: specs/crystran/optical/CsI.yml
-        - PAGE: CaF2
-          name: "CaF<sub>2</sub>"
-          data: specs/crystran/optical/CaF2.yml
         - PAGE: quartz-o
-          name: "SiO<sub>2</sub> Quartz (o)"
+          name: "SiO<sub>2</sub> - Quartz (o)"
           data: specs/crystran/optical/quartz-o.yml
         - PAGE: quartz-e
-          name: "SiO<sub>2</sub> Quartz (e)"
+          name: "SiO<sub>2</sub> - Quartz (e)"
           data: specs/crystran/optical/quartz-e.yml
+        - PAGE: fused_silica-uv
+          name: "SiO<sub>2</sub> - Fused silica (UV grade)"
+          data: specs/crystran/optical/fused_silica-uv.yml
+        - PAGE: fused_silica-vis
+          name: "SiO<sub>2</sub> - Fused silica (visible grade)"
+          data: specs/crystran/optical/fused_silica-vis.yml
+        - PAGE: fused_silica-ir
+          name: "SiO<sub>2</sub> - Fused silica (infrared grade)"
+          data: specs/crystran/optical/fused_silica-ir.yml
     - DIVIDER: "Display glass"
     - BOOK: CORNING-display
       name: "CORNING - display"
