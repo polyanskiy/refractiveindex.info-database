@@ -10,8 +10,8 @@ https://refractiveindex.info/
 
 ## Related projects
 
-### refractiveindex on PYPI
-Easy Python interface to RefractiveIndex database. Based on parsing method from PyTMM project, usage simular to `RefractiveIndex.jl` for Julia.<br>
+### refractiveindex
+Easy Python interface to RefractiveIndex database.<br>
 https://github.com/toftul/refractiveindex
 
 ### refractiveindex.info-scripts
