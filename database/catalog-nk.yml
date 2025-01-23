@@ -6412,415 +6412,11 @@
 - SHELF: specs
   name: "SPEC SHEETS - data from material suppliers"
   content:
-    - DIVIDER: "Miscellaneous and multipurpose glasses"
-    - BOOK: SCHOTT-multipurpose
-      name: "SCHOTT - multiple purpose"
+    - DIVIDER: "Optical glass"
+    - BOOK: SCHOTT-optical
+      name: "SCHOTT - Optical glass"
       content:
-        - PAGE: ZERODUR
-          name: "ZERODUR®"
-          data: specs/schott/misc/ZERODUR.yml
-        - PAGE: B270
-          name: "B 270® Superwite"
-          data: specs/schott/misc/B270.yml
-        - PAGE: AF32ECO
-          name: "AF 32® eco Thin Glass"
-          data: specs/schott/misc/AF32ECO.yml
-        - PAGE: D263TECO
-          name: "D 263® T eco Thin Glass"
-          data: specs/schott/misc/D263TECO.yml
-        - PAGE: BOROFLOAT33
-          name: "BOROFLOAT® 33"
-          data: specs/schott/misc/BOROFLOAT33.yml
-        - PAGE: DURAN
-          name: "DURAN®"
-          data: specs/schott/misc/DURAN.yml
-        - PAGE: LITHOSIL-Q
-          name: "LITHOSIL-Q (obsolete)"
-          data: specs/schott/misc/LITHOSIL-Q.yml
-        - PAGE: LITHOTEC-CAF2
-          name: "LITHOTEC-CAF2 (obsolete)"
-          data: specs/schott/misc/LITHOTEC-CAF2.yml
-    - BOOK: HIKARI-multipurpose
-      name: "HIKARI - multiple purpose"
-      content:
-        - DIVIDER: "Synthetic Silica Glass (NIFS Series)"
-        - PAGE: NIFS-A
-          name: "NIFS-A"
-          data: specs/hikari/SiO2/NIFS-A.yml
-        - PAGE: NIFS-S
-          name: "NIFS-S"
-          data: specs/hikari/SiO2/NIFS-S.yml
-        - PAGE: NIFS-U
-          name: "NIFS-U"
-          data: specs/hikari/SiO2/NIFS-U.yml
-        - PAGE: NIFS-V
-          name: "NIFS-V"
-          data: specs/hikari/SiO2/NIFS-V.yml
-        - DIVIDER: "Calcium Fluoride (NICF Series)"
-        - PAGE: NICF-A
-          name: "NICF-A"
-          data: specs/hikari/CaF/NICF-A.yml
-        - PAGE: NICF-U
-          name: "NICF-U"
-          data: specs/hikari/CaF/NICF-U.yml
-        - PAGE: NICF-V
-          name: "NICF-V"
-          data: specs/hikari/CaF/NICF-V.yml
-        - DIVIDER: "i-line Glass"
-        - PAGE: 4786
-          name: "4786"
-          data: specs/hikari/i-line/4786.yml
-        - PAGE: 5165
-          name: "5165"
-          data: specs/hikari/i-line/5165.yml
-        - PAGE: 5742
-          name: "5742"
-          data: specs/hikari/i-line/5742.yml
-        - PAGE: 5859
-          name: "5859"
-          data: specs/hikari/i-line/5859.yml
-        - PAGE: 7054
-          name: "7054"
-          data: specs/hikari/i-line/7054.yml
-    - DIVIDER: "Miscellaneous optical materials"
-    - BOOK: CRYSTRAN
-      name: "CRYSTRAN - optical materials"
-      content:
-        - PAGE: BaF2
-          name: "BaF<sub>2</sub>"
-          data: specs/crystran/optical/BaF2.yml
-        - PAGE: diamond
-          name: "C - Diamond"
-          data: specs/crystran/optical/diamond.yml
-        - PAGE: CaCO3-o
-          name: "CaCO<sub>3</sub> (o)"
-          data: specs/crystran/optical/CaCO3-o.yml
-        - PAGE: CaCO3-e
-          name: "CaCO<sub>3</sub> (e)"
-          data: specs/crystran/optical/CaCO3-e.yml
-        - PAGE: CaF2
-          name: "CaF<sub>2</sub>"
-          data: specs/crystran/optical/CaF2.yml
-        - PAGE: CdTe
-          name: "CdTe"
-          data: specs/crystran/optical/CdTe.yml
-        - PAGE: CsBr
-          name: "CsBr"
-          data: specs/crystran/optical/CsBr.yml
-        - PAGE: CsI
-          name: "CsI"
-          data: specs/crystran/optical/CsI.yml
-        - PAGE: quartz-o
-          name: "SiO<sub>2</sub> - Quartz (o)"
-          data: specs/crystran/optical/quartz-o.yml
-        - PAGE: quartz-e
-          name: "SiO<sub>2</sub> - Quartz (e)"
-          data: specs/crystran/optical/quartz-e.yml
-        - PAGE: fused_silica-uv
-          name: "SiO<sub>2</sub> - Fused silica (UV grade)"
-          data: specs/crystran/optical/fused_silica-uv.yml
-        - PAGE: fused_silica-vis
-          name: "SiO<sub>2</sub> - Fused silica (visible grade)"
-          data: specs/crystran/optical/fused_silica-vis.yml
-        - PAGE: fused_silica-ir
-          name: "SiO<sub>2</sub> - Fused silica (infrared grade)"
-          data: specs/crystran/optical/fused_silica-ir.yml
-    - DIVIDER: "Display glass"
-    - BOOK: CORNING-display
-      name: "CORNING - display"
-      content:
-        - PAGE: EagleXG
-          name: "EAGLE XG®"
-          data: specs/corning/EagleXG.yml
-    - DIVIDER: "Ophthalmic glass"
-    - BOOK: BARBERINI-crown
-      name: "BARBERINI - Normal Crown"
-      content:
-        - PAGE: D0290
-          name: "D0290: HC-Weiss 0290"
-          data: specs/barberini/filter/D0290.yml
-        - PAGE: D0391
-          name: "D0391: UV-W 76"
-          data: specs/barberini/filter/D0391.yml
-        - PAGE: D0891
-          name: "D0891: UV-W 0981"
-          data: specs/barberini/filter/D0891.yml
-    - BOOK: BARBERINI-high-index
-      name: "BARBERINI - High Index"
-      content:
-        - PAGE: D0082
-          name: "D0082: LaSF 1.9/30"
-          data: specs/barberini/filter/D0082.yml
-        - PAGE: D0785
-          name: "D0785: LaSF 1.8/35"
-          data: specs/barberini/filter/D0785.yml
-        - PAGE: D0888
-          name: "D0888: BaSF 64"
-          data: specs/barberini/filter/D0888.yml
-    - BOOK: BARBERINI-photochromic
-      name: "BARBERINI - Photochromic"
-      content:
-        - PAGE: D0587
-          name: "D0587: V 512"
-          data: specs/barberini/filter/D0587.yml
-        - PAGE: D0687
-          name: "D0687: V 513"
-          data: specs/barberini/filter/D0687.yml
-        - PAGE: D1125
-          name: "D1125: HC-Photosolar grau"
-          data: specs/barberini/filter/D1125.yml
-        - PAGE: D1426-D1526
-          name: "D1426: Photosolar Supergrey; D1526: Photosolar B Supergrey"
-          data: specs/barberini/filter/D1426-D1526.yml
-        - PAGE: D6625
-          name: "D6625: HC-Photosolar dunkelbraun"
-          data: specs/barberini/filter/D6625.yml
-        - PAGE: D6526-D6626
-          name: "D6526: Photosolar Superbrown D6626: Photosolar B Superbrown"
-          data: specs/barberini/filter/D6526-D6626.yml
-        - PAGE: D6726-D6826
-          name: "D6726: Photosolar Super; D6826: Photosolar B Super"
-          data: specs/barberini/filter/D6726-D6826.yml
-    - BOOK: BARBERINI-moulds
-      name: "BARBERINI - Moulds"
-      content:
-        - PAGE: D0991
-          name: "D0991: CH-W 0991 (S-3)"
-          data: specs/barberini/filter/D0991.yml
-        - PAGE: D0191
-          name: "D0191: CH-5555"
-          data: specs/barberini/filter/D0191.yml
-    - BOOK: BARBERINI-sun-protection
-      name: "BARBERINI - Sun Protection"
-      content:
-        - PAGE: D1214
-          name: "D1214: Grau 1214"
-          data: specs/barberini/filter/D1214.yml
-        - PAGE: D1219
-          name: "D1219: S 4994"
-          data: specs/barberini/filter/D1219.yml
-        - PAGE: D1230
-          name: "D1230: Neophan Gold 1230"
-          data: specs/barberini/filter/D1230.yml
-        - PAGE: D1420_1
-          name: "D1420 1: S 4020"
-          data: specs/barberini/filter/D1420_1.yml
-        - PAGE: D1511
-          name: "D1511: Grau 1511"
-          data: specs/barberini/filter/D1511.yml
-        - PAGE: D1520
-          name: "D1520: Driver Grey"
-          data: specs/barberini/filter/D1520.yml
-        - PAGE: D1616
-          name: "D1616: Grau 1616"
-          data: specs/barberini/filter/D1616.yml
-        - PAGE: D4150
-          name: "D4150: ACE Improved"
-          data: specs/barberini/filter/D4150.yml
-        - PAGE: D5336_1
-          name: "D5336 1: S 3036"
-          data: specs/barberini/filter/D5336_1.yml
-        - PAGE: D6117
-          name: "D6117: UV 415 BROWN"
-          data: specs/barberini/filter/D6117.yml
-        - PAGE: D6420
-          name: "D6420: CH - Braun 6420"
-          data: specs/barberini/filter/D6420.yml
-        - PAGE: D9148
-          name: "D9148: Rosalite 9148 UV"
-          data: specs/barberini/filter/D9148.yml
-    - DIVIDER: "Infrared glass"
-    - BOOK: AMTIR
-      name: "Amorphous Materials - AMTIR "
-      content:
-        - PAGE: AMTIR-1
-          name: "AMTIR-1"
-          data: specs/ami/infrared/AMTIR-1.yml
-        - PAGE: AMTIR-2
-          name: "AMTIR-2"
-          data: specs/ami/infrared/AMTIR-2.yml
-        - PAGE: AMTIR-3
-          name: "AMTIR-3 (out of production)"
-          data: specs/ami/infrared/AMTIR-3.yml
-        - PAGE: AMTIR-6
-          name: "AMTIR-6"
-          data: specs/ami/infrared/AMTIR-6.yml
-    - BOOK: VITRON-IG
-      name: "VITRON - IG"
-      content:
-        - PAGE: IG2
-          name: "IG 2"
-          data: specs/vitron/infrared/IG2.yml
-        - PAGE: IG3
-          name: "IG 3"
-          data: specs/vitron/infrared/IG3.yml
-        - PAGE: IG4
-          name: "IG 4"
-          data: specs/vitron/infrared/IG4.yml
-        - PAGE: IG5
-          name: "IG 5"
-          data: specs/vitron/infrared/IG5.yml
-        - PAGE: IG6
-          name: "IG 6"
-          data: specs/vitron/infrared/IG6.yml
-    - BOOK: SCHOTT-IRG
-      name: "SCHOTT - IRG"
-      content:
-        - PAGE: IRG22
-          name: "IRG 22"
-          data: specs/schott/infrared/IRG22.yml
-        - PAGE: IRG23
-          name: "IRG 23"
-          data: specs/schott/infrared/IRG23.yml
-        - PAGE: IRG24
-          name: "IRG 24"
-          data: specs/schott/infrared/IRG24.yml
-        - PAGE: IRG25
-          name: "IRG 25"
-          data: specs/schott/infrared/IRG25.yml
-        - PAGE: IRG26
-          name: "IRG 26"
-          data: specs/schott/infrared/IRG26.yml
-        - PAGE: IRG27
-          name: "IRG 27"
-          data: specs/schott/infrared/IRG27.yml
-    - BOOK: LightPath-BD
-      name: "LightPath - BD"
-      content:
-        - PAGE: BD-2
-          name: "BD-2"
-          data: specs/lightpath/infrared/BD-2.yml
-        - PAGE: BDNL4
-          name: "BDNL4"
-          data: specs/lightpath/infrared/BDNL4.yml
-        - PAGE: BD6
-          name: "BD6"
-          data: specs/lightpath/infrared/BD6.yml
-    - DIVIDER: "Optical glass filters"
-    - BOOK: ISUZU-IHU
-      name: "ISUZU - IHU (UV transmitting filter)"
-      content:
-        - PAGE: IHU250H
-          name: "IHU250H"
-          data: specs/isuzu/filter/IHU250H.yml
-        - PAGE: IHU290
-          name: "IHU290"
-          data: specs/isuzu/filter/IHU290.yml
-        - PAGE: IHU310
-          name: "IHU310"
-          data: specs/isuzu/filter/IHU310.yml
-        - PAGE: IHU340
-          name: "IHU340"
-          data: specs/isuzu/filter/IHU340.yml
-        - PAGE: IHU350
-          name: "IHU350"
-          data: specs/isuzu/filter/IHU350.yml
-    - BOOK: ISUZU-ITY
-      name: "ISUZU - ITY (UV sharp cut filter)"
-      content:
-        - PAGE: ITY385
-          name: "ITY385"
-          data: specs/isuzu/filter/ITY385.yml
-        - PAGE: ITY418
-          name: "ITY418"
-          data: specs/isuzu/filter/ITY418.yml
-        - PAGE: ITY425
-          name: "ITY425"
-          data: specs/isuzu/filter/ITY425.yml
-        - PAGE: ITY430
-          name: "ITY430"
-          data: specs/isuzu/filter/ITY430.yml
-    - BOOK: ISUZU-IUV
-      name: "ISUZU - IUV (UV transmitting, Visible absorbing filter)"
-      content:
-        - PAGE: IUV340
-          name: "IUV340"
-          data: specs/isuzu/filter/IUV340.yml
-        - PAGE: IUV355
-          name: "IUV355"
-          data: specs/isuzu/filter/IUV355.yml
-        - PAGE: IUV360
-          name: "IUV360"
-          data: specs/isuzu/filter/IUV360.yml
-        - PAGE: IUV365
-          name: "IUV365"
-          data: specs/isuzu/filter/IUV365.yml
-        - PAGE: IUV380W
-          name: "IUV380W0"
-          data: specs/isuzu/filter/IUV380W.yml
-    - BOOK: ISUZU-ISK
-      name: "ISUZU - ISK (Heat absorbing filter)"
-      content:
-        - PAGE: ISK150
-          name: "ISK150"
-          data: specs/isuzu/filter/ISK150.yml
-        - PAGE: ISK153
-          name: "ISK153"
-          data: specs/isuzu/filter/ISK153.yml
-        - PAGE: ISK157
-          name: "ISK157"
-          data: specs/isuzu/filter/ISK157.yml
-        - PAGE: ISK167
-          name: "ISK167"
-          data: specs/isuzu/filter/ISK167.yml
-        - PAGE: ISK171
-          name: "ISK171"
-          data: specs/isuzu/filter/ISK171.yml
-        - PAGE: ISK370
-          name: "ISK370"
-          data: specs/isuzu/filter/ISK370.yml
-    - BOOK: ISUZU-IEC
-      name: "ISUZU - IEC (Blue filter for color compensation)"
-      content:
-        - PAGE: IEC501
-          name: "IEC501"
-          data: specs/isuzu/filter/IEC501.yml
-        - PAGE: IEC508
-          name: "IEC508"
-          data: specs/isuzu/filter/IEC508.yml
-        - PAGE: IEC518
-          name: "IEC518"
-          data: specs/isuzu/filter/IEC518.yml
-        - PAGE: IEC578
-          name: "IEC578"
-          data: specs/isuzu/filter/IEC578.yml
-    - BOOK: ISUZU-IEB-IVB
-      name: "ISUZU - IEB, IVB (Blue filter)"
-      content:
-        - PAGE: IEB400
-          name: "IEB400"
-          data: specs/isuzu/filter/IEB400.yml
-        - PAGE: IEB470
-          name: "IEB470"
-          data: specs/isuzu/filter/IEB470.yml
-        - PAGE: IVB490
-          name: "IVB490"
-          data: specs/isuzu/filter/IVB490.yml
-    - BOOK: ISUZU-IVG
-      name: "ISUZU - IVG (Green filter)"
-      content:
-        - PAGE: IVG530
-          name: "IVG530"
-          data: specs/isuzu/filter/IVG530.yml
-        - PAGE: IVG540
-          name: "IVG540"
-          data: specs/isuzu/filter/IVG540.yml
-        - PAGE: IVG550
-          name: "IVG550"
-          data: specs/isuzu/filter/IVG550.yml
-    - BOOK: ISUZU-ILA-ILB
-      name: "ISUZU - ILA, ILB (Light balancing filter)"
-      content:
-        - PAGE: ILA400
-          name: "ILA400"
-          data: specs/isuzu/filter/ILA400.yml
-        - PAGE: ILB90
-          name: "ILB90"
-          data: specs/isuzu/filter/ILB90.yml
-    - DIVIDER: "Optical glass - SCHOTT"
-    - BOOK: SCHOTT-K
-      name: "SCHOTT - K (Crown)"
-      content:
+        - DIVIDER: "K (Crown)"
         - PAGE: K7
           name: "K7"
           data: specs/schott/optical/K7.yml
@@ -6839,9 +6435,7 @@
         - PAGE: N-ZK7A
           name: "N-ZK7A"
           data: specs/schott/optical/N-ZK7A.yml
-    - BOOK: SCHOTT-SK
-      name: "SCHOTT - SK (Dense crown)"
-      content:
+        - DIVIDER: "SK (Dense crown)"
         - PAGE: N-SK2
           name: "N-SK2"
           data: specs/schott/optical/N-SK2.yml
@@ -6881,9 +6475,7 @@
         - PAGE: P-SK60
           name: "P-SK60"
           data: specs/schott/optical/P-SK60.yml
-    - BOOK: SCHOTT-SSK
-      name: "SCHOTT - SSK (Very dense crown)"
-      content:
+        - DIVIDER: "SSK (Very dense crown)"
         - PAGE: N-SSK2
           name: "N-SSK2"
           data: specs/schott/optical/N-SSK2.yml
@@ -6893,9 +6485,7 @@
         - PAGE: N-SSK8
           name: "N-SSK8"
           data: specs/schott/optical/N-SSK8.yml
-    - BOOK: SCHOTT-BK
-      name: "SCHOTT - BK (Borosilicate crown)"
-      content:
+        - DIVIDER: "BK (Borosilicate crown)"
         - PAGE: BK7G18
           name: "BK7G18"
           data: specs/schott/optical/BK7G18.yml
@@ -6914,9 +6504,7 @@
         - PAGE: P-BK7
           name: "P-BK7"
           data: specs/schott/optical/P-BK7.yml
-    - BOOK: SCHOTT-BaK
-      name: "SCHOTT - BaK (Barium crown)"
-      content:
+        - DIVIDER: "BaK (Barium crown)"
         - PAGE: N-BAK1
           name: "N-BAK1"
           data: specs/schott/optical/N-BAK1.yml
@@ -6929,9 +6517,7 @@
         - PAGE: N-BAK4HT
           name: "N-BAK4HT"
           data: specs/schott/optical/N-BAK4HT.yml
-    - BOOK: SCHOTT-FK
-      name: "SCHOTT - FK (Fluor crown)"
-      content:
+        - DIVIDER: "FK (Fluor crown)"
         - PAGE: FK3
           name: "FK3"
           data: specs/schott/optical/FK3.yml
@@ -6950,9 +6536,7 @@
         - PAGE: N-FK58
           name: "N-FK58"
           data: specs/schott/optical/N-FK58.yml
-    - BOOK: SCHOTT-LaK
-      name: "SCHOTT - LaK (Lanthanum crown)"
-      content:
+        - DIVIDER: "LaK (Lanthanum crown)"
         - PAGE: LAK9G15
           name: "LAK9G15"
           data: specs/schott/optical/LAK9G15.yml
@@ -6995,9 +6579,7 @@
         - PAGE: P-LAK35
           name: "P-LAK35"
           data: specs/schott/optical/P-LAK35.yml
-    - BOOK: SCHOTT-PK
-      name: "SCHOTT - PK (Phosphate crown)"
-      content:
+        - DIVIDER: "PK (Phosphate crown)"
         - PAGE: N-PK51
           name: "N-PK51"
           data: specs/schott/optical/N-PK51.yml
@@ -7007,9 +6589,7 @@
         - PAGE: P-PK53
           name: "P-PK53"
           data: specs/schott/optical/P-PK53.yml
-    - BOOK: SCHOTT-PSK
-      name: "SCHOTT - PSK (Dense phosphate crown)"
-      content:
+        - DIVIDER: "PSK (Dense phosphate crown)"
         - PAGE: N-PSK3
           name: "N-PSK3"
           data: specs/schott/optical/N-PSK3.yml
@@ -7019,9 +6599,7 @@
         - PAGE: N-PSK53A
           name: "N-PSK53A"
           data: specs/schott/optical/N-PSK53A.yml
-    - BOOK: SCHOTT-F
-      name: "SCHOTT - F (Flint)"
-      content:
+        - DIVIDER: "F (Flint)"
         - PAGE: F2
           name: "F2"
           data: specs/schott/optical/F2.yml
@@ -7037,9 +6615,7 @@
         - PAGE: N-F2
           name: "N-F2"
           data: specs/schott/optical/N-F2.yml
-    - BOOK: SCHOTT-LF
-      name: "SCHOTT - LF (Light flint)"
-      content:
+        - DIVIDER: "LF (Light flint)"
         - PAGE: LF5
           name: "LF5"
           data: specs/schott/optical/LF5.yml
@@ -7052,18 +6628,14 @@
         - PAGE: LF5HTi
           name: "LF5HTi"
           data: specs/schott/optical/LF5HTi.yml
-    - BOOK: SCHOTT-LLF
-      name: "SCHOTT - LLF (Very light flint)"
-      content:
+        - DIVIDER: "LLF (Very light flint)"
         - PAGE: LLF1
           name: "LLF1"
           data: specs/schott/optical/LLF1.yml
         - PAGE: LLF1HTi
           name: "LLF1HTi"
           data: specs/schott/optical/LLF1HTi.yml
-    - BOOK: SCHOTT-SF
-      name: "SCHOTT - SF (Dense flint)"
-      content:
+        - DIVIDER: "SF (Dense flint)"
         - PAGE: SF1
           name: "SF1"
           data: specs/schott/optical/SF1.yml
@@ -7181,9 +6753,7 @@
         - PAGE: P-SF69
           name: "P-SF69"
           data: specs/schott/optical/P-SF69.yml
-    - BOOK: SCHOTT-KzFS
-      name: "SCHOTT - KzFS (Special short flint)"
-      content:
+        - DIVIDER: "KzFS (Special short flint)"
         - PAGE: KZFS12
           name: "KZFS12"
           data: specs/schott/optical/KZFS12.yml
@@ -7208,9 +6778,7 @@
         - PAGE: N-KZFS11
           name: "N-KZFS11"
           data: specs/schott/optical/N-KZFS11.yml
-    - BOOK: SCHOTT-BaF
-      name: "SCHOTT - BaF (Barium flint)"
-      content:
+        - DIVIDER: "BaF (Barium flint)"
         - PAGE: BAFN6
           name: "BAFN6"
           data: specs/schott/optical/BAFN6.yml
@@ -7229,27 +6797,21 @@
         - PAGE: N-BAF52
           name: "N-BAF52"
           data: specs/schott/optical/N-BAF52.yml
-    - BOOK: SCHOTT-BaLF
-      name: "SCHOTT - BaLF (Barium light flint)"
-      content:
+        - DIVIDER: "BaLF (Barium light flint)"
         - PAGE: N-BALF4
           name: "N-BALF4"
           data: specs/schott/optical/N-BALF4.yml
         - PAGE: N-BALF5
           name: "N-BALF5"
           data: specs/schott/optical/N-BALF5.yml
-    - BOOK: SCHOTT-BaSF
-      name: "SCHOTT - BaSF (Barium dense flint)"
-      content:
+        - DIVIDER: "BaSF (Barium dense flint)"
         - PAGE: N-BASF2
           name: "N-BASF2"
           data: specs/schott/optical/N-BASF2.yml
         - PAGE: N-BASF64
           name: "N-BASF64"
           data: specs/schott/optical/N-BASF64.yml
-    - BOOK: SCHOTT-LaF
-      name: "SCHOTT - LaF (Lanthanum flint)"
-      content:
+        - DIVIDER: "LaF (Lanthanum flint)"
         - PAGE: LAFN7
           name: "LAFN7"
           data: specs/schott/optical/LAFN7.yml
@@ -7283,9 +6845,7 @@
         - PAGE: P-LAF37
           name: "P-LAF37"
           data: specs/schott/optical/P-LAF37.yml
-    - BOOK: SCHOTT-LaSF
-      name: "SCHOTT - LaSF (Lanthanum dense flint)"
-      content:
+        - DIVIDER: "LaSF (Lanthanum dense flint)"
         - PAGE: N-LASF9HT
           name: "N-LASF9HT"
           data: specs/schott/optical/N-LASF9HT.yml
@@ -7340,22 +6900,18 @@
         - PAGE: P-LASF51
           name: "P-LASF51"
           data: specs/schott/optical/P-LASF51.yml
-    - BOOK: SCHOTT-KF
-      name: "SCHOTT - KF (Crownflint)"
-      content:
+        - DIVIDER: "KF (Crownflint)"
         - PAGE: N-KF9
           name: "N-KF9"
           data: specs/schott/optical/N-KF9.yml
-    - BOOK: SCHOTT-obsolete
-      name: "SCHOTT - Obsolete glasses"
-      content:
+        - DIVIDER: "Obsolete glasses"
         - PAGE: LF7
           name: "LF7"
           data: specs/schott/obsolete/LF7.yml
-    - DIVIDER: "Optical glass - OHARA"
-    - BOOK: OHARA-APL
-      name: "OHARA - APL"
+    - BOOK: OHARA-optical
+      name: "OHARA - Optical glass"
       content:
+        - DIVIDER: "APL"
         - PAGE: APL1
           name: "APL1"
           data: specs/ohara/optical/APL1.yml
@@ -7365,9 +6921,7 @@
         - PAGE: S-APL1
           name: "S-APL1"
           data: specs/ohara/optical/S-APL1.yml
-    - BOOK: OHARA-BAH
-      name: "OHARA - BAH (Barium, high-index)"
-      content:
+        - DIVIDER: "BAH (Barium, high-index)"
         - PAGE: BAH10
           name: "BAH10"
           data: specs/ohara/optical/BAH10.yml
@@ -7425,9 +6979,7 @@
         - PAGE: S-BAH54
           name: "S-BAH54"
           data: specs/ohara/optical/S-BAH54.yml
-    - BOOK: OHARA-BAL
-      name: "OHARA - BAL (Barium, low-index)"
-      content:
+        - DIVIDER: "BAL (Barium, low-index)"
         - PAGE: BAL2
           name: "BAL2"
           data: specs/ohara/optical/BAL2.yml
@@ -7518,9 +7070,7 @@
         - PAGE: S-BAL50
           name: "S-BAL50"
           data: specs/ohara/optical/S-BAL50.yml
-    - BOOK: OHARA-BAM
-      name: "OHARA - BAM (Barium, medium-index)"
-      content:
+        - DIVIDER: "BAM (Barium, medium-index)"
         - PAGE: BAM3
           name: "BAM3"
           data: specs/ohara/optical/BAM3.yml
@@ -7557,18 +7107,14 @@
         - PAGE: S-BAM12
           name: "S-BAM12"
           data: specs/ohara/optical/S-BAM12.yml
-    - BOOK: OHARA-BBH
-      name: "OHARA - BBH  (Barium borate, high-index)"
-      content:
+        - DIVIDER: "BBH  (Barium borate, high-index)"
         - PAGE: L-BBH1
           name: "L-BBH1"
           data: specs/ohara/optical/L-BBH1.yml
         - PAGE: L-BBH2
           name: "L-BBH2"
           data: specs/ohara/optical/L-BBH2.yml
-    - BOOK: OHARA-BPH
-      name: "OHARA - BPH (Borophosphate, high-index)"
-      content:
+        - DIVIDER: "BPH (Borophosphate, high-index)"
         - PAGE: BPH5
           name: "BPH5"
           data: specs/ohara/optical/BPH5.yml
@@ -7587,18 +7133,14 @@
         - PAGE: BPH50
           name: "BPH50"
           data: specs/ohara/optical/BPH50.yml
-    - BOOK: OHARA-BPM
-      name: "OHARA - BPM (Borophosphate, medium-index)"
-      content:
+        - DIVIDER: "BPM (Borophosphate, medium-index)"
         - PAGE: BPM4
           name: "BPM4"
           data: specs/ohara/optical/BPM4.yml
         - PAGE: BPM51
           name: "BPM51"
           data: specs/ohara/optical/BPM51.yml
-    - BOOK: OHARA-BSL
-      name: "OHARA - BSL (Borosilicate, low-index)"
-      content:
+        - DIVIDER: "BSL (Borosilicate, low-index)"
         - PAGE: BSL1
           name: "BSL1"
           data: specs/ohara/optical/BSL1.yml
@@ -7623,9 +7165,7 @@
         - PAGE: S-BSL7
           name: "S-BSL7"
           data: specs/ohara/optical/S-BSL7.yml
-    - BOOK: OHARA-BSM
-      name: "OHARA - BSM (Borosilicate, medium-index)"
-      content:
+        - DIVIDER: "BSM (Borosilicate, medium-index)"
         - PAGE: BSM2
           name: "BSM2"
           data: specs/ohara/optical/BSM2.yml
@@ -7740,9 +7280,7 @@
         - PAGE: S-BSM93
           name: "S-BSM93"
           data: specs/ohara/optical/S-BSM93.yml
-    - BOOK: OHARA-FPL
-      name: "OHARA - FPL (Fluorophosphate, low-index)"
-      content:
+        - DIVIDER: "FPL (Fluorophosphate, low-index)"
         - PAGE: FPL51
           name: "FPL51"
           data: specs/ohara/optical/FPL51.yml
@@ -7767,18 +7305,14 @@
         - PAGE: S-FPL55
           name: "S-FPL55"
           data: specs/ohara/optical/S-FPL55.yml
-    - BOOK: OHARA-FPM
-      name: "OHARA - FPM (Fluorophosphate, medium-index)"
-      content:
+        - DIVIDER: "FPM (Fluorophosphate, medium-index)"
         - PAGE: S-FPM2
           name: "S-FPM2"
           data: specs/ohara/optical/S-FPM2.yml
         - PAGE: S-FPM3
           name: "S-FPM3"
           data: specs/ohara/optical/S-FPM3.yml
-    - BOOK: OHARA-FSL
-      name: "OHARA - FSL (Fluorosilicate, low-index)"
-      content:
+        - DIVIDER: "FSL (Fluorosilicate, low-index)"
         - PAGE: FSL3
           name: "FSL3"
           data: specs/ohara/optical/FSL3.yml
@@ -7791,9 +7325,7 @@
         - PAGE: S-FSL5Y
           name: "S-FSL5Y"
           data: specs/ohara/optical/S-FSL5Y.yml
-    - BOOK: OHARA-FTL
-      name: "OHARA - FTL"
-      content:
+        - DIVIDER: "FTL"
         - PAGE: FTL8
           name: "FTL8"
           data: specs/ohara/optical/FTL8.yml
@@ -7803,9 +7335,7 @@
         - PAGE: S-FTL10
           name: "S-FTL10"
           data: specs/ohara/optical/S-FTL10.yml
-    - BOOK: OHARA-FTM
-      name: "OHARA - FTM"
-      content:
+        - DIVIDER: "FTM"
         - PAGE: FTM8
           name: "FTM8"
           data: specs/ohara/optical/FTM8.yml
@@ -7815,9 +7345,7 @@
         - PAGE: S-FTM16
           name: "S-FTM16"
           data: specs/ohara/optical/S-FTM16.yml
-    - BOOK: OHARA-LAH
-      name: "OHARA - LAH (Lanthanum, high-index)"
-      content:
+        - DIVIDER: "LAH (Lanthanum, high-index)"
         - PAGE: LAH51
           name: "LAH51"
           data: specs/ohara/optical/LAH51.yml
@@ -7998,9 +7526,7 @@
         - PAGE: S-LAH97
           name: "S-LAH97"
           data: specs/ohara/optical/S-LAH97.yml
-    - BOOK: OHARA-LAL
-      name: "OHARA - LAL (Lanthanum, low-index)"
-      content:
+        - DIVIDER: "LAL (Lanthanum, low-index)"
         - PAGE: LAL7
           name: "LAL7"
           data: specs/ohara/optical/LAL7.yml
@@ -8115,9 +7641,7 @@
         - PAGE: S-LAL61
           name: "S-LAL61"
           data: specs/ohara/optical/S-LAL61.yml
-    - BOOK: OHARA-LAM
-      name: "OHARA - LAM (Lanthanum, medium-index)"
-      content:
+        - DIVIDER: "LAM (Lanthanum, medium-index)"
         - PAGE: LAM2
           name: "LAM2"
           data: specs/ohara/optical/LAM2.yml
@@ -8202,9 +7726,7 @@
         - PAGE: S-LAM73
           name: "S-LAM73"
           data: specs/ohara/optical/S-LAM73.yml
-    - BOOK: OHARA-NBH
-      name: "OHARA - NBH (Niobate, high-index)"
-      content:
+        - DIVIDER: "NBH (Niobate, high-index)"
         - PAGE: L-NBH54
           name: "L-NBH54"
           data: specs/ohara/optical/L-NBH54.yml
@@ -8238,15 +7760,11 @@
         - PAGE: S-NBH57
           name: "S-NBH57"
           data: specs/ohara/optical/S-NBH57.yml
-    - BOOK: OHARA-NBM
-      name: "OHARA - NBM (Niobate, medium-index)"
-      content:
+        - DIVIDER: "NBM (Niobate, medium-index)"
         - PAGE: S-NBM51
           name: "S-NBM51"
           data: specs/ohara/optical/S-NBM51.yml
-    - BOOK: OHARA-NPH
-      name: "OHARA - NPH (Niobophosphate, high-index)"
-      content:
+        - DIVIDER: "NPH (Niobophosphate, high-index)"
         - PAGE: S-NPH1
           name: "S-NPH1"
           data: specs/ohara/optical/S-NPH1.yml
@@ -8268,9 +7786,7 @@
         - PAGE: S-NPH53
           name: "S-NPH53"
           data: specs/ohara/optical/S-NPH53.yml
-    - BOOK: OHARA-NSL
-      name: "OHARA - NSL (Niobosilicate, low-index)"
-      content:
+        - DIVIDER: "NSL (Niobosilicate, low-index)"
         - PAGE: NSL2
           name: "NSL2"
           data: specs/ohara/optical/NSL2.yml
@@ -8301,9 +7817,7 @@
         - PAGE: S-NSL36
           name: "S-NSL36"
           data: specs/ohara/optical/S-NSL36.yml
-    - BOOK: OHARA-PBH
-      name: "OHARA - PBH (Plumbate, high-index)"
-      content:
+        - DIVIDER: "PBH (Plumbate, high-index)"
         - PAGE: PBH1
           name: "PBH1"
           data: specs/ohara/optical/PBH1.yml
@@ -8382,9 +7896,7 @@
         - PAGE: PBH72
           name: "PBH72"
           data: specs/ohara/optical/PBH72.yml
-    - BOOK: OHARA-PBL
-      name: "OHARA - PBL (Plumbate, low-index)"
-      content:
+        - DIVIDER: "PBL (Plumbate, low-index)"
         - PAGE: PBL1
           name: "PBL1"
           data: specs/ohara/optical/PBL1.yml
@@ -8427,9 +7939,7 @@
         - PAGE: PBL35Y
           name: "PBL35Y"
           data: specs/ohara/optical/PBL35Y.yml
-    - BOOK: OHARA-PBM
-      name: "OHARA - PBM (Plumbate, medium-index)"
-      content:
+        - DIVIDER: "PBM (Plumbate, medium-index)"
         - PAGE: PBM1
           name: "PBM1"
           data: specs/ohara/optical/PBM1.yml
@@ -8487,18 +7997,14 @@
         - PAGE: PBM39
           name: "PBM39"
           data: specs/ohara/optical/PBM39.yml
-    - BOOK: OHARA-PHL
-      name: "OHARA - PHL (Phosphate, low-index)"
-      content:
+        - DIVIDER: "PHL (Phosphate, low-index)"
         - PAGE: L-PHL1
           name: "L-PHL1"
           data: specs/ohara/optical/L-PHL1.yml
         - PAGE: L-PHL2
           name: "L-PHL2"
           data: specs/ohara/optical/L-PHL2.yml
-    - BOOK: OHARA-PHM
-      name: "OHARA - PHM (Phosphate, medium-index)"
-      content:
+        - DIVIDER: "PHM (Phosphate, medium-index)"
         - PAGE: PHM51
           name: "PHM51"
           data: specs/ohara/optical/PHM51.yml
@@ -8517,18 +8023,14 @@
         - PAGE: S-PHM53
           name: "S-PHM53"
           data: specs/ohara/optical/S-PHM53.yml
-    - BOOK: OHARA-SSL
-      name: "OHARA - SSL"
-      content:
+        - DIVIDER: "SSL"
         - PAGE: SSL2
           name: "SSL2"
           data: specs/ohara/optical/SSL2.yml
         - PAGE: SSL5
           name: "SSL5"
           data: specs/ohara/optical/SSL5.yml
-    - BOOK: OHARA-TIH
-      name: "OHARA - TIH (Titanate, high-index)"
-      content:
+        - DIVIDER: "TIH (Titanate, high-index)"
         - PAGE: TIH6
           name: "TIH6"
           data: specs/ohara/optical/TIH6.yml
@@ -8589,9 +8091,7 @@
         - PAGE: S-TIH57
           name: "S-TIH57"
           data: specs/ohara/optical/S-TIH57.yml
-    - BOOK: OHARA-TIL
-      name: "OHARA - TIL (Titanate, low-index)"
-      content:
+        - DIVIDER: "TIL (Titanate, low-index)"
         - PAGE: S-TIL1
           name: "S-TIL1"
           data: specs/ohara/optical/S-TIL1.yml
@@ -8610,9 +8110,7 @@
         - PAGE: S-TIL27
           name: "S-TIL27"
           data: specs/ohara/optical/S-TIL27.yml
-    - BOOK: OHARA-TIM
-      name: "OHARA - TIM (Titanate, medium-index)"
-      content:
+        - DIVIDER: "TIM (Titanate, medium-index)"
         - PAGE: TIM11
           name: "TIM11"
           data: specs/ohara/optical/TIM11.yml
@@ -8658,15 +8156,11 @@
         - PAGE: S-TIM39
           name: "S-TIM39"
           data: specs/ohara/optical/S-TIM39.yml
-    - BOOK: OHARA-TPH
-      name: "OHARA - TPH"
-      content:
+        - DIVIDER: "TPH"
         - PAGE: TPH55
           name: "TPH55"
           data: specs/ohara/optical/TPH55.yml
-    - BOOK: OHARA-YGH
-      name: "OHARA - YGH"
-      content:
+        - DIVIDER: "YGH"
         - PAGE: YGH51
           name: "YGH51"
           data: specs/ohara/optical/YGH51.yml
@@ -8679,10 +8173,10 @@
         - PAGE: S-YGH52
           name: "S-YGH52"
           data: specs/ohara/optical/S-YGH52.yml
-    - DIVIDER: "Optical glass - HIKARI"
-    - BOOK: HIKARI-K
-      name: "HIKARI - K (Crown)"
+    - BOOK: HIKARI-optical
+      name: "HIKARI - Optical glass"
       content:
+        - DIVIDER: "K (Crown)"
         - PAGE: K3
           name: "K3"
           data: specs/hikari/optical/K3.yml
@@ -8701,9 +8195,7 @@
         - PAGE: J-K5
           name: "J-K5"
           data: specs/hikari/optical/J-K5.yml
-    - BOOK: HIKARI-SK
-      name: "HIKARI - SK (Dense crown)"
-      content:
+        - DIVIDER: "SK (Dense crown)"
         - PAGE: SK2
           name: "SK2"
           data: specs/hikari/optical/SK2.yml
@@ -8803,9 +8295,7 @@
         - PAGE: Q-SK55S
           name: "Q-SK55S"
           data: specs/hikari/optical/Q-SK55S.yml
-    - BOOK: HIKARI-SSK
-      name: "HIKARI - SSK (Very dense crown)"
-      content:
+        - DIVIDER: "SSK (Very dense crown)"
         - PAGE: SSK1
           name: "SSK1"
           data: specs/hikari/optical/SSK1.yml
@@ -8833,9 +8323,7 @@
         - PAGE: J-SSK8
           name: "J-SSK8"
           data: specs/hikari/optical/J-SSK8.yml
-    - BOOK: HIKARI-BK
-      name: "HIKARI - BK (Borosilicate crown)"
-      content:
+        - DIVIDER: "BK (Borosilicate crown)"
         - PAGE: E-BK7
           name: "E-BK7"
           data: specs/hikari/optical/E-BK7.yml
@@ -8845,9 +8333,7 @@
         - PAGE: J-BK7A
           name: "J-BK7A"
           data: specs/hikari/optical/J-BK7A.yml
-    - BOOK: HIKARI-BaK
-      name: "HIKARI - BaK (Barium crown)"
-      content:
+        - DIVIDER: "BaK (Barium crown)"
         - PAGE: BAK2
           name: "BAK2"
           data: specs/hikari/optical/BAK2.yml
@@ -8872,9 +8358,7 @@
         - PAGE: J-BAK4
           name: "J-BAK4"
           data: specs/hikari/optical/J-BAK4.yml
-    - BOOK: HIKARI-FK
-      name: "HIKARI - FK (Fluor crown)"
-      content:
+        - DIVIDER: "FK (Fluor crown)"
         - PAGE: E-FK01
           name: "E-FK01"
           data: specs/hikari/optical/E-FK01.yml
@@ -8914,9 +8398,7 @@
         - PAGE: Q-FK2S
           name: "Q-FKHH2S"
           data: specs/hikari/optical/Q-FKH2S.yml
-    - BOOK: HIKARI-LaK
-      name: "HIKARI - LaK (Lanthanum crown)"
-      content:
+        - DIVIDER: "LaK (Lanthanum crown)"
         - PAGE: LAK04
           name: "LAK04"
           data: specs/hikari/optical/LAK04.yml
@@ -9037,18 +8519,14 @@
         - PAGE: Q-LAK53S
           name: "Q-LAK53S"
           data: specs/hikari/optical/Q-LAK53S.yml
-    - BOOK: HIKARI-LaSK
-      name: "HIKARI - LaSK (Lanthanum dense crown)"
-      content:
+        - DIVIDER: "LaSK (Lanthanum dense crown)"
         - PAGE: E-LASKH2
           name: "E-LASKH2"
           data: specs/hikari/optical/E-LASKH2.yml
         - PAGE: J-LASKH2
           name: "J-LASKH2"
           data: specs/hikari/optical/J-LASKH2.yml
-    - BOOK: HIKARI-PK
-      name: "HIKARI - PK (Phosphate crown)"
-      content:
+        - DIVIDER: "PK (Phosphate crown)"
         - PAGE: PK1
           name: "PK1"
           data: specs/hikari/optical/PK1.yml
@@ -9061,9 +8539,7 @@
         - PAGE: J-PKH1
           name: "J-PKH1"
           data: specs/hikari/optical/J-PKH1.yml
-    - BOOK: HIKARI-PSK
-      name: "HIKARI - PSK (Dense phosphate crown)"
-      content:
+        - DIVIDER: "PSK (Dense phosphate crown)"
         - PAGE: E-PSKH1
           name: "E-PSKH1"
           data: specs/hikari/optical/E-PSKH1.yml
@@ -9097,9 +8573,7 @@
         - PAGE: Q-PSKH4S
           name: "Q-PSKH4S"
           data: specs/hikari/optical/Q-PSKH4S.yml
-    - BOOK: HIKARI-F
-      name: "HIKARI - F (Flint)"
-      content:
+        - DIVIDER: "F (Flint)"
         - PAGE: F1
           name: "F1"
           data: specs/hikari/optical/F1.yml
@@ -9151,9 +8625,7 @@
         - PAGE: J-F16
           name: "J-F16"
           data: specs/hikari/optical/J-F16.yml
-    - BOOK: HIKARI-LF
-      name: "HIKARI - LF (Light flint)"
-      content:
+        - DIVIDER: "LF (Light flint)"
         - PAGE: LF5
           name: "LF5"
           data: specs/hikari/optical/LF5.yml
@@ -9181,9 +8653,7 @@
         - PAGE: J-LF7
           name: "J-LF7"
           data: specs/hikari/optical/J-LF7.yml
-    - BOOK: HIKARI-LLF
-      name: "HIKARI - LLF (Very light flint)"
-      content:
+        - DIVIDER: "LLF (Very light flint)"
         - PAGE: LLF1
           name: "LLF1"
           data: specs/hikari/optical/LLF1.yml
@@ -9211,9 +8681,7 @@
         - PAGE: J-LLF6
           name: "J-LLF6"
           data: specs/hikari/optical/J-LLF6.yml
-    - BOOK: HIKARI-SF
-      name: "HIKARI - SF (Dense flint)"
-      content:
+        - DIVIDER: "SF (Dense flint)"
         - PAGE: SF1
           name: "SF1"
           data: specs/hikari/optical/SF1.yml
@@ -9367,9 +8835,7 @@
         - PAGE: Q-SF6S
           name: "Q-SF6S"
           data: specs/hikari/optical/Q-SF6S.yml
-    - BOOK: HIKARI-BaF
-      name: "HIKARI - BaF (Barium flint)"
-      content:
+        - DIVIDER: "BaF (Barium flint)"
         - PAGE: BAF3
           name: "BAF3"
           data: specs/hikari/optical/BAF3.yml
@@ -9421,18 +8887,14 @@
         - PAGE: J-BAF12
           name: "J-BAF12"
           data: specs/hikari/optical/J-BAF12.yml
-    - BOOK: HIKARI-BaLF
-      name: "HIKARI - BaLF (Barium light flint)"
-      content:
+        - DIVIDER: "BaLF (Barium light flint)"
         - PAGE: E-BALF4
           name: "E-BALF4"
           data: specs/hikari/optical/E-BALF4.yml
         - PAGE: J-BALF4
           name: "J-BALF4"
           data: specs/hikari/optical/J-BALF4.yml
-    - BOOK: HIKARI-BaSF
-      name: "HIKARI - BaSF (Barium dense flint)"
-      content:
+        - DIVIDER: "BaSF (Barium dense flint)"
         - PAGE: BASF2
           name: "BASF2"
           data: specs/hikari/optical/BASF2.yml
@@ -9475,9 +8937,7 @@
         - PAGE: E-BASF8
           name: "E-BASF8"
           data: specs/hikari/optical/E-BASF8.yml
-    - BOOK: HIKARI-LaF
-      name: "HIKARI - LaF (Lanthanum flint)"
-      content:
+        - DIVIDER: "LaF (Lanthanum flint)"
         - PAGE: LAF2
           name: "LAF2"
           data: specs/hikari/optical/LAF2.yml
@@ -9586,9 +9046,7 @@
         - PAGE: Q-LAF010S
           name: "Q-LAF010S"
           data: specs/hikari/optical/Q-LAF010S.yml
-    - BOOK: HIKARI-LaSF
-      name: "HIKARI - LaSF (Lanthanum dense flint)"
-      content:
+        - DIVIDER: "LaSF (Lanthanum dense flint)"
         - PAGE: LASF01
           name: "LASF01"
           data: specs/hikari/optical/LASF01.yml
@@ -9799,9 +9257,7 @@
         - PAGE: Q-LASFH59S
           name: "Q-LASFH59S"
           data: specs/hikari/optical/Q-LASFH59S.yml
-    - BOOK: HIKARI-KzF
-      name: "HIKARI - KzF (Special short flint)"
-      content:
+        - DIVIDER: "KzF (Special short flint)"
         - PAGE: KZFH1
           name: "KZFH1"
           data: specs/hikari/optical/KZFH1.yml
@@ -9820,9 +9276,7 @@
         - PAGE: J-KZFH4
           name: "J-KZFH4"
           data: specs/hikari/optical/J-KZFH4.yml
-    - BOOK: HIKARI-KF
-      name: "HIKARI - KF (Crownflint)"
-      content:
+        - DIVIDER: "KF (Crownflint)"
         - PAGE: KF6
           name: "KF6"
           data: specs/hikari/optical/KF6.yml
@@ -9832,9 +9286,7 @@
         - PAGE: J-KF6
           name: "J-KF6"
           data: specs/hikari/optical/J-KF6.yml
-    - BOOK: HIKARI-molding
-      name: "HIKARI - Glasses for precision molding"
-      content:
+        - DIVIDER: "Glasses for precision molding"
         - PAGE: Q-FK01S
           name: "Q-FK01S"
           data: specs/hikari/optical/Q-FK01S.yml
@@ -9886,10 +9338,10 @@
         - PAGE: Q-LASFH59S
           name: "Q-LASFH59S"
           data: specs/hikari/optical/Q-LASFH59S.yml
-    - DIVIDER: "Optical glass - CDGM"
-    - BOOK: CDGM-K
-      name: "CDGM - K (Crown)"
+    - BOOK: CDGM-optical
+      name: "CDGM - Optical glass"
       content:
+        - DIVIDER: "K (Crown)"
         - PAGE: H-K1
           name: "H-K1"
           data: specs/cdgm/optical/H-K1.yml
@@ -9965,9 +9417,7 @@
         - PAGE: H-K90GTI
           name: "H-K90GTI"
           data: specs/cdgm/optical/H-K90GTI.yml
-    - BOOK: CDGM-QK
-      name: "CDGM - QK (Light crown)"
-      content:
+        - DIVIDER: "QK (Light crown)"
         - PAGE: H-QK1
           name: "H-QK1"
           data: specs/cdgm/optical/H-QK1.yml
@@ -9983,9 +9433,7 @@
         - PAGE: H-QK3LGTI
           name: "H-QK3LGTI"
           data: specs/cdgm/optical/H-QK3LGTI.yml
-    - BOOK: CDGM-ZK
-      name: "CDGM - ZK (Dense crown)"
-      content:
+        - DIVIDER: "ZK (Dense crown)"
         - PAGE: H-ZK1
           name: "H-ZK1"
           data: specs/cdgm/optical/H-ZK1.yml
@@ -10082,9 +9530,7 @@
         - PAGE: D-ZK79-25
           name: "D-ZK79-25"
           data: specs/cdgm/optical/D-ZK79-25.yml
-    - BOOK: CDGM-BAK
-      name: "CDGM - BAK (Barium crown)"
-      content:
+        - DIVIDER: "BAK (Barium crown)"
         - PAGE: H-BAK1
           name: "H-BAK1"
           data: specs/cdgm/optical/H-BAK1.yml
@@ -10115,9 +9561,7 @@
         - PAGE: H-BAK8
           name: "H-BAK8"
           data: specs/cdgm/optical/H-BAK8.yml
-    - BOOK: CDGM-FK
-      name: "CDGM - FK (Fluor crown)"
-      content:
+        - DIVIDER: "FK (Fluor crown)"
         - PAGE: H-KF6
           name: "H-KF6"
           data: specs/cdgm/optical/H-KF6.yml
@@ -10154,9 +9598,7 @@
         - PAGE: H-FK95N
           name: "H-FK95N"
           data: specs/cdgm/optical/H-FK95N.yml
-    - BOOK: CDGM-LAK
-      name: "CDGM - LAK (Lanthanum crown)"
-      content:
+        - DIVIDER: "LAK (Lanthanum crown)"
         - PAGE: H-LAK1
           name: "H-LAK1"
           data: specs/cdgm/optical/H-LAK1.yml
@@ -10244,18 +9686,14 @@
         - PAGE: D-LAK70-25
           name: "D-LAK70-25"
           data: specs/cdgm/optical/D-LAK70-25.yml
-    - BOOK: CDGM-PK
-      name: "CDGM - PK (Phosphate crown)"
-      content:
+        - DIVIDER: "PK (Phosphate crown)"
         - PAGE: D-PK3
           name: "D-PK3"
           data: specs/cdgm/optical/D-PK3.yml
         - PAGE: D-PK3-25
           name: "D-PK3-25"
           data: specs/cdgm/optical/D-PK3-25.yml
-    - BOOK: CDGM-ZPK
-      name: "CDGM - ZPK (Dense phosphate crown)"
-      content:
+        - DIVIDER: "ZPK (Dense phosphate crown)"
         - PAGE: D-ZPK1A
           name: "D-ZPK1A"
           data: specs/cdgm/optical/D-ZPK1A.yml
@@ -10295,9 +9733,7 @@
         - PAGE: H-ZPK7
           name: "H-ZPK7"
           data: specs/cdgm/optical/H-ZPK7.yml
-    - BOOK: CDGM-F
-      name: "CDGM - F (Flint)"
-      content:
+        - DIVIDER: "F (Flint)"
         - PAGE: F1
           name: "F1"
           data: specs/cdgm/optical/F1.yml
@@ -10346,9 +9782,7 @@
         - PAGE: H-F51
           name: "H-F51"
           data: specs/cdgm/optical/H-F51.yml
-    - BOOK: CDGM-QF
-      name: "CDGM - QF (Light flint)"
-      content:
+        - DIVIDER: "QF (Light flint)"
         - PAGE: QF1
           name: "QF1"
           data: specs/cdgm/optical/QF1.yml
@@ -10394,9 +9828,7 @@
         - PAGE: H-QF56
           name: "H-QF56"
           data: specs/cdgm/optical/H-QF56.yml
-    - BOOK: CDGM-ZF
-      name: "CDGM - ZF (Dense flint)"
-      content:
+        - DIVIDER: "ZF (Dense flint)"
         - PAGE: ZF1
           name: "ZF1"
           data: specs/cdgm/optical/ZF1.yml
@@ -10553,9 +9985,7 @@
         - PAGE: D-ZF93-25
           name: "D-ZF93-25"
           data: specs/cdgm/optical/D-ZF93-25.yml
-    - BOOK: CDGM-TF
-      name: "CDGM - TF (Special flint)"
-      content:
+        - DIVIDER: "TF (Special flint)"
         - PAGE: TF3
           name: "TF3"
           data: specs/cdgm/optical/TF3.yml
@@ -10568,9 +9998,7 @@
         - PAGE: H-TF8
           name: "H-TF8"
           data: specs/cdgm/optical/H-TF8.yml
-    - BOOK: CDGM-BAF
-      name: "CDGM - BAF (Barium flint)"
-      content:
+        - DIVIDER: "BAF (Barium flint)"
         - PAGE: BAF2
           name: "BAF2"
           data: specs/cdgm/optical/BAF2.yml
@@ -10604,9 +10032,7 @@
         - PAGE: H-BAF8
           name: "H-BAF8"
           data: specs/cdgm/optical/H-BAF8.yml
-    - BOOK: CDGM-ZBAF
-      name: "CDGM - ZBAF (Dense barium flint)"
-      content:
+        - DIVIDER: "ZBAF (Dense barium flint)"
         - PAGE: H-ZBAF1
           name: "H-ZBAF1"
           data: specs/cdgm/optical/H-ZBAF1.yml
@@ -10643,9 +10069,7 @@
         - PAGE: H-ZBAF52
           name: "H-ZBAF52"
           data: specs/cdgm/optical/H-ZBAF52.yml
-    - BOOK: CDGM-LAF
-      name: "CDGM - LAF (Lanthanum flint)"
-      content:
+        - DIVIDER: "LAF (Lanthanum flint)"
         - PAGE: D-LAF050
           name: "D-LAF050"
           data: specs/cdgm/optical/D-LAF050.yml
@@ -10721,9 +10145,7 @@
         - PAGE: D-LAF82L
           name: "D-LAF82L"
           data: specs/cdgm/optical/D-LAF82L.yml
-    - BOOK: CDGM-ZLAF
-      name: "CDGM - ZLAF (Dense lanthanum flint)"
-      content:
+        - DIVIDER: "ZLAF (Dense lanthanum flint)"
         - PAGE: H-ZLAF1
           name: "H-ZLAF1"
           data: specs/cdgm/optical/H-ZLAF1.yml
@@ -10877,34 +10299,26 @@
         - PAGE: H-ZLAF92
           name: "H-ZLAF92"
           data: specs/cdgm/optical/H-ZLAF92.yml
-    - BOOK: CDGM-KF
-      name: "CDGM - KF (Crownflint)"
-      content:
+        - DIVIDER: "KF (Crownflint)"
         - PAGE: H-KF6
           name: "H-KF6"
           data: specs/cdgm/optical/H-KF6.yml
-    - DIVIDER: "Optical glass - HOYA"
-    - BOOK: HOYA-C
-      name: "HOYA - C (Crown)"
+    - BOOK: HOYA-optical
+      name: "HOYA - Optical glass"
       content:
+        - DIVIDER: "C (Crown)"
         - PAGE: E-C3
           name: "E-C3"
           data: specs/hoya/optical/E-C3.yml
-    - BOOK: HOYA-BSC
-      name: "HOYA - BSC (Borosilicate crown)"
-      content:
+        - DIVIDER: "BSC (Borosilicate crown)"
         - PAGE: BSC7
           name: "BSC7"
           data: specs/hoya/optical/BSC7.yml
-    - BOOK: HOYA-BaC
-      name: "HOYA - BaC (Barium crown)"
-      content:
+        - DIVIDER: "BaC (Barium crown)"
         - PAGE: BAC4
           name: "BAC4"
           data: specs/hoya/optical/BAC4.yml
-    - BOOK: HOYA-BaCD
-      name: "HOYA - BaCD (Dense barium crown)"
-      content:
+        - DIVIDER: "BaCD (Dense barium crown)"
         - PAGE: BACD2
           name: "BACD2"
           data: specs/hoya/optical/BACD2.yml
@@ -10956,24 +10370,18 @@
         - PAGE: MP-BACD15
           name: "MP-BACD15"
           data: specs/hoya/optical/MP-BACD15.yml
-    - BOOK: HOYA-BaCED
-      name: "HOYA - BaCED (Extra dense barium crown)"
-      content:
+        - DIVIDER: "BaCED (Extra dense barium crown)"
         - PAGE: BACED5
           name: "BACED5"
           data: specs/hoya/optical/BACED5.yml
         - PAGE: E-BACED20
           name: "E-BACED20"
           data: specs/hoya/optical/E-BACED20.yml
-    - BOOK: HOYA-FC
-      name: "HOYA - FC (Fluor crown)"
-      content:
+        - DIVIDER: "FC (Fluor crown)"
         - PAGE: FC5
           name: "FC5"
           data: specs/hoya/optical/FC5.yml
-    - BOOK: HOYA-FCD
-      name: "HOYA - FCD (Dense fluor crown)"
-      content:
+        - DIVIDER: "FCD (Dense fluor crown)"
         - PAGE: FCD1
           name: "FCD1"
           data: specs/hoya/optical/FCD1.yml
@@ -11016,9 +10424,7 @@
         - PAGE: MP-FCD500-20
           name: "MP-FCD500-20"
           data: specs/hoya/optical/MP-FCD500-20.yml
-    - BOOK: HOYA-LaC
-      name: "HOYA - LaC (Lanthanum crown)"
-      content:
+        - DIVIDER: "LaC (Lanthanum crown)"
         - PAGE: LAC7
           name: "LAC7"
           data: specs/hoya/optical/LAC7.yml
@@ -11061,21 +10467,15 @@
         - PAGE: MP-LAC130
           name: "MP-LAC130"
           data: specs/hoya/optical/MP-LAC130.yml
-    - BOOK: HOYA-LaCL
-      name: "HOYA - LaCL (Light lanthanum crown)"
-      content:
+        - DIVIDER: "LaCL (Light lanthanum crown)"
         - PAGE: LACL60
           name: "LACL60"
           data: specs/hoya/optical/LACL60.yml
-    - BOOK: HOYA-LBC
-      name: "HOYA - LBC"
-      content:
+        - DIVIDER: "LBC"
         - PAGE: LBC3N
           name: "LBC3N"
           data: specs/hoya/optical/LBC3N.yml
-    - BOOK: HOYA-PCD
-      name: "HOYA - PCD (Dense phosphate crown)"
-      content:
+        - DIVIDER: "PCD (Dense phosphate crown)"
         - PAGE: PCD4
           name: "PCD4"
           data: specs/hoya/optical/PCD4.yml
@@ -11103,9 +10503,7 @@
         - PAGE: MP-PCD51-70
           name: "MP-PCD51-70"
           data: specs/hoya/optical/MP-PCD51-70.yml
-    - BOOK: HOYA-TaC
-      name: "HOYA - TaC (Tantalum crown)"
-      content:
+        - DIVIDER: "TaC (Tantalum crown)"
         - PAGE: TAC2
           name: "TAC2"
           data: specs/hoya/optical/TAC2.yml
@@ -11130,9 +10528,7 @@
         - PAGE: MP-TAC80-60
           name: "MP-TAC80-60"
           data: specs/hoya/optical/MP-TAC80-60.yml
-    - BOOK: HOYA-F
-      name: "HOYA - F (Flint)"
-      content:
+        - DIVIDER: "F (Flint)"
         - PAGE: E-F1
           name: "E-F1"
           data: specs/hoya/optical/E-F1.yml
@@ -11148,18 +10544,14 @@
         - PAGE: E-F8
           name: "E-F8"
           data: specs/hoya/optical/E-F8.yml
-    - BOOK: HOYA-FL
-      name: "HOYA - FL (Light flint)"
-      content:
+        - DIVIDER: "FL (Light flint)"
         - PAGE: E-FL5
           name: "E-FL5"
           data: specs/hoya/optical/E-FL5.yml
         - PAGE: E-FL6
           name: "E-FL6"
           data: specs/hoya/optical/E-FL6.yml
-    - BOOK: HOYA-FEL
-      name: "HOYA - FEL (Extra light flint)"
-      content:
+        - DIVIDER: "FEL (Extra light flint)"
         - PAGE: E-FEL1
           name: "E-FEL1"
           data: specs/hoya/optical/E-FEL1.yml
@@ -11169,9 +10561,7 @@
         - PAGE: E-FEL6
           name: "E-FEL6"
           data: specs/hoya/optical/E-FEL6.yml
-    - BOOK: HOYA-FD
-      name: "HOYA - FD (Dense flint)"
-      content:
+        - DIVIDER: "FD (Dense flint)"
         - PAGE: FD60
           name: "FD60"
           data: specs/hoya/optical/FD60.yml
@@ -11220,9 +10610,7 @@
         - PAGE: MP-FD80
           name: "MP-FD80"
           data: specs/hoya/optical/MP-FD80.yml
-    - BOOK: HOYA-FDS
-      name: "HOYA - FDS (Special dense flint)"
-      content:
+        - DIVIDER: "FDS (Special dense flint)"
         - PAGE: FDS16-W
           name: "FDS16-W"
           data: specs/hoya/optical/FDS16-W.yml
@@ -11280,18 +10668,14 @@
         - PAGE: MP-FDS910-50
           name: "MP-FDS910-50"
           data: specs/hoya/optical/MP-FDS910-50.yml
-    - BOOK: HOYA-ADF
-      name: "HOYA - ADF (Abnormal dispersion flint)"
-      content:
+        - DIVIDER: "ADF (Abnormal dispersion flint)"
         - PAGE: E-ADF10
           name: "E-ADF10"
           data: specs/hoya/optical/E-ADF10.yml
         - PAGE: E-ADF50
           name: "E-ADF50"
           data: specs/hoya/optical/E-ADF50.yml
-    - BOOK: HOYA-BaF
-      name: "HOYA - BaF (Barium flint)"
-      content:
+        - DIVIDER: "BaF (Barium flint)"
         - PAGE: BAF10
           name: "BAF10"
           data: specs/hoya/optical/BAF10.yml
@@ -11301,27 +10685,21 @@
         - PAGE: E-BAF8
           name: "E-BAF8"
           data: specs/hoya/optical/E-BAF8.yml
-    - BOOK: HOYA-BaFD
-      name: "HOYA - BaFD (Dense barium flint)"
-      content:
+        - DIVIDER: "BaFD (Dense barium flint)"
         - PAGE: BAFD7
           name: "BAFD7"
           data: specs/hoya/optical/BAFD7.yml
         - PAGE: BAFD8
           name: "BAFD8"
           data: specs/hoya/optical/BAFD8.yml
-    - BOOK: HOYA-FF
-      name: "HOYA - FF (Fluor flint)"
-      content:
+        - DIVIDER: "FF (Fluor flint)"
         - PAGE: FF5
           name: "FF5"
           data: specs/hoya/optical/FF5.yml
         - PAGE: FF8
           name: "FF8"
           data: specs/hoya/optical/FF8.yml
-    - BOOK: HOYA-LaF
-      name: "HOYA - LaF (Lanthanum flint)"
-      content:
+        - DIVIDER: "LaF (Lanthanum flint)"
         - PAGE: LAF2
           name: "LAF2"
           data: specs/hoya/optical/LAF2.yml
@@ -11337,9 +10715,7 @@
         - PAGE: MP-LAF81
           name: "MP-LAF81"
           data: specs/hoya/optical/MP-LAF81.yml
-    - BOOK: HOYA-NbF
-      name: "HOYA - NbF (Niobium flint)"
-      content:
+        - DIVIDER: "NbF (Niobium flint)"
         - PAGE: NBF1
           name: "NBF1"
           data: specs/hoya/optical/NBF1.yml
@@ -11352,9 +10728,7 @@
         - PAGE: MP-NBF1
           name: "MP-NBF1"
           data: specs/hoya/optical/MP-NBF1.yml
-    - BOOK: HOYA-NbFD
-      name: "HOYA - NbFD (Dense niobium flint)"
-      content:
+        - DIVIDER: "NbFD (Dense niobium flint)"
         - PAGE: NBFD3
           name: "NBFD3"
           data: specs/hoya/optical/NBFD3.yml
@@ -11391,9 +10765,7 @@
         - PAGE: MP-NBFD130
           name: "MP-NBFD130"
           data: specs/hoya/optical/MP-NBFD130.yml
-    - BOOK: HOYA-TaF
-      name: "HOYA - TaF (Tantalum flint)"
-      content:
+        - DIVIDER: "TaF (Tantalum flint)"
         - PAGE: TAF1
           name: "TAF1"
           data: specs/hoya/optical/TAF1.yml
@@ -11454,9 +10826,7 @@
         - PAGE: MP-TAF401
           name: "MP-TAF401"
           data: specs/hoya/optical/MP-TAF401.yml
-    - BOOK: HOYA-TaFD
-      name: "HOYA - TaFD (Dense tantalum flint)"
-      content:
+        - DIVIDER: "TaFD (Dense tantalum flint)"
         - PAGE: TAFD5F
           name: "TAFD5F"
           data: specs/hoya/optical/TAFD5F.yml
@@ -11529,16 +10899,14 @@
         - PAGE: MP-TAFD405
           name: "MP-TAFD405"
           data: specs/hoya/optical/MP-TAFD405.yml
-    - BOOK: HOYA-CF
-      name: "HOYA - CF (Crownflint)"
-      content:
+        - DIVIDER: "CF (Crownflint)"
         - PAGE: E-CF6
           name: "E-CF6"
           data: specs/hoya/optical/E-CF6.yml
-    - DIVIDER: "Optical glass - SUMITA"
-    - BOOK: SUMITA-SK
-      name: "SUMITA - SK (Dense crown)"
+    - BOOK: SUMITA-optical
+      name: "SUMITA - Optical glass"
       content:
+        - DIVIDER: "SK (Dense crown)"
         - PAGE: K-SK4
           name: "K-SK4"
           data: specs/sumita/optical/K-SK4.yml
@@ -11563,21 +10931,15 @@
         - PAGE: K-SK18RH
           name: "K-SK18RH"
           data: specs/sumita/optical/K-SK18RH.yml
-    - BOOK: SUMITA-BK
-      name: "SUMITA - BK (Borosilicate crown)"
-      content:
+        - DIVIDER: "BK (Borosilicate crown)"
         - PAGE: K-BK7
           name: "K-BK7"
           data: specs/sumita/optical/K-BK7.yml
-    - BOOK: SUMITA-FK
-      name: "SUMITA - FK (Fluor crown)"
-      content:
+        - DIVIDER: "FK (Fluor crown)"
         - PAGE: K-FK5
           name: "K-FK5"
           data: specs/sumita/optical/K-FK5.yml
-    - BOOK: SUMITA-LaK
-      name: "SUMITA - LaK (Lanthanum crown)"
-      content:
+        - DIVIDER: "LaK (Lanthanum crown)"
         - PAGE: K-LaK6
           name: "K-LaK6"
           data: specs/sumita/optical/K-LaK6.yml
@@ -11623,15 +10985,11 @@
         - PAGE: K-LaKn14
           name: "K-LaKn14"
           data: specs/sumita/optical/K-LaKn14.yml
-    - BOOK: SUMITA-LaSK
-      name: "SUMITA - LaSK (Lanthanum dense crown)"
-      content:
+        - DIVIDER: "LaSK (Lanthanum dense crown)"
         - PAGE: K-LaSKn1
           name: "K-LaSKn1"
           data: specs/sumita/optical/K-LaSKn1.yml
-    - BOOK: SUMITA-PSK
-      name: "SUMITA - PSK (Dense phosphate crown)"
-      content:
+        - DIVIDER: "PSK (Dense phosphate crown)"
         - PAGE: K-PSK11
           name: "K-PSK11"
           data: specs/sumita/optical/K-PSK11.yml
@@ -11671,9 +11029,7 @@
         - PAGE: K-PSKn2
           name: "K-PSKn2"
           data: specs/sumita/optical/K-PSKn2.yml
-    - BOOK: SUMITA-SSK
-      name: "SUMITA - SSK (Very dense flint)"
-      content:
+        - DIVIDER: "SSK (Very dense flint)"
         - PAGE: K-SSK1
           name: "K-SSK1"
           data: specs/sumita/optical/K-SSK1.yml
@@ -11686,9 +11042,7 @@
         - PAGE: K-SSK9
           name: "K-SSK9"
           data: specs/sumita/optical/K-SSK9.yml
-    - BOOK: SUMITA-BaF
-      name: "SUMITA - BaF (Barium flint)"
-      content:
+        - DIVIDER: "BaF (Barium flint)"
         - PAGE: K-BaF8
           name: "K-BaF8"
           data: specs/sumita/optical/K-BaF8.yml
@@ -11701,18 +11055,14 @@
         - PAGE: K-BaFn3
           name: "K-BaFn3"
           data: specs/sumita/optical/K-BaFn3.yml
-    - BOOK: SUMITA-BaSF
-      name: "SUMITA - BaSF (Barium dense flint)"
-      content:
+        - DIVIDER: "BaSF (Barium dense flint)"
         - PAGE: K-BaSF4
           name: "K-BaSF4"
           data: specs/sumita/optical/K-BaSF4.yml
         - PAGE: K-BaSF5
           name: "K-BaSF5"
           data: specs/sumita/optical/K-BaSF5.yml
-    - BOOK: SUMITA-LaF
-      name: "SUMITA - LaF (Lanthanum flint)"
-      content:
+        - DIVIDER: "LaF (Lanthanum flint)"
         - PAGE: K-LaF2
           name: "K-LaF2"
           data: specs/sumita/optical/K-LaF2.yml
@@ -11725,9 +11075,7 @@
         - PAGE: K-LaFn11
           name: "K-LaFn11"
           data: specs/sumita/optical/K-LaFn11.yml
-    - BOOK: SUMITA-LaSF
-      name: "SUMITA - LaSF (Lanthanum dense flint)"
-      content:
+        - DIVIDER: "LaSF (Lanthanum dense flint)"
         - PAGE: K-LaSFn1
           name: "K-LaSFn1"
           data: specs/sumita/optical/K-LaSFn1.yml
@@ -11773,9 +11121,7 @@
         - PAGE: K-LaSFn23
           name: "K-LaSFn23"
           data: specs/sumita/optical/K-LaSFn23.yml
-    - BOOK: SUMITA-SFLD
-      name: "SUMITA - SFLD"
-      content:
+        - DIVIDER: "SFLD"
         - PAGE: K-SFLD1
           name: "K-SFLD1"
           data: specs/sumita/optical/K-SFLD1.yml
@@ -11800,33 +11146,25 @@
         - PAGE: K-SFLD66
           name: "K-SFLD66"
           data: specs/sumita/optical/K-SFLD66.yml
-    - BOOK: SUMITA-BPG
-      name: "SUMITA - BPG"
-      content:
+        - DIVIDER: "BPG"
         - PAGE: K-BPG2
           name: "K-BPG2"
           data: specs/sumita/optical/K-BPG2.yml
-    - BOOK: SUMITA-BOC
-      name: "SUMITA - BOC"
-      content:
+        - DIVIDER: "BOC"
         - PAGE: K-BOC20
           name: "K-BOC20"
           data: specs/sumita/optical/K-BOC20.yml
         - PAGE: K-BOC30
           name: "K-BOC30"
           data: specs/sumita/optical/K-BOC30.yml
-    - BOOK: SUMITA-CaFK
-      name: "SUMITA - CaFK"
-      content:
+        - DIVIDER: "CaFK"
         - PAGE: K-CaFK95
           name: "K-CaFK95"
           data: specs/sumita/optical/K-CaFK95.yml
         - PAGE: K-CaFK95(M)
           name: "K-CaFK95(M)"
           data: specs/sumita/optical/K-CaFK95(M).yml
-    - BOOK: SUMITA-CD
-      name: "SUMITA - CD"
-      content:
+        - DIVIDER: "CD"
         - PAGE: K-CD45
           name: "K-CD45"
           data: specs/sumita/optical/K-CD45.yml
@@ -11839,36 +11177,28 @@
         - PAGE: K-CD120(M)
           name: "K-CD120(M)"
           data: specs/sumita/optical/K-CD120(M).yml
-    - BOOK: SUMITA-CSK
-      name: "SUMITA - CSK"
-      content:
+        - DIVIDER: "CSK"
         - PAGE: K-CSK120
           name: "K-CSK120"
           data: specs/sumita/optical/K-CSK120.yml
         - PAGE: K-CSK120(M)
           name: "K-CSK120(M)"
           data: specs/sumita/optical/K-CSK120(M).yml
-    - BOOK: SUMITA-FIR
-      name: "SUMITA - FIR"
-      content:
+        - DIVIDER: "FIR"
         - PAGE: K-FIR97UV
           name: "K-FIR97UV"
           data: specs/sumita/optical/K-FIR97UV.yml
         - PAGE: K-FIR98UV
           name: "K-FIR98UV"
           data: specs/sumita/optical/K-FIR98UV.yml
-    - BOOK: SUMITA-GIR
-      name: "SUMITA - GIR"
-      content:
+        - DIVIDER: "GIR"
         - PAGE: K-GIR79
           name: "K-GIR79"
           data: specs/sumita/optical/K-GIR79.yml
         - PAGE: K-GIR140
           name: "K-GIR140"
           data: specs/sumita/optical/K-GIR140.yml
-    - BOOK: SUMITA-GFK
-      name: "SUMITA - GFK"
-      content:
+        - DIVIDER: "GFK"
         - PAGE: K-GFK68
           name: "K-GFK68"
           data: specs/sumita/optical/K-GFK68.yml
@@ -11881,9 +11211,7 @@
         - PAGE: K-GFK70(M)
           name: "K-GFK70(M)"
           data: specs/sumita/optical/K-GFK70(M).yml
-    - BOOK: SUMITA-LaFK
-      name: "SUMITA - LaFK"
-      content:
+        - DIVIDER: "LaFK"
         - PAGE: K-LaFK50
           name: "K-LaFK50"
           data: specs/sumita/optical/K-LaFK50.yml
@@ -11920,18 +11248,14 @@
         - PAGE: K-LaFK65(M)
           name: "K-LaFK65(M)"
           data: specs/sumita/optical/K-LaFK65(M).yml
-    - BOOK: SUMITA-LCV
-      name: "SUMITA - LCV"
-      content:
+        - DIVIDER: "LCV"
         - PAGE: K-LCV93
           name: "K-LCV93"
           data: specs/sumita/optical/K-LCV93.yml
         - PAGE: K-LCV93(M)
           name: "K-LCV93(M)"
           data: specs/sumita/optical/K-LCV93(M).yml
-    - BOOK: SUMITA-PBK
-      name: "SUMITA - PBK"
-      content:
+        - DIVIDER: "PBK"
         - PAGE: K-PBK40
           name: "K-PBK40"
           data: specs/sumita/optical/K-PBK40.yml
@@ -11944,9 +11268,7 @@
         - PAGE: K-PBK50(M)
           name: "K-PBK50(M)"
           data: specs/sumita/optical/K-PBK50(M).yml
-    - BOOK: SUMITA-PFK
-      name: "SUMITA - PFK"
-      content:
+        - DIVIDER: "PFK"
         - PAGE: K-PFK80
           name: "K-PFK80"
           data: specs/sumita/optical/K-PFK80.yml
@@ -11965,9 +11287,7 @@
         - PAGE: K-PFK90(M)
           name: "K-PFK90(M)"
           data: specs/sumita/optical/K-PFK90(M).yml
-    - BOOK: SUMITA-PG
-      name: "SUMITA - PG"
-      content:
+        - DIVIDER: "PG"
         - PAGE: K-PG325
           name: "K-PG325"
           data: specs/sumita/optical/K-PG325.yml
@@ -11986,18 +11306,14 @@
         - PAGE: K-PG395(M)
           name: "K-PG395(M)"
           data: specs/sumita/optical/K-PG395(M).yml
-    - BOOK: SUMITA-PMK
-      name: "SUMITA - PMK"
-      content:
+        - DIVIDER: "PMK"
         - PAGE: K-PMK30
           name: "K-PMK30"
           data: specs/sumita/optical/K-PMK30.yml
         - PAGE: K-PMK30(M)
           name: "K-PMK30(M)"
           data: specs/sumita/optical/K-PMK30(M).yml
-    - BOOK: SUMITA-PSF
-      name: "SUMITA - PSF"
-      content:
+        - DIVIDER: "PSF"
         - PAGE: K-PSFn1
           name: "K-PSFn1"
           data: specs/sumita/optical/K-PSFn1.yml
@@ -12055,27 +11371,21 @@
         - PAGE: K-PSFn215
           name: "K-PSFn215"
           data: specs/sumita/optical/K-PSFn215.yml
-    - BOOK: SUMITA-SKF
-      name: "SUMITA - SKF"
-      content:
+        - DIVIDER: "SKF"
         - PAGE: K-SKF6
           name: "K-SKF6"
           data: specs/sumita/optical/K-SKF6.yml
         - PAGE: K-SKF6(M)
           name: "K-SKF6(M)"
           data: specs/sumita/optical/K-SKF6(M).yml
-    - BOOK: SUMITA-SKLD
-      name: "SUMITA - SKLD"
-      content:
+        - DIVIDER: "SKLD"
         - PAGE: K-SKLD120
           name: "K-SKLD120"
           data: specs/sumita/optical/K-SKLD120.yml
         - PAGE: K-SKLD120(M)
           name: "K-SKLD120(M)"
           data: specs/sumita/optical/K-SKLD120(M).yml
-    - BOOK: SUMITA-VC
-      name: "SUMITA - VC"
-      content:
+        - DIVIDER: "VC"
         - PAGE: K-VC78
           name: "K-VC78"
           data: specs/sumita/optical/K-VC78.yml
@@ -12148,25 +11458,21 @@
         - PAGE: K-VC185(M)
           name: "K-VC185(M)"
           data: specs/sumita/optical/K-VC185(M).yml
-    - BOOK: SUMITA-ZnSF
-      name: "SUMITA - ZnSF"
-      content:
+        - DIVIDER: "ZnSF"
         - PAGE: K-ZnSF8
           name: "K-ZnSF8"
           data: specs/sumita/optical/K-ZnSF8.yml
         - PAGE: K-ZnSF8(M)
           name: "K-ZnSF8(M)"
           data: specs/sumita/optical/K-ZnSF8(M).yml
-    - DIVIDER: "Optical glass - LZOS"
-    - BOOK: LZOS-K
-      name: "LZOS - K (Crown)"
+    - BOOK: LZOS-optical
+      name: "LZOS - Optical glass"
       content:
+        - DIVIDER: "K (Crown)"
         - PAGE: K8
           name: "K8"
           data: specs/lzos/optical/K8.yml
-    - BOOK: LZOS-LK
-      name: "LZOS - LK (Light crown)"
-      content:
+        - DIVIDER: "LK (Light crown)"
         - PAGE: LK3
           name: "LK3"
           data: specs/lzos/optical/LK3.yml
@@ -12179,9 +11485,7 @@
         - PAGE: LK7
           name: "LK7"
           data: specs/lzos/optical/LK7.yml
-    - BOOK: LZOS-TK
-      name: "LZOS - TK (Dense crown)"
-      content:
+        - DIVIDER: "TK (Dense crown)"
         - PAGE: TK2
           name: "TK2"
           data: specs/lzos/optical/TK2.yml
@@ -12209,9 +11513,7 @@
         - PAGE: TK23
           name: "TK23"
           data: specs/lzos/optical/TK23.yml
-    - BOOK: LZOS-CTK
-      name: "LZOS - CTK (Extra dense crown)"
-      content:
+        - DIVIDER: "CTK (Extra dense crown)"
         - PAGE: CTK3
           name: "CTK3"
           data: specs/lzos/optical/CTK3.yml
@@ -12227,15 +11529,11 @@
         - PAGE: CTK19
           name: "CTK19"
           data: specs/lzos/optical/CTK19.yml
-    - BOOK: LZOS-OK
-      name: "LZOS - OK (Special crown)"
-      content:
+        - DIVIDER: "OK (Special crown)"
         - PAGE: OK4
           name: "OK4"
           data: specs/lzos/optical/OK4.yml
-    - BOOK: LZOS-BK
-      name: "LZOS - BK (Barium crown)"
-      content:
+        - DIVIDER: "BK (Barium crown)"
         - PAGE: BK4
           name: "BK4"
           data: specs/lzos/optical/BK4.yml
@@ -12248,9 +11546,7 @@
         - PAGE: BK10
           name: "BK10"
           data: specs/lzos/optical/BK10.yml
-    - BOOK: LZOS-F
-      name: "LZOS - F (Flint)"
-      content:
+        - DIVIDER: "F (Flint)"
         - PAGE: F1
           name: "F1"
           data: specs/lzos/optical/F1.yml
@@ -12266,9 +11562,7 @@
         - PAGE: F13
           name: "F13"
           data: specs/lzos/optical/F13.yml
-    - BOOK: LZOS-LF
-      name: "LZOS - LF (Light flint)"
-      content:
+        - DIVIDER: "LF (Light flint)"
         - PAGE: LF5
           name: "LF5"
           data: specs/lzos/optical/LF5.yml
@@ -12278,9 +11572,7 @@
         - PAGE: LF9
           name: "LF9"
           data: specs/lzos/optical/LF9.yml
-    - BOOK: LZOS-TF
-      name: "LZOS - TF (Dense flint)"
-      content:
+        - DIVIDER: "TF (Dense flint)"
         - PAGE: TF1
           name: "TF1"
           data: specs/lzos/optical/TF1.yml
@@ -12305,15 +11597,11 @@
         - PAGE: TF10
           name: "TF10"
           data: specs/lzos/optical/TF10.yml
-    - BOOK: LZOS-OF
-      name: "LZOS - OF (Special flint)"
-      content:
+        - DIVIDER: "OF (Special flint)"
         - PAGE: OF1
           name: "OF1"
           data: specs/lzos/optical/OF1.yml
-    - BOOK: LZOS-BF
-      name: "LZOS - BF (Barium flint)"
-      content:
+        - DIVIDER: "BF (Barium flint)"
         - PAGE: BF1
           name: "BF1"
           data: specs/lzos/optical/BF1.yml
@@ -12338,15 +11626,404 @@
         - PAGE: BF28
           name: "BF28"
           data: specs/lzos/optical/BF28.yml
-    - BOOK: LZOS-KF
-      name: "LZOS - KF (Crownflint)"
-      content:
+        - DIVIDER: "KF (Crownflint)"
         - PAGE: KF6
           name: "KF6"
           data: specs/lzos/optical/KF6.yml
         - PAGE: KF7
           name: "KF7"
           data: specs/lzos/optical/KF7.yml
+    - DIVIDER: "Miscellaneous optical materials"
+    - BOOK: SCHOTT-misc
+      name: "SCHOTT - Miscellaneous glass"
+      content:
+        - PAGE: ZERODUR
+          name: "ZERODUR®"
+          data: specs/schott/misc/ZERODUR.yml
+        - PAGE: B270
+          name: "B 270® Superwite"
+          data: specs/schott/misc/B270.yml
+        - PAGE: AF32ECO
+          name: "AF 32® eco Thin Glass"
+          data: specs/schott/misc/AF32ECO.yml
+        - PAGE: D263TECO
+          name: "D 263® T eco Thin Glass"
+          data: specs/schott/misc/D263TECO.yml
+        - PAGE: BOROFLOAT33
+          name: "BOROFLOAT® 33"
+          data: specs/schott/misc/BOROFLOAT33.yml
+        - PAGE: DURAN
+          name: "DURAN®"
+          data: specs/schott/misc/DURAN.yml
+        - PAGE: LITHOSIL-Q
+          name: "LITHOSIL-Q (obsolete)"
+          data: specs/schott/misc/LITHOSIL-Q.yml
+        - PAGE: LITHOTEC-CAF2
+          name: "LITHOTEC-CAF2 (obsolete)"
+          data: specs/schott/misc/LITHOTEC-CAF2.yml
+    - BOOK: HIKARI-misc
+      name: "HIKARI - Miscellaneous glass"
+      content:
+        - DIVIDER: "Synthetic Silica Glass (NIFS Series)"
+        - PAGE: NIFS-A
+          name: "NIFS-A"
+          data: specs/hikari/SiO2/NIFS-A.yml
+        - PAGE: NIFS-S
+          name: "NIFS-S"
+          data: specs/hikari/SiO2/NIFS-S.yml
+        - PAGE: NIFS-U
+          name: "NIFS-U"
+          data: specs/hikari/SiO2/NIFS-U.yml
+        - PAGE: NIFS-V
+          name: "NIFS-V"
+          data: specs/hikari/SiO2/NIFS-V.yml
+        - DIVIDER: "Calcium Fluoride (NICF Series)"
+        - PAGE: NICF-A
+          name: "NICF-A"
+          data: specs/hikari/CaF/NICF-A.yml
+        - PAGE: NICF-U
+          name: "NICF-U"
+          data: specs/hikari/CaF/NICF-U.yml
+        - PAGE: NICF-V
+          name: "NICF-V"
+          data: specs/hikari/CaF/NICF-V.yml
+        - DIVIDER: "i-line Glass"
+        - PAGE: "4786"
+          name: "4786"
+          data: specs/hikari/i-line/4786.yml
+        - PAGE: "5165"
+          name: "5165"
+          data: specs/hikari/i-line/5165.yml
+        - PAGE: "5742"
+          name: "5742"
+          data: specs/hikari/i-line/5742.yml
+        - PAGE: "5859"
+          name: "5859"
+          data: specs/hikari/i-line/5859.yml
+        - PAGE: "7054"
+          name: "7054"
+          data: specs/hikari/i-line/7054.yml
+    - BOOK: CORNING-display
+      name: "CORNING - Display glass"
+      content:
+        - PAGE: EagleXG
+          name: "EAGLE XG®"
+          data: specs/corning/EagleXG.yml
+    - BOOK: CRYSTRAN-optical
+      name: "CRYSTRAN - Optical materials"
+      content:
+        - PAGE: BaF2
+          name: "BaF<sub>2</sub> - Barium fluoride"
+          data: specs/crystran/optical/BaF2.yml
+        - PAGE: diamond
+          name: "C - Diamond"
+          data: specs/crystran/optical/diamond.yml
+        - PAGE: CaCO3-o
+          name: "CaCO<sub>3</sub> - Calcite (o)"
+          data: specs/crystran/optical/CaCO3-o.yml
+        - PAGE: CaCO3-e
+          name: "CaCO<sub>3</sub> - Calcite (e)"
+          data: specs/crystran/optical/CaCO3-e.yml
+        - PAGE: CaF2
+          name: "CaF<sub>2</sub> - Calcium fluoride"
+          data: specs/crystran/optical/CaF2.yml
+        - PAGE: CdTe
+          name: "CdTe - Cadmium telluride"
+          data: specs/crystran/optical/CdTe.yml
+        - PAGE: CsBr
+          name: "CsBr - Caesium bromide"
+          data: specs/crystran/optical/CsBr.yml
+        - PAGE: CsI
+          name: "CsI - Caesium iodide"
+          data: specs/crystran/optical/CsI.yml
+        - PAGE: GaAs
+          name: "GaAs - Galium arsenide"
+          data: specs/crystran/optical/GaAs.yml
+        - PAGE: GLS
+          name: "GLS - Gallium lanthanum sulphide"
+          data: specs/crystran/optical/GLS.yml
+        - PAGE: Ge
+          name: "Ge - Germanium"
+          data: specs/crystran/optical/Ge.yml
+        - PAGE: quartz-o
+          name: "SiO<sub>2</sub> - Quartz (o)"
+          data: specs/crystran/optical/quartz-o.yml
+        - PAGE: quartz-e
+          name: "SiO<sub>2</sub> - Quartz (e)"
+          data: specs/crystran/optical/quartz-e.yml
+        - PAGE: fused_silica-uv
+          name: "SiO<sub>2</sub> - Fused silica (UV grade)"
+          data: specs/crystran/optical/fused_silica-uv.yml
+        - PAGE: fused_silica-vis
+          name: "SiO<sub>2</sub> - Fused silica (visible grade)"
+          data: specs/crystran/optical/fused_silica-vis.yml
+        - PAGE: fused_silica-ir
+          name: "SiO<sub>2</sub> - Fused silica (infrared grade)"
+          data: specs/crystran/optical/fused_silica-ir.yml
+    - DIVIDER: "Infrared glass"
+    - BOOK: AMI-infrared
+      name: "Amorphous Materials - Infrared glass (AMTIR)"
+      content:
+        - PAGE: AMTIR-1
+          name: "AMTIR-1"
+          data: specs/ami/infrared/AMTIR-1.yml
+        - PAGE: AMTIR-2
+          name: "AMTIR-2"
+          data: specs/ami/infrared/AMTIR-2.yml
+        - PAGE: AMTIR-3
+          name: "AMTIR-3 (out of production)"
+          data: specs/ami/infrared/AMTIR-3.yml
+        - PAGE: AMTIR-6
+          name: "AMTIR-6"
+          data: specs/ami/infrared/AMTIR-6.yml
+    - BOOK: VITRON-infrared
+      name: "VITRON - Infrared glass (IG)"
+      content:
+        - PAGE: IG2
+          name: "IG 2"
+          data: specs/vitron/infrared/IG2.yml
+        - PAGE: IG3
+          name: "IG 3"
+          data: specs/vitron/infrared/IG3.yml
+        - PAGE: IG4
+          name: "IG 4"
+          data: specs/vitron/infrared/IG4.yml
+        - PAGE: IG5
+          name: "IG 5"
+          data: specs/vitron/infrared/IG5.yml
+        - PAGE: IG6
+          name: "IG 6"
+          data: specs/vitron/infrared/IG6.yml
+    - BOOK: SCHOTT-infrared
+      name: "SCHOTT - Infrared glass (IRG)"
+      content:
+        - PAGE: IRG22
+          name: "IRG 22"
+          data: specs/schott/infrared/IRG22.yml
+        - PAGE: IRG23
+          name: "IRG 23"
+          data: specs/schott/infrared/IRG23.yml
+        - PAGE: IRG24
+          name: "IRG 24"
+          data: specs/schott/infrared/IRG24.yml
+        - PAGE: IRG25
+          name: "IRG 25"
+          data: specs/schott/infrared/IRG25.yml
+        - PAGE: IRG26
+          name: "IRG 26"
+          data: specs/schott/infrared/IRG26.yml
+        - PAGE: IRG27
+          name: "IRG 27"
+          data: specs/schott/infrared/IRG27.yml
+    - BOOK: LightPath-infrared
+      name: "LightPath - Infrared glass (BD)"
+      content:
+        - PAGE: BD-2
+          name: "BD-2"
+          data: specs/lightpath/infrared/BD-2.yml
+        - PAGE: BDNL4
+          name: "BDNL4"
+          data: specs/lightpath/infrared/BDNL4.yml
+        - PAGE: BD6
+          name: "BD6"
+          data: specs/lightpath/infrared/BD6.yml
+    - DIVIDER: "Glass filters"
+    - BOOK: BARBERINI-filter
+      name: "BARBERINI - Opthalmic glass filters"
+      content:
+        - DIVIDER: "Normal Crown"
+        - PAGE: D0290
+          name: "D0290: HC-Weiss 0290"
+          data: specs/barberini/filter/D0290.yml
+        - PAGE: D0391
+          name: "D0391: UV-W 76"
+          data: specs/barberini/filter/D0391.yml
+        - PAGE: D0891
+          name: "D0891: UV-W 0981"
+          data: specs/barberini/filter/D0891.yml
+        - DIVIDER: "High Index"
+        - PAGE: D0082
+          name: "D0082: LaSF 1.9/30"
+          data: specs/barberini/filter/D0082.yml
+        - PAGE: D0785
+          name: "D0785: LaSF 1.8/35"
+          data: specs/barberini/filter/D0785.yml
+        - PAGE: D0888
+          name: "D0888: BaSF 64"
+          data: specs/barberini/filter/D0888.yml
+        - DIVIDER: "Photochromic"
+        - PAGE: D0587
+          name: "D0587: V 512"
+          data: specs/barberini/filter/D0587.yml
+        - PAGE: D0687
+          name: "D0687: V 513"
+          data: specs/barberini/filter/D0687.yml
+        - PAGE: D1125
+          name: "D1125: HC-Photosolar grau"
+          data: specs/barberini/filter/D1125.yml
+        - PAGE: D1426-D1526
+          name: "D1426: Photosolar Supergrey; D1526: Photosolar B Supergrey"
+          data: specs/barberini/filter/D1426-D1526.yml
+        - PAGE: D6625
+          name: "D6625: HC-Photosolar dunkelbraun"
+          data: specs/barberini/filter/D6625.yml
+        - PAGE: D6526-D6626
+          name: "D6526: Photosolar Superbrown D6626: Photosolar B Superbrown"
+          data: specs/barberini/filter/D6526-D6626.yml
+        - PAGE: D6726-D6826
+          name: "D6726: Photosolar Super; D6826: Photosolar B Super"
+          data: specs/barberini/filter/D6726-D6826.yml
+        - DIVIDER: "Moulds"
+        - PAGE: D0991
+          name: "D0991: CH-W 0991 (S-3)"
+          data: specs/barberini/filter/D0991.yml
+        - PAGE: D0191
+          name: "D0191: CH-5555"
+          data: specs/barberini/filter/D0191.yml
+        - DIVIDER: "Sun Protection"
+        - PAGE: D1214
+          name: "D1214: Grau 1214"
+          data: specs/barberini/filter/D1214.yml
+        - PAGE: D1219
+          name: "D1219: S 4994"
+          data: specs/barberini/filter/D1219.yml
+        - PAGE: D1230
+          name: "D1230: Neophan Gold 1230"
+          data: specs/barberini/filter/D1230.yml
+        - PAGE: D1420_1
+          name: "D1420 1: S 4020"
+          data: specs/barberini/filter/D1420_1.yml
+        - PAGE: D1511
+          name: "D1511: Grau 1511"
+          data: specs/barberini/filter/D1511.yml
+        - PAGE: D1520
+          name: "D1520: Driver Grey"
+          data: specs/barberini/filter/D1520.yml
+        - PAGE: D1616
+          name: "D1616: Grau 1616"
+          data: specs/barberini/filter/D1616.yml
+        - PAGE: D4150
+          name: "D4150: ACE Improved"
+          data: specs/barberini/filter/D4150.yml
+        - PAGE: D5336_1
+          name: "D5336 1: S 3036"
+          data: specs/barberini/filter/D5336_1.yml
+        - PAGE: D6117
+          name: "D6117: UV 415 BROWN"
+          data: specs/barberini/filter/D6117.yml
+        - PAGE: D6420
+          name: "D6420: CH - Braun 6420"
+          data: specs/barberini/filter/D6420.yml
+        - PAGE: D9148
+          name: "D9148: Rosalite 9148 UV"
+          data: specs/barberini/filter/D9148.yml
+    - BOOK: ISUZU-filter
+      name: "ISUZU - Optical glass filters"
+      content:
+        - DIVIDER: "IHU (UV transmitting filter)"
+        - PAGE: IHU250H
+          name: "IHU250H"
+          data: specs/isuzu/filter/IHU250H.yml
+        - PAGE: IHU290
+          name: "IHU290"
+          data: specs/isuzu/filter/IHU290.yml
+        - PAGE: IHU310
+          name: "IHU310"
+          data: specs/isuzu/filter/IHU310.yml
+        - PAGE: IHU340
+          name: "IHU340"
+          data: specs/isuzu/filter/IHU340.yml
+        - PAGE: IHU350
+          name: "IHU350"
+          data: specs/isuzu/filter/IHU350.yml
+        - DIVIDER: "ITY (UV sharp cut filter)"
+        - PAGE: ITY385
+          name: "ITY385"
+          data: specs/isuzu/filter/ITY385.yml
+        - PAGE: ITY418
+          name: "ITY418"
+          data: specs/isuzu/filter/ITY418.yml
+        - PAGE: ITY425
+          name: "ITY425"
+          data: specs/isuzu/filter/ITY425.yml
+        - PAGE: ITY430
+          name: "ITY430"
+          data: specs/isuzu/filter/ITY430.yml
+        - DIVIDER: "IUV (UV transmitting, Visible absorbing filter)"
+        - PAGE: IUV340
+          name: "IUV340"
+          data: specs/isuzu/filter/IUV340.yml
+        - PAGE: IUV355
+          name: "IUV355"
+          data: specs/isuzu/filter/IUV355.yml
+        - PAGE: IUV360
+          name: "IUV360"
+          data: specs/isuzu/filter/IUV360.yml
+        - PAGE: IUV365
+          name: "IUV365"
+          data: specs/isuzu/filter/IUV365.yml
+        - PAGE: IUV380W
+          name: "IUV380W0"
+          data: specs/isuzu/filter/IUV380W.yml
+        - DIVIDER: "ISK (Heat absorbing filter)"
+        - PAGE: ISK150
+          name: "ISK150"
+          data: specs/isuzu/filter/ISK150.yml
+        - PAGE: ISK153
+          name: "ISK153"
+          data: specs/isuzu/filter/ISK153.yml
+        - PAGE: ISK157
+          name: "ISK157"
+          data: specs/isuzu/filter/ISK157.yml
+        - PAGE: ISK167
+          name: "ISK167"
+          data: specs/isuzu/filter/ISK167.yml
+        - PAGE: ISK171
+          name: "ISK171"
+          data: specs/isuzu/filter/ISK171.yml
+        - PAGE: ISK370
+          name: "ISK370"
+          data: specs/isuzu/filter/ISK370.yml
+        - DIVIDER: "IEC (Blue filter for color compensation)"
+        - PAGE: IEC501
+          name: "IEC501"
+          data: specs/isuzu/filter/IEC501.yml
+        - PAGE: IEC508
+          name: "IEC508"
+          data: specs/isuzu/filter/IEC508.yml
+        - PAGE: IEC518
+          name: "IEC518"
+          data: specs/isuzu/filter/IEC518.yml
+        - PAGE: IEC578
+          name: "IEC578"
+          data: specs/isuzu/filter/IEC578.yml
+        - DIVIDER: "IEB, IVB (Blue filter)"
+        - PAGE: IEB400
+          name: "IEB400"
+          data: specs/isuzu/filter/IEB400.yml
+        - PAGE: IEB470
+          name: "IEB470"
+          data: specs/isuzu/filter/IEB470.yml
+        - PAGE: IVB490
+          name: "IVB490"
+          data: specs/isuzu/filter/IVB490.yml
+        - DIVIDER: "IVG (Green filter)"
+        - PAGE: IVG530
+          name: "IVG530"
+          data: specs/isuzu/filter/IVG530.yml
+        - PAGE: IVG540
+          name: "IVG540"
+          data: specs/isuzu/filter/IVG540.yml
+        - PAGE: IVG550
+          name: "IVG550"
+          data: specs/isuzu/filter/IVG550.yml
+        - DIVIDER: "ILA, ILB (Light balancing filter)"
+        - PAGE: ILA400
+          name: "ILA400"
+          data: specs/isuzu/filter/ILA400.yml
+        - PAGE: ILB90
+          name: "ILB90"
+          data: specs/isuzu/filter/ILB90.yml
 - DIVIDER: "Selected data"
 - SHELF: 3d
   name: "Selected materials for 3D artists"

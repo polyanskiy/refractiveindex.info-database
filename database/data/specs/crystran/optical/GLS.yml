@@ -1,0 +1,259 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+REFERENCES: |
+    Crystran Ltd.
+    <a href="https://issuu.com/crystran/docs/handbook_2023_website">
+    The Crystran handbook of infra-red and ultra-violet optical materials (5th edition, 2023)
+    </a><br>
+    See also
+    <a href="https://www.crystran.com/optical-materials/gallium-lanthanum-sulphide-gls">
+    Crystran GLS online data sheet
+    </a>
+COMMENTS: |
+    Gallium Lanthanum Sulphide is a radically new chalcogenide glass and a much awaited alternative to toxic Arsenic-based glasses, with an optical transparency from the visible to infrared wavelengths, and thermal stability up to 550oC. In addition, GLS can be melted in a large scale without the need for sealed ampoule processing making GLS production and processing safer and more economical. Equally important, impurity levels, in particular, OH- and SH- absorption bands at around 3 and 4 ìm have been substantially reduced thus increasing performance.<br>
+    GLS has found use in a wide range of optoelectronic applications and is available as polished optical components, thin and thick films and in optical fibre form.<br>
+    Gallium Lanthanum Sulphide (GLS) glass is produced by proprietary processes under conditions of the highest purity. Particular effort is made in removing transition metal impurities to a level of better than 1 ppm total metallic impurities with SH- and OH- less than 1 ppm. GLS is routinely processed from ingots of 500 grams. Other glass compositions are available including rare earth doped (Ce, Pr, Nd, Tb, Dy, Ho, Er, Tm, Yb), halide (F, Cl), and Ag doped samples.<br>
+    REFERENCES:<br>
+    (1) Petrovich, Hewak et al Journal of Non-Crystalline Solids 326&327 (2003) 93–97°K<sup>-1</sup>
+PROPERTIES:
+    density:
+      - value: 4040
+    thermal_dispersion:
+      - type: constant
+        value: 75e-06
+    thermal_expansion:
+      - temperature: 273
+        value: 10e-06
+    hardness:
+      - type: Knoop
+        indenter_mass: 0.2
+        value: 2.02e9
+    melting_point:
+      - value: 1103
+    thermal_conductivity:
+      - temperature: 273
+        value: 0.43
+    youngs_modulus:
+      - value: 59e9
+    poissons_ratio:
+      - value: 0.24
+    solubility:
+      - value: 0
+DATA:
+  - type: tabulated n
+    data: |
+        0.5461 2.522
+        0.5790 2.500
+        0.6439 2.467
+        0.6678 2.458
+        0.7065 2.446
+        1.0140 2.398
+        1.3673 2.379
+        1.7101 2.371
+  - type: tabulated k
+    data: |
+        0.50 0.00E+00
+        0.55 0.00E+00
+        0.60 0.00E+00
+        0.65 0.00E+00
+        0.70 0.00E+00
+        0.75 0.00E+00
+        0.80 0.00E+00
+        0.85 0.00E+00
+        0.90 0.00E+00
+        0.95 0.00E+00
+        1.00 0.00E+00
+        1.05 0.00E+00
+        1.10 0.00E+00
+        1.15 0.00E+00
+        1.20 0.00E+00
+        1.25 0.00E+00
+        1.30 0.00E+00
+        1.35 0.00E+00
+        1.40 0.00E+00
+        1.45 0.00E+00
+        1.50 0.00E+00
+        1.55 0.00E+00
+        1.60 0.00E+00
+        1.65 0.00E+00
+        1.70 0.00E+00
+        1.75 0.00E+00
+        1.80 0.00E+00
+        1.85 0.00E+00
+        1.90 0.00E+00
+        1.95 0.00E+00
+        2.00 0.00E+00
+        2.05 0.00E+00
+        2.10 0.00E+00
+        2.15 0.00E+00
+        2.20 0.00E+00
+        2.25 0.00E+00
+        2.30 0.00E+00
+        2.35 0.00E+00
+        2.40 0.00E+00
+        2.45 0.00E+00
+        2.50 0.00E+00
+        2.55 0.00E+00
+        2.60 0.00E+00
+        2.65 0.00E+00
+        2.70 0.00E+00
+        2.75 0.00E+00
+        2.80 0.00E+00
+        2.85 0.00E+00
+        2.90 0.00E+00
+        2.95 0.00E+00
+        3.00 0.00E+00
+        3.05 0.00E+00
+        3.10 0.00E+00
+        3.15 0.00E+00
+        3.20 0.00E+00
+        3.25 0.00E+00
+        3.30 0.00E+00
+        3.35 0.00E+00
+        3.40 0.00E+00
+        3.45 0.00E+00
+        3.50 0.00E+00
+        3.55 0.00E+00
+        3.60 0.00E+00
+        3.65 0.00E+00
+        3.70 0.00E+00
+        3.75 0.00E+00
+        3.80 0.00E+00
+        3.85 0.00E+00
+        3.90 0.00E+00
+        3.95 0.00E+00
+        4.00 0.00E+00
+        4.05 0.00E+00
+        4.10 0.00E+00
+        4.15 0.00E+00
+        4.20 0.00E+00
+        4.25 0.00E+00
+        4.30 0.00E+00
+        4.35 0.00E+00
+        4.40 0.00E+00
+        4.45 0.00E+00
+        4.50 0.00E+00
+        4.55 0.00E+00
+        4.60 0.00E+00
+        4.65 0.00E+00
+        4.70 0.00E+00
+        4.75 0.00E+00
+        4.80 0.00E+00
+        4.85 0.00E+00
+        4.90 0.00E+00
+        4.95 0.00E+00
+        5.00 0.00E+00
+        5.05 0.00E+00
+        5.10 0.00E+00
+        5.15 0.00E+00
+        5.20 0.00E+00
+        5.25 0.00E+00
+        5.30 0.00E+00
+        5.35 0.00E+00
+        5.40 0.00E+00
+        5.45 0.00E+00
+        5.50 0.00E+00
+        5.55 0.00E+00
+        5.60 0.00E+00
+        5.65 0.00E+00
+        5.70 0.00E+00
+        5.75 0.00E+00
+        5.80 0.00E+00
+        5.85 0.00E+00
+        5.90 0.00E+00
+        5.95 0.00E+00
+        6.00 0.00E+00
+        6.05 0.00E+00
+        6.10 0.00E+00
+        6.15 0.00E+00
+        6.20 0.00E+00
+        6.25 0.00E+00
+        6.30 0.00E+00
+        6.35 0.00E+00
+        6.40 0.00E+00
+        6.45 0.00E+00
+        6.50 0.00E+00
+        6.55 0.00E+00
+        6.60 0.00E+00
+        6.65 0.00E+00
+        6.70 0.00E+00
+        6.75 0.00E+00
+        6.80 0.00E+00
+        6.85 0.00E+00
+        6.90 0.00E+00
+        6.95 0.00E+00
+        7.00 0.00E+00
+        7.05 0.00E+00
+        7.10 0.00E+00
+        7.15 0.00E+00
+        7.20 0.00E+00
+        7.25 0.00E+00
+        7.30 0.00E+00
+        7.35 6.16E-09
+        7.40 1.36E-07
+        7.45 2.56E-07
+        7.50 3.61E-07
+        7.55 4.33E-07
+        7.60 4.78E-07
+        7.65 5.07E-07
+        7.70 5.23E-07
+        7.75 5.34E-07
+        7.80 5.45E-07
+        7.85 5.62E-07
+        7.90 5.95E-07
+        7.95 6.63E-07
+        8.00 7.78E-07
+        8.05 9.11E-07
+        8.10 1.03E-06
+        8.15 1.17E-06
+        8.20 1.44E-06
+        8.25 1.78E-06
+        8.30 2.16E-06
+        8.35 2.56E-06
+        8.40 3.05E-06
+        8.45 3.68E-06
+        8.50 4.42E-06
+        8.55 5.24E-06
+        8.60 6.14E-06
+        8.65 7.21E-06
+        8.70 8.50E-06
+        8.75 9.85E-06
+        8.80 1.18E-05
+        8.85 1.40E-05
+        8.90 1.65E-05
+        8.95 1.94E-05
+        9.00 2.30E-05
+        9.05 1.26E-05
+        9.10 1.48E-05
+        9.15 1.73E-05
+        9.20 2.04E-05
+        9.25 2.40E-05
+        9.30 2.76E-05
+        9.35 3.27E-05
+        9.40 3.91E-05
+        9.45 4.68E-05
+        9.50 5.63E-05
+        9.55 6.86E-05
+        9.60 8.37E-05
+        9.65 9.91E-05
+        9.70 9.13E-05
+        9.75 1.08E-04
+        9.80 1.27E-04
+        9.85 1.49E-04
+        9.90 1.75E-04
+        9.95 2.07E-04
+        10.00 2.47E-04
+        10.05 2.99E-04
+        10.10 3.63E-04
+        10.15 4.37E-04
+        10.20 5.32E-04
+        10.25 6.46E-04
+        10.30 7.87E-04
+        10.35 9.31E-04
+        10.40 1.10E-03
+        10.45 1.26E-03
+        10.50 1.40E-03
+        10.55 1.54E-03
+        10.60 1.65E-03
