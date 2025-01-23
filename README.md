@@ -10,9 +10,17 @@ https://refractiveindex.info/
 
 ## Related projects
 
+### refractiveindex
+Easy Python interface to RefractiveIndex database.<br>
+https://github.com/toftul/refractiveindex
+
 ### refractiveindex.info-scripts
 Collection of Python scripts related to refractiveindex.info database<br>
 https://github.com/polyanskiy/refractiveindex.info-scripts
+
+### RefractiveIndex.jl
+Julia interface to refractiveindex.info database<br>
+https://github.com/stillyslalom/RefractiveIndex.jl
 
 ### PyTMM
 Database browser and Transfer Matrix Method implementation<br>
@@ -26,14 +34,6 @@ https://github.com/HugoGuillen/refractiveindex.info-sqlite
 Support for operations not possible through the web interface, e.g. find materials with refractive index within a specified range<br>
 https://github.com/cinek810/refractiveindex.info (original scripts)<br>
 https://github.com/mtarek/refractiveindex.info (fork and further development)
-
-### RefractiveIndex.jl
-Julia interface to refractiveindex.info database<br>
-https://github.com/stillyslalom/RefractiveIndex.jl
-
-### refractiveindex on PYPI
-Easy Python interface to RefractiveIndex database. Based on parsing method from PyTMM project, usage simular to `RefractiveIndex.jl` for Julia.<br>
-https://github.com/toftul/refractiveindex
 
 ### PyMoosh
 Python library for multilayer simulation and optimization<br>
