@@ -1981,6 +1981,9 @@
         - PAGE: Daimon-24.0C
           name: "Daimon and Masumura 2007: Water; n 0.18–1.13 µm; 24.0 °C"
           data: main/H2O/nk/Daimon-24.0C.yml
+        - PAGE: Bashkatov
+          name: "Bashkatov and Genina 2003: Water; n 0.225–1.14 µm; 20 °C"
+          data: main/H2O/nk/Bashkatov.yml
         - PAGE: Segelstein
           name: "Segelstein 1981: Water; n,k 0.034–1.0e7 µm; 25 °C"
           data: main/H2O/nk/Segelstein.yml
@@ -11827,7 +11830,7 @@
         - PAGE: BD6
           name: "BD6"
           data: specs/lightpath/infrared/BD6.yml
-    - DIVIDER: "Glass filters"
+    - DIVIDER: "Filters"
     - BOOK: BARBERINI-filter
       name: "BARBERINI - Opthalmic glass filters"
       content:

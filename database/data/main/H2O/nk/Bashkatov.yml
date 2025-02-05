@@ -1,0 +1,36 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+REFERENCES: |
+    A. N. Bashkatov and E. A. Genina.
+    Water refractive index in dependence on temperature and wavelength: a simple approximation.
+    <a href="https://doi.org/10.1117/12.518857"><i>Proc. SPIE</i> <b>5068</b>, 393-395 (2003)</a>
+COMMENTS: |
+    High-performance liquid chromatography (HPLC) distilled water at 20.0 °C.<br>
+    <br>
+    There are typesetting errors in the original paper: In Table 2, the coefficient C must be multiplied by 10<sup>8</sup> (not 10<sup>−8</sup>) and the coefficient D must be multiplied by 10<sup>12</sup>. Additionally, Equation (7) must be multiplied by 10<sup>12</sup>. With these corrections, and after converting the wavelength to µm, the following expressions can be used to calculate the coefficients of the dispersion formula at any temperature in the 0–100 °C range:<br>
+    <br>
+    A(t) = 1.3208
+           − 1.2325×10<sup>−5</sup>·t
+           − 1.8674×10<sup>−6</sup>·t<sup>2</sup>
+           + 5.0233×10<sup>−9</sup>·t<sup>3</sup><br>
+    B(t) = 5.2082413×10<sup>−3</sup>
+           − 5.179×10<sup>−7</sup>·t
+           − 2.284×10<sup>−8</sup>·t<sup>2</sup>
+           + 6.9608×10<sup>−11</sup>·t<sup>3</sup><br>
+    C(t) = −2.5551×10<sup>−4</sup>
+           − 1.8341336×10<sup>−8</sup>·t
+           − 9.172319×10<sup>−10</sup>·t<sup>2</sup>
+           + 2.7729×10<sup>−12</sup>·t<sup>3</sup><br>
+    D(t) = 9.3495×10<sup>−6</sup>
+           + 1.7855×10<sup>−3</sup>·t
+           + 3.6733×10<sup>−1</sup>·t<sup>2</sup>
+           − 1.2932×10<sup>1</sup>·t<sup>3</sup>
+
+DATA:
+  - type: formula 5
+    wavelength_range: 0.225 1.14
+    coefficients: 1.31984 5190.553e-6 -2 -2.56169e-4 -4 9.39388e-6 -6
+CONDITIONS:
+    temperature: 293.15
