@@ -3360,8 +3360,38 @@
       name: "PtSe<sub>2</sub> (Platinum diselenide)"
       content:
         - PAGE: Ermolaev
-          name: "Ermolaev et al. 2021: thin film; n,k 0.245–3.30 µm"
+          name: "Ermolaev et al. 2021: 300 nm film; n,k 0.245–3.30 µm"
           data: main/PtSe2/nk/Ermolaev.yml
+        - PAGE: Tharrault-1L
+          name: "Tharrault et al. 2025: 1L film; n,k 0.416–0.939 µm"
+          data: main/PtSe2/nk/Tharrault-1L.yml
+        - PAGE: Tharrault-2L
+          name: "Tharrault et al. 2025: 2L film; n,k 0.416–0.939 µm"
+          data: main/PtSe2/nk/Tharrault-2L.yml
+        - PAGE: Tharrault-3L
+          name: "Tharrault et al. 2025: 3L film; n,k 0.416–0.939 µm"
+          data: main/PtSe2/nk/Tharrault-3L.yml
+        - PAGE: Tharrault-4L
+          name: "Tharrault et al. 2025: 4L film; n,k 0.416–0.939 µm"
+          data: main/PtSe2/nk/Tharrault-4L.yml
+        - PAGE: Tharrault-5L
+          name: "Tharrault et al. 2025: 5L film; n,k 0.416–0.939 µm"
+          data: main/PtSe2/nk/Tharrault-5L.yml
+        - PAGE: Tharrault-6L
+          name: "Tharrault et al. 2025: 6L film; n,k 0.416–0.939 µm"
+          data: main/PtSe2/nk/Tharrault-6L.yml
+        - PAGE: Tharrault-7L
+          name: "Tharrault et al. 2025: 7L film; n,k 0.416–0.939 µm"
+          data: main/PtSe2/nk/Tharrault-7L.yml
+        - PAGE: Tharrault-8L
+          name: "Tharrault et al. 2025: 8L film; n,k 0.416–0.939 µm"
+          data: main/PtSe2/nk/Tharrault-8L.yml
+        - PAGE: Tharrault-10L
+          name: "Tharrault et al. 2025: 10L film; n,k 0.416–0.939 µm"
+          data: main/PtSe2/nk/Tharrault-10L.yml
+        - PAGE: Tharrault-12L
+          name: "Tharrault et al. 2025: 12L film; n,k 0.416–0.939 µm"
+          data: main/PtSe2/nk/Tharrault-12L.yml
     - BOOK: SnSe
       name: "SnSe (Tin selenide)"
       content:

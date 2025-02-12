@@ -4,7 +4,20 @@
     - Improved the integration logic between nk and n2 parts of the database.
     - Established a clear separation between research data and manufacturers' data.
     - Reformatted the "Info" section into YAML format, renamed it to about.yml, and placed it within the main database structure.
-    - Removed "INFO" paths from catalogs; refer to the appropriate about.yml in the database structure when needed. 
+    - Removed "INFO" paths from catalogs; refer to the appropriate about.yml in the database structure when needed.
+  new data (thanks to Marin Tharrault, Université Paris Cité, Paris, France, for submitting data in YAML format!)
+    main/PtSe2/nk/Tharrault-1L.yml
+    main/PtSe2/nk/Tharrault-2L.yml
+    main/PtSe2/nk/Tharrault-3L.yml
+    main/PtSe2/nk/Tharrault-4L.yml
+    main/PtSe2/nk/Tharrault-5L.yml
+    main/PtSe2/nk/Tharrault-6L.yml
+    main/PtSe2/nk/Tharrault-7L.yml
+    main/PtSe2/nk/Tharrault-8L.yml
+    main/PtSe2/nk/Tharrault-10L.yml
+    main/PtSe2/nk/Tharrault-12L.yml
+  new data (thanks to Fabio Lisi, University of Tokyo, Japan, for suggesting data!)
+    main/H2O/nk/Bashkatov.yml
 
 
 ============================== 2024-12-31 ==============================
