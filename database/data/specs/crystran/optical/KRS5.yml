@@ -1,0 +1,171 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+REFERENCES: |
+    Crystran Ltd.
+    <a href="https://issuu.com/crystran/docs/handbook_2023_website">
+    The Crystran handbook of infra-red and ultra-violet optical materials (5th edition, 2023)
+    </a><br>
+    See also
+    <a href="https://www.crystran.com/optical-materials/krs5-thallium-bromo-iodide">
+    Crystran KRS-5 online data sheet
+    </a>
+COMMENTS: |
+    TlBr<sub>42</sub>I<sub>58</sub>
+    KRS5 deep IR material with a high refractive index, KRS5 is used extensively in spectroscopy for ATR prisms, windows and lenses. In conjunction with Germanium, KRS5 can also be used in athermalised IR imaging systems.<br>
+    KRS-5 crystalises by the sealed-ampoule Stockbarger technique. Starting materials of the highest purity are selected to ensure that there are no anionic absorption bands between 2μm and 16μm and all crystals are checked for quality by using a pathlength of 120mm.<br>
+    CAUTION: Thallium salts are considered TOXIC and should be handled with care.<br>
+    REFERENCES:<br>
+    (1) Rodney and Malitson J.Opt Soc.Am. V46, p 956, 1953<br>
+    (2) Combes, Ballard, McCarthy: J.Opt Soc.Am. V41, p 215, 1951<br>
+    (3) Handbook of Optical Constants, ed Palik, V3, ISBN 0-12-544423-0
+PROPERTIES:
+    density:
+      - value: 5330
+    thermal_dispersion:
+      - type: constant
+        value: -235e-06
+    thermal_expansion:
+      - value: 58e-06
+    hardness:
+      - type: Knoop
+        value: 3.94e8
+    melting_point:
+      - value: 708
+    thermal_conductivity:
+      - temperature: 293
+        value: 0.544
+    youngs_modulus:
+      - value: 15.85e9
+    poissons_ratio:
+      - value: 0.369
+    solubility:
+      - temperature: 293
+        value: 0.05
+DATA:
+  - type: tabulated n
+    data: |
+        0.54 2.68059
+        1.00 2.44620
+        1.50 2.40774
+        2.00 2.39498
+        3.00 2.38574
+        4.00 2.38204
+        5.00 2.37979
+        6.00 2.37797
+        7.00 2.37627
+        8.00 2.37452
+        9.00 2.37267
+        10.0 2.37069
+        11.0 2.36854
+        12.0 2.36622
+        13.0 2.36371
+        14.0 2.36101
+        15.0 2.3581
+        16.0 2.35502
+        17.0 2.35173
+        18.0 2.34822
+        19.0 2.34451
+        20.0 2.34058
+        21.0 2.33643
+        22.0 2.33206
+        23.0 2.32746
+        24.0 2.32264
+        25.0 2.31758
+        26.0 2.31229
+        27.0 2.30676
+        28.0 2.30098
+        29.0 2.29495
+        30.0 2.28867
+        31.0 2.28212
+        32.0 2.27531
+        33.0 2.26823
+        34.0 2.26087
+        35.0 2.25322
+        36.0 2.24528
+        37.0 2.23705
+        38.0 2.22850
+        39.0 2.21965
+        40.0 2.21047
+  - type: tabulated k
+    data: |
+        0.556 5.53E-05
+        0.558 4.15E-05
+        0.560 3.09E-05
+        0.562 2.43E-05
+        0.564 1.87E-05
+        0.566 1.40E-05
+        0.568 1.04E-05
+        0.570 7.91E-06
+        0.572 6.24E-06
+        0.574 4.72E-06
+        0.576 3.59E-06
+        0.578 2.74E-06
+        0.580 2.08E-06
+        0.582 1.65E-06
+        0.584 1.30E-06
+        0.586 9.99E-07
+        0.588 8.12E-07
+        0.590 6.79E-07
+        0.592 5.71E-07
+        0.594 4.85E-07
+        0.596 4.16E-07
+        0.598 3.76E-07
+        0.600 3.42E-07
+        0.602 3.06E-07
+        0.604 2.85E-07
+        0.606 2.70E-07
+        0.608 2.54E-07
+        0.610 2.41E-07
+        0.612 2.31E-07
+        0.614 2.21E-07
+        0.616 2.10E-07
+        0.618 2.01E-07
+        0.620 1.92E-07
+        0.622 1.86E-07
+        0.624 1.82E-07
+        0.626 1.80E-07
+        0.628 1.78E-07
+        0.630 1.75E-07
+        0.632 1.72E-07
+        0.634 1.68E-07
+        0.636 1.63E-07
+        0.638 1.58E-07
+        0.640 1.52E-07
+        0.642 1.46E-07
+        0.644 1.39E-07
+        0.646 1.33E-07
+        0.648 1.27E-07
+        0.650 1.22E-07
+        0.652 1.17E-07
+        0.654 1.14E-07
+        0.656 1.10E-07
+        0.658 1.07E-07
+        0.660 1.04E-07
+        0.662 1.01E-07
+        0.664 9.75E-08
+        0.666 9.40E-08
+        0.668 9.01E-08
+        0.670 8.58E-08
+        0.672 8.11E-08
+        0.674 7.63E-08
+        0.676 7.12E-08
+        0.678 6.60E-08
+        0.680 6.10E-08
+        0.682 5.59E-08
+        0.684 5.11E-08
+        0.686 4.66E-08
+        0.688 4.25E-08
+        0.690 3.88E-08
+        0.692 3.57E-08
+        0.694 3.29E-08
+        0.696 3.07E-08
+        0.698 2.88E-08
+        0.700 2.71E-08
+        0.702 2.51E-08
+        0.704 2.32E-08
+        0.706 2.06E-08
+        0.708 1.70E-08
+        0.710 1.20E-08
+        0.712 5.52E-09

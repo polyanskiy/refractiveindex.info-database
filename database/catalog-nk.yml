@@ -3366,31 +3366,31 @@
           name: "Tharrault et al. 2025: 1L film; n,k 0.416–0.939 µm"
           data: main/PtSe2/nk/Tharrault-1L.yml
         - PAGE: Tharrault-2L
-          name: "Tharrault et al. 2025: 2L film; n,k 0.416–0.939 µm"
+          name: "Tharrault et al. 2025: 2L film; n,k 0.416–1.55 µm"
           data: main/PtSe2/nk/Tharrault-2L.yml
         - PAGE: Tharrault-3L
-          name: "Tharrault et al. 2025: 3L film; n,k 0.416–0.939 µm"
+          name: "Tharrault et al. 2025: 3L film; n,k 0.416–1.54 µm"
           data: main/PtSe2/nk/Tharrault-3L.yml
         - PAGE: Tharrault-4L
-          name: "Tharrault et al. 2025: 4L film; n,k 0.416–0.939 µm"
+          name: "Tharrault et al. 2025: 4L film; n,k 0.416–1.55 µm"
           data: main/PtSe2/nk/Tharrault-4L.yml
         - PAGE: Tharrault-5L
-          name: "Tharrault et al. 2025: 5L film; n,k 0.416–0.939 µm"
+          name: "Tharrault et al. 2025: 5L film; n,k 0.416–1.55 µm"
           data: main/PtSe2/nk/Tharrault-5L.yml
         - PAGE: Tharrault-6L
-          name: "Tharrault et al. 2025: 6L film; n,k 0.416–0.939 µm"
+          name: "Tharrault et al. 2025: 6L film; n,k 0.416–1.54 µm"
           data: main/PtSe2/nk/Tharrault-6L.yml
         - PAGE: Tharrault-7L
-          name: "Tharrault et al. 2025: 7L film; n,k 0.416–0.939 µm"
+          name: "Tharrault et al. 2025: 7L film; n,k 0.416–1.55 µm"
           data: main/PtSe2/nk/Tharrault-7L.yml
         - PAGE: Tharrault-8L
-          name: "Tharrault et al. 2025: 8L film; n,k 0.416–0.939 µm"
+          name: "Tharrault et al. 2025: 8L film; n,k 0.416–1.54 µm"
           data: main/PtSe2/nk/Tharrault-8L.yml
         - PAGE: Tharrault-10L
-          name: "Tharrault et al. 2025: 10L film; n,k 0.416–0.939 µm"
+          name: "Tharrault et al. 2025: 10L film; n,k 0.416–1.55 µm"
           data: main/PtSe2/nk/Tharrault-10L.yml
         - PAGE: Tharrault-12L
-          name: "Tharrault et al. 2025: 12L film; n,k 0.416–0.939 µm"
+          name: "Tharrault et al. 2025: 12L film; n,k 0.416–1.55 µm"
           data: main/PtSe2/nk/Tharrault-12L.yml
     - BOOK: SnSe
       name: "SnSe (Tin selenide)"
@@ -11793,6 +11793,9 @@
         - PAGE: fused_silica-ir
           name: "SiO<sub>2</sub> - Fused silica (infrared grade)"
           data: specs/crystran/optical/fused_silica-ir.yml
+        - PAGE: KRS5
+          name: "TlBr<sub>42</sub>I<sub>58</sub> - KRS5"
+          data: specs/crystran/optical/KRS5.yml
     - DIVIDER: "Infrared glass"
     - BOOK: AMI-infrared
       name: "Amorphous Materials - Infrared glass (AMTIR)"
