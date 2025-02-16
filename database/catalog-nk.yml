@@ -11796,6 +11796,9 @@
         - PAGE: KRS5
           name: "TlBr<sub>42</sub>I<sub>58</sub> - KRS5"
           data: specs/crystran/optical/KRS5.yml
+        - PAGE: KRS6
+          name: "TlBr<sub>40</sub>Cl<sub>60</sub> - KRS6"
+          data: specs/crystran/optical/KRS6.yml
     - DIVIDER: "Infrared glass"
     - BOOK: AMI-infrared
       name: "Amorphous Materials - Infrared glass (AMTIR)"
