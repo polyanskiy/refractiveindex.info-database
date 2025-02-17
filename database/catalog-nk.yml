@@ -3134,13 +3134,19 @@
         - PAGE: Djurisic
           name: "Djurišić et al. 2000: n,k 0.207–0.827 µm"
           data: main/InSb/nk/Djurisic.yml
-    - DIVIDER: "Sc - Scandium"
+    - DIVIDER: "Sc - Scandium and scandates"
     - BOOK: Sc
       name: "Sc (Scandium)"
       content:
         - PAGE: Larruquert
           name: "Larruquert et al. 2004: n,k 0.00124–0.190 µm"
           data: main/Sc/nk/Larruquert.yml
+    - BOOK: DyScO3
+      name: "DyScO<sub>3</sub> (Dysprosium scandate)"
+      content:
+        - PAGE: Chernova
+          name: "Chernova et al. 2017: n,k 0.145–1.49 µm"
+          data: main/DyScO3/nk/Chernova.yml
     - DIVIDER: "Se - Selenium and selenides"
     - BOOK: Se
       name: "Se (Selenium)"
