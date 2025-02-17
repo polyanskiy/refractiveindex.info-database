@@ -1,0 +1,205 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+REFERENCES: |
+    Crystran Ltd.
+    <a href="https://issuu.com/crystran/docs/handbook_2023_website">
+    The Crystran handbook of infra-red and ultra-violet optical materials (5th edition, 2023)
+    </a><br>
+    See also
+    <a href="https://www.crystran.com/optical-materials/lanthanum-fluoride-laf3">
+    Crystran LaF<sub>3</sub> online data sheet
+    </a>
+COMMENTS: |
+    Lanthanum Fluoride is not often used as an optical material. Lanthanum Fluoride is usually doped with Europium at a nominal level of 0.3% mole. In this form, the usual application is as the active element in an ion-selective electrode for the detection and measurement of Fluoride ions in solution.<br>
+    Lanthanum Fluoride is grown as small ingots of about 10mm diameter as it is difficult to anneal. Doped with Europium, it is a pale yellow colour.<br>
+    REFERENCES:<br>
+    (1) Jones and Shand, J.Crys.Growth. 2 (1968) p3611<br>
+    (2) Sher, Solomon, Lee, and Meuller. Phys.Rev. 144, p593 (1966)<br>
+    (3) Electronic Processes in Ionic Crystals (OU Press, NY, 1940) p.41
+    Optical data are for ordinary ray (o).
+CONDITIONS:
+    orientation: o
+PROPERTIES:
+    density:
+      - value: 5940
+    thermal_expansion:
+        direction: para
+        temperature: 298
+        value: 11e-06
+        direction: perp
+        temperature: 298
+        value: 15.8e-06
+    hardness:
+      - type: Moh
+        value: 4.5
+    melting_point:
+      - value: 1766
+    thermal_conductivity:
+      - temperature: 300
+        value: 5.1
+    solubility:
+      - value: 0
+DATA:
+  - type: tabulated n
+    data: |
+        0.254 1.656
+        0.405 1.618
+        0.436 1.617
+        0.547 1.606
+  - type: tabulated k
+    data: |
+        0.256 2.71E-06
+        0.258 2.49E-06
+        0.260 2.31E-06
+        0.262 2.15E-06
+        0.264 1.95E-06
+        0.266 1.79E-06
+        0.268 1.67E-06
+        0.270 1.58E-06
+        0.272 1.48E-06
+        0.274 1.37E-06
+        0.276 1.25E-06
+        0.278 1.36E-06
+        0.280 1.27E-06
+        0.282 1.28E-06
+        0.284 1.20E-06
+        0.286 1.10E-06
+        0.288 1.01E-06
+        0.290 9.66E-07
+        0.292 8.66E-07
+        0.294 7.69E-07
+        0.296 7.30E-07
+        0.298 7.18E-07
+        0.300 6.20E-07
+        0.302 6.49E-07
+        0.304 5.78E-07
+        0.306 4.87E-07
+        0.308 4.96E-07
+        0.310 5.50E-07
+        0.312 6.20E-07
+        0.314 5.97E-07
+        0.316 5.32E-07
+        0.318 5.35E-07
+        0.320 5.43E-07
+        0.322 4.89E-07
+        0.324 4.84E-07
+        0.326 4.91E-07
+        0.328 5.00E-07
+        0.330 4.47E-07
+        0.332 3.52E-07
+        0.334 2.63E-07
+        0.336 1.97E-07
+        0.338 3.62E-07
+        0.340 2.51E-07
+        0.342 1.08E-07
+        0.344 1.83E-07
+        0.346 2.79E-07
+        0.348 3.14E-07
+        0.350 2.30E-07
+        0.352 1.38E-07
+        0.354 1.10E-07
+        0.356 1.36E-07
+        0.358 2.20E-07
+        0.360 1.24E-07
+        0.362 8.02E-08
+        0.364 1.11E-07
+        0.366 1.25E-07
+        0.368 5.48E-08
+        2.5 1.05E-06
+        2.6 8.07E-07
+        2.7 6.03E-07
+        2.8 9.06E-07
+        2.9 1.33E-06
+        3.0 1.71E-06
+        3.1 1.77E-06
+        3.2 1.33E-06
+        3.3 9.03E-07
+        3.4 3.09E-06
+        3.5 2.06E-06
+        3.6 9.29E-07
+        3.7 8.64E-07
+        3.8 7.85E-07
+        3.9 6.94E-07
+        4.0 6.00E-07
+        4.1 5.00E-07
+        4.2 3.91E-07
+        4.3 2.84E-07
+        4.4 1.80E-07
+        4.5 8.16E-08
+        5.8 6.14E-07
+        5.9 4.65E-07
+        6.0 2.58E-06
+        6.1 1.35E-06
+        6.2 7.40E-07
+        6.3 3.81E-07
+        8.2 2.01E-07
+        8.3 1.52E-06
+        8.4 2.87E-06
+        8.5 4.20E-06
+        8.6 5.36E-06
+        8.7 7.73E-06
+        8.8 1.13E-05
+        8.9 1.52E-05
+        9.0 1.94E-05
+        9.1 2.40E-05
+        9.2 2.96E-05
+        9.3 3.60E-05
+        9.4 4.24E-05
+        9.5 5.02E-05
+        9.6 5.97E-05
+        9.7 6.95E-05
+        9.8 8.01E-05
+        9.9 9.27E-05
+        10.0 1.09E-04
+        10.1 1.24E-04
+        10.2 1.43E-04
+        10.3 1.65E-04
+        10.4 1.89E-04
+        10.5 2.15E-04
+        10.6 2.46E-04
+        10.7 2.82E-04
+        10.8 3.22E-04
+        10.9 3.73E-04
+        11.0 4.33E-04
+        11.1 5.09E-04
+        11.2 5.88E-04
+        11.3 6.71E-04
+        11.4 7.54E-04
+        11.5 8.42E-04
+        11.6 9.43E-04
+        11.7 1.07E-03
+        11.8 1.23E-03
+        11.9 1.43E-03
+        12.0 1.70E-03
+        12.1 2.02E-03
+        12.2 2.37E-03
+        12.3 2.75E-03
+        12.4 3.04E-03
+        12.5 3.26E-03
+        12.6 3.42E-03
+        12.7 3.49E-03
+        12.8 3.56E-03
+        12.9 3.63E-03
+        13.0 3.75E-03
+        13.1 3.90E-03
+        13.2 4.07E-03
+        13.3 4.21E-03
+        13.4 4.35E-03
+        13.5 4.49E-03
+        13.6 4.63E-03
+        13.7 4.78E-03
+        13.8 4.92E-03
+        13.9 5.06E-03
+        14.0 5.24E-03
+        14.1 5.48E-03
+        14.2 5.77E-03
+        14.3 6.08E-03
+        14.4 6.37E-03
+        14.5 6.60E-03
+        14.6 6.71E-03
+        14.7 6.72E-03
+        14.8 6.67E-03
+        14.9 6.58E-03
+        15.0 6.49E-03

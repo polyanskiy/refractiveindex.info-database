@@ -1,0 +1,24 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+REFERENCES: |
+    Crystran Ltd.
+    <a href="https://issuu.com/crystran/docs/handbook_2023_website">
+    The Crystran handbook of infra-red and ultra-violet optical materials (5th edition, 2023)
+    </a><br>
+    See also
+    <a href="https://www.crystran.com/optical-materials/lanthanum-fluoride-laf3">
+    Crystran LaF<sub>3</sub> online data sheet
+    </a>
+COMMENTS: |
+    Optical data are for extraordinary ray (e).
+CONDITIONS:
+    orientation: e
+DATA:
+  - type: tabulated n
+    data: |
+        0.254 1.649
+        0.405 1.612
+        0.436 1.609
+        0.547 1.602

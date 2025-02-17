@@ -11799,6 +11799,12 @@
         - PAGE: KRS6
           name: "TlBr<sub>40</sub>Cl<sub>60</sub> - KRS6"
           data: specs/crystran/optical/KRS6.yml
+        - PAGE: LaF3-o
+          name: "LaF<sub>3</sub> - Lanthanum fluoride (o)"
+          data: specs/crystran/optical/LaF3-o.yml
+        - PAGE: LaF3-e
+          name: "LaF<sub>3</sub> - Lanthanum fluoride (e)"
+          data: specs/crystran/optical/LaF3-e.yml
     - DIVIDER: "Infrared glass"
     - BOOK: AMI-infrared
       name: "Amorphous Materials - Infrared glass (AMTIR)"
