@@ -963,6 +963,18 @@
         - PAGE: Daimon-25
           name: "Daimon and Masumura 2002: n 0.138–2.326 µm; 25 °C"
           data: main/CaF2/nk/Daimon-25.yml
+        - PAGE: Bosomworth-300K
+          name: "Bosomworth 1967: n,k 52–1000 µm; 300 K"
+          data: main/CaF2/nk/Bosomworth-300K.yml
+        - PAGE: Bosomworth-200K
+          name: "Bosomworth 1967: k 47–1000 µm; 200 K"
+          data: main/CaF2/nk/Bosomworth-200K.yml
+        - PAGE: Bosomworth-80K
+          name: "Bosomworth 1967: n,k 49.5–1000 µm; 80 K"
+          data: main/CaF2/nk/Bosomworth-80K.yml
+        - PAGE: Bosomworth-5K
+          name: "Bosomworth 1967: k 45–1000 µm; 5 K"
+          data: main/CaF2/nk/Bosomworth-5K.yml
         - PAGE: Kaiser
           name: "Kaiser et al. 1964: n,k 10–80 µm"
           data: main/CaF2/nk/Kaiser.yml
