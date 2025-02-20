@@ -1118,7 +1118,7 @@
           name: "Feldman et al. 1978: n 0.21–11.5 µm"
           data: main/SrF2/nk/Feldman.yml
         - PAGE: Bosomworth-5K
-          name: "Bosomworth 1967: k 46.5–1000 µm; 5 K"
+          name: "Bosomworth 1967: k 46.5–500 µm; 5 K"
           data: main/SrF2/nk/Bosomworth-5K.yml
         - PAGE: Bosomworth-80K
           name: "Bosomworth 1967: n,k 46.5–1000 µm; 80 K"
