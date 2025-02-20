@@ -6,10 +6,14 @@
     - Reformatted the "Info" section into YAML format, renamed it to about.yml, and placed it within the main database structure.
     - Removed "INFO" paths from catalogs; refer to the appropriate about.yml in the database structure when needed.
   new data
-    main/CaF2/nk/Bosomworth-300K.yml
-    main/CaF2/nk/Bosomworth-200K.yml
-    main/CaF2/nk/Bosomworth-80K.yml
     main/CaF2/nk/Bosomworth-5K.yml
+    main/CaF2/nk/Bosomworth-80K.yml
+    main/CaF2/nk/Bosomworth-200K.yml
+    main/CaF2/nk/Bosomworth-300K.yml
+    main/SrF2/nk/Bosomworth-5K.yml
+    main/SrF2/nk/Bosomworth-80K.yml
+    main/SrF2/nk/Bosomworth-200K.yml
+    main/SrF2/nk/Bosomworth-300K.yml
   new data (thanks to Pavel Dmitriev, National University of Singapore, for submitting data in YAML format on GitHub!)
     main/DyScO3/nk/Chernova.yml
   new data (thanks to Marin Tharrault, Université Paris Cité, Paris, France, for submitting data in YAML format!)
