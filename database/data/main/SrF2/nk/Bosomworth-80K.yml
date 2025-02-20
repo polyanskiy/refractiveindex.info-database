@@ -14,7 +14,6 @@ DATA:
   - type: formula 4
     wavelength_range: 46.5 999.9
     coefficients: 0 6.04 2 44.444 2 -4088.9 0 44.444
-DATA:
   - type: tabulated k
     data: |
         46.512 5.80E-02
