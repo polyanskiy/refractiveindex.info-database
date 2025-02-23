@@ -1,6 +1,6 @@
 ﻿============================== 2025-02-23 ==============================
 
-  Re-arrangerment for cleaner database file structure:
+  Re-arrangement for cleaner database file structure:
     - Improved the integration logic between nk and n2 parts of the database.
     - Established a clear separation between research data and manufacturers' data.
     - Reformatted the "Info" section into YAML format, renamed it to about.yml, and placed it within the main database structure.
