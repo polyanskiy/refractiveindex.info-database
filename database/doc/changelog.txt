@@ -1,4 +1,4 @@
-﻿============================== Next release ==============================
+﻿============================== 2025-02-23 ==============================
 
   Re-arrangerment for cleaner database file structure:
     - Improved the integration logic between nk and n2 parts of the database.
