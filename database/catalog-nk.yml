@@ -936,6 +936,18 @@
         - PAGE: Querry
           name: "Querry 1987: n,k 0.220–167 µm"
           data: main/BaF2/nk/Querry.yml
+        - PAGE: Bosomworth-5K
+          name: "Bosomworth 1967: k 55–1000 µm; 5 K"
+          data: main/BaF2/nk/Bosomworth-5K.yml
+        - PAGE: Bosomworth-80K
+          name: "Bosomworth 1967: n,k 56.5–1000 µm; 80 K"
+          data: main/BaF2/nk/Bosomworth-80K.yml
+        - PAGE: Bosomworth-200K
+          name: "Bosomworth 1967: k 71.5–1000 µm; 200 K"
+          data: main/BaF2/nk/Bosomworth-200K.yml
+        - PAGE: Bosomworth-300K
+          name: "Bosomworth 1967: n,k 77–1000 µm; 300 K"
+          data: main/BaF2/nk/Bosomworth-300K.yml
         - PAGE: Malitson
           name: "Malitson 1964: n 0.265–10.3 µm"
           data: main/BaF2/nk/Malitson.yml
@@ -975,12 +987,27 @@
         - PAGE: Bosomworth-300K
           name: "Bosomworth 1967: n,k 52–1000 µm; 300 K"
           data: main/CaF2/nk/Bosomworth-300K.yml
-        - PAGE: Kaiser
-          name: "Kaiser et al. 1964: n,k 10–80 µm"
-          data: main/CaF2/nk/Kaiser.yml
         - PAGE: Malitson
           name: "Malitson 1963: n 0.23–9.7 µm; 24 °C"
           data: main/CaF2/nk/Malitson.yml
+        - PAGE: Kaiser
+          name: "Kaiser et al. 1962: n,k 10–80 µm"
+          data: main/CaF2/nk/Kaiser.yml
+    - BOOK: CdF2
+      name: "CdF<sub>2</sub> (Cadmium fluoride)"
+      content:
+        - PAGE: Bosomworth-5K
+          name: "Bosomworth 1967: k 45–1000 µm; 5 K"
+          data: main/CdF2/nk/Bosomworth-5K.yml
+        - PAGE: Bosomworth-80K
+          name: "Bosomworth 1967: n,k 54–1000 µm; 80 K"
+          data: main/CdF2/nk/Bosomworth-80K.yml
+        - PAGE: Bosomworth-200K
+          name: "Bosomworth 1967: k 87–1000 µm; 200 K"
+          data: main/CdF2/nk/Bosomworth-200K.yml
+        - PAGE: Bosomworth-300K
+          name: "Bosomworth 1967: n,k 100–1000 µm; 300 K"
+          data: main/CdF2/nk/Bosomworth-300K.yml
     - BOOK: CeF3
       name: "CeF<sub>3</sub> (Cerium trifluoride)"
       content:
@@ -1105,15 +1132,12 @@
     - BOOK: SrF2
       name: "SrF<sub>2</sub> (Strontium fluoride)"
       content:
-        - PAGE: Kaiser
-          name: "Kaiser et al. 1964: n,k 10–80 µm"
-          data: main/SrF2/nk/Kaiser.yml
-        - PAGE: Rodriguez-de_Marcos
-          name: "Rodríguez-de Marcos et al. 2013: n,k 0.001582–682.2 µm"
-          data: main/SrF2/nk/Rodriguez-de Marcos.yml
         - PAGE: Li
           name: "Li 1980: n 0.15–12.0 µm"
           data: main/SrF2/nk/Li.yml
+        - PAGE: Rodriguez-de_Marcos
+          name: "Rodríguez-de Marcos et al. 2013: n,k 0.001582–682.2 µm"
+          data: main/SrF2/nk/Rodriguez-de Marcos.yml
         - PAGE: Feldman
           name: "Feldman et al. 1978: n 0.21–11.5 µm"
           data: main/SrF2/nk/Feldman.yml
@@ -1129,6 +1153,9 @@
         - PAGE: Bosomworth-300K
           name: "Bosomworth 1967: n,k 62.5–1000 µm; 300 K"
           data: main/SrF2/nk/Bosomworth-300K.yml
+        - PAGE: Kaiser
+          name: "Kaiser et al. 1962: n,k 10–80 µm"
+          data: main/SrF2/nk/Kaiser.yml
     - BOOK: ThF4
       name: "ThF<sub>4</sub> (Thorium tetrafluoride)"
       content:
