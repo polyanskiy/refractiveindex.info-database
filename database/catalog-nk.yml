@@ -157,6 +157,18 @@
         - PAGE: Tropf
           name: "Tropf and Thomas 1991: n 0.35–5.5 µm"
           data: main/MgAl2O4/nk/Tropf.yml
+        - PAGE: Chernova
+          name: "Chernova 2017: n,k 0.14-1.67 µm"
+          data: main/MgAl2O4/nk/Chernova.yml
+    - BOOK: LaAl2O4
+      name: "LaAlO<sub>3</sub> (Lanthanum aluminate)"
+      content:
+        - PAGE: Chernova
+          name: "Chernova 2017: n,k 0.14-1.67 µm"
+          data: main/LaAl2O3/nk/Chernova.yml
+        - PAGE: Chernova
+          name: "Chernova 2017: n,k 0.14-1.67 µm Lanthanum strontium aluminum tantalate (LSAT)"
+          data: main/LaAlO3/nk/Chernova_LSAT.yml
     - DIVIDER: "Ar - Argon"
     - BOOK: Ar
       name: "Ar (Argon)"
@@ -2087,6 +2099,9 @@
         - PAGE: Stephens-vis
           name: "Stephens and Malitson 1952: n 0.405–0.768 µm"
           data: main/MgO/nk/Stephens-vis.yml
+        - PAGE: Chernova
+          name: "Chernova 2017: n,k 0.14-1.67 µm"
+          data: main/MgO/nk/Chernova.yml
     - BOOK: MoO3
       name: "MoO<sub>3</sub> (Molybdenum trioxide)"
       content:
@@ -3145,7 +3160,7 @@
       name: "DyScO<sub>3</sub> (Dysprosium scandate)"
       content:
         - PAGE: Chernova
-          name: "Chernova et al. 2017: n,k 0.145–1.49 µm"
+          name: "Chernova et al. 2017: n,k 0.14–1.67 µm"
           data: main/DyScO3/nk/Chernova.yml
     - DIVIDER: "Se - Selenium and selenides"
     - BOOK: Se
@@ -3939,6 +3954,12 @@
         - PAGE: Bond
           name: "Bond 1965: n 0.45–3.8 µm"
           data: main/SrTiO3/nk/Bond.yml
+        - PAGE: Chernova
+          name: "Chernova 2017: n,k 0.14-1.67 µm"
+          data: main/SrTiO3/nk/Chernova.yml
+        - PAGE: Chernova_NbDoped
+          name: "Chernova 2017: n,k 0.14-1.67 µm Nb-doped"
+          data: main/SrTiO3/nk/Chernova_NbDoped.yml
     - DIVIDER: "Tm - Thulium"
     - BOOK: Tm
       name: "Tm (Thulium)"
