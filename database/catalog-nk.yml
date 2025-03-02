@@ -158,17 +158,14 @@
           name: "Tropf and Thomas 1991: n 0.35–5.5 µm"
           data: main/MgAl2O4/nk/Tropf.yml
         - PAGE: Chernova
-          name: "Chernova 2017: n,k 0.14-1.67 µm"
+          name: "Chernova et al. 2017: n,k 0.14–1.67 µm"
           data: main/MgAl2O4/nk/Chernova.yml
-    - BOOK: LaAl2O4
+    - BOOK: LaAlO3
       name: "LaAlO<sub>3</sub> (Lanthanum aluminate)"
       content:
         - PAGE: Chernova
-          name: "Chernova 2017: n,k 0.14-1.67 µm"
-          data: main/LaAl2O3/nk/Chernova.yml
-        - PAGE: Chernova
-          name: "Chernova 2017: n,k 0.14-1.67 µm Lanthanum strontium aluminum tantalate (LSAT)"
-          data: main/LaAlO3/nk/Chernova_LSAT.yml
+          name: "Chernova et al. 2017: n,k 0.14–1.67 µm"
+          data: main/LaAlO3/nk/Chernova.yml
     - DIVIDER: "Ar - Argon"
     - BOOK: Ar
       name: "Ar (Argon)"
@@ -2151,7 +2148,7 @@
           name: "Stephens and Malitson 1952: n 0.405–0.768 µm"
           data: main/MgO/nk/Stephens-vis.yml
         - PAGE: Chernova
-          name: "Chernova 2017: n,k 0.14-1.67 µm"
+          name: "Chernova et al. 2017: n,k 0.14–1.67 µm"
           data: main/MgO/nk/Chernova.yml
     - BOOK: MoO3
       name: "MoO<sub>3</sub> (Molybdenum trioxide)"
@@ -4002,15 +3999,12 @@
         - PAGE: Dodge
           name: "Dodge 1986: n 0.43–3.8 µm"
           data: main/SrTiO3/nk/Dodge.yml
+        - PAGE: Chernova
+          name: "Chernova 2017: n,k 0.14–1.67 µm"
+          data: main/SrTiO3/nk/Chernova.yml
         - PAGE: Bond
           name: "Bond 1965: n 0.45–3.8 µm"
           data: main/SrTiO3/nk/Bond.yml
-        - PAGE: Chernova
-          name: "Chernova 2017: n,k 0.14-1.67 µm"
-          data: main/SrTiO3/nk/Chernova.yml
-        - PAGE: Chernova_NbDoped
-          name: "Chernova 2017: n,k 0.14-1.67 µm Nb-doped"
-          data: main/SrTiO3/nk/Chernova_NbDoped.yml
     - DIVIDER: "Tm - Thulium"
     - BOOK: Tm
       name: "Tm (Thulium)"
@@ -5605,6 +5599,12 @@
         - PAGE: Moerland
           name: "Moerland and Hoogenboom 2016: n,k 0.4–1.0 µm"
           data: other/mixed crystals/In2O3-SnO2/nk/Moerland.yml
+    - BOOK: LaAlO3-SrAlO3
+      name: "LaAlO<sub>3</sub>-Sr<sub>2</sub>TaAlO<sub>6</sub> (Lanthanum strontium aluminum tantalate, LSAT)"
+      content:
+        - PAGE: Chernova
+          name: "Chernova et al. 2017: n,k 0.14–1.67 µm "
+          data: other/mixed crystals/LaAlO3-Sr2TaAlO6/nk/Chernova.yml
     - BOOK: TlBr-TlCl
       name: "TlBr-TlCl (Thallium bromo-chloride, KRS-6)"
       content:
@@ -5678,6 +5678,12 @@
         - PAGE: Carvajal-γ
           name: "Carvajal et al. 2007: n(γ) 0.4–1.5 µm"
           data: other/doped crystals/Nb-RbTiOPO4/nk/Carvajal-gamma.yml
+    - BOOK: Nb-SrTiO3
+      name: "Nb:SrTiO<sub>3</sub> (Niobium-doped strontium titanate)"
+      content:
+        - PAGE: Chernova
+          name: "Chernova et al. 2017: n,k 0.14–1.67 µm"
+          data: other/doped crystals/Nb-SrTiO3/nk/Chernova.yml
     - BOOK: Al-ZnO
       name: "Al:ZnO (Aluminium-doped zinc oxide, AZO)"
       content:

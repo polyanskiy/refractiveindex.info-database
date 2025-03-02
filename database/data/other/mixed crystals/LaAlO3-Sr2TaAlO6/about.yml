@@ -1,0 +1,17 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+NAMES:
+  - Lanthanum strontium aluminum tantalate
+  - (LaAlO3<sub>3</sub>)<sub>0.3</sub>(Sr<sub>2</sub>TaAlO<sub>6</sub>)<sub>0.7</sub>
+  - LSAT
+  - Lanthanum aluminate - Strontium aluminium tantalate
+  - Lanthanum strontium aluminum tantalum oxide
+
+ABOUT: |
+    LSAT (Lanthanum strontium aluminum tantalate, (LaAlO3<sub>3</sub>)<sub>0.3</sub>(Sr<sub>2</sub>TaAlO<sub>6</sub>)<sub>0.7</sub>) is a transparent oxide crystal commonly used as a lattice-matched substrate for epitaxial growth of high-temperature superconductors, ferroelectric thin films, and oxide electronic devices. LSAT substrates offer excellent thermal stability, chemical inertness, and minimal lattice mismatch with perovskite-based thin films, making them ideal for complex heterostructures requiring precise epitaxial alignment. Typical applications include superconducting microwave devices, oxide electronics, photonics, and various advanced research fields focused on functional oxide thin films.
+
+LINKS:
+  - url: https://en.wikipedia.org/wiki/LSAT_(oxide)
+    text: LSAT (oxide) - Wikipedia

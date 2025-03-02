@@ -1,4 +1,16 @@
-﻿============================== 2025-02-23 ==============================
+﻿============================== next release ==============================
+
+  new data (thanks to Pavel Dmitriev, for writing calculation scripts and submitting data in YAML format on GitHub!)
+    main/DyScO3/nk/Chernova.yml (updated with data calculated from the model)
+    main/LaAlO3/nk/Chernova.yml
+    main/MgAl2O4/nk/Chernova.yml
+    main/MgO/nk/Chernova.yml
+    main/SrTiO3/nk/Chernova.yml
+    other/doped crystals/Nb-SrTiO3/nk/Chernova.yml
+    other/mixed crystals/LaAlO3-Sr2TaAlO6/nk/Chernova.yml
+
+
+============================== 2025-02-23 ==============================
 
   Re-arrangement for cleaner database file structure:
     - Improved the integration logic between nk and n2 parts of the database.
