@@ -1,0 +1,41 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+REFERENCES: |
+    <a href="https://refractiveindex.info/download/data/2017/Fused-Silica-Matching-Liquid-Code-06350.pdf">
+    Fused Silica Matching Liquid Code 06350 Data Sheet 30-NOV-17
+    </a>
+    (obtained from <a href="https://www.cargille.com/matching-liquids/">https://www.cargille.com</a>)
+COMMENTS: |
+    25 °C.
+DATA:
+  - type: formula 5
+    wavelength_range: 0.225 1.55
+    coefficients: 1.44719 3.83343E-3 -2 5.66134E-5 -4
+  - type: tabulated k
+    data: |
+        0.2250 8.246E-05
+        0.2480 9.088E-05
+        0.2700 3.684E-06
+        0.3080 2.126E-07
+        0.3370 1.370E-07
+        0.3650 7.217E-08
+        0.4861 1.984E-08
+        0.5461 4.368E-09
+        0.5893 4.713E-09
+        0.6328 5.061E-09
+        0.6563 0.000E+00
+        0.8400 6.304E-08
+        1.0648 4.328E-07
+        1.3000 1.355E-06
+        1.5500 2.970E-06
+CONDITIONS:
+    temperature: 298
+PROPERTIES:
+    density:
+      - temperature: 298
+        value: 824
+    thermal_expansion:
+      - temperature: 298
+        value: 0.0008

@@ -1,0 +1,41 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+REFERENCES: |
+    <a href="https://refractiveindex.info/download/data/2017/Acrylic-Matching-Liquid-Code-5032.pdf">
+    Acrylic Matching Liquid Code 5032 Data Sheet 30-NOV-17
+    </a>
+    (obtained from <a href="https://www.cargille.com/matching-liquids/">https://www.cargille.com</a>)
+COMMENTS: |
+    25 °C
+DATA:
+  - type: formula 5
+    wavelength_range: 0.31 1.55
+    coefficients: 1.47842 4.63182E-3 -2 -8.63733E-6 -4
+  - type: tabulated k
+    data: |
+        0.3100 3.850E-06
+        0.3650 6.121E-07
+        0.4047 2.337E-07
+        0.4800 3.839E-08
+        0.4861 3.888E-08
+        0.5461 0.000E+00
+        0.5893 0.000E+00
+        0.6328 0.000E+00
+        0.6439 0.000E+00
+        0.6563 0.000E+00
+        0.6943 0.000E+00
+        0.8400 6.718E-08
+        1.0648 3.459E-07
+        1.3000 1.090E-06
+        1.5500 2.752E-06
+CONDITIONS:
+    temperature: 298
+PROPERTIES:
+    density:
+      - temperature: 298
+        value: 888
+    thermal_expansion:
+      - temperature: 298
+        value: 0.0007

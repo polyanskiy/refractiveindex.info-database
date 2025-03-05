@@ -6091,28 +6091,6 @@
         - PAGE: Wang-60C
           name: "Wang et al. 2015: 60 °C; n,k 0.300–2.50 µm"
           data: other/fuel/biodisel/nk/Wang-60C.yml
-    - DIVIDER: "Index matching liquids"
-    - BOOK: BK7_matching_liquid
-      name: "BK matching liquid"
-      content:
-        - PAGE: Cargille
-          name: "Cargille"
-          data: other/index-matching liquids/cargille/nk/BK7_matching_liquid.yml
-    - BOOK: fused_silica_matching_liquid
-      name: "Fused silica matching liquid"
-      content:
-        - PAGE: Cargille-06350
-          name: "Cargille-06350"
-          data: other/index-matching liquids/cargille/nk/fused_silica_matching_liquid-06350.yml
-        - PAGE: Cargille-50350
-          name: "Cargille-50350"
-          data: other/index-matching liquids/cargille/nk/fused_silica_matching_liquid-50350.yml
-    - BOOK: acrylic_matching_liquid
-      name: "Acrylic matching liquid"
-      content:
-        - PAGE: Cargille
-          name: "Cargille"
-          data: other/index-matching liquids/cargille/nk/acrylic_matching_liquid.yml
     - DIVIDER: "Immersion oils"
     - BOOK: Leica_Type_F
       name: "Leica Type F"
@@ -12153,6 +12131,25 @@
         - PAGE: ILB90
           name: "ILB90"
           data: specs/isuzu/filter/ILB90.yml
+    - DIVIDER: "Index matching liquids"
+    - BOOK: Cargille
+      name: "CARGILLE"
+      content:
+        - PAGE: BK7_matching_liquid
+          name: "BK7 matching liquid"
+          data: specs/cargille/index-matching liquids/nk/BK7_matching_liquid.yml
+        - PAGE: Cargille-06350
+          name: "Fused silica matching liquid 06350"
+          data: specs/cargille/index-matching liquids/nk/fused_silica_matching_liquid-06350.yml
+        - PAGE: Cargille-50350
+          name: "Fused silica matching liquid 50350"
+          data: specs/cargille/index-matching liquids/nk/fused_silica_matching_liquid-50350.yml
+        - PAGE: acrylic_matching_liquid
+          name: "Acrylic matching liquid"
+          data: specs/cargille/index-matching liquids/nk/acrylic_matching_liquid.yml
+        - PAGE: acrylic_double_matching_liquid
+          name: "Acrylic double matching liquid"
+          data: specs/cargille/index-matching liquids/nk/acrylic_double_matching_liquid.yml
 - DIVIDER: "Selected data"
 - SHELF: 3d
   name: "Selected materials for 3D artists"

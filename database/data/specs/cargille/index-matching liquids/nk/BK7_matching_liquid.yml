@@ -1,0 +1,43 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+REFERENCES: |
+    <a href="https://refractiveindex.info/download/data/2023/BK-7-Matching-Liquid.pdf">
+    BK-7 Matching Liquid Data Sheet 27-March-2023
+    </a>
+    (obtained from <a href="https://www.cargille.com/matching-liquids/">https://www.cargille.com</a>)
+COMMENTS: |
+    25 °C
+DATA:
+  - type: formula 5
+    wavelength_range: 0.35 1.55
+    coefficients: 1.502639 4.7089420E-5 -2 6.3670450E-5 -4
+  - type: tabulated k
+    data: |
+        0.3500 1.243E-05
+        0.3650 1.899E-06
+        0.4047 5.234E-07
+        0.4800 1.163E-07
+        0.4861 7.815E-08
+        0.5461 0.000E+00
+        0.5893 0.000E+00
+        0.6328 0.000E+00
+        0.6439 0.000E+00
+        0.6563 0.000E+00
+        0.6943 0.000E+00
+        0.8400 0.000E+00
+        1.0648 1.712E-07
+        1.3000 5.306E-07
+        1.5500 1.258E-06
+CONDITIONS:
+    temperature: 298
+PROPERTIES:
+    density:
+      - temperature: 298
+        value: 1322
+    thermal_expansion:
+      - temperature: 298
+        value: 0.0007
+    freezing_point:
+      - value: 264
