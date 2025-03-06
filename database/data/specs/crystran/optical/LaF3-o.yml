@@ -25,10 +25,10 @@ PROPERTIES:
     density:
       - value: 5940
     thermal_expansion:
-        direction: para
+      - direction: para
         temperature: 298
         value: 11e-06
-        direction: perp
+      - direction: perp
         temperature: 298
         value: 15.8e-06
     hardness:

@@ -35,10 +35,10 @@ PROPERTIES:
         direction: perp
         value: -6.5e-06
     thermal_expansion:
-        direction: para
+      - direction: para
         temperature: 323
         value: 7.1e-06
-        direction: perp
+      - direction: perp
         temperature: 323
         value: 13.2e-06
     hardness:
