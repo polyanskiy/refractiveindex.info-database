@@ -3555,7 +3555,7 @@
         - PAGE: Ushkov-o
           name: "Ushkov et al. 2025: n,k(o) 0.36–1.7 µm"
           data: main/WSe2/nk/Ushkov-o.yml
-        - PAGE: Ushkov-o
+        - PAGE: Ushkov-e
           name: "Ushkov et al. 2025: n(e) 0.36–1.7 µm"
           data: main/WSe2/nk/Ushkov-e.yml
     - BOOK: ZnSe
