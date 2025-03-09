@@ -1,5 +1,8 @@
 ﻿============================== next release ==============================
 
+  new data (thanks to Georgy Ermolaev, XPANCEO, Dubai, United Arab Emirates, for submitting data in YAML format!)
+    main/WSe2/nk/Ushkov-o.yml
+    main/WSe2/nk/Ushkov-e.yml
   new data  
     specs/cargille/index-matching liquids/nk/acrylic_double_matching_liquid.yml
   updated data

@@ -2147,9 +2147,9 @@
         - PAGE: Stephens-vis
           name: "Stephens and Malitson 1952: n 0.405–0.768 µm"
           data: main/MgO/nk/Stephens-vis.yml
-        - PAGE: Chernova
-          name: "Chernova et al. 2017: n,k 0.14–1.67 µm"
-          data: main/MgO/nk/Chernova.yml
+#        - PAGE: Chernova
+#          name: "Chernova et al. 2017: n,k 0.14–1.67 µm"
+#          data: main/MgO/nk/Chernova.yml
     - BOOK: MoO3
       name: "MoO<sub>3</sub> (Molybdenum trioxide)"
       content:
@@ -2451,6 +2451,12 @@
         - PAGE: Wood
           name: "Wood and Nassau 1982: Cubic zirconia stabilized with yttria; n 0.361–5.14 µm"
           data: other/mixed crystals/ZrO2-Y2O3/nk/Wood.yml
+#        - PAGE: Synowicki-UV
+#          name: "Synowicki and Tiwald 2004: n,k 0.13–17 µm"
+#          data: main/ZrO2/nk/Synowicki-UV.yml
+#        - PAGE: Synowicki-IR
+#          name: "Synowicki and Tiwald 2004: n,k 1.7–33 µm"
+#          data: main/ZrO2/nk/Synowicki-IR.yml
         - DIVIDER: "Nanoparticles"
         - PAGE: Bodurov
           name: "Bodurov et al. 2016: Nanoparticles; n 0.405–0.635 µm"
@@ -3545,6 +3551,13 @@
         - PAGE: Zotev-e
           name: "Zotev et al. 2023: n,k(e) 0.36–1.0 µm"
           data: main/WSe2/nk/Zotev-e.yml
+        - DIVIDER: "Nanoparticles"
+        - PAGE: Ushkov-o
+          name: "Ushkov et al. 2025: n,k(o) 0.36–1.7 µm"
+          data: main/WSe2/nk/Ushkov-o.yml
+        - PAGE: Ushkov-o
+          name: "Ushkov et al. 2025: n(e) 0.36–1.7 µm"
+          data: main/WSe2/nk/Ushkov-e.yml
     - BOOK: ZnSe
       name: "ZnSe (Zinc selenide)"
       content:
