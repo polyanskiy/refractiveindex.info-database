@@ -1,0 +1,82 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+REFERENCES: |
+   R. Janeiro, R. Flores, J. Viegas.
+   Refractive index of phosphate-buffered saline in the telecom infrared C + L bands.
+   <a href="https://doi.org/10.1364/OSAC.434864"><i>OSA Continuum</i> <b>4</b>, 3039–3051 (2021)</a>
+COMMENTS: |
+    10x water solution (P32060, RPI). Composition: 1.37 M sodium chloride, 27 mM potassium chloride, 101.4 mM sodium phosphate dibasic and 17.6 mM potassium phosphate monobasic (total: 1.516 M), where M stands for molar, a concentration unit defined as mol/L.
+DATA:
+  - type: formula 5
+    wavelength_range: 1.50 1.62
+    coefficients: 23.15255 -16.98818 -1 -7.00392 1
+  - type: tabulated k
+    data: |
+        1.15 3.03E-06
+        1.16 4.39E-06
+        1.17 4.75E-06
+        1.18 4.99E-06
+        1.19 5.19E-06
+        1.20 5.30E-06
+        1.21 4.97E-06
+        1.22 4.65E-06
+        1.23 4.54E-06
+        1.24 4.42E-06
+        1.25 4.13E-06
+        1.26 3.95E-06
+        1.27 3.90E-06
+        1.28 3.95E-06
+        1.29 4.74E-06
+        1.30 6.13E-06
+        1.31 8.48E-06
+        1.32 1.22E-05
+        1.33 1.67E-05
+        1.34 2.18E-05
+        1.35 2.68E-05
+        1.36 3.18E-05
+        1.37 3.98E-05
+        1.38 5.95E-05
+        1.39 1.02E-04
+        1.40 1.79E-04
+        1.41 2.45E-04
+        1.42 2.96E-04
+        1.43 3.27E-04
+        1.44 3.43E-04
+        1.45 3.46E-04
+        1.46 3.40E-04
+        1.47 3.19E-04
+        1.48 2.89E-04
+        1.49 2.55E-04
+        1.50 2.23E-04
+        1.51 1.94E-04
+        1.52 1.70E-04
+        1.53 1.50E-04
+        1.54 1.33E-04
+        1.55 1.19E-04
+        1.56 1.06E-04
+        1.57 9.69E-05
+        1.58 8.83E-05
+        1.59 8.14E-05
+        1.60 7.58E-05
+        1.61 7.16E-05
+        1.62 6.83E-05
+        1.63 6.53E-05
+        1.64 6.28E-05
+        1.65 6.07E-05
+        1.66 5.94E-05
+        1.67 5.93E-05
+        1.68 5.93E-05
+        1.69 5.99E-05
+        1.70 6.19E-05
+        1.71 6.49E-05
+        1.72 6.89E-05
+        1.73 7.39E-05
+        1.74 8.04E-05
+        1.75 8.90E-05
+        1.76 9.85E-05
+        1.77 1.08E-04
+        1.78 1.15E-04
+        1.79 1.20E-04
+        1.80 1.21E-04

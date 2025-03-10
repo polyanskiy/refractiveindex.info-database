@@ -1,5 +1,12 @@
 ﻿============================== next release ==============================
 
+  new data (thanks to Fabio Lisi, University of Tokyo, Japan, for suggesting data!)
+    other/buffer solutions/PBS/nk/Janeiro.yml
+    other/buffer solutions/PBS/nk/Barroso.yml
+    other/buffer solutions/PBS/nk/Barroso-EDTA-BSA.yml
+    other/buffer solutions/BME/nk/Barroso.yml
+    other/buffer solutions/BME/nk/Barroso-FBS.yml
+    other/buffer solutions/BME/nk/Barroso-HEPES-FBS.yml
   new data (thanks to Georgy Ermolaev, XPANCEO, Dubai, United Arab Emirates, for submitting data in YAML format!)
     main/WSe2/nk/Ushkov-o.yml
     main/WSe2/nk/Ushkov-e.yml

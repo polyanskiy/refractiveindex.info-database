@@ -1,0 +1,16 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+NAMES:
+  - Phosphate buffered saline
+  - PBS
+  - Dulbecco’s phosphate buffered saline
+  - DPBS
+  
+ABOUT: |
+    Phosphate Buffered Saline (PBS) is a crucial buffer solution in biological and biochemical research, maintaining pH stability and osmotic balance. Composed of sodium chloride, sodium phosphate, and potassium chloride in distilled water, PBS is isotonic and mimics physiological conditions, making it ideal for cell culture, tissue preparation, and molecular biology applications. Its refractive index, typically around 1.334 at 20°C, ensures minimal light scattering, crucial for microscopy and spectroscopy techniques. PBS's precise formulation and optical properties support its widespread use in maintaining sample integrity and enhancing analytical sensitivity across various scientific disciplines.
+
+LINKS:
+  - url: https://en.wikipedia.org/wiki/Phosphate-buffered_saline
+    text: Phosphate-buffered saline - Wikipedia

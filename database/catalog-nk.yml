@@ -6509,6 +6509,31 @@
         - PAGE: Perotto
           name: "Perotto et al. 2017: Fibroin film; n 0.3–1.695 µm"
           data: other/silk/Antheraea assamensis/nk/Perotto.yml
+    - DIVIDER: "Buffer solutions"
+    - BOOK: PBS
+      name: "Phosphate Buffered Saline (PBS)"
+      content:
+        - PAGE: Barroso
+          name: "Barroso et al. 2019: DPBS; n 0.5–1.1 µm"
+          data: other/buffer solutions/PBS/nk/Barroso.yml
+        - PAGE: Barroso-EDTA-BSA
+          name: "Barroso et al. 2019: DPBS with EDTA and BSA; n 0.5–1.1 µm"
+          data: other/buffer solutions/PBS/nk/Barroso-EDTA-BSA.yml
+        - PAGE: Janeiro
+          name: "Janeiro et al. 2019: 10x solution; n 1.50–1.62 µm, k 1.15–1.80 µm"
+          data: other/buffer solutions/PBS/nk/Janeiro.yml
+    - BOOK: BME
+      name: "Basal Medium Eagle (BME, DMEM)"
+      content:
+        - PAGE: Barroso
+          name: "Barroso et al. 2019: DMEM; n 0.5–1.1 µm"
+          data: other/buffer solutions/BME/nk/Barroso.yml
+        - PAGE: Barroso-FBS
+          name: "Barroso et al. 2019: DMEM with 10% FBS; n 0.5–1.1 µm"
+          data: other/buffer solutions/BME/nk/Barroso-FBS.yml
+        - PAGE: Barroso-HEPES-FBS
+          name: "Barroso et al. 2019: DMEM with HEPES and FBS; n 0.5–1.1 µm"
+          data: other/buffer solutions/BME/nk/Barroso-HEPES-FBS.yml
     - DIVIDER: "Exotic stuff"
     - BOOK: metamaterials
       name: "Metamaterials"

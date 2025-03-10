@@ -1,0 +1,16 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+REFERENCES: |
+   Á. Barroso, R. Radhakrishnan, S. Ketelhut, J. Schnekenburger, B. Kemper.
+   Refractive index determination of buffer solutions from visible to near-infrared spectral range for multispectral quantitative phase imaging using a calibrated Abbe refractometer.
+   <a href="https://doi.org/10.1117/12.2509221"><i>Proc. SPIE</i> <b>10887</b>, 1088729 (2019)</a>
+COMMENTS: |
+    DMEM (Sigma-Aldrich) supplemented with 10% fetal bovine serum (FBS), 2 mM glutamine, 1 mM sodium pyruvate, and 1% penicillin-streptomycin. 22 °C.
+DATA:
+  - type: formula 3
+    wavelength_range: 0.5 1.1
+    coefficients: 1.7826 -0.0008 -2 0.0009 -4 -0.0171 2
+CONDITIONS:
+    temperature: 295

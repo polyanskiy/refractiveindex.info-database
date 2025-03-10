@@ -1,0 +1,16 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+NAMES:
+  - Basal Medium Eagle
+  - BME
+  - Dulbecco’s Modified Eagle Medium
+  - DMEM
+  
+ABOUT: |
+    Basal Medium Eagle (BME) is a widely used cell culture medium designed to support the growth of various mammalian cells in vitro. Developed by Harry Eagle, it provides essential nutrients, including amino acids, vitamins, salts, and glucose, necessary for cell maintenance and proliferation. BME serves as the foundation for more complex media, such as Dulbecco’s Modified Eagle Medium (DMEM), which contains higher glucose concentrations and additional supplements to support more demanding cell lines. The refractive index of BME and DMEM solutions, typically around 1.335–1.340 at 20°C, is crucial for optical applications such as phase-contrast and fluorescence microscopy. These media play a fundamental role in biomedical research, including tissue engineering, drug development, and molecular biology studies.
+
+LINKS:
+  - url: https://en.wikipedia.org/wiki/Eagle%27s_minimal_essential_medium
+    text: Eagle's minimal essential medium - Wikipedia
