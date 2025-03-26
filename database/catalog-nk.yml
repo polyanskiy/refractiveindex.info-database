@@ -2147,6 +2147,12 @@
         - PAGE: Stephens-vis
           name: "Stephens and Malitson 1952: n 0.405–0.768 µm"
           data: main/MgO/nk/Stephens-vis.yml
+        - PAGE: Synowicki-UV
+          name: "Synowicki and Tiwald 2004: n,k 0.13–17 µm"
+          data: main/MgO/nk/Synowicki-UV.yml
+        - PAGE: Synowicki-IR
+          name: "Synowicki and Tiwald 2004: n,k 1.7–33 µm"
+          data: main/MgO/nk/Synowicki-IR.yml
 #        - PAGE: Chernova
 #          name: "Chernova et al. 2017: n,k 0.14–1.67 µm"
 #          data: main/MgO/nk/Chernova.yml
@@ -2451,9 +2457,9 @@
         - PAGE: Wood
           name: "Wood and Nassau 1982: Cubic zirconia stabilized with yttria; n 0.361–5.14 µm"
           data: other/mixed crystals/ZrO2-Y2O3/nk/Wood.yml
-#        - PAGE: Synowicki-UV
-#          name: "Synowicki and Tiwald 2004: n,k 0.13–17 µm"
-#          data: main/ZrO2/nk/Synowicki-UV.yml
+        - PAGE: Synowicki-UV
+          name: "Synowicki and Tiwald 2004: n,k 0.13–17 µm"
+          data: main/ZrO2/nk/Synowicki-UV.yml
 #        - PAGE: Synowicki-IR
 #          name: "Synowicki and Tiwald 2004: n,k 1.7–33 µm"
 #          data: main/ZrO2/nk/Synowicki-IR.yml
@@ -2812,6 +2818,12 @@
         - PAGE: Slavich-abinitio-gamma
           name: "Slavich et al. 2024: Ab initio; n,k(γ) 0.299–2.07 µm"
           data: main/As2S3/nk/Slavich-abinitio-gamma.yml
+        - PAGE: Synowicki-UV
+          name: "Synowicki and Tiwald 2004: n,k 0.13–17 µm"
+          data: main/As2S3/nk/Synowicki-UV.yml
+#        - PAGE: Synowicki-IR
+#          name: "Synowicki and Tiwald 2004: n,k 1.7–33 µm"
+#          data: main/As2S3/nk/Synowicki-IR.yml
     - BOOK: BaGa4S7
       name: "BaGa<sub>4</sub>S<sub>7</sub> (Barium gallium sulfide, BGS)"
       content:
