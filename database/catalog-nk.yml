@@ -2150,9 +2150,9 @@
         - PAGE: Synowicki-UV
           name: "Synowicki and Tiwald 2004: n,k 0.13–17 µm"
           data: main/MgO/nk/Synowicki-UV.yml
-        - PAGE: Synowicki-IR
-          name: "Synowicki and Tiwald 2004: n,k 1.7–33 µm"
-          data: main/MgO/nk/Synowicki-IR.yml
+#        - PAGE: Synowicki-IR
+#          name: "Synowicki and Tiwald 2004: n,k 1.7–33 µm"
+#          data: main/MgO/nk/Synowicki-IR.yml
 #        - PAGE: Chernova
 #          name: "Chernova et al. 2017: n,k 0.14–1.67 µm"
 #          data: main/MgO/nk/Chernova.yml
