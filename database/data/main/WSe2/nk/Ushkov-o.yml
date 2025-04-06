@@ -9,7 +9,7 @@ REFERENCES: |
     (Numerical data kindly provided by Georgy Ermolaev)
 COMMENTS: "WSe<sub>2</sub> nanoparticles with diameters from 5 to 150 nm synthesized by femtosecond laser ablation."
 CONDITIONS:
-    direcrion: o
+    direction: o
 DATA:
   - type: tabulated nk
     data: | 
