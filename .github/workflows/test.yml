@@ -1,7 +1,6 @@
 # This `test.yml` file defines a GitHub action that will run for all pull requests,
-# and for all pushes to main. It installs the python test libraries `parameterized`
-# and `pytest`, and then runs the `pytest` command. This automatically detects
-# `test_*.py` files and executes tests therein.
+# and for all pushes to dev. It installs the python test libraries and then runs the `pytest` command.
+# This automatically detects `test_*.py` files and executes tests therein.
 
 name: CI
 
