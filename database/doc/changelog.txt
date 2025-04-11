@@ -30,6 +30,8 @@
     main/MgO/nk/Synowicki-UV.yml
     main/ZrO2/nk/Synowicki-UV.yml
     main/As2S3/nk/Synowicki-UV.yml
+  corrections
+    'organic/C4H9NO - dimethylacetamide/nk/Li.yml' moved to 'organic/C8H11N - dimethylaniline/nk/Li.yml' (thanks to Alexey Sivokhin, Nizhny Novgorod State Technical University, Russia, for spotting the error!)
 
 
 ============================== 2025-02-23 ==============================

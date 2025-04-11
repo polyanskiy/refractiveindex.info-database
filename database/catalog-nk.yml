@@ -4644,6 +4644,12 @@
         - PAGE: Chang
           name: "Chang et al. 2024: n 0.4–2.0 µm"
           data: organic/C8H10 - xylene/nk/Chang.yml
+    - BOOK: pyridine
+      name: "C<sub>5</sub>H<sub>5</sub>N (Pyridine)"
+      content:
+        - PAGE: Chang
+          name: "Chang et al. 2024: n 0.4–2.0 µm"
+          data: organic/C5H5N - pyridine/nk/Chang.yml
     - BOOK: trichlorobenzene
       name: "C<sub>6</sub>H<sub>3</sub>Cl<sub>3</sub> (Trichlorobenzene, TCB)"
       content:
@@ -4662,18 +4668,18 @@
         - PAGE: Myers
           name: "Myers et al. 2018: n,k 1.28–25.0 µm"
           data: organic/C6H5NO2 - nitrobenzene/nk/Myers.yml
-    - BOOK: pyridine
-      name: "C<sub>5</sub>H<sub>5</sub>N (Pyridine)"
-      content:
-        - PAGE: Chang
-          name: "Chang et al. 2024: n 0.4–2.0 µm"
-          data: organic/C5H5N - pyridine/nk/Chang.yml
     - BOOK: pentafluorobenzonitrile
       name: "C<sub>7</sub>F<sub>5</sub>N (Pentafluorobenzonitrile)"
       content:
         - PAGE: Chang
           name: "Chang et al. 2024: n 0.4–2.0 µm"
           data: organic/C7F5N - pentafluorobenzonitrile/nk/Chang.yml
+    - BOOK: dimethylaniline
+      name: "C<sub>8</sub>H<sub>11</sub>N (Dimethylaniline, DMA)"
+      content:
+        - PAGE: Li
+          name: "Li et al. 2022: n 0.321–1.7 µm"
+          data: organic/C8H11N - dimethylaniline/nk/Li.yml
     - DIVIDER: "Heterocyclic compounds"
     - BOOK: dioxane
       name: "C<sub>4</sub>H<sub>8</sub>O<sub>2</sub> (Dioxane)"
@@ -4896,12 +4902,6 @@
         - PAGE: Myers
           name: "Myers et al. 2018: n,k 1.28–25.0 µm"
           data: organic/C3H9O3P - dimethyl methylphosphonate/nk/Myers.yml
-    - BOOK: dimethylacetamide
-      name: "C<sub>4</sub>H<sub>9</sub>NO (Dimethylacetamide, DMA)"
-      content:
-        - PAGE: Li
-          name: "Li et al. 2022: n 0.321–1.7 µm"
-          data: organic/C4H9NO - dimethylacetamide/nk/Li.yml
     - BOOK: diethyl_sulfite
       name: "C<sub>4</sub>H<sub>10</sub>O<sub>3</sub>S (Diethyl sulfite, DES)"
       content:
