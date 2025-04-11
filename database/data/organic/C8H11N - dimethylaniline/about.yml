@@ -1,0 +1,28 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+NAMES:
+  - N,N-Dimethylaniline
+  - C<sub>8</sub>H<sub>11</sub>N
+  - DMA
+  - Dimethylaniline
+  - N-Methylaniline, N-methyl-
+  - N,N-Dimethylbenzenamine
+  - Benzenamine, N,N-dimethyl-
+  - Aniline, dimethyl-
+  - Dimethylphenylamine
+
+ABOUT: |
+    N,N-Dimethylaniline (C<sub>8</sub>H<sub>11</sub>N, DMA) is an aromatic amine consisting of a benzene ring substituted with a dimethylamino group. It is a colorless to pale yellow oily liquid with a characteristic amine-like odor, which darkens upon exposure to air and light. Dimethylaniline is widely used as an intermediate in the production of dyes, antioxidants, and photographic chemicals. It also serves as a solvent and a reagent in organic synthesis. Due to its toxic and potentially carcinogenic properties, it should be handled with care in well-ventilated environments.
+
+    Chemical formula:
+    C<sub>6</sub>H<sub>5</sub>N(CH<sub>3</sub>)<sub>2</sub>
+
+LINKS:
+  - url: https://en.wikipedia.org/wiki/Dimethylaniline
+    text: Dimethylaniline - Wikipedia
+  - url: https://pubchem.ncbi.nlm.nih.gov/compound/949
+    text: Dimethylaniline - PubChem
+  - url: https://webbook.nist.gov/cgi/cbook.cgi?ID=C121697
+    text: Benzenamine, N,N-dimethyl - NIST Chemistry WebBook
