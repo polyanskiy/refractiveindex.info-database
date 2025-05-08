@@ -2290,12 +2290,12 @@
         - PAGE: Bright-nanocrystalline
           name: "Bright et al. 2013: Nanocrystalline film; n,k 0.5–1000 µm"
           data: main/Ta2O5/nk/Bright-nanocrystalline.yml
+        - PAGE: Franta
+          name: "Franta et al. 2025: n,k 0.116–400 µm"
+          data: main/Ta2O5/nk/Franta-2025.yml
         - PAGE: Rodriguez-de_Marcos
           name: "Rodríguez-de Marcos et al. 2016: n,k 0.03–1.5 µm"
           data: main/Ta2O5/nk/Rodriguez-de Marcos.yml
-        - PAGE: Franta
-          name: "Franta et al. 2015: n,k 0.114–125 µm"
-          data: main/Ta2O5/nk/Franta.yml
         - PAGE: Gao
           name: "Gao et al. 2012: n,k 0.35–1.8 µm"
           data: main/Ta2O5/nk/Gao.yml
