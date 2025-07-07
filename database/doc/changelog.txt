@@ -1,6 +1,7 @@
 ﻿============================== next release ==============================
 
-  
+  new data (thanks to Xin Jin, Istituto Italiano di Tecnologia, Genova, Italy, for submitting data!)
+    main/WSe2/nk/Jin.yml  
   new data (thanks to Daniel Franta!)
     main/Ta2O5/nk/Franta-2025.yml
   new data (thanks to Fabio Lisi, University of Tokyo, Japan, for suggesting data!)
@@ -34,6 +35,7 @@
     main/ZrO2/nk/Synowicki-UV.yml
     main/As2S3/nk/Synowicki-UV.yml
   corrections
+    specs/cargille/index-matching liquids/nk/BK7_matching_liquid.yml: fix 2nd coefficient of dispersion formula: 4.7089420E-5 --> 4.7089420E-3 (thanks to Jack Agnes, Bbinghamton University, USA, for reporting the error!)
     'organic/C4H9NO - dimethylacetamide/nk/Li.yml' moved to 'organic/C8H11N - dimethylaniline/nk/Li.yml' (thanks to Alexey Sivokhin, Nizhny Novgorod State Technical University, Russia, for spotting the error!)
 	main/Ta2O5/nk/Franta.yml is renamed to 'Franta-2015.yml' and removed from catalog-nk.yml
 
