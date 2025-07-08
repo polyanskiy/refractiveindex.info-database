@@ -5,8 +5,9 @@
 REFERENCES: |
     X. Jin, V. Aglieri, Y.-G. Jeong, A. Pezeshki, L. Skokan, M. Shagar, Y. Jia, P. Bianucci, A. Ruediger, E. Orgiu, A. Toma, L. Razzari.
     Enhanced terahertz spectroscopy of a monolayer transition metal dichalcogenide.
-    <a href="https://doi.org/10.1002/adfm.202419841"><i>AIP Conf. Proc.</i>, 2359, 020005 (2025)</a>
-    (Numerical data and calculation script kindly provided by Dr. Xin Jin)
+    <a href="https://doi.org/10.1002/adfm.202419841"><i>Adv. Funct. Mater.</i> <b>35</b>, 2419841 (2025)</a>
+    (Numerical data and calculation script kindly provided by Dr. Xin Jin)<br>
+    [<a href="https://github.com/polyanskiy/refractiveindex.info-scripts/blob/master/scripts/Jin%202025%20-%20WSe2.py">Calculation script (Python)</a>]
 COMMENTS: |
     Monolayer WSe<sub>2</sub>.
 DATA:
