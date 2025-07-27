@@ -12,7 +12,13 @@
     other/buffer solutions/BME/nk/Barroso-FBS.yml
     other/buffer solutions/BME/nk/Barroso-HEPES-FBS.yml
   new data (thanks to Georgy Ermolaev, XPANCEO, Dubai, United Arab Emirates, for submitting data in YAML format!)
-    main/WSe2/nk/Ushkov-o.yml
+    main/GeS2/nk/Slavich-alpha.yml
+	main/GeS2/nk/Slavich-beta.yml
+	main/GeS2/nk/Slavich-gamma.yml
+    main/GeS2/nk/Slavich-abinitio-alpha.yml
+	main/GeS2/nk/Slavich-abinitio-beta.yml
+	main/GeS2/nk/Slavich-abinitio-gamma.yml
+	main/WSe2/nk/Ushkov-o.yml
     main/WSe2/nk/Ushkov-e.yml
   new data
     specs/cargille/index-matching liquids/nk/acrylic_double_matching_liquid.yml
@@ -37,7 +43,7 @@
   corrections
     specs/cargille/index-matching liquids/nk/BK7_matching_liquid.yml: fix 2nd coefficient of dispersion formula: 4.7089420E-5 --> 4.7089420E-3 (thanks to Jack Agnes, Bbinghamton University, USA, for reporting the error!)
     'organic/C4H9NO - dimethylacetamide/nk/Li.yml' moved to 'organic/C8H11N - dimethylaniline/nk/Li.yml' (thanks to Alexey Sivokhin, Nizhny Novgorod State Technical University, Russia, for spotting the error!)
-	main/Ta2O5/nk/Franta.yml is renamed to 'Franta-2015.yml' and removed from catalog-nk.yml
+    main/Ta2O5/nk/Franta.yml is renamed to 'Franta-2015.yml' and removed from catalog-nk.yml
 
 
 ============================== 2025-02-23 ==============================

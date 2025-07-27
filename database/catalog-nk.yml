@@ -2931,6 +2931,29 @@
         - PAGE: Zotev-e
           name: "Zotev et al. 2023: n,k(e) 0.36–1.0 µm"
           data: main/GaS/nk/Zotev-e.yml
+    - BOOK: GeS2
+      name: "GeS<sub>2</sub> (Germanium disulfide)"
+      content:
+        - DIVIDER: "Experimental data"
+        - PAGE: Slavich-α
+          name: "Slavich et al. 1989: n,k(α) 0.250–1.70 µm"
+          data: main/GeS2/nk/Slavich-alpha.yml
+        - PAGE: Slavich-β
+          name: "Slavich et al. 1989: n,k(β) 0.250–1.70 µm"
+          data: main/GeS2/nk/Slavich-beta.yml
+        - PAGE: Slavich-γ
+          name: "Slavich et al. 1989: n(γ) 0.250–1.70 µm"
+          data: main/GeS2/nk/Slavich-gamma.yml
+        - DIVIDER: "Ab initio calculations"
+        - PAGE: Slavich-abinitio-α
+          name: "Slavich et al. 1989: n,k(α) 0.299–2.04 µm"
+          data: main/GeS2/nk/Slavich-abinitio-alpha.yml
+        - PAGE: Slavich-abinitio-β
+          name: "Slavich et al. 1989: n,k(β) 0.299–2.04 µm"
+          data: main/GeS2/nk/Slavich-abinitio-beta.yml
+        - PAGE: Slavich-abinitio-γ
+          name: "Slavich et al. 1989: n,k(γ) 0.299–2.04 µm"
+          data: main/GeS2/nk/Slavich-abinitio-gamma.yml
     - BOOK: HgS
       name: "HgS (Mercury sulfide)"
       content:
