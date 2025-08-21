@@ -1,5 +1,9 @@
 ﻿============================== next release ==============================
 
+  new data (thanks to Manuela Schiek, Johannes Kepler University of Linz, Austria, for submitting data!)
+    organic/C32H44N2O6 - SQIB/nk/Funke-alpha.yml
+    organic/C32H44N2O6 - SQIB/nk/Funke-beta.yml
+    organic/C32H44N2O6 - SQIB/nk/Funke-gamma.yml
   new data (thanks to Yeonghoon Jin, University of Wisconsin–Madison, USA, for submitting data in YAML format!)
     main/BN/nk/Rah-o.yml
     main/BN/nk/Rah-e.yml

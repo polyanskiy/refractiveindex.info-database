@@ -1,0 +1,21 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+NAMES:
+  - SQIB
+  - 2,4-bis[4-(N,N-diisobutylamino)-2,6-dihydroxyphenyl]squaraine
+  - C<sub>32</sub>H<sub>44</sub>N<sub>2</sub>O<sub>6</sub>
+
+ABOUT: |
+    SQIB is a squaraine dye molecule widely studied for its strong absorption in the near-infrared region and excellent photostability. With a molecular formula of C<sub>32</sub>H<sub>44</sub>N<sub>2</sub>O<sub>6</sub>, it consists of a central squaraine core linked to substituted diisobutylamino-hydroxyphenyl groups. The abbreviation <i>SQIB</i> comes from “SQ” for squaraine and “IB” for the diisobutyl substituents.<br>
+    SQIB is most often investigated in its <i>crystalline form</i>, where the molecules arrange into ordered π–π stacked structures. These single crystals and crystalline thin films exhibit sharp and intense absorption bands, strong excitonic coupling, and anisotropic optical properties that depend on crystal orientation.<br>
+    The bulky alkyl substituents improve solubility in organic solvents and facilitate the growth of high-quality films and crystals. SQIB crystals are of significant interest for organic photovoltaics (OPVs), organic field-effect transistors (OFETs), near-infrared photodetectors, and fundamental studies of exciton transport and molecular aggregation.<br>
+    Owing to its strong optical response, tunable self-assembly, and crystalline order, SQIB remains an important model compound in the design of next-generation optoelectronic materials.
+LINKS:
+  - url: https://en.wikipedia.org/wiki/Squaraine_dye
+    text: Squaraine dye - Wikipedia
+  - url: https://www.sigmaaldrich.com/US/en/product/aldrich/758337
+    text: SQIB – Sigma-Aldrich
+  - url: https://www.glpbio.com/2-4-bis-4-n-n-diisobutylamino-2-6-dihydroxyphenyl-squaraine.html
+    text: SQIB – GLPBio

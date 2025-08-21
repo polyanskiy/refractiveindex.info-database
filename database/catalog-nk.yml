@@ -4987,7 +4987,19 @@
         - PAGE: Seckin
           name: "Seçkin et al. 2023: n,k 0.193–1.69 µm"
           data: organic/C28H31ClN2O3 - Rhodamine 6G/nk/Seckin.yml
-    - BOOK: C50H80N2O4 - ProSQ-C16
+    - BOOK: SQIB
+      name: "C<sub>32</sub>H<sub>44</sub>N<sub>2</sub>O<sub>6</sub> (SQIB)"
+      content:
+        - PAGE: Funke-α
+          name: "Funke et al. 2011: n,k(α) 0.450–0.900 µm"
+          data: organic/C32H44N2O6 - SQIB/nk/Funke-alpha.yml
+        - PAGE: Funke-β
+          name: "Funke et al. 2021: n,k(β) 0.450–0.900 µm"
+          data: organic/C32H44N2O6 - SQIB/nk/Funke-beta.yml
+        - PAGE: Funke-γ
+          name: "Funke et al. 2021: n,k(γ) 0.450–0.900 µm"
+          data: organic//C32H44N2O6 - SQIB/nk/Funke-gamma.yml
+    - BOOK: ProSQ-C16
       name: "C<sub>50</sub>H<sub>80</sub>N<sub>2</sub>O<sub>4</sub> (ProSQ-C16)"
       content:
         - PAGE: Bernhardt-SS-RR-o
