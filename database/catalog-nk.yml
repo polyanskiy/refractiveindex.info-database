@@ -3792,10 +3792,25 @@
         - PAGE: Salzberg
           name: "Salzberg and Villa 1957: n 1.36–11 µm"
           data: main/Si/nk/Salzberg.yml
-        - DIVIDER: "Amorphous silicon (α-Si)"
+        - DIVIDER: "Amorphous silicon (a-Si)"
         - PAGE: Pierce
-          name: "Pierce and Spicer 1972: α-Si; n,k 0.0103–2.07 µm"
+          name: "Pierce and Spicer 1972: n,k 0.0103–2.07 µm"
           data: main/Si/nk/Pierce.yml
+        - PAGE: Karaman-20C
+          name: "Karaman et al. 2025: n,k 0.21–2.5 µm; 20 °C"
+          data: main/Si/nk/Karaman-20C.yml
+        - PAGE: Karaman-70C
+          name: "Karaman et al. 2025: n,k 0.21–2.5 µm; 70 °C"
+          data: main/Si/nk/Karaman-70C.yml
+        - PAGE: Karaman-120C
+          name: "Karaman et al. 2025: n,k 0.21–2.5 µm; 120 °C"
+          data: main/Si/nk/Karaman-120C.yml
+        - PAGE: Karaman-170C
+          name: "Karaman et al. 2025: n,k 0.21–2.5 µm; 170 °C"
+          data: main/Si/nk/Karaman-170C.yml
+        - PAGE: Karaman-220C
+          name: "Karaman et al. 2025: n,k 0.21–2.5 µm; 220 °C"
+          data: main/Si/nk/Karaman-220C.yml
         - PAGE: Franta
           name: "Franta et al. 2013: n,k 0.138–26.9 µm"
           data: main/Si/nk/Franta.yml

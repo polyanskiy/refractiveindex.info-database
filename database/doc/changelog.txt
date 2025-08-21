@@ -1,5 +1,11 @@
 ﻿============================== next release ==============================
 
+  new data (thanks to Can Karaman, École Polytechnique Fédérale de Lausanne, Switzerland, for submitting data in YAML format!)
+    main/Si/nk/Karaman-20C.yml
+    main/Si/nk/Karaman-70C.yml
+    main/Si/nk/Karaman-120C.yml
+    main/Si/nk/Karaman-170C.yml
+    main/Si/nk/Karaman-220C.yml
   new data (thanks to Manuela Schiek, Johannes Kepler University of Linz, Austria, for submitting data!)
     organic/C32H44N2O6 - SQIB/nk/Funke-alpha.yml
     organic/C32H44N2O6 - SQIB/nk/Funke-beta.yml
