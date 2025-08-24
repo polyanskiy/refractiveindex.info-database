@@ -2562,6 +2562,18 @@
     - BOOK: ZnGeP2
       name: "ZnGeP<sub>2</sub> (Zinc germanium phosphide, ZGP)"
       content:
+        - PAGE: Boyd-20C-o
+          name: "Boyd et al. 1971: n(o) 0.64–12 µm; 20 °C"
+          data: main/ZnGeP2/nk/Boyd-20C-o.yml
+        - PAGE: Boyd-20C-e
+          name: "Boyd et al. 1971: n(e) 0.64–12 µm; 20 °C"
+          data: main/ZnGeP2/nk/Boyd-20C-e.yml
+        - PAGE: Boyd-70C-o
+          name: "Boyd et al. 1971: n(o) 0.64–12 µm; 70 °C"
+          data: main/ZnGeP2/nk/Boyd-70C-o.yml
+        - PAGE: Boyd-70C-e
+          name: "Boyd et al. 1971: n(e) 0.64–12 µm; 70 °C"
+          data: main/ZnGeP2/nk/Boyd-70C-e.yml
         - PAGE: Das-o
           name: "Das et al. 2003: n(o) 1.32–11 µm"
           data: main/ZnGeP2/nk/Das-o.yml
@@ -2574,18 +2586,60 @@
         - PAGE: Zelmon-e
           name: "Zelmon et al. 2001: n(e) 2–9 µm"
           data: main/ZnGeP2/nk/Zelmon-e.yml
-        - PAGE: Boyd-20-o
-          name: "Boyd et al. 1971: n(o) 0.64–12 µm; 20 °C"
-          data: main/ZnGeP2/nk/Boyd-20-o.yml
-        - PAGE: Boyd-20-e
-          name: "Boyd et al. 1971: n(e) 0.64–12 µm; 20 °C"
-          data: main/ZnGeP2/nk/Boyd-20-e.yml
-        - PAGE: Boyd-70-o
-          name: "Boyd et al. 1971: n(o) 0.64–12 µm; 70 °C"
-          data: main/ZnGeP2/nk/Boyd-70-o.yml
-        - PAGE: Boyd-70-e
-          name: "Boyd et al. 1971: n(e) 0.64–12 µm; 70 °C"
-          data: main/ZnGeP2/nk/Boyd-70-e.yml
+        - PAGE: Ghosh-100K-o
+          name: "Ghosh 1998: n(o) 0.7–12 µm; 100 K"
+          data: main/ZnGeP2/nk/Ghosh-100K-o.yml
+        - PAGE: Ghosh-100K-e
+          name: "Ghosh 1998: n(e) 0.7–12 µm; 100 K"
+          data: main/ZnGeP2/nk/Ghosh-100K-e.yml
+        - PAGE: Ghosh-150K-o
+          name: "Ghosh 1998: n(o) 0.7–12 µm; 150 K"
+          data: main/ZnGeP2/nk/Ghosh-150K-o.yml
+        - PAGE: Ghosh-150K-e
+          name: "Ghosh 1998: n(e) 0.7–12 µm; 150 K"
+          data: main/ZnGeP2/nk/Ghosh-150K-e.yml
+        - PAGE: Ghosh-200K-o
+          name: "Ghosh 1998: n(o) 0.7–12 µm; 200 K"
+          data: main/ZnGeP2/nk/Ghosh-200K-o.yml
+        - PAGE: Ghosh-200K-e
+          name: "Ghosh 1998: n(e) 0.7–12 µm; 200 K"
+          data: main/ZnGeP2/nk/Ghosh-200K-e.yml
+        - PAGE: Ghosh-250K-o
+          name: "Ghosh 1998: n(o) 0.7–12 µm; 250 K"
+          data: main/ZnGeP2/nk/Ghosh-250K-o.yml
+        - PAGE: Ghosh-250K-e
+          name: "Ghosh 1998: n(e) 0.7–12 µm; 250 K"
+          data: main/ZnGeP2/nk/Ghosh-250K-e.yml
+        - PAGE: Ghosh-300K-o
+          name: "Ghosh 1998: n(o) 0.7–12 µm; 300 K"
+          data: main/ZnGeP2/nk/Ghosh-300K-o.yml
+        - PAGE: Ghosh-300K-e
+          name: "Ghosh 1998: n(e) 0.7–12 µm; 300 K"
+          data: main/ZnGeP2/nk/Ghosh-300K-e.yml
+        - PAGE: Ghosh-350K-o
+          name: "Ghosh 1998: n(o) 0.7–12 µm; 350 K"
+          data: main/ZnGeP2/nk/Ghosh-350K-o.yml
+        - PAGE: Ghosh-350K-e
+          name: "Ghosh 1998: n(e) 0.7–12 µm; 350 K"
+          data: main/ZnGeP2/nk/Ghosh-350K-e.yml
+        - PAGE: Ghosh-400K-o
+          name: "Ghosh 1998: n(o) 0.7–12 µm; 400 K"
+          data: main/ZnGeP2/nk/Ghosh-400K-o.yml
+        - PAGE: Ghosh-400K-e
+          name: "Ghosh 1998: n(e) 0.7–12 µm; 400 K"
+          data: main/ZnGeP2/nk/Ghosh-400K-e.yml
+        - PAGE: Ghosh-450K-o
+          name: "Ghosh 1998: n(o) 0.7–12 µm; 450 K"
+          data: main/ZnGeP2/nk/Ghosh-450K-o.yml
+        - PAGE: Ghosh-450K-e
+          name: "Ghosh 1998: n(e) 0.7–12 µm; 450 K"
+          data: main/ZnGeP2/nk/Ghosh-450K-e.yml
+        - PAGE: Ghosh-500K-o
+          name: "Ghosh 1998: n(o) 0.7–12 µm; 500 K"
+          data: main/ZnGeP2/nk/Ghosh-500K-o.yml
+        - PAGE: Ghosh-500K-e
+          name: "Ghosh 1998: n(e) 0.7–12 µm; 500 K"
+          data: main/ZnGeP2/nk/Ghosh-500K-e.yml
     - BOOK: KH2PO4
       name: "KH<sub>2</sub>PO<sub>4</sub> (Potassium dihydrogen phosphate, KDP)"
       content:

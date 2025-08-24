@@ -1,5 +1,24 @@
 ﻿============================== next release ==============================
-
+  
+  new data
+    main/ZnGeP2/nk/Ghosh-100K-o.yml
+    main/ZnGeP2/nk/Ghosh-100K-e.yml
+    main/ZnGeP2/nk/Ghosh-150K-o.yml
+    main/ZnGeP2/nk/Ghosh-150K-e.yml
+    main/ZnGeP2/nk/Ghosh-200K-o.yml
+    main/ZnGeP2/nk/Ghosh-200K-e.yml
+    main/ZnGeP2/nk/Ghosh-250K-o.yml
+    main/ZnGeP2/nk/Ghosh-250K-e.yml
+    main/ZnGeP2/nk/Ghosh-300K-o.yml
+    main/ZnGeP2/nk/Ghosh-300K-e.yml
+    main/ZnGeP2/nk/Ghosh-350K-o.yml
+    main/ZnGeP2/nk/Ghosh-350K-e.yml
+    main/ZnGeP2/nk/Ghosh-400K-o.yml
+    main/ZnGeP2/nk/Ghosh-400K-e.yml
+    main/ZnGeP2/nk/Ghosh-450K-o.yml
+    main/ZnGeP2/nk/Ghosh-450K-e.yml
+    main/ZnGeP2/nk/Ghosh-500K-o.yml
+    main/ZnGeP2/nk/Ghosh-500K-e.yml
   new data (thanks to Can Karaman, École Polytechnique Fédérale de Lausanne, Switzerland, for submitting data in YAML format!)
     main/Si/nk/Karaman-20C.yml
     main/Si/nk/Karaman-70C.yml
