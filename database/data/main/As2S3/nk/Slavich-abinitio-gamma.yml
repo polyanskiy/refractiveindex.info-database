@@ -9,6 +9,8 @@ REFERENCES: |
     (Numerical data kindly provided by Georgy Ermolaev)
 COMMENTS: |
     γ-axis. Ab initio calculations.
+CONDITIONS:
+    direction: gamma
 DATA:
   - type: tabulated nk
     data: |

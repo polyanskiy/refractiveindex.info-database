@@ -9,6 +9,8 @@ REFERENCES: |
     (Numerical data kindly provided by Dr. Georgy Ermolaev)
 COMMENTS: |
     n(γ),k(γ). Ab initio calculations.
+CONDITIONS:
+    direction: gamma
 DATA:
   - type: tabulated nk
     data: | 

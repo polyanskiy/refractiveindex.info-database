@@ -9,6 +9,8 @@ REFERENCES: |
     (Numerical data kindly provided by Dr. Georgy Ermolaev)
 COMMENTS: |
     n(γ). Experimental data.
+CONDITIONS:
+    direction: gamma
 DATA:
   - type: tabulated n
     data: | 

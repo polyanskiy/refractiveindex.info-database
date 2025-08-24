@@ -11,7 +11,9 @@ REFERENCES: |
     <a href="https://doi.org/10.1364/AO.15.0305_1"><i>Appl. Opt.</i> <b>15</b>, 305-307 (1976)</a><br>
     *Ref. 2 provides a dispersion formula based on data from Ref. 1
 COMMENTS: |
-    Ordinary ray (e)
+    Ordinary ray (o)
+CONDITIONS:
+    direction: o
 DATA:
   - type: formula 2
     wavelength_range: 0.7 11.5

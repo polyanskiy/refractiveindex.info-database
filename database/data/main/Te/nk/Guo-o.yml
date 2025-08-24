@@ -9,6 +9,8 @@ REFERENCES: |
     (Numerical data kindly provided by Zhengfeng Guo)
 COMMENTS: |
     Tellurene. Ordinary ray (o).
+CONDITIONS:
+    direction: o
 DATA:
   - type: tabulated nk
     data: |

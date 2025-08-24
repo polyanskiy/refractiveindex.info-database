@@ -9,6 +9,8 @@ REFERENCES: |
     (Numerical data kindly provided by Panaiot Zotev)
 COMMENTS: |
     Multilayer crystals. In-plane (ordinary ray, o). Room temperature.
+CONDITIONS:
+    direction: o
 DATA:
   - type: tabulated nk
     data: |

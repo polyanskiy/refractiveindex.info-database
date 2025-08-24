@@ -9,6 +9,8 @@ REFERENCES: |
     (Numerical data kindly provided by Dr. Georgy Ermolaev)
 COMMENTS: |
     n(β),k(β). Ab initio calculations.
+CONDITIONS:
+    direction: beta
 DATA:
   - type: tabulated nk
     data: | 

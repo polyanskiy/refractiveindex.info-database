@@ -9,6 +9,10 @@ REFERENCES: |
     (Numerical data kindly provided by Georgy Ermolaev)
 COMMENTS: |
     Monolayer of aligned single-walled carbon nanotubes (SWCNTs). Ordinary ray (o).
+CONDITIONS:
+    substrate: SiO2
+    film_thickness: 1L
+    direction: o
 DATA:
   - type: tabulated nk
     data: |
@@ -1463,6 +1467,3 @@ DATA:
         1.698 1.99802 0.97673
         1.699 1.99840 0.97707
         1.700 1.99878 0.97740
-CONDITIONS:
-    substrate: SiO2
-    film_thickness: 1L

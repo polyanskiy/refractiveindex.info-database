@@ -8,6 +8,9 @@ REFERENCES: |
     <a href="https://doi.org/10.1364/JOSA.54.001215"><i>J. Opt. Soc. Am.</i> <b>54</b>, 1215-1219 (1964)</a>.
 COMMENTS: |
     24.8 °C. Ordinary ray (o).
+CONDITIONS:
+    temperature: 297.95
+    direction: o
 DATA:
   - type: formula 4
     wavelength_range: 0.2138 1.529

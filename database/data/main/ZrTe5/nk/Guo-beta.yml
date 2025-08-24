@@ -9,6 +9,8 @@ REFERENCES: |
     (Numerical data kindly provided by Zhengfeng Guo)
 COMMENTS: |
     n<sub>β</sub>, k<sub>β</sub>; room temperature.
+CONDITIONS:
+    direction: beta
 DATA:
   - type: tabulated nk
     data: |

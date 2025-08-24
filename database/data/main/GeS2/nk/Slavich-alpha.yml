@@ -9,6 +9,8 @@ REFERENCES: |
     (Numerical data kindly provided by Dr. Georgy Ermolaev)
 COMMENTS: |
     n(α),k(α). Experimental data.
+CONDITIONS:
+    direction: alpha
 DATA:
   - type: tabulated nk
     data: | 

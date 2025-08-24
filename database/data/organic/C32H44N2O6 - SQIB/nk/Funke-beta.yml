@@ -9,6 +9,8 @@ REFERENCES: |
     (Numerical data kindly provided by Manuela Schiek)
 COMMENTS: |
     n<sub>β</sub>, k<sub>β</sub> (a-axis).
+CONDITIONS:
+    direction: beta
 DATA:
   - type: tabulated nk
     data: |

@@ -9,6 +9,8 @@ REFERENCES: |
     [<a href="https://github.com/polyanskiy/refractiveindex.info-scripts/blob/master/scripts/Ninomiya%201995%20-%20hexagonal%20CdSe-o.py">Calculation script (Python)</a>]
 COMMENTS: |
     Hexagonal CdSe. Fit of author's experimental data to a simplified model of the interband transitions (MDF). Ordinary ray (o), room temperature.
+CONDITIONS:
+    direction: o
 DATA:
   - type: tabulated nk
     data: |

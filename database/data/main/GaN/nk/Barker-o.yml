@@ -8,6 +8,9 @@ REFERENCES: |
     <a href="https://doi.org/10.1103/PhysRevB.7.743"><i>Phys. Rev. B</i> <b>7</b>, 743-750 (1973)</a>
 COMMENTS: |
     α-GaN (wurtzite); Ordinary ray (o); 300 K (27 °C).
+CONDITIONS:
+    temperature: 300
+    direction: o
 DATA:
   - type: formula 1
     wavelength_range: 0.35 10

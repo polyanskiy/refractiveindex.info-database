@@ -12,3 +12,4 @@ DATA:
     coefficients: 3.784201 0.070662 0 0.047693 1 0 0 0 1 -0.009539 2
 CONDITIONS:
     temperature: 383
+    direction: o

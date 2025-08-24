@@ -8,6 +8,8 @@ REFERENCES: |
     <a href="https://doi.org/10.1002/lpor.201300068"><i>Laser Photonics Rev.</i> <b>7</b>, 831–838 (2013)</a>
 COMMENTS: |
     4H-SiC (hexagonal crystal structure); Ordinary ray (o)
+CONDITIONS:
+    direction: o
 DATA:
   - type: formula 2
     wavelength_range: 0.4047 5

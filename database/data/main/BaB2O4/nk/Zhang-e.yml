@@ -8,6 +8,8 @@ REFERENCES: |
     <a href="https://doi.org/10.1016/S0030-4018(00)00968-8"><i>Opt. Commun.</i>, <b>184</b>, 485-491 (2000)</a>
 COMMENTS: |
     Beta barium borate (ß-BaB<sub>2</sub>O<sub>4</sub>, BBO). Extraordinary ray (e). Near infrared.
+CONDITIONS:
+    direction: e
 DATA:
   - type: formula 4
     wavelength_range: 0.64 3.18

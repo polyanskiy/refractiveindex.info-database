@@ -9,6 +9,10 @@ REFERENCES: |
     (Numerical data kindly provided by Kazi Islam)
 COMMENTS: |
     Thin film (step height 33.5 nm). Out-of-plane (extraordinary ray, e).
+CONDITIONS:
+    film_thickness: 33.5e-9
+    substrate: SiO2/Si
+    direction: e
 DATA:
   - type: tabulated n
     data: |
@@ -339,6 +343,3 @@ DATA:
         1.695 2.94124
         1.698 2.94121
         1.700 2.94117
-CONDITIONS:
-    film_thickness: 33.5e-9
-    substrate: SiO2/Si

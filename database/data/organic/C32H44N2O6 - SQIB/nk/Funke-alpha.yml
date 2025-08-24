@@ -9,6 +9,8 @@ REFERENCES: |
     (Numerical data kindly provided by Manuela Schiek)
 COMMENTS: |
     n<sub>α</sub>, k<sub>α</sub> (c-axis).
+CONDITIONS:
+    direction: alpha
 DATA:
   - type: tabulated nk
     data: |

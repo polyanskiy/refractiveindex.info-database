@@ -9,6 +9,9 @@ REFERENCES: |
     As cited in Handbook of Optics, 3rd edition, Vol. 4. McGraw-Hill 2009.
 COMMENTS: |
     24.8 °C. Extraordinary ray (e).
+CONDITIONS:
+    temperature: 297.95
+    direction: e
 DATA:
   - type: formula 4
     wavelength_range: 0.2138 1.529

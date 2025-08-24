@@ -9,6 +9,10 @@ REFERENCES: |
     (Numerical data kindly provided by Kazi Islam)
 COMMENTS: |
     Few-layer film (step height 2.15 nm). In-plane (ordinary ray, o).
+CONDITIONS:
+    film_thickness: 2.15e-9
+    substrate: SiO2/Si
+    direction: o
 DATA:
   - type: tabulated nk
     data: |
@@ -1103,6 +1107,3 @@ DATA:
         1.695 2.72119 0.10830
         1.698 2.71957 0.10892
         1.700 2.71796 0.10958
-CONDITIONS:
-    film_thickness: 2.15e-9
-    substrate: SiO2/Si

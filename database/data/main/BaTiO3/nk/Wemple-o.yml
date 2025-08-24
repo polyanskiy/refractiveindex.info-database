@@ -6,6 +6,8 @@ REFERENCES: |
     S.H. Wemple, M. Didomenico Jr., and I. Camlibel. Dielectric and optical properties of melt-grown BaTiO<sub>3</sub>, <a href="    https://doi.org/10.1016/0022-3697(68)90164-9"><i>J. Phys. Chem. Solids</i> <b>29</b>, 1797-1803 (1968)</a>
 COMMENTS: |
     Ordinary ray (o). Room temperature.
+CONDITIONS:
+    direction: o
 DATA:
   - type: formula 1
     wavelength_range: 0.4 0.7

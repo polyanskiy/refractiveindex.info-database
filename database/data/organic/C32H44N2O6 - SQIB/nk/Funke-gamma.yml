@@ -9,6 +9,8 @@ REFERENCES: |
     (Numerical data kindly provided by Manuela Schiek)
 COMMENTS: |
     n<sub>γ</sub>, k<sub>γ</sub> (b-axis).
+CONDITIONS:
+    direction: gamma
 DATA:
   - type: tabulated nk
     data: |

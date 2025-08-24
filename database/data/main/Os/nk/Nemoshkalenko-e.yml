@@ -6,6 +6,8 @@ REFERENCES: |
     V. V. Nemoshkalenko, V. N. Antonov, VI. N. Antonov, M. M. Kirillova, A. E. Krasovskii, L. V. Nomerovannaya. The structure of the energy bands and optical absorption in osmium, <a href="http://www.jetp.ac.ru/cgi-bin/e/index/e/63/1/p115?a=list"><i>Sov. Phys. JETP.</i> <b>63</b>, 115-119 (1968)</a>
 COMMENTS: |
     Extraordinary ray (e)
+CONDITIONS:
+    direction: e
 DATA:
   - type: tabulated nk
     data: |

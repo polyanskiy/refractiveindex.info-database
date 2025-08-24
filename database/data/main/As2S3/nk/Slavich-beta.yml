@@ -9,6 +9,8 @@ REFERENCES: |
     (Numerical data kindly provided by Georgy Ermolaev)
 COMMENTS: |
     β-axis.
+CONDITIONS:
+    direction: beta
 DATA:
   - type: tabulated n
     data: |

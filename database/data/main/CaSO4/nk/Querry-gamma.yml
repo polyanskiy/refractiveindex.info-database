@@ -6,6 +6,8 @@ REFERENCES: |
     M. R. Querry. Optical constants of minerals and other materials from the millimeter to the ultraviolet, <a href="https://apps.dtic.mil/sti/citations/ADA192210"><i>Contractor Report</i> CRDEC-CR-88009 (1987)</a>
 COMMENTS: |
     n<sub>γ</sub>, k<sub>γ</sub>.
+CONDITIONS:
+    direction: gamma
 DATA:
   - type: tabulated nk
     data: |

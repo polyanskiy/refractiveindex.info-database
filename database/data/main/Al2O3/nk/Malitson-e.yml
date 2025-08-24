@@ -12,6 +12,9 @@ REFERENCES: |
     * Ref. 1 is a talk abstract in a conference program; Ref. 2 provides a dispersion formula
 COMMENTS: |
     Synthetic sapphire, Extraordinary ray (e), 20 °C
+CONDITIONS:
+    temperature: 293
+    direction: e
 DATA:
   - type: formula 1
     wavelength_range: 0.20 5.0

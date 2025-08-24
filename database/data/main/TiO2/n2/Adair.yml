@@ -15,3 +15,4 @@ DATA:
 CONDITIONS:
     n2_method: TWM
     pulse_duration: 3e-9
+    direction: o
