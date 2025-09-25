@@ -3868,6 +3868,22 @@
         - PAGE: Franta
           name: "Franta et al. 2013: n,k 0.138–26.9 µm"
           data: main/Si/nk/Franta.yml
+        - DIVIDER: "Thin film"
+        - PAGE: Wang-25C
+          name: "Wang et al. 2025: n,k 0.400–1.31 µm; 25 °C"
+          data: main/Si/nk/Wang-25C.yml
+        - PAGE: Wang-35C
+          name: "Wang et al. 2025: n,k 0.400–1.31 µm; 35 °C"
+          data: main/Si/nk/Wang-35C.yml
+        - PAGE: Wang-45C
+          name: "Wang et al. 2025: n,k 0.400–1.31 µm; 45 °C"
+          data: main/Si/nk/Wang-45C.yml
+        - PAGE: Wang-55C
+          name: "Wang et al. 2025: n,k 0.400–1.31 µm; 55 °C"
+          data: main/Si/nk/Wang-55C.yml
+        - PAGE: Wang-65C
+          name: "Wang et al. 2025: n,k 0.400–1.31 µm; 65 °C"
+          data: main/Si/nk/Wang-65C.yml
     - BOOK: Bi12SiO20
       name: "Bi<sub>12</sub>SiO<sub>20</sub> (Bismuth silicate, BSO)"
       content:
@@ -6750,7 +6766,7 @@
           name: "BK7G18"
           data: specs/schott/optical/BK7G18.yml
         - PAGE: N-BK7
-          name: "SCHOTT N-BK7®"
+          name: "N-BK7"
           data: specs/schott/optical/N-BK7.yml
         - PAGE: N-BK7HT
           name: "N-BK7HT"

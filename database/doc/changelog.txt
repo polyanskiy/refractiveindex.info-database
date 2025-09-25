@@ -1,5 +1,11 @@
 ﻿============================== next release ==============================
   
+  new data (thanks to Qifan Zheng, University of Wisconsin-Madison, USA, for submitting data)
+    main/Si/nk/Wang-25C.yml
+    main/Si/nk/Wang-35C.yml
+    main/Si/nk/Wang-45C.yml
+    main/Si/nk/Wang-55C.yml
+    main/Si/nk/Wang-65C.yml
   new data
     main/ZnGeP2/nk/Ghosh-100K-o.yml
     main/ZnGeP2/nk/Ghosh-100K-e.yml
