@@ -8,7 +8,7 @@ REFERENCES: |
     <a href="https://doi.org/10.1063/5.0276240"><i>Appl. Phys. Lett.</i> <b>127</b>, 061103 (2025)</a>
     (Numerical data kindly provided by Qifan Zheng)
 COMMENTS: |
-    Temperature 35 °C."
+    35 °C. Silicon-on-insulator (SOI) wafer. Measurement method: ellipsometry.
 CONDITIONS:
     temperature: 308
     film_thickness: 224e-9
