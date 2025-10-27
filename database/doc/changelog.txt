@@ -1,6 +1,33 @@
 ﻿============================== next release ==============================
   
-  new data (thanks to Qifan Zheng, University of Wisconsin-Madison, USA, for submitting data)
+  new data (thanks to Julien Cardin, Normandie Université, France, for submitting data in YAML format!)
+    main/Ta2O5/nk/Cheikh-amorphous-3.28-4-25.yml
+    main/Ta2O5/nk/Cheikh-amorphous-3.28-8-25.yml
+    main/Ta2O5/nk/Cheikh-amorphous-3.28-12-25.yml
+    main/Ta2O5/nk/Cheikh-amorphous-3.28-16-25.yml
+    main/Ta2O5/nk/Cheikh-amorphous-4.38-8-25.yml
+    main/Ta2O5/nk/Cheikh-amorphous-5.48-8-25.yml
+    main/Ta2O5/nk/Cheikh-amorphous-6.75-8-25.yml
+    main/Ta2O5/nk/Cheikh-amorphous-3.28-8-450.yml
+    main/Ta2O5/nk/Cheikh-amorphous-3.28-8-550.yml
+    main/Ta2O5/nk/Cheikh-crystalline-3.28-8-650.yml
+    main/Ta2O5/nk/Cheikh-crystalline-3.28-8-750.yml
+    main/Ta2O5/nk/Cheikh-crystalline-3.28-8-850.yml
+  new data (thanks to Yury Geints, Institute of Atmospheric Optics, Tomsk, Russia, for suggesting data!)
+    main/Ar/n2/Geints-5bar.yml
+    main/Ar/n2/Geints-11bar.yml
+    main/N2/n2/Geints-5bar-50fs.yml
+    main/N2/n2/Geints-11bar-50fs.yml
+    main/N2/n2/Geints-1bar-500fs.yml
+    main/N2/n2/Geints-5bar-500fs.yml
+    main/N2/n2/Geints-11bar-500fs.yml
+    main/CO2/n2/Geints-1bar-50fs.yml
+    main/CO2/n2/Geints-5bar-50fs.yml
+    main/CO2/n2/Geints-11bar-50fs.yml
+    main/CO2/n2/Geints-1bar-500fs.yml
+    main/CO2/n2/Geints-5bar-500fs.yml
+    main/CO2/n2/Geints-11bar-500fs.yml
+  new data (thanks to Qifan Zheng, University of Wisconsin-Madison, USA, for submitting data!)
     main/Si/nk/Wang-25C.yml
     main/Si/nk/Wang-35C.yml
     main/Si/nk/Wang-45C.yml

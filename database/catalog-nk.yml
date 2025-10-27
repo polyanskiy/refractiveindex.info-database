@@ -2288,16 +2288,37 @@
     - BOOK: Ta2O5
       name: "Ta<sub>2</sub>O<sub>5</sub> (Tantalum pentoxide)"
       content:
-        - DIVIDER: "Thin film"
+        - DIVIDER: "Amorphous thin film"
         - PAGE: Bright-amorphous
-          name: "Bright et al. 2013: Amorphous film; n,k 0.5–1000 µm"
+          name: "Bright et al. 2013: n,k 0.5–1000 µm"
           data: main/Ta2O5/nk/Bright-amorphous.yml
-        - PAGE: Bright-nanocrystalline
-          name: "Bright et al. 2013: Nanocrystalline film; n,k 0.5–1000 µm"
-          data: main/Ta2O5/nk/Bright-nanocrystalline.yml
-        - PAGE: Franta-2025
-          name: "Franta et al. 2025: n,k 0.116–400 µm"
-          data: main/Ta2O5/nk/Franta-2025.yml
+        - PAGE: Cheikh-amorphous-3.28-4-25
+          name: "Cheikh et al. 2025: Power 3.28, O2 4, As deposited; n,k 0.207–1.24 µm"
+          data: main/Ta2O5/nk/Cheikh-amorphous-3.28-4-25.yml
+        - PAGE: Cheikh-amorphous-3.28-8-25
+          name: "Cheikh et al. 2025: Power 3.28, O2 8, As deposited; n,k 0.207–1.24 µm"
+          data: main/Ta2O5/nk/Cheikh-amorphous-3.28-8-25.yml
+        - PAGE: Cheikh-amorphous-3.28-12-25
+          name: "Cheikh et al. 2025: Power 3.28, O2 12, As deposited; n,k 0.207–1.24 µm"
+          data: main/Ta2O5/nk/Cheikh-amorphous-3.28-12-25.yml
+        - PAGE: Cheikh-amorphous-3.28-16-25
+          name: "Cheikh et al. 2025: Power 3.28, O2 16, As deposited; n,k 0.207–1.24 µm"
+          data: main/Ta2O5/nk/Cheikh-amorphous-3.28-16-25.yml
+        - PAGE: Cheikh-amorphous-4.38-12-25
+          name: "Cheikh et al. 2025: Power 4.38, O2 12, As deposited; n,k 0.207–1.24 µm"
+          data: main/Ta2O5/nk/Cheikh-amorphous-4.38-12-25.yml
+        - PAGE: Cheikh-amorphous-5.48-12-25
+          name: "Cheikh et al. 2025: Power 5.48, O2 12, As deposited; n,k 0.207–1.24 µm"
+          data: main/Ta2O5/nk/Cheikh-amorphous-5.48-12-25.yml
+        - PAGE: Cheikh-amorphous-6.75-12-25
+          name: "Cheikh et al. 2025: Power 6.75, O2 12, As deposited; n,k 0.207–1.24 µm"
+          data: main/Ta2O5/nk/Cheikh-amorphous-6.75-12-25.yml
+        - PAGE: Cheikh-amorphous-3.28-8-450
+          name: "Cheikh et al. 2025: Power 3.28, O2 8, Anneal. 450; n,k 0.207–1.24 µm"
+          data: main/Ta2O5/nk/Cheikh-amorphous-3.28-8-450.yml
+        - PAGE: Cheikh-amorphous-3.28-8-550
+          name: "Cheikh et al. 2025: Power 3.28, O2 8, Anneal. 550; n,k 0.207–1.24 µm"
+          data: main/Ta2O5/nk/Cheikh-amorphous-3.28-8-550.yml
         - PAGE: Rodriguez-de_Marcos
           name: "Rodríguez-de Marcos et al. 2016: n,k 0.03–1.5 µm"
           data: main/Ta2O5/nk/Rodriguez-de Marcos.yml
@@ -2307,6 +2328,22 @@
         - PAGE: Gao
           name: "Gao et al. 2012: n,k 0.35–1.8 µm"
           data: main/Ta2O5/nk/Gao.yml
+        - DIVIDER: "Crystalline thin film"
+        - PAGE: Bright-nanocrystalline
+          name: "Bright et al. 2013: Nanocrystalline film; n,k 0.5–1000 µm"
+          data: main/Ta2O5/nk/Bright-nanocrystalline.yml
+        - PAGE: Franta-2025
+          name: "Franta et al. 2025: Polycrystalline; n,k 0.116–400 µm"
+          data: main/Ta2O5/nk/Franta-2025.yml
+        - PAGE: Cheikh-crystalline-3.28-8-650
+          name: "Cheikh et al. 2025: Power 3.28, O2 8, Anneal. 650; n,k 0.207–1.24 µm"
+          data: main/Ta2O5/nk/Cheikh-crystalline-3.28-8-650.yml
+        - PAGE: Cheikh-crystalline-3.28-8-750
+          name: "Cheikh et al. 2025: Power 3.28, O2 8, Anneal. 750; n,k 0.207–1.24 µm"
+          data: main/Ta2O5/nk/Cheikh-crystalline-3.28-8-750.yml
+        - PAGE: Cheikh-crystalline-3.28-8-850
+          name: "Cheikh et al. 2025: Power 3.28, O2 8, Anneal. 850; n,k 0.207–1.24 µm"
+          data: main/Ta2O5/nk/Cheikh-crystalline-3.28-8-850.yml
     - BOOK: Tb3Ga5O12
       name: "Tb<sub>3</sub>Ga<sub>5</sub>O<sub>12</sub> (Terbium gallium garnet, TGG)"
       content:
