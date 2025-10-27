@@ -32,6 +32,12 @@
     - BOOK: Ar
       name: "Ar (Argon)"
       content:
+        - PAGE: Geints-5bar
+          name: "Geints et al. 2025: 5 bar"
+          data: main/Ar/n2/Geints-5bar.yml
+        - PAGE: Geints-11bar
+          name: "Geints et al. 2025: 11 bar"
+          data: main/Ar/n2/Geints-11bar.yml
         - PAGE: Zahedpour
           name: "Zahedpour et al. 2015"
           data: main/Ar/n2/Zahedpour.yml
@@ -364,6 +370,21 @@
     - BOOK: N2
       name: "N<sub>2</sub> (Nitrogen)"
       content:
+        - PAGE: Geints-5bar-50fs
+          name: "Geints et al. 2025: Short pulse -5 bar"
+          data: main/N2/n2/Geints-5bar-50fs.yml
+        - PAGE: Geints-11bar-50fs
+          name: "Geints et al. 2025: Short pulse -11 bar"
+          data: main/N2/n2/Geints-11bar-50fs.yml
+        - PAGE: Geints-1bar-500fs
+          name: "Geints et al. 2025: Long pulse -1 bar"
+          data: main/N2/n2/Geints-1bar-500fs.yml
+        - PAGE: Geints-5bar-500fs
+          name: "Geints et al. 2025: Long pulse -5 bar"
+          data: main/N2/n2/Geints-5bar-500fs.yml
+        - PAGE: Geints-11bar-500fs
+          name: "Geints et al. 2025: Long pulse -11 bar"
+          data: main/N2/n2/Geints-11bar-500fs.yml
         - PAGE: Pigeon
           name: "Pigeon et al. 2016"
           data: main/N2/n2/Pigeon.yml
@@ -427,6 +448,27 @@
         - PAGE: Adair-e
           name: "Adair et al. 1989: (e)"
           data: main/Al2O3/n2/Adair-e.yml
+    - BOOK: CO2
+      name: "CO<sub>2</sub> (Carbon dioxide)"
+      content:
+        - PAGE: Geints-1bar-50fs
+          name: "Geints et al. 2025: Short pulse -1 bar"
+          data: main/CO2/n2/Geints-1bar-50fs.yml
+        - PAGE: Geints-5bar-50fs
+          name: "Geints et al. 2025: Short pulse -5 bar"
+          data: main/CO2/n2/Geints-5bar-50fs.yml
+        - PAGE: Geints-11bar-50fs
+          name: "Geints et al. 2025: Short pulse -11 bar"
+          data: main/CO2/n2/Geints-11bar-50fs.yml
+        - PAGE: Geints-1bar-500fs
+          name: "Geints et al. 2025: Long pulse -1 bar"
+          data: main/CO2/n2/Geints-1bar-500fs.yml
+        - PAGE: Geints-5bar-500fs
+          name: "Geints et al. 2025: Long pulse -5 bar"
+          data: main/CO2/n2/Geints-5bar-500fs.yml
+        - PAGE: Geints-11bar-500fs
+          name: "Geints et al. 2025: Long pulse -11 bar"
+          data: main/CO2/n2/Geints-11bar-500fs.yml
     - BOOK: CaO
       name: "CaO (Calcium oxide)"
       content:
