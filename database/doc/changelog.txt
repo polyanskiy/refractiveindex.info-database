@@ -1,5 +1,8 @@
 ﻿============================== next release ==============================
   
+  new data
+    main/CO2/n2/Mareev.yml
+    main/Xe/n2/Mareev.yml
   new data (thanks to Julien Cardin, Normandie Université, France, for submitting data in YAML format!)
     main/Ta2O5/nk/Cheikh-amorphous-3.28-4-25.yml
     main/Ta2O5/nk/Cheikh-amorphous-3.28-8-25.yml

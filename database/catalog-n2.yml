@@ -469,6 +469,9 @@
         - PAGE: Geints-11bar-500fs
           name: "Geints et al. 2025: Long pulse -11 bar"
           data: main/CO2/n2/Geints-11bar-500fs.yml
+        - PAGE: Mareev
+          name: "Mareev et al. 2018"
+          data: main/CO2/n2/Mareev.yml
     - BOOK: CaO
       name: "CaO (Calcium oxide)"
       content:
@@ -875,6 +878,9 @@
     - BOOK: Xe
       name: "Xe (Xenon)"
       content:
+        - PAGE: Mareev
+          name: "Mareev et al. 2018"
+          data: main/Xe/n2/Mareev.yml
         - PAGE: Nibbering
           name: "Nibbering et al. 1997"
           data: main/Xe/n2/Nibbering.yml
