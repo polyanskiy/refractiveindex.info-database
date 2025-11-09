@@ -1940,6 +1940,9 @@
         - PAGE: Hagemann
           name: "Hagemann et al. 1974: n,k 0.000775–0.207 µm"
           data: main/Al2O3/nk/Hagemann.yml
+        - PAGE: Rodriguez_de_Marcos
+          name: "Rodríguez de Marcos et al. 2025: n,k 3.1e-6–993 µm"
+          data: main/Al2O3/nk/Rodriguez de Marcos.yml
         - PAGE: Boidin
           name: "Boidin et al. 2016: n 0.3–18 µm"
           data: main/Al2O3/nk/Boidin.yml

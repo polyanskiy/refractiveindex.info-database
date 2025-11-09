@@ -1,5 +1,8 @@
 ﻿============================== next release ==============================
   
+  
+  new data (thanks to Luis Rodriguez de Marcos, The Catholic University of America, Washington DC, USA, for submitting data!)
+    main/Al2O3/nk/Rodriguez de Marcos.yml
   new data
     main/CO2/n2/Mareev.yml
     main/Xe/n2/Mareev.yml
