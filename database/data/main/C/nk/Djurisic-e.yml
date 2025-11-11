@@ -9,6 +9,8 @@ REFERENCES: |
     [<a href="https://github.com/polyanskiy/refractiveindex.info-scripts/blob/master/scripts/Djurisic%201999%20-%20Graphite-o.py">Calculation script (Python)</a>]
 COMMENTS: |
     Graphite. Extraordinary ray (e). Critical analysis and fit of the experimental data from several sources to a modified Lorentz-Drude (LD) model.
+CONDITIONS:
+    direction: e
 DATA:
   - type: tabulated nk
     data: |

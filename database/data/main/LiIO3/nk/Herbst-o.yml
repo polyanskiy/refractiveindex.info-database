@@ -8,6 +8,8 @@ REFERENCES: |
     <a href="https://doi.org/10.1103/PhysRevB.14.1693"><i>Phys. Rev. B</i> <b>14</b>, 1693-1706 (1976)</a>.
 COMMENTS: |
     Room temperature. Ordinary ray (o).
+CONDITIONS:
+    direction: o
 DATA:
   - type: formula 2
     wavelength_range: 0.5461 5

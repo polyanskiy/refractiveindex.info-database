@@ -9,6 +9,8 @@ REFERENCES: |
     (Numerical data kindly provided by Georgy Ermolaev)
 COMMENTS: |
     CsPbBr<sub>1.3</sub>Cl<sub>1.7</sub> monocrystal. Ordinary ray (o).
+CONDITIONS:
+    direction: o
 DATA:
   - type: tabulated nk
     data: |

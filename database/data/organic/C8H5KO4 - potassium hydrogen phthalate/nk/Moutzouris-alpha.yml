@@ -10,6 +10,7 @@ COMMENTS: |
     n<sub>α</sub>; 24.5 °C (see the original publication for temperature-dependent dispersion formula).
 CONDITIONS:
     temperature: 277.65
+    direction: alpha
 DATA:
   - type: formula 4
     wavelength_range: 0.450 1.551

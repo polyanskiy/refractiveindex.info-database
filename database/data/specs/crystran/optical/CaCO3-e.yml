@@ -14,7 +14,7 @@ REFERENCES: |
 COMMENTS: |
     Optical data are for extraordinary ray (e).
 CONDITIONS:
-    orientation: e
+    direction: e
 DATA:
   - type: tabulated n
     data: |

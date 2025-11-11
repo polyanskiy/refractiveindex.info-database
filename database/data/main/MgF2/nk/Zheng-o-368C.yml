@@ -15,3 +15,4 @@ DATA:
     coefficients: 0 0.48760 0.043384 0.39202 0.094614 2.3120 23.794
 CONDITIONS:
     temperature: 641.05
+    direction: o

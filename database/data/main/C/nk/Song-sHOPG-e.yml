@@ -9,6 +9,8 @@ REFERENCES: |
     (Numerical data kindly provided by Baokun Song)
 COMMENTS: |
     Highly oriented pyrolytic graphite (HOPG). Bulk. s-plane (s-HOPG). Extraordinary ray (e).
+CONDITIONS:
+    direction: e
 DATA:
   - type: tabulated n
     data: |

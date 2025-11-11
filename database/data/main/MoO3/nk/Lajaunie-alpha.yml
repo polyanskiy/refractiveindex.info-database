@@ -9,6 +9,8 @@ REFERENCES: |
     (using <a href="https://refractiveindex.info/download/data/2013/Lajaunie 2013 - Dielectric function of alpha-MoO3.csv">numerical data</a> made publicly available by Luc Lajaunie)
 COMMENTS: |
     α-MoO<sub>3</sub>; n<sub>α</sub>, k<sub>α</sub>.
+CONDITIONS:
+    direction: alpha
 DATA:
   - type: tabulated nk
     data: |

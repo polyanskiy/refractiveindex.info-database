@@ -12,3 +12,4 @@ DATA:
     coefficients: 4.607200 0.108087 0 0.052495 1 0 0 0 1 -0.014305 2
 CONDITIONS:
     temperature: 293
+    direction: e

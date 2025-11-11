@@ -12,7 +12,7 @@ COMMENTS: |
 DATA:
   - type: formula 5
     wavelength_range: 0.35 1.55
-    coefficients: 1.502639 4.7089420E-5 -2 6.3670450E-5 -4
+    coefficients: 1.502639 4.7089420E-3 -2 6.3670450E-5 -4
   - type: tabulated k
     data: |
         0.3500 1.243E-05

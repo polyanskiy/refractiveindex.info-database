@@ -8,6 +8,8 @@ REFERENCES: |
     <a href="https://doi.org/10.1063/1.1703106"><i>J. Appl. Phys.</i> <b>36</b>, 1674-1677 (1965)</a>
 COMMENTS: |
     Monoclinic ZnWO<sub>4</sub>; n<sub>β</sub>; room temperature.
+CONDITIONS:
+    direction: beta
 DATA:
   - type: tabulated n
     data: |

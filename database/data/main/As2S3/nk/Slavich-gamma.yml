@@ -9,6 +9,8 @@ REFERENCES: |
     (Numerical data kindly provided by Georgy Ermolaev)
 COMMENTS: |
     γ-axis.
+CONDITIONS:
+    direction: gamma
 DATA:
   - type: tabulated n
     data: |

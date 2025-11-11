@@ -1,0 +1,18 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+REFERENCES: |
+    Y. E. Geints, V. O. Kompanets, S. V. Chekalin.
+    Measurements of optical Kerr nonlinearity n<sub>2</sub> in compressed gases.
+    <a href="https://doi.org/10.1016/j.optcom.2025.132584"> <i>Opt. Commun.</i> <b>596</b>, 132584 (2025)</a>
+COMMENTS: |
+    50 fs (Short pulse regime). Self-focusing. Room temperature, 5 bar.
+DATA:
+  - type: tabulated n2
+    data: |
+        0.80 18.9e-24
+CONDITIONS:
+    n2_method: SF
+    pulse_duration: 50e-15
+    pressure: 5e5

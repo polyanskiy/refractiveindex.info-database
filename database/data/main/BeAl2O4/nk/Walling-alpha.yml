@@ -12,6 +12,8 @@ REFERENCES: |
     * Ref. 2 provides a dispersion formula based on  the experimental data from Ref. 1
 COMMENTS: |
     n<sub>α</sub>; Room temperature.
+CONDITIONS:
+    direction: alpha
 DATA:
   - type: formula 4
     wavelength_range: 0.25 2.6

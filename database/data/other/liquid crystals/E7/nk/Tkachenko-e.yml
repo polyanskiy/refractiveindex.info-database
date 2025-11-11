@@ -8,6 +8,8 @@ REFERENCES: |
     <a href="https://doi.org/10.1080/15421400600655816"><i>Mol. Cryst. Liq. Cryst.</i> <b>454</b>, 263/[665]-271/[673], 2006</a>
 COMMENTS: |
     Extraordinary ray (e).
+CONDITIONS:
+    direction: e
 DATA:
   - type: formula 5
     wavelength_range: 0.532 1.7

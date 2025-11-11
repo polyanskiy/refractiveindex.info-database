@@ -9,6 +9,8 @@ REFERENCES: |
     (Data points extracted from a figure)
 COMMENTS: |
     Wurtzite GaN (α-GaN) film grown on (0001) sapphire substrate by plasma-enhanced molecular beam epitaxy. Ordinary ray (o).
+CONDITIONS:
+    direction: o
 DATA:
   - type: tabulated n
     data: |

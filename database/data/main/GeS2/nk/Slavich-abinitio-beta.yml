@@ -1,0 +1,47 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+REFERENCES: |
+    A. S. Slavich, G. A. Ermolaev, I. A. Zavidovskiy, D. V. Grudinin, K. V. Kravtsov, M. K. Tatmyshevskiy, M. S. Mironov, A. N. Toksumakov, G. I. Tselikov, I. M. Fradkin, K. V. Voronin, M. R. Povolotskiy, O. G. Matveeva, A. V. Syuy, D. I. Yakubovsky, D. M. Tsymbarenko, I. Kruglov, D. A. Ghazaryan, S. M. Novikov, A. A. Vyshnevyy, A. V. Arsenin, V. S. Volkov, K. S. Novoselov.
+    Germanium disulfide as an alternative high refractive index and transparent material for UV-visible nanophotonics.
+    <a href="https://doi.org/10.1038/s41377-025-01886-y"><i>Light Sci. Appl.</i>, <b>14</b>, 213 (2025)</a>
+    (Numerical data kindly provided by Dr. Georgy Ermolaev)
+COMMENTS: |
+    n(β),k(β). Ab initio calculations.
+CONDITIONS:
+    direction: beta
+DATA:
+  - type: tabulated nk
+    data: | 
+        0.29945 2.41755 0.89036
+        0.30785 2.49002 0.94100
+        0.31676 2.65650 0.93403
+        0.32624 2.74345 0.79517
+        0.33633 2.75140 0.70043
+        0.34711 2.74120 0.64060
+        0.35864 2.77812 0.61102
+        0.37100 2.81325 0.52512
+        0.38431 2.82548 0.44322
+        0.39862 2.82472 0.35280
+        0.41412 2.80717 0.25967
+        0.43091 2.75892 0.16863
+        0.44916 2.69194 0.11113
+        0.46913 2.63473 0.07610
+        0.49099 2.58088 0.04626
+        0.51506 2.52897 0.03148
+        0.54170 2.48714 0.02414
+        0.57130 2.45251 0.01971
+        0.60441 2.42332 0.01669
+        0.64169 2.39827 0.01439
+        0.68395 2.37650 0.01252
+        0.73234 2.35742 0.01099
+        0.78815 2.34062 0.00966
+        0.85329 2.32581 0.00851
+        0.93037 2.31274 0.00748
+        1.02293 2.30123 0.00656
+        1.13605 2.29114 0.00572
+        1.27756 2.28237 0.00495
+        1.45951 2.27480 0.00424
+        1.70213 2.26839 0.00357
+        2.04216 2.26303 0.00292

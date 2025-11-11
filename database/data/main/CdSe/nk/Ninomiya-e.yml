@@ -8,7 +8,11 @@ REFERENCES: |
     <a href="https://doi.org/10.1063/1.359815"><i>J. Appl. Phys.</i> <b>78</b>, 4681-4689 (1995)</a><br>
     [<a href="https://github.com/polyanskiy/refractiveindex.info-scripts/blob/master/scripts/Ninomiya%201995%20-%20hexagonal%20CdSe-o.py">Calculation script (Python)</a>]
 COMMENTS: |
-    Hexagonal CdSe. Fit of author's experimental data to a simplified model of the interband transitions (MDF). Extraordinary ray (e), room temperature.
+    Hexagonal CdSe.
+    Fit of author's experimental data to a simplified model of the interband transitions (MDF).
+    Extraordinary ray (e), room temperature.
+CONDITIONS:
+    direction: e
 DATA:
   - type: tabulated nk
     data: |

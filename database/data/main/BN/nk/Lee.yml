@@ -15,3 +15,4 @@ DATA:
 CONDITIONS:
     film_thickness: 1e-6
     substrate: SiO2
+    direction: o

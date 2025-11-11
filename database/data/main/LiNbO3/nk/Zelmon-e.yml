@@ -8,6 +8,9 @@ REFERENCES: |
     <a href="https://doi.org/10.1364/JOSAB.14.003319"><i>J. Opt. Soc. Am. B</i> <b>14</b>, 3319-3322 (1997)</a>
 COMMENTS: |
     21 °C. Extraordinary ray (e). Congruently grown lithium niobate.
+CONDITIONS:
+    temperature: 294
+    direction: e
 DATA:
   - type: formula 2
     wavelength_range: 0.4 5.0

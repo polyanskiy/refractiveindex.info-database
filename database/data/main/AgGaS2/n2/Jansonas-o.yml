@@ -7,7 +7,7 @@ REFERENCES: |
     Interferometric measurements of nonlinear refractive index in the infrared spectral range.
     <a href="https://doi.org/10.1364/OE.458850"><i>Opt. Express</i> <b>30</b>, 30507–30524 (2022)</a>
 COMMENTS: |
-    Single crystal AgGaS<sub>2</sub> (AGS) (o). Polar angle (θ): 39°, azimuthal angle (φ): 45°. 170 fs and 190 fs at 2.2 μm and 3.2 μm, respectively. Estimated Kerr values were 21.3e-19 and 13.6e-19 at 2.2 μm and 3.2 μm, respectively.  Fourier Interferometry.
+    Single crystal AgGaS<sub>2</sub> (AGS). Polar angle (θ): 39°, azimuthal angle (φ): 45°. 170 fs and 190 fs at 2.2 μm and 3.2 μm, respectively. Estimated Kerr values were 21.3e-19 and 13.6e-19 at 2.2 μm and 3.2 μm, respectively.  Fourier Interferometry.
 DATA:
   - type: tabulated n2
     data: |
@@ -16,4 +16,4 @@ DATA:
 CONDITIONS:
     n2_method: FI
     pulse_duration: 170e-15 190e-15
-
+    direction: o

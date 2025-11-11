@@ -8,7 +8,10 @@ REFERENCES: |
     <a href="https://doi.org/10.1038/s41699-020-0155-x"><i>NPJ 2D Mater. Appl.</i>, <b>4</b>, 21 (2020)</a>
     (Numerical data kindly provided by Georgy Ermolaev)
 COMMENTS: |
-    Extraordinary ray (e).<br>MoS<sub>2</sub> bulk crystallographic c-axis optical constants.
+    Extraordinary ray (e).<br>
+    MoS<sub>2</sub> bulk crystallographic c-axis optical constants.
+CONDITIONS:
+    direction: e
 DATA:
   - type: tabulated n
     data: |

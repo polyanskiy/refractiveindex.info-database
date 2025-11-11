@@ -9,6 +9,8 @@ REFERENCES: |
     (Numerical data kindly provided by Georgy Ermolaev)
 COMMENTS: |
     Hexagonal boron nitride (hBN). DFT calculations. Ordinary ray (o).
+CONDITIONS:
+    direction: o
 DATA:
   - type: tabulated nk
     data: |

@@ -12,6 +12,9 @@ REFERENCES: |
     * Ref. 2 provides a dispersion formula based on data from ref. 1
 COMMENTS: |
     Extraordinary ray (e). 25 °C.
+CONDITIONS:
+    temperature: 198
+    direction: e
 DATA:
   - type: formula 4
     wavelength_range: 0.51 1.4

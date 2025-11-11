@@ -9,6 +9,8 @@ REFERENCES: |
     (Numerical data kindly provided by Georgy Ermolaev)
 COMMENTS: |
     CsPbBr<sub>1.8</sub>Cl<sub>1.2</sub> monocrystal. Extraordinary ray (e).
+CONDITIONS:
+    direction: e
 DATA:
   - type: tabulated nk
     data: |

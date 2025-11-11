@@ -11,8 +11,11 @@ REFERENCES: |
     <a href="https://doi.org/10.1364/JOSA.69.000730"><i>J. Opt. Soc. Am.</i> <b>69</b>, 730-733 (1979)</a><br>
     * Ref. 2 provides a dispersion formula based on data from Ref. 1
 COMMENTS: |
-    Extrardinary ray (e); 70 °C
+    Extrardinary ray (e); 20 °C
+CONDITIONS:
+    temperature: 293
+    direction: e
 DATA:
   - type: formula 2
     wavelength_range: 0.64 12
-    coefficients: 3.5717 5.4513 0.1435 1.4262 662.55
+    coefficients: 3.6332 5.3422 0.1426 1.4580 662.55

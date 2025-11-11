@@ -12,3 +12,4 @@ DATA:
     coefficients: 3.782355 0.070636 0 0.046955 1 0 0 0 1 -0.009580 2
 CONDITIONS:
     temperature: 353
+    direction: o

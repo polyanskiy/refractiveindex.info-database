@@ -9,6 +9,8 @@ REFERENCES: |
     (Numerical data kindly provided by Zhengfeng Guo)
 COMMENTS: |
     n<sub>γ</sub>, k<sub>γ</sub>; room temperature.
+CONDITIONS:
+    direction: gamma
 DATA:
   - type: tabulated nk
     data: |

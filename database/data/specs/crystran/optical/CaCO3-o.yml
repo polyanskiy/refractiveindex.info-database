@@ -28,7 +28,7 @@ COMMENTS: |
     <br>
     Optical data are for ordinary ray (o).
 CONDITIONS:
-    orientation: o
+    direction: o
 PROPERTIES:
     density:
       - value: 2710

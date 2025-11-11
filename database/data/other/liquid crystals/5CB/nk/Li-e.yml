@@ -14,3 +14,4 @@ DATA:
     coefficients: 1.6708 0.0081 -2 0.0024 -4
 CONDITIONS:
     temperature: 298
+    direction: e

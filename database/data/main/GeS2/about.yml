@@ -1,0 +1,16 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+NAMES:
+  - Germanium disulfide
+  - Germanium(IV) sulfide
+
+ABOUT: |
+    Germanium disulfide (GeS<sub>2</sub>) is a chalcogenide compound known for its wide infrared transparency and high refractive index. It crystallizes in an orthorhombic structure but is often used in its amorphous (glassy) form. GeS<sub>2</sub>-based glasses are key materials in infrared optics, especially in mid-IR applications (2–10 µm), due to their low phonon energy and favorable nonlinear optical properties. These characteristics make GeS₂ a valuable component in optical fibers, lenses, and infrared sensors. It is also studied for its role in photonics, infrared transmitting windows, and as a host material in rare-earth-doped fiber amplifiers.
+
+LINKS:
+  - url: https://en.wikipedia.org/wiki/Germanium_disulfide
+    text: Germanium disulfide - Wikipedia
+  - url: https://webelements.com/compounds/germanium/germanium_disulphide.html
+    text: Germanium disulfide - WebElements

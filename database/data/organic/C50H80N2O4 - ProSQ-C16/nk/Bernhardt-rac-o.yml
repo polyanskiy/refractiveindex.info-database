@@ -10,6 +10,8 @@ REFERENCES: |
 COMMENTS: |
     Racemic mixture rac-ProSQ-C16.
     Ordinary ray (o).
+CONDITIONS:
+    direction: o
 DATA:
   - type: tabulated nk
     data: |

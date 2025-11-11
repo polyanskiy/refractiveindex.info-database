@@ -1,0 +1,17 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+REFERENCES: |
+    G. Ghosh.
+    Sellmeier coefficients for the birefringence and refractive indices of ZnGeP<sub>2</sub> nonlinear crystal at different temperatures.
+    <a href="https://doi.org/10.1364/AO.37.001205"><i>Appl. Opt.</i>, <b>37</b>, 1205-1212 (1998)</a>
+COMMENTS: |
+    Critical analysis of experimental data from multiple sources.
+CONDITIONS:
+    temperature: 500
+    direction: e
+DATA:
+  - type: formula 2
+    wavelength_range: 0.7 12
+    coefficients: 4.19415933 5.04078045 0.16466963 2.09668743 900

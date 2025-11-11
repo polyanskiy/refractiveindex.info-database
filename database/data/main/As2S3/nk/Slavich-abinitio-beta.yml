@@ -9,6 +9,8 @@ REFERENCES: |
     (Numerical data kindly provided by Georgy Ermolaev)
 COMMENTS: |
     β-axis. Ab initio calculations.
+CONDITIONS:
+    direction: beta
 DATA:
   - type: tabulated nk
     data: |

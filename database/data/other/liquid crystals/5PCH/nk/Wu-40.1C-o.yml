@@ -14,3 +14,4 @@ DATA:
     coefficients: 0.3862 1.4937 25.0000 0.5327 18.1077
 CONDITIONS:
     temperature: 313.25
+    direction: o
