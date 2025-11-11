@@ -3481,6 +3481,12 @@
     - BOOK: GaSe
       name: "GaSe (Gallium selenide)"
       content:
+        - PAGE: Chen-o
+          name: "Chen et al. 2009: n(o) 3–1500 µm"
+          data: main/GaSe/nk/Chen-o.yml
+        - PAGE: Chen-e
+          name: "Chen et al. 2009: n(e) 3–1500 µm"
+          data: main/GaSe/nk/Chen-e.yml
         - PAGE: Kato-o
           name: "Kato et al. 2013: n(o) 0.8–162 µm"
           data: main/GaSe/nk/Kato-o.yml
