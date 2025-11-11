@@ -1,8 +1,10 @@
 ﻿============================== next release ==============================
   
   new data (thanks to Gregor Jotzu, École Polytechnique Fédérale de Lausanne, Switzerland, for suggesting data!)
-    data: main/GaSe/nk/Chen-o.yml
-    data: main/GaSe/nk/Chen-o.yml
+    main/GaSe/nk/Chen-n-o.yml
+    main/GaSe/nk/Chen-n-o.yml
+    main/GaSe/nk/Chen-nk-o.yml
+    main/GaSe/nk/Chen-nk-e.yml
   new data (thanks to Luis Rodriguez de Marcos, The Catholic University of America, Washington DC, USA, for submitting data!)
     main/Al2O3/nk/Rodriguez de Marcos.yml
   new data
