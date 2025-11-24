@@ -5864,6 +5864,25 @@
         - PAGE: Panah
           name: "Panah et al. 2016: n,k 5.0–30 µm"
           data: other/doped crystals/Si-InP/nk/Panah.yml
+    
+    - BOOK: MgO-LiNbO3
+      name: "MgO:LiNbO<sub>3</sub> (Magnesium oxide doped lithium niobate)"
+      content:
+        - PAGE: Zelmon-o
+          name: "Zelmon et al. 1997: CLN, 5 mol % MgO; n(o) 0.4–5.0 µm"
+          data: other/doped crystals/MgO-LiNbO3/nk/Zelmon-o.yml
+        - PAGE: Zelmon-e
+          name: "Zelmon et al. 1997: CLN, 5 mol % MgO; n(e) 0.4–5.0 µm"
+          data: other/doped crystals/MgO-LiNbO3/nk/Zelmon-e.yml
+        - PAGE: Gayer-5-o
+          name: "Gayer et al. 2008: CLN, 5 mol % MgO; n(o) 0.5–1.7 µm"
+          data: other/doped crystals/MgO-LiNbO3/nk/Gayer-5-o.yml
+        - PAGE: Gayer-5-e
+          name: "Gayer et al. 2008: CLN, 5 mol % MgO; n(e) 0.5–4.0 µm"
+          data: other/doped crystals/MgO-LiNbO3/nk/Gayer-5-e.yml
+        - PAGE: Gayer-1-e
+          name: "Gayer et al. 2008: SLN, 1 mol % MgO; n(e) 0.5–4.0 µm"
+          data: other/doped crystals/MgO-LiNbO3/nk/Gayer-1-e.yml
     - BOOK: Mg-LiTaO3
       name: "Mg:LiTaO<sub>3</sub> (Magnesium-doped lithium tantalate)"
       content:

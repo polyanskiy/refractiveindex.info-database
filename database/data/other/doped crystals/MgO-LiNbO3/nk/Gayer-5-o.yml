@@ -1,0 +1,18 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+REFERENCES: |
+    O. Gayer, Z. Sacks, E. Galun, A. Arie.
+    Temperature and wavelength dependent refractive index equations for MgO-doped congruent and stoichiometric LiNbO<sub>3</sub>.
+    <a href="https://doi.org/10.1007/s00340-008-2998-2"><i>Appl. Phys. B</i> <b>91</b>, 343-348 (2008)</a>.
+    Also see <a href="https://doi.org/10.1007/s00340-008-3316-8">Erratum</a>.
+COMMENTS: |
+    24.5 °C. Ordinary ray (o). Congruently grown lithium niobate (CLN) doped with 5 mol. % MgO. See the original publication for temperature-dependent refractive index equations.
+CONDITIONS:
+    temperature: 297.65
+    direction: o
+DATA:
+  - type: formula 4
+    wavelength_range: 0.5 1.7
+    coefficients: 5.6533 0.1185 0 0.2091 2 89.61 0 10.85 2 -1.97e-2 2

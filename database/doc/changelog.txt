@@ -1,5 +1,11 @@
 ﻿============================== next release ==============================
-  
+
+  new data (thanks to Samuel Gyger, Stanford University, USA, for suggesting data!)
+    other/doped crystals/MgO-LiNbO3/nk/Zelmon-o.yml
+    other/doped crystals/MgO-LiNbO3/nk/Zelmon-e.yml
+    other/doped crystals/MgO-LiNbO3/nk/Gayer-5-o.yml
+    other/doped crystals/MgO-LiNbO3/nk/Gayer-5-e.yml
+    other/doped crystals/MgO-LiNbO3/nk/Gayer-1-e.yml
   new data (thanks to Gregor Jotzu, École Polytechnique Fédérale de Lausanne, Switzerland, for suggesting data!)
     main/GaSe/nk/Chen-n-o.yml
     main/GaSe/nk/Chen-n-o.yml
