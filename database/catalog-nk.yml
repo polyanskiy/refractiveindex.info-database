@@ -408,6 +408,22 @@
         - PAGE: Lemarchand-11.7nm
           name: "Lemarchand 2013: 11.7-nm film; n,k 0.35–1.8 µm"
           data: main/Au/nk/Lemarchand-11.7nm.yml
+        - DIVIDER: "Experimental data: nanoparticles"
+        - PAGE: Klinavicius-7.2nm
+          name: "Klinavičius 2025: R=7.2 nm; n,k 0.4–0.9 µm"
+          data: main/Au/nk/Klinavicius-7.2nm.yml
+        - PAGE: Klinavicius-11.4nm
+          name: "Klinavičius 2025: R=11.4 nm; n,k 0.4–0.9 µm"
+          data: main/Au/nk/Klinavicius-11.4nm.yml
+        - PAGE: Klinavicius-19.7nm
+          name: "Klinavičius 2025: R=19.7 nm; n,k 0.4–0.9 µm"
+          data: main/Au/nk/Klinavicius-19.7nm.yml
+        - PAGE: Klinavicius-30.4nm
+          name: "Klinavičius 2025: R=30.4 nm; n,k 0.4–0.9 µm"
+          data: main/Au/nk/Klinavicius-30.4nm.yml
+        - PAGE: Klinavicius-40.0nm
+          name: "Klinavičius 2025: R=40.0 nm; n,k 0.4–0.9 µm"
+          data: main/Au/nk/Klinavicius-40.0nm.yml
         - DIVIDER: "Models and simulations"
         - PAGE: Rakic-BB
           name: "Rakić et al. 1998: Brendel-Bormann model; n,k 0.248–6.20 µm"

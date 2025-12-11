@@ -1,5 +1,11 @@
 ﻿============================== next release ==============================
 
+  new data (thanks to Tomas Klinavičius, Kaunas University of Technology, Lithuania, for submitting data!)
+    main/Au/nk/Klinavicius-7.2nm.yml
+    main/Au/nk/Klinavicius-11.4nm.yml
+    main/Au/nk/Klinavicius-19.7nm.yml
+    main/Au/nk/Klinavicius-30.4nm.yml
+    main/Au/nk/Klinavicius-40.0nm.yml
   new data (thanks to Samuel Gyger, Stanford University, USA, for suggesting data!)
     other/doped crystals/MgO-LiNbO3/nk/Zelmon-o.yml
     other/doped crystals/MgO-LiNbO3/nk/Zelmon-e.yml
