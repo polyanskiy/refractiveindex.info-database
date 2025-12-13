@@ -8,9 +8,7 @@ REFERENCES: |
     <a href="https://doi.org/10.1021/acs.jpcc.5c03973"><i>J. Phys. Chem. C</i> <b>129</b>, 17616-17631 (2025)</a>
     (See Supporting information)
 COMMENTS: |
-    19.7 nm average radius chemically synthesized spherical gold nanoparticles. Samples were prepared for imaging by drop casting sonicated and then centrifuged colloids on a cleaned silicon substrate and dried at a 4 °C temperature.
-CONDITIONS:
-    substrate: Si
+    19.7 nm average radius chemically synthesized spherical gold nanoparticles. Colloid solution in water.
 DATA:
   - type: tabulated nk
     data: |
