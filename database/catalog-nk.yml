@@ -820,13 +820,13 @@
       name: "MoOCl<sub>2</sub> (Molybdenum oxychloride)"
       content:
         - PAGE: Ermolaev-alpha
-          name: "Ermolaev et al. 2025: n(α) 0.360–1.70 µm"
+          name: "Ermolaev et al. 2025: n,k(α) 0.360–1.70 µm"
           data: main/MoOCl2/nk/Ermolaev-alpha.yml
         - PAGE: Ermolaev-beta
-          name: "Ermolaev et al. 2025: n,k(β) 0.360–1.70 µm"
+          name: "Ermolaev et al. 2025: n(β) 0.360–1.70 µm"
           data: main/MoOCl2/nk/Ermolaev-beta.yml
         - PAGE: Ermolaev-gamma
-          name: "Ermolaev et al. 2025: n(γ) 0.360–1.70 µm"
+          name: "Ermolaev et al. 2025: n,k(γ) 0.360–1.70 µm"
           data: main/MoOCl2/nk/Ermolaev-gamma.yml
     - BOOK: NaCl
       name: "NaCl (Sodium chloride)"
