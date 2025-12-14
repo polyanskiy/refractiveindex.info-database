@@ -1,5 +1,9 @@
 ﻿============================== next release ==============================
 
+  new data (thanks to Georgy Ermolaev, XPANCEO, Dubai, United Arab Emirates, for submitting data in YAML format!)
+    main/MoOCl2/nk/Ermolaev-alpha.yml
+    main/MoOCl2/nk/Ermolaev-beta.yml
+    main/MoOCl2/nk/Ermolaev-gamma.yml
   new data (thanks to Tomas Klinavičius, Kaunas University of Technology, Lithuania, for submitting data!)
     main/Au/nk/Klinavicius-7.2nm.yml
     main/Au/nk/Klinavicius-11.4nm.yml

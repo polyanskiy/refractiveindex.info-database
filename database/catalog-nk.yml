@@ -782,7 +782,7 @@
         - PAGE: Fernandez-Perea
           name: "Fernández-Perea et al. 2008: n,k 0.00103–0.207 µm"
           data: main/Ce/nk/Fernandez-Perea.yml
-    - DIVIDER: "Cl - Chlorides"
+    - DIVIDER: "Cl - Chlorides, Oxychlorides"
     - BOOK: AgCl
       name: "AgCl (Silver chloride)"
       content:
@@ -816,6 +816,18 @@
         - PAGE: Li
           name: "Li 1976: n 0.17–16 µm"
           data: main/LiCl/nk/Li.yml
+    - BOOK: MoOCl2
+      name: "MoOCl<sub>2</sub> (Molybdenum oxychloride)"
+      content:
+        - PAGE: Ermolaev-alpha
+          name: "Ermolaev et al. 2025: n(α) 0.360–1.70 µm"
+          data: main/MoOCl2/nk/Ermolaev-alpha.yml
+        - PAGE: Ermolaev-beta
+          name: "Ermolaev et al. 2025: n,k(β) 0.360–1.70 µm"
+          data: main/MoOCl2/nk/Ermolaev-beta.yml
+        - PAGE: Ermolaev-gamma
+          name: "Ermolaev et al. 2025: n(γ) 0.360–1.70 µm"
+          data: main/MoOCl2/nk/Ermolaev-gamma.yml
     - BOOK: NaCl
       name: "NaCl (Sodium chloride)"
       content:
@@ -5880,7 +5892,6 @@
         - PAGE: Panah
           name: "Panah et al. 2016: n,k 5.0–30 µm"
           data: other/doped crystals/Si-InP/nk/Panah.yml
-    
     - BOOK: MgO-LiNbO3
       name: "MgO:LiNbO<sub>3</sub> (Magnesium oxide doped lithium niobate)"
       content:
