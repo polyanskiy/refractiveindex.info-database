@@ -1,5 +1,6 @@
 [project]
 name = "refractiveindex-info-database"
+version = "2025.02.23"
 description = "Database of optical constants"
 requires-python = ">=3.10"
 dependencies = [
