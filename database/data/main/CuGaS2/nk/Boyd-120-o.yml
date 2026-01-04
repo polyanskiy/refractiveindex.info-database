@@ -11,6 +11,9 @@ REFERENCES: |
     * Ref. 2 provides a dispersion formula based on data from Ref. 1
 COMMENTS: |
     Ordinary ray (o); 120 °C
+CONDITIONS:
+    temperature: 393
+    direction: o
 DATA:
   - type: formula 2
     wavelength_range: 0.55 11.5

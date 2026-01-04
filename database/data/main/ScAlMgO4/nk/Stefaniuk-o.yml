@@ -9,6 +9,8 @@ REFERENCES: |
     (See Supplemental Material. Missing data points kindly provided by Jan Suffczyński.)
 COMMENTS: |
     Ordinary ray (o).
+CONDITIONS:
+    direction: o
 DATA:
   - type: tabulated nk
     data: |

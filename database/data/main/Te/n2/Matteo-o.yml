@@ -15,3 +15,4 @@ DATA:
 CONDITIONS:
     n2_method: SB
     pulse_duration: 220e-15
+    direction: o

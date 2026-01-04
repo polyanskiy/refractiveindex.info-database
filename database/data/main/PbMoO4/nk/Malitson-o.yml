@@ -6,6 +6,8 @@ REFERENCES: |
     I. H. Malitson, as cited in Handbook of Optics, 3rd edition, Vol. 4. McGraw-Hill 2009. Data fit by Handbook of Optics.
 COMMENTS: |
     Ordinary ray (o)
+CONDITIONS:
+    direction: o
 DATA:
   - type: formula 1
     wavelength_range: 0.44 1.08

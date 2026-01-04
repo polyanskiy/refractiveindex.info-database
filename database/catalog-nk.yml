@@ -408,6 +408,22 @@
         - PAGE: Lemarchand-11.7nm
           name: "Lemarchand 2013: 11.7-nm film; n,k 0.35–1.8 µm"
           data: main/Au/nk/Lemarchand-11.7nm.yml
+        - DIVIDER: "Experimental data: nanoparticles"
+        - PAGE: Klinavicius-7.2nm
+          name: "Klinavičius 2025: R=7.2 nm; n,k 0.4–0.9 µm"
+          data: main/Au/nk/Klinavicius-7.2nm.yml
+        - PAGE: Klinavicius-11.4nm
+          name: "Klinavičius 2025: R=11.4 nm; n,k 0.4–0.9 µm"
+          data: main/Au/nk/Klinavicius-11.4nm.yml
+        - PAGE: Klinavicius-19.7nm
+          name: "Klinavičius 2025: R=19.7 nm; n,k 0.4–0.9 µm"
+          data: main/Au/nk/Klinavicius-19.7nm.yml
+        - PAGE: Klinavicius-30.4nm
+          name: "Klinavičius 2025: R=30.4 nm; n,k 0.4–0.9 µm"
+          data: main/Au/nk/Klinavicius-30.4nm.yml
+        - PAGE: Klinavicius-40.0nm
+          name: "Klinavičius 2025: R=40.0 nm; n,k 0.4–0.9 µm"
+          data: main/Au/nk/Klinavicius-40.0nm.yml
         - DIVIDER: "Models and simulations"
         - PAGE: Rakic-BB
           name: "Rakić et al. 1998: Brendel-Bormann model; n,k 0.248–6.20 µm"
@@ -766,7 +782,7 @@
         - PAGE: Fernandez-Perea
           name: "Fernández-Perea et al. 2008: n,k 0.00103–0.207 µm"
           data: main/Ce/nk/Fernandez-Perea.yml
-    - DIVIDER: "Cl - Chlorides"
+    - DIVIDER: "Cl - Chlorides, Oxychlorides"
     - BOOK: AgCl
       name: "AgCl (Silver chloride)"
       content:
@@ -800,6 +816,18 @@
         - PAGE: Li
           name: "Li 1976: n 0.17–16 µm"
           data: main/LiCl/nk/Li.yml
+    - BOOK: MoOCl2
+      name: "MoOCl<sub>2</sub> (Molybdenum oxychloride)"
+      content:
+        - PAGE: Ermolaev-alpha
+          name: "Ermolaev et al. 2025: n,k(α) 0.360–1.70 µm"
+          data: main/MoOCl2/nk/Ermolaev-alpha.yml
+        - PAGE: Ermolaev-beta
+          name: "Ermolaev et al. 2025: n(β) 0.360–1.70 µm"
+          data: main/MoOCl2/nk/Ermolaev-beta.yml
+        - PAGE: Ermolaev-gamma
+          name: "Ermolaev et al. 2025: n,k(γ) 0.360–1.70 µm"
+          data: main/MoOCl2/nk/Ermolaev-gamma.yml
     - BOOK: NaCl
       name: "NaCl (Sodium chloride)"
       content:
@@ -1686,9 +1714,9 @@
     - BOOK: BN
       name: "BN (Boron nitride)"
       content:
-        - DIVIDER: "Experimental data - Bulk"
+        - DIVIDER: "Experimental data"
         - PAGE: Lee
-          name: "Lee et al. 2018: h-BN; n 0.450–1.20 µm"
+          name: "Lee et al. 2018: h-BN; n(o) 0.450–1.20 µm"
           data: main/BN/nk/Lee.yml
         - PAGE: Grudinin-o
           name: "Grudinin et al. 2023: h-BN; n(o) 0.250–1.70 µm"
@@ -1696,13 +1724,18 @@
         - PAGE: Grudinin-e
           name: "Grudinin et al. 2023: h-BN; n(e) 0.250–1.70 µm"
           data: main/BN/nk/Grudinin-e.yml
-        - DIVIDER: "Experimental data - Multilayer flakes"
         - PAGE: Zotev-o
           name: "Zotev et al. 2023: h-BN; n,k(o) 0.36–1.0 µm"
           data: main/BN/nk/Zotev-o.yml
         - PAGE: Zotev-e
           name: "Zotev et al. 2023: h-BN; n,k(e) 0.36–1.0 µm"
           data: main/BN/nk/Zotev-e.yml
+        - PAGE: Rah-o
+          name: "Rah et al. 2019: h-BN; n(o) 0.4–1.6 µm"
+          data: main/BN/nk/Rah-o.yml
+        - PAGE: Rah-e
+          name: "Rah et al. 2019: h-BN; n(e) 0.4–1.6 µm"
+          data: main/BN/nk/Rah-e.yml
         - DIVIDER: "Models and simulations"
         - PAGE: Grudinin-DFT-o
           name: "Grudinin et al. 2023: h-BN; n,k(o) 0.199–2.01 µm"
@@ -1935,6 +1968,9 @@
         - PAGE: Hagemann
           name: "Hagemann et al. 1974: n,k 0.000775–0.207 µm"
           data: main/Al2O3/nk/Hagemann.yml
+        - PAGE: Rodriguez_de_Marcos
+          name: "Rodríguez de Marcos et al. 2025: n,k 3.1e-6–993 µm"
+          data: main/Al2O3/nk/Rodriguez de Marcos.yml
         - PAGE: Boidin
           name: "Boidin et al. 2016: n 0.3–18 µm"
           data: main/Al2O3/nk/Boidin.yml
@@ -2283,22 +2319,62 @@
     - BOOK: Ta2O5
       name: "Ta<sub>2</sub>O<sub>5</sub> (Tantalum pentoxide)"
       content:
-        - DIVIDER: "Thin film"
+        - DIVIDER: "Amorphous thin film"
         - PAGE: Bright-amorphous
-          name: "Bright et al. 2013: Amorphous film; n,k 0.5–1000 µm"
+          name: "Bright et al. 2013: n,k 0.5–1000 µm"
           data: main/Ta2O5/nk/Bright-amorphous.yml
-        - PAGE: Bright-nanocrystalline
-          name: "Bright et al. 2013: Nanocrystalline film; n,k 0.5–1000 µm"
-          data: main/Ta2O5/nk/Bright-nanocrystalline.yml
+        - PAGE: Cheikh-amorphous-3.28-4-25
+          name: "Cheikh et al. 2025: Power 3.28, O2 4, As deposited; n,k 0.207–1.24 µm"
+          data: main/Ta2O5/nk/Cheikh-amorphous-3.28-4-25.yml
+        - PAGE: Cheikh-amorphous-3.28-8-25
+          name: "Cheikh et al. 2025: Power 3.28, O2 8, As deposited; n,k 0.207–1.24 µm"
+          data: main/Ta2O5/nk/Cheikh-amorphous-3.28-8-25.yml
+        - PAGE: Cheikh-amorphous-3.28-12-25
+          name: "Cheikh et al. 2025: Power 3.28, O2 12, As deposited; n,k 0.207–1.24 µm"
+          data: main/Ta2O5/nk/Cheikh-amorphous-3.28-12-25.yml
+        - PAGE: Cheikh-amorphous-3.28-16-25
+          name: "Cheikh et al. 2025: Power 3.28, O2 16, As deposited; n,k 0.207–1.24 µm"
+          data: main/Ta2O5/nk/Cheikh-amorphous-3.28-16-25.yml
+        - PAGE: Cheikh-amorphous-4.38-12-25
+          name: "Cheikh et al. 2025: Power 4.38, O2 12, As deposited; n,k 0.207–1.24 µm"
+          data: main/Ta2O5/nk/Cheikh-amorphous-4.38-12-25.yml
+        - PAGE: Cheikh-amorphous-5.48-12-25
+          name: "Cheikh et al. 2025: Power 5.48, O2 12, As deposited; n,k 0.207–1.24 µm"
+          data: main/Ta2O5/nk/Cheikh-amorphous-5.48-12-25.yml
+        - PAGE: Cheikh-amorphous-6.75-12-25
+          name: "Cheikh et al. 2025: Power 6.75, O2 12, As deposited; n,k 0.207–1.24 µm"
+          data: main/Ta2O5/nk/Cheikh-amorphous-6.75-12-25.yml
+        - PAGE: Cheikh-amorphous-3.28-8-450
+          name: "Cheikh et al. 2025: Power 3.28, O2 8, Anneal. 450; n,k 0.207–1.24 µm"
+          data: main/Ta2O5/nk/Cheikh-amorphous-3.28-8-450.yml
+        - PAGE: Cheikh-amorphous-3.28-8-550
+          name: "Cheikh et al. 2025: Power 3.28, O2 8, Anneal. 550; n,k 0.207–1.24 µm"
+          data: main/Ta2O5/nk/Cheikh-amorphous-3.28-8-550.yml
         - PAGE: Rodriguez-de_Marcos
           name: "Rodríguez-de Marcos et al. 2016: n,k 0.03–1.5 µm"
           data: main/Ta2O5/nk/Rodriguez-de Marcos.yml
-        - PAGE: Franta
-          name: "Franta et al. 2015: n,k 0.114–125 µm"
-          data: main/Ta2O5/nk/Franta.yml
+        - PAGE: Franta-2015
+          name: "Franta et al. 2015: n,k 0.142–125 µm"
+          data: main/Ta2O5/nk/Franta-2015.yml
         - PAGE: Gao
           name: "Gao et al. 2012: n,k 0.35–1.8 µm"
           data: main/Ta2O5/nk/Gao.yml
+        - DIVIDER: "Crystalline thin film"
+        - PAGE: Bright-nanocrystalline
+          name: "Bright et al. 2013: Nanocrystalline film; n,k 0.5–1000 µm"
+          data: main/Ta2O5/nk/Bright-nanocrystalline.yml
+        - PAGE: Franta-2025
+          name: "Franta et al. 2025: Polycrystalline; n,k 0.116–400 µm"
+          data: main/Ta2O5/nk/Franta-2025.yml
+        - PAGE: Cheikh-crystalline-3.28-8-650
+          name: "Cheikh et al. 2025: Power 3.28, O2 8, Anneal. 650; n,k 0.207–1.24 µm"
+          data: main/Ta2O5/nk/Cheikh-crystalline-3.28-8-650.yml
+        - PAGE: Cheikh-crystalline-3.28-8-750
+          name: "Cheikh et al. 2025: Power 3.28, O2 8, Anneal. 750; n,k 0.207–1.24 µm"
+          data: main/Ta2O5/nk/Cheikh-crystalline-3.28-8-750.yml
+        - PAGE: Cheikh-crystalline-3.28-8-850
+          name: "Cheikh et al. 2025: Power 3.28, O2 8, Anneal. 850; n,k 0.207–1.24 µm"
+          data: main/Ta2O5/nk/Cheikh-crystalline-3.28-8-850.yml
     - BOOK: Tb3Ga5O12
       name: "Tb<sub>3</sub>Ga<sub>5</sub>O<sub>12</sub> (Terbium gallium garnet, TGG)"
       content:
@@ -2554,6 +2630,18 @@
     - BOOK: ZnGeP2
       name: "ZnGeP<sub>2</sub> (Zinc germanium phosphide, ZGP)"
       content:
+        - PAGE: Boyd-20C-o
+          name: "Boyd et al. 1971: n(o) 0.64–12 µm; 20 °C"
+          data: main/ZnGeP2/nk/Boyd-20C-o.yml
+        - PAGE: Boyd-20C-e
+          name: "Boyd et al. 1971: n(e) 0.64–12 µm; 20 °C"
+          data: main/ZnGeP2/nk/Boyd-20C-e.yml
+        - PAGE: Boyd-70C-o
+          name: "Boyd et al. 1971: n(o) 0.64–12 µm; 70 °C"
+          data: main/ZnGeP2/nk/Boyd-70C-o.yml
+        - PAGE: Boyd-70C-e
+          name: "Boyd et al. 1971: n(e) 0.64–12 µm; 70 °C"
+          data: main/ZnGeP2/nk/Boyd-70C-e.yml
         - PAGE: Das-o
           name: "Das et al. 2003: n(o) 1.32–11 µm"
           data: main/ZnGeP2/nk/Das-o.yml
@@ -2566,18 +2654,60 @@
         - PAGE: Zelmon-e
           name: "Zelmon et al. 2001: n(e) 2–9 µm"
           data: main/ZnGeP2/nk/Zelmon-e.yml
-        - PAGE: Boyd-20-o
-          name: "Boyd et al. 1971: n(o) 0.64–12 µm; 20 °C"
-          data: main/ZnGeP2/nk/Boyd-20-o.yml
-        - PAGE: Boyd-20-e
-          name: "Boyd et al. 1971: n(e) 0.64–12 µm; 20 °C"
-          data: main/ZnGeP2/nk/Boyd-20-e.yml
-        - PAGE: Boyd-70-o
-          name: "Boyd et al. 1971: n(o) 0.64–12 µm; 70 °C"
-          data: main/ZnGeP2/nk/Boyd-70-o.yml
-        - PAGE: Boyd-70-e
-          name: "Boyd et al. 1971: n(e) 0.64–12 µm; 70 °C"
-          data: main/ZnGeP2/nk/Boyd-70-e.yml
+        - PAGE: Ghosh-100K-o
+          name: "Ghosh 1998: n(o) 0.7–12 µm; 100 K"
+          data: main/ZnGeP2/nk/Ghosh-100K-o.yml
+        - PAGE: Ghosh-100K-e
+          name: "Ghosh 1998: n(e) 0.7–12 µm; 100 K"
+          data: main/ZnGeP2/nk/Ghosh-100K-e.yml
+        - PAGE: Ghosh-150K-o
+          name: "Ghosh 1998: n(o) 0.7–12 µm; 150 K"
+          data: main/ZnGeP2/nk/Ghosh-150K-o.yml
+        - PAGE: Ghosh-150K-e
+          name: "Ghosh 1998: n(e) 0.7–12 µm; 150 K"
+          data: main/ZnGeP2/nk/Ghosh-150K-e.yml
+        - PAGE: Ghosh-200K-o
+          name: "Ghosh 1998: n(o) 0.7–12 µm; 200 K"
+          data: main/ZnGeP2/nk/Ghosh-200K-o.yml
+        - PAGE: Ghosh-200K-e
+          name: "Ghosh 1998: n(e) 0.7–12 µm; 200 K"
+          data: main/ZnGeP2/nk/Ghosh-200K-e.yml
+        - PAGE: Ghosh-250K-o
+          name: "Ghosh 1998: n(o) 0.7–12 µm; 250 K"
+          data: main/ZnGeP2/nk/Ghosh-250K-o.yml
+        - PAGE: Ghosh-250K-e
+          name: "Ghosh 1998: n(e) 0.7–12 µm; 250 K"
+          data: main/ZnGeP2/nk/Ghosh-250K-e.yml
+        - PAGE: Ghosh-300K-o
+          name: "Ghosh 1998: n(o) 0.7–12 µm; 300 K"
+          data: main/ZnGeP2/nk/Ghosh-300K-o.yml
+        - PAGE: Ghosh-300K-e
+          name: "Ghosh 1998: n(e) 0.7–12 µm; 300 K"
+          data: main/ZnGeP2/nk/Ghosh-300K-e.yml
+        - PAGE: Ghosh-350K-o
+          name: "Ghosh 1998: n(o) 0.7–12 µm; 350 K"
+          data: main/ZnGeP2/nk/Ghosh-350K-o.yml
+        - PAGE: Ghosh-350K-e
+          name: "Ghosh 1998: n(e) 0.7–12 µm; 350 K"
+          data: main/ZnGeP2/nk/Ghosh-350K-e.yml
+        - PAGE: Ghosh-400K-o
+          name: "Ghosh 1998: n(o) 0.7–12 µm; 400 K"
+          data: main/ZnGeP2/nk/Ghosh-400K-o.yml
+        - PAGE: Ghosh-400K-e
+          name: "Ghosh 1998: n(e) 0.7–12 µm; 400 K"
+          data: main/ZnGeP2/nk/Ghosh-400K-e.yml
+        - PAGE: Ghosh-450K-o
+          name: "Ghosh 1998: n(o) 0.7–12 µm; 450 K"
+          data: main/ZnGeP2/nk/Ghosh-450K-o.yml
+        - PAGE: Ghosh-450K-e
+          name: "Ghosh 1998: n(e) 0.7–12 µm; 450 K"
+          data: main/ZnGeP2/nk/Ghosh-450K-e.yml
+        - PAGE: Ghosh-500K-o
+          name: "Ghosh 1998: n(o) 0.7–12 µm; 500 K"
+          data: main/ZnGeP2/nk/Ghosh-500K-o.yml
+        - PAGE: Ghosh-500K-e
+          name: "Ghosh 1998: n(e) 0.7–12 µm; 500 K"
+          data: main/ZnGeP2/nk/Ghosh-500K-e.yml
     - BOOK: KH2PO4
       name: "KH<sub>2</sub>PO<sub>4</sub> (Potassium dihydrogen phosphate, KDP)"
       content:
@@ -2928,6 +3058,29 @@
         - PAGE: Zotev-e
           name: "Zotev et al. 2023: n,k(e) 0.36–1.0 µm"
           data: main/GaS/nk/Zotev-e.yml
+    - BOOK: GeS2
+      name: "GeS<sub>2</sub> (Germanium disulfide)"
+      content:
+        - DIVIDER: "Experimental data"
+        - PAGE: Slavich-α
+          name: "Slavich et al. 1989: n,k(α) 0.250–1.70 µm"
+          data: main/GeS2/nk/Slavich-alpha.yml
+        - PAGE: Slavich-β
+          name: "Slavich et al. 1989: n,k(β) 0.250–1.70 µm"
+          data: main/GeS2/nk/Slavich-beta.yml
+        - PAGE: Slavich-γ
+          name: "Slavich et al. 1989: n(γ) 0.250–1.70 µm"
+          data: main/GeS2/nk/Slavich-gamma.yml
+        - DIVIDER: "Ab initio calculations"
+        - PAGE: Slavich-abinitio-α
+          name: "Slavich et al. 1989: n,k(α) 0.299–2.04 µm"
+          data: main/GeS2/nk/Slavich-abinitio-alpha.yml
+        - PAGE: Slavich-abinitio-β
+          name: "Slavich et al. 1989: n,k(β) 0.299–2.04 µm"
+          data: main/GeS2/nk/Slavich-abinitio-beta.yml
+        - PAGE: Slavich-abinitio-γ
+          name: "Slavich et al. 1989: n,k(γ) 0.299–2.04 µm"
+          data: main/GeS2/nk/Slavich-abinitio-gamma.yml
     - BOOK: HgS
       name: "HgS (Mercury sulfide)"
       content:
@@ -3356,6 +3509,18 @@
     - BOOK: GaSe
       name: "GaSe (Gallium selenide)"
       content:
+        - PAGE: Chen-n-o
+          name: "Chen et al. 2009: n(o) 3–1500 µm"
+          data: main/GaSe/nk/Chen-n-o.yml
+        - PAGE: Chen-n-e
+          name: "Chen et al. 2009: n(e) 3–1500 µm"
+          data: main/GaSe/nk/Chen-n-e.yml
+        - PAGE: Chen-nk-o
+          name: "Chen et al. 2009: n,k(o) 3–1500 µm"
+          data: main/GaSe/nk/Chen-nk-o.yml
+        - PAGE: Chen-nk-e
+          name: "Chen et al. 2009: n,k(e) 3–1500 µm"
+          data: main/GaSe/nk/Chen-nk-e.yml
         - PAGE: Kato-o
           name: "Kato et al. 2013: n(o) 0.8–162 µm"
           data: main/GaSe/nk/Kato-o.yml
@@ -3520,12 +3685,24 @@
       name: "WSe<sub>2</sub> (Tungsten diselenide)"
       content:
         - DIVIDER: "2D structures"
-        - PAGE: Jung
-          name: "Jung et al. 2019: monolayer (1L) film; n,k 0.38–0.89 µm"
-          data: main/WSe2/nk/Jung.yml
+        - PAGE: Hsu-1L
+          name: "Hsu et al. 2019: monolayer (1L) film; n,k 0.40–0.85 µm"
+          data: main/WSe2/nk/Hsu-1L.yml
+        - PAGE: Hsu-2L
+          name: "Hsu et al. 2019: 2-layer (2L) film; n,k 0.40–0.85 µm"
+          data: main/WSe2/nk/Hsu-2L.yml
+        - PAGE: Hsu-3L
+          name: "Hsu et al. 2019: 3-layer (3L) film; n,k 0.40–0.85 µm"
+          data: main/WSe2/nk/Hsu-3L.yml
+        - PAGE: Jin
+          name: "Jin et al. 2025: monolayer (1L) film; n,k 30–60 µm"
+          data: main/WSe2/nk/Jin.yml
         - PAGE: Ermolaev
           name: "Ermolaev et al. 2021: monolayer (1L) film; n,k 0.30–1.70 µm"
           data: main/WSe2/nk/Ermolaev.yml
+        - PAGE: Jung
+          name: "Jung et al. 2019: monolayer (1L) film; n,k 0.38–0.89 µm"
+          data: main/WSe2/nk/Jung.yml
         - PAGE: Gu-1L
           name: "Gu et al. 2019: monolayer (1L) film; n,k 0.193–1.69 µm"
           data: main/WSe2/nk/Gu-1L.yml
@@ -3541,15 +3718,6 @@
         - PAGE: Gu-5L
           name: "Gu et al. 2019: 5-layer (5L) film; n,k 0.193–1.69 µm"
           data: main/WSe2/nk/Gu-5L.yml
-        - PAGE: Hsu-1L
-          name: "Hsu et al. 2019: monolayer (1L) film; n,k 0.40–0.85 µm"
-          data: main/WSe2/nk/Hsu-1L.yml
-        - PAGE: Hsu-2L
-          name: "Hsu et al. 2019: 2-layer (2L) film; n,k 0.40–0.85 µm"
-          data: main/WSe2/nk/Hsu-2L.yml
-        - PAGE: Hsu-3L
-          name: "Hsu et al. 2019: 3-layer (3L) film; n,k 0.40–0.85 µm"
-          data: main/WSe2/nk/Hsu-3L.yml
         - DIVIDER: "Multilayer flakes"
         - PAGE: Munkhbat-o
           name: "Munkhbat et al. 2022: multilayer flakes; n(o),k 0.30–1.69 µm"
@@ -3608,6 +3776,21 @@
         - PAGE: Aspnes
           name: "Aspnes and Studna 1983: n,k 0.21–0.83 µm"
           data: main/Si/nk/Aspnes.yml
+        - PAGE: Wang-25C
+          name: "Wang et al. 2025: n,k 0.400–1.31 µm; 25 °C"
+          data: main/Si/nk/Wang-25C.yml
+        - PAGE: Wang-35C
+          name: "Wang et al. 2025: n,k 0.400–1.31 µm; 35 °C"
+          data: main/Si/nk/Wang-35C.yml
+        - PAGE: Wang-45C
+          name: "Wang et al. 2025: n,k 0.400–1.31 µm; 45 °C"
+          data: main/Si/nk/Wang-45C.yml
+        - PAGE: Wang-55C
+          name: "Wang et al. 2025: n,k 0.400–1.31 µm; 55 °C"
+          data: main/Si/nk/Wang-55C.yml
+        - PAGE: Wang-65C
+          name: "Wang et al. 2025: n,k 0.400–1.31 µm; 65 °C"
+          data: main/Si/nk/Wang-65C.yml
         - PAGE: Franta-10K
           name: "Franta et al. 2017: n,k 0.0310–310 µm; 10 K"
           data: main/Si/nk/Franta-10K.yml
@@ -3758,10 +3941,25 @@
         - PAGE: Salzberg
           name: "Salzberg and Villa 1957: n 1.36–11 µm"
           data: main/Si/nk/Salzberg.yml
-        - DIVIDER: "Amorphous silicon (α-Si)"
+        - DIVIDER: "Amorphous silicon (a-Si)"
         - PAGE: Pierce
-          name: "Pierce and Spicer 1972: α-Si; n,k 0.0103–2.07 µm"
+          name: "Pierce and Spicer 1972: n,k 0.0103–2.07 µm"
           data: main/Si/nk/Pierce.yml
+        - PAGE: Karaman-20C
+          name: "Karaman et al. 2025: n,k 0.21–2.5 µm; 20 °C"
+          data: main/Si/nk/Karaman-20C.yml
+        - PAGE: Karaman-70C
+          name: "Karaman et al. 2025: n,k 0.21–2.5 µm; 70 °C"
+          data: main/Si/nk/Karaman-70C.yml
+        - PAGE: Karaman-120C
+          name: "Karaman et al. 2025: n,k 0.21–2.5 µm; 120 °C"
+          data: main/Si/nk/Karaman-120C.yml
+        - PAGE: Karaman-170C
+          name: "Karaman et al. 2025: n,k 0.21–2.5 µm; 170 °C"
+          data: main/Si/nk/Karaman-170C.yml
+        - PAGE: Karaman-220C
+          name: "Karaman et al. 2025: n,k 0.21–2.5 µm; 220 °C"
+          data: main/Si/nk/Karaman-220C.yml
         - PAGE: Franta
           name: "Franta et al. 2013: n,k 0.138–26.9 µm"
           data: main/Si/nk/Franta.yml
@@ -4644,6 +4842,12 @@
         - PAGE: Chang
           name: "Chang et al. 2024: n 0.4–2.0 µm"
           data: organic/C8H10 - xylene/nk/Chang.yml
+    - BOOK: pyridine
+      name: "C<sub>5</sub>H<sub>5</sub>N (Pyridine)"
+      content:
+        - PAGE: Chang
+          name: "Chang et al. 2024: n 0.4–2.0 µm"
+          data: organic/C5H5N - pyridine/nk/Chang.yml
     - BOOK: trichlorobenzene
       name: "C<sub>6</sub>H<sub>3</sub>Cl<sub>3</sub> (Trichlorobenzene, TCB)"
       content:
@@ -4662,18 +4866,18 @@
         - PAGE: Myers
           name: "Myers et al. 2018: n,k 1.28–25.0 µm"
           data: organic/C6H5NO2 - nitrobenzene/nk/Myers.yml
-    - BOOK: pyridine
-      name: "C<sub>5</sub>H<sub>5</sub>N (Pyridine)"
-      content:
-        - PAGE: Chang
-          name: "Chang et al. 2024: n 0.4–2.0 µm"
-          data: organic/C5H5N - pyridine/nk/Chang.yml
     - BOOK: pentafluorobenzonitrile
       name: "C<sub>7</sub>F<sub>5</sub>N (Pentafluorobenzonitrile)"
       content:
         - PAGE: Chang
           name: "Chang et al. 2024: n 0.4–2.0 µm"
           data: organic/C7F5N - pentafluorobenzonitrile/nk/Chang.yml
+    - BOOK: dimethylaniline
+      name: "C<sub>8</sub>H<sub>11</sub>N (Dimethylaniline, DMA)"
+      content:
+        - PAGE: Li
+          name: "Li et al. 2022: n 0.321–1.7 µm"
+          data: organic/C8H11N - dimethylaniline/nk/Li.yml
     - DIVIDER: "Heterocyclic compounds"
     - BOOK: dioxane
       name: "C<sub>4</sub>H<sub>8</sub>O<sub>2</sub> (Dioxane)"
@@ -4896,12 +5100,6 @@
         - PAGE: Myers
           name: "Myers et al. 2018: n,k 1.28–25.0 µm"
           data: organic/C3H9O3P - dimethyl methylphosphonate/nk/Myers.yml
-    - BOOK: dimethylacetamide
-      name: "C<sub>4</sub>H<sub>9</sub>NO (Dimethylacetamide, DMA)"
-      content:
-        - PAGE: Li
-          name: "Li et al. 2022: n 0.321–1.7 µm"
-          data: organic/C4H9NO - dimethylacetamide/nk/Li.yml
     - BOOK: diethyl_sulfite
       name: "C<sub>4</sub>H<sub>10</sub>O<sub>3</sub>S (Diethyl sulfite, DES)"
       content:
@@ -4953,7 +5151,19 @@
         - PAGE: Seckin
           name: "Seçkin et al. 2023: n,k 0.193–1.69 µm"
           data: organic/C28H31ClN2O3 - Rhodamine 6G/nk/Seckin.yml
-    - BOOK: C50H80N2O4 - ProSQ-C16
+    - BOOK: SQIB
+      name: "C<sub>32</sub>H<sub>44</sub>N<sub>2</sub>O<sub>6</sub> (SQIB)"
+      content:
+        - PAGE: Funke-α
+          name: "Funke et al. 2011: n,k(α) 0.450–0.900 µm"
+          data: organic/C32H44N2O6 - SQIB/nk/Funke-alpha.yml
+        - PAGE: Funke-β
+          name: "Funke et al. 2021: n,k(β) 0.450–0.900 µm"
+          data: organic/C32H44N2O6 - SQIB/nk/Funke-beta.yml
+        - PAGE: Funke-γ
+          name: "Funke et al. 2021: n,k(γ) 0.450–0.900 µm"
+          data: organic//C32H44N2O6 - SQIB/nk/Funke-gamma.yml
+    - BOOK: ProSQ-C16
       name: "C<sub>50</sub>H<sub>80</sub>N<sub>2</sub>O<sub>4</sub> (ProSQ-C16)"
       content:
         - PAGE: Bernhardt-SS-RR-o
@@ -5682,6 +5892,24 @@
         - PAGE: Panah
           name: "Panah et al. 2016: n,k 5.0–30 µm"
           data: other/doped crystals/Si-InP/nk/Panah.yml
+    - BOOK: MgO-LiNbO3
+      name: "MgO:LiNbO<sub>3</sub> (Magnesium oxide doped lithium niobate)"
+      content:
+        - PAGE: Zelmon-o
+          name: "Zelmon et al. 1997: CLN, 5 mol % MgO; n(o) 0.4–5.0 µm"
+          data: other/doped crystals/MgO-LiNbO3/nk/Zelmon-o.yml
+        - PAGE: Zelmon-e
+          name: "Zelmon et al. 1997: CLN, 5 mol % MgO; n(e) 0.4–5.0 µm"
+          data: other/doped crystals/MgO-LiNbO3/nk/Zelmon-e.yml
+        - PAGE: Gayer-5-o
+          name: "Gayer et al. 2008: CLN, 5 mol % MgO; n(o) 0.5–1.7 µm"
+          data: other/doped crystals/MgO-LiNbO3/nk/Gayer-5-o.yml
+        - PAGE: Gayer-5-e
+          name: "Gayer et al. 2008: CLN, 5 mol % MgO; n(e) 0.5–4.0 µm"
+          data: other/doped crystals/MgO-LiNbO3/nk/Gayer-5-e.yml
+        - PAGE: Gayer-1-e
+          name: "Gayer et al. 2008: SLN, 1 mol % MgO; n(e) 0.5–4.0 µm"
+          data: other/doped crystals/MgO-LiNbO3/nk/Gayer-1-e.yml
     - BOOK: Mg-LiTaO3
       name: "Mg:LiTaO<sub>3</sub> (Magnesium-doped lithium tantalate)"
       content:
@@ -6635,7 +6863,7 @@
           name: "BK7G18"
           data: specs/schott/optical/BK7G18.yml
         - PAGE: N-BK7
-          name: "SCHOTT N-BK7®"
+          name: "N-BK7"
           data: specs/schott/optical/N-BK7.yml
         - PAGE: N-BK7HT
           name: "N-BK7HT"

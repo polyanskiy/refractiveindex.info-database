@@ -111,7 +111,7 @@ ALL_YAML_FILES = list(DATABASE_PATH.rglob("*.yml"))
     ids=lambda x: str(x).replace(str(DATABASE_PATH), "")[1:].replace(".yml", ""),
 )
 def test_yaml_schema(yaml_file):
-    with open(yaml_file, "r") as file:
+    with open(yaml_file, "r", encoding="utf-8") as file:
         data = yaml.safe_load(file)
         if yaml_file.name == "about.yml":
             assert validator_about.validate(data), (

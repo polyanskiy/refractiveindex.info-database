@@ -12,3 +12,5 @@ DATA:
     coefficients: 2.1823 0.0125 0 0.0300 1 0 0 0 1
 COMMENTS: |
     Room temperature. Ordinary ray (o).
+CONDITIONS:
+    direction: o

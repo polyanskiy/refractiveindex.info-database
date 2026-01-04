@@ -14,3 +14,4 @@ DATA:
     coefficients: 4.613554 0.017202 0 0.055974 1 0 0 0 1 -0.014652 2
 CONDITIONS:
     temperature: 413
+    direction: e

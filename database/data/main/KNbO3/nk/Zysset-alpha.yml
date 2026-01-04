@@ -8,6 +8,9 @@ REFERENCES: |
     <a href="https://doi.org/10.1364/JOSAB.9.000380"><i>J. Opt. Soc. Am. B</i> <b>9</b>, 380-386 (1992)</a>
 COMMENTS: |
     n<sub>α</sub>; 22 °C. See the original publication for temperature dependence.
+CONDITIONS:
+    temperature: 295
+    direction: alpha
 DATA:
   - type: formula 4
     wavelength_range: 0.40 3.4

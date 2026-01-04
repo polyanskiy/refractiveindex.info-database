@@ -8,6 +8,8 @@ REFERENCES: |
     <a href="https://doi.org/10.1063/1.328128"><i>J. Appl. Phys.</i> <b>51</b>, 3848-3852  (1980)</a>
 COMMENTS: |
     Ordinary ray (o)
+CONDITIONS:
+    direction: o
 DATA:
   - type: formula 1
     wavelength_range: 2 12

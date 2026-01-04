@@ -26,6 +26,10 @@ https://github.com/stillyslalom/RefractiveIndex.jl
 Database browser and Transfer Matrix Method implementation<br>
 https://github.com/kitchenknif/PyTMM
 
+### tmmnlay
+Another TMM package loosely based on PyTMM<br>
+https://github.com/ovidiopr/tmmnlay
+
 ### refractiveindex.info-sqlite
 Python 3 + SQLite wrapper for the refractiveindex.info database<br>
 https://github.com/HugoGuillen/refractiveindex.info-sqlite
@@ -39,3 +43,6 @@ https://github.com/mtarek/refractiveindex.info (fork and further development)
 Python library for multilayer simulation and optimization<br>
 https://github.com/AnMoreau/PyMoosh
 
+### pyElli
+Ellipsometry data processing package with built-in refractive index data loader<br>
+https://pyelli.readthedocs.io

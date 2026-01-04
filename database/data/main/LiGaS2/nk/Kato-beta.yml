@@ -8,6 +8,8 @@ REFERENCES: |
     <a href="https://doi.org/10.1364/OL.42.004363"><i>Opt. Lett.</i>, <b>42</b>, 4363–4366 (2017)</a>
 COMMENTS: |
     n<sub>β</sub>; room temperature.
+CONDITIONS:
+    direction: beta
 DATA:
   - type: formula 4
     wavelength_range: 1.025 10.591

@@ -20,7 +20,7 @@ COMMENTS: |
     (3) Electronic Processes in Ionic Crystals (OU Press, NY, 1940) p.41
     Optical data are for ordinary ray (o).
 CONDITIONS:
-    orientation: o
+    direction: o
 PROPERTIES:
     density:
       - value: 5940

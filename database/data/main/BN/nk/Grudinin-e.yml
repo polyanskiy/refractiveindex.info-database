@@ -9,6 +9,8 @@ REFERENCES: |
     (Numerical data kindly provided by Georgy Ermolaev)
 COMMENTS: |
     Hexagonal boron nitride (hBN). Experimental data. Extraordinary ray (e).
+CONDITIONS:
+    direction: e
 DATA:
   - type: tabulated n
     data: |

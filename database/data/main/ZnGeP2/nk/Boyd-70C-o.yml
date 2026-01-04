@@ -11,8 +11,11 @@ REFERENCES: |
     <a href="https://doi.org/10.1364/JOSA.69.000730"><i>J. Opt. Soc. Am.</i> <b>69</b>, 730-733 (1979)</a><br>
     * Ref. 2 provides a dispersion formula based on data from Ref. 1
 COMMENTS: |
-    Ordinary ray (o); 20 °C
+    Ordinary ray (o); 70 °C
+CONDITIONS:
+    temperature: 343
+    direction: o
 DATA:
   - type: formula 2
     wavelength_range: 0.64 12
-    coefficients: 3.4733 5.2658 0.1338 1.4909 662.55
+    coefficients: 3.4492 5.3338 0.1353 1.4736 662.55

@@ -9,6 +9,8 @@ REFERENCES: |
     (Numerical data kindly provided by Tomasz Antosiewicz)
 COMMENTS: |
     Multilayer flakes. Out-of-plane (extraordinary ray, e). Room temperature.
+CONDITIONS:
+    direction: e
 DATA:
   - type: tabulated nk
     data: |

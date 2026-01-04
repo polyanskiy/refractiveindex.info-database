@@ -9,6 +9,8 @@ REFERENCES: |
     (Numerical data kindly provided by Georgy Ermolaev)
 COMMENTS: |
     Ordinary ray (o).<br>Optical constants of in-plane component of dielectric tensor of bulk MoS<sub>2</sub> measured by spectroscopic ellipsometry.
+CONDITIONS:
+    direction: o
 DATA:
   - type: tabulated nk
     data: |

@@ -9,6 +9,9 @@ REFERENCES: |
     As cited in Handbook of Optics, 3rd edition, Vol. 4. McGraw-Hill 2009.
 COMMENTS: |
     24.8 °C. Ordinary ray (o).
+CONDITIONS:
+    temperature: 297.95
+    direction: o
 DATA:
   - type: formula 4
     wavelength_range: 0.2138 1.529

@@ -12,6 +12,8 @@ REFERENCES: |
     * Ref. 2 provides a dispersion formulas based on  the experimental data from Ref. 1
 COMMENTS: |
     n<sub>γ</sub>; Room temperature.
+CONDITIONS:
+    direction: gamma
 DATA:
   - type: formula 4
     wavelength_range: 0.2894 1.064

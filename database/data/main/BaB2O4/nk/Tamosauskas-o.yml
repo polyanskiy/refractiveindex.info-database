@@ -11,6 +11,8 @@ REFERENCES: |
     (Numerical data kindly provided by Gintaras Tamošauskas)
 COMMENTS: |
     Beta barium borate (ß-BaB<sub>2</sub>O<sub>4</sub>, BBO). Ordinary ray (o).
+CONDITIONS:
+    direction: o
 DATA:
   - type: formula 2
     wavelength_range: 0.188 5.2

@@ -9,6 +9,8 @@ REFERENCES: |
     (As cited in Handbook of Optics, 2nd edition, Vol. 2. McGraw-Hill 1994).
 COMMENTS: |
     Extraordinary ray (e)
+CONDITIONS:
+    direction: e
 DATA:
   - type: formula 1
     wavelength_range: 0.35 0.70

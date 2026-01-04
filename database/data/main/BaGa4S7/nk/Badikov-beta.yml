@@ -8,6 +8,8 @@ REFERENCES: |
     <a href="https://doi.org/10.1002/pssr.201004425"><i>Phys. Status Solidi RRL</i>, <b>5</b>, 31–33 (2010)</a>
 COMMENTS: |
     n<sub>β</sub>; room temperature.
+CONDITIONS:
+    direction: beta
 DATA:
   - type: formula 4
     wavelength_range: 0.42 9.5

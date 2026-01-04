@@ -16,3 +16,4 @@ DATA:
 CONDITIONS:
     n2_method: Z-scan
     pulse_duration: 22e-12 30e-12
+    direction: e

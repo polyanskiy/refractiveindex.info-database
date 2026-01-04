@@ -8,6 +8,8 @@ REFERENCES: |
     <a href="https://doi.org/10.1016/S0030-4018(99)00091-7"><i>Opt. Commun.</i> <b>163</b>, 95-102 (1999)</a>
 COMMENTS: |
     Extraordinary ray (e). Room temperature
+CONDITIONS:
+    direction: e
 DATA:
   - type: formula 2
     wavelength_range: 0.204 2.172

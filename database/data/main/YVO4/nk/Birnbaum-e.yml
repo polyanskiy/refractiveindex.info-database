@@ -12,6 +12,8 @@ REFERENCES: |
     * Ref. 2 provides a dispersion formula based on data from Ref. 1
 COMMENTS: |
     Extraordinary ray (e)
+CONDITIONS:
+    direction: e
 DATA:
   - type: formula 2
     wavelength_range: 0.488 3.39

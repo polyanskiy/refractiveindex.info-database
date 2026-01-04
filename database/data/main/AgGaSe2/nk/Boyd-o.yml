@@ -12,7 +12,9 @@ REFERENCES: |
     * Ref. 2 provides a dispersion formula based on data from Ref. 1
 COMMENTS: |
     Ordinary ray (e)
+CONDITIONS:
+    direction: o
 DATA:
   - type: formula 2
     wavelength_range: 0.725 13.5
-    coefficients: 3.6453 2.2057 0.1879 1.8377 1600
+    coefficients: 3.6453 2.2057 0.1879 1.8377 cd C:\Users\polyanskiy\Dropbox\www

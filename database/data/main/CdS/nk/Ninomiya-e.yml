@@ -8,7 +8,10 @@ REFERENCES: |
     <a href="https://doi.org/10.1063/1.360355"><i>J. Appl. Phys.</i> <b>78</b>, 1183-1190 (1995)</a><br>
     [<a href="https://github.com/polyanskiy/refractiveindex.info-scripts/blob/master/scripts/Ninomiya%201995%20-%20CdS-o.py">Calculation script (Python)</a>]
 COMMENTS: |
-    Fit of author's experimental data to a simplified model of the interband transitions (MDF). Extraordinary ray (e), room temperature.
+    Fit of author's experimental data to a simplified model of the interband transitions (MDF).
+    Extraordinary ray (e), room temperature.
+CONDITIONS:
+    direction: e
 DATA:
   - type: tabulated nk
     data: |

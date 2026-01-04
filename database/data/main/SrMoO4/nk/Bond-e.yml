@@ -10,6 +10,8 @@ REFERENCES: |
     * Ref. 2 provides a dispersion formula based on data from ref. 1
 COMMENTS: |
     Extraordinary ray (e); Room temperature.
+CONDITIONS:
+    direction: e
 DATA:
   - type: formula 1
     wavelength_range: 0.45 2.4
