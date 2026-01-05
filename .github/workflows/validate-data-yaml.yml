@@ -1,0 +1,38 @@
+name: Validate data YAML files
+
+on:
+  pull_request:
+  push:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          pip install pyyaml jsonschema
+
+      - name: Collect YAML files to validate
+        run: |
+          find database/data \
+            -type f \
+            \( -name "*.yml" -o -name "*.yaml" \) \
+            ! -name "about.yml" \
+            ! -name "about.yaml" \
+            > files.txt
+
+      - name: Validate YAML files
+        run: |
+          if [ -s files.txt ]; then
+            python scripts/validate_yaml.py < files.txt
+          else
+            echo "No YAML files to validate."
+          fi
