@@ -32,7 +32,9 @@ jobs:
       - name: Validate YAML files
         run: |
           if [ -s files.txt ]; then
-            python scripts/validate_yaml.py $(cat files.txt)
+            while IFS= read -r file; do
+              python scripts/validate_yaml.py "$file"
+            done < files.txt
           else
             echo "No YAML files to validate."
           fi
