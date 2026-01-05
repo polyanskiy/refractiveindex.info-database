@@ -22,7 +22,7 @@ jobs:
 
       - name: Collect YAML files to validate
         run: |
-          find data \
+          find database/data \
             -type f \
             \( -name "*.yml" -o -name "*.yaml" \) \
             ! -name "about.yml" \
