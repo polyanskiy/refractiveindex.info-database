@@ -6,9 +6,7 @@
     "REFERENCES": {
       "type": "string"
     },
-    "DATA": {
-      "type": "object"
-    }
+    "DATA": { }
   },
   "additionalProperties": true
 }
