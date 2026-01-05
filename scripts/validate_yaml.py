@@ -10,7 +10,10 @@ with open(schema_path) as f:
 
 errors = False
 
-for path in sys.argv[1:]:
+# Read filenames from stdin (one per line)
+files = [line.rstrip("\n") for line in sys.stdin if line.strip()]
+
+for path in files:
     try:
         with open(path) as f:
             data = yaml.safe_load(f)
@@ -26,7 +29,7 @@ for path in sys.argv[1:]:
     except Exception as e:
         errors = True
         print(f"✗ {path}")
-        print(f"  {str(e)}")
+        print(f"  {e}")
 
 if errors:
     sys.exit(1)
