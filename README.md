@@ -1,3 +1,7 @@
+> ⚠️ **Notice (Jan 7 2026)**  
+> The default branch was renamed from `master` to `main`.  
+> Fork maintainers should update local tracking accordingly.
+
 # Refractive Index Database
 refractiveindex.info database is an extensive and well organized collection of optical constants of various materials. The database is in public domain. Copyright and related rights were waived by <a href="mailto:polyanskiy@refractiveindex.info">Mikhail Polyanskiy</a> through the <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal Public Domain Dedication</a>. You can copy, modify and distribute refractiveindex.info database, even for commercial purposes, all without asking permission.
 
