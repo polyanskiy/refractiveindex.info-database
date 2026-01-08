@@ -10,7 +10,7 @@ REFERENCES: |
     Optical properties of zinc-blende CdSe and Zn<sub>x</sub>Cd<sub>1−x</sub>Se films grown on GaAs.
     <a href="https://doi.org/10.1103/PhysRevB.49.7262"><i>Phys. Rev. B</i> <b>49</b>, 7262-7270 (1994)</a><br>
     * Authors of Ref. 1 provide a simplified model of the interband transitions (MDF) based on the experimental data from Ref. 2.<br>
-    [<a href="https://github.com/polyanskiy/refractiveindex.info-scripts/blob/master/scripts/Ninomiya%201995%20-%20cubic%20CdSe.py">Calculation script (Python)</a>]
+    [<a href="https://github.com/polyanskiy/refractiveindex.info-scripts/blob/main/scripts/Ninomiya%201995%20-%20cubic%20CdSe.py">Calculation script (Python)</a>]
 COMMENTS: |
     Cubic CdSe. Room temperature.
 DATA:

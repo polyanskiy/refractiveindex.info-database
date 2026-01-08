@@ -6,7 +6,7 @@ REFERENCES: |
     S. Adachi, T. Kimura, N. Suzuki.
     Optical properties of CdTe: Experiment and modeling.
     <a href="https://doi.org/10.1063/1.354543"><i>J. Appl. Phys.</i> <b>74</b>, 3435-3441 (1993)</a><br>
-    [<a href="https://github.com/polyanskiy/refractiveindex.info-scripts/blob/master/scripts/Adachi%201993%20-%20CdTe.py">Calculation script (Python)</a>]
+    [<a href="https://github.com/polyanskiy/refractiveindex.info-scripts/blob/main/scripts/Adachi%201993%20-%20CdTe.py">Calculation script (Python)</a>]
 DATA:
   - type: tabulated nk
     data: |

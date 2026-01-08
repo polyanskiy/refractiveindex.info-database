@@ -6,7 +6,7 @@ REFERENCES: |
     T. J. Bright, J. I. Watjen, Z. M. Zhang, C. Muratore, A. A. Voevodin.
     Optical properties of HfO<sub>2</sub> thin films deposited by magnetron sputtering: From the visible to the far-infrared.
     <a href="https://doi.org/10.1016/j.tsf.2012.07.037"><i>Thin Solid Films</i> <b>520</b>, 6793–6802 (2012)</a><br>
-    [<a href="https://github.com/polyanskiy/refractiveindex.info-scripts/blob/master/scripts/Bright%202012%20-%20HfO2.py">Calculation script (Python)</a>]
+    [<a href="https://github.com/polyanskiy/refractiveindex.info-scripts/blob/main/scripts/Bright%202012%20-%20HfO2.py">Calculation script (Python)</a>]
 COMMENTS: |
     Thin hafnia films of thicknesses from about 180 to 500 nm deposited on Si substrates using reactive magnetron sputtering.
 DATA:

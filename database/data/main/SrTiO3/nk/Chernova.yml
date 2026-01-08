@@ -6,7 +6,7 @@ REFERENCES: |
     E. Chernova, C. Brooks, D. Chvostova, Z. Bryknar, A. Dejneka, M. Tyunina.
     Optical NIR-VIS-VUV constants of advanced substrates for thin-film devices.
     <a href="https://doi.org/10.1364/OME.7.003844"><i>Opt. Mater. Express</i> <b>7</b>, 3844–3862 (2017)</a><br>
-    [<a href="https://github.com/polyanskiy/refractiveindex.info-scripts/blob/master/scripts/Chernova%202017%20-%20SrTiO3.py">Calculation script (Python)</a>]
+    [<a href="https://github.com/polyanskiy/refractiveindex.info-scripts/blob/main/scripts/Chernova%202017%20-%20SrTiO3.py">Calculation script (Python)</a>]
 COMMENTS: |
     Single crystal Strontium titanate.
 DATA:

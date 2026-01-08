@@ -6,7 +6,7 @@ REFERENCES: |
     S. Ozaki and S. Adachi.
     Spectroscopic ellipsometry and thermoreflectance of GaAs.
     <a href="https://doi.org/10.1063/1.359966"><i>J. Appl. Phys.</i> <b>78</b>, 3380-3386 (1995)</a><br>
-    [<a href="https://github.com/polyanskiy/refractiveindex.info-scripts/blob/master/scripts/Ozaki%201995%20-%20GaAs.py">Calculation script (Python)</a>]
+    [<a href="https://github.com/polyanskiy/refractiveindex.info-scripts/blob/main/scripts/Ozaki%201995%20-%20GaAs.py">Calculation script (Python)</a>]
 COMMENTS: |
     Fit of author's experimental data to a simplified model of the interband transitions (MDF). Room Temperature.
 DATA:

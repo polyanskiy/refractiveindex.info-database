@@ -6,7 +6,7 @@ REFERENCES: |
     Z. M. Zhang, G. Lefever-Button, F. R. Powell.
     Infrared refractive index and extinction coefficient of polyimide films.
     <a href="https://doi.org/10.1023/A:1022655309574"><i>Int. J. Thermophys.</i> <b>19</b>, 905-916 (1998)</a><br>
-    [<a href="https://github.com/polyanskiy/refractiveindex.info-scripts/blob/master/scripts/Zhang%201998%20-%20Kapton.py">Calculation script (Python)</a>]
+    [<a href="https://github.com/polyanskiy/refractiveindex.info-scripts/blob/main/scripts/Zhang%201998%20-%20Kapton.py">Calculation script (Python)</a>]
 COMMENTS: |
     Lorentz-Drude  model
 DATA:
