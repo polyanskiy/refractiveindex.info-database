@@ -247,6 +247,9 @@
         - PAGE: Fern
           name: "Fern and Onton 1971: n 0.56–2.2 µm"
           data: main/AlAs/nk/Fern.yml
+        - PAGE: Gadras
+          name: "Gadras et al. 2025: n,k 0.450–1.40 µm; 600 °C"
+          data: main/AlAs/nk/Gadras.yml
         - DIVIDER: "Models and simulations"
         - PAGE: Rakic
           name: "Rakić and Majewski 1996: n,k 0.221–2.48 µm"
@@ -258,6 +261,9 @@
         - PAGE: Aspnes
           name: "Aspnes et al. 1986: n,k 0.207–0.827 µm"
           data: main/GaAs/nk/Aspnes.yml
+        - PAGE: Gadras
+          name: "Gadras et al. 2025: n,k 0.450–1.40 µm; 600 °C"
+          data: main/GaAs/nk/Gadras.yml
         - PAGE: Perner
           name: "Perner et al. 2023: n 2.0–7.1 µm"
           data: main/GaAs/nk/Perner.yml
@@ -5668,6 +5674,21 @@
         - PAGE: Aspnes-80.4
           name: "Aspnes et al. 1986: n,k 0.207–0.827 µm; 80.4% Al"
           data: other/semiconductor alloys/AlAs-GaAs/nk/Aspnes-80.4.yml
+        - PAGE: Gadras-0
+          name: "Gadras et al. 2025: n,k 0.450–1.40 µm; 0% Al, 600°C"
+          data: other/semiconductor alloys/AlAs-GaAs/nk/Gadras-0.yml
+        - PAGE: Gadras-32
+          name: "Gadras et al. 2025: n,k 0.450–1.40 µm; 32% Al, 600 °C"
+          data: other/semiconductor alloys/AlAs-GaAs/nk/Gadras-32.yml
+        - PAGE: Gadras-53
+          name: "Gadras et al. 2025: n,k 0.450–1.40 µm; 53% Al, 600 °C"
+          data: other/semiconductor alloys/AlAs-GaAs/nk/Gadras-53.yml
+        - PAGE: Gadras-90
+          name: "Gadras et al. 2025: n,k 0.450–1.40 µm; 90% Al, 600 °C"
+          data: other/semiconductor alloys/AlAs-GaAs/nk/Gadras-90.yml
+        - PAGE: Gadras-100
+          name: "Gadras et al. 2025: n,k 0.450–1.40 µm; 100% Al, 600 °C"
+          data: other/semiconductor alloys/AlAs-GaAs/nk/Gadras-100.yml
         - PAGE: Perner-0
           name: "Perner et al. 2023: n 2.0–7.1 µm; 0% Al"
           data: other/semiconductor alloys/AlAs-GaAs/nk/Perner-0.yml

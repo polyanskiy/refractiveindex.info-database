@@ -1,5 +1,13 @@
 ﻿============================== next release ==============================
 
+  new data (thanks to Pierre Gadras, LAAS-CNRS, France, for submitting data in YAML format!)
+    other/semiconductor alloys/AlAs-GaAs/nk/Gadras-0.yml
+    other/semiconductor alloys/AlAs-GaAs/nk/Gadras-32.yml
+    other/semiconductor alloys/AlAs-GaAs/nk/Gadras-53.yml
+    other/semiconductor alloys/AlAs-GaAs/nk/Gadras-90.yml
+    other/semiconductor alloys/AlAs-GaAs/nk/Gadras-100.yml
+	main/AlAs/nk/Gadras.yml
+	main/GaAs/nk/Gadras.yml
   new data (thanks to Georgy Ermolaev, XPANCEO, Dubai, United Arab Emirates, for submitting data in YAML format!)
     main/MoOCl2/nk/Ermolaev-alpha.yml
     main/MoOCl2/nk/Ermolaev-beta.yml
