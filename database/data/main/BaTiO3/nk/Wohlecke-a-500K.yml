@@ -1,0 +1,14 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+REFERENCES: |
+    M. Wöhlecke, V. Marrello, A. Onton
+    Refractive index of BaTiO3 and SrTiO3 films.
+    <a href="https://doi.org/10.1063/1.323822"><i>J. Appl. Phys.</i> <b>48</b>, 1748-1750 (1987)</a>
+COMMENTS: |
+    Amorphous, 500K
+DATA:
+  - type: formula 1
+    wavelength_range: 0.3 1.0
+    coefficients: 0 2.6704746002625868 0.16101843952363673

@@ -4201,6 +4201,18 @@
         - PAGE: Timpu
           name: "Timpu et al. 2019: PLD n 0.4–0.8 µm"
           data: main/BaTiO3/nk/Timpu.yml
+        - PAGE: Wohlecke-a-300K
+          name: "Wohlecke et al. 1977: Amorphous 300K n 0.3–1.0 µm"
+          data: main/BaTiO3/nk/Wohlecke-a-300K.yml
+        - PAGE: Wohlecke-a-500K
+          name: "Wohlecke et al. 1977: Amorphous 500K n 0.3–1.0 µm"
+          data: main/BaTiO3/nk/Wohlecke-a-500K.yml
+        - PAGE: Wohlecke-mx
+          name: "Wohlecke et al. 1977: Microcrystalline n 0.3–1.0 µm"
+          data: main/BaTiO3/nk/Wohlecke-mx.yml
+        - PAGE: Wohlecke-x
+          name: "Wohlecke et al. 1977: Crystalline n 0.3–1.0 µm"
+          data: main/BaTiO3/nk/Wohlecke-x.yml
     - BOOK: Bi4Ti3O12
       name: "Bi<sub>4</sub>Ti<sub>3</sub>O<sub>12</sub> (Bismuth titanate, BTO)"
       content:
