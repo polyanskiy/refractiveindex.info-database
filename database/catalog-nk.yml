@@ -2195,9 +2195,6 @@
 #        - PAGE: Synowicki-IR
 #          name: "Synowicki and Tiwald 2004: n,k 1.7–33 µm"
 #          data: main/MgO/nk/Synowicki-IR.yml
-#        - PAGE: Chernova
-#          name: "Chernova et al. 2017: n,k 0.14–1.67 µm"
-#          data: main/MgO/nk/Chernova.yml
     - BOOK: MoO3
       name: "MoO<sub>3</sub> (Molybdenum trioxide)"
       content:
@@ -3381,12 +3378,6 @@
         - PAGE: Larruquert
           name: "Larruquert et al. 2004: n,k 0.00124–0.190 µm"
           data: main/Sc/nk/Larruquert.yml
-    - BOOK: DyScO3
-      name: "DyScO<sub>3</sub> (Dysprosium scandate)"
-      content:
-        - PAGE: Chernova
-          name: "Chernova et al. 2017: n,k 0.14–1.67 µm"
-          data: main/DyScO3/nk/Chernova.yml
     - DIVIDER: "Se - Selenium and selenides"
     - BOOK: Se
       name: "Se (Selenium)"
@@ -4228,9 +4219,6 @@
         - PAGE: Dodge
           name: "Dodge 1986: n 0.43–3.8 µm"
           data: main/SrTiO3/nk/Dodge.yml
-        - PAGE: Chernova
-          name: "Chernova 2017: n,k 0.14–1.67 µm"
-          data: main/SrTiO3/nk/Chernova.yml
         - PAGE: Bond
           name: "Bond 1965: n 0.45–3.8 µm"
           data: main/SrTiO3/nk/Bond.yml
@@ -5855,12 +5843,6 @@
         - PAGE: Moerland
           name: "Moerland and Hoogenboom 2016: n,k 0.4–1.0 µm"
           data: other/mixed crystals/In2O3-SnO2/nk/Moerland.yml
-    - BOOK: LaAlO3-SrAlO3
-      name: "LaAlO<sub>3</sub>-Sr<sub>2</sub>TaAlO<sub>6</sub> (Lanthanum strontium aluminum tantalate, LSAT)"
-      content:
-        - PAGE: Chernova
-          name: "Chernova et al. 2017: n,k 0.14–1.67 µm "
-          data: other/mixed crystals/LaAlO3-Sr2TaAlO6/nk/Chernova.yml
     - BOOK: TlBr-TlCl
       name: "TlBr-TlCl (Thallium bromo-chloride, KRS-6)"
       content:
@@ -5952,12 +5934,6 @@
         - PAGE: Carvajal-γ
           name: "Carvajal et al. 2007: n(γ) 0.4–1.5 µm"
           data: other/doped crystals/Nb-RbTiOPO4/nk/Carvajal-gamma.yml
-    - BOOK: Nb-SrTiO3
-      name: "Nb:SrTiO<sub>3</sub> (Niobium-doped strontium titanate)"
-      content:
-        - PAGE: Chernova
-          name: "Chernova et al. 2017: n,k 0.14–1.67 µm"
-          data: other/doped crystals/Nb-SrTiO3/nk/Chernova.yml
     - BOOK: Al-ZnO
       name: "Al:ZnO (Aluminium-doped zinc oxide, AZO)"
       content:
