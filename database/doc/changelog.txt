@@ -1,5 +1,10 @@
 ﻿============================== next release ==============================
 
+  new data (thanks to Roy van der Linden, Advanced Research Center for Nanolithography, Amsterdam, Netherlands, for submitting data in YAML format!)
+    main/CaF2/n2/VanderLinden.yml
+    main/KBr/n2/VanderLinden.yml
+    main/SiO2/n2/VanderLinden.yml
+    glass/optical/BK7/n2/VanderLinden.yml
   new data (thanks to Pierre Gadras, LAAS-CNRS, France, for submitting data in YAML format!)
     other/semiconductor alloys/AlAs-GaAs/nk/Gadras-0.yml
     other/semiconductor alloys/AlAs-GaAs/nk/Gadras-32.yml
