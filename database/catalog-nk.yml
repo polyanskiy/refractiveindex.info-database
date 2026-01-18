@@ -2192,9 +2192,6 @@
         - PAGE: Synowicki-UV
           name: "Synowicki and Tiwald 2004: n,k 0.13–17 µm"
           data: main/MgO/nk/Synowicki-UV.yml
-#        - PAGE: Synowicki-IR
-#          name: "Synowicki and Tiwald 2004: n,k 1.7–33 µm"
-#          data: main/MgO/nk/Synowicki-IR.yml
     - BOOK: MoO3
       name: "MoO<sub>3</sub> (Molybdenum trioxide)"
       content:
@@ -2539,9 +2536,6 @@
         - PAGE: Synowicki-UV
           name: "Synowicki and Tiwald 2004: n,k 0.13–17 µm"
           data: main/ZrO2/nk/Synowicki-UV.yml
-#        - PAGE: Synowicki-IR
-#          name: "Synowicki and Tiwald 2004: n,k 1.7–33 µm"
-#          data: main/ZrO2/nk/Synowicki-IR.yml
         - DIVIDER: "Nanoparticles"
         - PAGE: Bodurov
           name: "Bodurov et al. 2016: Nanoparticles; n 0.405–0.635 µm"
@@ -2954,9 +2948,6 @@
         - PAGE: Synowicki-UV
           name: "Synowicki and Tiwald 2004: n,k 0.13–17 µm"
           data: main/As2S3/nk/Synowicki-UV.yml
-#        - PAGE: Synowicki-IR
-#          name: "Synowicki and Tiwald 2004: n,k 1.7–33 µm"
-#          data: main/As2S3/nk/Synowicki-IR.yml
     - BOOK: BaGa4S7
       name: "BaGa<sub>4</sub>S<sub>7</sub> (Barium gallium sulfide, BGS)"
       content:
