@@ -4213,6 +4213,13 @@
         - PAGE: Wohlecke-x
           name: "Wohlecke et al. 1977: Crystalline n 0.3–1.0 µm"
           data: main/BaTiO3/nk/Wohlecke-x.yml
+        - PAGE: Johnston-x
+          name: "Johnston. 1971: Crystalline n 0.4–1.0 µm"
+          data: main/BaTiO3/nk/Johnston-x.yml
+        - PAGE: Johnston-x-clamped
+          name: "Johnston. 1971: Crystalline, clamped n 0.4–1.0 µm"
+          data: main/BaTiO3/nk/Johnston-x-clmaped.yml
+
     - BOOK: Bi4Ti3O12
       name: "Bi<sub>4</sub>Ti<sub>3</sub>O<sub>12</sub> (Bismuth titanate, BTO)"
       content:
@@ -4243,6 +4250,15 @@
         - PAGE: Bond
           name: "Bond 1965: n 0.45–3.8 µm"
           data: main/SrTiO3/nk/Bond.yml
+        - PAGE: Wohlecke-a-300K
+          name: "Wohlecke et al. 1977: Amorphous 300K n 0.3–1.0 µm"
+          data: main/SrTiO3/nk/Wohlecke-a-300K.yml
+        - PAGE: Wohlecke-mx
+          name: "Wohlecke et al. 1977: Microcrystalline n 0.3–1.0 µm"
+          data: main/SrTiO3/nk/Wohlecke-mx.yml
+        - PAGE: Wohlecke-x
+          name: "Wohlecke et al. 1977: Crystalline n 0.3–1.0 µm"
+          data: main/SrTiO3/nk/Wohlecke-x.yml
     - DIVIDER: "Tm - Thulium"
     - BOOK: Tm
       name: "Tm (Thulium)"
