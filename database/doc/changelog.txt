@@ -1,5 +1,16 @@
 ﻿============================== next release ==============================
 
+  new data (thanks to Pavel Dmitriev, National University of Singapore, for submitting data in YAML format on GitHub!)
+    main/BaTiO3/nk/Timpu.yml
+    main/BaTiO3/nk/Johnston-unclamped.yml
+    main/BaTiO3/nk/Johnston-clamped.yml
+    main/BaTiO3/nk/Wohlecke-a-300K.yml
+    main/BaTiO3/nk/Wohlecke-a-500K.yml
+    main/BaTiO3/nk/Wohlecke-mx.yml
+    main/SrTiO3/nk/Wohlecke-a.yml
+    main/SrTiO3/nk/Wohlecke-mx.yml
+  merged data (Dodge provides Sellmeier formula based on Bond's data)
+    main/SrTiO3/nk/Bond.yml; main/SrTiO3/nk/Dodge.yml
   removed data (unreliable: published model does not match graphical data)
     main/LaAlO3/nk/Chernova.yml
     main/MgAl2O4/nk/Chernova.yml

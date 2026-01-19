@@ -4180,6 +4180,7 @@
     - BOOK: BaTiO3
       name: "BaTiO<sub>3</sub> (Barium titanate)"
       content:
+        - DIVIDER: "Bulk"
         - PAGE: Wemple-o
           name: "Wemple et al. 1968: n(o) 0.4–0.7 µm"
           data: main/BaTiO3/nk/Wemple-o.yml
@@ -4187,26 +4188,24 @@
           name: "Wemple et al. 1968: n(e) 0.4–0.7 µm"
           data: main/BaTiO3/nk/Wemple-e.yml
         - PAGE: Timpu
-          name: "Timpu et al. 2019: PLD n 0.4–0.8 µm"
+          name: "Timpu et al. 2019: PLD; n 0.4–0.8 µm"
           data: main/BaTiO3/nk/Timpu.yml
+        - PAGE: Johnston-x
+          name: "Johnston 1971: Unclamped measurements; n 0.4–1.0 µm"
+          data: main/BaTiO3/nk/Johnston-unclamped.yml
+        - PAGE: Johnston-x-clamped
+          name: "Johnston 1971: Clamped measurements; n,k 0.4–1.0 µm"
+          data: main/BaTiO3/nk/Johnston-clamped.yml
+        - DIVIDER: "Thin film"
         - PAGE: Wohlecke-a-300K
-          name: "Wohlecke et al. 1977: Amorphous 300K n 0.3–1.0 µm"
+          name: "Wöhlecke et al. 1977: Amorphous; n 0.3–1.0 µm; 300 K"
           data: main/BaTiO3/nk/Wohlecke-a-300K.yml
         - PAGE: Wohlecke-a-500K
-          name: "Wohlecke et al. 1977: Amorphous 500K n 0.3–1.0 µm"
+          name: "Wöhlecke et al. 1977: Amorphous; n 0.3–1.0 µm; 500K"
           data: main/BaTiO3/nk/Wohlecke-a-500K.yml
         - PAGE: Wohlecke-mx
-          name: "Wohlecke et al. 1977: Microcrystalline n 0.3–1.0 µm"
+          name: "Wöhlecke et al. 1977: Microcrystalline; n 0.3–1.0 µm"
           data: main/BaTiO3/nk/Wohlecke-mx.yml
-        - PAGE: Wohlecke-x
-          name: "Wohlecke et al. 1977: Crystalline n 0.3–1.0 µm"
-          data: main/BaTiO3/nk/Wohlecke-x.yml
-        - PAGE: Johnston-x
-          name: "Johnston. 1971: Crystalline n 0.4–1.0 µm"
-          data: main/BaTiO3/nk/Johnston-x.yml
-        - PAGE: Johnston-x-clamped
-          name: "Johnston. 1971: Crystalline, clamped n 0.4–1.0 µm"
-          data: main/BaTiO3/nk/Johnston-x-clamped.yml
     - BOOK: Bi4Ti3O12
       name: "Bi<sub>4</sub>Ti<sub>3</sub>O<sub>12</sub> (Bismuth titanate, BTO)"
       content:
@@ -4228,21 +4227,17 @@
     - BOOK: SrTiO3
       name: "SrTiO<sub>3</sub> (Strontium titanate, STO)"
       content:
-        - PAGE: Dodge
-          name: "Dodge 1986: n 0.43–3.8 µm"
-          data: main/SrTiO3/nk/Dodge.yml
+        - DIVIDER: "Bulk"
         - PAGE: Bond
-          name: "Bond 1965: n 0.45–3.8 µm"
+          name: "Bond 1965: n 0.43–3.8 µm"
           data: main/SrTiO3/nk/Bond.yml
-        - PAGE: Wohlecke-a-300K
-          name: "Wohlecke et al. 1977: Amorphous 300K n 0.3–1.0 µm"
-          data: main/SrTiO3/nk/Wohlecke-a-300K.yml
+        - DIVIDER: "Thin film"
+        - PAGE: Wohlecke-a
+          name: "Wöhlecke et al. 1977: Amorphous; n 0.3–1.0 µm"
+          data: main/SrTiO3/nk/Wohlecke-a.yml
         - PAGE: Wohlecke-mx
-          name: "Wohlecke et al. 1977: Microcrystalline n 0.3–1.0 µm"
+          name: "Wöhlecke et al. 1977: Microcrystalline; n 0.3–1.0 µm"
           data: main/SrTiO3/nk/Wohlecke-mx.yml
-        - PAGE: Wohlecke-x
-          name: "Wohlecke et al. 1977: Crystalline n 0.3–1.0 µm"
-          data: main/SrTiO3/nk/Wohlecke-x.yml
     - DIVIDER: "Tm - Thulium"
     - BOOK: Tm
       name: "Tm (Thulium)"

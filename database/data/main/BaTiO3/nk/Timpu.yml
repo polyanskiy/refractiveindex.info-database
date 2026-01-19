@@ -3,11 +3,11 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: |
-    Flavia Timpu, Marc Reig Escalé, Maria Timofeeva, Nives Strkalj, Morgan Trassin, Manfred Fiebig, Rachel Grange
-    Enhanced Nonlinear Yield from Barium Titanate Metasurface Down to the Near Ultraviolet.
-    <a href="https://doi.org/10.1002/adom.201900936"><i>Adv. Opt. Materials</i> <b>7</b>, 1900936 (2019)</a><br>
+    F. Timpu, M. R. Escalé, M. Timofeeva, N. Strkalj, M. Trassin, M. Fiebig, R. Grange.
+    Enhanced nonlinear yield from barium titanate metasurface down to the near ultraviolet.
+    <a href="https://doi.org/10.1002/adom.201900936"><i>Adv. Opt. Mater.</i> <b>7</b>, 1900936 (2019)</a>
 COMMENTS: |
-    PLD Grown BaTiO3, digitized plot
+    PLD Grown BaTiO<sub>3</sub>, digitized plot
 DATA:
   - type: tabulated n
     data: |

@@ -3,11 +3,11 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: |
-    Alan R. Johnston
-    Dispersion of Electro‐Optic Effect in BaTiO3
+    A. R. Johnston.
+    Dispersion of electro‐optic effect in BaTiO<sub>3</sub>.
     <a href="https://doi.org/10.1063/1.1660761"><i>J. Appl. Phys.</i> <b>42</b>, 3501-3507 (1971)</a>
 COMMENTS: |
-    Crystalline
+    Crystalline BaTiO<sub>3</sub>. Clamped measurements.
 DATA:
   - type: tabulated nk
     wavelength_range: 0.4 1.0
