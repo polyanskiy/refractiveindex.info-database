@@ -1,5 +1,23 @@
 ﻿============================== next release ==============================
 
+  removed data (unreliable: published model does not match graphical data)
+    main/LaAlO3/nk/Chernova.yml
+    main/MgAl2O4/nk/Chernova.yml
+    other/doped crystals/Nb-SrTiO3/nk/Chernova.yml
+    other/mixed crystals/LaAlO3-Sr2TaAlO6/nk/Chernova.yml
+  new data (thanks to Roy van der Linden, Advanced Research Center for Nanolithography, Amsterdam, Netherlands, for submitting data in YAML format!)
+    main/CaF2/n2/VanderLinden.yml
+    main/KBr/n2/VanderLinden.yml
+    main/SiO2/n2/VanderLinden.yml
+    glass/optical/BK7/n2/VanderLinden.yml
+  new data (thanks to Pierre Gadras, LAAS-CNRS, France, for submitting data in YAML format!)
+    other/semiconductor alloys/AlAs-GaAs/nk/Gadras-0.yml
+    other/semiconductor alloys/AlAs-GaAs/nk/Gadras-32.yml
+    other/semiconductor alloys/AlAs-GaAs/nk/Gadras-53.yml
+    other/semiconductor alloys/AlAs-GaAs/nk/Gadras-90.yml
+    other/semiconductor alloys/AlAs-GaAs/nk/Gadras-100.yml
+	main/AlAs/nk/Gadras.yml
+	main/GaAs/nk/Gadras.yml
   new data (thanks to Georgy Ermolaev, XPANCEO, Dubai, United Arab Emirates, for submitting data in YAML format!)
     main/MoOCl2/nk/Ermolaev-alpha.yml
     main/MoOCl2/nk/Ermolaev-beta.yml

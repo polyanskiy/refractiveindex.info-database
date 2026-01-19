@@ -6,7 +6,7 @@ REFERENCES: |
     A. B. Djurišić, E. H. Li, D. Rakić, M. L. Majewski.
     Modeling the optical properties of AlSb, GaSb, and InSb.
     <a href="https://doi.org/10.1007/s003390050006"><i>Appl. Phys. A</i> <b>70</b>, 29-32 (2000)</a><br>
-    [<a href="https://github.com/polyanskiy/refractiveindex.info-scripts/blob/master/scripts/Djurisic%202000%20-%20GaSb.py">Calculation script (Python)</a>]
+    [<a href="https://github.com/polyanskiy/refractiveindex.info-scripts/blob/main/scripts/Djurisic%202000%20-%20GaSb.py">Calculation script (Python)</a>]
 DATA:
   - type: tabulated nk
     data: |

@@ -8,8 +8,8 @@ REFERENCES: |
     <a href="https://doi.org/10.1016/j.tsf.2004.02.028"><i>Thin Solid Films</i> <b>455-456</b>, 248-255 (2004)</a>
     <br>
     Calculation scripts (Python):
-    <a href="https://github.com/polyanskiy/refractiveindex.info-scripts/blob/master/scripts/Synowicki%202004%20-%20As2S3%20--%20UV.py">Synowicki 2004 - As2S3 -- UV.py</a>
-    <a href="https://github.com/polyanskiy/refractiveindex.info-scripts/blob/master/scripts/Synowicki%202004%20-%20Aux%20funcs.py">Synowicki 2004 - Aux funcs.py</a>
+    <a href="https://github.com/polyanskiy/refractiveindex.info-scripts/blob/main/scripts/Synowicki%202004%20-%20As2S3%20--%20UV.py">Synowicki 2004 - As2S3 -- UV.py</a>
+    <a href="https://github.com/polyanskiy/refractiveindex.info-scripts/blob/main/scripts/Synowicki%202004%20-%20Aux%20funcs.py">Synowicki 2004 - Aux funcs.py</a>
 COMMENTS: |
     Data generated from oscillator model.
 DATA:

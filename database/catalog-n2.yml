@@ -126,6 +126,9 @@
     - BOOK: KBr
       name: "KBr (Potassium bromide)"
       content:
+        - PAGE: VanderLinden
+          name: "VanderLinden et al. 2025"
+          data: main/KBr/n2/VanderLinden.yml
         - PAGE: Polyanskiy
           name: "Polyanskiy et al. 2024"
           data: main/KBr/n2/Polyanskiy.yml
@@ -213,15 +216,18 @@
     - BOOK: CaF2
       name: "CaF<sub>2</sub> (Calcium fluoride)"
       content:
+        - PAGE: VanderLinden
+          name: "VanderLinden et al. 2025"
+          data: main/CaF2/n2/VanderLinden.yml
+        - PAGE: Patwardhan
+          name: "Patwardhan et al. 2021"
+          data: main/CaF2/n2/Patwardhan.yml
         - PAGE: Ensley
           name: "Ensley and Bambha 2019"
           data: main/CaF2/n2/Ensley.yml
         - PAGE: Kabacinski
           name: "Kabaciński et al. 2019"
           data: main/CaF2/n2/Kabacinski.yml
-        - PAGE: Patwardhan
-          name: "Patwardhan et al. 2021"
-          data: main/CaF2/n2/Patwardhan.yml
         - PAGE: Adair
           name: "Adair et al. 1989"
           data: main/CaF2/n2/Adair.yml
@@ -530,6 +536,9 @@
       name: "SiO<sub>2</sub> (Silicon dioxide, Silica, Quartz)"
       content:
         - DIVIDER: "Fused silica"
+        - PAGE: VanderLinden
+          name: "VanderLinden et al. 2025"
+          data: main/SiO2/n2/VanderLinden.yml
         - PAGE: Jansonas
           name: "Jansonas et al. 2022"
           data: main/SiO2/n2/Jansonas.yml
@@ -979,6 +988,9 @@
     - BOOK: BK7
       name: "BK7"
       content:
+        - PAGE: VanderLinden
+          name: "VanderLinden et al. 2025"
+          data: glass/optical/BK7/n2/VanderLinden.yml
         - PAGE: Ensley
           name: "Ensley and Bambha 2019"
           data: glass/optical/BK7/n2/Ensley.yml
