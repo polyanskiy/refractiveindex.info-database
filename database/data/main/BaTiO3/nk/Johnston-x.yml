@@ -1,0 +1,14 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+REFERENCES: |
+    Alan R. Johnston
+    Dispersion of Electro‐Optic Effect in BaTiO3
+    <a href="https://doi.org/10.1063/1.1660761"><i>J. Appl. Phys.</i> <b>42</b>, 3501-3507 (1971)</a>
+COMMENTS: |
+    Crystalline
+DATA:
+  - type: formula 1
+    wavelength_range: 0.4 1.0
+    coefficients: 0 1.6859630951999998 0.2799 2.6109696329999994 0.1377
