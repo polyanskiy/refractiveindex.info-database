@@ -6,7 +6,7 @@ REFERENCES: |
     C.-W. Chen, T.-T. Tang, S.-H. Lin, J. Y. Huang, C.-S. Chang, P.-K. Chung, S.-T. Yen, C.-L. Pan.
     Optical properties and potential applications of ɛ-GaSe at terahertz frequencies.
     <a href="https://doi.org/10.1364/JOSAB.26.000A58"><i>J. Opt. Soc. Am. B</i> <b>26</b>, A58-A65 (2009)</a><br>
-    [<a href="https://github.com/polyanskiy/refractiveindex.info-scripts/blob/master/scripts/Chen%202009%20-%20GaSe-o.py">Calculation script (Python)</a>]
+    [<a href="https://github.com/polyanskiy/refractiveindex.info-scripts/blob/main/scripts/Chen%202009%20-%20GaSe-o.py">Calculation script (Python)</a>]
 COMMENTS: |
     Ordinary ray (o)
 CONDITIONS:

@@ -1,0 +1,17 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+REFERENCES: |
+    R. Van der Linden, N. Kuzkova, P. M. Kraus.
+    Nonlinear refractive index measurements of solids and the impact of B-integral on the phase of generated high-order harmonics.
+    <a href="https://doi.org/10.1364/OE.579736"><i>Opt. Express</i> <b>33</b>, 53268 (2025)</a>
+COMMENTS: |
+    47 fs. Common-path interferometry. 
+DATA:
+  - type: tabulated n2
+    data: |
+        0.804 1.47e-20
+CONDITIONS:
+    n2_method: CPI
+    pulse_duration: 47e-15
