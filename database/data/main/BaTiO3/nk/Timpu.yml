@@ -6,8 +6,13 @@ REFERENCES: |
     F. Timpu, M. R. Escalé, M. Timofeeva, N. Strkalj, M. Trassin, M. Fiebig, R. Grange.
     Enhanced nonlinear yield from barium titanate metasurface down to the near ultraviolet.
     <a href="https://doi.org/10.1002/adom.201900936"><i>Adv. Opt. Mater.</i> <b>7</b>, 1900936 (2019)</a>
+    (Data points extracted from a figure)
 COMMENTS: |
-    PLD Grown BaTiO<sub>3</sub>, digitized plot
+    Pulsed laser deposition (PLD) grown BaTiO<sub>3</sub>.
+CONDITIONS:
+    film_thickness: 220e-9
+    substrate: glass
+    deposition_temperature: 923
 DATA:
   - type: tabulated n
     data: |
