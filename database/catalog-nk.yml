@@ -501,7 +501,7 @@
         - PAGE: Sasaki-e
           name: "Sasaki et al. 2003: n(e) 0.19–2.75 µm"
           data: main/CsLiB6O10/nk/Sasaki-e.yml
-    - BOOK: LuAl3(BO3)4
+    - BOOK: LuAl3_BO3_4
       name: "LuAl<sub>3</sub>(BO<sub>3</sub>)<sub>4</sub> (Lutetium aluminium borate, LuAB)"
       content:
         - PAGE: Fang-o
@@ -762,7 +762,7 @@
         - PAGE: Ghosh-e
           name: "Ghosh 1999: n(e) 0.204–2.172 µm"
           data: main/CaCO3/nk/Ghosh-e.yml
-    - BOOK: CaMg(CO3)2
+    - BOOK: CaMg_CO3_2
       name: "CaMg(CO<sub>3</sub>)<sub>2</sub> (Calcium magnesium carbonate, Dolomite)"
       content:
         - PAGE: Querry-o
@@ -5246,7 +5246,7 @@
         - PAGE: Querry-IR
           name: "Querry 1987: SF-96 fluid; n,k 2.5–56 µm"
           data: organic/(C2H6OSi)n - polydimethylsiloxane/nk/Querry-IR.yml
-    - BOOK: (C2ClF3)n - polychlorotrifluoroethylene
+    - BOOK: C2ClF3_n - polychlorotrifluoroethylene
       name: "(C<sub>2</sub>ClF<sub>3</sub>)<sub>n</sub> (Polychlorotrifluoroethylene, PCTFE)"
       content:
         - PAGE: Smith
@@ -5258,7 +5258,7 @@
         - PAGE: Bodurov
           name: "Bodurov et al. 2016: PDLA; n 0.405–0.635 µm"
           data: organic/(C3H4O2)n - polylactic acid/nk/Bodurov.yml
-    - BOOK: poly(methyl_methacrylate)
+    - BOOK: poly_methyl_methacrylate
       name: "(C<sub>5</sub>H<sub>8</sub>O<sub>2</sub>)<sub>n</sub> (Poly(methyl methacrylate), PMMA)"
       content:
         - PAGE: Sultanova
@@ -5306,13 +5306,13 @@
         - PAGE: Juntunen
           name: "Juntunen et al. 2024: microcrystalline; n 1.10–1.65 µm"
           data: organic/(C6H10O5)n - cellulose/nk/Juntunen.yml
-    - BOOK: poly(N-isopropylacrylamide)
+    - BOOK: poly_N-isopropylacrylamide
       name: "(C<sub>6</sub>H<sub>11</sub>NO)<sub>n</sub> (Poly(N-isopropylacrylamide), PNIPAM)"
       content:
         - PAGE: Brasse
           name: "Brasse et al. 2018: n,k 0.246–1.69 µm"
           data: organic/(C6H11NO)n - poly(N-isopropylacrylamide)/nk/Brasse.yml
-    - BOOK: (C6H12)n - polymethylpentene
+    - BOOK: C6H12_n - polymethylpentene
       name: "(C<sub>6</sub>H<sub>12</sub>)<sub>n</sub> (Polymethylpentene, PMP)"
       content:
         - PAGE: Smith
@@ -6011,7 +6011,7 @@
           name: "Smith 1984: Annealed at 750 °; n,k 0.261–0.827 µm"
           data: other/amorphous/HAC/nk/Smith-Ta750C.yml
     - DIVIDER: "Mixed organic compounds"
-    - BOOK: (C8H8)n-(C3H3N)m
+    - BOOK: C8H8_n-C3H3N_m
       name: "(C<sub>8</sub>H<sub>8</sub>)<sub>n</sub>-(C<sub>3</sub>H<sub>3</sub>N)<sub>m</sub> (Styrene-acrylonitrile, SAN)"
       content:
         - PAGE: Sultanova
@@ -6048,7 +6048,7 @@
           name: "Kerremans et al. 2020: n,k 0.37–1.6 µm"
           data: other/mixed organic/PBDBT-ITIC/nk/Kerremans.yml
     - DIVIDER: "Mixed organic/inorganic compounds"
-    - BOOK: H2O-C3H5(OH)3
+    - BOOK: H2O-C3H5_OH_3
       name: "H<sub>2</sub>O:C<sub>3</sub>H<sub>5</sub>(OH)<sub>3</sub> (Water:Glycerol)"
       content:
         - PAGE: Gupta-0
@@ -6063,7 +6063,7 @@
         - PAGE: Gupta-100
           name: "Gupta et al. 2022: n 0.40–0.71 µm; 100 wt% glycerol"
           data: organic/C3H8O3 - glycerol/nk/Gupta.yml
-    - BOOK: D2O-C3H5(OH)3
+    - BOOK: D2O-C3H5_OH_3
       name: "D<sub>2</sub>O:C<sub>3</sub>H<sub>5</sub>(OH)<sub>3</sub> (Heavy water:Glycerol)"
       content:
         - PAGE: Sarkar-0
@@ -6559,7 +6559,7 @@
         - PAGE: Aftenieva
           name: "Aftenieva et al. 2023: n,k 0.300–1.20 µm"
           data: other/perovskite/CsPbI3/nk/Aftenieva.yml
-    - BOOK: CsPb(Br,Cl)3
+    - BOOK: CsPb_BrCl_3
       name: "CsPb(Br,Cl)3 (Cesium lead tribromide - Cesium lead trichloride)"
       content:
         - PAGE: Ermolaev-Br1.3Cl1.7-o
