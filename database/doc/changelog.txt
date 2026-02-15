@@ -1,5 +1,7 @@
 ﻿============================== next release ==============================
 
+  new data (thanks to Nathan Ullberg, Fresnel Institute, Marseille, France, for submitting data in YAML format!)
+    main/MoS2/nk/Ullberg.yml
   new data (thanks to Pavel Dmitriev, National University of Singapore, for submitting data in YAML format on GitHub!)
     main/BaTiO3/nk/Timpu.yml
     main/BaTiO3/nk/Johnston-unclamped.yml

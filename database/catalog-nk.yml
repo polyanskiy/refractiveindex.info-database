@@ -3154,6 +3154,9 @@
         - PAGE: Zhang
           name: "Zhang et al. 2015: monolayer (1L) film; n,k 0.40–0.75 µm"
           data: main/MoS2/nk/Zhang.yml
+        - PAGE: Ullberg
+          name: "Ullberg et al. 2025: monolayer (1L) film; n,k 0.24–1.5 µm"
+          data: main/MoS2/nk/Ullberg.yml
         - PAGE: Islam-1L
           name: "Islam et al. 2021: monolayer (1L) film; n,k 0.190–1.70 µm"
           data: main/MoS2/nk/Islam-1L.yml
