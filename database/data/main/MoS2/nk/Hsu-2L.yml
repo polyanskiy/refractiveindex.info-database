@@ -9,6 +9,8 @@ REFERENCES: |
     (Numerical data kindly provided by Andres Castellanos-Gomez)
 COMMENTS: |
     2-layer (2L)
+CONDITIONS:
+    film_thickness: 2L
 DATA:
   - type: tabulated nk
     data: |
@@ -2013,5 +2015,3 @@ DATA:
         0.85649 5.3276E+00 3.1746E-02
         0.85673 5.3968E+00 5.2910E-02
         0.85697 5.6667E+00 1.5873E-01
-CONDITIONS:
-    film_thickness: 2L

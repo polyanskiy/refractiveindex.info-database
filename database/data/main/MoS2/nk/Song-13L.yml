@@ -9,6 +9,9 @@ REFERENCES: |
     (Numerical data kindly provided by Baokun Song)
 COMMENTS: |
     13-layer, 13L
+CONDITIONS:
+    film_thickness: 13L
+    substrate: c-sapphire
 DATA:
   - type: tabulated nk
     data: |
@@ -1096,6 +1099,3 @@ DATA:
         1.6850 3.808166 0.101449
         1.6875 3.807389 0.101414
         1.6900 3.806613 0.101379
-CONDITIONS:
-    film_thickness: 13L
-    substrate: c-sapphire

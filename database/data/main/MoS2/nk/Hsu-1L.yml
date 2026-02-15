@@ -9,6 +9,8 @@ REFERENCES: |
     (Numerical data kindly provided by Andres Castellanos-Gomez)
 COMMENTS: |
     Monolayer (1-layer, 1L)
+CONDITIONS:
+    film_thickness: 1L
 DATA:
   - type: tabulated nk
     data: |
@@ -2013,5 +2015,3 @@ DATA:
         0.85649 5.1714E+00 0.0000E+00
         0.85673 5.2698E+00 0.0000E+00
         0.85697 5.4762E+00 0.0000E+00
-CONDITIONS:
-    film_thickness: 1L
