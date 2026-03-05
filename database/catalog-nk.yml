@@ -5772,6 +5772,9 @@
         - PAGE: Schubert
           name: "Schubert et al. 1995: n,k 0.250–0.954 µm"
           data: other/semiconductor alloys/GaP-InP/nk/Schubert.yml
+        - PAGE: Kaneko
+          name: "Kaneko and Kishino 1994: n 0.650–1.35 µm"
+          data: other/semiconductor alloys/GaP-InP/nk/Kaneko.yml
     - BOOK: GaAs-InAs-GaP-InP
       name: "GaAs-InAs-GaP-InP (Gallium indium arsenide phosphide, GaInAsP)"
       content:

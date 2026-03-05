@@ -1,5 +1,7 @@
 ﻿============================== next release ==============================
 
+  new data (thanks to Pedro Victor Sansoldo, University of Adelaide, Australia!)
+    other/semiconductor alloys/GaP-InP/nk/Kaneko.yml
   new data (thanks to Nathan Ullberg, Fresnel Institute, Marseille, France, for submitting data in YAML format!)
     main/MoS2/nk/Ullberg.yml
   new data (thanks to Pavel Dmitriev, National University of Singapore, for submitting data in YAML format on GitHub!)
