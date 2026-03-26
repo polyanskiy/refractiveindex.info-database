@@ -1,5 +1,8 @@
 ﻿============================== next release ==============================
 
+  new data (thanks to Emilia Pruszyńska-Karbownik, University of Warsaw, Poland, for submitting data in YAML format!)  
+    Pruszynska-Karbownik-o
+    Pruszynska-Karbownik-e
   new data (thanks to Pedro Victor Sansoldo, University of Adelaide, Australia!)
     other/semiconductor alloys/GaP-InP/nk/Kaneko.yml
   new data (thanks to Nathan Ullberg, Fresnel Institute, Marseille, France, for submitting data in YAML format!)
