@@ -329,6 +329,9 @@
         - PAGE: Johnson
           name: "Johnson and Christy 1972: n,k 0.188–1.937 µm"
           data: main/Au/nk/Johnson.yml
+        - PAGE: Chen
+          name: "Chen et al. 2025: n,k 0.210–0.600 µm"
+          data: main/Au/nk/Chen.yml
         - PAGE: Magnozzi-25C
           name: "Magnozzi et al. 2019: n,k 0.252–1.45 µm; 25 °C"
           data: main/Au/nk/Magnozzi-25C.yml
