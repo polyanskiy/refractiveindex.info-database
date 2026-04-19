@@ -1727,6 +1727,12 @@
         - PAGE: Lee
           name: "Lee et al. 2018: h-BN; n(o) 0.450–1.20 µm"
           data: main/BN/nk/Lee.yml
+        - PAGE: Choi-o
+          name: "Choi et al. 2026: h-BN; n,k(o) 0.190–1.00 µm"
+          data: main/BN/nk/Choi-o.yml
+        - PAGE: Choi-e
+          name: "Choi et al. 2026: h-BN; n,k(e) 0.190–1.00 µm"
+          data: main/BN/nk/Choi-e.yml
         - PAGE: Grudinin-o
           name: "Grudinin et al. 2023: h-BN; n(o) 0.250–1.70 µm"
           data: main/BN/nk/Grudinin-o.yml
