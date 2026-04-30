@@ -1,6 +1,10 @@
 ﻿============================== next release ==============================
 
-  new data (thanks to Bongjun Choi, University of Pennsylvania, Philadelphia, PA, USA, for submitting data!) 
+  new data (thanks to Pedro Sansoldo, University of Adelaide, SA, Australia, for suggesting data!)
+    other/semiconductor alloys/GaP-InP/nk/Ferrini-UV-VIS.yml
+    other/semiconductor alloys/GaP-InP/nk/FerriniIR.yml
+    other/semiconductor alloys/GaP-InP/nk/Ferrini-far-IR.yml
+  new data (thanks to Bongjun Choi, University of Pennsylvania, Philadelphia, PA, USA, for submitting data!)
     main/BN/nk/Choi-o.yml
     main/BN/nk/Choi-e.yml
   new data (thanks to Zeling Chen, University of Hong Kong, Pok Fu Lam, Hong Kong, for submitting data!) 

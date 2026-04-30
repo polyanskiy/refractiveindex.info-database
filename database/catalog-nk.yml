@@ -5780,6 +5780,15 @@
         - PAGE: Schubert
           name: "Schubert et al. 1995: n,k 0.250–0.954 µm"
           data: other/semiconductor alloys/GaP-InP/nk/Schubert.yml
+        - PAGE: Ferrini-UV-VIS
+          name: "Ferrini et al. 2002: n,k 0.225–0.653 µm"
+          data: other/semiconductor alloys/GaP-InP/nk/Ferrini-UV-VIS.yml
+        - PAGE: Ferrini-IR
+          name: "Ferrini et al. 2002: n 0.689–24.8 µm"
+          data: other/semiconductor alloys/GaP-InP/nk/Ferrini-IR.yml
+        - PAGE: Ferrini-far-IR
+          name: "Ferrini et al. 2002: n,k 15.5–124 µm"
+          data: other/semiconductor alloys/GaP-InP/nk/Ferrini-far-IR.yml
         - PAGE: Kaneko
           name: "Kaneko and Kishino 1994: n 0.650–1.35 µm"
           data: other/semiconductor alloys/GaP-InP/nk/Kaneko.yml
