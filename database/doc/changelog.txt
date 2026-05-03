@@ -1,5 +1,7 @@
 ﻿============================== next release ==============================
 
+  new data (thanks to Erick Martinez for submitting data!)
+    main/B/nk/Morita.yml
   new data (thanks to Pedro Sansoldo, University of Adelaide, SA, Australia, for suggesting data!)
     other/semiconductor alloys/GaP-InP/nk/Ferrini-UV-VIS.yml
     other/semiconductor alloys/GaP-InP/nk/FerriniIR.yml

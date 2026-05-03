@@ -447,6 +447,9 @@
     - BOOK: B
       name: "B (Boron)"
       content:
+        - PAGE: Morita
+          name: "Morita and Yamamoto 1975: n,k 0.350–0.975 µm"
+          data: main/B/nk/Morita.yml
         - PAGE: Fernandez-Perea
           name: "Fernández-Perea et al. 2007: n,k 0.00138–0.181 µm"
           data: main/B/nk/Fernandez-Perea.yml
