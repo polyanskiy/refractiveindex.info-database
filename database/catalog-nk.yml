@@ -2204,6 +2204,13 @@
         - PAGE: Synowicki
           name: "Synowicki and Tiwald 2004: n,k 0.13–33 µm"
           data: main/As2S3/nk/Synowicki.yml
+    - BOOK: MoO2
+      name: "MoO<sub>2</sub> (Molybdenum dioxide)"
+      content:
+        - DIVIDER: "Thin film"
+        - PAGE: Ganzhinov
+          name: "Ganzhinov et al. 2026: Thin film; n,k 0.191–1.69 µm"
+          data: main/MoO2/nk/Ganzhinov.yml
     - BOOK: MoO3
       name: "MoO<sub>3</sub> (Molybdenum trioxide)"
       content:

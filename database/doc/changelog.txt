@@ -1,5 +1,7 @@
 ﻿============================== next release ==============================
 
+  new data (thanks to Alexey Ganzhinov, University of Helsinki, Finland, for submitting data!)
+    main/MoO2/nk/Ganzhinov.yml
   new data (thanks to Erick Martinez for submitting data!)
     main/B/nk/Morita.yml
   new data (thanks to Pedro Sansoldo, University of Adelaide, SA, Australia, for suggesting data!)
