@@ -2168,6 +2168,9 @@
         - PAGE: Al-Kuhaili
           name: "Al-Kuhaili 2004: n 0.2–2.0 µm"
           data: main/HfO2/nk/Al-Kuhaili.yml
+        - PAGE: Siefke
+          name: "Siefke et al. 2026: Thin film; n,k 0.124–0.620 µm"
+          data: main/HfO2/nk/Siefke.yml
         - PAGE: Franta
           name: "Franta et al. 2015: n,k 0.115–125 µm"
           data: main/HfO2/nk/Franta.yml

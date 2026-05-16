@@ -1,5 +1,7 @@
 ﻿============================== next release ==============================
 
+  new data (thanks to Thomas Siefke, Friedrich-Schiller University Jena, Germany, for submitting data!)
+    main/HfO2/nk/Siefke.yml
   new data (thanks to Alexey Ganzhinov, University of Helsinki, Finland, for submitting data!)
     main/MoO2/nk/Ganzhinov.yml
   new data (thanks to Erick Martinez for submitting data!)
