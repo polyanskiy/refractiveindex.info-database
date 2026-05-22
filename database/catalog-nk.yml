@@ -261,6 +261,15 @@
         - PAGE: Aspnes
           name: "Aspnes et al. 1986: n,k 0.207–0.827 µm"
           data: main/GaAs/nk/Aspnes.yml
+        - PAGE: Franta-300K
+          name: "Franta et al. 2026: n,k 0.895–400 µm; 300 K"
+          data: main/GaAs/nk/Franta-300K.yml
+        - PAGE: Franta-370K
+          name: "Franta et al. 2026: n,k 0.922–400 µm; 370 K"
+          data: main/GaAs/nk/Franta-370K.yml
+        - PAGE: Franta-440K
+          name: "Franta et al. 2026: n,k 0.952–400 µm; 440 K"
+          data: main/GaAs/nk/Franta-440K.yml
         - PAGE: Gadras
           name: "Gadras et al. 2025: n,k 0.450–1.40 µm; 600 °C"
           data: main/GaAs/nk/Gadras.yml

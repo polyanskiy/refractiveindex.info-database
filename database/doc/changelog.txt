@@ -1,5 +1,9 @@
 ﻿============================== next release ==============================
 
+  new data (thanks to Daniel Franta!)
+    main/GaAs/nk/Franta-300K.yml
+    main/GaAs/nk/Franta-370K.yml
+    main/GaAs/nk/Franta-440K.yml
   new data (thanks to Thomas Siefke, Friedrich-Schiller University Jena, Germany, for submitting data!)
     main/HfO2/nk/Siefke.yml
   new data (thanks to Alexey Ganzhinov, University of Helsinki, Finland, for submitting data!)
