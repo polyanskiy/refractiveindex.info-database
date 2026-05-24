@@ -1161,7 +1161,7 @@
           name: "Rodríguez-de Marcos et al. 2017: n,k 0.03–2.0 µm"
           data: main/MgF2/nk/Rodriguez-de Marcos.yml
         - PAGE: Franta
-          name: "Franta et al. 017: n,k 0.0275–125 µm"
+          name: "Franta et al. 2017: n,k 0.0275–125 µm"
           data: main/MgF2/nk/Franta.yml
     - BOOK: NaF
       name: "NaF (Sodium fluoride)"
