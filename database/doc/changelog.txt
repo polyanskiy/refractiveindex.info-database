@@ -1,5 +1,31 @@
 ﻿============================== next release ==============================
 
+  new data (thanks to Daniel Franta!)
+    main/GaAs/nk/Franta-300K.yml
+    main/GaAs/nk/Franta-370K.yml
+    main/GaAs/nk/Franta-440K.yml
+  new data (thanks to Thomas Siefke, Friedrich-Schiller University Jena, Germany, for submitting data!)
+    main/HfO2/nk/Siefke.yml
+  new data (thanks to Alexey Ganzhinov, University of Helsinki, Finland, for submitting data!)
+    main/MoO2/nk/Ganzhinov.yml
+  new data (thanks to Erick Martinez for submitting data!)
+    main/B/nk/Morita.yml
+  new data (thanks to Pedro Sansoldo, University of Adelaide, SA, Australia, for suggesting data!)
+    other/semiconductor alloys/GaP-InP/nk/Ferrini-UV-VIS.yml
+    other/semiconductor alloys/GaP-InP/nk/FerriniIR.yml
+    other/semiconductor alloys/GaP-InP/nk/Ferrini-far-IR.yml
+  new data (thanks to Bongjun Choi, University of Pennsylvania, Philadelphia, PA, USA, for submitting data!)
+    main/BN/nk/Choi-o.yml
+    main/BN/nk/Choi-e.yml
+  new data (thanks to Zeling Chen, University of Hong Kong, Pok Fu Lam, Hong Kong, for submitting data!) 
+    main/Au/nk/Chen.yml
+  new data (thanks to Emilia Pruszyńska-Karbownik, University of Warsaw, Poland, for submitting data in YAML format!)  
+    Pruszynska-Karbownik-o
+    Pruszynska-Karbownik-e
+  new data (thanks to Pedro Victor Sansoldo, University of Adelaide, Australia!)
+    other/semiconductor alloys/GaP-InP/nk/Kaneko.yml
+  new data (thanks to Nathan Ullberg, Fresnel Institute, Marseille, France, for submitting data in YAML format!)
+    main/MoS2/nk/Ullberg.yml
   new data (thanks to Pavel Dmitriev, National University of Singapore, for submitting data in YAML format on GitHub!)
     main/BaTiO3/nk/Timpu.yml
     main/BaTiO3/nk/Johnston-unclamped.yml
@@ -27,8 +53,8 @@
     other/semiconductor alloys/AlAs-GaAs/nk/Gadras-53.yml
     other/semiconductor alloys/AlAs-GaAs/nk/Gadras-90.yml
     other/semiconductor alloys/AlAs-GaAs/nk/Gadras-100.yml
-	main/AlAs/nk/Gadras.yml
-	main/GaAs/nk/Gadras.yml
+    main/AlAs/nk/Gadras.yml
+    main/GaAs/nk/Gadras.yml
   new data (thanks to Georgy Ermolaev, XPANCEO, Dubai, United Arab Emirates, for submitting data in YAML format!)
     main/MoOCl2/nk/Ermolaev-alpha.yml
     main/MoOCl2/nk/Ermolaev-beta.yml

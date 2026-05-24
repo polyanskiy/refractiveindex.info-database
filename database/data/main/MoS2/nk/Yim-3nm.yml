@@ -8,6 +8,9 @@ REFERENCES: |
     <a href="https://doi.org/10.1063/1.4868108"><i>Appl. Phys. Let.</i> <b>104</b>, 103114 (2014)</a>
 COMMENTS: |
     3.01 nm film synthesized by vapor phase sulfurization. ~290 nm thick SiO<sub>2</sub> substrate thermally grown on <100> oriented crystalline Si wafer.
+CONDITIONS:
+    film_thickness: 3.01e-9
+    substrate: SiO2/Si
 DATA:
   - type: tabulated n
     data: |
@@ -47,6 +50,3 @@ DATA:
         0.674322 0.762708
         0.725091 0.653029
         0.887428 0.691040
-CONDITIONS:
-    film_thickness: 3.01e-9
-    substrate: SiO2/Si

@@ -9,6 +9,9 @@ REFERENCES: |
     (Numerical data kindly provided by Baokun Song)
 COMMENTS: |
     8-layer, 8L
+CONDITIONS:
+    film_thickness: 8L
+    substrate: c-sapphire
 DATA:
   - type: tabulated nk
     data: |
@@ -1096,6 +1099,3 @@ DATA:
         1.6850 3.878906 0.217698
         1.6875 3.878052 0.217755
         1.6900 3.877198 0.217813
-CONDITIONS:
-    film_thickness: 8L
-    substrate: c-sapphire

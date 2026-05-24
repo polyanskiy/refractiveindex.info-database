@@ -9,6 +9,9 @@ REFERENCES: |
     (Numerical data kindly provided by Baokun Song)
 COMMENTS: |
     6-layer, 6L
+CONDITIONS:
+    film_thickness: 6L
+    substrate: c-sapphire
 DATA:
   - type: tabulated nk
     data: |
@@ -1096,6 +1099,3 @@ DATA:
         1.6850 4.032779 0.256399
         1.6875 4.032929 0.256428
         1.6900 4.033089 0.256457
-CONDITIONS:
-    film_thickness: 6L
-    substrate: c-sapphire

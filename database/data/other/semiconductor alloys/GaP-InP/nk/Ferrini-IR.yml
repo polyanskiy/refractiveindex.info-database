@@ -1,0 +1,18 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+REFERENCES: |
+    R. Ferrini, G. Guizzetti, M. Patrini, A. Parisini, L. Tarricone, B. Valenti.
+    Optical functions of InGaP/GaAs epitaxial layers from 0.01 to 5.5 eV.
+    <a href="https://doi.org/10.1140/epjb/e2002-00177-x"><i>Eur. Phys. J. B</i> <b>84</b>, 449-458 (2002)</a>
+COMMENTS: |
+    Ga<sub>0.51</sub>In<sub>0.49</sub>P. Undoped lattice matched film grown lattice matched on GaAs substrates, by metal-organic vapour phase epitaxy (MOVPE) at 700 °C.
+CONDITIONS:
+    substrate: GaAs
+    film_thickness: 3.15e-6
+DATA:
+  - type: formula 1
+    wavelength_range: 0.689 24.8
+    coefficients: 5.058 3.27 0.459
+ 

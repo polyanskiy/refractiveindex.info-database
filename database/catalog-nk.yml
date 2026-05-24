@@ -261,6 +261,15 @@
         - PAGE: Aspnes
           name: "Aspnes et al. 1986: n,k 0.207–0.827 µm"
           data: main/GaAs/nk/Aspnes.yml
+        - PAGE: Franta-300K
+          name: "Franta et al. 2026: n,k 0.895–400 µm; 300 K"
+          data: main/GaAs/nk/Franta-300K.yml
+        - PAGE: Franta-370K
+          name: "Franta et al. 2026: n,k 0.922–400 µm; 370 K"
+          data: main/GaAs/nk/Franta-370K.yml
+        - PAGE: Franta-440K
+          name: "Franta et al. 2026: n,k 0.952–400 µm; 440 K"
+          data: main/GaAs/nk/Franta-440K.yml
         - PAGE: Gadras
           name: "Gadras et al. 2025: n,k 0.450–1.40 µm; 600 °C"
           data: main/GaAs/nk/Gadras.yml
@@ -329,6 +338,9 @@
         - PAGE: Johnson
           name: "Johnson and Christy 1972: n,k 0.188–1.937 µm"
           data: main/Au/nk/Johnson.yml
+        - PAGE: Chen
+          name: "Chen et al. 2025: n,k 0.210–0.600 µm"
+          data: main/Au/nk/Chen.yml
         - PAGE: Magnozzi-25C
           name: "Magnozzi et al. 2019: n,k 0.252–1.45 µm; 25 °C"
           data: main/Au/nk/Magnozzi-25C.yml
@@ -444,6 +456,9 @@
     - BOOK: B
       name: "B (Boron)"
       content:
+        - PAGE: Morita
+          name: "Morita and Yamamoto 1975: n,k 0.350–0.975 µm"
+          data: main/B/nk/Morita.yml
         - PAGE: Fernandez-Perea
           name: "Fernández-Perea et al. 2007: n,k 0.00138–0.181 µm"
           data: main/B/nk/Fernandez-Perea.yml
@@ -1146,7 +1161,7 @@
           name: "Rodríguez-de Marcos et al. 2017: n,k 0.03–2.0 µm"
           data: main/MgF2/nk/Rodriguez-de Marcos.yml
         - PAGE: Franta
-          name: "Franta et al. 017: n,k 0.0275–125 µm"
+          name: "Franta et al. 2017: n,k 0.0275–125 µm"
           data: main/MgF2/nk/Franta.yml
     - BOOK: NaF
       name: "NaF (Sodium fluoride)"
@@ -1724,6 +1739,12 @@
         - PAGE: Lee
           name: "Lee et al. 2018: h-BN; n(o) 0.450–1.20 µm"
           data: main/BN/nk/Lee.yml
+        - PAGE: Choi-o
+          name: "Choi et al. 2026: h-BN; n,k(o) 0.190–1.00 µm"
+          data: main/BN/nk/Choi-o.yml
+        - PAGE: Choi-e
+          name: "Choi et al. 2026: h-BN; n,k(e) 0.190–1.00 µm"
+          data: main/BN/nk/Choi-e.yml
         - PAGE: Grudinin-o
           name: "Grudinin et al. 2023: h-BN; n(o) 0.250–1.70 µm"
           data: main/BN/nk/Grudinin-o.yml
@@ -2156,6 +2177,9 @@
         - PAGE: Al-Kuhaili
           name: "Al-Kuhaili 2004: n 0.2–2.0 µm"
           data: main/HfO2/nk/Al-Kuhaili.yml
+        - PAGE: Siefke
+          name: "Siefke et al. 2026: Thin film; n,k 0.124–0.620 µm"
+          data: main/HfO2/nk/Siefke.yml
         - PAGE: Franta
           name: "Franta et al. 2015: n,k 0.115–125 µm"
           data: main/HfO2/nk/Franta.yml
@@ -2192,6 +2216,13 @@
         - PAGE: Synowicki
           name: "Synowicki and Tiwald 2004: n,k 0.13–33 µm"
           data: main/As2S3/nk/Synowicki.yml
+    - BOOK: MoO2
+      name: "MoO<sub>2</sub> (Molybdenum dioxide)"
+      content:
+        - DIVIDER: "Thin film"
+        - PAGE: Ganzhinov
+          name: "Ganzhinov et al. 2026: Thin film; n,k 0.191–1.69 µm"
+          data: main/MoO2/nk/Ganzhinov.yml
     - BOOK: MoO3
       name: "MoO<sub>3</sub> (Molybdenum trioxide)"
       content:
@@ -3151,18 +3182,18 @@
           name: "Zotev et al. 2023: n,k(e) 0.36–1.0 µm"
           data: main/MoS2/nk/Zotev-e.yml
         - DIVIDER: "2D structures"
-        - PAGE: Zhang
-          name: "Zhang et al. 2015: monolayer (1L) film; n,k 0.40–0.75 µm"
-          data: main/MoS2/nk/Zhang.yml
+        - PAGE: Ermolaev-1L
+          name: "Ermolaev et al. 2020: monolayer (1L) film; n,k 0.290–3.30 µm"
+          data: main/MoS2/nk/Ermolaev-1L.yml
+        - PAGE: Ullberg
+          name: "Ullberg et al. 2025: monolayer (1L) film; n,k 0.24–1.5 µm"
+          data: main/MoS2/nk/Ullberg.yml
         - PAGE: Islam-1L
           name: "Islam et al. 2021: monolayer (1L) film; n,k 0.190–1.70 µm"
           data: main/MoS2/nk/Islam-1L.yml
         - PAGE: Islam-fewL
           name: "Islam et al. 2021: few-layer (2.15 nm) film; n,k 0.190–1.70 µm"
           data: main/MoS2/nk/Islam-fewL.yml
-        - PAGE: Ermolaev-1L
-          name: "Ermolaev et al. 2020: monolayer (1L) film; n,k 0.290–3.30 µm"
-          data: main/MoS2/nk/Ermolaev-1L.yml
         - PAGE: Hsu-1L
           name: "Hsu et al. 2019: monolayer (1L) film; n,k 0.40–0.86 µm"
           data: main/MoS2/nk/Hsu-1L.yml
@@ -3196,6 +3227,9 @@
         - PAGE: Jung
           name: "Jung et al. 2019: monolayer (1L) film; n,k 0.38–0.89 µm"
           data: main/MoS2/nk/Jung.yml
+        - PAGE: Zhang
+          name: "Zhang et al. 2015: monolayer (1L) film; n,k 0.40–0.75 µm"
+          data: main/MoS2/nk/Zhang.yml
     - BOOK: NiPS3
       name: "NiPS<sub>3</sub> ( Nickel phosphorus trisulfide)"
       content:
@@ -3546,6 +3580,12 @@
         - PAGE: Beal
           name: "Beal and Huges 1979: n,k 0.044–1.16 µm"
           data: main/MoSe2/nk/Beal.yml
+        - PAGE: Pruszynska-Karbownik-o
+          name: "Pruszynska-Karbownik et al. 2026: n,k(o) 0.193–1.69 µm"
+          data: main/MoSe2/nk/Pruszynska-Karbownik-o.yml
+        - PAGE: Pruszynska-Karbownik-e
+          name: "Pruszynska-Karbownik et al. 2026: n(e) 0.193–1.69 µm"
+          data: main/MoSe2/nk/Pruszynska-Karbownik-e.yml
         - DIVIDER: "2D structures"
         - PAGE: Hsu-1L
           name: "Hsu et al. 2019: monolayer (1L) film; n,k 0.40–0.86 µm"
@@ -4558,6 +4598,74 @@
         - PAGE: Anderson
           name: "Anderson 2000: iso-Octane; n,k 2–23 µm"
           data: organic/C8H18 - octane/nk/Anderson.yml
+    - DIVIDER: "Haloalkanes"
+    - BOOK: bromoform
+      name: "CHBr<sub>3</sub> (Bromoform)"
+      content:
+        - PAGE: Ghosal
+          name: "Ghosal et al. 1993: n 1–13 µm"
+          data: organic/CHBr3 - bromoform/nk/Ghosal.yml
+    - BOOK: dichloromethane
+      name: "CH<sub>2</sub>Cl<sub>2</sub> (Dichloromethane, DCM)"
+      content:
+        - PAGE: Bertie
+          name: "Bertie et al. 1995: n,k 1.54–12.5 µm"
+          data: organic/CH2Cl2 - dichloromethane/nk/Bertie.yml
+        - PAGE: Chang
+          name: "Chang et al. 2024: n 0.4–2.0 µm"
+          data: organic/CH2Cl2 - dichloromethane/nk/Chang.yml
+        - PAGE: Li
+          name: "Li et al. 2022: n 0.2–1.7 µm"
+          data: organic/CH2Cl2 - dichloromethane/nk/Li.yml
+    - BOOK: chloroform
+      name: "CHCl<sub>3</sub> (Chloroform)"
+      content:
+        - PAGE: Kedenburg
+          name: "Kedenburg et al. 2012: n 0.5–1.6 µm, k 0.5–1.75 µm"
+          data: organic/CHCl3 - chloroform/nk/Kedenburg.yml
+        - PAGE: Chang
+          name: "Chang et al. 2024: n 0.4–2.0 µm"
+          data: organic/CHCl3 - chloroform/nk/Chang.yml
+    - BOOK: carbon_tetrachloride
+      name: "CCl<sub>4</sub> (Carbon tetrachloride)"
+      content:
+        - PAGE: Kedenburg
+          name: "Kedenburg et al. 2012: n 0.5–1.6 µm, k 0.5–1.5 µm"
+          data: organic/CCl4 - carbon tetrachloride/nk/Kedenburg.yml
+        - PAGE: Chang
+          name: "Chang et al. 2024: n 0.4–2.0 µm"
+          data: organic/CCl4 - carbon tetrachloride/nk/Chang.yml
+        - PAGE: Moutzouris
+          name: "Moutzouris et al. 2013: n 0.450–1.55 µm"
+          data: organic/CCl4 - carbon tetrachloride/nk/Moutzouris.yml
+        - PAGE: Ghosal
+          name: "Ghosal et al. 1993: n 1–9 µm"
+          data: organic/CCl4 - carbon tetrachloride/nk/Ghosal.yml
+    - BOOK: bromotrichloromethane
+      name: "CBrCl<sub>3</sub> (Bromotrichloromethane)"
+      content:
+        - PAGE: Chang
+          name: "Chang et al. 2024: n 0.4–2.0 µm"
+          data: organic/CBrCl3 - bromotrichloromethane/nk/Chang.yml
+    - BOOK: perfluorohexane
+      name: "C<sub>6</sub>F<sub>14</sub> (Perfluorohexane)"
+      content:
+        - PAGE: Chang
+          name: "Chang et al. 2024: n 0.4–2.0 µm"
+          data: organic/C6F14 - perfluorohexane/nk/Chang.yml
+    - DIVIDER: "Alkenes and haloalkenes"
+    - BOOK: ethylene
+      name: "C<sub>2</sub>H<sub>4</sub> (Ethylene)"
+      content:
+        - PAGE: Loria
+          name: "Loria 1909: Gas at 0 °C; n 0.523–0.668 µm"
+          data: organic/C2H4 - ethylene/nk/Loria.yml
+    - BOOK: tetrachloroethylene
+      name: "C<sub>2</sub>Cl<sub>4</sub> (Tetrachloroethylene, PCE, PERC)"
+      content:
+        - PAGE: Chang
+          name: "Chang et al. 2024: n 0.4–2.0 µm"
+          data: organic/C2Cl4 - tetrachloroethylene/nk/Chang.yml
     - DIVIDER: "Alkynes"
     - BOOK: acetylene
       name: "C<sub>2</sub>H<sub>2</sub> (Acetylene)"
@@ -4565,13 +4673,118 @@
         - PAGE: Loria
           name: "Loria 1909: Gas at 0 °C; n 0.529–0.659 µm"
           data: organic/C2H2 - acetylene/nk/Loria.yml
-    - DIVIDER: "Alkenes"
-    - BOOK: ethylene
-      name: "C<sub>2</sub>H<sub>4</sub> (Ethylene)"
+    - DIVIDER: "Cyclic compounds"
+    - BOOK: benzene
+      name: "C<sub>6</sub>H<sub>6</sub> (Benzene)"
       content:
-        - PAGE: Loria
-          name: "Loria 1909: Gas at 0 °C; n 0.523–0.668 µm"
-          data: organic/C2H4 - ethylene/nk/Loria.yml
+        - PAGE: Moutzouris
+          name: "Moutzouris et al. 2013: n 0.450–1.55 µm"
+          data: organic/C6H6 - benzene/nk/Moutzouris.yml
+        - PAGE: Chang
+          name: "Chang et al. 2024: n 0.4–2.0 µm"
+          data: organic/C6H6 - benzene/nk/Chang.yml
+        - PAGE: Myers
+          name: "Myers et al. 2018: n,k 1.28–25.0 µm"
+          data: organic/C6H6 - benzene/nk/Myers.yml
+    - BOOK: oxathiane
+      name: "C<sub>4</sub>H<sub>8</sub>OS (Oxathiane)"
+      content:
+        - PAGE: Myers
+          name: "Myers et al. 2018: 1,4-Oxathiane; n,k 1.28–25.0 µm"
+          data: organic/C4H8OS - oxathiane/nk/Myers.yml
+    - BOOK: pyridine
+      name: "C<sub>5</sub>H<sub>5</sub>N (Pyridine)"
+      content:
+        - PAGE: Chang
+          name: "Chang et al. 2024: n 0.4–2.0 µm"
+          data: organic/C5H5N - pyridine/nk/Chang.yml
+    - BOOK: cyclohexane
+      name: "C<sub>6</sub>H<sub>12</sub> (Cyclohexane)"
+      content:
+        - PAGE: Rheims
+          name: "Rheims et al. 1997: n 0.477–0.83 µm"
+          data: organic/C6H12 - cyclohexane/nk/Rheims.yml
+        - PAGE: Chang
+          name: "Chang et al. 2024: n 0.4–2.0 µm"
+          data: organic/C6H12 - cyclohexane/nk/Chang.yml
+        - PAGE: Kozma
+          name: "Kozma et al. 2005: n 0.230–0.641 µm"
+          data: organic/C6H12 - cyclohexane/nk/Kozma.yml
+        - PAGE: Kerl-293K
+          name: "Kerl and Varchmin 1995: 293 K; n 0.326–0.644 µm"
+          data: organic/C6H12 - cyclohexane/nk/Kerl-293K.yml
+        - PAGE: Kerl-313K
+          name: "Kerl and Varchmin 1995: 313 K; n 0.326–0.644 µm"
+          data: organic/C6H12 - cyclohexane/nk/Kerl-313K.yml
+        - PAGE: Kerl-333K
+          name: "Kerl and Varchmin 1995: 333 K; n 0.326–0.644 µm"
+          data: organic/C6H12 - cyclohexane/nk/Kerl-333K.yml
+    - BOOK: toluene
+      name: "C<sub>7</sub>H<sub>8</sub> (Toluene)"
+      content:
+        - PAGE: Kedenburg
+          name: "Kedenburg et al. 2012: n 0.5–1.6 µm, k 0.5–1.75 µm"
+          data: organic/C7H8 - toluene/nk/Kedenburg.yml
+        - PAGE: Chang
+          name: "Chang et al. 2024: n 0.4–2.0 µm"
+          data: organic/C7H8 - toluene/nk/Chang.yml
+        - PAGE: Myers
+          name: "Myers et al. 2018: n,k 1.28–25.0 µm"
+          data: organic/C7H8 - toluene/nk/Myers.yml
+        - PAGE: Moutzouris
+          name: "Moutzouris et al. 2013: n 0.450–1.55 µm"
+          data: organic/C7H8 - toluene/nk/Moutzouris.yml
+        - PAGE: Kozma
+          name: "Kozma et al. 2005: n 0.300–0.641 µm"
+          data: organic/C7H8 - toluene/nk/Kozma.yml
+    - BOOK: styrene
+      name: "C<sub>8</sub>H<sub>8</sub> (Styrene)"
+      content:
+        - PAGE: Sultanova
+          name: "Sultanova et al. 2009: n 0.437–1.05 µm"
+          data: organic/C8H8 - styrene/nk/Sultanova.yml
+        - PAGE: Myers
+          name: "Myers et al. 2018: n,k 1.28–25.0 µm"
+          data: organic/C8H8 - styrene/nk/Myers.yml
+    - BOOK: xylene
+      name: "C<sub>8</sub>H<sub>10</sub> (Xylene)"
+      content:
+        - PAGE: Li
+          name: "Li et al. 2022: para-Xylene (PX); n 0.226–1.7 µm"
+          data: organic/C8H10 - xylene/nk/Li.yml
+        - PAGE: Chang
+          name: "Chang et al. 2024: n 0.4–2.0 µm"
+          data: organic/C8H10 - xylene/nk/Chang.yml
+    - BOOK: trichlorobenzene
+      name: "C<sub>6</sub>H<sub>3</sub>Cl<sub>3</sub> (Trichlorobenzene, TCB)"
+      content:
+        - PAGE: Myers
+          name: "Myers et al. 2018: 1,2,4-TCB; n,k 1.28–25.0 µm"
+          data: organic/C6H3Cl3 - trichlorobenzene/nk/Myers.yml
+    - BOOK: nitrobenzene
+      name: "C<sub>6</sub>H<sub>5</sub>NO<sub>2</sub> (Nitrobenzene)"
+      content:
+        - PAGE: Kedenburg
+          name: "Kedenburg et al. 2012: n 0.5–1.6 µm"
+          data: organic/C6H5NO2 - nitrobenzene/nk/Kedenburg.yml
+        - PAGE: Chang
+          name: "Chang et al. 2024: n 0.4–2.0 µm"
+          data: organic/C6H5NO2 - nitrobenzene/nk/Chang.yml
+        - PAGE: Myers
+          name: "Myers et al. 2018: n,k 1.28–25.0 µm"
+          data: organic/C6H5NO2 - nitrobenzene/nk/Myers.yml
+    - BOOK: pentafluorobenzonitrile
+      name: "C<sub>7</sub>F<sub>5</sub>N (Pentafluorobenzonitrile)"
+      content:
+        - PAGE: Chang
+          name: "Chang et al. 2024: n 0.4–2.0 µm"
+          data: organic/C7F5N - pentafluorobenzonitrile/nk/Chang.yml
+    - BOOK: dimethylaniline
+      name: "C<sub>8</sub>H<sub>11</sub>N (Dimethylaniline, DMA)"
+      content:
+        - PAGE: Li
+          name: "Li et al. 2022: n 0.321–1.7 µm"
+          data: organic/C8H11N - dimethylaniline/nk/Li.yml
     - DIVIDER: "Alcohols"
     - BOOK: methanol
       name: "CH<sub>3</sub>OH (Methanol)"
@@ -4684,7 +4897,6 @@
         - PAGE: Chang
           name: "Chang et al. 2024: n 0.4–2.0 µm"
           data: organic/C8H18O - octanol/nk/Chang.yml
-    - DIVIDER: "Diols"
     - BOOK: ethylene_glycol
       name: "C<sub>2</sub>H<sub>4</sub>(OH)<sub>2</sub> (Ethylene glycol)"
       content:
@@ -4709,7 +4921,12 @@
         - PAGE: Otanicar
           name: "Otanicar et al. 2009: n 0.434–0.656 µm, k 0.2–1.5 µm"
           data: organic/C3H8O2 - propylene glycol/nk/Otanicar.yml
-    - DIVIDER: "Triols"
+    - BOOK: pentanediol
+      name: "C<sub>5</sub>H<sub>10</sub>(OH)<sub>2</sub> (Pentanediol)"
+      content:
+        - PAGE: Moutzouris
+          name: "Moutzouris et al. 2013: n 0.450–1.55 µm"
+          data: organic/C5H12O2 - pentanediol/nk/Moutzouris.yml
     - BOOK: glycerol
       name: "C<sub>3</sub>H<sub>5</sub>(OH)<sub>3</sub> (Glycerol)"
       content:
@@ -4728,72 +4945,7 @@
         - PAGE: Birkhoff
           name: "Birkhoff et al. 1978: n,k 0.0512–0.620 µm"
           data: organic/C3H8O3 - glycerol/nk/Birkhoff.yml
-    - DIVIDER: "Esters"
-    - BOOK: ethyl_acetate
-      name: "C<sub>4</sub>H<sub>8</sub>O<sub>2</sub> (Ethyl acetate, EtOAc, EA)"
-      content:
-        - PAGE: Kozma
-          name: "Kozma et al. 2005: n 0.248–0.641 µm"
-          data: organic/C4H8O2 - ethyl acetate/nk/Kozma.yml
-        - PAGE: Li
-          name: "Li et al. 2022: n 0.2–1.7 µm"
-          data: organic/C4H8O2 - ethyl acetate/nk/Li.yml
-    - BOOK: propyl_acetate
-      name: "C<sub>5</sub>H<sub>10</sub>O<sub>2</sub> (Propyl acetate, PAC, IPAC)"
-      content:
-        - PAGE: Li
-          name: "Li et al. 2022: isopropyl acetate; n 0.2–1.7 µm"
-          data: organic/C5H10O2 - propyl acetate/nk/Li.yml
-    - BOOK: methyl_salicylate
-      name: "C<sub>8</sub>H<sub>8</sub>O<sub>3</sub> (Methyl salicylate)"
-      content:
-        - PAGE: Rheims
-          name: "Rheims et al. 1997: n 0.589–1.05 µm"
-          data: organic/C8H8O3 - methyl salicylate/nk/Rheims.yml
-    - BOOK: ethyl_salicylate
-      name: "C<sub>9</sub>H<sub>10</sub>O<sub>3</sub> (Ethyl salicylate)"
-      content:
-        - PAGE: Rheims
-          name: "Rheims et al. 1997: n 0.589–1.05 µm"
-          data: organic/C9H10O3 - ethyl salicylate/nk/Rheims.yml
-    - BOOK: ethyl_cinnamate
-      name: "C<sub>11</sub>H<sub>12</sub>O<sub>2</sub> (Ethyl cinnamate)"
-      content:
-        - PAGE: Krauter
-          name: "Krauter et al. 2015: n 0.45–0.70 µm"
-          data: organic/C11H12O2 - ethyl cinnamate/nk/Krauter.yml
-    - BOOK: diethyl_phthalate
-      name: "C<sub>12</sub>H<sub>14</sub>O<sub>4</sub> (Diethyl phthalate, DEP)"
-      content:
-        - PAGE: Querry-NIR
-          name: "Querry 1987: Near-infrared; n,k 0.81–2.5 µm"
-          data: organic/C12H14O4 - diethyl phthalate/nk/Querry-NIR.yml
-        - PAGE: Querry-IR
-          name: "Querry 1987: Infrared; n,k 2.5–56 µm"
-          data: organic/C12H14O4 - diethyl phthalate/nk/Querry-IR.yml
-    - DIVIDER: "Cycloalkanes"
-    - BOOK: cyclohexane
-      name: "C<sub>6</sub>H<sub>12</sub> (Cyclohexane)"
-      content:
-        - PAGE: Rheims
-          name: "Rheims et al. 1997: n 0.477–0.83 µm"
-          data: organic/C6H12 - cyclohexane/nk/Rheims.yml
-        - PAGE: Chang
-          name: "Chang et al. 2024: n 0.4–2.0 µm"
-          data: organic/C6H12 - cyclohexane/nk/Chang.yml
-        - PAGE: Kozma
-          name: "Kozma et al. 2005: n 0.230–0.641 µm"
-          data: organic/C6H12 - cyclohexane/nk/Kozma.yml
-        - PAGE: Kerl-293K
-          name: "Kerl and Varchmin 1995: 293 K; n 0.326–0.644 µm"
-          data: organic/C6H12 - cyclohexane/nk/Kerl-293K.yml
-        - PAGE: Kerl-313K
-          name: "Kerl and Varchmin 1995: 313 K; n 0.326–0.644 µm"
-          data: organic/C6H12 - cyclohexane/nk/Kerl-313K.yml
-        - PAGE: Kerl-333K
-          name: "Kerl and Varchmin 1995: 333 K; n 0.326–0.644 µm"
-          data: organic/C6H12 - cyclohexane/nk/Kerl-333K.yml
-    - DIVIDER: "Cyclic ethers"
+    - DIVIDER: "Ethers"
     - BOOK: tetrahydrofuran
       name: "C<sub>4</sub>H<sub>8</sub>O (Tetrahydrofuran, THF)"
       content:
@@ -4803,92 +4955,6 @@
         - PAGE: Chang
           name: "Chang et al. 2024: n 0.4–2.0 µm"
           data: organic/C4H8O - tetrahydrofuran/nk/Chang.yml
-    - DIVIDER: "Benzene and its derivatives"
-    - BOOK: benzene
-      name: "C<sub>6</sub>H<sub>6</sub> (Benzene)"
-      content:
-        - PAGE: Moutzouris
-          name: "Moutzouris et al. 2013: n 0.450–1.55 µm"
-          data: organic/C6H6 - benzene/nk/Moutzouris.yml
-        - PAGE: Chang
-          name: "Chang et al. 2024: n 0.4–2.0 µm"
-          data: organic/C6H6 - benzene/nk/Chang.yml
-        - PAGE: Myers
-          name: "Myers et al. 2018: n,k 1.28–25.0 µm"
-          data: organic/C6H6 - benzene/nk/Myers.yml
-    - BOOK: toluene
-      name: "C<sub>7</sub>H<sub>8</sub> (Toluene)"
-      content:
-        - PAGE: Kedenburg
-          name: "Kedenburg et al. 2012: n 0.5–1.6 µm, k 0.5–1.75 µm"
-          data: organic/C7H8 - toluene/nk/Kedenburg.yml
-        - PAGE: Chang
-          name: "Chang et al. 2024: n 0.4–2.0 µm"
-          data: organic/C7H8 - toluene/nk/Chang.yml
-        - PAGE: Myers
-          name: "Myers et al. 2018: n,k 1.28–25.0 µm"
-          data: organic/C7H8 - toluene/nk/Myers.yml
-        - PAGE: Moutzouris
-          name: "Moutzouris et al. 2013: n 0.450–1.55 µm"
-          data: organic/C7H8 - toluene/nk/Moutzouris.yml
-        - PAGE: Kozma
-          name: "Kozma et al. 2005: n 0.300–0.641 µm"
-          data: organic/C7H8 - toluene/nk/Kozma.yml
-    - BOOK: styrene
-      name: "C<sub>8</sub>H<sub>8</sub> (Styrene)"
-      content:
-        - PAGE: Sultanova
-          name: "Sultanova et al. 2009: n 0.437–1.05 µm"
-          data: organic/C8H8 - styrene/nk/Sultanova.yml
-        - PAGE: Myers
-          name: "Myers et al. 2018: n,k 1.28–25.0 µm"
-          data: organic/C8H8 - styrene/nk/Myers.yml
-    - BOOK: xylene
-      name: "C<sub>8</sub>H<sub>10</sub> (Xylene)"
-      content:
-        - PAGE: Li
-          name: "Li et al. 2022: para-Xylene (PX); n 0.226–1.7 µm"
-          data: organic/C8H10 - xylene/nk/Li.yml
-        - PAGE: Chang
-          name: "Chang et al. 2024: n 0.4–2.0 µm"
-          data: organic/C8H10 - xylene/nk/Chang.yml
-    - BOOK: pyridine
-      name: "C<sub>5</sub>H<sub>5</sub>N (Pyridine)"
-      content:
-        - PAGE: Chang
-          name: "Chang et al. 2024: n 0.4–2.0 µm"
-          data: organic/C5H5N - pyridine/nk/Chang.yml
-    - BOOK: trichlorobenzene
-      name: "C<sub>6</sub>H<sub>3</sub>Cl<sub>3</sub> (Trichlorobenzene, TCB)"
-      content:
-        - PAGE: Myers
-          name: "Myers et al. 2018: 1,2,4-TCB; n,k 1.28–25.0 µm"
-          data: organic/C6H3Cl3 - trichlorobenzene/nk/Myers.yml
-    - BOOK: nitrobenzene
-      name: "C<sub>6</sub>H<sub>5</sub>NO<sub>2</sub> (Nitrobenzene)"
-      content:
-        - PAGE: Kedenburg
-          name: "Kedenburg et al. 2012: n 0.5–1.6 µm"
-          data: organic/C6H5NO2 - nitrobenzene/nk/Kedenburg.yml
-        - PAGE: Chang
-          name: "Chang et al. 2024: n 0.4–2.0 µm"
-          data: organic/C6H5NO2 - nitrobenzene/nk/Chang.yml
-        - PAGE: Myers
-          name: "Myers et al. 2018: n,k 1.28–25.0 µm"
-          data: organic/C6H5NO2 - nitrobenzene/nk/Myers.yml
-    - BOOK: pentafluorobenzonitrile
-      name: "C<sub>7</sub>F<sub>5</sub>N (Pentafluorobenzonitrile)"
-      content:
-        - PAGE: Chang
-          name: "Chang et al. 2024: n 0.4–2.0 µm"
-          data: organic/C7F5N - pentafluorobenzonitrile/nk/Chang.yml
-    - BOOK: dimethylaniline
-      name: "C<sub>8</sub>H<sub>11</sub>N (Dimethylaniline, DMA)"
-      content:
-        - PAGE: Li
-          name: "Li et al. 2022: n 0.321–1.7 µm"
-          data: organic/C8H11N - dimethylaniline/nk/Li.yml
-    - DIVIDER: "Heterocyclic compounds"
     - BOOK: dioxane
       name: "C<sub>4</sub>H<sub>8</sub>O<sub>2</sub> (Dioxane)"
       content:
@@ -4898,12 +4964,16 @@
         - PAGE: Chang
           name: "Chang et al. 2024: n 0.4–2.0 µm"
           data: organic/C4H8O2 - dioxane/nk/Chang.yml
-    - BOOK: oxathiane
-      name: "C<sub>4</sub>H<sub>8</sub>OS (Oxathiane)"
+    - DIVIDER: "Ketones"
+    - BOOK: acetone
+      name: "C<sub>3</sub>H<sub>6</sub>O (Acetone)"
       content:
-        - PAGE: Myers
-          name: "Myers et al. 2018: 1,4-Oxathiane; n,k 1.28–25.0 µm"
-          data: organic/C4H8OS - oxathiane/nk/Myers.yml
+        - PAGE: Rheims
+          name: "Rheims et al. 1997: n 0.477–0.83 µm"
+          data: organic/C3H6O - acetone/nk/Rheims.yml
+        - PAGE: Chang
+          name: "Chang et al. 2024: n 0.4–2.0 µm"
+          data: organic/C3H6O - acetone/nk/Chang.yml
     - DIVIDER: "Carboxylic acids"
     - BOOK: acetic_acid
       name: "C<sub>2</sub>H<sub>4</sub>O<sub>2</sub> (Acetic acid)"
@@ -4950,85 +5020,70 @@
         - PAGE: McGinty
           name: "McGinty et al. 2009: n,k 2.00–13.3 µm"
           data: organic/C18H34O2 - oleic acid/nk/McGinty.yml
-    - DIVIDER: "Diols"
-    - BOOK: pentanediol
-      name: "C<sub>5</sub>H<sub>12</sub>O<sub>2</sub> (Pentanediol)"
+    - DIVIDER: "Acid anhydrides"
+    - BOOK: trifluoroacetic_anhydride
+      name: "(CF<sub>3</sub>CO)<sub>2</sub>O (Trifluoroacetic anhydride, TFAA)"
       content:
-        - PAGE: Moutzouris
-          name: "Moutzouris et al. 2013: n 0.450–1.55 µm"
-          data: organic/C5H12O2 - pentanediol/nk/Moutzouris.yml
-    - DIVIDER: "Ketones"
-    - BOOK: acetone
-      name: "C<sub>3</sub>H<sub>6</sub>O (Acetone)"
-      content:
-        - PAGE: Rheims
-          name: "Rheims et al. 1997: n 0.477–0.83 µm"
-          data: organic/C3H6O - acetone/nk/Rheims.yml
         - PAGE: Chang
           name: "Chang et al. 2024: n 0.4–2.0 µm"
-          data: organic/C3H6O - acetone/nk/Chang.yml
-    - DIVIDER: "Haloalkanes"
-    - BOOK: bromoform
-      name: "CHBr<sub>3</sub> (Bromoform)"
+          data: organic/C4F6O3 - trifluoroacetic anhydride/nk/Chang.yml
+    - DIVIDER: "Esters"
+    - BOOK: ethyl_acetate
+      name: "C<sub>4</sub>H<sub>8</sub>O<sub>2</sub> (Ethyl acetate, EtOAc, EA)"
       content:
-        - PAGE: Ghosal
-          name: "Ghosal et al. 1993: n 1–13 µm"
-          data: organic/CHBr3 - bromoform/nk/Ghosal.yml
-    - BOOK: dichloromethane
-      name: "CH<sub>2</sub>Cl<sub>2</sub> (Dichloromethane, DCM)"
-      content:
-        - PAGE: Bertie
-          name: "Bertie et al. 1995: n,k 1.54–12.5 µm"
-          data: organic/CH2Cl2 - dichloromethane/nk/Bertie.yml
-        - PAGE: Chang
-          name: "Chang et al. 2024: n 0.4–2.0 µm"
-          data: organic/CH2Cl2 - dichloromethane/nk/Chang.yml
+        - PAGE: Kozma
+          name: "Kozma et al. 2005: n 0.248–0.641 µm"
+          data: organic/C4H8O2 - ethyl acetate/nk/Kozma.yml
         - PAGE: Li
           name: "Li et al. 2022: n 0.2–1.7 µm"
-          data: organic/CH2Cl2 - dichloromethane/nk/Li.yml
-    - BOOK: chloroform
-      name: "CHCl<sub>3</sub> (Chloroform)"
+          data: organic/C4H8O2 - ethyl acetate/nk/Li.yml
+    - BOOK: propyl_acetate
+      name: "C<sub>5</sub>H<sub>10</sub>O<sub>2</sub> (Propyl acetate, PAC, IPAC)"
       content:
-        - PAGE: Kedenburg
-          name: "Kedenburg et al. 2012: n 0.5–1.6 µm, k 0.5–1.75 µm"
-          data: organic/CHCl3 - chloroform/nk/Kedenburg.yml
-        - PAGE: Chang
-          name: "Chang et al. 2024: n 0.4–2.0 µm"
-          data: organic/CHCl3 - chloroform/nk/Chang.yml
-    - BOOK: carbon_tetrachloride
-      name: "CCl<sub>4</sub> (Carbon tetrachloride)"
+        - PAGE: Li
+          name: "Li et al. 2022: isopropyl acetate; n 0.2–1.7 µm"
+          data: organic/C5H10O2 - propyl acetate/nk/Li.yml
+    - BOOK: methyl_salicylate
+      name: "C<sub>8</sub>H<sub>8</sub>O<sub>3</sub> (Methyl salicylate)"
       content:
-        - PAGE: Kedenburg
-          name: "Kedenburg et al. 2012: n 0.5–1.6 µm, k 0.5–1.5 µm"
-          data: organic/CCl4 - carbon tetrachloride/nk/Kedenburg.yml
-        - PAGE: Chang
-          name: "Chang et al. 2024: n 0.4–2.0 µm"
-          data: organic/CCl4 - carbon tetrachloride/nk/Chang.yml
-        - PAGE: Moutzouris
-          name: "Moutzouris et al. 2013: n 0.450–1.55 µm"
-          data: organic/CCl4 - carbon tetrachloride/nk/Moutzouris.yml
-        - PAGE: Ghosal
-          name: "Ghosal et al. 1993: n 1–9 µm"
-          data: organic/CCl4 - carbon tetrachloride/nk/Ghosal.yml
-    - BOOK: bromotrichloromethane
-      name: "CBrCl<sub>3</sub> (Bromotrichloromethane)"
+        - PAGE: Rheims
+          name: "Rheims et al. 1997: n 0.589–1.05 µm"
+          data: organic/C8H8O3 - methyl salicylate/nk/Rheims.yml
+    - BOOK: ethyl_salicylate
+      name: "C<sub>9</sub>H<sub>10</sub>O<sub>3</sub> (Ethyl salicylate)"
       content:
-        - PAGE: Chang
-          name: "Chang et al. 2024: n 0.4–2.0 µm"
-          data: organic/CBrCl3 - bromotrichloromethane/nk/Chang.yml
-    - BOOK: perfluorohexane
-      name: "C<sub>6</sub>F<sub>14</sub> (Perfluorohexane)"
+        - PAGE: Rheims
+          name: "Rheims et al. 1997: n 0.589–1.05 µm"
+          data: organic/C9H10O3 - ethyl salicylate/nk/Rheims.yml
+    - BOOK: ethyl_cinnamate
+      name: "C<sub>11</sub>H<sub>12</sub>O<sub>2</sub> (Ethyl cinnamate)"
       content:
-        - PAGE: Chang
-          name: "Chang et al. 2024: n 0.4–2.0 µm"
-          data: organic/C6F14 - perfluorohexane/nk/Chang.yml
-    - DIVIDER: "Haloalkenes"
-    - BOOK: tetrachloroethylene
-      name: "C<sub>2</sub>Cl<sub>4</sub> (Tetrachloroethylene, PCE, PERC)"
+        - PAGE: Krauter
+          name: "Krauter et al. 2015: n 0.45–0.70 µm"
+          data: organic/C11H12O2 - ethyl cinnamate/nk/Krauter.yml
+    - BOOK: diethyl_phthalate
+      name: "C<sub>12</sub>H<sub>14</sub>O<sub>4</sub> (Diethyl phthalate, DEP)"
       content:
-        - PAGE: Chang
-          name: "Chang et al. 2024: n 0.4–2.0 µm"
-          data: organic/C2Cl4 - tetrachloroethylene/nk/Chang.yml
+        - PAGE: Querry-NIR
+          name: "Querry 1987: Near-infrared; n,k 0.81–2.5 µm"
+          data: organic/C12H14O4 - diethyl phthalate/nk/Querry-NIR.yml
+        - PAGE: Querry-IR
+          name: "Querry 1987: Infrared; n,k 2.5–56 µm"
+          data: organic/C12H14O4 - diethyl phthalate/nk/Querry-IR.yml
+    - DIVIDER: "Amines"
+    - BOOK: diisopropylaminoethanol
+      name: "C<sub>8</sub>H<sub>19</sub>NO (Diisopropylaminoethanol, DIPA)"
+      content:
+        - PAGE: Myers
+          name: "Myers et al. 2018: n,k 1.28–25.0 µm"
+          data: organic/C8H19NO - diisopropylaminoethanol/nk/Myers.yml
+    - DIVIDER: Amino acids
+    - BOOK: tyrosine
+      name: "C<sub>9</sub>H<sub>11</sub>NO<sub>3</sub> (Tyrosine)"
+      content:
+        - PAGE: Leite
+          name: "Leite et al. 2022: L-Tyrosine; n,k 0.210–0.320 µm"
+          data: organic/C9H11NO3 - tyrosine/nk/Leite.yml
     - DIVIDER: "Nitriles"
     - BOOK: acetonitrile
       name: "C<sub>2</sub>H<sub>3</sub>N (Acetonitrile)"
@@ -5045,34 +5100,12 @@
         - PAGE: Moutzouris
           name: "Moutzouris et al. 2013: n 0.450–1.55 µm"
           data: organic/C2H3N - acetonitrile/nk/Moutzouris.yml
-    - DIVIDER: "Halonitriles"
     - BOOK: trichloroacetonitrile
       name: "C<sub>2</sub>Cl<sub>3</sub>N (Trichloroacetonitrile)"
       content:
         - PAGE: Chang
           name: "Chang et al. 2024: n 0.4–2.0 µm"
           data: organic/C2Cl3N - trichloroacetonitrile/nk/Chang.yml
-    - DIVIDER: "Acyl halides"
-    - BOOK: trifluoroacetic_anhydride
-      name: "(CF<sub>3</sub>CO)<sub>2</sub>O (Trifluoroacetic anhydride, TFAA)"
-      content:
-        - PAGE: Chang
-          name: "Chang et al. 2024: n 0.4–2.0 µm"
-          data: organic/C4F6O3 - trifluoroacetic anhydride/nk/Chang.yml
-    - DIVIDER: "Amines"
-    - BOOK: diisopropylaminoethanol
-      name: "C<sub>8</sub>H<sub>19</sub>NO (Diisopropylaminoethanol, DIPA)"
-      content:
-        - PAGE: Myers
-          name: "Myers et al. 2018: n,k 1.28–25.0 µm"
-          data: organic/C8H19NO - diisopropylaminoethanol/nk/Myers.yml
-    - DIVIDER: "Amino acids"
-    - BOOK: tyrosine
-      name: "C<sub>9</sub>H<sub>11</sub>NO<sub>3</sub> (Tyrosine)"
-      content:
-        - PAGE: Leite
-          name: "Leite et al. 2022: L-Tyrosine; n,k 0.210–0.320 µm"
-          data: organic/C9H11NO3 - tyrosine/nk/Leite.yml
     - DIVIDER: "Other non-polymer compounds"
     - BOOK: urea
       name: "CH<sub>4</sub>N<sub>2</sub>O (Urea)"
@@ -5769,6 +5802,18 @@
         - PAGE: Schubert
           name: "Schubert et al. 1995: n,k 0.250–0.954 µm"
           data: other/semiconductor alloys/GaP-InP/nk/Schubert.yml
+        - PAGE: Ferrini-UV-VIS
+          name: "Ferrini et al. 2002: n,k 0.225–0.653 µm"
+          data: other/semiconductor alloys/GaP-InP/nk/Ferrini-UV-VIS.yml
+        - PAGE: Ferrini-IR
+          name: "Ferrini et al. 2002: n 0.689–24.8 µm"
+          data: other/semiconductor alloys/GaP-InP/nk/Ferrini-IR.yml
+        - PAGE: Ferrini-far-IR
+          name: "Ferrini et al. 2002: n,k 15.5–124 µm"
+          data: other/semiconductor alloys/GaP-InP/nk/Ferrini-far-IR.yml
+        - PAGE: Kaneko
+          name: "Kaneko and Kishino 1994: n 0.650–1.35 µm"
+          data: other/semiconductor alloys/GaP-InP/nk/Kaneko.yml
     - BOOK: GaAs-InAs-GaP-InP
       name: "GaAs-InAs-GaP-InP (Gallium indium arsenide phosphide, GaInAsP)"
       content:

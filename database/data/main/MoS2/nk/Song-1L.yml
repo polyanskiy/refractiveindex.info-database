@@ -9,6 +9,9 @@ REFERENCES: |
     (Numerical data kindly provided by Baokun Song)
 COMMENTS: |
     Monolayer (1-layer, 1L)
+CONDITIONS:
+    film_thickness: 1L
+    substrate: c-sapphire
 DATA:
   - type: tabulated nk
     data: |
@@ -1096,6 +1099,3 @@ DATA:
         1.6850 3.688242 0.030601
         1.6875 3.687808 0.030553
         1.6900 3.687374 0.030505
-CONDITIONS:
-    film_thickness: 1L
-    substrate: c-sapphire

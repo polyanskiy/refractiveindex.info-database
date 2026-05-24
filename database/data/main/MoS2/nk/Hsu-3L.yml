@@ -9,6 +9,8 @@ REFERENCES: |
     (Numerical data kindly provided by Andres Castellanos-Gomez)
 COMMENTS: |
     3-layer (3L)
+CONDITIONS:
+    film_thickness: 3L
 DATA:
   - type: tabulated nk
     data: |
@@ -2013,5 +2015,3 @@ DATA:
         0.85649 4.3111E+00 0.0000E+00
         0.85673 4.3571E+00 0.0000E+00
         0.85697 4.4762E+00 0.0000E+00
-CONDITIONS:
-    film_thickness: 3L
