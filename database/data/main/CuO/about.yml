@@ -16,7 +16,8 @@ ABOUT: |
     Mineral: Tenorite
 
 LINKS:
-  - [Copper(II) oxide - Wikipedia](https://en.wikipedia.org/wiki/Copper(II)_oxide)
+  - url: https://en.wikipedia.org/wiki/Copper(II)_oxide
+    text: Copper(II) oxide - Wikipedia
   - url: https://www.webelements.com/compounds/copper/copper_oxide.html
     text: Copper oxide - WebElements
   - url: https://en.wikipedia.org/wiki/Tenorite

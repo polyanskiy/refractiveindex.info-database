@@ -14,6 +14,7 @@ ABOUT: |
 LINKS:
   - url: https://webbook.nist.gov/cgi/cbook.cgi?ID=C7783462
     text: Lead difluoride - NIST Chemistry WebBook
-  - [Lead(II) fluoride - Wikipedia](https://en.wikipedia.org/wiki/Lead(II)_fluoride)
+  - url: https://en.wikipedia.org/wiki/Lead(II)_fluoride
+    text: Lead(II) fluoride - Wikipedia
   - url: https://www.webelements.com/compounds/lead/lead_difluoride.html
     text: Lead difluoride - WebElements

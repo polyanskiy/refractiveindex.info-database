@@ -37,7 +37,8 @@ LINKS:
     text: Chalcogenide glass - Wikipedia
   - url: http://www.amorphousmaterials.com/products
     text: AMTIR amorphous material transmitting IR radiation - Amorphous Materials
-  - '[Brief introduction: chalcogenide glasses - VITRON](http://www.infrared-materials.com/en/chalcogenide-glasses/brief-introduction.php)'
+  - url: http://www.infrared-materials.com/en/chalcogenide-glasses/brief-introduction.php
+    text: 'Brief introduction: chalcogenide glasses - VITRON'
   - url: http://www.us.schott.com/advanced_optics/english/products/optical-materials/ir-materials/infrared-chalcogenide-glasses
     text: Infrared Chalcogenide Glasses - SCHOTT
   - url: http://www.lightpath.com/technical/

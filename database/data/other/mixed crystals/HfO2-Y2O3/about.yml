@@ -9,5 +9,7 @@ NAMES:
   - Hafnium(IV) oxide - Yttrium(III) oxide
 
 LINKS:
-  - [Hafnium(IV) oxide - Wikipedia](https://en.wikipedia.org/wiki/Hafnium(IV)_oxide)
-  - [Yttrium(III) oxide - Wikipedia](https://en.wikipedia.org/wiki/Yttrium(III)_oxide)
+  - url: https://en.wikipedia.org/wiki/Hafnium(IV)_oxide
+    text: Hafnium(IV) oxide - Wikipedia
+  - url: https://en.wikipedia.org/wiki/Yttrium(III)_oxide
+    text: Yttrium(III) oxide - Wikipedia

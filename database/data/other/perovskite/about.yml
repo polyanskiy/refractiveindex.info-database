@@ -6,6 +6,7 @@ NAMES:
   - Perovskite
 
 LINKS:
-  - [Perovskite (structure) - Wikipedia](https://en.wikipedia.org/wiki/Perovskite_(structure))
+  - url: https://en.wikipedia.org/wiki/Perovskite_(structure)
+    text: Perovskite (structure) - Wikipedia
   - url: https://en.wikipedia.org/wiki/Perovskite_solar_cell
     text: Perovskite solar cell - Wikipedia

@@ -18,7 +18,8 @@ ABOUT: |
 LINKS:
   - url: https://en.wikipedia.org/wiki/Carbon_monoxide
     text: Carbon monoxide - Wikipedia
-  - [Carbon monoxide (data page) - Wikipedia](https://en.wikipedia.org/wiki/Carbon_monoxide_(data_page))
+  - url: https://en.wikipedia.org/wiki/Carbon_monoxide_(data_page)
+    text: Carbon monoxide (data page) - Wikipedia
   - url: https://webbook.nist.gov/cgi/cbook.cgi?ID=C630080
     text: Carbon monoxide - NIST Chemistry WebBook
   - url: https://www.webelements.com/compounds/carbon/carbon_monoxide.html
