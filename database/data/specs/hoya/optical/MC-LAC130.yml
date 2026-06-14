@@ -3,9 +3,11 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: |
-    <a href="https://refractiveindex.info/download/data/2017/hoya_2017-04-01.agf">HOYA Zemax catalog 2017-04-01</a> (obtained from <a href="http://www.hoya-opticalworld.com/english/datadownload/">http://www.hoya-opticalworld.com</a>)
+    [HOYA Zemax catalog 2017-04-01](https://refractiveindex.info/download/data/2017/hoya_2017-04-01.agf) (obtained from [http://www.hoya-opticalworld.com](http://www.hoya-opticalworld.com/english/datadownload/))
 COMMENTS: |
     Preforms for Precision molding
+CONDITIONS:
+    temperature: 293
 DATA:
   - type: formula 3
     wavelength_range: 0.36501 1.01398
@@ -49,8 +51,6 @@ DATA:
         1.400 3.3473E-08
         1.500 3.5864E-08
         1.550 3.7059E-08
-CONDITIONS:
-    temperature: 293
 PROPERTIES:
     thermal_dispersion:
       - type: formula A

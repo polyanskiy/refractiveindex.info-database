@@ -5,8 +5,8 @@
 REFERENCES: |
     S. Adachi and T. Taguchi.
     Optical properties of ZnSe.
-    <a href="https://doi.org/10.1103/PhysRevB.43.9569"><i>Phys. Rev. B</i> <b>43</b>, 9569-9577 (1991)</a><br>
-    [<a href="https://github.com/polyanskiy/refractiveindex.info-scripts/blob/main/scripts/Adachi%201991%20-%20ZnSe.py">Calculation script (Python)</a>]
+    [*Phys. Rev. B* **43**, 9569-9577 (1991)](https://doi.org/10.1103/PhysRevB.43.9569)<br>
+    [[Calculation script (Python)](https://github.com/polyanskiy/refractiveindex.info-scripts/blob/main/scripts/Adachi%201991%20-%20ZnSe.py)]
 DATA:
   - type: tabulated nk
     data: |

@@ -5,12 +5,12 @@
 REFERENCES: |
    Á. Barroso, R. Radhakrishnan, S. Ketelhut, J. Schnekenburger, B. Kemper.
    Refractive index determination of buffer solutions from visible to near-infrared spectral range for multispectral quantitative phase imaging using a calibrated Abbe refractometer.
-   <a href="https://doi.org/10.1117/12.2509221"><i>Proc. SPIE</i> <b>10887</b>, 1088729 (2019)</a>
+   [*Proc. SPIE* **10887**, 1088729 (2019)](https://doi.org/10.1117/12.2509221)
 COMMENTS: |
     4-(2-hydroxyethyl)-1-piperazineethane-sulfonic acid (HEPES)-buffered DMEM (DMEM with 20 mM HEPES, 4 mM glutamine, 1mM sodium pyruvate, 10% FBS, 850mg/l NaHCO<sub>3</sub>). 22 °C.
+CONDITIONS:
+    temperature: 295
 DATA:
   - type: formula 3
     wavelength_range: 0.5 1.1
     coefficients: 1.7862 -0.0006 -2 0.0009 -4 -0.0169 2
-CONDITIONS:
-    temperature: 295

@@ -3,9 +3,11 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: |
-    <a href="https://refractiveindex.info/download/data/2024/BDNL Sell Sheet_4_3_2024.pdf">BLACK DIAMOND BDNL4 Glass Datasheet (revision 2024-04-04)</a>
+    [BLACK DIAMOND BDNL4 Glass Datasheet (revision 2024-04-04)](https://refractiveindex.info/download/data/2024/BDNL Sell Sheet_4_3_2024.pdf)
 COMMENTS: |
     20 °C.
+CONDITIONS:
+    temperature: 293
 DATA:
   - type: tabulated n
     data: |
@@ -49,8 +51,6 @@ DATA:
         14.5 4.7110E-05
         15.0 5.1120E-05
         15.5 4.2490E-05
-CONDITIONS:
-    temperature: 293
 PROPERTIES:
     density:
       - value: 4500

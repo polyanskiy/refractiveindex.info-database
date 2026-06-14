@@ -5,7 +5,7 @@
 REFERENCES: |
     M. Rasigni and G. Rasigni.
     Optical constants of lithium deposits as determined from the Kramers-Kronig analysis.
-    <a href="https://doi.org/10.1364/JOSA.67.000054"><i>J. Opt. Soc. Am.</i> <b>67</b>, 54-59 (1977)</a>
+    [*J. Opt. Soc. Am.* **67**, 54-59 (1977)](https://doi.org/10.1364/JOSA.67.000054)
 DATA:
   - type: tabulated nk
     data: |

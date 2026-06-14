@@ -5,12 +5,12 @@
 REFERENCES: |
     M. Nyakuchena, C. Juntunen, P. Shea, Y. Sung.
     Refractive index dispersion measurement in the short-wave infrared range using synthetic phase microscopy.
-    <a href="https://doi.org/10.1039/D3CP03158F"><i>Phys. Chem. Chem. Phys.</i> <b>25</b>, 23141-23149 (2023)</a>
+    [*Phys. Chem. Chem. Phys.* **25**, 23141-23149 (2023)](https://doi.org/10.1039/D3CP03158F)
 COMMENTS: |
     Glass microspheres. 23 °C
+CONDITIONS:
+    temperature: 296
 DATA:
   - type: formula 5
     wavelength_range: 1.10 1.65
     coefficients: 1.5062 -0.0018 2 0.0057 -2
-CONDITIONS:
-    temperature: 296

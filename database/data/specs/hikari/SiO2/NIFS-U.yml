@@ -3,9 +3,11 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: |
-    <a href="https://refractiveindex.info/download/data/2017/nikon_2017-11.agf">NIKON Zemax catalog 2017-11</a> (obtained from <a href="http://www.nikon.com/products/glass/lineup/materials/optical/">http://www.nikon.com</a>)<br>See also <a href="https://refractiveindex.info/download/data/2017/nikon_SiO2.pdf">NIKON synthetic silica glass data sheet</a>
+    [NIKON Zemax catalog 2017-11](https://refractiveindex.info/download/data/2017/nikon_2017-11.agf) (obtained from [http://www.nikon.com](http://www.nikon.com/products/glass/lineup/materials/optical/))<br>See also [NIKON synthetic silica glass data sheet](https://refractiveindex.info/download/data/2017/nikon_SiO2.pdf)
 COMMENTS: |
     TCE value is available for 25 to 300 degrees Celsius.
+CONDITIONS:
+    temperature: 295.65
 DATA:
   - type: formula 2
     wavelength_range: 0.18489 2.32542
@@ -46,8 +48,6 @@ DATA:
         1.970 7.8580E-07
         2.325 1.7449E-05
         2.500 5.3293E-05
-CONDITIONS:
-    temperature: 295.65
 PROPERTIES:
     thermal_dispersion:
       - type: formula A

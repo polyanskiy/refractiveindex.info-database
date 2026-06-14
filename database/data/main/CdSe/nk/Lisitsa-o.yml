@@ -5,10 +5,10 @@
 REFERENCES: |
     1) M. P. Lisitsa, L. F. Gudymenko, V. N. Malinko, S. F. Terekhova.
     Dispersion of the refractive indices and birefringence of CdS<sub>x</sub>Se<sub>1-x</sub> single crystals.
-    <a href="https://doi.org/10.1002/pssb.19690310146"><i>Phys. Status Solidi</i>, <b>31</b>, 389-399 (1969)</a><br>
+    [*Phys. Status Solidi*, **31**, 389-399 (1969)](https://doi.org/10.1002/pssb.19690310146)<br>
     2) G. C. Bhar.
     Refractive index interpolation in phase-matching.
-    <a href="https://doi.org/10.1364/AO.15.0305_1"><i>Appl. Opt.</i> <b>15</b>, 305-307 (1976)</a><br>
+    [*Appl. Opt.* **15**, 305-307 (1976)](https://doi.org/10.1364/AO.15.0305_1)<br>
     * Ref. 2 provides a dispersion formula based on data from Ref. 1
 COMMENTS: |
     Ordinary ray (o)

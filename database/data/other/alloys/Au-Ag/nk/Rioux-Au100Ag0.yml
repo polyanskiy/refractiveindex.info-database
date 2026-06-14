@@ -5,7 +5,7 @@
 REFERENCES: |
     D. Rioux, S. Vallières, S. Besner, P. Muñoz, E. Mazur, M. Meunier.
     An analytic model for the dielectric function of Au, Ag, and their alloys.
-    <a href="https://doi.org/10.1002/adom.201300457"><i>Adv. Opt. Mater.</i> <b>2</b>, 176-182 (2014)</a>
+    [*Adv. Opt. Mater.* **2**, 176-182 (2014)](https://doi.org/10.1002/adom.201300457)
     (See Supporting information for MATLAB model)
 COMMENTS: |
     100% Au, 0% Ag. Model fitted on ellipsometric measurements on five different AuAg alloy thin film compositions; Thin film compositions: Au, Au:Ag 2:1, Au:Ag 1:1, Au:Ag 1:2, Ag; Film thickness: 80 nm

@@ -5,9 +5,11 @@
 REFERENCES: |
     A. G. Mathewson and H. P. Myers.
     Absolute values of the optical constants of some pure metals.
-    <a href="https://doi.org/10.1088/0031-8949/4/6/009"><i>Phys. Scr.</i> <b>4</b>, 291-292 (1971)</a>
+    [*Phys. Scr.* **4**, 291-292 (1971)](https://doi.org/10.1088/0031-8949/4/6/009)
 COMMENTS: |
     298 K (24.85 °C)
+CONDITIONS:
+    temperature: 298
 DATA:
   - type: tabulated nk
     data: |
@@ -70,5 +72,3 @@ DATA:
         1.45864 0.72263 6.84998
         1.54980 0.80774 7.24241
         1.65312 0.88689 7.66724
-CONDITIONS:
-    temperature: 298

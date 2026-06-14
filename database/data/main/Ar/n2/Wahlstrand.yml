@@ -5,13 +5,13 @@
 REFERENCES: |
     J. K. Wahlstrand, Y.-H. Cheng, H. M. Milchberg.
     Absolute measurement of the transient optical nonlinearity in N<sub>2</sub>, O<sub>2</sub>, N<sub>2</sub>O, and Ar.
-    <a href="https://doi.org/10.1103/PhysRevA.85.043820"> <i>Phys. Rev. A</i> <b>85</b>, 043820 (2012)</a>
+    [ *Phys. Rev. A* **85**, 043820 (2012)](https://doi.org/10.1103/PhysRevA.85.043820)
 COMMENTS: |
     40 fs. Single-shot supercontinuum spectral interferometry. Room temperature, atmospheric pressure.
+CONDITIONS:
+    n2_method: SI
+    pulse_duration: 40e-15
 DATA:
   - type: tabulated n2
     data: |
         0.80 9.7e-24
-CONDITIONS:
-    n2_method: SI
-    pulse_duration: 40e-15

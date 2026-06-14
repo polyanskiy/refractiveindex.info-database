@@ -5,9 +5,11 @@
 REFERENCES: |
     A. C. Sinnock and B. L. Smith.
     Refractive indices of the condensed inert gases.
-    <a href="https://doi.org/10.1103/PhysRev.181.1297"><i>Phys. Rev.</i> <b>181</b>, 1297-1307 (1969)</a>
+    [*Phys. Rev.* **181**, 1297-1307 (1969)](https://doi.org/10.1103/PhysRev.181.1297)
 COMMENTS: |
     Liquid argon at 86 K (-187.15 °C).
+CONDITIONS:
+    temperature: 86
 DATA:
   - type: tabulated n
     data: |
@@ -20,5 +22,3 @@ DATA:
         0.5461 1.2308
         0.5780 1.2303
         0.6439 1.2295
-CONDITIONS:
-    temperature: 86

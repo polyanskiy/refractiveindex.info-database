@@ -5,10 +5,12 @@
 REFERENCES: |
     P. M. Rowe, M. Fergoda, S. Neshyba.
     Temperature-dependent optical properties of liquid water from 240 to 298 K.
-    <a href="https://doi.org/10.1029/2020JD032624"><i>J. Geophys. Res. Atmos.</i> <b>125</b>, e2020JD032624 (2020)</a>
+    [*J. Geophys. Res. Atmos.* **125**, e2020JD032624 (2020)](https://doi.org/10.1029/2020JD032624)
     (Numerical data kindly provided by Penny Rowe)
 COMMENTS: |
     Supercooled liquid water (H<sub>2</sub>O) at -33 °C
+CONDITIONS:
+    temperature: 240
 DATA:
   - type: tabulated nk
     data: |
@@ -15568,5 +15570,3 @@ DATA:
         3.4597511E+03 3.3264711E+00 2.1330914E+00
         5.1917099E+03 3.7969634E+00 2.5245161E+00
         1.0395939E+04 3.7969634E+00 2.8187580E+00
-CONDITIONS:
-    temperature: 240

@@ -5,10 +5,13 @@
 REFERENCES: |
     B. Song, H. Gu, S. Zhu, H. Jiang, X. Chen, C. Zhang, S. Liu.
     Broadband optical properties of graphene and HOPG investigated by spectroscopic Mueller matrix ellipsometry.
-    <a href="https://doi.org/10.1016/j.apsusc.2018.01.051"><i>Appl. Surf. Sci</i> <b>439</b>, 1079-1087 (2018)</a>
+    [*Appl. Surf. Sci* **439**, 1079-1087 (2018)](https://doi.org/10.1016/j.apsusc.2018.01.051)
     (Numerical data kindly provided by Baokun Song)
 COMMENTS: |
     Mono-graphene fabricated by chemical vapor deposition (CVD).
+CONDITIONS:
+    substrate: quartz_glass
+    film_thickness: 1L
 DATA:
   - type: tabulated nk
     data: |
@@ -1096,6 +1099,3 @@ DATA:
         1.6850 3.396821 2.583966
         1.6875 3.399492 2.586866
         1.6900 3.402166 2.589762
-CONDITIONS:
-    substrate: quartz_glass
-    film_thickness: 1L

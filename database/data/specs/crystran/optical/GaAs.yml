@@ -20,30 +20,6 @@ COMMENTS: |
     (2) Deutch, J.Electron. Mater. V4 p679<br>
     (3) Sze, Physics of Semiconductor Devices, Wiley 1981<br>
     (4) M.Cadona. Proc. Int Conf. Semi. Phys. 1960 p.388. Note: dn/dT = n x (4.5 +/-0.2)x10<sup>-5</sup> °K<sup>-1</sup>
-PROPERTIES:
-    density:
-      - value: 5315
-    thermal_dispersion:
-      - type: constant
-        wavelength: 10
-        value: 147e-06
-    thermal_expansion:
-      - temperature: 300
-        value: 5.7e-06
-    hardness:
-      - type: Knoop
-        value: 7.35e9
-    melting_point:
-      - value: 1784
-    thermal_conductivity:
-      - temperature: 273
-        value: 48
-    youngs_modulus:
-      - value: 84.81e9
-    poissons_ratio:
-      - value: 0.31
-    solubility:
-      - value: 0
 DATA:
   - type: tabulated n
     data: |
@@ -624,3 +600,27 @@ DATA:
         22.15 4.43E-03
         22.20 4.46E-03
         22.25 4.46E-03
+PROPERTIES:
+    density:
+      - value: 5315
+    thermal_dispersion:
+      - type: constant
+        wavelength: 10
+        value: 147e-06
+    thermal_expansion:
+      - temperature: 300
+        value: 5.7e-06
+    hardness:
+      - type: Knoop
+        value: 7.35e9
+    melting_point:
+      - value: 1784
+    thermal_conductivity:
+      - temperature: 273
+        value: 48
+    youngs_modulus:
+      - value: 84.81e9
+    poissons_ratio:
+      - value: 0.31
+    solubility:
+      - value: 0

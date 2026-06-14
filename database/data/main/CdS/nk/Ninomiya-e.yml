@@ -5,8 +5,8 @@
 REFERENCES: |
     S. Ninomiya and S. Adachi.
     Optical properties of wurtzite CdS.
-    <a href="https://doi.org/10.1063/1.360355"><i>J. Appl. Phys.</i> <b>78</b>, 1183-1190 (1995)</a><br>
-    [<a href="https://github.com/polyanskiy/refractiveindex.info-scripts/blob/main/scripts/Ninomiya%201995%20-%20CdS-o.py">Calculation script (Python)</a>]
+    [*J. Appl. Phys.* **78**, 1183-1190 (1995)](https://doi.org/10.1063/1.360355)<br>
+    [[Calculation script (Python)](https://github.com/polyanskiy/refractiveindex.info-scripts/blob/main/scripts/Ninomiya%201995%20-%20CdS-o.py)]
 COMMENTS: |
     Fit of author's experimental data to a simplified model of the interband transitions (MDF).
     Extraordinary ray (e), room temperature.

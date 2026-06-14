@@ -5,7 +5,7 @@
 REFERENCES: |
     T. Inagaki, L. C. Emerson, E. T. Arakawa, M. W. Williams.
     Optical properties of solid Na and Li between 0.6 and 3.8 eV.
-    <a href="https://doi.org/10.1103/PhysRevB.13.2305"><i>Phs. Rev. B</i> <b>13</b>, 2305-2313 (1976)</a>
+    [*Phs. Rev. B* **13**, 2305-2313 (1976)](https://doi.org/10.1103/PhysRevB.13.2305)
 DATA:
   - type: tabulated nk
     data: |

@@ -5,12 +5,14 @@
 REFERENCES: |
     T. Siefke, S. Kroker, K. Pfeiffer, O. Puffky, K. Dietrich, D. Franta, I. Ohlídal, A. Szeghalmi, E.-B. Kley, A. Tünnermann.
     Materials pushing the application limits of wire grid polarizers further into the deep ultraviolet spectral range.
-    <a href="https://doi.org/10.1002/adom.201600250"><i>Adv. Opt. Mater.</i> <b>4</b>, 1780–1786 (2016)</a>
+    [*Adv. Opt. Mater.* **4**, 1780–1786 (2016)](https://doi.org/10.1002/adom.201600250)
     (Numerical data kindly provided by Thomas Siefke)
 COMMENTS: |
-    <b>Film:</b> prepared by ALD, 350 nm TiO<sub>2</sub>. See <a href=\https://doi.org/10.1088/0957-4484/26/2/024003">Ratzsch et al. <i>Nanotechnology</i> <b>26</b>, 024003 (2015)</a>.<br>
-    <b>Measurement:</b> ellipsometer Jobin Yvon UVISEL2 VUV: 1.5–8.7 eV; ellipsometer Jobin Yvon UVISEL: 0.6–6.5 eV; ellipsometer Woollam IRVASE: 300–6500 cm<sup>-1</sup>; spectrophotometer McPhersom VUVas 2000: 5.6–10.3 eV; spectrophotometer Perkin Elmer Lambda 1050: 0.5-6.7 eV; spectrophotometer Bruker Vertex 80v: 80-7500 cm<sup>-1</sup>.<br>
-    <b>Fit model:</b> universal dispersion model. See <a href="https://doi.org/10.1364/AO.54.009108">Franta et al. <i>Appl. Opt.</i> <b>54</b>, 9108–9119 (2015)</a>."
+    **Film:** prepared by ALD, 350 nm TiO<sub>2</sub>. See [Ratzsch et al. *Nanotechnology* **26**, 024003 (2015)](https://doi.org/10.1088/0957-4484/26/2/024003).
+    
+    **Measurement:** ellipsometer Jobin Yvon UVISEL2 VUV: 1.5–8.7 eV; ellipsometer Jobin Yvon UVISEL: 0.6–6.5 eV; ellipsometer Woollam IRVASE: 300–6500 cm<sup>-1</sup>; spectrophotometer McPhersom VUVas 2000: 5.6–10.3 eV; spectrophotometer Perkin Elmer Lambda 1050: 0.5–6.7 eV; spectrophotometer Bruker Vertex 80v: 80–7500 cm<sup>-1</sup>.
+    
+    **Fit model:** universal dispersion model. See [Franta et al. *Appl. Opt.* **54**, 9108–9119 (2015)](https://doi.org/10.1364/AO.54.009108).
 CONDITIONS:
     film_thickness: 350e-9
 DATA:

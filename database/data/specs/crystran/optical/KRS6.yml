@@ -19,27 +19,6 @@ COMMENTS: |
     (1) Hettner and Leisegang; Optik, V3, p305, 1948<br>
     (2) Combes, Ballard, McCarthy: J.Opt Soc.Am. V41, p 215, 1951<br>
     (3) Handbook of Optical Constants, ed Palik, V3, ISBN 0-12-544423-0
-PROPERTIES:
-    density:
-      - value: 7180
-    thermal_expansion:
-      - value: 50e-06
-    hardness:
-      - type: Knoop
-        indenter_mass: 0.5
-        value: 2.93e8
-    melting_point:
-      - value: 696
-    thermal_conductivity:
-      - temperature: 293
-        value: 0.7
-    youngs_modulus:
-      - value: 20.68e9
-    poissons_ratio:
-      - value: 0.219
-    solubility:
-      - temperature: 293
-        value: 3
 DATA:
   - type: tabulated n
     data: |
@@ -997,3 +976,24 @@ DATA:
         22.0 1.99E-04
         22.1 2.08E-04
         22.2 2.18E-04
+PROPERTIES:
+    density:
+      - value: 7180
+    thermal_expansion:
+      - value: 50e-06
+    hardness:
+      - type: Knoop
+        indenter_mass: 0.5
+        value: 2.93e8
+    melting_point:
+      - value: 696
+    thermal_conductivity:
+      - temperature: 293
+        value: 0.7
+    youngs_modulus:
+      - value: 20.68e9
+    poissons_ratio:
+      - value: 0.219
+    solubility:
+      - temperature: 293
+        value: 3

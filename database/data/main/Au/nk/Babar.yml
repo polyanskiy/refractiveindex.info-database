@@ -5,7 +5,7 @@
 REFERENCES: |
     S. Babar and J. H. Weaver.
     Optical constants of Cu, Ag, and Au revisited.
-    <a href="https://doi.org/10.1364/AO.54.000477"><i>Appl. Opt.</i> <b>54</b>, 477-481 (2015)</a>
+    [*Appl. Opt.* **54**, 477-481 (2015)](https://doi.org/10.1364/AO.54.000477)
 DATA:
   - type: tabulated nk
     data: |

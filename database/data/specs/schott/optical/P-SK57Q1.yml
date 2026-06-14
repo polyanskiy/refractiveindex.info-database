@@ -3,7 +3,7 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: |
-    <a href="https://refractiveindex.info/download/data/2017/schott_2017-01-20b.agf">SCHOTT Zemax catalog 2017-01-20b</a> (obtained from <a href="https://www.schott.com/en-us/products/optical-glass-p1000267/downloads/">http://www.schott.com</a>)<br>See also <a href="https://refractiveindex.info/download/data/2017/schott_2017-01-20.pdf">SCHOTT glass data sheets</a>
+    [SCHOTT Zemax catalog 2017-01-20b](https://refractiveindex.info/download/data/2017/schott_2017-01-20b.agf) (obtained from [http://www.schott.com](https://www.schott.com/en-us/products/optical-glass-p1000267/downloads/))<br>See also [SCHOTT glass data sheets](https://refractiveindex.info/download/data/2017/schott_2017-01-20.pdf)
 COMMENTS: |
     suitable for precision molding        
 DATA:

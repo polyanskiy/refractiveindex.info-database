@@ -5,10 +5,13 @@
 REFERENCES: |
     S. Joseph, S. Sarkar, J. Joseph.
     Grating-coupled surface plasmon-polariton sensing at a flat metal–analyte interface in a hybrid-configuration.
-    <a href="https://doi.org/10.1021/acsami.0c12525"><i>ACS Appl. Mater. Interfaces</i>, <b>12</b>, 46519-46529 (2020)</a>
+    [*ACS Appl. Mater. Interfaces*, **12**, 46519-46529 (2020)](https://doi.org/10.1021/acsami.0c12525)
     (Numerical data kindly provided by Prof. Joby Joseph)
 COMMENTS: |
     700 nm film on glass substrate.
+CONDITIONS:
+    film_thickness: 700e-9
+    substrate: glass
 DATA:
   - type: tabulated nk
     data: |
@@ -689,6 +692,3 @@ DATA:
         1.6811 2.63117 0.06221
         1.6845 2.63096 0.06248
         1.6880 2.63074 0.06275
-CONDITIONS:
-    film_thickness: 700e-9
-    substrate: glass

@@ -21,26 +21,6 @@ COMMENTS: |
     Optical data are for ordinary ray (o).
 CONDITIONS:
     direction: o
-PROPERTIES:
-    density:
-      - value: 5940
-    thermal_expansion:
-      - direction: para
-        temperature: 298
-        value: 11e-06
-      - direction: perp
-        temperature: 298
-        value: 15.8e-06
-    hardness:
-      - type: Moh
-        value: 4.5
-    melting_point:
-      - value: 1766
-    thermal_conductivity:
-      - temperature: 300
-        value: 5.1
-    solubility:
-      - value: 0
 DATA:
   - type: tabulated n
     data: |
@@ -203,3 +183,23 @@ DATA:
         14.8 6.67E-03
         14.9 6.58E-03
         15.0 6.49E-03
+PROPERTIES:
+    density:
+      - value: 5940
+    thermal_expansion:
+      - direction: para
+        temperature: 298
+        value: 11e-06
+      - direction: perp
+        temperature: 298
+        value: 15.8e-06
+    hardness:
+      - type: Moh
+        value: 4.5
+    melting_point:
+      - value: 1766
+    thermal_conductivity:
+      - temperature: 300
+        value: 5.1
+    solubility:
+      - value: 0

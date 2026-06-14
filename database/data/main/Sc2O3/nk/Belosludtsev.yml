@@ -5,10 +5,13 @@
 REFERENCES: |
     A. Belosludtsev, K. Juškevičius, L. Ceizaris, R. Samuilovas, S. Stanionytė, V. Jasulaitienė, S. Kičas.
     Correlation between stoichiometry and properties of scandium oxide films prepared by reactive magnetron sputtering.
-    <a href="https://doi.org/10.1016/j.apsusc.2017.08.068"><i>Appl. Surf. Sci.</i> <b>427</b>, 312-318 (2018)</a>
+    [*Appl. Surf. Sci.* **427**, 312-318 (2018)](https://doi.org/10.1016/j.apsusc.2017.08.068)
     (Numerical data kindly provided by Alexandr Belosludtsev)
 COMMENTS: |
     Stoichiometric 270±5 nm film on SiO<sub>2</sub> substrate.
+CONDITIONS:
+    film_thickness: 270e-9
+    substrate: SiO2
 DATA:
   - type: tabulated nk
     data: |
@@ -498,6 +501,3 @@ DATA:
         1.196 1.97223 1.30E-09
         1.198 1.97220 1.20E-09
         1.200 1.97218 1.20E-09
-CONDITIONS:
-    film_thickness: 270e-9
-    substrate: SiO2

@@ -5,13 +5,13 @@
 REFERENCES: |
     J. Li, C. H. Wen, S. Gauza, R. Lu, S. T. Wu.
     Refractive indices of liquid crystals for display applications.
-    <a href="https://doi.org/10.1109/JDT.2005.853357"><i>J. Disp. Technol.</i> <b>1</b>, 51-61, 2005</a>
+    [*J. Disp. Technol.* **1**, 51-61, 2005](https://doi.org/10.1109/JDT.2005.853357)
 COMMENTS: |
     25 °C. Extraordinary ray (e).
+CONDITIONS:
+    temperature: 298
+    direction: e
 DATA:
   - type: formula 5
     wavelength_range: 0.450 0.656
     coefficients: 1.5720 0.0111 -2 4.00E-5 -4
-CONDITIONS:
-    temperature: 298
-    direction: e

@@ -3,7 +3,7 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: |
-    <a href="http://lzos.ru/en/index.php?option=com_content&task=view&id=54">LZOS Clear optical glass catalogue</a>
+    [LZOS Clear optical glass catalogue](http://lzos.ru/en/index.php?option=com_content&task=view&id=54)
 DATA:
   - type: tabulated n
     data: |

@@ -17,29 +17,6 @@ COMMENTS: |
     REFERENCES:<br>
     (1) Handbook Optical Constants, ed Palik, V1, ISBN 0-12-544420-6<br>
     (2) Toyoda & Yabe J. Phys. D: Appl. Phys.,1 6 (1983)
-PROPERTIES:
-    density:
-      - value: 2203
-    thermal_dispersion:
-      - type: constant
-        value: 12.9e-06
-    thermal_expansion:
-      - temperature: 300
-        value: 0.55e-06
-    hardness:
-      - type: Knoop
-        indenter_mass: 0.2
-        value: 4.90e9
-    melting_point:
-      - value: 1873
-    thermal_conductivity:
-      - value: 1.38
-    youngs_modulus:
-      - value: 73.1e9
-    poissons_ratio:
-      - value: 0.17
-    solubility:
-      - value: 0
 DATA:
   - type: tabulated n
     data: |
@@ -629,3 +606,26 @@ DATA:
         4.810 3.87E-04
         4.820 3.87E-04
         4.830 3.88E-04
+PROPERTIES:
+    density:
+      - value: 2203
+    thermal_dispersion:
+      - type: constant
+        value: 12.9e-06
+    thermal_expansion:
+      - temperature: 300
+        value: 0.55e-06
+    hardness:
+      - type: Knoop
+        indenter_mass: 0.2
+        value: 4.90e9
+    melting_point:
+      - value: 1873
+    thermal_conductivity:
+      - value: 1.38
+    youngs_modulus:
+      - value: 73.1e9
+    poissons_ratio:
+      - value: 0.17
+    solubility:
+      - value: 0

@@ -5,10 +5,14 @@
 REFERENCES: |
     R. Beaini, B. Baloukas, S. Loquai, J.E. Klemberg-Sapieha, L. Martinu.
     Thermochromic VO<sub>2</sub>-based smart radiator devices with ultralow refractive index cavities for increased performance.
-    <a href="https://doi.org/10.1016/j.solmat.2019.110260"><i>Sol. Energy Mater. Sol. Cells</i> <b>205</b>, 110260 (2020)</a>
+    [*Sol. Energy Mater. Sol. Cells* **205**, 110260 (2020)](https://doi.org/10.1016/j.solmat.2019.110260)
     (Data points extracted from Fig. 1)
 COMMENTS: |
     70 nm-thick VO<sub>2</sub> film deposited on SiO<sub>2</sub> substrate. 25 °C.
+CONDITIONS:
+    temperature: 298
+    film_thickness: 70e-9
+    substrate: SiO2
 DATA:
   - type: tabulated nk
     data: |
@@ -2463,7 +2467,3 @@ DATA:
         24.98 1.2292 0.2030
         24.99 1.2291 0.2032
         25.00 1.2289 0.2034
-CONDITIONS:
-    temperature: 298
-    film_thickness: 70e-9
-    substrate: SiO2

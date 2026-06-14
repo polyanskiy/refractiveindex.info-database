@@ -6,9 +6,11 @@ REFERENCES: |
     <a href="https://refractiveindex.info/download/data/2017/Acrylic-Matching-Liquid-Code-5032.pdf">
     Acrylic Matching Liquid Code 5032 Data Sheet 30-NOV-17
     </a>
-    (obtained from <a href="https://www.cargille.com/matching-liquids/">https://www.cargille.com</a>)
+    (obtained from [https://www.cargille.com](https://www.cargille.com/matching-liquids/))
 COMMENTS: |
     25 °C
+CONDITIONS:
+    temperature: 298
 DATA:
   - type: formula 5
     wavelength_range: 0.31 1.55
@@ -30,8 +32,6 @@ DATA:
         1.0648 3.459E-07
         1.3000 1.090E-06
         1.5500 2.752E-06
-CONDITIONS:
-    temperature: 298
 PROPERTIES:
     density:
       - temperature: 298

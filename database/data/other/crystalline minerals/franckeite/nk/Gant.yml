@@ -5,10 +5,12 @@
 REFERENCES: |
     P. Gant, F. Ghasemi, D. Maeso, C. Munuera, E. López-Elvira, R. Frisenda, D. Pérez De Lara, G. Rubio-Bollinger, M. Garcia-Hernandez, A. Castellanos-Gomez.
     Optical contrast and refractive index of natural van der Waals heterostructure nanosheets of franckeite.
-    <a href="https://doi.org/10.3762/bjnano.8.235"><i>Beilstein J. Nanotechnol.</i> <b>8</b>, 2357-2362 (2017)</a>
+    [*Beilstein J. Nanotechnol.* **8**, 2357-2362 (2017)](https://doi.org/10.3762/bjnano.8.235)
     (Numerical data kindly provided by Andres Castellanos-Gomez)
 COMMENTS: |
     Optical constants derived from reflectance spectra of 25-170 nm franckeite films on SiO<sub>2</sub>/Si substrate.
+CONDITIONS:
+    substrate: SiO2/Si
 DATA:
   - type: tabulated nk
     data: |
@@ -1483,5 +1485,3 @@ DATA:
         0.7771329 4.1413 0.2747
         0.7773668 4.1444 0.2733
         0.7776007 4.1333 0.2667
-CONDITIONS:
-    substrate: SiO2/Si

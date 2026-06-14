@@ -5,7 +5,7 @@
 REFERENCES: |
     Y. Brasse, M. B. Müller, M. Karg, C. Kuttner, T. A. F. König, A. Fery.
     Magnetic and electric resonances in particle-to-film-coupled functional nanostructures.
-    <a href="https://doi.org/10.1021/acsami.7b16941"><i>ACS Appl. Mater. Interfaces</i> <b>10</b>, 3133-3141 (2018)</a>
+    [*ACS Appl. Mater. Interfaces* **10**, 3133-3141 (2018)](https://doi.org/10.1021/acsami.7b16941)
     (Numerical data kindly provided by Tobias König)
 DATA:
   - type: tabulated nk

@@ -20,55 +20,15 @@ COMMENTS: |
     REFERENCES:<br>
     1. Private Communication. J.A.Elliott. Dept. Materials Science, University of Cambridge. 2011<br>
     2. Crystallography - LINK to:
-    <a href="https://archive.org/details/in.ernet.dli.2015.41299/page/n603">Practical Crystal Measurement. A.E.H.Tutton, Vol2, page 1329</a><br>
+    [Practical Crystal Measurement. A.E.H.Tutton, Vol2, page 1329](https://archive.org/details/in.ernet.dli.2015.41299/page/n603)<br>
     3. Linear Thermal Expansion of Calcite - Link to: <a href="http://www.minsocam.org/ammin/AM34/AM34_846.pdf">Mineral Society of America, Linear Thermal Expansion of Calcite.<a><br>
     <br>
     WEBLINKS:<br>
-    <a href="http://webmineral.com/data/Calcite.shtml">http://webmineral.com/data/Calcite.shtml</a> - Has further information regarding Calcite.<br>
+    [http://webmineral.com/data/Calcite.shtml](http://webmineral.com/data/Calcite.shtml) - Has further information regarding Calcite.<br>
     <br>
     Optical data are for ordinary ray (o).
 CONDITIONS:
     direction: o
-PROPERTIES:
-    density:
-      - value: 2710
-    thermal_dispersion:
-      - type: constant
-        wavelength: 0.5
-        direction: para
-        value: 3e-06
-      - type: constant
-        wavelength: 0.5
-        direction: perp
-        value: 1.3e-05
-    thermal_expansion:
-      - temperature: 273
-        direction: para
-        value: 25e-06
-      - temperature: 273
-        direction: perp
-        value: -5.8e-06
-    hardness:
-      - type: Knoop
-        value: 1.52e9
-      - type: Mohs
-        value: 3
-    melting_point:
-      - value: 1098
-    thermal_conductivity:
-      - temperature: 273
-        direction: para
-        value: 5.526
-      - temperature: 273
-        direction: perp
-        value: 5.526
-    youngs_modulus:
-      - direction: para
-        value: 88.19e9
-      - direction: perp
-        value: 72.35e9
-    solubility:
-      - value: 0.014
 DATA:
   - type: tabulated n
     data: |
@@ -1394,3 +1354,43 @@ DATA:
         5.480 5.67E-04
         5.490 5.68E-04
         5.500 5.69E-04
+PROPERTIES:
+    density:
+      - value: 2710
+    thermal_dispersion:
+      - type: constant
+        wavelength: 0.5
+        direction: para
+        value: 3e-06
+      - type: constant
+        wavelength: 0.5
+        direction: perp
+        value: 1.3e-05
+    thermal_expansion:
+      - temperature: 273
+        direction: para
+        value: 25e-06
+      - temperature: 273
+        direction: perp
+        value: -5.8e-06
+    hardness:
+      - type: Knoop
+        value: 1.52e9
+      - type: Mohs
+        value: 3
+    melting_point:
+      - value: 1098
+    thermal_conductivity:
+      - temperature: 273
+        direction: para
+        value: 5.526
+      - temperature: 273
+        direction: perp
+        value: 5.526
+    youngs_modulus:
+      - direction: para
+        value: 88.19e9
+      - direction: perp
+        value: 72.35e9
+    solubility:
+      - value: 0.014

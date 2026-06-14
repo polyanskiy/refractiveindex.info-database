@@ -5,8 +5,8 @@
 REFERENCES: |
     A. B. Djurišić and E. H. Li.
     Optical properties of graphite.
-    <a href="https://doi.org/10.1063/1.369370"><i>J. Appl. Phys.</i> <b>85</b>, 7404-7410 (1999)</a><br>
-    [<a href="https://github.com/polyanskiy/refractiveindex.info-scripts/blob/main/scripts/Djurisic%201999%20-%20Graphite-o.py">Calculation script (Python)</a>]
+    [*J. Appl. Phys.* **85**, 7404-7410 (1999)](https://doi.org/10.1063/1.369370)<br>
+    [[Calculation script (Python)](https://github.com/polyanskiy/refractiveindex.info-scripts/blob/main/scripts/Djurisic%201999%20-%20Graphite-o.py)]
 COMMENTS: |
     Graphite. Ordinary ray (o). Critical analysis and fit of the experimental data from several sources to a modified Lorentz-Drude (LD) model.
 CONDITIONS:

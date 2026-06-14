@@ -5,10 +5,12 @@
 REFERENCES: |
     L. V. Rodríguez-de Marcos, J. I. Larruquert, J. A. Méndez, J. A. Aznárez.
     Self-consistent optical constants of SiO<sub>2</sub> and Ta<sub>2</sub>O<sub>5</sub> films.
-    <a href="https://doi.org/10.1364/OME.6.003622"><i>Opt. Mater. Express</i> <b>6</b>, 3622-3637 (2016)</a>
+    [*Opt. Mater. Express* **6**, 3622-3637 (2016)](https://doi.org/10.1364/OME.6.003622)
     (Numerical data kindly provided by Juan Larruquert)
 COMMENTS: |
     Oxide films were deposited by reactive electron-beam evaporation onto various sorts of substrates at 300 °C
+CONDITIONS:
+    deposition_temperature: 573
 DATA:
   - type: tabulated nk
     data: |
@@ -407,5 +409,3 @@ DATA:
         1.48089E+00 1.457499 0.000701
         1.49570E+00 1.457472 0.000694
         1.51066E+00 1.457447 0.000687
-CONDITIONS:
-    deposition_temperature: 573

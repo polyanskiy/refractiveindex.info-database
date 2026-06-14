@@ -5,14 +5,14 @@
 REFERENCES: |
     T. R. Ensley and N. K. Bambha.
     Ultrafast nonlinear refraction measurements of infrared transmitting materials in the mid-wave infrared.
-    <a href="https://doi.org/10.1364/OE.380702"><i>Opt. Express</i> <b>27</b>, 37940 (2019)</a>
+    [*Opt. Express* **27**, 37940 (2019)](https://doi.org/10.1364/OE.380702)
 COMMENTS: |
     100 fs. Z-scan.
+CONDITIONS:
+    n2_method: Z-scan
+    pulse_duration: 100e-15
 DATA:
   - type: tabulated n2
     data: |
         2.0 3.8e-18
         3.9 7.5e-18
-CONDITIONS:
-    n2_method: Z-scan
-    pulse_duration: 100e-15

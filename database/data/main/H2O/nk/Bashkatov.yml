@@ -5,7 +5,7 @@
 REFERENCES: |
     A. N. Bashkatov and E. A. Genina.
     Water refractive index in dependence on temperature and wavelength: a simple approximation.
-    <a href="https://doi.org/10.1117/12.518857"><i>Proc. SPIE</i> <b>5068</b>, 393-395 (2003)</a>
+    [*Proc. SPIE* **5068**, 393-395 (2003)](https://doi.org/10.1117/12.518857)
 COMMENTS: |
     High-performance liquid chromatography (HPLC) distilled water at 20.0 °C.<br>
     <br>
@@ -28,9 +28,9 @@ COMMENTS: |
            + 3.6733×10<sup>−1</sup>·t<sup>2</sup>
            − 1.2932×10<sup>1</sup>·t<sup>3</sup>
 
+CONDITIONS:
+    temperature: 293.15
 DATA:
   - type: formula 5
     wavelength_range: 0.225 1.14
     coefficients: 1.31984 5190.553e-6 -2 -2.56169e-4 -4 9.39388e-6 -6
-CONDITIONS:
-    temperature: 293.15

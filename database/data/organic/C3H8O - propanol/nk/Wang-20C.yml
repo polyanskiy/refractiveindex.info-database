@@ -5,10 +5,12 @@
 REFERENCES: |
     C. C. Wang, J. Y. Tan, C. Y. Jing, L. H. Liu.
     Temperature-dependent optical constants of liquid isopropanol, n-butanol and n-decane.
-    <a href="https://doi.org/10.1364/AO.57.003003"><i>Appl. Opt.</i> <b>57</b>, 3303-3311 (2018)</a>
+    [*Appl. Opt.* **57**, 3303-3311 (2018)](https://doi.org/10.1364/AO.57.003003)
     (Numerical data kindly provided by Chengchao Wang)
 COMMENTS: |
     Isopropanol, 20 °C.
+CONDITIONS:
+    temperature: 293
 DATA:
   - type: tabulated nk
     data: |
@@ -500,5 +502,3 @@ DATA:
         18.51 1.417 9.726E-02
         18.78 1.430 8.269E-02
         19.06 1.485 3.164E-02
-CONDITIONS:
-    temperature: 293

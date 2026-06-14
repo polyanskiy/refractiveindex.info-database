@@ -5,10 +5,12 @@
 REFERENCES: |
     L. V. Rodriguez de Marcos, M. Christophersen, M. F. Batkis, J. G. del Hoyo, J. Patel, E. J. Wollack, J. A. Christodoulides, J. I. Larruquert, M. A. Quijada.
     Self-consistent optical properties of PEALD-Al<sub>2</sub>O<sub>3</sub> thin films.
-    <a href="https://doi.org/10.1364/OME.562660"><i>Opt. Express</i> <b>7</b>, 1750-1764 (2016)</a>
+    [*Opt. Express* **7**, 1750-1764 (2016)](https://doi.org/10.1364/OME.562660)
     (Numerical data kindly provided by Luis Rodriguez de Marcos)
 COMMENTS: |
     The aluminum oxide films were deposited by plasma-enhanced atomic layer deposition (PEALD) onto Si and MgF<sub>2</sub> substrates heated at 300 °C. Optical measurements (transmittance, reflectance, and ellipsometry) were performed over a very broad spectral range jointly covering from 58.4 nm to 43 μm. Using these measurements, along with suitable extrapolations, a Kramers-Kronig analysis procedure was applied to obtain a self-consistent set of optical properties that successfully reproduces the experimental data. Global and local self-consistency of the derived properties were satisfactorily evaluated through the application of sum rules.
+CONDITIONS:
+    deposition_temperature: 573
 DATA:
   - type: tabulated nk
     data: |
@@ -3009,5 +3011,3 @@ DATA:
         9.80422E+02 3.083284351795970 4.99704E-04
         9.86852E+02 3.083348532272660 4.96448E-04
         9.93324E+02 3.083490599576370 4.93214E-04
-CONDITIONS:
-    deposition_temperature: 573

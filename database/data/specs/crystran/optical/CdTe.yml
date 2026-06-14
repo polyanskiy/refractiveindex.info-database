@@ -20,29 +20,6 @@ COMMENTS: |
     (3) Hawkins, Sherwood, Djotni: Mid IR Filters for astronomical and remote sensing instrumentation. Invited Paper SPIE Conference Glasgow 2008
 CONDITIONS:
     temperature: 300
-PROPERTIES:
-    density:
-      - value: 6200
-    thermal_dispersion:
-      - type: constant
-        value: 5e-05
-    thermal_expansion:
-      - temperature: 293
-        value: 5.9e-06
-    hardness:
-      - type: Knoop
-        value: 5.30e8
-    melting_point:
-      - value: 1365
-    thermal_conductivity:
-      - temperature: 293
-        value: 6.2
-    youngs_modulus:
-      - value: 36.52e9
-    poissons_ratio:
-      - value: 0.41
-    solubility:
-      - value: 0
 DATA:
   - type: tabulated n
     data: |
@@ -288,3 +265,26 @@ DATA:
         37.8 6.87E-03
         37.9 7.05E-03
         38.0 7.69E-03
+PROPERTIES:
+    density:
+      - value: 6200
+    thermal_dispersion:
+      - type: constant
+        value: 5e-05
+    thermal_expansion:
+      - temperature: 293
+        value: 5.9e-06
+    hardness:
+      - type: Knoop
+        value: 5.30e8
+    melting_point:
+      - value: 1365
+    thermal_conductivity:
+      - temperature: 293
+        value: 6.2
+    youngs_modulus:
+      - value: 36.52e9
+    poissons_ratio:
+      - value: 0.41
+    solubility:
+      - value: 0

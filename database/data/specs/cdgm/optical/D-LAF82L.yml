@@ -3,7 +3,9 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: |
-    <a href="https://refractiveindex.info/download/data/2017/cdgm_2017-09.agf">CDGM Zemax catalog 2017-09</a> (obtained from <a href="http://www.cdgmgd.com/208/">http://www.cdgmgd.com</a>)
+    [CDGM Zemax catalog 2017-09](https://refractiveindex.info/download/data/2017/cdgm_2017-09.agf) (obtained from [http://www.cdgmgd.com](http://www.cdgmgd.com/208/))
+CONDITIONS:
+    temperature: 293
 DATA:
   - type: formula 3
     wavelength_range: 0.365 1.014
@@ -43,8 +45,6 @@ DATA:
         2.000 6.1658E-07
         2.200 1.8251E-06
         2.400 7.9358E-06
-CONDITIONS:
-    temperature: 293
 PROPERTIES:
     thermal_dispersion:
       - type: formula A

@@ -5,8 +5,8 @@
 REFERENCES: |
     R. Ferrini, G. Guizzetti, M. Patrini, A. Parisini, L. Tarricone, B. Valenti.
     Optical functions of InGaP/GaAs epitaxial layers from 0.01 to 5.5 eV.
-    <a href="https://doi.org/10.1140/epjb/e2002-00177-x"><i>Eur. Phys. J. B</i> <b>84</b>, 449-458 (2002)</a><br>
-    [<a href="https://github.com/polyanskiy/refractiveindex.info-scripts/blob/main/scripts/Ferrini%202002%20-%20InGaP.py">Calculation script (Python)</a>]
+    [*Eur. Phys. J. B* **84**, 449-458 (2002)](https://doi.org/10.1140/epjb/e2002-00177-x)<br>
+    [[Calculation script (Python)](https://github.com/polyanskiy/refractiveindex.info-scripts/blob/main/scripts/Ferrini%202002%20-%20InGaP.py)]
 COMMENTS: |
     Ga<sub>0.51</sub>In<sub>0.49</sub>P. Undoped lattice matched film grown lattice matched on GaAs substrates, by metal-organic vapour phase epitaxy (MOVPE) at 700 °C.
 CONDITIONS:

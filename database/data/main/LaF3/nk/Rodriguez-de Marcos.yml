@@ -5,10 +5,12 @@
 REFERENCES: |
     L. V. Rodríguez-de Marcos, J. I. Larruquert, J. A. Méndez, J. A. Aznárez.
     Self-consistent optical constants of MgF<sub>2</sub>, LaF<sub>3</sub>, and CeF<sub>3</sub> films.
-    <a href="https://doi.org/10.1364/OME.7.000989"><i>Opt. Mater. Express</i> <b>7</b>, 989-1006 (2017)</a>
+    [*Opt. Mater. Express* **7**, 989-1006 (2017)](https://doi.org/10.1364/OME.7.000989)
     (Numerical data kindly provided by Juan Larruquert)
 COMMENTS: |
     48 nm film prepared by evaporation from tungsten boat at 250 °C
+CONDITIONS:
+    deposition_temperature: 523
 DATA:
   - type: tabulated nk
     data: |
@@ -733,5 +735,3 @@ DATA:
         1.98332E+00 1.576141 0.000199
         1.99494E+00 1.576131 0.000198
         2.00663E+00 1.576122 0.000197
-CONDITIONS:
-    deposition_temperature: 523

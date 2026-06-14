@@ -5,10 +5,12 @@
 REFERENCES: |
     Y. Jiang, S. Pillai, M. A. Green.
     Realistic silver optical constants for plasmonics.
-    <a href="https://doi.org/10.1038/srep30605"><i>Sci. Rep.</i> <b>6</b>, 30605 (2016)</a>
+    [*Sci. Rep.* **6**, 30605 (2016)](https://doi.org/10.1038/srep30605)
     (See supplementary materials)
 COMMENTS: |
     Improved dataset representative of overlayer-protected, freshly deposited and annealed Ag films on silicon-nitride and glass. Room temperature.
+CONDITIONS:
+    substrate: SiO2/SiNx
 DATA:
   - type: tabulated nk
     data: |
@@ -1713,5 +1715,3 @@ DATA:
         1.998 0.509 13.951
         1.999 0.510 13.959
         2.000 0.510 13.966
-CONDITIONS:
-    substrate: SiO2/SiNx

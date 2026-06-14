@@ -6,6 +6,7 @@ import sys
 import yaml
 import os
 import re
+import markdown
 
 from PyQt6.QtWidgets import QApplication, QMainWindow, QWidget
 from PyQt6.QtWidgets import QComboBox, QCheckBox, QRadioButton, QSpacerItem, QTextBrowser, QTabWidget
@@ -443,8 +444,8 @@ def UpdateDetails():
     if os.path.exists(data_path):
         with open(data_path, "r", encoding="utf-8") as file:
             datafile = yaml.safe_load(file)
-        ref += datafile.get("REFERENCES", "")
-        com += datafile.get("COMMENTS", "")
+        ref += markdown.markdown(datafile.get("REFERENCES", ""))
+        com += markdown.markdown(datafile.get("COMMENTS", ""))
 
         # datafile is dict (key: value pairs); we read the value of the "DATA" key from this dict
         # DATA is a list with single element (dash "-" defines an element of a list!!!)
@@ -513,7 +514,7 @@ def UpdateAbout():
             aboutfile = yaml.safe_load(file)        
         raw_read = aboutfile.get("NAMES", [[{}]])
         names1 = [str(item) for item in raw_read]
-        about1 = aboutfile.get("ABOUT", {})
+        about1 = markdown.markdown(str(aboutfile.get("ABOUT", "")), extensions=["tables"])
         raw_read = aboutfile.get("LINKS", [])
         for link in raw_read:
             if 'url' in link and 'text' in link:
@@ -524,7 +525,7 @@ def UpdateAbout():
             aboutfile = yaml.safe_load(file)        
         raw_read = aboutfile.get("NAMES", [[{}]])
         names2 = [str(item) for item in raw_read]
-        about2 = aboutfile.get("ABOUT", {})
+        about2 = markdown.markdown(str(aboutfile.get("ABOUT", "")), extensions=["tables"])
         raw_read = aboutfile.get("LINKS", [])
         for link in raw_read:
             if 'url' in link and 'text' in link:
@@ -537,7 +538,7 @@ def UpdateAbout():
         text += '</h3>'
         text += '<div style="margin:0 10px 10px 10px;">'
         if about1 != '':
-            text += f'<p>{about1}</p>' 
+            text += about1
         if names1 and len(names1) > 1:
             text += f'<h4>Other names and variants of {names1[0]}</h4>'
             text += '<ul>'
@@ -559,7 +560,7 @@ def UpdateAbout():
         text += '</h3>'
         text += '<div style="margin:0 10px 10px 10px;">'
         if about2 != '':
-            text += f'<p>{about2}</p>'
+            text += about2
         if names2 and len(names2) > 1:
             text += f'<h4>Other names and variants of {names2[0]}</h4>'
             text += '<ul>'

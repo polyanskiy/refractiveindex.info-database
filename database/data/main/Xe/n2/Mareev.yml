@@ -5,17 +5,17 @@
 REFERENCES: |
     E. Mareev, V. Aleshkevich, F. Potemkin, V. Bagratashvili, N. Minaev, V. Gordienko.
     Anomalous behavior of nonlinear refractive indexes of CO<sub>2</sub> and Xe in supercritical states.
-    <a href="https://doi.org/10.1364/OE.26.013229"> <i>Opt. Express</i> <b>26</b>, 13229 (2018)</a>
+    [ *Opt. Express* **26**, 13229 (2018)](https://doi.org/10.1364/OE.26.013229)
 COMMENTS: |
     200 fs, 24 °C, atmospheric pressure.
     Spectral broadening.
     See the original publication for pressure dependence of n<sub>2</sub>.
-DATA:
-  - type: tabulated n2
-    data: |
-        1.24 6.2e-22
 CONDITIONS:
     n2_method: SB
     pulse_duration: 200e-15
     pressure: 101325
     temperatute: 297
+DATA:
+  - type: tabulated n2
+    data: |
+        1.24 6.2e-22

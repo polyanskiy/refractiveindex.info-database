@@ -5,10 +5,13 @@
 REFERENCES: |
     A. Ciesielski, L. Skowronski, W.Pacuski, T. Szoplik.
     Permittivity of Ge, Te and Se thin films in the 200–1500 nm spectral range. Predicting the segregation effects in silver.
-    <a href="https://doi.org/10.1016/j.mssp.2018.03.003"><i>Mat. Sci. Semicond. Process.</i> <b>81</b>, 64-67 (2018)</a>
+    [*Mat. Sci. Semicond. Process.* **81**, 64-67 (2018)](https://doi.org/10.1016/j.mssp.2018.03.003)
     (Numerical data kindly provided by Arkadiusz Ciesielski)
 COMMENTS: |
     25 nm-thick selenium film deposited directly on SiO<sub>2</sub> substrate
+CONDITIONS:
+    film_thickness: 25e-9
+    substrate: SiO2
 DATA:
   - type: tabulated nk
     data: |
@@ -290,6 +293,3 @@ DATA:
         1.8788 1.3272 0
         1.9375 1.3268 0
         2.0000 1.3264 0
-CONDITIONS:
-    film_thickness: 25e-9
-    substrate: SiO2

@@ -5,10 +5,13 @@
 REFERENCES: |
     M. L. Meretska,  F. H. B. Somhorst,  M. Ossiander,  Y. Hou,  J. Moodera,  F. Capasso.
     Measurements of the magneto-optical properties of thin-film EuS at room temperature in the visible spectrum.
-    <a href="https://doi.org/10.1063/5.0090533"><i>Appl. Phys. Lett.</i> <b>120</b>, 251103 (2022)</a>
+    [*Appl. Phys. Lett.* **120**, 251103 (2022)](https://doi.org/10.1063/5.0090533)
     (Numerical data kindly provided by Frank Somhorst)
 COMMENTS: |
     Ellipsometry sample: 100 nm thin film of electron beam evaporated EuS deposited on a 0.5 mm thick Si substrate held at room temperature. The base vacuum of the system was <nobr>~6×10<sup>-8</sup> Torr</nobr> whereas during electron-beam evaporation of EuS it was at <nobr>~2×10<sup>-6</sup> Torr</nobr>.
+CONDITIONS:
+    film_thickness: 100e-9
+    substrate: Si
 DATA:
   - type: tabulated nk
     data: |
@@ -1103,6 +1106,3 @@ DATA:
         1.6950 2.044 0.003
         1.6975 2.044 0.003
         1.7000 2.044 0.003
-CONDITIONS:
-    film_thickness: 100e-9
-    substrate: Si

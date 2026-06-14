@@ -3,10 +3,12 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: |
-    <a href="https://refractiveindex.info/download/data/2023/50415_Lightpath_BD6_Datasheet.pdf">BLACK DIAMOND BD6 Glass Datasheet (revision 2023-07-28)</a><br>
-    See also <a href="https://refractiveindex.info/download/data/2018/LPTHCORP-1512_BD6 Glass DataSheet.pdf">datasheet revision 2018-03-02</a> for more information.
+    [BLACK DIAMOND BD6 Glass Datasheet (revision 2023-07-28)](https://refractiveindex.info/download/data/2023/50415_Lightpath_BD6_Datasheet.pdf)<br>
+    See also [datasheet revision 2018-03-02](https://refractiveindex.info/download/data/2018/LPTHCORP-1512_BD6 Glass DataSheet.pdf) for more information.
 COMMENTS: |
     20 °C. 
+CONDITIONS:
+    temperature: 293
 DATA:
   - type: tabulated n
     data: |
@@ -17,8 +19,6 @@ DATA:
         10 2.778
         12 2.772
         14 2.764
-CONDITIONS:
-    temperature: 293
 PROPERTIES:
     density:
       - value: 4630

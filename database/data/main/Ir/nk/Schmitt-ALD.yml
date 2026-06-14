@@ -5,10 +5,14 @@
 REFERENCES: |
     P. Schmitt, N. Felde, T. Doehring, M. Stollenwerk, I. Uschmann, K. Hanemann, M. Siegler, G. Klemm, N. Gratzke, A. Tuennermann, S. Schwinde, S. Schroeder, A. Szeghalmi.
     Optical, structural, and functional properties of highly reflective and stable iridium mirror coatings for infrared applications.
-    <a href="https://doi.org/10.1364/OME.447306"><i>Opt. Mater. Express</i> <b>12</b>, 545-559 (2022)</a>
+    [*Opt. Mater. Express* **12**, 545-559 (2022)](https://doi.org/10.1364/OME.447306)
     (See supplementary materials. High-resolution data kindly provided by Paul Schmitt.)
 COMMENTS: |
     Iridium coating deposited by atomic layer deposition (ALD).
+CONDITIONS:
+    film_thickness: 66e-9
+    substrate: Si
+    deposition_method: ALD
 DATA:
   - type: tabulated nk
     data: |
@@ -2012,7 +2016,3 @@ DATA:
         19.9802 50.911 77.952
         19.9901 50.933 77.970
         20.0000 50.955 77.988
-CONDITIONS:
-    film_thickness: 66e-9
-    substrate: Si
-    deposition_method: ALD

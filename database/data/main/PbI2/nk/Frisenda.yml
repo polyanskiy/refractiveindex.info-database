@@ -5,10 +5,12 @@
 REFERENCES: |
     R. Frisenda, J. O. Island, J. L. Lado, E. Giovanelli, P. Gant, P. Nagler, S. Bange, J. M. Lupton, C. Schüller, A. J. Molina-Mendoza, L. Aballe, M. Foerster, T. Korn, M. A. Niño, D. Perez de Lara, E. M. Pérez, J. Fernandéz-Rossier, A. Castellanos-Gomez.
     Characterization of highly crystalline lead iodide nanosheets prepared by room-temperature solution processing.
-    <a href="https://doi.org/10.1088/1361-6528/aa8e5c"><i>Nanotechnol.</i> <b>28</b>, 455703 (2017)</a>
+    [*Nanotechnol.* **28**, 455703 (2017)](https://doi.org/10.1088/1361-6528/aa8e5c)
     (Numerical data kindly provided by Andres Castellanos-Gomez)
 COMMENTS: |
     Optical constants derived from reflectance spectra of 10-170 nm PbI<sub>2</sub> films on SiO<sub>2</sub>/Si substrate.
+CONDITIONS:
+    substrate: SiO2/Si
 DATA:
   - type: tabulated nk
     data: |
@@ -1013,5 +1015,3 @@ DATA:
         0.7927972 2.7553 0.0000
         0.7931673 2.7543 0.0000
         0.7935374 2.7532 0.0000
-CONDITIONS:
-    substrate: SiO2/Si

@@ -5,10 +5,12 @@
 REFERENCES: |
     M. Magnozzi, M. Ferrera, L. Mattera, M. Canepa, F. Bisio.
     Plasmonics of Au nanoparticles in a hot thermodynamic bath.
-    <a href="https://doi.org/10.1039/C8NR09038F"><i>Nanoscale</i>, <b>11</b>, 1140–1146 (2019)</a>
+    [*Nanoscale*, **11**, 1140–1146 (2019)](https://doi.org/10.1039/C8NR09038F)
     (Numerical data kindly provided by Michele Magnozzi)
 COMMENTS: |
     Optically-thick and morphologically-flat Au film at 225 °C.
+CONDITIONS:
+    temperature: 498
 DATA:
   - type: tabulated nk
     data: |
@@ -613,5 +615,3 @@ DATA:
         1.4424 0.426226 9.982907
         1.4458 0.430276 9.959753
         1.4492 0.430136 10.03434
-CONDITIONS:
-    temperature: 498

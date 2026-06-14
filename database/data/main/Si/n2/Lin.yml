@@ -5,9 +5,12 @@
 REFERENCES: |
     Q. Lin, J. Zhang, G. Piredda, R. W. Boyd, P. M. Fauchet, G. P. Agrawal.
     Dispersion of silicon nonlinearities in the near infrared region.
-    <a href="https://doi.org/10.1063/1.2750523"><i>Appl. Phys. Lett.</i> <b>91</b>, 021111 (2007)</a>
+    [*Appl. Phys. Lett.* **91**, 021111 (2007)](https://doi.org/10.1063/1.2750523)
 COMMENTS: |
     100 fs. Z-scan.
+CONDITIONS:
+    n2_method: Z-scan
+    pulse_duration: 100e-15
 DATA:
   - type: tabulated n2
     data: |
@@ -23,6 +26,3 @@ DATA:
         2.1 2.64e-18
         2.2 1.18e-18
         2.3 1.06e-18
-CONDITIONS:
-    n2_method: Z-scan
-    pulse_duration: 100e-15

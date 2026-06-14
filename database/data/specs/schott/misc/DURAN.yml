@@ -3,33 +3,12 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: |
-    <a href="https://refractiveindex.info/download/data/2022/duran-brochure-us.pdf">DURAN® Brochure, July 2022</a>
-    (obtained from <a href="https://www.schott.com/en-us/products/duran-p1000368/downloads/">http://www.schott.com</a>.
+    [DURAN® Brochure, July 2022](https://refractiveindex.info/download/data/2022/duran-brochure-us.pdf)
+    (obtained from [http://www.schott.com](https://www.schott.com/en-us/products/duran-p1000368/downloads/).
     Transmission data extracted from a figure and converted to k values by Dr. Daniel Rüdisser, HTflux Engineering GmbH, Graz, Austria)
 COMMENTS: |
     SCHOTT Duran Lab Glass (Tubed).
     DURAN® glass is very similar to BOROFLOAT® 33. Dispersion data for BOROFLOAT 33 can be used to approximate the refractive index of DURAN.
-PROPERTIES:
-    nd: 1.527
-    Vd: 58.6
-    density:
-      - value: 2230
-    youngs_modulus:
-      - value: 63e9
-    poissons_ratio:
-      - value: 0.20
-    thermal_expansion:
-      - temperature_range: 293 573
-        value: 3.3e-06
-    thermal_conductivity:
-      - temperature: 363
-        value: 1.2
-    transformation_temperature:
-      - value: 798
-    resistance:
-        hydrolytic: 1
-        acid: 1
-        alkali: 2
 DATA:
   - type: tabulated n
     data: |
@@ -487,3 +466,24 @@ DATA:
         2.490 9.32E-06
         2.495 9.47E-06
         2.500 9.62E-06
+PROPERTIES:
+    nd: 1.527
+    Vd: 58.6
+    density:
+      - value: 2230
+    youngs_modulus:
+      - value: 63e9
+    poissons_ratio:
+      - value: 0.20
+    thermal_expansion:
+      - temperature_range: 293 573
+        value: 3.3e-06
+    thermal_conductivity:
+      - temperature: 363
+        value: 1.2
+    transformation_temperature:
+      - value: 798
+    resistance:
+        hydrolytic: 1
+        acid: 1
+        alkali: 2

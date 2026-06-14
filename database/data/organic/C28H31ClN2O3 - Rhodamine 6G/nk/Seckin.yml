@@ -5,10 +5,12 @@
 REFERENCES: |
     S. Seçkin, P. Singh, A. Jaiswal, T. A. F. König.
     Super-radiant SERS enhancement by plasmonic particle gratings.
-    <a href="https://doi.org/10.1021/acsami.3c07532"><i>ACS Appl. Mater. Interfaces</i> <b>15</b>, 43124–43134 (2023)</a>
+    [*ACS Appl. Mater. Interfaces* **15**, 43124–43134 (2023)](https://doi.org/10.1021/acsami.3c07532)
     (Numerical data kindly provided by Dr. Tobias A. F. König)
 COMMENTS: |
     Rhodamine 6G thin film spin-coated on Si substrate
+CONDITIONS:
+    substrate: Si
 DATA:
   - type: tabulated nk
     data: |
@@ -1096,5 +1098,3 @@ DATA:
         1.6850 1.696272 0.000000
         1.6875 1.696194 0.000000
         1.6900 1.696116 0.000000
-CONDITIONS:
-    substrate: Si

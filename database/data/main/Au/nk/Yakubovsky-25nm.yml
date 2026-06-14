@@ -5,9 +5,12 @@
 REFERENCES: |
     D. I. Yakubovsky, A. V. Arsenin, Y. V. Stebunov, D. Yu. Fedyanin, V. S. Volkov.
     Optical constants and structural properties of thin gold films.
-    <a href="https://doi.org/10.1364/OE.25.025574"><i>Opt. Express</i> <b>25</b>, 25574-25587 (2017)</a>
+    [*Opt. Express* **25**, 25574-25587 (2017)](https://doi.org/10.1364/OE.25.025574)
 COMMENTS: |
     Au thickness = 25 nm, e-beam evaporated at 1 Å/s with base pressure of 7e-7 Torr on Si wafer at T = 20 °C. Thickness determined by AFM and XRR.
+CONDITIONS:
+    film_thickness: 25e-9
+    substrate: Si
 DATA:
   - type: tabulated nk
     data: |
@@ -182,6 +185,3 @@ DATA:
         1.98 0.960693627 14.0482626
         1.99 0.972762005 14.1252331
         2 0.982293583 14.1969217
-CONDITIONS:
-    film_thickness: 25e-9
-    substrate: Si

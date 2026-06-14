@@ -27,29 +27,6 @@ COMMENTS: |
     (2) Properties Polycrystalline Diamond, Sussmann et. al. Diamond & Rel. Mat. 3(1994) 303-312<br>
     (3) Fontenella et. al. App. Optics 16, 2949 (1977)<br>
     (4) Slack & Bartram J.Appl. Phys. 46, 89 (1975)
-PROPERTIES:
-    density:
-      - value: 3510
-    thermal_dispersion:
-      - type: constant
-        value: 9.6e-06
-    thermal_expansion:
-      - temperature: 293
-        value: 1.0e-06
-    hardness:
-      - type: Knoop
-        value: 5.59e10
-    melting_point:
-      - value: 3770
-    thermal_conductivity:
-      - temperature: 273
-        value: 2600
-    youngs_modulus:
-      - value: 1.050e12
-    poissons_ratio:
-      - value: 0.16
-    solubility:
-      - value: 0
 DATA:
   - type: tabulated n
     data: |
@@ -575,3 +552,26 @@ DATA:
         24.6 5.70E-05
         24.7 5.74E-05
         24.8 5.77E-05
+PROPERTIES:
+    density:
+      - value: 3510
+    thermal_dispersion:
+      - type: constant
+        value: 9.6e-06
+    thermal_expansion:
+      - temperature: 293
+        value: 1.0e-06
+    hardness:
+      - type: Knoop
+        value: 5.59e10
+    melting_point:
+      - value: 3770
+    thermal_conductivity:
+      - temperature: 273
+        value: 2600
+    youngs_modulus:
+      - value: 1.050e12
+    poissons_ratio:
+      - value: 0.16
+    solubility:
+      - value: 0

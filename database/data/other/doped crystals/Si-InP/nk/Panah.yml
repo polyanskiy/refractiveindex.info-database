@@ -5,10 +5,14 @@
 REFERENCES: |
     M. E. A.  Panah, O. Takayama, S. V. Morozov, K. E. Kudryavtsev, E. S. Semenova, A. V. Lavrinenko.
     Highly doped InP as a low loss plasmonic material for mid-IR region.
-    <a href="https://doi.org/10.1364/OE.24.029077"><i>Opt. Express</i> <b>24</b>, 29077-29088 (2016)</a>
+    [*Opt. Express* **24**, 29077-29088 (2016)](https://doi.org/10.1364/OE.24.029077)
     (Numerical data kindly provided by Osamu Takayama)
 COMMENTS: |
     400 nm silicon-doped InP (Si:InP) layer on undoped InP substrate.
+CONDITIONS:
+    film_thickness: 400e-9
+    substrate: InP
+
 DATA:
   - type: tabulated nk
     data: |
@@ -2513,7 +2517,3 @@ DATA:
         29.98 1.563049 12.189908
         29.99 1.563795 12.196592
         30.00 1.564540 12.203296
-CONDITIONS:
-    film_thickness: 400e-9
-    substrate: InP
-

@@ -24,43 +24,6 @@ COMMENTS: |
     (6) K.Matthews. Crystran Ltd Test Data 2021<br>
 CONDITIONS:
     temperature: 300
-PROPERTIES:
-    density:
-      - value: 4400
-    thermal_dispersion:
-      - type: constant
-        wavelength: 0.6e-6
-        value: 8.4e-05
-    thermal_expansion:
-      - temperature: 273
-        value: 47.9e-06
-    hardness:
-      - type: Knoop
-        value: 1.91e8
-    melting_point:
-      - value: 909
-    thermal_conductivity:
-      - temperature: 273
-        value: 0.94
-    youngs_modulus:
-      - value: 15.85e9
-    poissons_ratio:
-      - value: 0.279
-    solubility:
-      - temperature: 284
-        value: 420
-      - temperature: 288
-        value: 560
-      - temperature: 298
-        value: 900
-      - temperature: 300
-        value: 980
-      - temperature: 301.5
-        value: 1020
-      - temperature: 304
-        value: 1180
-      - temperature: 308
-        value: 1380
 DATA:
   - type: tabulated n
     data: |
@@ -392,3 +355,40 @@ DATA:
         28.571 8.91E-08
         33.333 1.00E-05
         40.000 7.65E-05
+PROPERTIES:
+    density:
+      - value: 4400
+    thermal_dispersion:
+      - type: constant
+        wavelength: 0.6e-6
+        value: 8.4e-05
+    thermal_expansion:
+      - temperature: 273
+        value: 47.9e-06
+    hardness:
+      - type: Knoop
+        value: 1.91e8
+    melting_point:
+      - value: 909
+    thermal_conductivity:
+      - temperature: 273
+        value: 0.94
+    youngs_modulus:
+      - value: 15.85e9
+    poissons_ratio:
+      - value: 0.279
+    solubility:
+      - temperature: 284
+        value: 420
+      - temperature: 288
+        value: 560
+      - temperature: 298
+        value: 900
+      - temperature: 300
+        value: 980
+      - temperature: 301.5
+        value: 1020
+      - temperature: 304
+        value: 1180
+      - temperature: 308
+        value: 1380

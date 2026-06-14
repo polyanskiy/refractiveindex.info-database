@@ -5,9 +5,11 @@
 REFERENCES: |
     J. Monin and G.-A. Boutry.
     Optical and photoelectric properties of alkali metals.
-    <a href="https://doi.org/10.1103/PhysRevB.9.1309"><i>Phys. Rev. B</i> <b>9</b>, 1309-1327 (1974)</a>
+    [*Phys. Rev. B* **9**, 1309-1327 (1974)](https://doi.org/10.1103/PhysRevB.9.1309)
 COMMENTS: |
     195 K (-78.15 °C)
+CONDITIONS:
+    temperature: 195
 DATA:
   - type: tabulated nk
     data: |
@@ -23,5 +25,3 @@ DATA:
         0.5460 0.095 1.239
         0.5780 0.089 1.361
         0.6200 0.080 1.525
-CONDITIONS:
-    temperature: 195

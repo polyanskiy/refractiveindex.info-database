@@ -22,29 +22,6 @@ COMMENTS: |
     (5) Wortman & Evans, V36, (1), P153 (1965)<br>
     (6) Hawkins, Sherwood, Djotni: Mid IR Filters for astronomical and remote sensing instrumentation. Invited Paper SPIE Conference Glasgow 2008<br>
     (7) Manufactures Published Data
-PROPERTIES:
-    density:
-      - value: 5330
-    thermal_dispersion:
-      - type: constant
-        value: 396e-06
-    thermal_expansion:
-      - temperature: 298
-        value: 6.1e-06
-    hardness:
-      - type: Knoop
-        value: 7.65e9
-    melting_point:
-      - value: 1209
-    thermal_conductivity:
-      - temperature: 293
-        value: 58.62
-    youngs_modulus:
-      - value: 102.7e9
-    poissons_ratio:
-      - value: 0.28
-    solubility:
-      - value: 0
 DATA:
   - type: tabulated n
     data: |
@@ -533,3 +510,26 @@ DATA:
         24.90 1.37E-03
         24.95 1.40E-03
         25.00 1.43E-03
+PROPERTIES:
+    density:
+      - value: 5330
+    thermal_dispersion:
+      - type: constant
+        value: 396e-06
+    thermal_expansion:
+      - temperature: 298
+        value: 6.1e-06
+    hardness:
+      - type: Knoop
+        value: 7.65e9
+    melting_point:
+      - value: 1209
+    thermal_conductivity:
+      - temperature: 293
+        value: 58.62
+    youngs_modulus:
+      - value: 102.7e9
+    poissons_ratio:
+      - value: 0.28
+    solubility:
+      - value: 0

@@ -5,12 +5,12 @@
 REFERENCES: |
     H.-J. Chang, N. Munera, C. Lopez-Zelaya, D. Banerjee, G. Beadie, E. W. Van Stryland, D. J. Hagan.
     Refractive index measurements of liquids from 0.5 to 2 µm using Rayleigh interferometry.
-    <a href="https://doi.org/10.1364/OME.519907"><i>Opt. Mater. Express</i> <b>14</b>, 1253–1267 (2024)</a>
+    [*Opt. Mater. Express* **14**, 1253–1267 (2024)](https://doi.org/10.1364/OME.519907)
 COMMENTS: |
     21.5–22.0 °C
+CONDITIONS:
+    temperature: 295
 DATA:
   - type: formula 1
     wavelength_range: 0.4 2.0
     coefficients: 0 0.9923 0.107
-CONDITIONS:
-    temperature: 295

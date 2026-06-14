@@ -5,9 +5,11 @@
 REFERENCES: |
     M. N. Afsar and J. B. Hasted.
     Measurements of the optical constants of liquid H<sub>2</sub>O and D<sub>2</sub>O between 6 and 450 cm<sup>−1</sup>.
-    <a href="https://doi.org/10.1364/JOSA.67.000902"><i>J. Opt. Soc. Am.</i> <b>67</b>, 902-904 (1977)</a>
+    [*J. Opt. Soc. Am.* **67**, 902-904 (1977)](https://doi.org/10.1364/JOSA.67.000902)
 COMMENTS: |
     Liquid water (H<sub>2</sub>O) at 19 °C
+CONDITIONS:
+    temperature: 292
 DATA:
   - type: tabulated nk
     data: |
@@ -45,5 +47,3 @@ DATA:
         1041 2.56 1.06
         1300 2.70 1.169
         1733 3.05 1.393
-CONDITIONS:
-    temperature: 292

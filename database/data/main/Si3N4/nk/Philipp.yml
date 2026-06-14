@@ -5,10 +5,10 @@
 REFERENCES: |
     1) H. R. Philipp.
     Optical properties of silicon nitride.
-    <a href="https://doi.org/10.1149/1.2403440"><i>J. Electrochim. Soc.</i> <b>120</b>, 295-300 (1973)</a><br>
+    [*J. Electrochim. Soc.* **120**, 295-300 (1973)](https://doi.org/10.1149/1.2403440)<br>
     2) T. Bååk.
     Silicon oxynitride; a material for GRIN optics.
-    <a href="https://doi.org/10.1364/AO.21.001069"><i>Appl. Opt.</i> <b>21</b>, 1069-1072 (1982)</a><br>
+    [*Appl. Opt.* **21**, 1069-1072 (1982)](https://doi.org/10.1364/AO.21.001069)<br>
     * Ref.2 provides a dispersion formula based on data from Ref. 1
 DATA:
   - type: formula 1

@@ -26,26 +26,6 @@ COMMENTS: |
     (7) Dickinson, IR laser windows, AFCRL-TR-0318, Air Force, Cambridge 1975<br>
 CONDITIONS:
     orientation: o
-PROPERTIES:
-    density:
-      - value: 3180
-    thermal_dispersion:
-      - type: constant
-        value: -1.06e-05
-    thermal_expansion:
-        value: 18.85e-06
-    hardness:
-      - type: Knoop
-        indenter_mass: 0.5
-        value: 1.55e9
-    melting_point:
-      - value: 1633
-    thermal_conductivity:
-      - value: 9.71
-    youngs_modulus:
-      - value: 75.8e9
-    solubility:
-      - value: 0.017
 DATA:
   - type: tabulated n
     data: |
@@ -584,3 +564,23 @@ DATA:
         14.95 7.71E-03
         15.00 8.00E-03
 
+PROPERTIES:
+    density:
+      - value: 3180
+    thermal_dispersion:
+      - type: constant
+        value: -1.06e-05
+    thermal_expansion:
+        value: 18.85e-06
+    hardness:
+      - type: Knoop
+        indenter_mass: 0.5
+        value: 1.55e9
+    melting_point:
+      - value: 1633
+    thermal_conductivity:
+      - value: 9.71
+    youngs_modulus:
+      - value: 75.8e9
+    solubility:
+      - value: 0.017

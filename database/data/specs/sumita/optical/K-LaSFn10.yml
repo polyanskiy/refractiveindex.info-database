@@ -3,7 +3,9 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: |
-    <a href="https://refractiveindex.info/download/data/2017/sumita_2017-02-02.agf">SUMITA Zemax catalog 2017-02-02</a> (obtained from <a href="http://www.sumita-opt.co.jp/en/download/">http://www.sumita-opt.co.jp</a>)<br>See also <a href="https://refractiveindex.info/download/data/2016/sumita_2016-02-01.pdf">SUMITA optical glass data book</a>
+    [SUMITA Zemax catalog 2017-02-02](https://refractiveindex.info/download/data/2017/sumita_2017-02-02.agf) (obtained from [http://www.sumita-opt.co.jp](http://www.sumita-opt.co.jp/en/download/))<br>See also [SUMITA optical glass data book](https://refractiveindex.info/download/data/2016/sumita_2016-02-01.pdf)
+CONDITIONS:
+    temperature: 293
 DATA:
   - type: formula 3
     wavelength_range: 0.36 1.55
@@ -30,8 +32,6 @@ DATA:
         1.060 2.4824E-07
         1.500 3.5128E-07
         2.000 1.1721E-06
-CONDITIONS:
-    temperature: 293
 PROPERTIES:
     thermal_dispersion:
       - type: formula A

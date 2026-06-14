@@ -4,24 +4,10 @@
 
 REFERENCES: |
     Data kindly provided by Koichiro Ikeda, ISUZU GLASS LTD. Nov 2024.<br>
-    See also <a href="https://www.isuzuglass.com/products/">Isuzu Glass Products</a>
+    See also [Isuzu Glass Products](https://www.isuzuglass.com/products/)
 COMMENTS: |
     Blue filter for color compensation (IEC series).
     Glass type: P<sub>2</sub>O<sub>5</sub>-Al<sub>2</sub>O<sub>3</sub>.
-PROPERTIES:
-    nd: 1.531
-    Vd: 44.3
-    density:
-      - value: 2660
-    thermal_expansion:
-      - temperature_range: 373 573
-        value: 7.2e-06
-    transformation_temperature:
-      - value: 773
-    durability: 1
-    hardness:
-      - type: Knoop
-        value: 5.21e9
 DATA:
   - type: tabulated nk
     data: |
@@ -1227,3 +1213,17 @@ DATA:
         1.499 1.51112 1.06E-04
         1.500 1.51112 1.06E-04
 
+PROPERTIES:
+    nd: 1.531
+    Vd: 44.3
+    density:
+      - value: 2660
+    thermal_expansion:
+      - temperature_range: 373 573
+        value: 7.2e-06
+    transformation_temperature:
+      - value: 773
+    durability: 1
+    hardness:
+      - type: Knoop
+        value: 5.21e9

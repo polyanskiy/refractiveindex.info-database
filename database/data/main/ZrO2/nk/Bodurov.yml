@@ -5,12 +5,12 @@
 REFERENCES: |
     I. Bodurov, I. Vlaeva, A. Viraneva, T. Yovcheva, S. Sainov.
     Modified design of a laser refractometer.
-    <a href="https://nsnt.iees.bas.bg/shr/oldjournals/16-2.pdf"><i>Nanoscience & Nanotechnology</i> <b>16</b>, 31-33 (2016)</a>
+    [*Nanoscience & Nanotechnology* **16**, 31-33 (2016)](https://nsnt.iees.bas.bg/shr/oldjournals/16-2.pdf)
 COMMENTS: |
     <100 nm diameter nanoparticles dispersed in water. Concentration 10 wt.%. 24 °C. Refractive index of nanoparticles calculated using Bruggeman's effective medium approximation.
+CONDITIONS:
+    temperature: 297
 DATA:
   - type: formula 1
     wavelength_range: 0.405 0.635
     coefficients: 0 3.3037 0.1987971
-CONDITIONS:
-    temperature: 297

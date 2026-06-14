@@ -18,31 +18,6 @@ COMMENTS: |
     (2) Rodney, J.Opt.Soc.Am. V45, p987, 1955<br>
     (3) Combes et al, J.Opt.Soc.Am. V41, p215, 1951<br>
     (4) Kelly, Bureau of Mines Bulletin, No371, p51, 1934<br>
-PROPERTIES:
-    density:
-      - value: 4510
-    thermal_dispersion:
-      - type: constant
-        value: -9.93e-05
-    thermal_expansion:
-      - temperature: 293
-        value: 48.3e-06
-    hardness:
-      - type: Knoop
-        indenter_mass: 0.2
-        value: 1.96e8
-    melting_point:
-      - value: 894
-    thermal_conductivity:
-      - temperature: 298
-        value: 1.1
-    youngs_modulus:
-      - value: 5.3e9
-    poissons_ratio:
-      - value: 0.214
-    solubility:
-      - temperature: 293
-        value: 440
 DATA:
   - type: tabulated n
     data: |
@@ -638,3 +613,28 @@ DATA:
         37.037 0.00E+00
         38.462 0.00E+00
         40.000 0.00E+00
+PROPERTIES:
+    density:
+      - value: 4510
+    thermal_dispersion:
+      - type: constant
+        value: -9.93e-05
+    thermal_expansion:
+      - temperature: 293
+        value: 48.3e-06
+    hardness:
+      - type: Knoop
+        indenter_mass: 0.2
+        value: 1.96e8
+    melting_point:
+      - value: 894
+    thermal_conductivity:
+      - temperature: 298
+        value: 1.1
+    youngs_modulus:
+      - value: 5.3e9
+    poissons_ratio:
+      - value: 0.214
+    solubility:
+      - temperature: 293
+        value: 440

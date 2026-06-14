@@ -13,7 +13,6 @@ ABOUT: |
     Hafnium dioxide (HfO<sub>2</sub>) is a high-index, low-absorption material used extensively in optical applications. It is especially valuable for making thin-film dielectric coatings for mirrors, anti-reflective coatings, and beam splitters. Due to its excellent thermal stability and resistance to chemical corrosion, it is well-suited for harsh environments. Additionally, its high refractive index makes it an attractive material for planar waveguides and other integrated optics components. Beyond its optical uses, hafnium dioxide is also a key material in the fabrication of advanced gate dielectrics in field-effect transistors, contributing to the miniaturization and performance improvement of electronic devices.
 
 LINKS:
-  - url: https://en.wikipedia.org/wiki/Hafnium(IV)_oxide
-    text: Hafnium(IV) oxide - Wikipedia
+  - [Hafnium(IV) oxide - Wikipedia](https://en.wikipedia.org/wiki/Hafnium(IV)_oxide)
   - url: https://www.webelements.com/compounds/hafnium/hafnium_dioxide.html
     text: Hafnium dioxide - WebElements

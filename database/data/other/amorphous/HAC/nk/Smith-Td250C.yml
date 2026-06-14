@@ -5,9 +5,11 @@
 REFERENCES: |
     F. W. Smith.
     Optical constants of a hydrogenated amorphous carbon film.
-    <a href="https://doi.org/10.1063/1.333135"><i>J. Appl. Phys.</i> <b>55</b>, 764 (1984)</a>
+    [*J. Appl. Phys.* **55**, 764 (1984)](https://doi.org/10.1063/1.333135)
 COMMENTS: |
     As-deposited (Td = 250 °C)
+CONDITIONS:
+    substrate: fused_quartz
 DATA:
   - type: tabulated nk
     data: |
@@ -25,5 +27,3 @@ DATA:
         0.620 1.74 0.0065
         0.708 1.74 0.0057
         0.827 1.74 0.0030
-CONDITIONS:
-    substrate: fused_quartz

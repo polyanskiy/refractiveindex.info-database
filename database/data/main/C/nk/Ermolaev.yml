@@ -5,10 +5,12 @@
 REFERENCES: |
     G. A. Ermolaev,  A. P. Tsapenko, V. S. Volkov, A. S. Anisimov,  Y. G. Gladush, A. G. Nasibulin.
     Express determination of thickness and dielectric function of single-walled carbon nanotube films.
-    <a href="https://doi.org/10.1063/5.0012933"><i>Appl. Phys. Lett.</i>, 116, 231103 (2020)</a>
+    [*Appl. Phys. Lett.*, 116, 231103 (2020)](https://doi.org/10.1063/5.0012933)
     (Numerical data kindly provided by Georgy Ermolaev)
 COMMENTS: |
     Aerosol CVD single-walled carbon nanotubes (SWCNTs).
+CONDITIONS:
+    substrate: glass
 DATA:
   - type: tabulated nk
     data: |
@@ -3063,5 +3065,3 @@ DATA:
         3.298 1.57468 0.86724
         3.299 1.57425 0.86761
         3.300 1.57382 0.86798
-CONDITIONS:
-    substrate: glass

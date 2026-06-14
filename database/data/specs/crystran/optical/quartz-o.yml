@@ -22,45 +22,6 @@ COMMENTS: |
     Optical data are for ordinary ray (o).
 CONDITIONS:
     direction: o
-PROPERTIES:
-    density:
-      - value: 2649
-    thermal_dispersion:
-      - type: constant
-        wavelength: 0.633
-        direction: para
-        value: -5.5e-06
-      - type: constant
-        wavelength: 0.633
-        direction: perp
-        value: -6.5e-06
-    thermal_expansion:
-      - direction: para
-        temperature: 323
-        value: 7.1e-06
-      - direction: perp
-        temperature: 323
-        value: 13.2e-06
-    hardness:
-      - type: Knoop
-        indenter_mass: 0.5
-        value: 7.27e9
-    melting_point:
-      - value: 1983
-    thermal_conductivity:
-      - temperature: 323
-        direction: para
-        value: 10.7
-      - temperature: 323
-        direction: perp
-        value: 6.2
-    youngs_modulus:
-      - direction: para
-        value: 97.2e9
-      - direction: perp
-        value: 76.5e9
-    solubility:
-      - value: 0.017
 DATA:
   - type: tabulated n
     data: |
@@ -615,3 +576,42 @@ DATA:
         4.98 1.56E-03
         4.99 1.49E-03
         5.00 1.44E-03
+PROPERTIES:
+    density:
+      - value: 2649
+    thermal_dispersion:
+      - type: constant
+        wavelength: 0.633
+        direction: para
+        value: -5.5e-06
+      - type: constant
+        wavelength: 0.633
+        direction: perp
+        value: -6.5e-06
+    thermal_expansion:
+      - direction: para
+        temperature: 323
+        value: 7.1e-06
+      - direction: perp
+        temperature: 323
+        value: 13.2e-06
+    hardness:
+      - type: Knoop
+        indenter_mass: 0.5
+        value: 7.27e9
+    melting_point:
+      - value: 1983
+    thermal_conductivity:
+      - temperature: 323
+        direction: para
+        value: 10.7
+      - temperature: 323
+        direction: perp
+        value: 6.2
+    youngs_modulus:
+      - direction: para
+        value: 97.2e9
+      - direction: perp
+        value: 76.5e9
+    solubility:
+      - value: 0.017

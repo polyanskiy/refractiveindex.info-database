@@ -5,10 +5,13 @@
 REFERENCES: |
     S. V. Zhukovsky, A. Andryieuski, O. Takayama, E. Shkondin, R. Malureanu, F. Jensen, A. V. Lavrinenko.
     Experimental demonstration of effective medium approximation breakdown in deeply subwavelength all-dielectric multilayers.
-    <a href="https://doi.org/10.1103/PhysRevLett.115.177402"><i>Phys. Rev. Lett.</i> <b>115</b>, 177402 (2015)</a>
+    [*Phys. Rev. Lett.* **115**, 177402 (2015)](https://doi.org/10.1103/PhysRevLett.115.177402)
     (Numerical data kindly provided by Osamu Takayama)
 COMMENTS: |
     20 nm thick films on Si substrate deposited by atomic layer deposition (ALD) at 120 °C deposition temperature.
+CONDITIONS:
+    film_thickness: 20e-9
+    substrate: Si
 DATA:
   - type: tabulated nk
     data: |
@@ -712,6 +715,3 @@ DATA:
         1.682865 1.613726 0
         1.686353 1.613718 0
         1.689842 1.613710 0
-CONDITIONS:
-    film_thickness: 20e-9
-    substrate: Si

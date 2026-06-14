@@ -20,30 +20,6 @@ COMMENTS: |
     (4) S.Ballard et al; J.Opt.Soc.Am. Vol42, p684, 1952<br>
     (5) US patent. Chemical polish. 4,040,896 1977<br>
     (6) M.Laval et al; Nu. Insts.Meth, V206 p169, 1983
-PROPERTIES:
-    density:
-      - value: 4890
-    thermal_dispersion:
-      - type: constant
-        value: -1.52e-05
-    thermal_expansion:
-      - temperature: 273
-        value: 1.81e-05
-    hardness:
-      - type: Knoop
-        value: 8.04e8
-    melting_point:
-      - value: 1641
-    thermal_conductivity:
-      - temperature: 286
-        value: 11.72
-    youngs_modulus:
-      - value: 53.07e9
-    poissons_ratio:
-      - value: 0.343
-    solubility:
-      - temperature: 296
-        value: 1.7
 DATA:
   - type: tabulated n
     data: |
@@ -319,3 +295,27 @@ DATA:
         14.80 1.13E-03
         14.90 1.23E-03
         15.00 1.33E-03
+PROPERTIES:
+    density:
+      - value: 4890
+    thermal_dispersion:
+      - type: constant
+        value: -1.52e-05
+    thermal_expansion:
+      - temperature: 273
+        value: 1.81e-05
+    hardness:
+      - type: Knoop
+        value: 8.04e8
+    melting_point:
+      - value: 1641
+    thermal_conductivity:
+      - temperature: 286
+        value: 11.72
+    youngs_modulus:
+      - value: 53.07e9
+    poissons_ratio:
+      - value: 0.343
+    solubility:
+      - temperature: 296
+        value: 1.7

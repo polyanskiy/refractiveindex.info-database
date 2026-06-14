@@ -5,13 +5,13 @@
 REFERENCES: |
     R. Adair, L. L. Chase, S. A. Payne.
     Nonlinear refractive index of optical crystals.
-    <a href="https://doi.org/10.1103/PhysRevB.39.3337"><i>Phys. Rev. B</i> <b>39</b>, 3337 (1989)</a>
+    [*Phys. Rev. B* **39**, 3337 (1989)](https://doi.org/10.1103/PhysRevB.39.3337)
 COMMENTS: |
     BaF<sub>2</sub>[100]. 3 ns. Three-wave mixing.
+CONDITIONS:
+    n2_method: TWM
+    pulse_duration: 3e-9
 DATA:
   - type: tabulated n2
     data: |
         1.064 1.91e-20
-CONDITIONS:
-    n2_method: TWM
-    pulse_duration: 3e-9

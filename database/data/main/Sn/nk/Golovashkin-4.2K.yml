@@ -3,9 +3,11 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: |
-    A. I. Golovashkin and G. P. Motulevich. Optical properties of tin at helium temperaturs, <a href="http://jetp.ac.ru/cgi-bin/e/index/e/20/1/p44?a=list"><i>Sov. Phys. JETP</i> <b>20</b>, 44-49 (1965)</a>
+    A. I. Golovashkin and G. P. Motulevich. Optical properties of tin at helium temperaturs, [*Sov. Phys. JETP* **20**, 44-49 (1965)](http://jetp.ac.ru/cgi-bin/e/index/e/20/1/p44?a=list)
 COMMENTS: |
     4.2 K (-268.95 °C)
+CONDITIONS:
+    temperature: 4.2
 DATA:
   - type: tabulated nk
     data: |
@@ -28,5 +30,3 @@ DATA:
         10.0 10.1 58.7
         11.0 12.6 63.4
         12.0 15.3 67.0
-CONDITIONS:
-    temperature: 4.2

@@ -3,7 +3,7 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: |
-    <a href="https://refractiveindex.info/download/data/2012/AMTIR-6%20Information.pdf">Amorphous Materials AMTIR-6 Information (2012)</a> - downloaded 2014-01-11
+    [Amorphous Materials AMTIR-6 Information (2012)](https://refractiveindex.info/download/data/2012/AMTIR-6%20Information.pdf) - downloaded 2014-01-11
 DATA:
   - type: tabulated nk
     data: |

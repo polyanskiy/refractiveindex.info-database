@@ -17,30 +17,6 @@ COMMENTS: |
     Gallium Lanthanum Sulphide (GLS) glass is produced by proprietary processes under conditions of the highest purity. Particular effort is made in removing transition metal impurities to a level of better than 1 ppm total metallic impurities with SH- and OH- less than 1 ppm. GLS is routinely processed from ingots of 500 grams. Other glass compositions are available including rare earth doped (Ce, Pr, Nd, Tb, Dy, Ho, Er, Tm, Yb), halide (F, Cl), and Ag doped samples.<br>
     REFERENCES:<br>
     (1) Petrovich, Hewak et al Journal of Non-Crystalline Solids 326&327 (2003) 93–97°K<sup>-1</sup>
-PROPERTIES:
-    density:
-      - value: 4040
-    thermal_dispersion:
-      - type: constant
-        value: 75e-06
-    thermal_expansion:
-      - temperature: 273
-        value: 10e-06
-    hardness:
-      - type: Knoop
-        indenter_mass: 0.2
-        value: 2.02e9
-    melting_point:
-      - value: 1103
-    thermal_conductivity:
-      - temperature: 273
-        value: 0.43
-    youngs_modulus:
-      - value: 59e9
-    poissons_ratio:
-      - value: 0.24
-    solubility:
-      - value: 0
 DATA:
   - type: tabulated n
     data: |
@@ -257,3 +233,27 @@ DATA:
         10.50 1.40E-03
         10.55 1.54E-03
         10.60 1.65E-03
+PROPERTIES:
+    density:
+      - value: 4040
+    thermal_dispersion:
+      - type: constant
+        value: 75e-06
+    thermal_expansion:
+      - temperature: 273
+        value: 10e-06
+    hardness:
+      - type: Knoop
+        indenter_mass: 0.2
+        value: 2.02e9
+    melting_point:
+      - value: 1103
+    thermal_conductivity:
+      - temperature: 273
+        value: 0.43
+    youngs_modulus:
+      - value: 59e9
+    poissons_ratio:
+      - value: 0.24
+    solubility:
+      - value: 0

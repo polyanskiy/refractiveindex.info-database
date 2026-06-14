@@ -5,13 +5,13 @@
 REFERENCES: |
     S. T. Wu, C. Wu, W. Warenghem, M. Ismaili.
     Refractive index dispersions of liquid crystals.
-    <a href="https://doi.org/10.1117/12.143988"><i>Opt. Eng.</i> <b>32</b>, 1775-1780 (1993)</a>
+    [*Opt. Eng.* **32**, 1775-1780 (1993)](https://doi.org/10.1117/12.143988)
 COMMENTS: |
     53.4 °C. Ordinary ray (o).
+CONDITIONS:
+    temperature: 326.55
+    direction: o
 DATA:
   - type: formula 6
     wavelength_range: 0.4 0.8
     coefficients: 0.3844 1.5603 25.0000 0.5602 18.1077
-CONDITIONS:
-    temperature: 326.55
-    direction: o

@@ -3,9 +3,11 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: |
-    <a href="https://refractiveindex.info/download/data/2017/schott_2017-01-20b.agf">SCHOTT Zemax catalog 2017-01-20b</a> (obtained from <a href="https://www.schott.com/en-us/products/optical-glass-p1000267/downloads/">http://www.schott.com</a>)<br>See also <a href="https://refractiveindex.info/download/data/2017/schott_2017-01-20.pdf">SCHOTT glass data sheets</a>
+    [SCHOTT Zemax catalog 2017-01-20b](https://refractiveindex.info/download/data/2017/schott_2017-01-20b.agf) (obtained from [http://www.schott.com](https://www.schott.com/en-us/products/optical-glass-p1000267/downloads/))<br>See also [SCHOTT glass data sheets](https://refractiveindex.info/download/data/2017/schott_2017-01-20.pdf)
 COMMENTS: |
     lead containing glass type        
+CONDITIONS:
+    temperature: 293
 DATA:
   - type: formula 2
     wavelength_range: 0.32 2.5
@@ -34,8 +36,6 @@ DATA:
         1.970 8.3017E-07
         2.325 2.8000E-06
         2.500 4.2123E-06
-CONDITIONS:
-    temperature: 293
 PROPERTIES:
     thermal_dispersion:
       - type: formula A

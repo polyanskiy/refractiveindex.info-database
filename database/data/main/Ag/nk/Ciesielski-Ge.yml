@@ -5,10 +5,13 @@
 REFERENCES: |
     A. Ciesielski, L. Skowronski, M. Trzinski, T. Szoplik.
     Controlling the optical parameters of self-assembled silver films with wetting layers and annealing.
-    <a href="https://doi.org/10.1016/j.apsusc.2017.01.039"><i>Appl. Surf. Sci.</i> <b>421B</b>, 349-356 (2017)</a>
+    [*Appl. Surf. Sci.* **421B**, 349-356 (2017)](https://doi.org/10.1016/j.apsusc.2017.01.039)
     (Numerical data kindly provided by Arkadiusz Ciesielski)
 COMMENTS: |
     20 nm-thick silver film deposited on SiO<sub>2</sub> substrate with 2 nm-thick Ge wetting interlayer
+CONDITIONS:
+    film_thickness: 20e-9
+    substrate: Ge/SiO2
 DATA:
   - type: tabulated nk
     data: |
@@ -345,6 +348,3 @@ DATA:
         12.711 30.882 62.748
         15.811 39.328 70.598
         20.912 51.485 80.947
-CONDITIONS:
-    film_thickness: 20e-9
-    substrate: Ge/SiO2

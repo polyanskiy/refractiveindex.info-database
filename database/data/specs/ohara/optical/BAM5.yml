@@ -3,9 +3,11 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: |
-    <a href="https://refractiveindex.info/download/data/2017/ohara_2017-11-30.agf">OHARA Zemax catalog 2017-11-30</a> (obtained from <a href="http://www.ohara-inc.co.jp/en/product/optical/list/">http://www.ohara-inc.co.jp</a>)<br>See also <a href="https://refractiveindex.info/download/data/2017/ohara_2017-11-30.pdf">OHARA glass data sheets</a>
+    [OHARA Zemax catalog 2017-11-30](https://refractiveindex.info/download/data/2017/ohara_2017-11-30.agf) (obtained from [http://www.ohara-inc.co.jp](http://www.ohara-inc.co.jp/en/product/optical/list/))<br>See also [OHARA glass data sheets](https://refractiveindex.info/download/data/2017/ohara_2017-11-30.pdf)
 COMMENTS: |
     
+CONDITIONS:
+    temperature: 298
 DATA:
   - type: formula 3
     wavelength_range: 0.3 2.4
@@ -32,8 +34,6 @@ DATA:
         0.700 2.2326E-08
         0.800 1.9127E-08
         0.900 2.1518E-08
-CONDITIONS:
-    temperature: 298
 PROPERTIES:
     thermal_dispersion:
       - type: formula A

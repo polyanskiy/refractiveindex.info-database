@@ -3,7 +3,7 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: |
-    <a href="https://refractiveindex.info/download/data/2015/PI_EpoCore_Clad_2015.pdf">Micro resist EpoCore and EpoClad datasheet</a>, 2015
+    [Micro resist EpoCore and EpoClad datasheet](https://refractiveindex.info/download/data/2015/PI_EpoCore_Clad_2015.pdf), 2015
 COMMENTS: |
     Micro resist EpoCore negative photoresist for waveguide manufacturing
 DATA:

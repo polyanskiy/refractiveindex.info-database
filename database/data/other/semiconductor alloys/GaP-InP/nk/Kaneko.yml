@@ -5,9 +5,9 @@
 REFERENCES: |
     Y. Kaneko and K. Kishino.
     Refractive indices measurement of (GaInP)<sub>m</sub>/(AlInP)<sub>m</sub> quasi‐quaternaries and GaInP/AlInP multiple quantum wells.
-    <a href="https://doi.org/10.1063/1.357699"><i>J. Appl. Phys.</i> <b>76</b>, 1809-1818 (1994)</a>
+    [*J. Appl. Phys.* **76**, 1809-1818 (1994)](https://doi.org/10.1063/1.357699)
     (Digitization of graphical data and Sellmeier fit: Pedro Victor Sansoldo, University of Adelaide, Australia)
-    [<a href="https://github.com/polyanskiy/refractiveindex.info-scripts/blob/main/scripts/Kaneko%201994%20-%20GaInP.py">Calculation script (Python)</a>]
+    [[Calculation script (Python)](https://github.com/polyanskiy/refractiveindex.info-scripts/blob/main/scripts/Kaneko%201994%20-%20GaInP.py)]
 COMMENTS: |
     Averaged data for 580 nm and 851 nm GaInP films on a GaAs substrate.
 CONDITIONS:

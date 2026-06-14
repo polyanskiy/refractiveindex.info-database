@@ -5,9 +5,12 @@
 REFERENCES: |
     G. Hass, G. F. Jacobus, W. R. Hunter.
     Optical properties of evaporated iridium in the vacuum ultraviolet from 500 Å to 2000 Å.
-    <a href="https://doi.org/10.1364/JOSA.57.000758"><i>J. Opt. Soc. Am.</i> <b>57</b>, 758-762 (1967)</a>
+    [*J. Opt. Soc. Am.* **57**, 758-762 (1967)](https://doi.org/10.1364/JOSA.57.000758)
 COMMENTS: |
     Thin film deposited at 300 °C
+CONDITIONS:
+    substrate: glass
+    deposition_temperature: 573
 DATA:
   - type: tabulated nk
     data: |
@@ -28,6 +31,3 @@ DATA:
         0.1400 1.35 1.14
         0.1500 1.28 1.18
         0.5461 2.49 5.05
-CONDITIONS:
-    substrate: glass
-    deposition_temperature: 573

@@ -5,10 +5,13 @@
 REFERENCES: |
     A. Sytchkova, A. Belosludtsev, L. Volosevičienė, R. Juškėnas, R. Simniškis.
     Optical, structural and electrical properties of sputtered ultrathin chromium films.
-    <a href="https://doi.org/10.1016/j.optmat.2021.111530"><i>Opt. Mater.</i> <b>121</b>, 111530 (2021)</a>
+    [*Opt. Mater.* **121**, 111530 (2021)](https://doi.org/10.1016/j.optmat.2021.111530)
     (Numerical data kindly provided by Alexandr Belosludtsev)
 COMMENTS: |
     12 nm film deposited on fused silica by magnetron sputtering.
+CONDITIONS:
+    film_thickness: 12e-9
+    substrate: SiO2
 DATA:
   - type: tabulated nk
     data: |
@@ -235,6 +238,3 @@ DATA:
         2.3214 6.75104 7.04753
         2.4074 6.87467 7.15611
         2.5000 6.96945 7.23395
-CONDITIONS:
-    film_thickness: 12e-9
-    substrate: SiO2

@@ -5,14 +5,14 @@
 REFERENCES: |
     S. Miller, F. Rotermund, G. Xu, F. Noack, V. Panyutin, V. Petrov.
     Polarization-dependent nonlinear refractive index of BiB<sub>3</sub>O<sub>6</sub>.
-    <a href="https://doi.org/10.1016/j.optmat.2007.11.015"><i>Opt. Mater.</i> <b>30</b>, 1469 (2008)</a>
+    [*Opt. Mater.* **30**, 1469 (2008)](https://doi.org/10.1016/j.optmat.2007.11.015)
 COMMENTS: |
     E∥X (α); propagation ∥ Z. 56 ps. Z-scan.
-DATA:
-  - type: tabulated n2
-    data: |
-        1.064 7.39e-20
 CONDITIONS:
     n2_method: Z-scan
     pulse_duration: 56e-12
     direction: alpha
+DATA:
+  - type: tabulated n2
+    data: |
+        1.064 7.39e-20

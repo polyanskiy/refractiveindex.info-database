@@ -5,10 +5,14 @@
 REFERENCES: |
     E. Shkondin, T. Repän, O. Takayama, A. V. Lavrinenko.
     High aspect ratio titanium nitride trench structures as plasmonic biosensor.
-    <a href="https://doi.org/10.1364/OME.7.004171"><i>Opt. Mater. Express</i> <b>7</b>, 4171-4182 (2017)</a>
+    [*Opt. Mater. Express* **7**, 4171-4182 (2017)](https://doi.org/10.1364/OME.7.004171)
     (Numerical data kindly provided by Osamu Takayama)
 COMMENTS: |
     105 nm thick titanium nitride (TiN) film on Si substrate annealed at 700 °C.
+CONDITIONS:
+    film_thickness: 105e-9
+    substrate: Si
+    annealing_temperature: 973
 DATA:
   - type: tabulated nk
     data: |
@@ -710,7 +714,3 @@ DATA:
         1.68193 3.855840 6.046787
         1.68540 3.866651 6.054370
         1.68888 3.877459 6.061930
-CONDITIONS:
-    film_thickness: 105e-9
-    substrate: Si
-    annealing_temperature: 973

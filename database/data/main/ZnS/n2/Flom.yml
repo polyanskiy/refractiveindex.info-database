@@ -5,15 +5,15 @@
 REFERENCES: |
     S. R. Flom, G. Beadie, S. S. Bayya, B. Shaw, J. M. Auxier.
     Ultrafast Z-scan measurements of nonlinear optical constants of window materials at 772, 1030, and 1550 nm.
-    <a href="https://doi.org/10.1364/AO.54.00F123"><i>Appl. Opt.</i> <b>54</b>, F123 (2015)</a>
+    [*Appl. Opt.* **54**, F123 (2015)](https://doi.org/10.1364/AO.54.00F123)
 COMMENTS: |
     Multispectral ZnS (CLEARTRAN). 280 fs @ 772 nm, 140 fs @ 1030 nm, 97 fs @ 1550 nm. Z-scan.
+CONDITIONS:
+    n2_method: Z-scan
+    pulse_duration: 280e-15 140e-15 97e-15
 DATA:
   - type: tabulated n2
     data: |
         0.772 5.29e-19
         1.030 4.84e-19
         1.550 6.16e-19
-CONDITIONS:
-    n2_method: Z-scan
-    pulse_duration: 280e-15 140e-15 97e-15

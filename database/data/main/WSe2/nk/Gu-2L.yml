@@ -5,10 +5,13 @@
 REFERENCES: |
     H. Gu, B. Song, M. Fang, Y. Hong, X. Chen, H. Jiang, W. Ren, S. Liu.
     Layer-dependent dielectric and optical properties of centimeter-scale 2D WSe<sub>2</sub>: evolution from a single layer to few layers.
-    <a href="https://doi.org/10.1039/C9NR04270A"><i>Nanoscale</i> <b>11</b>, 22762-22771 (2019)</a>
+    [*Nanoscale* **11**, 22762-22771 (2019)](https://doi.org/10.1039/C9NR04270A)
     (Numerical data kindly provided by Baokun Song)
 COMMENTS: |
     2-layer, 2L
+CONDITIONS:
+    film_thickness: 2L
+    substrate: sapphire
 DATA:
   - type: tabulated nk
     data: |
@@ -1096,6 +1099,3 @@ DATA:
         1.6850 3.923566 0.040021
         1.6875 3.923357 0.039949
         1.6900 3.923150 0.039878
-CONDITIONS:
-    film_thickness: 2L
-    substrate: sapphire

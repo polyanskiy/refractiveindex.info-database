@@ -5,10 +5,13 @@
 REFERENCES: |
     A. Ciesielski, L. Skowronski, M. Trzinski, E. Gorecka, P. Trautman, T. Szoplik.
     Evidence of germanium segregation in gold thin films.
-    <a href="https://doi.org/10.1016/j.susc.2018.03.020"><i>Surf. Sci.</i> <b>674</b>, 73-78 (2018)</a>
+    [*Surf. Sci.* **674**, 73-78 (2018)](https://doi.org/10.1016/j.susc.2018.03.020)
     (Numerical data kindly provided by Arkadiusz Ciesielski)
 COMMENTS: |
     35 nm-thick gold film deposited directly on SiO<sub>2</sub> substrate
+CONDITIONS:
+    film_thickness: 35e-9
+    substrate: SiO2
 DATA:
   - type: tabulated nk
     data: |
@@ -345,6 +348,3 @@ DATA:
         12.711 23.838 74.366
         15.811 33.086 87.053
         20.912 48.108 104.131
-CONDITIONS:
-    film_thickness: 35e-9
-    substrate: SiO2

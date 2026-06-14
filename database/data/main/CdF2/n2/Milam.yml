@@ -5,13 +5,13 @@
 REFERENCES: |
     D. Milam, M. J. Weber, A. J. Glass.
     Nonlinear refractive index of fluoride crystals.
-    <a href="https://doi.org/10.1063/1.89561"><i>Appl. Phys. Lett.</i> <b>31</b>, 822 (1977)</a>
+    [*Appl. Phys. Lett.* **31**, 822 (1977)](https://doi.org/10.1063/1.89561)
 COMMENTS: |
     Cubic CdF<sub>2</sub>. 125 ps. Time-resolved interferometry.
+CONDITIONS:
+    n2_method: TRI
+    pulse_duration: 125e-12
 DATA:
   - type: tabulated n2
     data: |
         1.064 3.87e-20
-CONDITIONS:
-    n2_method: TRI
-    pulse_duration: 125e-12

@@ -3,9 +3,11 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: |
-    <a href="https://refractiveindex.info/download/data/2017/nikon_2017-11.agf">NIKON Zemax catalog 2017-11</a> (obtained from <a href="http://www.nikon.com/products/glass/lineup/materials/optical/">http://www.nikon.com</a>)<br>See also <a href="https://refractiveindex.info/download/data/2017/hikari_2017-04-01.pdf">HIKARI glass data sheets</a>
+    [NIKON Zemax catalog 2017-11](https://refractiveindex.info/download/data/2017/nikon_2017-11.agf) (obtained from [http://www.nikon.com](http://www.nikon.com/products/glass/lineup/materials/optical/))<br>See also [HIKARI glass data sheets](https://refractiveindex.info/download/data/2017/hikari_2017-04-01.pdf)
 COMMENTS: |
     
+CONDITIONS:
+    temperature: 296
 DATA:
   - type: formula 3
     wavelength_range: 0.4 0.7
@@ -34,8 +36,6 @@ DATA:
         0.600 4.7770E-09
         0.650 1.0355E-08
         0.700 5.5732E-09
-CONDITIONS:
-    temperature: 296
 PROPERTIES:
     nd: 1.563839
     Vd: 60.679041

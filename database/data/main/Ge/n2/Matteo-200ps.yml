@@ -5,13 +5,13 @@
 REFERENCES: |
     D. Matteo, S. Tochitsky, J. Pigeon, C. Joshi.
     Pulse length effects in the nonresonant long-wave infrared nonlinear optical response of n-Ge, GaAs, and ZnSe.
-    <a href="https://doi.org/10.1364/JOSAB.534031"><i>J. Opt. Soc. Am. B</i> <b>41</b>, E35 (2024)</a>
+    [*J. Opt. Soc. Am. B* **41**, E35 (2024)](https://doi.org/10.1364/JOSAB.534031)
 COMMENTS: |
     n-Ge. 200 ps. Four-wave mixing.
+CONDITIONS:
+    n2_method: FWM
+    pulse_duration: 200e-12
 DATA:
   - type: tabulated n2
     data: |
         10.6 2.5e-17
-CONDITIONS:
-    n2_method: FWM
-    pulse_duration: 200e-12

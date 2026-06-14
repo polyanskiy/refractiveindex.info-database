@@ -5,9 +5,12 @@
 REFERENCES: |
     K. K. Tikuišis, A. Dubroka, K. Uhlířová, F. Speck, T. Seyller, M. Losurdo, M. Orlita, M. Veis.
     Dielectric function of epitaxial quasi-freestanding monolayer graphene on Si-face 6H-SiC in a broad spectral range.
-    <a href="https://doi.org/10.1103/PhysRevMaterials.7.044201"><i>Phys. Rev. Mater.</i> <b>7</b>, 044201 (2023)</a>
+    [*Phys. Rev. Mater.* **7**, 044201 (2023)](https://doi.org/10.1103/PhysRevMaterials.7.044201)
 COMMENTS: |
     Epitaxial monolayer graphene grown on the Si face of 6H-SiC (0001). Room temperature.
+CONDITIONS:
+    substrate: SiC
+    film_thickness: 1L
 DATA:
   - type: tabulated nk
     data: |
@@ -1211,6 +1214,3 @@ DATA:
         4.3571 5.57116 5.22701
         4.3792 5.58436 5.24112
         4.3977 5.59544 5.25296
-CONDITIONS:
-    substrate: SiC
-    film_thickness: 1L

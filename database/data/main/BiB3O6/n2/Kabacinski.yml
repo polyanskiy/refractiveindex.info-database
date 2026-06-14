@@ -5,13 +5,13 @@
 REFERENCES: |
     P. Kabaciński, T. M. Kardaś, Y. Stepanenko, C. Radzewicz.
     Nonlinear refractive index measurement by SPM-induced phase regression.
-    <a href="https://doi.org/10.1364/OE.27.011018"><i>Opt. Express</i> <b>27</b>, 11018 (2019)</a>
+    [*Opt. Express* **27**, 11018 (2019)](https://doi.org/10.1364/OE.27.011018)
 COMMENTS: |
     E∥X (α). 210 fs. SPM-induced phase regression.
+CONDITIONS:
+    n2_method: SPMIPR
+    pulse_duration: 210e-15
 DATA:
   - type: tabulated n2
     data: |
         1.030 7.65e-20
-CONDITIONS:
-    n2_method: SPMIPR
-    pulse_duration: 210e-15

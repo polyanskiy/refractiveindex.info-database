@@ -5,10 +5,13 @@
 REFERENCES: |
     G. Rosenblatt, B. Simkhovich, G. Bartal, M. Orenstein.
     Nonmodal plasmonics: Controlling the forced optical response of nanostructures.
-    <a href="https://doi.org/10.1103/PhysRevX.10.011071"><i>Phys. Rev. X</i> <b>10</b>, 011071 (2020)</a>
+    [*Phys. Rev. X* **10**, 011071 (2020)](https://doi.org/10.1103/PhysRevX.10.011071)
     (See supplemental materials)
 COMMENTS: |
     11 nm Au film. Measured using a J.A Woollam VASE ellipsometer at room temperature.
+CONDITIONS:
+    film_thickness: 11e-9
+    substrate: SiO2
 DATA:
   - type: tabulated nk
     data: |
@@ -183,6 +186,3 @@ DATA:
         1.980 2.00046516 9.8310569
         1.990 2.00688248 9.88207814
         2.000 2.01340949 9.93313482
-CONDITIONS:
-    film_thickness: 11e-9
-    substrate: SiO2

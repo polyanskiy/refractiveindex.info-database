@@ -5,7 +5,7 @@
 REFERENCES: |
     D. E. Zelmon, D. L. Small, D. Jundt.
     Infrared corrected Sellmeier coefficients for congruently grown lithium niobate and 5 mol.% magnesium oxide-doped lithium niobate.
-    <a href="https://doi.org/10.1364/JOSAB.14.003319"><i>J. Opt. Soc. Am. B</i> <b>14</b>, 3319-3322 (1997)</a>
+    [*J. Opt. Soc. Am. B* **14**, 3319-3322 (1997)](https://doi.org/10.1364/JOSAB.14.003319)
 COMMENTS: |
     21 °C. Ordinary ray (o). Congruently grown lithium niobate (CLN) doped with 5 mol. % MgO.<br>
     In the original publication, the ordinary and extraordinary Sellmeier coefficients appear to be interchanged. The coefficients are presented here with n<sub>o</sub> and n<sub>e</sub> swapped to match the measured dispersion and the known negative uniaxial behavior of MgO:LiNbO<sub>3</sub>.

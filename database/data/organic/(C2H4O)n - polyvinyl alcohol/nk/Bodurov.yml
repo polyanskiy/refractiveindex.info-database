@@ -5,14 +5,14 @@
 REFERENCES: |
     I. Bodurov, I. Vlaeva, A. Viraneva, T. Yovcheva, S. Sainov.
     Modified design of a laser refractometer.
-    <a href="http://nsc-nt.ipc.bas.bg/page/en/details.php?article_id=524"><i>Nanosci. Nanotechnol.</i> <b>16</b>, 31-33 (2016)</a>
+    [*Nanosci. Nanotechnol.* **16**, 31-33 (2016)](http://nsc-nt.ipc.bas.bg/page/en/details.php?article_id=524)
 COMMENTS: |
     10-μm film on glass substrate. 24 °C.
-DATA:
-  - type: formula 1
-    wavelength_range: 0.405 0.635
-    coefficients: 0 1.1490 0.1234783
 CONDITIONS:
     temperature: 297
     film_thickness: 10e-6
     substrate: glass
+DATA:
+  - type: formula 1
+    wavelength_range: 0.405 0.635
+    coefficients: 0 1.1490 0.1234783

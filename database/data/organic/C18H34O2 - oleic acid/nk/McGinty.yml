@@ -5,10 +5,12 @@
 REFERENCES: |
     S. M. McGinty, M. K. Kapala,  R. F. Niedziela.
     Mid-infrared complex refractive indices for oleic acid and optical properties of model oleic acid/water aerosols.
-    <a href="https://doi.org/10.1039/B905371A"><i>Phys. Chem. Chem. Phys.</i> <b>11</b>, 7998-8004 (2009)</a>
+    [*Phys. Chem. Chem. Phys.* **11**, 7998-8004 (2009)](https://doi.org/10.1039/B905371A)
     (See Supplementary files for numerical data)
 COMMENTS: |
     Aerosole. 298 K (25 °C).
+CONDITIONS:
+    temperature: 298
 DATA:
   - type: tabulated nk
     data: |
@@ -4419,5 +4421,3 @@ DATA:
         13.294637 1.47453 0.00302
         13.311704 1.47197 0.00253
         13.328814 1.47023 0.00453
-CONDITIONS:
-    temperature: 298

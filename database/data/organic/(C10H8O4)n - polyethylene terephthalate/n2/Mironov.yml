@@ -5,13 +5,13 @@
 REFERENCES: |
     S. Yu. Mironov, V. N. Ginzburg, E. I. Gacheva, D. E. Silin, A. A. Kochetkov, Yu. A. Mamaev, A. A. Shaykin, E. A. Khazanov, G. A. Mourou.
     Use of polyethylene terephthalate for temporal recompression of intense femtosecond laser pulses.
-    <a href="http://dx.doi.org/10.1088/1612-2011/12/2/025301"> <i>Laser Phys. Lett.</i> <b>12</b>, 025301 (2015)</a>
+    [ *Laser Phys. Lett.* **12**, 025301 (2015)](http://dx.doi.org/10.1088/1612-2011/12/2/025301)
 COMMENTS: |
     Spectral analysis of self-phase modulation. Rough estimate. Reported range is (5–6)·10<sup>−20</sup> m<sup>2</sup>/W.
+CONDITIONS:
+    n2_method: SSPM
+    pulse_duration: 70e-12
 DATA:
   - type: tabulated n2
     data: |
         0.92 5.5e-20
-CONDITIONS:
-    n2_method: SSPM
-    pulse_duration: 70e-12

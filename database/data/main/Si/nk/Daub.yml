@@ -4,13 +4,15 @@
 
 REFERENCES: |
     E. Daub.
-    <i>Photolumineszenz von Silizium</i>
+    *Photolumineszenz von Silizium*
     Ph.D. dissertation, Dept. Phys., University of Karlsruhe, Karlsruhe, Germany, 1995
     (as cited in C. Schinke, D. Hinken, J. Schmidt, K. Bothe, R. Brendel.
     Modeling the spectral luminescence emission of silicon solar cells and wafers.
-    <a href="https://doi.org/10.1109/JPHOTOV.2013.2263985"><i>IEEE J. Photovolt.</i> <b>3</b>, 1038-1052 (2013)</a>)
+    [*IEEE J. Photovolt.* **3**, 1038-1052 (2013)](https://doi.org/10.1109/JPHOTOV.2013.2263985))
 COMMENTS: |
     Band-to-band absorption coefficient. Temperature: 295 K.
+CONDITIONS:
+    temperature: 295
 DATA:
   - type: tabulated k
     data: |
@@ -85,5 +87,3 @@ DATA:
         1.4070e+00 2.5416e-12
         1.4140e+00 2.2955e-12
         1.4210e+00 1.6057e-12
-CONDITIONS:
-    temperature: 295

@@ -5,11 +5,11 @@
 REFERENCES: |
     M. Tharrault, S. Ayari, M. Arfaoui, E. Desgué, R. Le Goff, P. Morfin, J. Palomo, M. Rosticher, S. Jaziri, B, Plaçais,P. Legagneux, F. Carosella, C. Voisin, R. Ferreira, E. Baudin.
     Optical absorption in indirect semiconductor to semimetal PtSe<sub>2</sub> arises from direct transitions.
-    <a href="https://doi.org/10.1103/PhysRevLett.134.066901"><i>Phys. Rev. Lett.</i> <b>134</b>, 066901 (2025)</a>
+    [*Phys. Rev. Lett.* **134**, 066901 (2025)](https://doi.org/10.1103/PhysRevLett.134.066901)
     (Numerical data kindly provided by Marin Tharrault)
 COMMENTS: |
     7L CVT-grown exfoliated crystal.
-    The optical indexes are computed from the 2D surface conductivity using σ<sub>2D</sub>·Z<sub>0</sub> = −2π<b>i</b>·(t/λ)·(ε<sub>r</sub>−1), where Z<sub>0</sub> is the impedance of free space, <b>i</b> the imaginary unit, t the equivalent layered stack thickness and λ the free space wavelength. We use t = N<sub>L</sub> t<sub>0</sub> with t<sub>0</sub> = 5.1 Å the single layer thickness.
+    The optical indexes are computed from the 2D surface conductivity using σ<sub>2D</sub>·Z<sub>0</sub> = −2π**i**·(t/λ)·(ε<sub>r</sub>−1), where Z<sub>0</sub> is the impedance of free space, **i** the imaginary unit, t the equivalent layered stack thickness and λ the free space wavelength. We use t = N<sub>L</sub> t<sub>0</sub> with t<sub>0</sub> = 5.1 Å the single layer thickness.
     The measurement method accuratly determines Im{ε<sub>r</sub>} = 2nk, but only Re{ε<sub>r</sub>} = n<sup>2</sup> - k<sup>2</sup> as long as the optical absorption is non-zero.
 DATA:
   - type: tabulated nk

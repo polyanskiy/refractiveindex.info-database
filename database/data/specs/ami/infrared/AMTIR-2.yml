@@ -3,7 +3,7 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: |
-    <a href="https://refractiveindex.info/download/data/2013/AMTIR-2%20Information.pdf">Amorphous Materials AMTIR-2 Information (2013)</a> - downloaded 2014-01-11
+    [Amorphous Materials AMTIR-2 Information (2013)](https://refractiveindex.info/download/data/2013/AMTIR-2%20Information.pdf) - downloaded 2014-01-11
 DATA:
   - type: formula 1
     wavelength_range: 1 13

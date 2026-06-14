@@ -5,9 +5,11 @@
 REFERENCES: |
     A. Taylor, P. Ashcheulov, P. Hubík, Z. Weiss, L. Klimša, J. Kopeček, J. Hrabovsky, M. Veis, J. Lorinčík, I. Elantyev, V. Mortet.
     Comparative determination of atomic boron and carrier concentration in highly boron doped nano-crystalline diamond.
-    <a href="https://doi.org/10.1016/j.diamond.2023.109837"><i>Diam. Relat. Mater.</i><b></b>, 109837 (2023)</a>
+    [*Diam. Relat. Mater.*****, 109837 (2023)](https://doi.org/10.1016/j.diamond.2023.109837)
 COMMENTS: |
     Single-crystal CVD
+CONDITIONS:
+    substrate: glass
 DATA:
   - type: tabulated nk
     data: |
@@ -1095,5 +1097,3 @@ DATA:
         1.684785E+00 2.367301E+00 0.000000E+00
         1.687285E+00 2.367287E+00 0.000000E+00
         1.689784E+00 2.367273E+00 0.000000E+00
-CONDITIONS:
-    substrate: glass

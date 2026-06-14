@@ -5,12 +5,12 @@
 REFERENCES: |
     V. Kofman, J. He, I. L. ten Kate, H. Linnartz.
     The refractive index of amorphous and crystalline water ice in the UV–vis.
-    <a href="https://doi.org/10.3847/1538-4357/ab0d89"><i>Astrophys. J.</i> <b>875</b>, 131 (2019)</a>
+    [*Astrophys. J.* **875**, 131 (2019)](https://doi.org/10.3847/1538-4357/ab0d89)
 COMMENTS: |
     Amorphous water ice at 70 K.
+CONDITIONS:
+    temperature: 70
 DATA:
   - type: formula 1
     wavelength_range: 0.210 0.757
     coefficients: 0 0.377 0.071 0.164 0.134
-CONDITIONS:
-    temperature: 70

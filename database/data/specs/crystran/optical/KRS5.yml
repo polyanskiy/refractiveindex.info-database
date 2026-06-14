@@ -20,29 +20,6 @@ COMMENTS: |
     (1) Rodney and Malitson J.Opt Soc.Am. V46, p 956, 1953<br>
     (2) Combes, Ballard, McCarthy: J.Opt Soc.Am. V41, p 215, 1951<br>
     (3) Handbook of Optical Constants, ed Palik, V3, ISBN 0-12-544423-0
-PROPERTIES:
-    density:
-      - value: 7371
-    thermal_dispersion:
-      - type: constant
-        value: -235e-06
-    thermal_expansion:
-      - value: 58e-06
-    hardness:
-      - type: Knoop
-        value: 3.94e8
-    melting_point:
-      - value: 688
-    thermal_conductivity:
-      - temperature: 293
-        value: 0.544
-    youngs_modulus:
-      - value: 15.85e9
-    poissons_ratio:
-      - value: 0.369
-    solubility:
-      - temperature: 293
-        value: 0.5
 DATA:
   - type: tabulated n
     data: |
@@ -435,3 +412,26 @@ DATA:
         24.4 5.25E-06
         24.5 4.32E-06
         24.6 1.37E-06
+PROPERTIES:
+    density:
+      - value: 7371
+    thermal_dispersion:
+      - type: constant
+        value: -235e-06
+    thermal_expansion:
+      - value: 58e-06
+    hardness:
+      - type: Knoop
+        value: 3.94e8
+    melting_point:
+      - value: 688
+    thermal_conductivity:
+      - temperature: 293
+        value: 0.544
+    youngs_modulus:
+      - value: 15.85e9
+    poissons_ratio:
+      - value: 0.369
+    solubility:
+      - temperature: 293
+        value: 0.5

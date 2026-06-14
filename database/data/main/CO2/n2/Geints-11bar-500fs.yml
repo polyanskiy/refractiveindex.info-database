@@ -5,14 +5,14 @@
 REFERENCES: |
     Y. E. Geints, V. O. Kompanets, S. V. Chekalin.
     Measurements of optical Kerr nonlinearity n<sub>2</sub> in compressed gases.
-    <a href="https://doi.org/10.1016/j.optcom.2025.132584"> <i>Opt. Commun.</i> <b>596</b>, 132584 (2025)</a>
+    [ *Opt. Commun.* **596**, 132584 (2025)](https://doi.org/10.1016/j.optcom.2025.132584)
 COMMENTS: |
     500 fs (Long pulse regime). Self-focusing. Room temperature, 11 bar.
-DATA:
-  - type: tabulated n2
-    data: |
-        0.80 333.1e-24
 CONDITIONS:
     n2_method: SF
     pulse_duration: 500e-15
     pressure: 11e5
+DATA:
+  - type: tabulated n2
+    data: |
+        0.80 333.1e-24

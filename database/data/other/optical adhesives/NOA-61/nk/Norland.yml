@@ -3,7 +3,7 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: |
-    Norland Optical Adhesive 61 <a href="https://www.norlandprod.com/adhesives/NOA%2061.html">Data 1</a>, <a href="https://www.norlandprod.com/adhesives/noa61pg2.html">Data 2</a> (accessed 2016-04-20)
+    Norland Optical Adhesive 61 [Data 1](https://www.norlandprod.com/adhesives/NOA%2061.html), [Data 2](https://www.norlandprod.com/adhesives/noa61pg2.html) (accessed 2016-04-20)
 DATA:
   - type: formula 5
     wavelength_range: 0.45 1.55

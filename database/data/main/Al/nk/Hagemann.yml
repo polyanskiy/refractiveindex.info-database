@@ -5,9 +5,9 @@
 REFERENCES: |
     1) H.-J. Hagemann, W. Gudat, C. Kunz.
     Optical constants from the far infrared to the x-ray region: Mg, Al, Cu, Ag, Au, Bi, C, and Al<sub>2</sub>O<sub>3</sub>.
-    <a href="https://doi.org/10.1364/JOSA.65.000742"><i>J. Opt. Soc. Am.</i> <b>65</b>, 742-744 (1975)</a><br>
+    [*J. Opt. Soc. Am.* **65**, 742-744 (1975)](https://doi.org/10.1364/JOSA.65.000742)<br>
     2) H.-J. Hagemann, W. Gudat, C. Kunz.
-    <a href="https://refractiveindex.info/download/data/1974/Hagemann 1974 - DESY report SR-74-7.pdf">DESY report SR-74/7 (1974)</a>
+    [DESY report SR-74/7 (1974)](https://refractiveindex.info/download/data/1974/Hagemann 1974 - DESY report SR-74-7.pdf)
 DATA:
   - type: tabulated nk
     data: |

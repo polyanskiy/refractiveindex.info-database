@@ -4,24 +4,10 @@
 
 REFERENCES: |
     Data kindly provided by Koichiro Ikeda, ISUZU GLASS LTD. Nov 2024.<br>
-    See also <a href="https://www.isuzuglass.com/products/">Isuzu Glass Products</a>
+    See also [Isuzu Glass Products](https://www.isuzuglass.com/products/)
 COMMENTS: |
     UV transmitting filter, Visible absorbing filter (IUV series).
     Glass type: P<sub>2</sub>O<sub>5</sub>-Al<sub>2</sub>O<sub>3</sub>.
-PROPERTIES:
-    nd: 1.528
-    Vd: 58.7
-    density:
-      - value: 2660
-    thermal_expansion:
-      - temperature_range: 373 573
-        value: 7.4e-06
-    transformation_temperature:
-      - value: 809
-    durability: 3
-    hardness:
-      - type: Knoop
-        value: 4.96e9
 DATA:
   - type: tabulated nk
     data: |
@@ -1826,3 +1812,17 @@ DATA:
         1.998 1.49413 1.21E-04
         1.999 1.49326 1.21E-04
         2.000 1.49271 1.21E-04
+PROPERTIES:
+    nd: 1.528
+    Vd: 58.7
+    density:
+      - value: 2660
+    thermal_expansion:
+      - temperature_range: 373 573
+        value: 7.4e-06
+    transformation_temperature:
+      - value: 809
+    durability: 3
+    hardness:
+      - type: Knoop
+        value: 4.96e9

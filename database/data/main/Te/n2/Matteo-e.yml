@@ -5,14 +5,14 @@
 REFERENCES: |
     D. Matteo, S. Tochitsky, C. Joshi.
     Tellurium crystal pumped with ultrafast 10 µm pulses demonstrates a giant nonlinear optical response.
-    <a href="https://doi.org/10.1364/OE.497186"><i>Opt. Express</i> <b>31</b>, 27239 (2023)</a>
+    [*Opt. Express* **31**, 27239 (2023)](https://doi.org/10.1364/OE.497186)
 COMMENTS: |
     Extraordinary ray (e). 220 fs. Spectral broadening.
-DATA:
-  - type: tabulated n2
-    data: |
-        10.6 5.5e-16
 CONDITIONS:
     n2_method: SB
     pulse_duration: 220e-15
     direction: e
+DATA:
+  - type: tabulated n2
+    data: |
+        10.6 5.5e-16

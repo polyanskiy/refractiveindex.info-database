@@ -5,10 +5,13 @@
 REFERENCES: |
     M. Fang, Z. Wang, H. Gu, M. Tong, B. Song, X. Xie, T. Zhou, X. Chen, H. Jiang, T. Jiang, S. Liu.
     Layer-dependent dielectric permittivity of topological insulator Bi<sub>2</sub>Se<sub>3</sub> thin films.
-    <a href="https://doi.org/10.1016/j.apsusc.2019.144822"><i>Appl. Surf. Sci.</i> <b>509</b>, 144822 (2020)</a>
+    [*Appl. Surf. Sci.* **509**, 144822 (2020)](https://doi.org/10.1016/j.apsusc.2019.144822)
     (Numerical data kindly provided by Baokun Song)
 COMMENTS: |
     2-layer, 2L
+CONDITIONS:
+    film_thickness: 2L
+    substrate: sapphire
 DATA:
   - type: tabulated nk
     data: |
@@ -1096,6 +1099,3 @@ DATA:
         1.6850 3.848640 0.342033
         1.6875 3.849847 0.342461
         1.6900 3.851094 0.342813
-CONDITIONS:
-    film_thickness: 2L
-    substrate: sapphire

@@ -5,10 +5,10 @@
 REFERENCES: |
     1) R. S. Caldwell and H. Y. Fan.
     Optical properties of tellurium and selenium.
-    <a href="https://doi.org/10.1103/PhysRev.114.664"><i>Phys. Rev.</i>, <b>114</b>, 664–675 (1959)</a><br>
+    [*Phys. Rev.*, **114**, 664–675 (1959)](https://doi.org/10.1103/PhysRev.114.664)<br>
     2) G. C. Bhar.
     Refractive index interpolation in phase-matching.
-    <a href="https://doi.org/10.1364/AO.15.0305_1"><i>Appl. Opt.</i> <b>15</b>, 305–307 (1976)</a><br>
+    [*Appl. Opt.* **15**, 305–307 (1976)](https://doi.org/10.1364/AO.15.0305_1)<br>
     * Ref. 2 provides a dispersion formula based on data from Ref. 1
 COMMENTS: |
     Extraordinary ray (e).

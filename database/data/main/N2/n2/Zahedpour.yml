@@ -5,9 +5,12 @@
 REFERENCES: |
     S. Zahedpour, J. K. Wahlstrand, H. M. Milchberg.
     Measurement of the nonlinear refractive index of air constituents at mid-infrared wavelengths.
-    <a href="https://doi.org/10.1364/OL.40.005794"> <i>Opt. Lett.</i> <b>40</b>,  5794-5795 (2015)</a>
+    [ *Opt. Lett.* **40**,  5794-5795 (2015)](https://doi.org/10.1364/OL.40.005794)
 COMMENTS: |
     40 fs. Single-shot supercontinuum spectral interferometry. Room temperature, atmospheric pressure.<br>For long pulses, the effective nonlinearity coefficient can be calculated by adding the rotational contribution to the reported instantaneous n<sub>2</sub>: n<sub>2,eff</sub> = n<sub>2</sub> + n<sub>2,rot</sub>, where n<sub>2,rot</sub> = 24×10<sup>-24</sup> m<sup>2</sup>/W.
+CONDITIONS:
+    n2_method: SI
+    pulse_duration: 40e-15
 DATA:
   - type: tabulated n2
     data: |
@@ -17,6 +20,3 @@ DATA:
         1.65 8.0e-24
         2.20 7.2e-24
         2.40 7.6e-24
-CONDITIONS:
-    n2_method: SI
-    pulse_duration: 40e-15

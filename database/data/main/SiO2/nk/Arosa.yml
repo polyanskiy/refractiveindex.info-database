@@ -5,7 +5,7 @@
 REFERENCES: |
     Y. Arosa and R. de la Fuente.
     Refractive index spectroscopy and material dispersion in fused silica glass.
-    <a href="https://doi.org/10.1364/OL.395510"><i>Opt. Lett.</i> <b>45</b>, 4268-4271 (2020)</a>
+    [*Opt. Lett.* **45**, 4268-4271 (2020)](https://doi.org/10.1364/OL.395510)
 COMMENTS: |
     Fused silica. The accuracy of refractive index measurements is lower than those reported by Malitson. However, by combining phase velocity and group velocity dispersion data, the authors have derived a potentially more accurate Sellmeier formula.
 DATA:

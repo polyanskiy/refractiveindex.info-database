@@ -5,7 +5,7 @@
 REFERENCES: |
     J. H. Weaver, C. G. Olson, D. W. Lynch.
     Optical properties of crystalline tungsten.
-    <a href="https://doi.org/10.1103/PhysRevB.12.1293"><i>Phys. Rev. B</i> <b>12</b>, 1293-1297 (1975)</a>
+    [*Phys. Rev. B* **12**, 1293-1297 (1975)](https://doi.org/10.1103/PhysRevB.12.1293)
     (Data points extracted from a figure)
 DATA:
   - type: tabulated nk

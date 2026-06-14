@@ -5,7 +5,7 @@
 REFERENCES: |
     S. Yamaguchi, T. Hanyu.
     Optical properties of potassium.
-    <a href="https://doi.org/10.1143/JPSJ.31.1431"><i>J. Phys. Soc. Jpn.</i> <b>31</b>, 1431-1441 (1971)</a>
+    [*J. Phys. Soc. Jpn.* **31**, 1431-1441 (1971)](https://doi.org/10.1143/JPSJ.31.1431)
 DATA:
   - type: tabulated nk
     data: |

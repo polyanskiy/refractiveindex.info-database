@@ -14,8 +14,7 @@ ABOUT: |
 LINKS:
   - url: https://en.wikipedia.org/wiki/Carbon_dioxide
     text: Carbon dioxide - Wikipedia
-  - url: https://en.wikipedia.org/wiki/Carbon_dioxide_(data_page)
-    text: Carbon dioxide (data page) - Wikipedia
+  - [Carbon dioxide (data page) - Wikipedia](https://en.wikipedia.org/wiki/Carbon_dioxide_(data_page))
   - url: https://www.webelements.com/compounds/carbon/carbon_dioxide.html
     text: Carbon dioxide - WebElements
   - url: https://webbook.nist.gov/cgi/cbook.cgi?ID=C124389

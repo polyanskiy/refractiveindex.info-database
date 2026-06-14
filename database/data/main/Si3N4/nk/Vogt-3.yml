@@ -3,9 +3,12 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: |
-    M. R. Vogt. <i>Development of physical models for the simulation of optical properties of solar cell modules</i>, <a href="https://www.tib.eu/en/search/id/TIBKAT%3A852464657">PhD. Thesis (2015)</a>
+    M. R. Vogt. *Development of physical models for the simulation of optical properties of solar cell modules*, [PhD. Thesis (2015)](https://www.tib.eu/en/search/id/TIBKAT%3A852464657)
 COMMENTS: |
     85 nm thick silicon-nitride (SiN) film on a polished Si wafer. n = 2.13 @ 633 nm. Room temperature.
+CONDITIONS:
+    film_thickness: 85e-9
+    substrate: Si
 DATA:
   - type: tabulated nk
     data: |
@@ -155,6 +158,3 @@ DATA:
         1.68 2.073 0.00E+00
         1.69 2.073 0.00E+00
         1.7 2.073 0.00E+00
-CONDITIONS:
-    film_thickness: 85e-9
-    substrate: Si

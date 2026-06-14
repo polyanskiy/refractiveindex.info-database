@@ -3,9 +3,11 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: |
-    <a href="https://refractiveindex.info/download/data/2017/nikon_2017-11.agf">NIKON Zemax catalog 2017-11</a> (obtained from <a href="http://www.nikon.com/products/glass/lineup/materials/optical/">http://www.nikon.com</a>)<br>See also <a href="https://refractiveindex.info/download/data/2014/nikon_i-line.pdf">NIKON i-line glass data sheet</a>
+    [NIKON Zemax catalog 2017-11](https://refractiveindex.info/download/data/2017/nikon_2017-11.agf) (obtained from [http://www.nikon.com](http://www.nikon.com/products/glass/lineup/materials/optical/))<br>See also [NIKON i-line glass data sheet](https://refractiveindex.info/download/data/2014/nikon_i-line.pdf)
 COMMENTS: |
     
+CONDITIONS:
+    temperature: 295.65
 DATA:
   - type: formula 2
     wavelength_range: 0.32611 2.32542
@@ -49,8 +51,6 @@ DATA:
         2.000 1.4138E-06
         2.200 5.7511E-06
         2.400 1.5680E-05
-CONDITIONS:
-    temperature: 295.65
 PROPERTIES:
     thermal_dispersion:
       - type: formula A
