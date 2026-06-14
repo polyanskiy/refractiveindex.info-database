@@ -3,9 +3,7 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: |
-    <a href="https://refractiveindex.info/download/data/2017/Acrylic-Double-Matching-Liquid.pdf">
-    Acrylic Double Matching Liquid Code 4213295 Data Sheet 29-MAR-17
-    </a>
+    [Acrylic Double Matching Liquid Code 4213295 Data Sheet 29-MAR-17](https://refractiveindex.info/download/data/2017/Acrylic-Double-Matching-Liquid.pdf)
     (obtained from [https://www.cargille.com](https://www.cargille.com/matching-liquids/))
 COMMENTS: |
     25 °C

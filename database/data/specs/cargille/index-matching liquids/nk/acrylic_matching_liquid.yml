@@ -3,9 +3,7 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: |
-    <a href="https://refractiveindex.info/download/data/2017/Acrylic-Matching-Liquid-Code-5032.pdf">
-    Acrylic Matching Liquid Code 5032 Data Sheet 30-NOV-17
-    </a>
+    [Acrylic Matching Liquid Code 5032 Data Sheet 30-NOV-17](https://refractiveindex.info/download/data/2017/Acrylic-Matching-Liquid-Code-5032.pdf)
     (obtained from [https://www.cargille.com](https://www.cargille.com/matching-liquids/))
 COMMENTS: |
     25 °C

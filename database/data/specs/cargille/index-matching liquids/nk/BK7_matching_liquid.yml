@@ -3,9 +3,7 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: |
-    <a href="https://refractiveindex.info/download/data/2023/BK-7-Matching-Liquid.pdf">
-    BK-7 Matching Liquid Data Sheet 27-March-2023
-    </a>
+    [BK-7 Matching Liquid Data Sheet 27-March-2023](https://refractiveindex.info/download/data/2023/BK-7-Matching-Liquid.pdf)
     (obtained from [https://www.cargille.com](https://www.cargille.com/matching-liquids/))
 COMMENTS: |
     25 °C
