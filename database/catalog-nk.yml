@@ -8820,14 +8820,14 @@
         - PAGE: P-FK01S
           name: "P-FK01S"
           data: specs/hikari/optical/P-FK01S.yml
-        - PAGE: P-FK2S
-          name: "P-FKHH2S"
+        - PAGE: P-FKH2S
+          name: "P-FKH2S"
           data: specs/hikari/optical/P-FKH2S.yml
         - PAGE: Q-FK01S
           name: "Q-FK01S"
           data: specs/hikari/optical/Q-FK01S.yml
-        - PAGE: Q-FK2S
-          name: "Q-FKHH2S"
+        - PAGE: Q-FKH2S
+          name: "Q-FKH2S"
           data: specs/hikari/optical/Q-FKH2S.yml
         - DIVIDER: "LaK (Lanthanum crown)"
         - PAGE: LAK04
