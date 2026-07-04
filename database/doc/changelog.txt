@@ -1,4 +1,11 @@
-﻿============================== 2026-05-24 ==============================
+﻿============================== Next release ==============================
+new data (thanks to Qifan Zheng,  University of Wisconsin–Madison, Madison, WI, USA, for submitting data!)
+    main/Hg/nk/Zheng.yml
+format update
+    Markdown is now used in REFERENCES and COMMENTS fields in data YAML files, and in ABOUT fields in about.yml files.
+
+
+============================== 2026-05-24 ==============================
 
   new data (thanks to Daniel Franta!)
     main/GaAs/nk/Franta-300K.yml

@@ -1416,6 +1416,9 @@
         - PAGE: Inagaki
           name: "Inagaki et al. 1981: n,k 0.0636–6.20 µm"
           data: main/Hg/nk/Inagaki.yml
+        - PAGE: Zheng
+          name: "Zheng et al. 2026: n,k 0.310–29.8 µm"
+          data: main/Hg/nk/Zheng.yml
     - DIVIDER: "Ho - Holmium"
     - BOOK: Ho
       name: "Ho (Holmium)"
