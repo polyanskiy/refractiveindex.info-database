@@ -8,7 +8,7 @@ REFERENCES: |
     [*Phys. Rev. B* **113**, 035139 (2026)](https://doi.org/10.1103/mwvq-859y)<br>
     (Numerical data kindly provided by Qifan Zheng)
 COMMENTS: |
-    Liquid mercury at room temperature. 0.43–30 µm: spectroscopic ellipsometry; 0.31–43 µm: Drude model extrapolation.
+    Liquid mercury at room temperature. 0.43–30 µm: spectroscopic ellipsometry; 0.31–43 µm: Extended Drude model extrapolation..
 DATA:
   - type: tabulated nk
     data: |
