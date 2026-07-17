@@ -2218,7 +2218,7 @@
           data: main/MgO/nk/Stephens-vis.yml
         - PAGE: Synowicki
           name: "Synowicki and Tiwald 2004: n,k 0.13–33 µm"
-          data: main/As2S3/nk/Synowicki.yml
+          data: main/MgO/nk/Synowicki.yml
     - BOOK: MoO2
       name: "MoO<sub>2</sub> (Molybdenum dioxide)"
       content:
@@ -2569,7 +2569,7 @@
           data: other/mixed crystals/ZrO2-Y2O3/nk/Wood.yml
         - PAGE: Synowicki
           name: "Synowicki and Tiwald 2004: n,k 0.13–33 µm"
-          data: main/As2S3/nk/Synowicki.yml
+          data: main/ZrO2/nk/Synowicki.yml
         - DIVIDER: "Nanoparticles"
         - PAGE: Bodurov
           name: "Bodurov et al. 2016: Nanoparticles; n 0.405–0.635 µm"
