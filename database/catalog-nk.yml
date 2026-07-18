@@ -2421,12 +2421,17 @@
     - BOOK: TeO2
       name: "TeO<sub>2</sub> (Tellurium dioxide)"
       content:
+        - DIVIDER: "Crystal"
         - PAGE: Uchida-o
-          name: "Uchida 1971: α-TeO<sub>2</sub>; n(o) 0.4–1.0 µm"
+          name: "Uchida 1971: α-TeO2; n(o) 0.4–1.0 µm"
           data: main/TeO2/nk/Uchida-o.yml
         - PAGE: Uchida-e
-          name: "Uchida 1971: α-TeO<sub>2</sub>; n(e) 0.4–1.0 µm"
+          name: "Uchida 1971: α-TeO2; n(e) 0.4–1.0 µm"
           data: main/TeO2/nk/Uchida-e.yml
+        - DIVIDER: "Glass"
+        - PAGE: Hrabovsky
+          name: "Hrabovsky et al. 2024: n,k 0.193–11.0 µm"
+          data: main/TeO2/nk/Hrabovsky.yml
     - BOOK: TiO2
       name: "TiO<sub>2</sub> (Titanium dioxide)"
       content:
