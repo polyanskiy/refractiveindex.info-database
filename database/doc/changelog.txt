@@ -1,10 +1,14 @@
 ﻿============================== Next release ==============================
 
-new data (thanks to Jan Hrabovsky, Charles University, Prague, Czech Republic, for submitting data!)
+  new data (thanks to Georgy Ermolaev, XPANCEO, Dubai, United Arab Emirates, for submitting data in YAML format!)
+    main/MoO3/nk/Toksumakov-alpha.yml
+    main/MoO3/nk/Toksumakov-beta.yml
+    main/MoO3/nk/Toksumakov-gamma.yml
+  new data (thanks to Jan Hrabovsky, Charles University, Prague, Czech Republic, for submitting data!)
     main/TeO2/nk/Hrabovsky.yml
-new data (thanks to Qifan Zheng,  University of Wisconsin–Madison, Madison, WI, USA, for submitting data!)
+  new data (thanks to Qifan Zheng,  University of Wisconsin–Madison, Madison, WI, USA, for submitting data!)
     main/Hg/nk/Zheng.yml
-format update
+  format update
     Markdown is now used in REFERENCES and COMMENTS fields in data YAML files, and in ABOUT fields in about.yml files.
 
 
