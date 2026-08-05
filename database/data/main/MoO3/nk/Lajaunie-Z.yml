@@ -8,7 +8,7 @@ REFERENCES: |
     [*Phys. Rev. B* **88**, 115141 (2013)](https://doi.org/10.1103/PhysRevB.88.115141)<br>
     (using [numerical data](https://refractiveindex.info/download/data/2013/Lajaunie 2013 - Dielectric function of alpha-MoO3.csv) made publicly available by Luc Lajaunie)
 COMMENTS: |
-    α-MoO<sub>3</sub>; n<sub>γ</sub>, k<sub>γ</sub>.
+    α-MoO<sub>3</sub>; n<sub>z</sub>, k<sub>z</sub>.
 CONDITIONS:
     direction: gamma
 DATA:

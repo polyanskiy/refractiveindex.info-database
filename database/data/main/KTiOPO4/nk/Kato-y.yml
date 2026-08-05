@@ -7,10 +7,10 @@ REFERENCES: |
     Sellmeier and thermo-optic dispersion formulas for KTP.
     [*Appl. Opt.* **41**, 5040-5044 (2002)](https://doi.org/10.1364/AO.41.005040).
 COMMENTS: |
-    n<sub>β</sub>; 20 °C.
+    n<sub>y</sub>; 20 °C.
 CONDITIONS:
     temperature: 293
-    direction: beta
+    direction: y
 DATA:
   - type: formula 4
     wavelength_range: 0.43 3.54

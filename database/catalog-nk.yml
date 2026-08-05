@@ -2230,15 +2230,24 @@
       name: "MoO<sub>3</sub> (Molybdenum trioxide)"
       content:
         - DIVIDER: "Crystal"
-        - PAGE: Lajaunie-α
-          name: "Lajaunie et al. 2013: n,k(α) 0.019–24.8 µm"
-          data: main/MoO3/nk/Lajaunie-alpha.yml
-        - PAGE: Lajaunie-β
-          name: "Lajaunie et al. 2013: n,k(β) 0.019–24.8 µm"
-          data: main/MoO3/nk/Lajaunie-beta.yml
-        - PAGE: Lajaunie-γ
-          name: "Lajaunie et al. 2013: n,k(γ) 0.019–24.8 µm"
-          data: main/MoO3/nk/Lajaunie-gamma.yml
+        - PAGE: Lajaunie-x
+          name: "Lajaunie et al. 2013: n,k(x) 0.019–24.8 µm"
+          data: main/MoO3/nk/Lajaunie-x.yml
+        - PAGE: Lajaunie-y
+          name: "Lajaunie et al. 2013: n,k(y) 0.019–24.8 µm"
+          data: main/MoO3/nk/Lajaunie-y.yml
+        - PAGE: Lajaunie-z
+          name: "Lajaunie et al. 2013: n,k(z) 0.019–24.8 µm"
+          data: main/MoO3/nk/Lajaunie-z.yml
+        - PAGE: Toksumakov-a
+          name: "Toksumakov et al. 2025: n,k(a) 0.250–1.7 µm"
+          data: main/MoO3/nk/Toksumakov-a.yml
+        - PAGE: Toksumakov-b
+          name: "Toksumakov et al. 2025: n,k(b) 0.250–1.7 µm"
+          data: main/MoO3/nk/Toksumakov-b.yml
+        - PAGE: Toksumakov-c
+          name: "Toksumakov et al. 2025: n,k(c) 0.250–1.7 µm"
+          data: main/MoO3/nk/Toksumakov-c.yml
         - DIVIDER: "Thin film"
         - PAGE: Vos
           name: "Vos et al. 2016: Thin film; n,k 0.019–1 µm"
@@ -2756,15 +2765,15 @@
     - BOOK: KTiOPO4
       name: "KTiOPO<sub>4</sub> (Potassium titanyl phosphate, KTP)"
       content:
-        - PAGE: Kato-α
-          name: "Kato and Takaoka 2002: n(α) 0.43–3.54 µm"
-          data: main/KTiOPO4/nk/Kato-alpha.yml
-        - PAGE: Kato-β
-          name: "Kato and Takaoka 2002: n(β) 0.43–3.54 µm"
-          data: main/KTiOPO4/nk/Kato-beta.yml
-        - PAGE: Kato-γ
-          name: "Kato and Takaoka 2002: n(γ) 0.43–3.54 µm"
-          data: main/KTiOPO4/nk/Kato-gamma.yml
+        - PAGE: Kato-x
+          name: "Kato and Takaoka 2002: n(x) 0.43–3.54 µm"
+          data: main/KTiOPO4/nk/Kato-x.yml
+        - PAGE: Kato-y
+          name: "Kato and Takaoka 2002: n(y) 0.43–3.54 µm"
+          data: main/KTiOPO4/nk/Kato-y.yml
+        - PAGE: Kato-z
+          name: "Kato and Takaoka 2002: n(z) 0.43–3.54 µm"
+          data: main/KTiOPO4/nk/Kato-z.yml
     - BOOK: NH4H2PO4
       name: "NH<sub>4</sub>H<sub>2</sub>PO<sub>4</sub> (Ammonium dihydrogen phosphate, ADP)"
       content:
