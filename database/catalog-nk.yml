@@ -2240,13 +2240,13 @@
           name: "Lajaunie et al. 2013: n,k(z) 0.019–24.8 µm"
           data: main/MoO3/nk/Lajaunie-z.yml
         - PAGE: Toksumakov-a
-          name: "Toksumakov et al. 2025: n,k(a) 0.250–1.7 µm"
+          name: "Toksumakov et al. 2025: n,k(a) 0.250–30.0 µm"
           data: main/MoO3/nk/Toksumakov-a.yml
         - PAGE: Toksumakov-b
-          name: "Toksumakov et al. 2025: n,k(b) 0.250–1.7 µm"
+          name: "Toksumakov et al. 2025: n,k(b) 0.250–30.0 µm"
           data: main/MoO3/nk/Toksumakov-b.yml
         - PAGE: Toksumakov-c
-          name: "Toksumakov et al. 2025: n,k(c) 0.250–1.7 µm"
+          name: "Toksumakov et al. 2025: n,k(c) 0.250–30.0 µm"
           data: main/MoO3/nk/Toksumakov-c.yml
         - DIVIDER: "Thin film"
         - PAGE: Vos

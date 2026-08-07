@@ -9,6 +9,8 @@ REFERENCES: |
     (See Supporting Information)
 COMMENTS: |
     α-MoO<sub>3</sub>. Crystallographic b-axis.
+CONDITIONS:
+    direction: b
 DATA:
   - type: tabulated nk
     data: |
