@@ -2786,15 +2786,15 @@
     - BOOK: RbTiOPO4
       name: "RbTiOPO<sub>4</sub> (Rubidium titanyl phosphate, RTP)"
       content:
-        - PAGE: Carvajal-α
-          name: "Carvajal et al. 2007: n(α) 0.4–1.5 µm"
-          data: main/RbTiOPO4/nk/Carvajal-alpha.yml
-        - PAGE: Carvajal-β
-          name: "Carvajal et al. 2007: n(β) 0.4–1.5 µm"
-          data: main/RbTiOPO4/nk/Carvajal-beta.yml
-        - PAGE: Carvajal-γ
-          name: "Carvajal et al. 2007: n(γ) 0.4–1.5 µm"
-          data: main/RbTiOPO4/nk/Carvajal-gamma.yml
+        - PAGE: Carvajal-x
+          name: "Carvajal et al. 2007: n(x) 0.4–1.5 µm"
+          data: main/RbTiOPO4/nk/Carvajal-x.yml
+        - PAGE: Carvajal-y
+          name: "Carvajal et al. 2007: n(y) 0.4–1.5 µm"
+          data: main/RbTiOPO4/nk/Carvajal-y.yml
+        - PAGE: Carvajal-z
+          name: "Carvajal et al. 2007: n(z) 0.4–1.5 µm"
+          data: main/RbTiOPO4/nk/Carvajal-z.yml
     - DIVIDER: "Pb - Lead"
     - BOOK: Pb
       name: "Pb (Lead)"
@@ -2970,29 +2970,29 @@
       name: "As<sub>2</sub>S<sub>3</sub> (Arsenic trisulfide)"
       content:
         - DIVIDER: "Experimental data - crystal"
-        - PAGE: Slavich-alpha
-          name: "Slavich et al. 2024: n(α) 0.500–0.900 µm"
-          data: main/As2S3/nk/Slavich-alpha.yml
-        - PAGE: Slavich-beta
-          name: "Slavich et al. 2024: n(β) 0.500–0.900 µm"
-          data: main/As2S3/nk/Slavich-beta.yml
-        - PAGE: Slavich-gamma
-          name: "Slavich et al. 2024: n(γ) 0.500–0.900 µm"
-          data: main/As2S3/nk/Slavich-gamma.yml
+        - PAGE: Slavich-a
+          name: "Slavich et al. 2024: n(a) 0.500–0.900 µm"
+          data: main/As2S3/nk/Slavich-a.yml
+        - PAGE: Slavich-b
+          name: "Slavich et al. 2024: n(b) 0.500–0.900 µm"
+          data: main/As2S3/nk/Slavich-b.yml
+        - PAGE: Slavich-c
+          name: "Slavich et al. 2024: n(c) 0.500–0.900 µm"
+          data: main/As2S3/nk/Slavich-c.yml
         - DIVIDER: "Experimental data - glass"
         - PAGE: Rodney
           name: "Rodney et al. 1958: n 0.57–11.8 µm"
           data: main/As2S3/nk/Rodney.yml
         - DIVIDER: "Models and simulations - crystal"
-        - PAGE: Slavich-abinitio-alpha
-          name: "Slavich et al. 2024: Ab initio; n,k(α) 0.299–2.07 µm"
-          data: main/As2S3/nk/Slavich-abinitio-alpha.yml
-        - PAGE: Slavich-abinitio-beta
-          name: "Slavich et al. 2024: Ab initio; n,k(β) 0.299–2.07 µm"
-          data: main/As2S3/nk/Slavich-abinitio-beta.yml
-        - PAGE: Slavich-abinitio-gamma
-          name: "Slavich et al. 2024: Ab initio; n,k(γ) 0.299–2.07 µm"
-          data: main/As2S3/nk/Slavich-abinitio-gamma.yml
+        - PAGE: Slavich-abinitio-a
+          name: "Slavich et al. 2024: Ab initio; n,k(a) 0.299–2.07 µm"
+          data: main/As2S3/nk/Slavich-abinitio-a.yml
+        - PAGE: Slavich-abinitio-b
+          name: "Slavich et al. 2024: Ab initio; n,k(b) 0.299–2.07 µm"
+          data: main/As2S3/nk/Slavich-abinitio-b.yml
+        - PAGE: Slavich-abinitio-c
+          name: "Slavich et al. 2024: Ab initio; n,k(c) 0.299–2.07 µm"
+          data: main/As2S3/nk/Slavich-abinitio-c.yml
         - PAGE: Synowicki
           name: "Synowicki and Tiwald 2004: n,k 0.13–33 µm"
           data: main/As2S3/nk/Synowicki.yml

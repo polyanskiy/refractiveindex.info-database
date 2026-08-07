@@ -8,9 +8,9 @@ REFERENCES: |
     [*Light Sci. Appl.*, **13**, 68 (2024)](https://doi.org/10.1038/s41377-024-01407-3)
     (Numerical data kindly provided by Georgy Ermolaev)
 COMMENTS: |
-    γ-axis.
+    Crystallographic c-axis.
 CONDITIONS:
-    direction: gamma
+    direction: c
 DATA:
   - type: tabulated n
     data: |

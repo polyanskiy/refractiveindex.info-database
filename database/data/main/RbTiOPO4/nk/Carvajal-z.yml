@@ -7,10 +7,10 @@ REFERENCES: |
     Structural and optical properties of RbTiOPO<sub>4</sub>:Nb crystals.
     [*J. Phys.: Condens. Matter* **19**, 116214, 2007](https://doi.org/10.1088/0953-8984/19/11/116214)
 COMMENTS: |
-    n<sub>γ</sub>; 293 K (20 °C).
+    n<sub>z</sub>; 293 K (20 °C).
 CONDITIONS:
     temperature: 293
-    direction: gamma
+    direction: z
 DATA:
   - type: formula 4
     wavelength_range: 0.4 1.5
