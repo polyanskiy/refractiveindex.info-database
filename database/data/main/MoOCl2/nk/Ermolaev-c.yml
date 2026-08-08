@@ -8,7 +8,7 @@ REFERENCES: |
     [*arXiv:2512.06495* (2025)](https://doi.org/10.48550/arXiv.2512.06495)
     (Numerical data kindly provided by Georgy Ermolaev)
 COMMENTS: |
-    Crystallographic c-axis (optical β-axis).
+    Crystallographic c-axis.
 DATA:
   - type: tabulated nk
     data: | 
