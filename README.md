@@ -114,3 +114,7 @@ https://github.com/AnMoreau/PyMoosh
 ### pyElli
 Ellipsometry data processing package with a built-in refractive index data loader  
 https://pyelli.readthedocs.io
+
+### TFStudio
+GUI-based thin-film coating design program with a built-in refractiveindex.info browser
+https://github.com/aai2k/TFStudio
