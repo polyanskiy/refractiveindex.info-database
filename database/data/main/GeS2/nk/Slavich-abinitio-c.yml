@@ -8,9 +8,9 @@ REFERENCES: |
     [*Light Sci. Appl.*, **14**, 213 (2025)](https://doi.org/10.1038/s41377-025-01886-y)
     (Numerical data kindly provided by Dr. Georgy Ermolaev)
 COMMENTS: |
-    n(γ),k(γ). Ab initio calculations.
+    Crystallographic c-axis. Ab initio calculations.
 CONDITIONS:
-    direction: gamma
+    direction: c
 DATA:
   - type: tabulated nk
     data: | 

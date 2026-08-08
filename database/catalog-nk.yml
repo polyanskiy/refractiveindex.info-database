@@ -3104,25 +3104,25 @@
       name: "GeS<sub>2</sub> (Germanium disulfide)"
       content:
         - DIVIDER: "Experimental data"
-        - PAGE: Slavich-α
-          name: "Slavich et al. 1989: n,k(α) 0.250–1.70 µm"
-          data: main/GeS2/nk/Slavich-alpha.yml
-        - PAGE: Slavich-β
-          name: "Slavich et al. 1989: n,k(β) 0.250–1.70 µm"
-          data: main/GeS2/nk/Slavich-beta.yml
-        - PAGE: Slavich-γ
-          name: "Slavich et al. 1989: n(γ) 0.250–1.70 µm"
-          data: main/GeS2/nk/Slavich-gamma.yml
+        - PAGE: Slavich-a
+          name: "Slavich et al. 1989: n,k(a) 0.250–1.70 µm"
+          data: main/GeS2/nk/Slavich-a.yml
+        - PAGE: Slavich-b
+          name: "Slavich et al. 1989: n,k(b) 0.250–1.70 µm"
+          data: main/GeS2/nk/Slavich-b.yml
+        - PAGE: Slavich-c
+          name: "Slavich et al. 1989: n(c) 0.250–1.70 µm"
+          data: main/GeS2/nk/Slavich-c.yml
         - DIVIDER: "Ab initio calculations"
-        - PAGE: Slavich-abinitio-α
-          name: "Slavich et al. 1989: n,k(α) 0.299–2.04 µm"
-          data: main/GeS2/nk/Slavich-abinitio-alpha.yml
-        - PAGE: Slavich-abinitio-β
-          name: "Slavich et al. 1989: n,k(β) 0.299–2.04 µm"
-          data: main/GeS2/nk/Slavich-abinitio-beta.yml
-        - PAGE: Slavich-abinitio-γ
-          name: "Slavich et al. 1989: n,k(γ) 0.299–2.04 µm"
-          data: main/GeS2/nk/Slavich-abinitio-gamma.yml
+        - PAGE: Slavich-abinitio-a
+          name: "Slavich et al. 1989: n,k(a) 0.299–2.04 µm"
+          data: main/GeS2/nk/Slavich-abinitio-a.yml
+        - PAGE: Slavich-abinitio-b
+          name: "Slavich et al. 1989: n,k(b) 0.299–2.04 µm"
+          data: main/GeS2/nk/Slavich-abinitio-b.yml
+        - PAGE: Slavich-abinitio-c
+          name: "Slavich et al. 1989: n,k(c) 0.299–2.04 µm"
+          data: main/GeS2/nk/Slavich-abinitio-c.yml
     - BOOK: HgS
       name: "HgS (Mercury sulfide)"
       content:

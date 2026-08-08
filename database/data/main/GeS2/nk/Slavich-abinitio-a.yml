@@ -8,9 +8,9 @@ REFERENCES: |
     [*Light Sci. Appl.*, **14**, 213 (2025)](https://doi.org/10.1038/s41377-025-01886-y)
     (Numerical data kindly provided by Dr. Georgy Ermolaev)
 COMMENTS: |
-    n(α),k(α). Ab initio calculations.
+    Crystallographic a-axis. Ab initio calculations.
 CONDITIONS:
-    direction: alpha
+    direction: a
 DATA:
   - type: tabulated nk
     data: | 
