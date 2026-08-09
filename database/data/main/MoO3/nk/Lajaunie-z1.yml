@@ -10,7 +10,7 @@ REFERENCES: |
 COMMENTS: |
     α-MoO<sub>3</sub>; n<sub>z</sub>, k<sub>z</sub>.
 CONDITIONS:
-    direction: gamma
+    direction: z
 DATA:
   - type: tabulated nk
     data: |

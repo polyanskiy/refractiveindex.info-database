@@ -10,7 +10,7 @@ REFERENCES: |
 COMMENTS: |
     α-MoO<sub>3</sub>; n<sub>x</sub>, k<sub>x</sub>.
 CONDITIONS:
-    direction: beta
+    direction: x
 DATA:
   - type: tabulated nk
     data: |

@@ -10,7 +10,7 @@ REFERENCES: |
 COMMENTS: |
     α-MoO<sub>3</sub>; n<sub>y</sub>, k<sub>y</sub>.
 CONDITIONS:
-    direction: alpha
+    direction: y
 DATA:
   - type: tabulated nk
     data: |
