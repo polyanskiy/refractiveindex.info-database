@@ -11,10 +11,10 @@ REFERENCES: |
     [*Opt. Mater. Express*, **6**, 2177–2183 (2016)](https://doi.org/10.1364/OME.6.002177)<br>
     * Ref. 2 provides a dispersion formula based on  the experimental data from Ref. 1
 COMMENTS: |
-    n<sub>γ</sub>; Room temperature.
+    n<sub>b</sub>; Room temperature.
 CONDITIONS:
-    direction: gamma
+    direction: b
 DATA:
   - type: formula 4
     wavelength_range: 0.25 2.6
-    coefficients: 1.70690 1.28477 2 0.01169 1 0 0 0 0 -0.01760 2
+    coefficients: 1.58829 1.42711 2 0.01113 1 0 0 0 0 -0.01696 2

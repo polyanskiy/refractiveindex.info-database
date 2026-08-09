@@ -7,9 +7,9 @@ REFERENCES: |
     Physical properties of BeAl<sub>6</sub>O<sub>10</sub> single crystals.
     [*J. Appl. Phys.*, **82**, 3661–3666 (1997)](https://doi.org/10.1063/1.365728)
 COMMENTS: |
-    n<sub>γ</sub>; Room temperature.
+    n<sub>c</sub>; Room temperature.
 CONDITIONS:
-    direction: gamma
+    direction: c
 DATA:
   - type: formula 3
     wavelength_range: 0.43 1.1

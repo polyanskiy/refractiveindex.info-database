@@ -112,27 +112,27 @@
     - BOOK: BeAl2O4
       name: "BeAl<sub>2</sub>O<sub>4</sub> (Beryllium aluminate, chrysoberyl)"
       content:
-        - PAGE: Walling-α
-          name: "Walling et al. 1980: n(α) 0.25–2.6 µm"
-          data: main/BeAl2O4/nk/Walling-alpha.yml
-        - PAGE: Walling-β
-          name: "Walling et al. 1980: n(β) 0.25–2.6 µm"
-          data: main/BeAl2O4/nk/Walling-beta.yml
-        - PAGE: Walling-γ
-          name: "Walling et al. 1980: n(γ) 0.25–2.6 µm"
-          data: main/BeAl2O4/nk/Walling-gamma.yml
+        - PAGE: Walling-a
+          name: "Walling et al. 1980: n(a) 0.25–2.6 µm"
+          data: main/BeAl2O4/nk/Walling-a.yml
+        - PAGE: Walling-b
+          name: "Walling et al. 1980: n(b) 0.25–2.6 µm"
+          data: main/BeAl2O4/nk/Walling-b.yml
+        - PAGE: Walling-c
+          name: "Walling et al. 1980: n(c) 0.25–2.6 µm"
+          data: main/BeAl2O4/nk/Walling-c.yml
     - BOOK: BeAl6O10
       name: "BeAl<sub>6</sub>O<sub>10</sub> (Beryllium hexaaluminate, BHA)"
       content:
-        - PAGE: Pestryakov-α
-          name: "Pestryakov et al. 1997: n(α) 0.43–1.1 µm"
-          data: main/BeAl6O10/nk/Pestryakov-alpha.yml
-        - PAGE: Pestryakov-β
-          name: "Pestryakov et al. 1997: n(β) 0.43–1.1 µm"
-          data: main/BeAl6O10/nk/Pestryakov-beta.yml
-        - PAGE: Pestryakov-γ
-          name: "Pestryakov et al. 1997: n(γ) 0.43–1.1 µm"
-          data: main/BeAl6O10/nk/Pestryakov-gamma.yml
+        - PAGE: Pestryakov-a
+          name: "Pestryakov et al. 1997: n(a) 0.43–1.1 µm"
+          data: main/BeAl6O10/nk/Pestryakov-a.yml
+        - PAGE: Pestryakov-b
+          name: "Pestryakov et al. 1997: n(b) 0.43–1.1 µm"
+          data: main/BeAl6O10/nk/Pestryakov-b.yml
+        - PAGE: Pestryakov-c
+          name: "Pestryakov et al. 1997: n(c) 0.43–1.1 µm"
+          data: main/BeAl6O10/nk/Pestryakov-c.yml
     - BOOK: CaGdAlO4
       name: "CaGdAlO<sub>4</sub> (Calcium gadolinium aluminate, CALGO)"
       content:
