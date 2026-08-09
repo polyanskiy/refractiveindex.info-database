@@ -11,10 +11,10 @@ REFERENCES: |
     [*Opt. Lett.* **16**, 205-207 (1991)](https://doi.org/10.1364/OL.16.000205).<br>
     * Ref. 2 provides a dispersion formulas based on  the experimental data from Ref. 1
 COMMENTS: |
-    n<sub>α</sub>; Room temperature.
+    n<sub>y</sub>; Room temperature.
 CONDITIONS:
-    direction: alpha
+    direction: y
 DATA:
   - type: formula 4
     wavelength_range: 0.2894 1.064
-    coefficients: 2.45768 0.0098877 0 0.026095 1 0 0 0 1 -0.013847 2
+    coefficients: 2.52500 0.017123 0 -0.0060517 1 0 0 0 1 -0.0087838 2
