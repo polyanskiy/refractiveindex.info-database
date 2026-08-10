@@ -3,12 +3,14 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: |
-    N. Umemura, K. Yoshida, and K. Kato. Phase-matching properties of KNbO<sub>3</sub> in the mid-infrared, [*Appl Opt.* **38**, 991-994 (1999)](    https://doi.org/10.1364/AO.38.000991)
+    N. Umemura, K. Yoshida, K. Kato.
+    Phase-matching properties of KNbO<sub>3</sub> in the mid-infrared.
+    [*Appl Opt.* **38**, 991-994 (1999)](https://doi.org/10.1364/AO.38.000991)
 COMMENTS: |
-    n<sub>α</sub>; 22 °C.
+    n<sub>x</sub>; 22 °C.
 CONDITIONS:
-    temerature: 295
-    direction: alpha
+    temperature: 295
+    direction: x
 DATA:
   - type: formula 4
     wavelength_range: 0.40 5.3

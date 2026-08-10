@@ -1901,24 +1901,24 @@
     - BOOK: KNbO3
       name: "KNbO<sub>3</sub> (Potassium niobate)"
       content:
-        - PAGE: Zysset-α
-          name: "Zysset et al. 1992: n(α) 0.40–3.4 µm"
-          data: main/KNbO3/nk/Zysset-alpha.yml
-        - PAGE: Zysset-β
-          name: "Zysset et al. 1992: n(β) 0.40–3.4 µm"
-          data: main/KNbO3/nk/Zysset-beta.yml
-        - PAGE: Zysset-γ
-          name: "Zysset et al. 1992: n(γ) 0.40–3.4 µm"
-          data: main/KNbO3/nk/Zysset-gamma.yml
-        - PAGE: Umemura-α
-          name: "Umemura et al. 1999: n(α) 0.40–5.3 µm"
-          data: main/KNbO3/nk/Umemura-alpha.yml
-        - PAGE: Umemura-β
-          name: "Umemura et al. 1999: n(β) 0.40–5.3 µm"
-          data: main/KNbO3/nk/Umemura-beta.yml
-        - PAGE: Umemura-γ
-          name: "Umemura et al. 1999: n(γ) 0.40–5.3 µm"
-          data: main/KNbO3/nk/Umemura-gamma.yml
+        - PAGE: Zysset-a
+          name: "Zysset et al. 1992: n(a) 0.40–3.4 µm"
+          data: main/KNbO3/nk/Zysset-a.yml
+        - PAGE: Zysset-b
+          name: "Zysset et al. 1992: n(b) 0.40–3.4 µm"
+          data: main/KNbO3/nk/Zysset-b.yml
+        - PAGE: Zysset-c
+          name: "Zysset et al. 1992: n(c) 0.40–3.4 µm"
+          data: main/KNbO3/nk/Zysset-c.yml
+        - PAGE: Umemura-x
+          name: "Umemura et al. 1999: n(x) 0.40–5.3 µm"
+          data: main/KNbO3/nk/Umemura-x.yml
+        - PAGE: Umemura-y
+          name: "Umemura et al. 1999: n(y) 0.40–5.3 µm"
+          data: main/KNbO3/nk/Umemura-y.yml
+        - PAGE: Umemura-z
+          name: "Umemura et al. 1999: n(z) 0.40–5.3 µm"
+          data: main/KNbO3/nk/Umemura-z.yml
     - BOOK: LiNbO3
       name: "LiNbO<sub>3</sub> (Lithium niobate)"
       content:
