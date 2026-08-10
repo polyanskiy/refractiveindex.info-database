@@ -7,10 +7,10 @@ REFERENCES: |
     Phase-matching properties of BaGa<sub>4</sub>S<sub>7</sub> and BaGa<sub>4</sub>Se<sub>7</sub>: Wide-bandgap nonlinear crystals for the mid-infrared.
     [*Phys. Status Solidi RRL*, **5**, 31–33 (2010)](https://doi.org/10.1002/pssr.201004425)
 COMMENTS: |
-    n<sub>γ</sub>; room temperature.
+    n<sub>x</sub>; room temperature.
 CONDITIONS:
-    direction: gamma
+    direction: x
 DATA:
   - type: formula 4
     wavelength_range: 0.42 9.5
-    coefficients: 7.907286 0.184081 0 0.015853 1 2630.008 0 981.884 1
+    coefficients: 7.090307 0.172059 0 0.019272 1 1748.013 0 858.223 1

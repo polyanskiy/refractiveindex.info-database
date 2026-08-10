@@ -7,10 +7,10 @@ REFERENCES: |
     Refined Sellmeier equations for BaGa<sub>4</sub>S<sub>7</sub>.
     [*Appl. Opt.*, **60**, 6600–6603 (2021)](https://doi.org/10.1364/AO.430424)
 COMMENTS: |
-    n<sub>β</sub>; room temperature.
+    n<sub>x</sub>; room temperature.
 CONDITIONS:
-    direction: beta
+    direction: x
 DATA:
   - type: formula 4
     wavelength_range: 0.633 8.82
-    coefficients: 6.86357 0.16688 0 0.03156 1 1146.08 0 665.85 1
+    coefficients: 6.39731 0.15895 0 0.02841 1 811.45 0 606.97 1
