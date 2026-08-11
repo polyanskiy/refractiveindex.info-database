@@ -7,10 +7,10 @@ REFERENCES: |
     Phase-matching properties of LiGaS<sub>2</sub> in the 1.025–10.5910 μm spectral range.
     [*Opt. Lett.*, **42**, 4363–4366 (2017)](https://doi.org/10.1364/OL.42.004363)
 COMMENTS: |
-    n<sub>α</sub>; room temperature.
+    n<sub>z</sub>; room temperature.
 CONDITIONS:
-    direction: alpha
+    direction: z
 DATA:
   - type: formula 4
     wavelength_range: 1.025 10.591
-    coefficients: 5.40285 0.11050 0 0.03238 1 460.11 0 422.74 1
+    coefficients: 5.77851 0.12325 0 0.03465 1 580.13 0 451.62 1

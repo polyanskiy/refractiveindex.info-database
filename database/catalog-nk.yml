@@ -3144,15 +3144,15 @@
     - BOOK: LiGaS2
       name: "LiGaS<sub>2</sub> (Lithium gallium sulfide, LGS)"
       content:
-        - PAGE: Kato-α
-          name: "Kato et al. 2017: n(α) 1.025–10.591 µm"
-          data: main/LiGaS2/nk/Kato-alpha.yml
-        - PAGE: Kato-β
-          name: "Kato et al. 2017: n(β) 1.025–10.591 µm"
-          data: main/LiGaS2/nk/Kato-beta.yml
-        - PAGE: Kato-γ
-          name: "Kato et al. 2017: n(γ) 1.025–10.591 µm"
-          data: main/LiGaS2/nk/Kato-gamma.yml
+        - PAGE: Kato-x
+          name: "Kato et al. 2017: n(x) 1.025–10.591 µm"
+          data: main/LiGaS2/nk/Kato-x.yml
+        - PAGE: Kato-y
+          name: "Kato et al. 2017: n(y) 1.025–10.591 µm"
+          data: main/LiGaS2/nk/Kato-y.yml
+        - PAGE: Kato-z
+          name: "Kato et al. 2017: n(z) 1.025–10.591 µm"
+          data: main/LiGaS2/nk/Kato-z.yml
     - BOOK: MoS2
       name: "MoS<sub>2</sub> (Molybdenum disulfide)"
       content:
