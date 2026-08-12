@@ -3358,15 +3358,15 @@
     - BOOK: CaSO4
       name: "CaSO<sub>4</sub> (Calcium sulfate)"
       content:
-        - PAGE: Querry-α
-          name: "Querry 1987: n,k(α) 2.50–55.6 µm"
-          data: main/CaSO4/nk/Querry-alpha.yml
-        - PAGE: Querry-β
-          name: "Querry 1987: n,k(β) 2.50–55.6 µm"
-          data: main/CaSO4/nk/Querry-beta.yml
-        - PAGE: Querry-γ
-          name: "Querry 1987: n,k(γ) 2.50–55.6 µm"
-          data: main/CaSO4/nk/Querry-gamma.yml
+        - PAGE: Querry-x
+          name: "Querry 1987: n,k(x) 2.50–55.6 µm"
+          data: main/CaSO4/nk/Querry-x.yml
+        - PAGE: Querry-y
+          name: "Querry 1987: n,k(y) 2.50–55.6 µm"
+          data: main/CaSO4/nk/Querry-y.yml
+        - PAGE: Querry-z
+          name: "Querry 1987: n,k(z) 2.50–55.6 µm"
+          data: main/CaSO4/nk/Querry-z.yml
     - DIVIDER: "Sb - Antimonides"
     - BOOK: AlSb
       name: "AlSb (Aluminium antimonide)"
