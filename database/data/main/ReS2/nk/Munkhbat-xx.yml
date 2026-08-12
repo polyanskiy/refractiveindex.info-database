@@ -8,9 +8,9 @@ REFERENCES: |
     [*ACS Photonics* **9**, 2398–2407 (2022)](https://doi.org/10.1021/acsphotonics.2c00433)
     (Numerical data kindly provided by Tomasz Antosiewicz)
 COMMENTS: |
-    Multilayer flakes. n<sub>α</sub>, k<sub>α</sub>. Room temperature.
+    Multilayer flakes. n<sub>xx</sub>, k<sub>xx</sub>. Room temperature.
 CONDITIONS:
-    direction: alpha
+    direction: xx
 DATA:
   - type: tabulated nk
     data: |
