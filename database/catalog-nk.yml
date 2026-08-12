@@ -3692,15 +3692,15 @@
     - BOOK: SnSe
       name: "SnSe (Tin selenide)"
       content:
-        - PAGE: Guo-α
-          name: "Guo et al. 2022: n,k(α) 0.193–1.69 µm"
-          data: main/SnSe/nk/Guo-alpha.yml
-        - PAGE: Guo-β
-          name: "Guo et al. 2022: n,k(β) 0.193–1.69 µm"
-          data: main/SnSe/nk/Guo-beta.yml
-        - PAGE: Guo-γ
-          name: "Guo et al. 2022: n,k(γ) 0.193–1.69 µm"
-          data: main/SnSe/nk/Guo-gamma.yml
+        - PAGE: Guo-a
+          name: "Guo et al. 2022: n,k(a) 0.193–1.69 µm"
+          data: main/SnSe/nk/Guo-a.yml
+        - PAGE: Guo-b
+          name: "Guo et al. 2022: n,k(b) 0.193–1.69 µm"
+          data: main/SnSe/nk/Guo-b.yml
+        - PAGE: Guo-c
+          name: "Guo et al. 2022: n,k(c) 0.193–1.69 µm"
+          data: main/SnSe/nk/Guo-c.yml
     - BOOK: SnSe2
       name: "SnSe<sub>2</sub> (Tin diselenide)"
       content:
@@ -4192,15 +4192,15 @@
     - BOOK: ZrTe5
       name: "ZrTe5 (Zirconium pentatelluride)"
       content:
-        - PAGE: Guo-α
-          name: "Guo et al. 2021: n,k(α) 0.193–1.30 µm"
-          data: main/ZrTe5/nk/Guo-alpha.yml
-        - PAGE: Guo-β
-          name: "Guo et al. 2021: n,k(β) 0.193–1.30 µm"
-          data: main/ZrTe5/nk/Guo-beta.yml
-        - PAGE: Guo-γ
-          name: "Guo et al. 2021: n,k(γ) 0.193–1.30 µm"
-          data: main/ZrTe5/nk/Guo-gamma.yml
+        - PAGE: Guo-a
+          name: "Guo et al. 2021: n,k(a) 0.193–1.30 µm"
+          data: main/ZrTe5/nk/Guo-a.yml
+        - PAGE: Guo-b
+          name: "Guo et al. 2021: n,k(b) 0.193–1.30 µm"
+          data: main/ZrTe5/nk/Guo-b.yml
+        - PAGE: Guo-c
+          name: "Guo et al. 2021: n,k(c) 0.193–1.30 µm"
+          data: main/ZrTe5/nk/Guo-c.yml
     - DIVIDER: "Ti - Titanium and titanates"
     - BOOK: Ti
       name: "Ti (Titanium)"

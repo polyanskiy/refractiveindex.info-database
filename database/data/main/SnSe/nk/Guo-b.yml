@@ -8,9 +8,9 @@ REFERENCES: |
     [*Nanomaterials*, **13**, 134 (2022)](https://doi.org/10.3390/nano13010134)
     (Numerical data kindly provided by Zhengfeng Guo)
 COMMENTS: |
-    n<sub>β</sub>, k<sub>β</sub>; room temperature.
+    n<sub>b</sub>, k<sub>b</sub>; room temperature.
 CONDITIONS:
-    direction: beta
+    direction: b
 DATA:
   - type: tabulated nk
     data: |

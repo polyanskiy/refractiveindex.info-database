@@ -8,9 +8,9 @@ REFERENCES: |
     [*ACS Mater. Lett.*, **3**, 6525–6534 (2021)](https://doi.org/10.1021/acsmaterialslett.1c00026)
     (Numerical data kindly provided by Zhengfeng Guo)
 COMMENTS: |
-    n<sub>β</sub>, k<sub>β</sub>; room temperature.
+    n<sub>b</sub>, k<sub>b</sub>; room temperature.
 CONDITIONS:
-    direction: beta
+    direction: b
 DATA:
   - type: tabulated nk
     data: |
