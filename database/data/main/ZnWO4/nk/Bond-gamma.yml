@@ -9,7 +9,7 @@ REFERENCES: |
 COMMENTS: |
     Monoclinic ZnWO<sub>4</sub>; n<sub>γ</sub>; room temperature.
 CONDITIONS:
-    direction: gamma
+    direction: γ
 DATA:
   - type: tabulated n
     data: |
