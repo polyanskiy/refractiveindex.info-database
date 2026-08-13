@@ -5178,15 +5178,15 @@
     - BOOK: potassium_hydrogen_phthalate
       name: "C<sub>8</sub>H<sub>5</sub>KO<sub>4</sub> (Potassium hydrogen phthalate, KHP)"
       content:
-        - PAGE: Moutzouris-α
-          name: "Moutzouris et al. 2011: n(α) 0.450–1.55 µm"
-          data: organic/C8H5KO4 - potassium hydrogen phthalate/nk/Moutzouris-alpha.yml
-        - PAGE: Moutzouris-β
-          name: "Moutzouris et al. 2011: n(β) 0.450–1.55 µm"
-          data: organic/C8H5KO4 - potassium hydrogen phthalate/nk/Moutzouris-beta.yml
-        - PAGE: Moutzouris-γ
-          name: "Moutzouris et al. 2011: n(γ) 0.450–1.55 µm"
-          data: organic/C8H5KO4 - potassium hydrogen phthalate/nk/Moutzouris-gamma.yml
+        - PAGE: Moutzouris-a
+          name: "Moutzouris et al. 2011: n(a) 0.450–1.55 µm"
+          data: organic/C8H5KO4 - potassium hydrogen phthalate/nk/Moutzouris-a.yml
+        - PAGE: Moutzouris-b
+          name: "Moutzouris et al. 2011: n(b) 0.450–1.55 µm"
+          data: organic/C8H5KO4 - potassium hydrogen phthalate/nk/Moutzouris-b.yml
+        - PAGE: Moutzouris-c
+          name: "Moutzouris et al. 2011: n(c) 0.450–1.55 µm"
+          data: organic/C8H5KO4 - potassium hydrogen phthalate/nk/Moutzouris-c.yml
     - BOOK: acetaminophen
       name: "C<sub>8</sub>H<sub>9</sub>NO<sub>2</sub> (Acetaminophen)"
       content:
