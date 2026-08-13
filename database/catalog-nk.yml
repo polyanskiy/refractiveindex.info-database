@@ -5214,15 +5214,15 @@
     - BOOK: SQIB
       name: "C<sub>32</sub>H<sub>44</sub>N<sub>2</sub>O<sub>6</sub> (SQIB)"
       content:
-        - PAGE: Funke-α
-          name: "Funke et al. 2011: n,k(α) 0.450–0.900 µm"
-          data: organic/C32H44N2O6 - SQIB/nk/Funke-alpha.yml
-        - PAGE: Funke-β
-          name: "Funke et al. 2021: n,k(β) 0.450–0.900 µm"
-          data: organic/C32H44N2O6 - SQIB/nk/Funke-beta.yml
-        - PAGE: Funke-γ
-          name: "Funke et al. 2021: n,k(γ) 0.450–0.900 µm"
-          data: organic//C32H44N2O6 - SQIB/nk/Funke-gamma.yml
+        - PAGE: Funke-a
+          name: "Funke et al. 2011: n,k(a) 0.450–0.900 µm"
+          data: organic/C32H44N2O6 - SQIB/nk/Funke-a.yml
+        - PAGE: Funke-b
+          name: "Funke et al. 2021: n,k(b) 0.450–0.900 µm"
+          data: organic/C32H44N2O6 - SQIB/nk/Funke-b.yml
+        - PAGE: Funke-c
+          name: "Funke et al. 2021: n,k(c) 0.450–0.900 µm"
+          data: organic//C32H44N2O6 - SQIB/nk/Funke-c.yml
     - BOOK: ProSQ-C16
       name: "C<sub>50</sub>H<sub>80</sub>N<sub>2</sub>O<sub>4</sub> (ProSQ-C16)"
       content:

@@ -8,9 +8,9 @@ REFERENCES: |
     [*J. Phys. Chem. Lett.* **12**, 3053-3058 (2021)](https://doi.org/10.1021/acs.jpclett.1c00317)
     (Numerical data kindly provided by Manuela Schiek)
 COMMENTS: |
-    n<sub>β</sub>, k<sub>β</sub> (a-axis).
+    n<sub>a</sub>, k<sub>a</sub> (a-axis).
 CONDITIONS:
-    direction: beta
+    direction: a
 DATA:
   - type: tabulated nk
     data: |
