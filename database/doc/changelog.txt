@@ -1,12 +1,13 @@
 ﻿============================== Next release ==============================
 
-  
+  new data (thanks to Armando Santos-Amador, Autonomous University of San Luis Potosí, Mexico, for submitting data in YAML format!)
+    other/alloys/Au-Ag/nk/Santos-Amador.yml
   new data (thanks to Georgy Ermolaev, XPANCEO, Dubai, United Arab Emirates, for submitting data in YAML format!)
     main/C/nk/Toksumakov-o.yml
     main/C/nk/Toksumakov-o.yml
-    main/MoO3/nk/Toksumakov-alpha.yml
-    main/MoO3/nk/Toksumakov-beta.yml
-    main/MoO3/nk/Toksumakov-gamma.yml
+    main/MoO3/nk/Toksumakov-a.yml
+    main/MoO3/nk/Toksumakov-b.yml
+    main/MoO3/nk/Toksumakov-c.yml
   new data (thanks to Jan Hrabovsky, Charles University, Prague, Czech Republic, for submitting data!)
     main/TeO2/nk/Hrabovsky.yml
   new data (thanks to Qifan Zheng,  University of Wisconsin–Madison, Madison, WI, USA, for submitting data!)

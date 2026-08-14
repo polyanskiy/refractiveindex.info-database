@@ -5624,6 +5624,13 @@
         - PAGE: Rioux-Au0Ag100
           name: "Rioux et al. 2014: n,k 0.27–1.2 µm; 100% Ag"
           data: other/alloys/Au-Ag/nk/Rioux-Au0Ag100.yml
+    - BOOK: Co-Fe-B
+      name: "Co-Fe-B (Cobalt-iron-boron alloy, CoFeB)"
+      content:
+        - DIVIDER: "Thin film"
+        - PAGE: Santos-Amador
+          name: "Santos-Amador et al. 2026: thin film; n,k 0.258–43.5 µm"
+          data: other/alloys/Co-Fe-B/nk/Santos-Amador.yml
     - BOOK: Cu-Zn
       name: "Cu-Zn (Copper-zinc alloy, Brass)"
       content:

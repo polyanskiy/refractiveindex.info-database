@@ -1,0 +1,19 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+NAMES:
+  - Cobalt-iron-boron alloy
+  - Co-Fe-B
+  - CoFeB
+
+ABOUT: |
+    CoFeB is a family of ferromagnetic metallic alloys composed of cobalt, iron, and boron. It is commonly deposited as an amorphous thin film and may partially crystallize during annealing. CoFeB is widely used in spintronic devices, particularly as an electrode material in magnetic tunnel junctions. Its physical and optical properties depend on the elemental composition, film thickness, deposition conditions, and thermal history; therefore, CoFeB does not represent a single fixed stoichiometric compound.
+
+LINKS:
+  - url: https://en.wikipedia.org/wiki/Spintronics
+    text: Spintronics - Wikipedia
+  - url: https://en.wikipedia.org/wiki/Magnetic_tunnel_junction
+    text: Magnetic tunnel junction - Wikipedia
+  - url: https://doi.org/10.1038/nmat2804
+    text: A perpendicular-anisotropy CoFeB-MgO magnetic tunnel junction - Nature Materials
