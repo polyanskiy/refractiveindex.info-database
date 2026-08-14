@@ -1,6 +1,9 @@
 ﻿============================== Next release ==============================
 
+  
   new data (thanks to Georgy Ermolaev, XPANCEO, Dubai, United Arab Emirates, for submitting data in YAML format!)
+    main/C/nk/Toksumakov-o.yml
+    main/C/nk/Toksumakov-o.yml
     main/MoO3/nk/Toksumakov-alpha.yml
     main/MoO3/nk/Toksumakov-beta.yml
     main/MoO3/nk/Toksumakov-gamma.yml

@@ -643,6 +643,12 @@
         - PAGE: Djurisic-e
           name: "Djurišić and Li 1999: Graphite; n,k (e); 0.0310–0.5904 µm"
           data: main/C/nk/Djurisic-e.yml
+        - PAGE: Toksumakov-o
+          name: "Toksumakov et al. 2026: Graphite; n,k (o); 0.250–1.70 µm"
+          data: main/C/nk/Toksumakov-o.yml
+        - PAGE: Toksumakov-e
+          name: "Toksumakov et al. 2026: Graphite; n (e); 0.250–1.70 µm"
+          data: main/C/nk/Toksumakov-e.yml
         - PAGE: Querry-DixonKS2
           name: "Querry 1985: Graphite pellet, Dixon KS-2; n,k 0.21–55.6 µm"
           data: main/C/nk/Querry-DixonKS2.yml
