@@ -6003,15 +6003,15 @@
     - BOOK: Nb-RbTiOPO4
       name: "Nb:RbTiOPO<sub>4</sub> (Niobium-doped rubidium titanyl phosphate, Nb:RTP)"
       content:
-        - PAGE: Carvajal-α
-          name: "Carvajal et al. 2007: n(α) 0.4–1.5 µm"
-          data: other/doped crystals/Nb-RbTiOPO4/nk/Carvajal-alpha.yml
-        - PAGE: Carvajal-β
-          name: "Carvajal et al. 2007: n(β) 0.4–1.5 µm"
-          data: other/doped crystals/Nb-RbTiOPO4/nk/Carvajal-beta.yml
-        - PAGE: Carvajal-γ
-          name: "Carvajal et al. 2007: n(γ) 0.4–1.5 µm"
-          data: other/doped crystals/Nb-RbTiOPO4/nk/Carvajal-gamma.yml
+        - PAGE: Carvajal-x
+          name: "Carvajal et al. 2007: n(x) 0.4–1.5 µm"
+          data: other/doped crystals/Nb-RbTiOPO4/nk/Carvajal-x.yml
+        - PAGE: Carvajal-y
+          name: "Carvajal et al. 2007: n(y) 0.4–1.5 µm"
+          data: other/doped crystals/Nb-RbTiOPO4/nk/Carvajal-y.yml
+        - PAGE: Carvajal-z
+          name: "Carvajal et al. 2007: n(z) 0.4–1.5 µm"
+          data: other/doped crystals/Nb-RbTiOPO4/nk/Carvajal-z.yml
     - BOOK: Al-ZnO
       name: "Al:ZnO (Aluminium-doped zinc oxide, AZO)"
       content:
