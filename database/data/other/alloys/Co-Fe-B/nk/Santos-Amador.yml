@@ -12,6 +12,9 @@ COMMENTS: |
     A 10 nm Al<sub>2</sub>O<sub>3</sub> capping layer was deposited by RF sputtering without breaking vacuum.
     Optical constants were determined by spectroscopic ellipsometry.
     Optical constants for a 20 nm Co<sub>20</sub>Fe<sub>60</sub>B<sub>20</sub> film are also reported in the reference.
+CONDITIONS:
+    film_thickness: 5e-9
+    substrate: SiO2/Si
 DATA:
   - type: tabulated nk
     data: |
