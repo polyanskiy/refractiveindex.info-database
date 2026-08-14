@@ -4172,15 +4172,15 @@
       name: "WTe<sub>2</sub> (Tungsten ditelluride)"
       content:
         - DIVIDER: "Multilayer flakes"
-        - PAGE: Munkhbat-xx
-          name: "Munkhbat et al. 2022: multilayer flakes; n,k(xx) 0.30–1.69 µm"
-          data: main/WTe2/nk/Munkhbat-xx.yml
-        - PAGE: Munkhbat-yy
-          name: "Munkhbat et al. 2022: multilayer flakes; n,k(yy) 0.30–1.69 µm"
-          data: main/WTe2/nk/Munkhbat-yy.yml
-        - PAGE: Munkhbat-zz
-          name: "Munkhbat et al. 2022: multilayer flakes; n(zz) 0.30–1.69 µm"
-          data: main/WTe2/nk/Munkhbat-zz.yml
+        - PAGE: Munkhbat-x
+          name: "Munkhbat et al. 2022: multilayer flakes; n,k(x) 0.30–1.69 µm"
+          data: main/WTe2/nk/Munkhbat-x.yml
+        - PAGE: Munkhbat-y
+          name: "Munkhbat et al. 2022: multilayer flakes; n,k(y) 0.30–1.69 µm"
+          data: main/WTe2/nk/Munkhbat-y.yml
+        - PAGE: Munkhbat-z
+          name: "Munkhbat et al. 2022: multilayer flakes; n(z) 0.30–1.69 µm"
+          data: main/WTe2/nk/Munkhbat-z.yml
     - BOOK: ZnTe
       name: "ZnTe (Zinc telluride)"
       content:
