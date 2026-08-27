@@ -1,5 +1,7 @@
 ﻿============================== Next release ==============================
 
+  new data (thanks to Martin Bock, Max-Born-Institute, Berlin, Germany, for submitting data!)
+    main/ZnSe/n2/Bock.yml
   new data (thanks to Armando Santos-Amador, Autonomous University of San Luis Potosí, Mexico, for submitting data in YAML format!)
     other/alloys/Au-Ag/nk/Santos-Amador.yml
   new data (thanks to Georgy Ermolaev, XPANCEO, Dubai, United Arab Emirates, for submitting data in YAML format!)

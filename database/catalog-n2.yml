@@ -775,6 +775,9 @@
         - PAGE: Polyanskiy
           name: "Polyanskiy et al. 2024"
           data: main/ZnSe/n2/Polyanskiy.yml
+        - PAGE: Bock
+          name: "Bock et al. 2024"
+          data: main/ZnSe/n2/Bock.yml
         - PAGE: Jansonas
           name: "Jansonas et al. 2022"
           data: main/ZnSe/n2/Jansonas.yml
