@@ -5,10 +5,10 @@
 REFERENCES: |
     M. Bock, L. von Grafenstein, D. Ueberschaer, G. Steinmeyer, U. Griebner.
     Nonlinear compression of few-cycle multi-mJ 5 µm pulses in ZnSe around zero-dispersion.
-    [*Opt. Lett* **49**, 351–354 (2024)](https://doi.org/10.1364/OL.513361)
+    [*Opt. Lett.* **49**, 351–354 (2024)](https://doi.org/10.1364/OL.502953)
 COMMENTS: |
-    Measured in polycrystalline ZnSe using few-cycle 5 µm pulses.
-    Methods: Kerr-lens measurement (self-focusing) & spectral broadening.
+    Polycrystalline ZnSe.
+    Methods: Kerr-lens (self-focusing) & spectral broadening analysis.
 CONDITIONS:
     n2_method: SF
     pulse_duration: 95e-15

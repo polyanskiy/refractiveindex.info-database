@@ -712,6 +712,9 @@
           name: "Adair et al. 1989: (e)"
           data: main/ZnS/n2/Adair-e.yml
         - DIVIDER: "Polycrystalline"
+        - PAGE: Bock
+          name: "Bock et al. 2025"
+          data: main/ZnS/n2/Bock.yml
         - PAGE: Polyanskiy
           name: "Polyanskiy et al. 2024"
           data: main/ZnS/n2/Polyanskiy.yml

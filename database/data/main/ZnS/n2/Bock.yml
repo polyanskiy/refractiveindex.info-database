@@ -1,0 +1,18 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+REFERENCES: |
+    M. Bock, D. Ueberschaer, G. Steinmeyer, U. Griebner.
+    Generation of two-cycle light bullets with 2.0 mJ energy via self-compression of 5-µm pulses in zinc sulfide.
+    [*Laser Photonics Rev.* **19**, e01102 (2025)](https://doi.org/10.1002/lpor.202501102)
+COMMENTS: |
+    Polycrystalline ZnS.
+    Methods: Self-compression & spectral broadening analysis.
+CONDITIONS:
+    n2_method: SC
+    pulse_duration: 95e-15
+DATA:
+  - type: tabulated n2
+    data: |
+        4.9 0.33e-18
