@@ -118,3 +118,7 @@ https://pyelli.readthedocs.io
 ### TFStudio
 GUI-based thin-film coating design program with a built-in refractiveindex.info browser
 https://github.com/aai2k/TFStudio
+
+### RefractiveIndexApp
+Simple Android app that serves as a front end to the refractiveindex.info database
+https://github.com/Xpr3ss0/RefractiveIndexApp
