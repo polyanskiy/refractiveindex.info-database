@@ -1,0 +1,24 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+REFERENCES: |
+    M. Balu, J. Hales, D. J. Hagan, E. W. Van Stryland.
+    Dispersion of nonlinear refraction and two-photon absorption using a white-light continuum Z-scan.
+    [*Opt. Express* **13**, 3594-3599 (2005)](https://doi.org/10.1364/OPEX.13.003594)
+COMMENTS: |
+    165 fs. Z-scan.
+CONDITIONS:
+    n2_method: Z-scan
+    pulse_duration: 165e-15
+DATA:
+  - type: tabulated n2
+    data: |
+        0.559 -3.58e-18
+        0.579 -2.07e-18
+        0.599 -1.46e-18
+        0.624 -8.10e-19
+        0.645 -5.01e-19
+        0.664 4.23e-19
+        0.689 1.41e-18
+        0.710 1.50e-18
