@@ -1638,6 +1638,9 @@
         - PAGE: Hagemann
           name: "Hagemann et al. 1974: n,k 0.0000248–24.8 µm"
           data: main/Mg/nk/Hagemann.yml
+        - PAGE: Pehlivan
+          name: "Pehlivan et al. 2024: n,k 0.300–1.345 µm"
+          data: main/Mg/nk/Pehlivan.yml
         - PAGE: Palm
           name: "Palm et al. 2018: n,k 0.250–1.68 µm"
           data: main/Mg/nk/Palm.yml

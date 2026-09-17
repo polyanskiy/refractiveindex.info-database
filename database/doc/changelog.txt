@@ -1,5 +1,9 @@
 ﻿============================== Next release ==============================
 
+  new data (thanks to Emilie Ringe, University of Cambridge, United Kingdom, for submitting data in YAML format!)
+	main/Mg/nk/Pehlivan.yml
+  new data (thanks to scojo202 for GitHub commit!)
+    main/ZnSe/n2/Balu.yml
   new data (thanks to Martin Bock, Max-Born-Institute, Berlin, Germany, for submitting data!)
     main/ZnSe/n2/Bock.yml
     main/ZnS/n2/Bock.yml
