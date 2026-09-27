@@ -10,7 +10,7 @@ COMMENTS: |
     n<sub>c</sub>; 22 °C. See the original publication for temperature dependence.
 CONDITIONS:
     temperature: 295
-    direction: c
+    optical_component: c
 DATA:
   - type: formula 4
     wavelength_range: 0.40 3.4

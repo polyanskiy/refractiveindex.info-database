@@ -10,9 +10,9 @@ REFERENCES: |
 COMMENTS: |
     3R-MoS<sub>2</sub>.
     Crystallographic c-axis (out-of-plane, extraordinary).
-    Measured by spectroscopic ellipsometry
+    Measured by spectroscopic ellipsometry.
 CONDITIONS:
-    direction: c
+    optical_component: e
 DATA:
   - type: tabulated nk
     data: |

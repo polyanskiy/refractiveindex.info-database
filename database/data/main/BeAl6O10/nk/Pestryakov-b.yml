@@ -9,7 +9,7 @@ REFERENCES: |
 COMMENTS: |
     n<sub>b</sub>; Room temperature.
 CONDITIONS:
-    direction: b
+    optical_component: b
 DATA:
   - type: formula 3
     wavelength_range: 0.43 1.1

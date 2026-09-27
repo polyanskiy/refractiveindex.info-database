@@ -10,7 +10,7 @@ REFERENCES: |
 COMMENTS: |
     Crystallographic b-axis. Experimental data.
 CONDITIONS:
-    direction: b
+    optical_component: b
 DATA:
   - type: tabulated nk
     data: | 

@@ -10,7 +10,7 @@ COMMENTS: |
     n<sub>c</sub>; 24.5 °C (see the original publication for temperature-dependent dispersion formula).
 CONDITIONS:
     temperature: 277.65
-    direction: c
+    optical_component: c
 DATA:
   - type: formula 4
     wavelength_range: 0.450 1.551

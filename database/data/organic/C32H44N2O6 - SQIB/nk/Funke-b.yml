@@ -10,7 +10,7 @@ REFERENCES: |
 COMMENTS: |
     n<sub>b</sub>, k<sub>b</sub> (b-axis).
 CONDITIONS:
-    direction: b
+    optical_component: b
 DATA:
   - type: tabulated nk
     data: |

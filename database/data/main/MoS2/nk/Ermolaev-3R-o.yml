@@ -12,7 +12,7 @@ COMMENTS: |
     Crystallographic ab-axis (in-plane, ordinary).
     Measured by spectroscopic ellipsometry.
 CONDITIONS:
-    direction: ab
+    optical_component: o
 DATA:
   - type: tabulated nk
     data: |

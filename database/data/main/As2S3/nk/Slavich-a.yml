@@ -10,7 +10,7 @@ REFERENCES: |
 COMMENTS: |
     Crystallographic a-axis.
 CONDITIONS:
-    direction: a
+    optical_component: a
 DATA:
   - type: tabulated n
     data: |

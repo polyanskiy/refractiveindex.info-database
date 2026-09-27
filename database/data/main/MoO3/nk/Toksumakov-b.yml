@@ -10,7 +10,7 @@ REFERENCES: |
 COMMENTS: |
     α-MoO<sub>3</sub>. Crystallographic b-axis.
 CONDITIONS:
-    direction: b
+    optical_component: b
 DATA:
   - type: tabulated nk
     data: |

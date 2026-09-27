@@ -10,7 +10,7 @@ REFERENCES: |
 COMMENTS: |
     n<sub>a</sub>, k<sub>a</sub>; room temperature.
 CONDITIONS:
-    direction: a
+    optical_component: a
 DATA:
   - type: tabulated nk
     data: |

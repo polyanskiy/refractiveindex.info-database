@@ -10,7 +10,7 @@ REFERENCES: |
 COMMENTS: |
     Crystallographic b-axis.
 CONDITIONS:
-    direction: b
+    optical_component: b
 DATA:
   - type: tabulated n
     data: |

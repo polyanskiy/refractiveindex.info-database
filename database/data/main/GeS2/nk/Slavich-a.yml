@@ -10,7 +10,7 @@ REFERENCES: |
 COMMENTS: |
     Crystallographic a-axis. Experimental data.
 CONDITIONS:
-    direction: a
+    optical_component: a
 DATA:
   - type: tabulated nk
     data: | 

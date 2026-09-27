@@ -10,7 +10,7 @@ REFERENCES: |
 COMMENTS: |
     Crystallographic c-axis. Ab initio calculations.
 CONDITIONS:
-    direction: c
+    optical_component: c
 DATA:
   - type: tabulated nk
     data: |

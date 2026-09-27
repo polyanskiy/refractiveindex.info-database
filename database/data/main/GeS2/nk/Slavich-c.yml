@@ -10,7 +10,7 @@ REFERENCES: |
 COMMENTS: |
     Crystallographic c-axis. Experimental data.
 CONDITIONS:
-    direction: c
+    optical_component: c
 DATA:
   - type: tabulated n
     data: | 
