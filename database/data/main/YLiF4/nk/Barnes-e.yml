@@ -7,9 +7,9 @@ REFERENCES: |
     Temperature variation of the refractive indices of yttrium lithium fluoride.
     [*J. Opt. Soc. Am.* **70**, 1244-1247 (1980)](https://doi.org/10.1364/JOSA.70.001244)
 COMMENTS: |
-    Room temperature. Extraordinary ray (e).
+    Room temperature. Extraordinary optical constants (e).
 CONDITIONS:
-    direction: e
+    optical_component: e
 DATA:
   - type: formula 2
     wavelength_range: 0.225 2.6

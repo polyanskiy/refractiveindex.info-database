@@ -8,9 +8,9 @@ REFERENCES: |
     [*Mater. Horiz.*, **10**, 2427-2435 (2023)](https://doi.org/10.1039/D3MH00215B)
     (Numerical data kindly provided by Georgy Ermolaev)
 COMMENTS: |
-    Hexagonal boron nitride (hBN). DFT calculations. Extraordinary ray (e).
+    Hexagonal boron nitride (hBN). DFT calculations. Extraordinary optical constants (e).
 CONDITIONS:
-    direction: e
+    optical_component: e
 DATA:
   - type: tabulated nk
     data: |

@@ -7,9 +7,9 @@ REFERENCES: |
     Optical properties and potential applications of ɛ-GaSe at terahertz frequencies.
     [*J. Opt. Soc. Am. B* **26**, A58-A65 (2009)](https://doi.org/10.1364/JOSAB.26.000A58)
 COMMENTS: |
-    Ordinary ray (o)
+    Ordinary optical constants (o)
 CONDITIONS:
-    direction: o
+    optical_component: o
 DATA:
   - type: formula 4
     wavelength_range: 3 1500

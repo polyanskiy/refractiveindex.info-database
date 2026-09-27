@@ -7,12 +7,11 @@ REFERENCES: |
     Nonlinear refractive properties of Yb3+-doped KY(WO<sub>4</sub>)<sub>2</sub> and YVO<sub>4</sub> laser crystals.
     [*Appl. Phys. B* **83**, 61 (2006)](https://doi.org/10.1007/s00340-005-2098-5)
 COMMENTS: |
-    n<sub>2γ</sub> (E∥N<sub>g</sub>). 100 fs. Z-scan.
+    E∥N<sub>m</sub>. 100 fs. Z-scan.
 CONDITIONS:
     n2_method: Z-scan
     pulse_duration: 100e-15
-    direction: gamma
 DATA:
   - type: tabulated n2
     data: |
-        1.08 1.2e-19
+        1.08 1.1e-19

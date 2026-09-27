@@ -8,9 +8,9 @@ REFERENCES: |
     [*Mater. Horiz.*, **10**, 2427-2435 (2023)](https://doi.org/10.1039/D3MH00215B)
     (Numerical data kindly provided by Georgy Ermolaev)
 COMMENTS: |
-    Hexagonal boron nitride (hBN). Experimental data. Ordinary ray (o).
+    Hexagonal boron nitride (hBN). Experimental data. Ordinary optical constants (o).
 CONDITIONS:
-    direction: o
+    optical_component: o
 DATA:
   - type: tabulated n
     data: |

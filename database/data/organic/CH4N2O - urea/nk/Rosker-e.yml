@@ -7,9 +7,9 @@ REFERENCES: |
     Practical urea optical parametric oscillator for tunable generation throughout the visible and near-infrared.
     [*IEEE J. Quantum Electron.* **21** 1600-1606 (1985)](https://doi.org/10.1109/JQE.1985.1072557)
 COMMENTS: |
-    Room temperature. Extraordinary ray (e).
+    Room temperature. Extraordinary optical constants (e).
 CONDITIONS:
-    direction: e
+    optical_component: e
 DATA:
   - type: formula 9
     wavelength_range: 0.3 1.06

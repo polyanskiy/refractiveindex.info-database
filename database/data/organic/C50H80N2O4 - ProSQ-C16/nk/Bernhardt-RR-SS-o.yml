@@ -9,9 +9,9 @@ REFERENCES: |
     (Numerical data kindly provided by Manuela Schiek)
 COMMENTS: |
     Enantiomerically pure (R,R)-ProSQ-C16 or (S,S)-ProSQ-C16 (both have the same complex refractive index).
-    Ordinary ray (o).
+    Ordinary optical constants (o).
 CONDITIONS:
-    direction: o
+    optical_component: o
 DATA:
   - type: tabulated nk
     data: |

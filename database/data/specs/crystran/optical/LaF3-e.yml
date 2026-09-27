@@ -12,9 +12,9 @@ REFERENCES: |
     Crystran LaF<sub>3</sub> online data sheet
     </a>
 COMMENTS: |
-    Optical data are for extraordinary ray (e).
+    Extraordinary optical constants (e).
 CONDITIONS:
-    direction: e
+    optical_component: e
 DATA:
   - type: tabulated n
     data: |

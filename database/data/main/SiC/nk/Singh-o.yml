@@ -8,9 +8,9 @@ REFERENCES: |
     [*Appl. Phys. Lett.* **19**, 53 (1971)](https://doi.org/10.1063/1.1653819)<br>
     (fit of the experimental data with Sellmeier dispersion formula: refractiveindex.info)
 COMMENTS: |
-    α-SiC (hexagonal crystal structure); Ordinary ray (o); Room temperature.
+    α-SiC (hexagonal crystal structure); Ordinary optical constants (o); Room temperature.
 CONDITIONS:
-    direction: o
+    optical_component: o
 DATA:
   - type: formula 2
     wavelength_range: 0.488 1.064

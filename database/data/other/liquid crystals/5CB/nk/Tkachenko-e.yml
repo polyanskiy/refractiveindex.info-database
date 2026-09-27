@@ -5,9 +5,9 @@
 REFERENCES: |
     V. Tkachenko, G. Abbate, A. Marino, F. Vita, M. Giocondo,  A. Mazzulla, F. Ciuchi,  L. De Stefano. Nematic liquid crystal optical dispersion in the visible-near infrared range, [*Mol. Cryst. Liq. Cryst.* **454**, 263/[665]-271/[673] (2006)](https://doi.org/10.1080/15421400600655816)
 COMMENTS: |
-    Extraordinary ray (e).
+    Extraordinary optical constants (e).
 CONDITIONS:
-    direction: e
+    optical_component: e
 DATA:
   - type: formula 5
     wavelength_range: 0.532 1.7

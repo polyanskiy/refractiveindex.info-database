@@ -8,9 +8,9 @@ REFERENCES: |
     [*J. Opt. Soc. Am. B* **26**, A58-A65 (2009)](https://doi.org/10.1364/JOSAB.26.000A58)<br>
     [[Calculation script (Python)](https://github.com/polyanskiy/refractiveindex.info-scripts/blob/main/scripts/Chen%202009%20-%20GaSe-o.py)]
 COMMENTS: |
-    Ordinary ray (o)
+    Ordinary optical constants (o)
 CONDITIONS:
-    direction: o
+    optical_component: o
 DATA:
   - type: tabulated nk
     data: |

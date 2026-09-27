@@ -11,10 +11,10 @@ REFERENCES: |
     in Handbook of Laser Science and Technology, Volume IV, Optical Materials: Part 2, CRC Press, Boca Raton, 1986, p. 30<br>
     * Ref. 1 is a talk abstract in a conference program; Ref. 2 provides a dispersion formula
 COMMENTS: |
-    Synthetic sapphire, Ordinary ray (o), 20 °C
+    Synthetic sapphire, Ordinary optical constants (o), 20 °C
 CONDITIONS:
     temperature: 293
-    direction: o
+    optical_component: o
 DATA:
   - type: formula 1
     wavelength_range: 0.20 5.0

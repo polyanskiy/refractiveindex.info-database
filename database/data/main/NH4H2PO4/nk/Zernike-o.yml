@@ -8,10 +8,10 @@ REFERENCES: |
     [*J. Opt. Soc. Am.* **54**, 1215-1219 (1964)](https://doi.org/10.1364/JOSA.54.001215).
     As cited in Handbook of Optics, 3rd edition, Vol. 4. McGraw-Hill 2009.
 COMMENTS: |
-    24.8 °C. Ordinary ray (o).
+    24.8 °C. Ordinary optical constants (o).
 CONDITIONS:
     temperature: 297.95
-    direction: o
+    optical_component: o
 DATA:
   - type: formula 4
     wavelength_range: 0.2138 1.529

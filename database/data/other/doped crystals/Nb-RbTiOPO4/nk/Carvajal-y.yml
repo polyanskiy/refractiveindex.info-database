@@ -10,7 +10,7 @@ COMMENTS: |
     Rb<sub>0.955</sub>Ti<sub>0.955</sub>Nb<sub>0.045</sub>OPO<sub>4</sub>; n<sub>y</sub>; 293 K (20 °C).
 CONDITIONS:
     temperature: 293
-    direction: y
+    optical_component: y
 DATA:
   - type: formula 4
     wavelength_range: 0.4 1.5

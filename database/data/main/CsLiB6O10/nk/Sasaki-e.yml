@@ -7,9 +7,9 @@ REFERENCES: |
     Progress in the growth of a CsLiB<sub>6</sub>O<sub>10</sub> crystal and its application to ultraviolet light generation.
     [*Opt. Mat.* **23**, 343-351 (2003)](https://doi.org/10.1016/S0925-3467(02)00316-6)
 COMMENTS: |
-    Extraordinary ray (e). Room temperature.
+    Extraordinary optical constants (e). Room temperature.
 CONDITIONS:
-    direction: e
+    optical_component: e
 DATA:
   - type: formula 4
     wavelength_range: 0.19 2.75

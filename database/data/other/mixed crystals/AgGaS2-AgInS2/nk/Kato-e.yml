@@ -7,9 +7,9 @@ REFERENCES: |
     Phase-matching properties of AgGa<sub>0.86</sub>In<sub>0.14</sub>S<sub>2</sub> for three-wave interactions in the 0.615−10.5910 μm spectral range.
     [*Opt. Mater. Express*, **11**, 2800–2805 (2021)](https://doi.org/10.1364/OME.428688)
 COMMENTS: |
-    AgGa<sub>0.86</sub>In<sub>0.14</sub>S<sub>2</sub>. Extraordinary ray (e). Room temperature.
+    AgGa<sub>0.86</sub>In<sub>0.14</sub>S<sub>2</sub>. Extraordinary optical constants (e). Room temperature.
 CONDITIONS:
-    direction: e
+    optical_component: e
 DATA:
   - type: formula 4
     wavelength_range: 0.565 10.6

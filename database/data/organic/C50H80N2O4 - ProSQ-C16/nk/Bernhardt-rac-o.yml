@@ -9,9 +9,9 @@ REFERENCES: |
     (Numerical data kindly provided by Manuela Schiek)
 COMMENTS: |
     Racemic mixture rac-ProSQ-C16.
-    Ordinary ray (o).
+    Ordinary optical constants (o).
 CONDITIONS:
-    direction: o
+    optical_component: o
 DATA:
   - type: tabulated nk
     data: |

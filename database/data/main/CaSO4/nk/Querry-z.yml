@@ -7,7 +7,7 @@ REFERENCES: |
 COMMENTS: |
     E ∥ z.
 CONDITIONS:
-    direction: z
+    optical_component: z
 DATA:
   - type: tabulated nk
     data: |

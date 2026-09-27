@@ -11,7 +11,7 @@ COMMENTS: |
 CONDITIONS:
     n2_method: FI
     pulse_duration: 170e-15 190e-15
-    direction: o
+    optical_component: o
 DATA:
   - type: tabulated n2
     data: |

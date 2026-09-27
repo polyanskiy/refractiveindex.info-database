@@ -7,9 +7,9 @@ REFERENCES: |
     Accurate second-order susceptibility measurements of visible and infrared nonlinear crystals.
     [*Phys. Rev. B* **14**, 1693-1706 (1976)](https://doi.org/10.1103/PhysRevB.14.1693).
 COMMENTS: |
-    Room temperature. Extraordinary ray (e).
+    Room temperature. Extraordinary optical constants (e).
 CONDITIONS:
-    direction: e
+    optical_component: e
 DATA:
   - type: formula 2
     wavelength_range: 0.5461 5

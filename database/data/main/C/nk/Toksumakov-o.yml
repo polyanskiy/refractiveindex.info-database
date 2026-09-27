@@ -10,7 +10,7 @@ REFERENCES: |
 COMMENTS: |
     Ordinary (o) direction, parallel to the graphene basal plane; equivalent to the crystallographic *a* and *b* directions.
 CONDITIONS:
-    direction: o
+    optical_component: o
 DATA:
   - type: tabulated nk
     data: |

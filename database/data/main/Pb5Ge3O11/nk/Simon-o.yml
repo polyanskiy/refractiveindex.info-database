@@ -7,10 +7,10 @@ REFERENCES: |
     Refractive indices of photorefractive bismuth titanate, barium-calcium titanate, bismuth germanium oxide, and lead germanate.
     [*Phys. Stat. Sol.* **159**, 559-562 (1997)](https://doi.org/10.1002/1521-396X(199702)159:2<559::AID-PSSA559>3.0.CO;2-0)
 COMMENTS: |
-    Ordinary ray (o). 21 °C.
+    Ordinary optical constants (o). 21 °C.
 CONDITIONS:
     temperature: 294
-    direction: o
+    optical_component: o
 DATA:
   - type: formula 4
     wavelength_range: 0.45 0.70

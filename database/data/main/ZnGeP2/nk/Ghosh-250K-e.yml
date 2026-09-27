@@ -10,7 +10,7 @@ COMMENTS: |
     Critical analysis of experimental data from multiple sources.
 CONDITIONS:
     temperature: 250
-    direction: e
+    optical_component: e
 DATA:
   - type: formula 2
     wavelength_range: 0.7 12

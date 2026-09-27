@@ -7,10 +7,10 @@ REFERENCES: |
     Synthetic proustite (Ag<sub>3</sub>AsS<sub>3</sub>): a new crystal for optical mixing.
     [*Appl. Phys. Lett.* **10**, 133-135 (1967)](https://doi.org/10.1063/1.1754880)
 COMMENTS: |
-    Extraordinary ray (e), 20 °C
+    Extraordinary optical constants (e), 20 °C
 CONDITIONS:
     temperature: 293
-    direction: e
+    optical_component: e
 DATA:
   - type: formula 4
     wavelength_range: 0.59 4.6

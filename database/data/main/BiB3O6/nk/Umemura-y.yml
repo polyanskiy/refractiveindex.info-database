@@ -8,7 +8,7 @@ COMMENTS: |
     n<sub>y</sub>; 20 °C.
 CONDITIONS:
     temperature: 293
-    direction: y
+    optical_component: y
 DATA:
   - type: formula 4
     wavelength_range: 0.48 3.1

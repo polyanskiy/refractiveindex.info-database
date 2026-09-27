@@ -7,11 +7,11 @@ REFERENCES: |
     Infrared to ultraviolet measurements of two-photon absorption and n<sub>2</sub> in wide bandgap solids.
     [*IEEE J. Quantum Electron.* **32**, 1324 (1996)](https://doi.org/10.1109/3.511545)
 COMMENTS: |
-    Ordinary ray (o). 15 ps @ 266 nm, 17 ps @ 355 nm, 22 ps @ 532 nm, 30 ps @ 1064 nm. Z-scan.
+    Ordinary optical constants (o). 15 ps @ 266 nm, 17 ps @ 355 nm, 22 ps @ 532 nm, 30 ps @ 1064 nm. Z-scan.
 CONDITIONS:
     n2_method: Z-scan
     pulse_duration: 15e-12 17e-12 22e-12 30e-12
-    direction: o
+    optical_component: o
 DATA:
   - type: tabulated n2
     data: |

@@ -9,7 +9,7 @@ REFERENCES: |
 COMMENTS: |
     n<sub>z</sub>; room temperature.
 CONDITIONS:
-    direction: z
+    optical_component: z
 DATA:
   - type: formula 4
     wavelength_range: 0.48 10.4

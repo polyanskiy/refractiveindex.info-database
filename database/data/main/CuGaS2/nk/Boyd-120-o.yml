@@ -10,10 +10,10 @@ REFERENCES: |
     [*J. Opt. Soc. Am.* **69**, 730-733 (1979)](https://doi.org/10.1364/JOSA.69.000730)<br>
     * Ref. 2 provides a dispersion formula based on data from Ref. 1
 COMMENTS: |
-    Ordinary ray (o); 120 °C
+    Ordinary optical constants (o); 120 °C
 CONDITIONS:
     temperature: 393
-    direction: o
+    optical_component: o
 DATA:
   - type: formula 2
     wavelength_range: 0.55 11.5

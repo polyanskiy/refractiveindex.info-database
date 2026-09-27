@@ -7,9 +7,9 @@ REFERENCES: |
     Optical, mechanical, and thermal properties of barium borate.
     [*J. Appl. Phys.*, **62**, 1968-1983 (1987)](https://doi.org/10.1063/1.339536)
 COMMENTS: |
-    Beta barium borate (ß-BaB<sub>2</sub>O<sub>4</sub>, BBO). Ordinary ray (o).
+    Beta barium borate (ß-BaB<sub>2</sub>O<sub>4</sub>, BBO). Ordinary optical constants (o).
 CONDITIONS:
-    direction: o
+    optical_component: o
 DATA:
   - type: formula 4
     wavelength_range: 0.22 1.06

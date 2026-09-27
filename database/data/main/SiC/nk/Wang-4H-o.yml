@@ -7,9 +7,9 @@ REFERENCES: |
     4H-SiC: A new nonlinear material for midinfrared lasers.
     [*Laser Photonics Rev.* **7**, 831–838 (2013)](https://doi.org/10.1002/lpor.201300068)
 COMMENTS: |
-    4H-SiC (hexagonal crystal structure); Ordinary ray (o)
+    4H-SiC (hexagonal crystal structure); Ordinary optical constants (o)
 CONDITIONS:
-    direction: o
+    optical_component: o
 DATA:
   - type: formula 2
     wavelength_range: 0.4047 5

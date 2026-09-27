@@ -7,10 +7,10 @@ REFERENCES: |
     Refractive index dispersions of liquid crystals.
     [*Opt. Eng.* **32**, 1775-1780 (1993)](https://doi.org/10.1117/12.143988)
 COMMENTS: |
-    34.8 °C. Extraordinary ray (e).
+    34.8 °C. Extraordinary optical constants (e).
 CONDITIONS:
     temperature: 307.95
-    direction: e
+    optical_component: e
 DATA:
   - type: formula 6
     wavelength_range: 0.4 0.8

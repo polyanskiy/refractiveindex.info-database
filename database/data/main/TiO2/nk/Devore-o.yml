@@ -7,9 +7,9 @@ REFERENCES: |
     Refractive indices of rutile and sphalerite.
     [*J. Opt. Soc. Am.* **41**, 416-419 (1951)](https://doi.org/10.1364/JOSA.41.000416)
 COMMENTS: |
-    Ordinary ray (o); Room temperature.
+    Ordinary optical constants (o); Room temperature.
 CONDITIONS:
-    direction: o
+    optical_component: o
 DATA:
   - type: formula 4
     wavelength_range: 0.43 1.53

@@ -15,7 +15,7 @@ COMMENTS: |
     Single-crystalline hexagonal GaN (α-GaN) film on (0001) sapphire substrate. Ordinary ray (o, E⊥c). Room temperature.
 CONDITIONS:
     substrate: sapphire
-    direction: o
+    optical_component: o
 DATA:
   - type: tabulated nk
     data: |

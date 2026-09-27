@@ -7,10 +7,10 @@ REFERENCES: |
     Refractive properties of magnesium fluoride.
     [*Appl. Opt.* **23**, 1980-1985 (1984)](https://doi.org/10.1364/AO.23.001980)
 COMMENTS: |
-    19 °C. Extraordinary ray (e).
+    19 °C. Extraordinary optical constants (e).
 CONDITIONS:
     temperature: 292
-    direction: e
+    optical_component: e
 DATA:
   - type: formula 1
     wavelength_range: 0.2 7.0

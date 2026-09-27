@@ -8,7 +8,7 @@ COMMENTS: |
     Single-crystal selenium; 23 °C; Extraordinary ray.
 CONDITIONS:
     temperature: 298
-    direction: e
+    optical_component: e
 DATA:
   - type: tabulated n
     data: |

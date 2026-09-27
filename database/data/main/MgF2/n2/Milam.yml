@@ -7,11 +7,11 @@ REFERENCES: |
     Nonlinear refractive index of fluoride crystals.
     [*Appl. Phys. Lett.* **31**, 822 (1977)](https://doi.org/10.1063/1.89561)
 COMMENTS: |
-    Ordinary ray (o). 125 ps. Time-resolved interferometry.
+    Ordinary optical constants (o). 125 ps. Time-resolved interferometry.
 CONDITIONS:
     n2_method: TRI
     pulse_duration: 125e-12
-    direction: o
+    optical_component: o
 DATA:
   - type: tabulated n2
     data: |

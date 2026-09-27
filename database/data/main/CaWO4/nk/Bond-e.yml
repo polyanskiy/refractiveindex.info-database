@@ -9,9 +9,9 @@ REFERENCES: |
     2) Handbook of Optics, 3rd edition, Vol. 4. McGraw-Hill 2009</br>
     * Ref. 2 provides a dispersion formula based on data from ref. 1
 COMMENTS: |
-    Extraordinary ray (e). Room temperature.
+    Extraordinary optical constants (e). Room temperature.
 CONDITIONS:
-    direction: e
+    optical_component: e
 DATA:
   - type: formula 1
     wavelength_range: 0.45 4.0

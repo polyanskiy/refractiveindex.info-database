@@ -26,9 +26,9 @@ COMMENTS: |
     WEBLINKS:<br>
     [http://webmineral.com/data/Calcite.shtml](http://webmineral.com/data/Calcite.shtml) - Has further information regarding Calcite.<br>
     <br>
-    Optical data are for ordinary ray (o).
+    Ordinary optical constants (o).
 CONDITIONS:
-    direction: o
+    optical_component: o
 DATA:
   - type: tabulated n
     data: |

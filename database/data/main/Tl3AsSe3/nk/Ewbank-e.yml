@@ -7,9 +7,9 @@ REFERENCES: |
     The temperature dependence of optical and mechanical properties of Tl<sub>3</sub>AsSe<sub>3</sub>.
     [*J. Appl. Phys.* **51**, 3848-3852  (1980)](https://doi.org/10.1063/1.328128)
 COMMENTS: |
-    Extraordinary ray (e)
+    Extraordinary optical constants (e)
 CONDITIONS:
-    direction: e
+    optical_component: e
 DATA:
   - type: formula 1
     wavelength_range: 2 12

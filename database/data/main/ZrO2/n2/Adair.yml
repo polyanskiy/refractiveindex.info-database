@@ -7,11 +7,11 @@ REFERENCES: |
     Nonlinear refractive index of optical crystals.
     [*Phys. Rev. B* **39**, 3337 (1989)](https://doi.org/10.1103/PhysRevB.39.3337)
 COMMENTS: |
-    Ordinary ray (o) - according to n given in the paper. 3 ns. Three-wave mixing.
+    Ordinary optical constants (o) - according to n given in the paper. 3 ns. Three-wave mixing.
 CONDITIONS:
     n2_method: TWM
     pulse_duration: 3e-9
-    direction: o
+    optical_component: o
 DATA:
   - type: tabulated n2
     data: |

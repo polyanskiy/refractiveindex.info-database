@@ -7,10 +7,10 @@ REFERENCES: |
     Infrared corrected Sellmeier coefficients for congruently grown lithium niobate and 5 mol.% magnesium oxide-doped lithium niobate.
     [*J. Opt. Soc. Am. B* **14**, 3319-3322 (1997)](https://doi.org/10.1364/JOSAB.14.003319)
 COMMENTS: |
-    21 °C. Extraordinary ray (e). Congruently grown lithium niobate (CLN).
+    21 °C. Extraordinary optical constants (e). Congruently grown lithium niobate (CLN).
 CONDITIONS:
     temperature: 294
-    direction: e
+    optical_component: e
 DATA:
   - type: formula 2
     wavelength_range: 0.4 5.0

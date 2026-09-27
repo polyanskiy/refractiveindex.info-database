@@ -7,9 +7,9 @@ REFERENCES: |
     Refraction index measurements on AlN single crystals.
     [*Phys. Stat. Sol.* **14**, K5-K8 (1966)](https://doi.org/10.1002/pssb.19660140127)
 COMMENTS: |
-    Extraordinary ray (e).
+    Extraordinary optical constants (e).
 CONDITIONS:
-    direction: e
+    optical_component: e
 DATA:
   - type: formula 1
     wavelength_range: 0.22 5.0

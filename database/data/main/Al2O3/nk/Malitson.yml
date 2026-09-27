@@ -7,10 +7,10 @@ REFERENCES: |
     Refraction and dispersion of synthetic sapphire.
     [*J. Opt. Soc. Am.* **52**, 1377-1379 (1962)](https://doi.org/10.1364/JOSA.52.001377)
 COMMENTS: |
-    Synthetic sapphire, Ordinary ray (o), 24 °C
+    Synthetic sapphire, Ordinary optical constants (o), 24 °C
 CONDITIONS:
     temperature: 297
-    direction: o
+    optical_component: o
 DATA:
   - type: formula 1
     wavelength_range: 0.2652 5.577

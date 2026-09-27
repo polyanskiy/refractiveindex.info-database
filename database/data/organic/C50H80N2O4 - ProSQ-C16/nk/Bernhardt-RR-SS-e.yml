@@ -9,9 +9,9 @@ REFERENCES: |
     (Numerical data kindly provided by Manuela Schiek)
 COMMENTS: |
     Enantiomerically pure (R,R)-ProSQ-C16 or (S,S)-ProSQ-C16 (both have the same complex refractive index).
-    Extraordinary ray (e).
+    Extraordinary optical constants (e).
 CONDITIONS:
-    direction: e
+    optical_component: e
 DATA:
   - type: tabulated nk
     data: |

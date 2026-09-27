@@ -1,5 +1,8 @@
 ﻿============================== Next release ==============================
 
+  new data (thanks to Georgy Ermolaev, XPANCEO, Dubai, United Arab Emirates, for submitting data in YAML format!)
+    main/MoS2/Ermolaev-3R-o.yml
+    main/MoS2/Ermolaev-3R-e.yml
   new data (thanks to Emilie Ringe, University of Cambridge, United Kingdom, for submitting data in YAML format!)
 	main/Mg/nk/Pehlivan.yml
   new data (thanks to scojo202 for GitHub commit!)

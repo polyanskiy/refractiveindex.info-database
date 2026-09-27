@@ -7,9 +7,9 @@ REFERENCES: |
     Sellmeier equations, group velocity dispersion, and thermo-optic dispersion formulas for CaLnAlO<sub>4</sub> (Ln = Y, Gd) laser host crystals.
     [*Opt. Lett.*, **42**, 2275–2278 (2017)](https://doi.org/10.1364/OL.42.002275)
 COMMENTS: |
-    Extraordinary ray (e); room temperature.
+    Extraordinary optical constants (e); room temperature.
 CONDITIONS:
-    direction: e
+    optical_component: e
 DATA:
   - type: formula 4
     wavelength_range: 0.35 2.1

@@ -7,9 +7,9 @@ REFERENCES: |
     Optical analysis of the refractive index and birefringence of hexagonal boron nitride from the visible to near-infrared.
     [*Opt. Lett.*, **44**, 3797-3800 (2019)](https://doi.org/10.1364/OL.44.003797)    
 COMMENTS: |
-    Hexagonal boron nitride (hBN). Mechanically exfoliated, few-hundred-nm-thick h-BN flakes on a Si substrate. Ordinary ray (o).
+    Hexagonal boron nitride (hBN). Mechanically exfoliated, few-hundred-nm-thick h-BN flakes on a Si substrate. Ordinary optical constants (o).
 CONDITIONS:
-    direction: o
+    optical_component: o
 DATA:
   - type: formula 2
     wavelength_range: 0.4 1.6

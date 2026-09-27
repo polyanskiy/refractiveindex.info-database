@@ -12,7 +12,7 @@ COMMENTS: |
 CONDITIONS:
     film_thickness: 33.5e-9
     substrate: SiO2/Si
-    direction: e
+    optical_component: e
 DATA:
   - type: tabulated n
     data: |

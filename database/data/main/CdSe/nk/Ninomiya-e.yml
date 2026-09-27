@@ -10,9 +10,9 @@ REFERENCES: |
 COMMENTS: |
     Hexagonal CdSe.
     Fit of author's experimental data to a simplified model of the interband transitions (MDF).
-    Extraordinary ray (e), room temperature.
+    Extraordinary optical constants (e), room temperature.
 CONDITIONS:
-    direction: e
+    optical_component: e
 DATA:
   - type: tabulated nk
     data: |

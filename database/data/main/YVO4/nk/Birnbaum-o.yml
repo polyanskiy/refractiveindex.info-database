@@ -11,9 +11,9 @@ REFERENCES: |
     [*J. Appl. Phys.* **49**, 5517-5522 (1978)](https://doi.org/10.1063/1.324471)<br>
     * Ref. 2 provides a dispersion formula based on data from Ref. 1
 COMMENTS: |
-    Ordinary ray (o)
+    Ordinary optical constants (o)
 CONDITIONS:
-    direction: o
+    optical_component: o
 DATA:
   - type: formula 2
     wavelength_range: 0.488 3.39

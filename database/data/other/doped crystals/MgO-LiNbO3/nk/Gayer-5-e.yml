@@ -8,10 +8,10 @@ REFERENCES: |
     [*Appl. Phys. B* **91**, 343-348 (2008)](https://doi.org/10.1007/s00340-008-2998-2).
     Also see [Erratum](https://doi.org/10.1007/s00340-008-3316-8).
 COMMENTS: |
-    24.5 °C. Extraordinary ray (e). Congruently grown lithium niobate (CLN) doped with 5 mol. % MgO. See the original publication for temperature-dependent refractive index equations.
+    24.5 °C. Extraordinary optical constants (e). Congruently grown lithium niobate (CLN) doped with 5 mol. % MgO. See the original publication for temperature-dependent refractive index equations.
 CONDITIONS:
     temperature: 297.65
-    direction: e
+    optical_component: e
 DATA:
   - type: formula 4
     wavelength_range: 0.5 4.0

@@ -9,8 +9,6 @@ REFERENCES: |
     (Numerical data kindly provided by Tomasz Antosiewicz)
 COMMENTS: |
     Multilayer flakes. n<sub>yy</sub>, k<sub>yy</sub>. Room temperature.
-CONDITIONS:
-    direction: yy
 DATA:
   - type: tabulated nk
     data: |

@@ -11,10 +11,10 @@ REFERENCES: |
     [*Appl. Opt.* **24**, 1147-1150 (1985)](https://doi.org/10.1364/AO.24.001147)</br>
     * Ref. 2 provides a dispersion formula based on data from ref. 1
 COMMENTS: |
-    Extraordinary ray (e). 25 °C.
+    Extraordinary optical constants (e). 25 °C.
 CONDITIONS:
     temperature: 198
-    direction: e
+    optical_component: e
 DATA:
   - type: formula 4
     wavelength_range: 0.51 1.4

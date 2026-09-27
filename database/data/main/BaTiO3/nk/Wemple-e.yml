@@ -7,9 +7,9 @@ REFERENCES: |
     Dielectric and optical properties of melt-grown BaTiO<sub>3</sub>.
     [*J. Phys. Chem. Solids* **29**, 1797-1803 (1968)](https://doi.org/10.1016/0022-3697(68)90164-9)
 COMMENTS: |
-    Extraordinary ray (e). Room temperature
+    Extraordinary optical constants (e). Room temperature
 CONDITIONS:
-    direction: e
+    optical_component: e
 DATA:
   - type: formula 1
     wavelength_range: 0.4 0.7

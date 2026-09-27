@@ -7,10 +7,10 @@ REFERENCES: |
     Refined Sellmeier equations for AgGaSe<sub>2</sub> up to 18 µm.
     [*Appl. Opt.*, **60**, 805–808 (2021)](https://doi.org/10.1364/AO.401828)
 COMMENTS: |
-    Extraordinary ray (e). 20–22 °C.
+    Extraordinary optical constants (e). 20–22 °C.
 CONDITIONS:
     temperature: 294
-    direction: e
+    optical_component: e
 DATA:
   - type: formula 4
     wavelength_range: 0.81 18

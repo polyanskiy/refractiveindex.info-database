@@ -7,9 +7,9 @@ REFERENCES: |
     Nonlinear optical properties of ferroelectric lead titanate.
     [*Appl. Phys. Lett.* **20**, 135, 1972](https://doi.org/10.1063/1.1654078)
 COMMENTS: |
-    Extraordinary ray (e)
+    Extraordinary optical constants (e)
 CONDITIONS:
-    direction: e
+    optical_component: e
 DATA:
   - type: formula 2
     wavelength_range: 0.45 1.15

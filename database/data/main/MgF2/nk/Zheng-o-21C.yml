@@ -8,10 +8,10 @@ REFERENCES: |
     [*Opt. Mater. Express* **13**, 2380–2391 (2023)](https://doi.org/10.1364/OME.496246)
     (See Supplementary materials)
 COMMENTS: |
-    Ordinary ray (o). 21.1 °C. The supplementary materials of the original publication contain coefficients of the Sellmeier formula for multiple temperatures in the range of 21 °C to 368 °C.
+    Ordinary optical constants (o). 21.1 °C. The supplementary materials of the original publication contain coefficients of the Sellmeier formula for multiple temperatures in the range of 21 °C to 368 °C.
 CONDITIONS:
     temperature: 294.25
-    direction: o
+    optical_component: o
 DATA:
   - type: formula 1
     wavelength_range: 0.22 1.7

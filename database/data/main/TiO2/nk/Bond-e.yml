@@ -7,9 +7,9 @@ REFERENCES: |
     Measurement of the refractive indices of several crystals.
     [*J. Appl. Phys.* **36**, 1674-1677 (1965)](https://doi.org/10.1063/1.1703106)
 COMMENTS: |
-    Extraordinary ray (e); Room temperature.
+    Extraordinary optical constants (e); Room temperature.
 CONDITIONS:
-    direction: e
+    optical_component: e
 DATA:
   - type: tabulated n
     data: |

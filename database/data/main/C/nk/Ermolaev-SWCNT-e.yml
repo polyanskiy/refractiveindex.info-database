@@ -8,11 +8,11 @@ REFERENCES: |
     [*Phys. Status Solidi RRL*, 2300199 (2023)](https://doi.org/10.1002/pssr.202300199)
     (Numerical data kindly provided by Georgy Ermolaev)
 COMMENTS: |
-    Monolayer of aligned single-walled carbon nanotubes (SWCNTs). Extraordinary ray (e).
+    Monolayer of aligned single-walled carbon nanotubes (SWCNTs). Extraordinary optical constants (e).
 CONDITIONS:
     substrate: SiO2
     film_thickness: 1L
-    direction: e
+    optical_component: e
 DATA:
   - type: tabulated nk
     data: |

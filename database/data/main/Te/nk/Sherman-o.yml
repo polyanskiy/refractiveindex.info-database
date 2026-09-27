@@ -11,7 +11,7 @@ REFERENCES: |
 COMMENTS: |
     Ordinary ray
 CONDITIONS:
-    direction: o
+    optical_component: o
 DATA:
   - type: formula 2
     wavelength_range: 8.5 30.3

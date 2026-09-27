@@ -10,7 +10,7 @@ REFERENCES: |
 COMMENTS: |
     Extraordinary (e) direction, normal to the graphene basal plane; equivalent to the crystallographic *c* direction.
 CONDITIONS:
-    direction: e
+    optical_component: e
 DATA:
   - type: tabulated nk
     data: |

@@ -7,9 +7,9 @@ REFERENCES: |
     Measurement of the refractive indices of several crystals.
     [*J. Appl. Phys.* **36**, 1674-1677 (1965)](https://doi.org/10.1063/1.1703106)
 COMMENTS: |
-    Ordinary ray (o); Room temperature.
+    Ordinary optical constants (o); Room temperature.
 CONDITIONS:
-    direction: o
+    optical_component: o
 DATA:
   - type: tabulated n
     data: |

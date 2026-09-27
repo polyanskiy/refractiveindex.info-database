@@ -7,9 +7,9 @@ REFERENCES: |
     Sellmeier equations for GaS and GaSe and their applications to the nonlinear optics in GaS<sub>x</sub>Se<sub>1−x</sub>.
     [*Opt. Lett.* **36**, 746-747 (2011)](https://doi.org/10.1364/OL.36.000746)
 COMMENTS: |
-    Room temperature. Extraordinary ray (e).
+    Room temperature. Extraordinary optical constants (e).
 CONDITIONS:
-    direction: e
+    optical_component: e
 DATA:
   - type: formula 4
     wavelength_range: 0.633 10.591

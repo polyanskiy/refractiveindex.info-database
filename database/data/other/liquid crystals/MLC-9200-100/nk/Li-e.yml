@@ -7,10 +7,10 @@ REFERENCES: |
     Refractive indices of liquid crystals for display applications.
     [*J. Disp. Technol.* **1**, 51-61, 2005](https://doi.org/10.1109/JDT.2005.853357)
 COMMENTS: |
-    25 °C. Extraordinary ray (e).
+    25 °C. Extraordinary optical constants (e).
 CONDITIONS:
     temperature: 298
-    direction: e
+    optical_component: e
 DATA:
   - type: formula 5
     wavelength_range: 0.450 0.656

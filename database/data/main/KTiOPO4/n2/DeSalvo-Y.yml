@@ -7,12 +7,11 @@ REFERENCES: |
     Infrared to ultraviolet measurements of two-photon absorption and n<sub>2</sub> in wide bandgap solids.
     [*IEEE J. Quantum Electron.* **32**, 1324 (1996)](https://doi.org/10.1109/3.511545)
 COMMENTS: |
-    E∥Z (γ). 22 ps. Z-scan.
+    E∥Y. 30 ps. Z-scan.
 CONDITIONS:
     n2_method: Z-scan
-    pulse_duration: 22e-12
-    direction: gamma
+    pulse_duration: 30e-12
 DATA:
   - type: tabulated n2
     data: |
-        0.532 2.17e-19
+        1.064 2.40e-19

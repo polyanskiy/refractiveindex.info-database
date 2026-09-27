@@ -7,10 +7,10 @@ REFERENCES: |
     Growth and optical properties of nonlinear LuAl<sub>3</sub>(BO<sub>3</sub>)<sub>4</sub> crystals.
     [*Opt. Express* **21**, 16415-16423 (2013)](https://doi.org/10.1364/OE.21.016415)
 COMMENTS: |
-    25 °C. Ordinary ray (o).
+    25 °C. Ordinary optical constants (o).
 CONDITIONS:
     temperature: 298
-    direction: o
+    optical_component: o
 DATA:
   - type: formula 4
     wavelength_range: 0.266 1.338

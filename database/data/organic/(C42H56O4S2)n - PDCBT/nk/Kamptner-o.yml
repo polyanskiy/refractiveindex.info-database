@@ -8,9 +8,9 @@ REFERENCES: |
     [*Chem. Phys. Chem.* e202400233 (2024)](https://doi.org/10.1002/cphc.202400233)
     (Numerical data kindly provided by Manuela Schiek)
 COMMENTS: |
-    Ordinary ray (o)
+    Ordinary optical constants (o)
 CONDITIONS:
-    direction: o
+    optical_component: o
 DATA:
   - type: tabulated nk
     data: |

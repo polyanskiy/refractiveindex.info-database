@@ -17,10 +17,11 @@ COMMENTS: |
     REFERENCES:<br>
     (1) Jones and Shand, J.Crys.Growth. 2 (1968) p3611<br>
     (2) Sher, Solomon, Lee, and Meuller. Phys.Rev. 144, p593 (1966)<br>
-    (3) Electronic Processes in Ionic Crystals (OU Press, NY, 1940) p.41
-    Optical data are for ordinary ray (o).
+    (3) Electronic Processes in Ionic Crystals (OU Press, NY, 1940) p.41<br>
+    <br>
+    Ordinary optical constants (o).
 CONDITIONS:
-    direction: o
+    optical_component: o
 DATA:
   - type: tabulated n
     data: |

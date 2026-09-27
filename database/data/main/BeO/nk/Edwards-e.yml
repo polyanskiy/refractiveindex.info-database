@@ -5,9 +5,9 @@
 REFERENCES: |
     D. F. Edwards and R. H. White, "Beryllium Oxide," in E. D. Palik (ed.), Handbook of Optical Constants of Solids II, Academic Press, Orlando, 1991, pp. 805-814.
 COMMENTS: |
-    Extraordinary ray (e). Room temperature
+    Extraordinary optical constants (e). Room temperature
 CONDITIONS:
-    direction: e
+    optical_component: e
 DATA:
   - type: formula 1
     wavelength_range: 0.44 7.0

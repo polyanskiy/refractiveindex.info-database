@@ -7,11 +7,11 @@ REFERENCES: |
     Nonlinear refractive index measurement by SPM-induced phase regression.
     [*Opt. Express* **27**, 11018 (2019)](https://doi.org/10.1364/OE.27.011018)
 COMMENTS: |
-    Ordinary ray (o). 210 fs. SPM-induced phase regression.
+    Ordinary optical constants (o). 210 fs. SPM-induced phase regression.
 CONDITIONS:
     n2_method: SPMIPR
     pulse_duration: 210e-15
-    direction: o
+    optical_component: o
 DATA:
   - type: tabulated n2
     data: |

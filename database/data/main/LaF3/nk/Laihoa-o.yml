@@ -8,9 +8,9 @@ REFERENCES: |
     [*Phil. Mag. B* **48**, 203-207 (1983)](https://doi.org/10.1080/13642818308226470) 
     (As cited in Handbook of Optics, 2nd edition, Vol. 2. McGraw-Hill 1994).
 COMMENTS: |
-    Ordinary ray (o)
+    Ordinary optical constants (o)
 CONDITIONS:
-    direction: o
+    optical_component: o
 DATA:
   - type: formula 1
     wavelength_range: 0.35 0.70

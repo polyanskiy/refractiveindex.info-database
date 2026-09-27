@@ -5,9 +5,9 @@
 REFERENCES: |
     M. R. Querry. Optical constants of minerals and other materials from the millimeter to the ultraviolet, [*Contractor Report* CRDEC-CR-88009 (1987)](https://apps.dtic.mil/sti/citations/ADA192210)
 COMMENTS: |
-    Ordinary ray (o).
+    Ordinary optical constants (o).
 CONDITIONS:
-    direction: o
+    optical_component: o
 DATA:
   - type: tabulated nk
     data: |

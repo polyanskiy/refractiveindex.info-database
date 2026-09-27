@@ -3,15 +3,15 @@
 # copyright and related rights waived via CC0 1.0
 
 REFERENCES: |
-    G. A. Ermolaev,  Yu. V. Stebunov, A. A. Vyshnevyy, D. E. Tatarkin,  D. I. Yakubovsky, S. M. Novikov,  D. G. Baranov, T. Shegai, A. Y. Nikitin,  A. V. Arsenin, V. S. Volkov.
+    G. A. Ermolaev,  Yu. V. Stebunov, A. A. Vyshnevyy, D. E. Tatarkin,  D. I. Yakubovsky, S. M. Novikov,  D. G. Baranov, T. Shegai, A. Y. Nikitin, A. V. Arsenin, V. S. Volkov.
     Broadband optical properties of monolayer and bulk MoS<sub>2</sub>.
     [*NPJ 2D Mater. Appl.*, **4**, 21 (2020)](https://doi.org/10.1038/s41699-020-0155-x)
     (Numerical data kindly provided by Georgy Ermolaev)
 COMMENTS: |
-    Extraordinary ray (e).<br>
-    MoS<sub>2</sub> bulk crystallographic c-axis optical constants.
+    Extraordinary optical constants (e).<br>
+    Out-of-plane component of dielectric tensor measured by spectroscopic ellipsometry.
 CONDITIONS:
-    direction: e
+    optical_component: e
 DATA:
   - type: tabulated n
     data: |

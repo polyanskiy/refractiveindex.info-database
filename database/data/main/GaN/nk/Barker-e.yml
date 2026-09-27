@@ -7,7 +7,7 @@ REFERENCES: |
     Infrared lattice vibrations and free-electron dispersion in GaN.
     [*Phys. Rev. B* **7**, 743-750 (1973)](https://doi.org/10.1103/PhysRevB.7.743)
 COMMENTS: |
-    α-GaN (wurtzite); Extrardinary ray (e); 300 K (27 °C).
+    α-GaN (wurtzite); Extrardinary optical constants (e); 300 K (27 °C).
 DATA:
   - type: formula 1
     wavelength_range: 0.35 10

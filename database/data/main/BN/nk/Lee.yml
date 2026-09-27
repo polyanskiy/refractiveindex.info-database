@@ -11,7 +11,7 @@ COMMENTS: |
 CONDITIONS:
     film_thickness: 1e-6
     substrate: SiO2
-    direction: o
+    optical_component: o
 DATA:
   - type: formula 1
     wavelength_range: 0.45 1.2

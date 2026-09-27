@@ -7,9 +7,9 @@ REFERENCES: |
     Nematic liquid crystal optical dispersion in the visible-near infrared range.
     [*Mol. Cryst. Liq. Cryst.* **454**, 263/[665]-271/[673] (2006)](https://doi.org/10.1080/15421400600655816)
 COMMENTS: |
-    Ordinary ray (o).
+    Ordinary optical constants (o).
 CONDITIONS:
-    direction: o
+    optical_component: o
 DATA:
   - type: formula 5
     wavelength_range: 0.532 1.7

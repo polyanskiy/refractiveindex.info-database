@@ -8,9 +8,9 @@ REFERENCES: |
     [*Phys. Rev. B* **107**, 085205 (2023)](https://doi.org/10.1103/PhysRevB.107.085205)
     (See Supplemental Material. Missing data points kindly provided by Jan Suffczyński.)
 COMMENTS: |
-    Ordinary ray (o).
+    Ordinary optical constants (o).
 CONDITIONS:
-    direction: o
+    optical_component: o
 DATA:
   - type: tabulated nk
     data: |

@@ -9,9 +9,9 @@ REFERENCES: |
     (Numerical data kindly provided by Manuela Schiek)
 COMMENTS: |
     Racemic mixture rac-ProSQ-C16.
-    Extraordinary ray (e).
+    Extraordinary optical constants (e).
 CONDITIONS:
-    direction: e
+    optical_component: e
 DATA:
   - type: tabulated nk
     data: |

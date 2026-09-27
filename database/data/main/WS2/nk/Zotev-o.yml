@@ -10,7 +10,7 @@ REFERENCES: |
 COMMENTS: |
     Multilayer crystals. In-plane (ordinary ray, o). Room temperature.
 CONDITIONS:
-    direction: o
+    optical_component: o
 DATA:
   - type: tabulated nk
     data: |

@@ -8,9 +8,9 @@ REFERENCES: |
     [*Nanoscale*, **14**, 12238–12246 (2022)](https://doi.org/10.1039/D2NR03226K)
     (Numerical data kindly provided by Zhengfeng Guo)
 COMMENTS: |
-    Tellurene. Ordinary ray (o).
+    Tellurene. Ordinary optical constants (o).
 CONDITIONS:
-    direction: o
+    optical_component: o
 DATA:
   - type: tabulated nk
     data: |

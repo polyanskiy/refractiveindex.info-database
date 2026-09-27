@@ -7,9 +7,9 @@ REFERENCES: |
     Sellmeier and thermo-optic dispersion formulas for CdGa<sub>2</sub>S<sub>4</sub> and their application to the nonlinear optics of Hg<sub>1−x</sub>Cd<sub>x</sub>Ga<sub>2</sub>S<sub>4</sub>.
     [*Opt. Commun.* **386**, 49-52 (2017)](https://doi.org/10.1016/j.optcom.2016.10.054)
 COMMENTS: |
-    Room temperature. Extraordinary ray (e).
+    Room temperature. Extraordinary optical constants (e).
 CONDITIONS:
-    direction: e
+    optical_component: e
 DATA:
   - type: formula 4
     wavelength_range: 0.49 7.519

@@ -85,30 +85,30 @@
           name: "Jansonas et al. 2022: E∥XZ"
           data: main/KTiOAsO4/n2/Jansonas-XZ.yml
         - PAGE: Jansonas-Y
-          name: "Jansonas et al. 2022: E∥Y (β)"
+          name: "Jansonas et al. 2022: E∥Y"
           data: main/KTiOAsO4/n2/Jansonas-Y.yml
     - DIVIDER: "B - Borates"
     - BOOK: BiB3O6
       name: "BiB<sub>3</sub>O<sub>6</sub> (Bismuth triborate, BiBO)"
       content:
         - PAGE: Kabacinski
-          name: "Kabaciński et al. 2019: E∥X (α)"
+          name: "Kabaciński et al. 2019: E∥X"
           data: main/BiB3O6/n2/Kabacinski.yml
-        - PAGE: Miller-αY
-          name: "Miller et al. 2008: E∥X (α); propagation ∥ Y"
-          data: main/BiB3O6/n2/Miller-alphaY.yml
-        - PAGE: Miller-αZ
-          name: "Miller et al. 2008: E∥Z (α); propagation ∥ Z"
-          data: main/BiB3O6/n2/Miller-alphaZ.yml
-        - PAGE: Miller-βX
-          name: "Miller et al. 2008: E∥Y (β); propagation ∥ X"
-          data: main/BiB3O6/n2/Miller-betaX.yml
-        - PAGE: Miller-γX
-          name: "Miller et al. 2008: E∥Z (γ); propagation ∥ X"
-          data: main/BiB3O6/n2/Miller-gammaX.yml
-        - PAGE: Miller-γY
-          name: "Miller et al. 2008: E∥Z (γ); propagation ∥ Y"
-          data: main/BiB3O6/n2/Miller-gammaY.yml
+        - PAGE: Miller-XY
+          name: "Miller et al. 2008: E∥X; propagation ∥ Y"
+          data: main/BiB3O6/n2/Miller-XY.yml
+        - PAGE: Miller-XZ
+          name: "Miller et al. 2008: E∥X; propagation ∥ Z"
+          data: main/BiB3O6/n2/Miller-XZ.yml
+        - PAGE: Miller-YX
+          name: "Miller et al. 2008: E∥Y; propagation ∥ X"
+          data: main/BiB3O6/n2/Miller-YX.yml
+        - PAGE: Miller-ZX
+          name: "Miller et al. 2008: E∥Z; propagation ∥ X"
+          data: main/BiB3O6/n2/Miller-ZX.yml
+        - PAGE: Miller-ZY
+          name: "Miller et al. 2008: E∥Z; propagation ∥ Y"
+          data: main/BiB3O6/n2/Miller-ZY.yml
     - DIVIDER: "B - Borates"
     - BOOK: BaB2O4
       name: "BaB<sub>2</sub>O<sub>4</sub> (Barium borate, BBO)"
@@ -646,12 +646,12 @@
     - BOOK: KTiOPO4
       name: "KTiOPO<sub>4</sub> (Potassium titanyl phosphate, KTP)"
       content:
-        - PAGE: DeSalvo
-          name: "DeSalvo et al. 1996: E∥Y (β)"
-          data: main/KTiOPO4/n2/DeSalvo-beta.yml
-        - PAGE: DeSalvo
-          name: "DeSalvo et al. 1996: E∥Z (γ)"
-          data: main/KTiOPO4/n2/DeSalvo-gamma.yml
+        - PAGE: DeSalvo-Y
+          name: "DeSalvo et al. 1996: E∥Y"
+          data: main/KTiOPO4/n2/DeSalvo-Y.yml
+        - PAGE: DeSalvo-Z
+          name: "DeSalvo et al. 1996: E∥Z"
+          data: main/KTiOPO4/n2/DeSalvo-Z.yml
         - PAGE: Sheik-Bahae
           name: "Sheik-Bahae et al. 1991"
           data: main/KTiOPO4/n2/Sheik-Bahae.yml
@@ -699,7 +699,7 @@
           name: "Jansonas et al. 2022: E∥XZ"
           data: main/LiGaS2/n2/Jansonas-XZ.yml
         - PAGE: Jansonas-Y
-          name: "Jansonas et al. 2022: E∥Y (β)"
+          name: "Jansonas et al. 2022: E∥Y"
           data: main/LiGaS2/n2/Jansonas-Y.yml
     - BOOK: ZnS
       name: "ZnS (Zinc sulfide)"
@@ -966,29 +966,29 @@
     - BOOK: Yb-KGW
       name: "Yb:KGd(WO<sub>4</sub>)<sub>2</sub> (Ytterbium doped potassium gadolinium tungstate, Yb:KGW)"
       content:
-        - PAGE: Selivanov-β
-          name: "Selivanov et al. 2006: n2(β)"
-          data: other/doped crystals/Yb-KGd(WO4)2/n2/Selivanov-beta.yml
+        - PAGE: Selivanov
+          name: "Selivanov et al. 2006: E∥N_m"
+          data: other/doped crystals/Yb-KGd(WO4)2/n2/Selivanov.yml
     - BOOK: Yb-KYW
       name: "Yb:KY(WO<sub>4</sub>)<sub>2</sub> (Ytterbium doped potassium yttrium tungstate, Yb:KYW)"
       content:
-        - PAGE: Selivanov-α
-          name: "Selivanov et al. 2006: n2(α)"
-          data: other/doped crystals/Yb-KY(WO4)2/n2/Selivanov-alpha.yml
-        - PAGE: Selivanov-β
-          name: "Selivanov et al. 2006: n2(β)"
-          data: other/doped crystals/Yb-KY(WO4)2/n2/Selivanov-beta.yml
-        - PAGE: Selivanov-γ
-          name: "Selivanov et al. 2006: n2(γ)"
-          data: other/doped crystals/Yb-KY(WO4)2/n2/Selivanov-gamma.yml
+        - PAGE: Selivanov-N_p
+          name: "Selivanov et al. 2006: E∥N_p"
+          data: other/doped crystals/Yb-KY(WO4)2/n2/Selivanov-N_p.yml
+        - PAGE: Selivanov-N_m
+          name: "Selivanov et al. 2006: E∥N_m"
+          data: other/doped crystals/Yb-KY(WO4)2/n2/Selivanov-N_m.yml
+        - PAGE: Selivanov-N_g
+          name: "Selivanov et al. 2006: E∥N_g"
+          data: other/doped crystals/Yb-KY(WO4)2/n2/Selivanov-N_g.yml
     - BOOK: Yb-YVO
       name: "Yb:YVO<sub>4</sub> (Ytterbium-doped yttrium orthovanadate, Yb:YVO)"
       content:
         - PAGE: Selivanov-o
-          name: "Selivanov et al. 2006: (o)"
+          name: "Selivanov et al. 2006: n2(o)"
           data: other/doped crystals/Yb-YVO4/n2/Selivanov-o.yml
         - PAGE: Selivanov-e
-          name: "Selivanov et al. 2006: (e)"
+          name: "Selivanov et al. 2006: n2(e)"
           data: other/doped crystals/Yb-YVO4/n2/Selivanov-e.yml
 - SHELF: glass
   name: "GLASS - glasses"

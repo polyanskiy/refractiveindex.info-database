@@ -12,7 +12,7 @@ COMMENTS: |
 CONDITIONS:
     film_thickness: 1L
     substrate: SiO2/Si
-    direction: o
+    optical_component: o
 DATA:
   - type: tabulated nk
     data: |

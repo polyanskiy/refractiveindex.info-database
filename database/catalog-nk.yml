@@ -3173,11 +3173,18 @@
           name: "Ermolaev et al. 2020: bulk; n(o),k 0.290–3.30 µm"
           data: main/MoS2/nk/Ermolaev-o.yml
         - PAGE: Ermolaev-e
-          name: "Ermolaev et al. 2021: bulk; n(e) 0.360–1.70 µm"
+          name: "Ermolaev et al. 2020: bulk; n(e) 0.360–1.70 µm"
           data: main/MoS2/nk/Ermolaev-e.yml
         - PAGE: Song-bulk
           name: "Song et al. 2019: bulk; n,k 0.193–1.69 µm"
           data: main/MoS2/nk/Song-bulk.yml
+        - DIVIDER: "Bulk 3R-MoS2"
+        - PAGE: Ermolaev-3R-o
+          name: "Ermolaev et al. 2026: bulk 3R-MoS2; n(o),k 0.290–3.30 µm"
+          data: main/MoS2/nk/Ermolaev-3R-o.yml
+        - PAGE: Ermolaev-3R-e
+          name: "Ermolaev et al. 2026: bulk 3R-MoS2; n(e) 0.360–1.70 µm"
+          data: main/MoS2/nk/Ermolaev-3R-e.yml
         - DIVIDER: "Thin film"
         - PAGE: Yim-2nm
           name: "Yim et al. 2014: 2-nm film; n,k 0.38–0.90 µm"

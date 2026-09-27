@@ -7,7 +7,7 @@ REFERENCES: |
     Optical bound states in the continuum in subwavelength gratings made of an epitaxial van der Waals material.
     [*ACS Nano* **20**, 7426-7437 (2026)](https://doi.org/10.1021/acsnano.5c12870)
 COMMENTS: |
-    MBE-grown 42-nm layer; room temperature. Ordinary ray (o).
+    MBE-grown 42-nm layer; room temperature. Ordinary optical constants (o).
 DATA:
   - type: tabulated nk
     data: |

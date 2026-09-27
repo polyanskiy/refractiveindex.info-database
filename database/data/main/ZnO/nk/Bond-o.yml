@@ -9,9 +9,9 @@ REFERENCES: |
     2) Handbook of Optics, 3rd edition, Vol. 4. McGraw-Hill 2009</br>
     * Ref. 2 provides a dispersion formula based on data from ref. 1
 COMMENTS: |
-    Ordinary ray (o). Room temperature.
+    Ordinary optical constants (o). Room temperature.
 CONDITIONS:
-    direction: o
+    optical_component: o
 DATA:
   - type: formula 4
     wavelength_range: 0.45 4.0

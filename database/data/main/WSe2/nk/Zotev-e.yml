@@ -10,7 +10,7 @@ REFERENCES: |
 COMMENTS: |
     Multilayer crystals. Out-of-plane (extraordinary ray, e). Room temperature.
 CONDITIONS:
-    direction: e
+    optical_component: e
 DATA:
   - type: tabulated nk
     data: |

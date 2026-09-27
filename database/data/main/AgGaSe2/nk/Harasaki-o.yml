@@ -7,9 +7,9 @@ REFERENCES: |
     New data on the nonlinear optical constant, phase-matching, and optical damage of AgGaS<sub>2</sub>.
     [*Jap. J. Appl. Phys.*, **36**, 700-703 (1997)](https://doi.org/10.1143/JJAP.36.700)
 COMMENTS: |
-    Ordinary ray (o)
+    Ordinary optical constants (o)
 CONDITIONS:
-    direction: o
+    optical_component: o
 DATA:
   - type: formula 4
     wavelength_range: 0.81 16

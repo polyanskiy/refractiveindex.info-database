@@ -8,9 +8,9 @@ REFERENCES: |
     [*Chem. Phys. Chem.* e202400233 (2024)](https://doi.org/10.1002/cphc.202400233)
     (Numerical data kindly provided by Manuela Schiek)
 COMMENTS: |
-    Extraordinary ray (e)
+    Extraordinary optical constants (e)
 CONDITIONS:
-    direction: e
+    optical_component: e
 DATA:
   - type: tabulated nk
     data: |

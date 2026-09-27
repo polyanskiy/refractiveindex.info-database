@@ -7,9 +7,9 @@ REFERENCES: |
     Optical properties of single-crystal paratellurite (TeO<sub>2</sub>).
     [*Phys. Rev.B* **4**, 3736-3745 (1971)](https://doi.org/10.1103/PhysRevB.4.3736)
 COMMENTS: |
-    Ordinary ray (o)
+    Ordinary optical constants (o)
 CONDITIONS:
-    direction: o
+    optical_component: o
 DATA:
   - type: formula 1
     wavelength_range: 0.4 1.0

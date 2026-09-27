@@ -8,9 +8,9 @@ REFERENCES: |
     [*J. Phys. Chem. Ref. Data* **9**, 161-289 (1980)](https://doi.org/10.1063/1.555616) and references therein.<br>
     * Sellmeier formula is derived by critical analysis of experimental data from several sources.
 COMMENTS: |
-    293 K (20 °C). Extraordinary ray (e).
+    293 K (20 °C). Extraordinary optical constants (e).
 CONDITIONS:
-    direction: e
+    optical_component: e
 DATA:
   - type: formula 1
     wavelength_range: 0.14 7.5

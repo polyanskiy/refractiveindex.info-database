@@ -10,7 +10,7 @@ REFERENCES: |
 COMMENTS: |
     Multilayer flakes. n<sub>x</sub>, k<sub>x</sub>. Room temperature.
 CONDITIONS:
-    direction: x
+    optical_component: x
 DATA:
   - type: tabulated nk
     data: |
