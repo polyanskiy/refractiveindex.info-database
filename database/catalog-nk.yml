@@ -1937,6 +1937,12 @@
         - PAGE: Zelmon-e
           name: "Zelmon et al. 1997: n(e) 0.4–5.0 µm"
           data: main/LiNbO3/nk/Zelmon-e.yml
+        - PAGE: Santos-Amador-o
+          name: "Santos-Amador et al. 2026: n(o) 8.34–43.4 µm"
+          data: main/LiNbO3/nk/Santos-Amador-o.yml
+        - PAGE: Santos-Amador-e
+          name: "Santos-Amador et al. 2026: n(e) 8.34–43.4 µm"
+          data: main/LiNbO3/nk/Santos-Amador-e.yml
     - DIVIDER: "Ne - Neon"
     - BOOK: Ne
       name: "Ne (Neon)"

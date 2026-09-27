@@ -11,6 +11,8 @@
     main/ZnSe/n2/Bock.yml
     main/ZnS/n2/Bock.yml
   new data (thanks to Armando Santos-Amador, Autonomous University of San Luis Potosí, Mexico, for submitting data in YAML format!)
+    main/LiNbO3/nk/Santos-Amador-o.yml
+    main/LiNbO3/nk/Santos-Amador-e.yml
     other/alloys/Au-Ag/nk/Santos-Amador.yml
   new data (thanks to Georgy Ermolaev, XPANCEO, Dubai, United Arab Emirates, for submitting data in YAML format!)
     main/C/nk/Toksumakov-o.yml
