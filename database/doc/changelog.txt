@@ -1,5 +1,7 @@
 ﻿============================== Next release ==============================
 
+  new data (thanks to David Redka, Munich University of Applied Sciences, Germany, for submitting data in YAML format!)
+    other/alloys/Cr-Mn-Fe-Co-Ni/nk/Redka.yml
   new data (thanks to Georgy Ermolaev, XPANCEO, Dubai, United Arab Emirates, for submitting data in YAML format!)
     main/MoS2/Ermolaev-3R-o.yml
     main/MoS2/Ermolaev-3R-e.yml

@@ -1,0 +1,16 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+NAMES:
+  - Chromium-manganese-iron-cobalt-nickel alloy
+  - Cr-Mn-Fe-Co-Ni
+  - CrMnFeCoNi
+  - Cantor alloy
+
+ABOUT: |
+    Cr-Mn-Fe-Co-Ni is a five-component alloy of chromium, manganese, iron, cobalt, and nickel. Its equiatomic composition, commonly known as the Cantor alloy, is one of the most widely studied high-entropy alloys. It typically forms a face-centered cubic solid solution and exhibits high ductility and fracture toughness, including at cryogenic temperatures.
+
+LINKS:
+  - url: https://en.wikipedia.org/wiki/High-entropy_alloy
+    text: High-entropy alloy - Wikipedia

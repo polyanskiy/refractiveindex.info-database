@@ -5647,6 +5647,12 @@
         - PAGE: Santos-Amador
           name: "Santos-Amador et al. 2026: thin film; n,k 0.258–43.5 µm"
           data: other/alloys/Co-Fe-B/nk/Santos-Amador.yml
+    - BOOK: Cr-Mn-Fe-Co-Ni
+      name: "Cr-Mn-Fe-Co-Ni (Cantor alloy)"
+      content:
+        - PAGE: Redka
+          name: "Redka et al. 2024: n,k 0.351–1.80 µm"
+          data: other/alloys/Cr-Mn-Fe-Co-Ni/nk/Redka.yml 
     - BOOK: Cu-Zn
       name: "Cu-Zn (Copper-zinc alloy, Brass)"
       content:
