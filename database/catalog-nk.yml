@@ -4266,6 +4266,12 @@
         - PAGE: Wemple-e
           name: "Wemple et al. 1968: n(e) 0.4–0.7 µm"
           data: main/BaTiO3/nk/Wemple-e.yml
+        - PAGE: Kang-o
+          name: "Kang et al. 2026: n,k(o) 0.193–39.3 µm"
+          data: main/BaTiO3/nk/Kang-o.yml
+        - PAGE: Kang-e
+          name: "Kang et al. 2026: n,k(e) 0.193–39.3 µm"
+          data: main/BaTiO3/nk/Kang-e.yml
         - PAGE: Johnston-x
           name: "Johnston 1971: Unclamped measurements; n 0.4–1.0 µm"
           data: main/BaTiO3/nk/Johnston-unclamped.yml
