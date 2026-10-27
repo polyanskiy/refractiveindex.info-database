@@ -14,5 +14,5 @@ CONDITIONS:
 DATA:
   - type: tabulated n2
     data: |
-        2.0 1.80-17
+        2.0 1.80e-17
         3.9 2.40e-17
