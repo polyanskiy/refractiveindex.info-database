@@ -13,11 +13,10 @@ COMMENTS: |
     Intrinsic optical constants obtained from a simultaneous analysis of spectroscopic ellipsometry and transmission measurements on a-cut and c-cut samples.
     k = 0 denotes absorption below the detection limit.
 CONDITIONS:
-    direction: o
+    optical_component: o
     temperature: 293
 DATA:
   - type: tabulated nk
-    wavelength_range: 0.193 39.8839
     data: |
         1.9300e-01 1.6615e+00 7.9936e-01
         1.9400e-01 1.6661e+00 8.1426e-01
