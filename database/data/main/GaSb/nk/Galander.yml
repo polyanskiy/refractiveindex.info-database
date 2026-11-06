@@ -5,8 +5,7 @@
 REFERENCES: |
     U. Galander, N. Huwyler, M. Encheva, M. Golling, O. H. Heckl.
     The refractive index of gallium antimonide.
-    [*Mat. Light* **1** 100067 (2026)](https://doi.org/10.1016/j.matlit.2026.100067)
-    
+    [*Mat. Light* **1** 100067 (2026)](https://doi.org/10.1016/j.matlit.2026.100067)<br>    
     [[Calculation script (Python)](https://github.com/polyanskiy/refractiveindex.info-scripts/blob/main/scripts/Galander%202026%20-%20GaSb.py)]
 COMMENTS: |
     MBE grown DBR. 20.3 °C.
