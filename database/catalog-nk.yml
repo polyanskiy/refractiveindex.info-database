@@ -3411,6 +3411,9 @@
         - PAGE: Aspnes
           name: "Aspnes and Studna 1983: n,k 0.207–0.827 µm"
           data: main/GaSb/nk/Aspnes.yml
+        - PAGE: Galander
+          name: "Galander et al. 2026: n,k 1.00–3.10 µm"
+          data: main/GaSb/nk/Galander.yml
         - PAGE: Ferrini
           name: "Ferrini et al. 1998: n,k 0.207–2.48 µm"
           data: other/semiconductor alloys/AlSb-GaSb/nk/Ferrini-0.yml
@@ -5738,6 +5741,12 @@
           name: "Palm et al. 2018: n,k 0.226–1.68 µm"
           data: other/alloys/Zr-H/nk/Palm.yml
     - DIVIDER: "Semiconductor alloys"
+    - BOOK: AlAs-AlSb
+      name: "AlAs-AlSb (Aluminium arsenide antimonide, AlAsSb)"
+      content:
+        - PAGE: Galander
+          name: "Galander et al. 2026: n,k 1.00–3.10 µm; 8% As"
+          data: other/semiconductor alloys/AlAs-AlSb/nk/Galander.yml
     - BOOK: AlAs-GaAs
       name: "AlAs-GaAs (Aluminium gallium arsenide, AlGaAs)"
       content:

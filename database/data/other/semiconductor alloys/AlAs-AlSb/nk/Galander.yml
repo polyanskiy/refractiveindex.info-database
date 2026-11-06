@@ -1,0 +1,16 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+REFERENCES: |
+    U. Galander, N. Huwyler, M. Encheva, M. Golling, O. H. Heckl.
+    The refractive index of gallium antimonide.
+    [*Mat. Light* **1** 100067 (2026)](https://doi.org/10.1016/j.matlit.2026.100067)
+COMMENTS: |
+    MBE grown DBR, AlAs<sub>0.08</sub>Sb<sub>0.92</sub>. 20.3 °C.
+CONDITIONS:
+    T: 293.45
+DATA:
+  - type: formula 2
+    wavelength_range: 1.0 3.1
+    coefficients: 0 1.7599 0.0453 7.2487 0.0884

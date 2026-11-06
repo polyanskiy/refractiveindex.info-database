@@ -1,0 +1,15 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+NAMES:
+  - Aluminium arsenide antimonide
+  - AlAsSb
+  - Aluminum arsenide antimonide
+
+ABOUT: |
+    AlAsSb (AlAs<sub>1-x</sub>Sb<sub>x</sub>) is a ternary III-V semiconductor alloy composed of aluminium arsenide (AlAs) and aluminium antimonide (AlSb). It has a zinc blende crystal structure and an indirect bandgap that varies with composition. By adjusting the arsenic-to-antimony ratio, its lattice constant and electronic properties can be tailored for integration with other III-V semiconductors. AlAsSb is used in semiconductor heterostructures, particularly as a barrier material in infrared photodetectors, where it helps suppress dark current. It is also of interest for low-noise avalanche photodiodes and high-speed optical communication applications.
+
+LINKS:
+  - url: https://en.wikipedia.org/wiki/Aluminium_arsenide_antimonide
+    text: Aluminium arsenide antimonide - Wikipedia
