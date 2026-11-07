@@ -1,5 +1,7 @@
 ﻿============================== Next release ==============================
 
+  new data
+    organic/CHCl3 - chloroform/nk/Andersen.yml
   new data (thanks to Ulrich Galander, University of Vienna, Austria, for submitting data in YAML format!)
     main/GaSb/nk/Galander.yml
     other/semiconductor alloys/AlAs-AlSb/nk/Galander.yml

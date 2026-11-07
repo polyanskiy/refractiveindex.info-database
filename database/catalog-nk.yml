@@ -4674,6 +4674,9 @@
         - PAGE: Chang
           name: "Chang et al. 2024: n 0.4–2.0 µm"
           data: organic/CHCl3 - chloroform/nk/Chang.yml
+        - PAGE: Andersen
+          name: "Andersen et al. 1978: n 0.135–0.641, k 0.135–0.172 µm"
+          data: organic/CHCl3 - chloroform/nk/Andersen.yml
     - BOOK: carbon_tetrachloride
       name: "CCl<sub>4</sub> (Carbon tetrachloride)"
       content:

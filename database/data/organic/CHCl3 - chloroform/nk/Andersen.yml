@@ -1,0 +1,73 @@
+# this file is part of refractiveindex.info database
+# refractiveindex.info database is in the public domain
+# copyright and related rights waived via CC0 1.0
+
+REFERENCES: |
+    M. Andersen, S. Nir, J. M. Heller Jr., L. R. Painter.
+    Optical constants and dispersion equations of lecithin, cholesterol, fucose, and chloroform: Measurements in vacuum-ultraviolet to visible wavelength regions.
+    [*Radiat. Res.* **76**, 493-509 (1978)](https://doi.org/10.2307/3574799)
+COMMENTS: |
+    27 °C
+CONDITIONS:
+    temperature: 300.15
+DATA:
+  - type: tabulated n
+    data: |
+        0.1348 1.624
+        0.1373 1.674
+        0.1409 1.724
+        0.1442 1.763
+        0.1476 1.790
+        0.1512 1.793
+        0.1550 1.788
+        0.1589 1.779
+        0.1631 1.769
+        0.1675 1.760
+        0.1722 1.746
+        0.1771 1.736
+        0.1823 1.721
+        0.1878 1.698
+        0.1937 1.671
+        0.2000 1.650
+        0.2066 1.621
+        0.2138 1.592
+        0.2214 1.564
+        0.2307 1.530
+        0.2631 1.504
+        0.2707 1.501
+        0.2867 1.493
+        0.2907 1.491
+        0.2967 1.488
+        0.2987 1.488
+        0.3047 1.485
+        0.3107 1.483
+        0.3127 1.483
+        0.3207 1.481
+        0.3307 1.478
+        0.3407 1.471
+        0.3507 1.471
+        0.3607 1.467
+        0.3807 1.467
+        0.4007 1.457
+        0.4358 1.453
+        0.4407 1.451
+        0.4607 1.449
+        0.4807 1.448
+        0.5007 1.446
+        0.5460 1.444
+        0.5893 1.442
+        0.6207 1.436
+        0.6407 1.436
+  - type: tabulated k
+    data: |
+        0.1348 0.4026
+        0.1373 0.4200
+        0.1409 0.4128
+        0.1442 0.3799
+        0.1476 0.3386
+        0.1512 0.2929
+        0.1550 0.2602
+        0.1589 0.2342
+        0.1631 0.1772
+        0.1675 0.05918
+        0.1722 0.00554
