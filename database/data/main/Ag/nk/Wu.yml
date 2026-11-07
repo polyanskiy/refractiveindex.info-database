@@ -7,7 +7,7 @@ REFERENCES: |
     Intrinsic optical properties and enhanced plasmonic response of epitaxial silver.
     [*Adv. Mater.* **26**, 6106-6110 (2014)](https://doi.org/10.1002/adma.201401474) 
     (See Supporting information)
-COMMENTS: |
+NOTES: |
     <u>Abstract</u>: Using atomically smooth epitaxial silver films, new optical permittivity highlighting significant loss reduction in the visible frequency range is extracted. Largely enhanced propagation distances of surface plasmon polaritons are measured, confirming the low intrinsic loss in silver. The new permittivity is free of extrinsic spectral features associated with grain boundaries and localized plasmons inevitably present in thermally deposited films.
 DATA:
   - type: tabulated nk

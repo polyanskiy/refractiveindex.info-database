@@ -7,7 +7,7 @@ REFERENCES: |
     Optical and magneto-optical properties of permalloy thin films in 0.7-6.4 eV photon energy range.
     [*Mater. Des.* **114**, 31-39 (2017)](https://doi.org/10.1016/j.matdes.2016.10.036)
     (Numerical data kindly provided by Kristupas Kazimieras Tikuišis)
-COMMENTS: |
+NOTES: |
     150 nm thick Permalloy (80% nickel, 20% iron) film with 3 nm protective gold layer on top. Room temperature. Obtained by multi-angle spectroscopic ellipsometry.
 DATA:
   - type: tabulated nk

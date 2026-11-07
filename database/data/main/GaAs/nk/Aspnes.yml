@@ -6,7 +6,7 @@ REFERENCES: |
     D. E. Aspnes, S. M. Kelso, R. A. Logan, R. Bhat.
     Optical properties of Al<sub>x</sub>Ga<sub>1−x</sub>As.
     [*J. Appl. Phys.* **60**, 754-767 (1986)](https://doi.org/10.1063/1.337426)
-COMMENTS: |
+NOTES: |
     Crysal orientation: <100>; Doping: 1.7×10<sup>17</sup> cm<sup>-3</sup>, n; Room temperature
 DATA:
   - type: tabulated nk

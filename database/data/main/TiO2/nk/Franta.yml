@@ -7,7 +7,7 @@ REFERENCES: |
     Dispersion model for optical thin films applicable in wide spectral range
     [*Proc. SPIE* **9628**, 96281U (2015)](https://doi.org/10.1117/12.2190104)
     (Numerical data kindly provided by Daniel Franta)
-COMMENTS: |
+NOTES: |
     Film TiO<sub>2</sub>; Deposited by e-beam evaporation on c-Si; 99.6 nm thick film with an amorphous (very fine polycrystalline) structure; Heterogenous data processing combining ellipsometric and spectrophotometric measurements; Room temperature.
 CONDITIONS:
     film_thickness: 99.6e-9

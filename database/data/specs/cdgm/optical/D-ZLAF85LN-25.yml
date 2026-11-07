@@ -4,7 +4,7 @@
 
 REFERENCES: |
     [CDGM Zemax catalog 2022-06](https://refractiveindex.info/download/data/2022/CDGM-ZEMAX202206new.AGF) (obtained from [http://www.cdgmgd.com](http://www.cdgmgd.com/go.htm?k=Download&url=downList))<br>See also [CDGM optical glass data sheets](https://refractiveindex.info/download/data/2022/CDGM202206.pdf)
-COMMENTS: |
+NOTES: |
     anneal rate:25°C/h
 CONDITIONS:
     temperature: 293

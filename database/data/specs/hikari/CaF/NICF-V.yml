@@ -4,7 +4,7 @@
 
 REFERENCES: |
     [NIKON Zemax catalog 2017-11](https://refractiveindex.info/download/data/2017/nikon_2017-11.agf) (obtained from [http://www.nikon.com](http://www.nikon.com/products/glass/lineup/materials/optical/))<br>See also [NIKON calcium fluoride glass data sheet](https://refractiveindex.info/download/data/2017/nikon_CaF.pdf)
-COMMENTS: |
+NOTES: |
     TCE value is available for 0 to 25 degrees Celsius.
 CONDITIONS:
     temperature: 295.65

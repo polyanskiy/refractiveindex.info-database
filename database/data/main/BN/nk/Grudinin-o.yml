@@ -7,7 +7,7 @@ REFERENCES: |
     Hexagonal boron nitride nanophotonics: a record-breaking material for the ultraviolet and visible spectral ranges.
     [*Mater. Horiz.*, **10**, 2427-2435 (2023)](https://doi.org/10.1039/D3MH00215B)
     (Numerical data kindly provided by Georgy Ermolaev)
-COMMENTS: |
+NOTES: |
     Hexagonal boron nitride (hBN). Experimental data. Ordinary optical constants (o).
 CONDITIONS:
     optical_component: o

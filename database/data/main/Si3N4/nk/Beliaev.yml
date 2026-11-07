@@ -7,7 +7,7 @@ REFERENCES: |
     Optical, structural and composition properties of silicon nitride films deposited by reactive radio-frequency sputtering, low pressure and plasma-enhanced chemical vapor deposition.
     [*Thin Solid Films* **763**, 139568 (2022)](https://doi.org/10.1016/j.tsf.2022.139568)
     (Numerical data kindly provided by Osamu Takayama)
-COMMENTS: |
+NOTES: |
     100 nm thick film deposited by plasma-enchased CVD with certain recipe as an example. Optical properties of SiN films produced by different deposition methods and process parameters can be found in the reference.
 CONDITIONS:
     film_thickness: 100e-9

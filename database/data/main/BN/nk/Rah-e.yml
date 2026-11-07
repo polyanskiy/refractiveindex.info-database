@@ -6,7 +6,7 @@ REFERENCES: |
     Y. Rah, Y. Jin, S. Kim, K. Yu.
     Optical analysis of the refractive index and birefringence of hexagonal boron nitride from the visible to near-infrared.
     [*Opt. Lett.*, **44**, 3797-3800 (2019)](https://doi.org/10.1364/OL.44.003797)    
-COMMENTS: |
+NOTES: |
     Hexagonal boron nitride (hBN). Mechanically exfoliated, few-hundred-nm-thick h-BN flakes on a Si substrate. Extraordinary optical constants (e).
 CONDITIONS:
     optical_component: e

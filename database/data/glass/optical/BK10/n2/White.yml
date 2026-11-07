@@ -6,7 +6,7 @@ REFERENCES: |
     W. T. White, W. L. Smith, D. Milam.
     Direct measurement of the nonlinear refractive-index coefficient γ at 355 nm in fused silica and in BK-10 glass.
     [*Opt. Lett.* **9**, 10 (1984)](https://doi.org/10.1364/OL.9.000010)
-COMMENTS: |
+NOTES: |
     Fused silica. Time-resolved interferometry.
 CONDITIONS:
     n2_method: TRI

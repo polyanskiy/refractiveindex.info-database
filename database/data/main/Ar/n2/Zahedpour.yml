@@ -6,7 +6,7 @@ REFERENCES: |
     S. Zahedpour, J. K. Wahlstrand, H. M. Milchberg.
     Measurement of the nonlinear refractive index of air constituents at mid-infrared wavelengths.
     [ *Opt. Lett.* **40**,  5794-5795 (2015)](https://doi.org/10.1364/OL.40.005794)
-COMMENTS: |
+NOTES: |
     40 fs. Single-shot supercontinuum spectral interferometry. Room temperature, atmospheric pressure.
 CONDITIONS:
     n2_method: SI

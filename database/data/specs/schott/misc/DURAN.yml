@@ -6,7 +6,7 @@ REFERENCES: |
     [DURAN® Brochure, July 2022](https://refractiveindex.info/download/data/2022/duran-brochure-us.pdf)
     (obtained from [http://www.schott.com](https://www.schott.com/en-us/products/duran-p1000368/downloads/).
     Transmission data extracted from a figure and converted to k values by Dr. Daniel Rüdisser, HTflux Engineering GmbH, Graz, Austria)
-COMMENTS: |
+NOTES: |
     SCHOTT Duran Lab Glass (Tubed).
     DURAN® glass is very similar to BOROFLOAT® 33. Dispersion data for BOROFLOAT 33 can be used to approximate the refractive index of DURAN.
 DATA:

@@ -7,7 +7,7 @@ REFERENCES: |
     Layer-dependent dielectric and optical properties of centimeter-scale 2D WSe<sub>2</sub>: evolution from a single layer to few layers.
     [*Nanoscale* **11**, 22762-22771 (2019)](https://doi.org/10.1039/C9NR04270A)
     (Numerical data kindly provided by Baokun Song)
-COMMENTS: |
+NOTES: |
     2-layer, 2L
 CONDITIONS:
     film_thickness: 2L

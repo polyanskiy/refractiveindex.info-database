@@ -6,7 +6,7 @@ REFERENCES: |
     I. Yu. Yanina, E. N. Lazareva, V. V. Tuchin.
     Refractive index of adipose tissue and lipid droplet measured in wide spectral and temperature ranges.
     [*Appl. Opt.* **24**, 035003 (2019)](https://doi.org/10.1364/AO.57.004839)
-COMMENTS: |
+NOTES: |
     Human abdominal adipose tissue at 23 °C (296 K). See the original publication for temperature-dependent data.
 CONDITIONS:
     temperature: 296

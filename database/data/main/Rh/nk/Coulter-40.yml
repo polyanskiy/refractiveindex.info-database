@@ -6,7 +6,7 @@ REFERENCES: |
     J. K. Coulter, G. Hass, J. B. Ramsey, Jr..
     Optical constants and reflectance and transmittance of evaporated rhodium films in the visible.
     [*J. Opt. Soc. Am.* **63**, 1149-1153 (1973)](https://doi.org/10.1364/JOSA.63.001149)
-COMMENTS: |
+NOTES: |
     Evaporated Rh deposited at 40 °C
 DATA:
   - type: tabulated nk

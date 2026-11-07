@@ -11,7 +11,7 @@ REFERENCES: |
     [*Phys. Rev. B* **49**, 7262-7270 (1994)](https://doi.org/10.1103/PhysRevB.49.7262)<br>
     * Authors of Ref. 1 provide a simplified model of the interband transitions (MDF) based on the experimental data from Ref. 2.<br>
     [[Calculation script (Python)](https://github.com/polyanskiy/refractiveindex.info-scripts/blob/main/scripts/Ninomiya%201995%20-%20cubic%20CdSe.py)]
-COMMENTS: |
+NOTES: |
     Cubic CdSe. Room temperature.
 DATA:
   - type: tabulated nk

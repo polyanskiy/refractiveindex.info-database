@@ -6,7 +6,7 @@ REFERENCES: |
     S. Singh, J. P. Remeika, J. R. Potopowicz.
     Nonlinear optical properties of ferroelectric lead titanate.
     [*Appl. Phys. Lett.* **20**, 135, 1972](https://doi.org/10.1063/1.1654078)
-COMMENTS: |
+NOTES: |
     Extraordinary optical constants (e)
 CONDITIONS:
     optical_component: e

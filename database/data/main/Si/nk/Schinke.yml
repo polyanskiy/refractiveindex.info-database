@@ -9,7 +9,7 @@ REFERENCES: |
     2) M. R. Vogt.
     *Development of physical models for the simulation of optical properties of solar cell modules*.
     [PhD. Thesis (2015)](https://www.tib.eu/en/search/id/TIBKAT%3A852464657)
-COMMENTS: |
+NOTES: |
     Relative uncertainties of the absorption coefficient: 0.4% at 0.250 µm, 11% at 0.6 µm, 1.4% at 1 µm, 12% at 1.2 µm and 180% at 1.45 µm. Temperature: 295 K.
 CONDITIONS:
     temperature: 295

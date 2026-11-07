@@ -6,7 +6,7 @@ REFERENCES: |
     K. Kato, V. V. Badikov, K. Miyata, V. Petrov.
     Refined Sellmeier equations for BaGa<sub>4</sub>S<sub>7</sub>.
     [*Appl. Opt.*, **60**, 6600–6603 (2021)](https://doi.org/10.1364/AO.430424)
-COMMENTS: |
+NOTES: |
     n<sub>y</sub>; room temperature.
 CONDITIONS:
     optical_component: y

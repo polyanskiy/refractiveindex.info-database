@@ -7,7 +7,7 @@ REFERENCES: |
     Transmittance and optical constants of Lu films in the 3-1800 eV spectral range.
     [*J. Appl. Phys.* **108**, 063514 (2010)](https://doi.org/10.1063/1.3481062)
     (Numerical data kindly provided by Juan Larruquert)
-COMMENTS: |
+NOTES: |
     Density: 9.84 g/cm<sup>3</sup>. Film deposited at room temperature.
 DATA:
   - type: tabulated nk

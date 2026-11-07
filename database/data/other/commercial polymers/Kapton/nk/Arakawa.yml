@@ -6,7 +6,7 @@ REFERENCES: |
     E. T. Arakawa, M. W. Williams, J. C. Ashley, L. R. Painter.
     The optical properties of Kapton: Measurement and applications.
     [*J. Appl. Phys.* **52**, 3579-3582 (1981)](https://doi.org/10.1063/1.329140)
-COMMENTS: |
+NOTES: |
     Kapton type H polyimide film
 DATA:
   - type: tabulated n

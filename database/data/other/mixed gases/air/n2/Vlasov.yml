@@ -4,7 +4,7 @@
 
 REFERENCES: |
     D. V. Vlasov, R. A. Garaev, V. V. Korobkin, R. V. Serov. Measurement of nonlinear polarizability of air, *Zh. Eksp. Teor. Fi.* **76**, 2039–2045 (1997)
-COMMENTS: |
+NOTES: |
     30 ns at 1.064 μm. Elliptical polarization rotation.
 CONDITIONS:
     n2_method: EPR

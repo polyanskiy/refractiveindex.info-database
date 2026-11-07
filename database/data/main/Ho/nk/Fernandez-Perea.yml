@@ -7,7 +7,7 @@ REFERENCES: |
     Transmittance and optical constants of Ho films in the 3-1340 eV spectral range.
     [*J. Appl. Phys.* **109**, 083525 (2011)](https://doi.org/10.1063/1.3556451)
     (Numerical data kindly provided by Juan Larruquert)
-COMMENTS: |
+NOTES: |
     Density: 8.33 g/cm<sup>3</sup>. Film deposited at room temperature.
 DATA:
   - type: tabulated nk

@@ -7,7 +7,7 @@ REFERENCES: |
     Refractive index of air: new equations for the visible and near infrared.
     [*Appl. Optics* **35**, 1566-1573 (1996)](https://doi.org/10.1364/AO.35.001566)<br>
     [[Calculation script (Python)](https://github.com/polyanskiy/refractiveindex.info-scripts/blob/main/scripts/Ciddor%201996%20-%20air.py) - can be used to calculate the refractive index of air for specific values of humidity, temperature, pressure, and CO<sub>2</sub> concentration]
-COMMENTS: |
+NOTES: |
     Standard air: dry air at 15 °C, 101.325 kPa and with 450 ppm CO<sub>2</sub> content.
 CONDITIONS:
     temperature: 288.15

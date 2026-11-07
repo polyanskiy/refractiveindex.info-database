@@ -13,7 +13,7 @@ REFERENCES: |
     High-power difference-frequency generation at 4.4-5.7 µm in LiIO<sub>3</sub>.
     [*IEEE. J. Quant. Electron.* **21**, 119-120 (1985)](https://doi.org/10.1109/JQE.1985.1072617)<br>
     * Reference 2 presented a dispersion formula based on tabulated data from Reference 1. The formula was further refined and its accuracy was confirmed in Reference 3, which extended the range of validity.
-COMMENTS: |
+NOTES: |
     Room temperature. Extraordinary optical constants (e).
 CONDITIONS:
     optical_component: e

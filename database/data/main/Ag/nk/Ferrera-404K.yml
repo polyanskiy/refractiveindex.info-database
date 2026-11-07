@@ -7,7 +7,7 @@ REFERENCES: |
     Temperature-dependent permittivity of silver and implications for thermoplasmonics.
     [*Phys. Rev. Mater.*, **3**, 105201 (2019)](https://doi.org/10.1103/PhysRevMaterials.3.105201)
     (See Supplemental Material)
-COMMENTS: |
+NOTES: |
     404 K (131 °C). Optically thick and morphologically flat polycrystalline Ag film, deposited by molecular beam epitaxy on a silicon wafer with a native oxide substrate.<br>The supplemental material of the original publication provides extra information by including additional data for 25 temperatures within the range of 298–600 K.
 CONDITIONS:
     temperature: 404

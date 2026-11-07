@@ -7,7 +7,7 @@ REFERENCES: |
     Infrared refractive index and extinction coefficient of polyimide films.
     [*Int. J. Thermophys.* **19**, 905-916 (1998)](https://doi.org/10.1023/A:1022655309574)<br>
     [[Calculation script (Python)](https://github.com/polyanskiy/refractiveindex.info-scripts/blob/main/scripts/Zhang%201998%20-%20Kapton.py)]
-COMMENTS: |
+NOTES: |
     Lorentz-Drude  model
 DATA:
   - type: tabulated nk

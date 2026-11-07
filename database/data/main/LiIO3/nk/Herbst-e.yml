@@ -6,7 +6,7 @@ REFERENCES: |
     Cited as "R. L. Herbst (private communication)" in M. M. Choy and R. L. Byer.
     Accurate second-order susceptibility measurements of visible and infrared nonlinear crystals.
     [*Phys. Rev. B* **14**, 1693-1706 (1976)](https://doi.org/10.1103/PhysRevB.14.1693).
-COMMENTS: |
+NOTES: |
     Room temperature. Extraordinary optical constants (e).
 CONDITIONS:
     optical_component: e

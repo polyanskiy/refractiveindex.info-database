@@ -6,7 +6,7 @@ REFERENCES: |
     S. Tatsuura, T. Matsubara, H. Mitsu, Y. Sato, I. Iwasa, M. Tian, M. Furuki.
     Cadmium telluride bulk crystal as an ultrafast nonlinear optical switch.
     [*Appl. Phys. Lett* **87**, 251110 (2005)](https://doi.org/10.1063/1.2151256)
-COMMENTS: |
+NOTES: |
     Si[111]. 110 fs. Z-scan.
 CONDITIONS:
     n2_method: Z-scan

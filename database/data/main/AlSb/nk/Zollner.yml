@@ -6,7 +6,7 @@ REFERENCES: |
     S. Zollner, C. Lin, E. Schönherr, A. Böhringer, M. Cardona.
     The dielectric function of AlSb from 1.4 to 5.8 eV determined by spectroscopic ellipsometry.
     [*J. Appl. Phys.* **66**, 383-387 (1989)](https://doi.org/10.1063/1.343888)
-COMMENTS: |
+NOTES: |
     300 K
 DATA:
   - type: tabulated nk

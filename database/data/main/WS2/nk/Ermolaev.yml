@@ -7,7 +7,7 @@ REFERENCES: |
     Spectral ellipsometry of monolayer transition metal dichalcogenides: Analysis of excitonic peaks in dispersion.
     [*J. Vac. Sci. Technol. B* **38**, 014002 (2020)](https://doi.org/10.1116/1.5122683)
     (Numerical data kindly provided by Georgy Ermolaev)
-COMMENTS: |
+NOTES: |
     Optical constants of monolayer WS<sub>2</sub> were measured by spectroscopic ellipsometry in the spectral range 365–1700 nm. WS<sub>2</sub> samples were grown on sapphire by atmospheric pressure chemical vapor deposition and then transferred on silicon wafers covered by 295&nbsp;nm SiO<sub>2</sub>. Tauc–Lorentz oscillators were used in ellipsometry model to describe the optical response of excitons.
 CONDITIONS:
     film_thickness: 1L

@@ -11,7 +11,7 @@ REFERENCES: |
     [*Phys. Rev. B* **50**, 18017-18029 (1994)](https://doi.org/10.1103/PhysRevB.50.18017)<br>
     * Authors of Ref. 1 provide a simplified model of the interband transitions (MDF) based on their experimental data combined with experimental data from Ref. 2.<br>
     [[Calculation script (Python)](https://github.com/polyanskiy/refractiveindex.info-scripts/blob/main/scripts/Kawashima%201997%20-%20GaN.py)]
-COMMENTS: |
+NOTES: |
     Single-crystalline hexagonal GaN (α-GaN) film on (0001) sapphire substrate. Ordinary ray (o, E⊥c). Room temperature.
 CONDITIONS:
     substrate: sapphire

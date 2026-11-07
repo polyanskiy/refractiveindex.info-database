@@ -9,7 +9,7 @@ REFERENCES: |
     2) L. Yu. Beliaev,  E. Shkondin,  A. V. Lavrinenko, O. Takayama. Erratum: Thickness-dependent optical properties of aluminum nitride films for mid-infrared wavelengths [J. Vac. Sci. Technol. A 39, 043408 (2021)].
     [*J. Vac. Sci. Technol. A* **40**, 027001 (2022)](https://doi.org/10.1116/6.0001574)
     (Numerical data kindly provided by Osamu Takayama)
-COMMENTS: |
+NOTES: |
     303 nm thick aluminum nitride (AlN) film deposited by reactive sputtering.
 DATA:
   - type: tabulated nk

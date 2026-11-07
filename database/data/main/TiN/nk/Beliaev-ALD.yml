@@ -7,7 +7,7 @@ REFERENCES: |
     Titanium nitride nanotrench metasurfaces for mid-infrared chemical sensing.
     [*ACS Appl. Opt. Mater.* **2**, 88-96 (2023)](https://doi.org/10.1021/acsaom.3c00355)
     (Numerical data kindly provided by Osamu Takayama)
-COMMENTS: |
+NOTES: |
     100 nm thick TiN film deposited by atomic layer deposition at 500 °C with post-annealing at 900 °C.
 CONDITIONS:
     film_thickness: 100e-9

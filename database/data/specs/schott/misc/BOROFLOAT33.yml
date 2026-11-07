@@ -9,7 +9,7 @@ REFERENCES: |
     Extinction coefficient: Transmission data extracted from figures and converted to k values - Mikhail Polyanskiy<br>
     2) [BOROFLOAT® 33 – Technical data, March 2019](https://refractiveindex.info/download/data/2019/BOROFLOAT_Technical_Data_OnePager_032019_US.pdf)
     (obtained from [http://www.schott.com](https://www.schott.com/en-us/products/borofloat-p1000314/downloads/)).
-COMMENTS: |
+NOTES: |
     Room temperature.
 DATA:
   - type: formula 1

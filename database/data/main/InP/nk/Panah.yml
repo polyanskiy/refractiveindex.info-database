@@ -7,7 +7,7 @@ REFERENCES: |
     Highly doped InP as a low loss plasmonic material for mid-IR region.
     [*Opt. Express* **24**, 29077-29088 (2016)](https://doi.org/10.1364/OE.24.029077)
     (Numerical data kindly provided by Osamu Takayama)
-COMMENTS: |
+NOTES: |
     Undoped indium phosphide (InP) substrate.
 DATA:
   - type: tabulated nk

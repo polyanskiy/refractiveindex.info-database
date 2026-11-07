@@ -6,7 +6,7 @@ REFERENCES: |
     D. Milam, M. J. Weber, A. J. Glass.
     Nonlinear refractive index of fluoride crystals.
     [*Appl. Phys. Lett.* **31**, 822 (1977)](https://doi.org/10.1063/1.89561)
-COMMENTS: |
+NOTES: |
     Ordinary optical constants (o). 125 ps. Time-resolved interferometry.
 CONDITIONS:
     n2_method: TRI

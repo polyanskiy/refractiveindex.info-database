@@ -10,7 +10,7 @@ REFERENCES: |
     Temperature-dependent Sellmeier coefficients and coherence lengths for some chalcopyrite crystals.
     [*J. Opt. Soc. Am.* **69**, 730-733 (1979)](https://doi.org/10.1364/JOSA.69.000730)<br>
     * Ref. 2 provides a dispersion formula based on data from Ref. 1
-COMMENTS: |
+NOTES: |
     Extrardinary optical constants (e); 70 °C
 CONDITIONS:
     temperature: 343

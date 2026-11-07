@@ -6,7 +6,7 @@ REFERENCES: |
    Á. Barroso, R. Radhakrishnan, S. Ketelhut, J. Schnekenburger, B. Kemper.
    Refractive index determination of buffer solutions from visible to near-infrared spectral range for multispectral quantitative phase imaging using a calibrated Abbe refractometer.
    [*Proc. SPIE* **10887**, 1088729 (2019)](https://doi.org/10.1117/12.2509221)
-COMMENTS: |
+NOTES: |
     DMEM (Sigma-Aldrich) supplemented with 10% fetal bovine serum (FBS), 2 mM glutamine, 1 mM sodium pyruvate, and 1% penicillin-streptomycin. 22 °C.
 CONDITIONS:
     temperature: 295

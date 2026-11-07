@@ -7,7 +7,7 @@ REFERENCES: |
     Spectroscopic ellipsometry of large area monolayer WS<sub>2</sub> and WSe<sub>2</sub> films.
     [*AIP Conf. Proc.* **2359**, 020005 (2021)](https://doi.org/10.1063/5.0054947)
     (Numerical data kindly provided by Dr. Georgy Ermolaev)
-COMMENTS: |
+NOTES: |
     CVD-grown monolayer.
 CONDITIONS:
     film_thickness: 1L

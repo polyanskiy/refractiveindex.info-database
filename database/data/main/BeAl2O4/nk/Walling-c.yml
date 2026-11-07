@@ -10,7 +10,7 @@ REFERENCES: |
     Dispersive properties of alexandrite and beryllium hexaaluminate crystals.
     [*Opt. Mater. Express*, **6**, 2177–2183 (2016)](https://doi.org/10.1364/OME.6.002177)<br>
     * Ref. 2 provides a dispersion formula based on  the experimental data from Ref. 1
-COMMENTS: |
+NOTES: |
     n<sub>c</sub>; Room temperature.
 CONDITIONS:
     optical_component: c

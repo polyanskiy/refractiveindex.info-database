@@ -6,7 +6,7 @@ REFERENCES: |
     R. DeSalvo, A. A. Said, D. J. Hagan, E. W. Van Stryland, M. Sheik-Bahae.
     Infrared to ultraviolet measurements of two-photon absorption and n<sub>2</sub> in wide bandgap solids.
     [*IEEE J. Quantum Electron.* **32**, 1324 (1996)](https://doi.org/10.1109/3.511545)
-COMMENTS: |
+NOTES: |
     E∥Z. 22 ps. Z-scan.
 CONDITIONS:
     n2_method: Z-scan

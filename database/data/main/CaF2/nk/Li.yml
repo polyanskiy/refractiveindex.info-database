@@ -7,7 +7,7 @@ REFERENCES: |
     Refractive index of alkaline earth halides and its wavelength and temperature derivatives.
     [*J. Phys. Chem. Ref. Data* **9**, 161-289 (1980)](https://doi.org/10.1063/1.555616) and references therein.<br>
     * Sellmeier formula is derived by critical analysis of experimental data from several sources.
-COMMENTS: |
+NOTES: |
     293 K (20 °C).
 DATA:
   - type: formula 1

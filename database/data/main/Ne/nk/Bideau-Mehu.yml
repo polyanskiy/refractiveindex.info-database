@@ -11,7 +11,7 @@ REFERENCES: |
     [*Proc. R. Soc. London A* **135**, 40-47 (1936)](https://doi.org/10.1098/rspa.1932.0019)<br>
     * Sellmeier formula is derived by the authors of ref. 1 using their own data in the 0.1404-0.2537 μm range combined with data from ref. 2 at longer wavelengths.<br>
     ** A misprint is corrected in the Sellmeier formula: "182.90" is replaced by "1.8290" in the nominator of the second term before converting the formula to the form used in the refractiveindex.info database.
-COMMENTS: |
+NOTES: |
     Standard conditions: 0 °C, 760 torr (101.325 kPa).
 CONDITIONS:
     temperature: 273.15

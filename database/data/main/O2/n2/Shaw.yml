@@ -6,7 +6,7 @@ REFERENCES: |
     M. J. Shaw, C. J. Hooker, D. C. Wilson.
     Measurement of the nonlinear refractive index of air and other gases at 248 nm.
     [ *Opt. Commun.* **103**, 153-1960 (1993)](https://doi.org/10.1016/0030-4018(93)90657-Q)
-COMMENTS: |
+NOTES: |
     10 ps at 248 nm. Spectral analysis of self-phase modulation.
 CONDITIONS:
     n2_method: SSPM

@@ -10,7 +10,7 @@ REFERENCES: |
     Determination of optical constants of scandium films in the 20-1000 eV range.
     [*J. Opt. Soc. Am. A* **23**, 2880-2887 (2006)](https://doi.org/10.1364/JOSAA.23.002880)
     (Numerical data kindly provided by Juan Larruquert)
-COMMENTS: |
+NOTES: |
     Density: 2.84 g/cm<sup>3</sup>. Film deposited at room temperature.
 DATA:
   - type: tabulated nk

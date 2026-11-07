@@ -4,7 +4,7 @@
 
 REFERENCES: |
     [Micro resist EpoCore and EpoClad datasheet](https://refractiveindex.info/download/data/2015/PI_EpoCore_Clad_2015.pdf), 2015
-COMMENTS: |
+NOTES: |
     Micro resist EpoCore negative photoresist for waveguide manufacturing
 DATA:
   - type: formula 5

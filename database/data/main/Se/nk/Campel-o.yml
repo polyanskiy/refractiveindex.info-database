@@ -4,7 +4,7 @@
 
 REFERENCES: |
     L. Gampel and F. M. Johnson, Index of refraction of single-crystal selenium, <a https://doi.org/10.1364/JOSA.59.000072">*J. Opt. Soc. Am.*, **59**, 72-73 (1969)</a>
-COMMENTS: |
+NOTES: |
     Single-crystal selenium; 23 °C; Ordinary ray.
 CONDITIONS:
     optical_component: o

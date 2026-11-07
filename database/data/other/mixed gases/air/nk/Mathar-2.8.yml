@@ -7,7 +7,7 @@ REFERENCES: |
     Refractive index of humid air in the infrared: model fits.
     [*J. Opt. A: Pure Appl. Opt.* **9**, 470-476 (2007)](https://doi.org/10.1088/1464-4258/9/5/008)<br>
     [[Calculation script (Python)](https://github.com/polyanskiy/refractiveindex.info-scripts/blob/main/scripts/Mathar%202007%20-%20Air%202.8-4.2um.py) - can be used to calculate the refractive index of air for specific values of humidity, temperature, and pressure]
-COMMENTS: |
+NOTES: |
     Dry air at 15 °C, 101.325 kPa, 370 ppm CO<sub>2</sub> content.
 CONDITIONS:
     temperature: 288.15

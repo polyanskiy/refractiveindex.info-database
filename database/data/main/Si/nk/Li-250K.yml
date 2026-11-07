@@ -6,7 +6,7 @@ REFERENCES: |
     H. H. Li.
     Refractive index of silicon and germanium and its wavelength and temperature derivatives.
     [*J. Phys. Chem. Ref. Data* **9**, 561-658 (1993)](https://doi.org/10.1063/1.555624)
-COMMENTS: |
+NOTES: |
     250 K (-23 °C)
 DATA:
   - type: tabulated n

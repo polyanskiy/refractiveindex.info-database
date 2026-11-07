@@ -7,7 +7,7 @@ REFERENCES: |
     Optical, structural, and functional properties of highly reflective and stable iridium mirror coatings for infrared applications.
     [*Opt. Mater. Express* **12**, 545-559 (2022)](https://doi.org/10.1364/OME.447306)
     (See supplementary materials. High-resolution data kindly provided by Paul Schmitt.)
-COMMENTS: |
+NOTES: |
     Iridium coating deposited by atomic layer deposition (ALD).
 CONDITIONS:
     film_thickness: 66e-9

@@ -7,7 +7,7 @@ REFERENCES: |
     Optical properties of plasmonic titanium nitride thin films from ultraviolet to mid-infrared wavelengths deposited by pulsed-DC sputtering, thermal and plasma-enhanced atomic layer deposition.
     [*Opt. Mater.* **143**, 114237 (2023)](https://doi.org/10.1016/j.optmat.2023.114237)
     (Numerical data kindly provided by Osamu Takayama)
-COMMENTS: |
+NOTES: |
     50 nm thick film deposited by pulsed-DC sputtering.
 CONDITIONS:
     film_thickness: 50e-9

@@ -7,7 +7,7 @@ REFERENCES: |
     Refractive index determination of SiO<sub>2</sub> layer in the UV/Vis/NIR range: spectrophotometric reverse engineering on single and bi-layer designs.
     [*J. Europ. Opt. Soc. Rap. Public.* **8**, 13010 (2013)](https://doi.org/10.2971/jeos.2013.13010)
     (Numerical data kindly provided by F. Lemarchand)
-COMMENTS: |
+NOTES: |
     300-nm monolayer deposited on fused silica using the ion assistance electronic beam deposition technique.
 DATA:
   - type: tabulated nk

@@ -4,7 +4,7 @@
 
 REFERENCES: |
     D. F. Edwards and R. H. White, "Beryllium Oxide," in E. D. Palik (ed.), Handbook of Optical Constants of Solids II, Academic Press, Orlando, 1991, pp. 805-814.
-COMMENTS: |
+NOTES: |
     Extraordinary optical constants (e). Room temperature
 CONDITIONS:
     optical_component: e

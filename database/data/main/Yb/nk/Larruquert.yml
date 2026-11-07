@@ -10,7 +10,7 @@ REFERENCES: |
     Optical constants of Yb films in the 23-1700 eV range.
     [*J. Opt. Soc. Am. A* **24**, 3691-3699 (2007)](https://doi.org/10.1364/JOSAA.24.003691)<br>
     (Numerical data kindly provided by Juan Larruquert)
-COMMENTS: |
+NOTES: |
     Density: 6.81 g/cm<sup>3</sup>. Film deposited at room temperature.
 DATA:
   - type: tabulated nk

@@ -6,7 +6,7 @@ REFERENCES: |
     K. M. McPeak, S. V. Jayanti, S. J. P. Kress, S. Meyer, S. Iotti, A. Rossinelli, D. J. Norris.
     Plasmonic films can easily be better: Rules and recipes.
     [*ACS Photonics* **2**, 326-333 (2015)](https://doi.org/10.1021/ph5004237)
-COMMENTS: |
+NOTES: |
     Thermally evaporated Ag at 50 Å/s with base pressure of 3e-8 Torr, template stripped from Si wafer
 DATA:
   - type: tabulated nk

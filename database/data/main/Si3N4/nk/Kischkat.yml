@@ -7,7 +7,7 @@ REFERENCES: |
     Mid-infrared optical properties of thin films of aluminum oxide, titanium dioxide, silicon dioxide, aluminum nitride, and silicon nitride.
     [*Appl. Opt.* **51**, 6789-6798 (2012)](https://doi.org/10.1364/AO.51.006789)
     (Numerical data kindly provided by Jan Kischkat)
-COMMENTS: |
+NOTES: |
     437-nm single layer on Si substrate. Prepared by room temperature reactive sputter deposition using Si target and 2.0 SCCM N<sub>2</sub> flux at 300 W plasma power.<br>Data on the influence of deposition conditions on the optical properties of the film can be found in the original publication.<br>Data on the refractive index (n) in the visible can be found in the original publication.
 DATA:
   - type: tabulated nk

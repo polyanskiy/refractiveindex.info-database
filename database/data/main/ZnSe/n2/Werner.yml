@@ -6,7 +6,7 @@ REFERENCES: |
     K. Werner, M. G. Hastings, A. Schweinsberg, B. L. Wilmer, D. Austin, C. M. Wolfe, M. Kolesik, T. R. Ensley, L. Vanderhoef, A. Valenzuela, E. Chowdhury.
     Ultrafast mid-infrared high harmonic and supercontinuum generation with n<sub>2</sub> characterization in zinc selenide.
     [*Opt. Express* **27**, 2867 (2019)](https://doi.org/10.1364/OE.27.002867)
-COMMENTS: |
+NOTES: |
     260 fs. Z-scan.
 CONDITIONS:
     n2_method: Z-scan

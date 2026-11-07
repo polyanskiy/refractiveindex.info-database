@@ -7,7 +7,7 @@ REFERENCES: |
     Optical properties of tungsten trioxide, palladium, and platinum thin films for functional nanostructures engineering.
     [*Opt. Express* **28**, 32049-32060 (2020)](https://doi.org/10.1364/OE.405403)
     (Numerical data kindly provided by Alexander Dorofeenko)
-COMMENTS: |
+NOTES: |
     81 nm-thick WO<sub>3</sub> film deposited directly on SiO<sub>2</sub> substrate
 CONDITIONS:
     film_thickness: 81e-9

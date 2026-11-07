@@ -7,7 +7,7 @@ REFERENCES: |
     Exploring the dielectric function of platinum.
     [*Phys. Rev. B* **110**, 195130 (2024)](https://doi.org/10.1103/PhysRevB.110.195130)
     (Numerical data kindly provided by Andrey Tselin)
-COMMENTS: |
+NOTES: |
     80 nm Pt film on quartz, deposited by EB-PVD, characterized by spectroscopic ellipsometry and DFT calculations.
 CONDITIONS:
     substrate: SiO2

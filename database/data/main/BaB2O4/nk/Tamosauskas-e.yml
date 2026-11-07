@@ -9,7 +9,7 @@ REFERENCES: |
     2) G. Tamošauskas. β-barium borate (BBO) absorption in the 0.188-6.22 μm range.
     [arXiv:2111.01212 [physics.optics] (2021)](https://arxiv.org/abs/2111.01212)
     (Numerical data kindly provided by Gintaras Tamošauskas)
-COMMENTS: |
+NOTES: |
     Beta barium borate (ß-BaB<sub>2</sub>O<sub>4</sub>, BBO). Extraordinary optical constants (e).
 CONDITIONS:
     optical_component: e

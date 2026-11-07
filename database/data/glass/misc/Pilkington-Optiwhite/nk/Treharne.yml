@@ -7,7 +7,7 @@ REFERENCES: |
     RF magnetron sputtering of transparent conducting oxides and CdTe/CdS solar cells.
     [*PhD Thesis, University of Durham* (2011)](http://etheses.dur.ac.uk/3310)
     (Numerical data kindly provided by Dr. Robert Treharne)
-COMMENTS: |
+NOTES: |
     Variable-angle ellipsometer was used to take amplitude and phase change measurements. The refractive index and extinction coefficient was extracted for NSG Opti-White (low-Fe) glass from a multi-oscillator model fit to the ellipsometry data, as a function of wavelength, from 300 to 1500 nm
 DATA:
   - type: tabulated nk

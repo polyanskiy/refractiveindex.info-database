@@ -7,7 +7,7 @@ REFERENCES: |
     Determination of the far-infrared dielectric function of a thin InGaAs layer using a detuned Salisbury screen.
     [*Optical Material Express* **12**, 2711–2723 (2022)](https://doi.org/10.1364/OME.455445)<br>
     [[Calculation script (Python)](https://github.com/polyanskiy/refractiveindex.info-scripts/blob/main/scripts/Le%202022%20-%20InGaAs.py)]
-COMMENTS: |
+NOTES: |
     In<sub>1-x</sub>Ga<sub>x</sub>As; x=0.47. Thin film: 310 nm. Room temperature.
 CONDITIONS:
     film_thickness: 310e-9

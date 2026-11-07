@@ -9,7 +9,7 @@ REFERENCES: |
     2) J. I. Larruquert, J. A. Méndez, J. A. Aznárez.
     Far-ultraviolet reflectance measurements and optical constants of unoxidized aluminum films.
     [*Appl. Opt.* **34**, 4892-4899 (1995)](https://doi.org/10.1364/AO.34.004892)
-COMMENTS: |
+NOTES: |
     Optical constants are obtained from reflectance measurements versus angle of incidence. Film deposited at room temperature.
 DATA:
   - type: tabulated nk

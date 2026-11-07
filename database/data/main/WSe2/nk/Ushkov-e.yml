@@ -7,7 +7,8 @@ REFERENCES: |
     Tungsten diselenide nanoparticles produced via femtosecond ablation for SERS and theranostics applications.
     [*Nanomaterials*, **15(1)**, 4 (2025)](https://doi.org/10.3390/nano15010004)
     (Numerical data kindly provided by Georgy Ermolaev)
-COMMENTS: "WSe<sub>2</sub> nanoparticles with diameters from 5 to 150 nm synthesized by femtosecond laser ablation."
+NOTES: |
+    WSe<sub>2</sub> nanoparticles with diameters from 5 to 150 nm synthesized by femtosecond laser ablation.
 CONDITIONS:
     optical_component: e
 DATA:

@@ -6,7 +6,7 @@ REFERENCES: |
     A. N. Bashkatov and E. A. Genina.
     Water refractive index in dependence on temperature and wavelength: a simple approximation.
     [*Proc. SPIE* **5068**, 393-395 (2003)](https://doi.org/10.1117/12.518857)
-COMMENTS: |
+NOTES: |
     High-performance liquid chromatography (HPLC) distilled water at 20.0 °C.<br>
     <br>
     There are typesetting errors in the original paper: In Table 2, the coefficient C must be multiplied by 10<sup>8</sup> (not 10<sup>−8</sup>) and the coefficient D must be multiplied by 10<sup>12</sup>. Additionally, Equation (7) must be multiplied by 10<sup>12</sup>. With these corrections, and after converting the wavelength to µm, the following expressions can be used to calculate the coefficients of the dispersion formula at any temperature in the 0–100 °C range:<br>

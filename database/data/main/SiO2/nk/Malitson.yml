@@ -10,7 +10,7 @@ REFERENCES: |
     Determination of refractive index of silica glass for infrared wavelengths by IR spectroscopy.
     [*J. Non-Cryst. Solids* **223**, 158-163 (1998)](https://doi.org/10.1016/S0022-3093(97)00438-9)<br>
     * Sellmeier formula is reported in Ref. 1 for the 0.21–3.71 μm wavelength range. Ref. 2 verifies the validity of the formula up to 6.7 μm.
-COMMENTS: |
+NOTES: |
     Fused silica, 20 °C
 CONDITIONS:
     temperature: 293

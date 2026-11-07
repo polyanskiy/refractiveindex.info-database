@@ -6,7 +6,7 @@ REFERENCES: |
     R. Adair, L. L. Chase, S. A. Payne.
     Nonlinear refractive index of optical crystals.
     [*Phys. Rev. B* **39**, 3337 (1989)](https://doi.org/10.1103/PhysRevB.39.3337)
-COMMENTS: |
+NOTES: |
     MgO[100]. 3 ns. Three-wave mixing.
 CONDITIONS:
     n2_method: TWM

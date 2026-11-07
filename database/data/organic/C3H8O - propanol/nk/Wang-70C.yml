@@ -7,7 +7,7 @@ REFERENCES: |
     Temperature-dependent optical constants of liquid isopropanol, n-butanol and n-decane.
     [*Appl. Opt.* **57**, 3303-3311 (2018)](https://doi.org/10.1364/AO.57.003003)
     (Numerical data kindly provided by Chengchao Wang)
-COMMENTS: |
+NOTES: |
     Isopropanol, 70 °C.
 CONDITIONS:
     temperature: 343

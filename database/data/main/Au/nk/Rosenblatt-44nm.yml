@@ -7,7 +7,7 @@ REFERENCES: |
     Nonmodal plasmonics: Controlling the forced optical response of nanostructures.
     [*Phys. Rev. X* **10**, 011071 (2020)](https://doi.org/10.1103/PhysRevX.10.011071)
     (See supplemental materials)
-COMMENTS: |
+NOTES: |
     44 nm Au film. Measured using a J.A Woollam VASE ellipsometer at room temperature.
 CONDITIONS:
     film_thickness: 44e-9

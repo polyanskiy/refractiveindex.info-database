@@ -6,7 +6,7 @@ REFERENCES: |
     P. L. Smith, M. C. E. Huber, W. H. Parkinson.
     Refractivities of H<sub>2</sub>, He, O<sub>2</sub>, CO, and Kr for 168≤λ≤288 nm.
     [*Phys Rev. A* **13**, 199-203 (1976)](https://doi.org/10.1103/PhysRevA.13.1422)
-COMMENTS: |
+NOTES: |
     Standard conditions: 0 °C (273.15 K), 760 torr (101.325 kPa).
 CONDITIONS:
     temperature: 273.15

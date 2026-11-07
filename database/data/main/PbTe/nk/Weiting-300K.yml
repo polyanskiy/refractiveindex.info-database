@@ -7,7 +7,7 @@ REFERENCES: |
     Temperature effects on the refractive index of lead telluride and zinc selenide.
     [*Infrared Phys.* **30**, 371-373, 1990](https://doi.org/10.1016/0020-0891(90)90055-Z)<br>
     (fitting experimental data with dispersion formula: refractiveindex.info)
-COMMENTS: |
+NOTES: |
     300 K (27 °C)
 DATA:
   - type: formula 4

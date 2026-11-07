@@ -7,7 +7,7 @@ REFERENCES: |
     Optical constants of germanium antimony telluride (GST) in amorphous, crystalline, and intermediate states.
     [*Opt. Mater. Express* **13**, 3631-3640 (2023)](https://doi.org/10.1364/OME.506019)
     (See supplemental materials)
-COMMENTS: |
+NOTES: |
     Crystalline Ge<sub>2</sub>Sb<sub>2</sub>Te<sub>5</sub>.
 DATA:
   - type: tabulated nk

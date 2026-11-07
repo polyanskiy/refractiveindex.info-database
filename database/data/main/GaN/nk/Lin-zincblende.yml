@@ -7,7 +7,7 @@ REFERENCES: |
     Refractive indices of wurtzite and zincblende GaN.
     [*Electron. Lett.* **29**, 1759-1760 (1993)](https://doi.org/10.1049/el:19931172)
     (Data points extracted from a figure)
-COMMENTS: |
+NOTES: |
     Zincblend GaN film grown on GaAs substrate by plasma-enhanced molecular beam epitaxy.
 DATA:
   - type: tabulated n

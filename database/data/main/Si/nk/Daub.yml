@@ -9,7 +9,7 @@ REFERENCES: |
     (as cited in C. Schinke, D. Hinken, J. Schmidt, K. Bothe, R. Brendel.
     Modeling the spectral luminescence emission of silicon solar cells and wafers.
     [*IEEE J. Photovolt.* **3**, 1038-1052 (2013)](https://doi.org/10.1109/JPHOTOV.2013.2263985))
-COMMENTS: |
+NOTES: |
     Band-to-band absorption coefficient. Temperature: 295 K.
 CONDITIONS:
     temperature: 295

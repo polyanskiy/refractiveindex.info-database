@@ -7,7 +7,7 @@ REFERENCES: |
     Optical dielectric function of gold.
     [*Phys. Rev. B* **86**, 235147 (2012)](https://doi.org/10.1103/PhysRevB.86.235147)
     (See Supplemental Material)
-COMMENTS: |
+NOTES: |
     Template-stripped gold
 DATA:
   - type: tabulated nk

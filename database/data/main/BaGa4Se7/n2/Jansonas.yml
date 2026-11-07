@@ -6,7 +6,7 @@ REFERENCES: |
     G. Jansonas, R. Budriūnas, M. Vengris, A. Varanavičius.
     Interferometric measurements of nonlinear refractive index in the infrared spectral range.
     [*Opt. Express* **30**, 30507–30524 (2022)](https://doi.org/10.1364/OE.458850)
-COMMENTS: |
+NOTES: |
     Single crystal BaGa<sub>4</sub>Se<sub>7</sub> (BGSe). Polar angle (θ): 0°, azimuthal angle (φ): unknown.  170 fs and 190 fs at 2.2 μm and 3.2 μm, respectively. Fourier Interferometry.
 CONDITIONS:
     n2_method: FI

@@ -6,7 +6,7 @@ REFERENCES: |
     Y. Shimoji, A. T. Fay, R. S. F. Chang, N. Djeu.
     Direct measurement of the nonlinear refractive index of air.
     [ *J. Opt. Soc. Am.* **6**, 1994-1998 (1989)](https://doi.org/10.1364/JOSAB.6.001994)
-COMMENTS: |
+NOTES: |
     300 ps at 308 nm. Spatial profile analysis.
 CONDITIONS:
     n2_method: SPA

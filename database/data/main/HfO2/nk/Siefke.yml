@@ -7,7 +7,7 @@ REFERENCES: |
     Atomic layer deposition for hafnium oxide-based meta-optics in the ultraviolet spectral range.
     [*J. Eur. Opt. Society-Rapid Publ.* **22**, 33 (2026)](https://doi.org/10.1051/jeos/2026036)
     (Numerical data kindly provided by Thomas Siefke)
-COMMENTS: |
+NOTES: |
      HfO<sub>2</sub> thin films deposited by plasma-enhanced atomic layer deposition (PEALD).
 CONDITIONS:
     film_thickness: 220e-9

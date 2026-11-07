@@ -8,7 +8,7 @@ REFERENCES: |
     [*Phys. Rev. B* **5**, 3017-3029 (1972)](https://doi.org/10.1103/PhysRevB.5.3017)<br>
     2) Handbook of Optical Constants of Solids, Edward D. Palik, ed. Academic Press, Boston, 1985<br>
     * Ref. 2 provides numerical values for the graphical data reported in Ref. 1
-COMMENTS: |
+NOTES: |
     Amorphous silicon (α-Si or a-Si). 60-nm film.
 DATA:
   - type: tabulated nk

@@ -12,7 +12,7 @@ REFERENCES: |
     Synowicki 2004 - MgO.py</a>, 
     <a href="https://github.com/polyanskiy/refractiveindex.info-scripts/blob/main/scripts/Synowicki%202004%20-%20Aux%20funcs.py">
     Synowicki 2004 - Aux funcs.py</a>
-COMMENTS: |
+NOTES: |
     Data generated from oscillator model.
 DATA:
   - type: tabulated nk

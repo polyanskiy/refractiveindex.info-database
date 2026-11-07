@@ -6,7 +6,7 @@ REFERENCES: |
     S. R. Flom, G. Beadie, S. S. Bayya, B. Shaw, J. M. Auxier.
     Ultrafast Z-scan measurements of nonlinear optical constants of window materials at 772, 1030, and 1550 nm.
     [*Appl. Opt.* **54**, F123 (2015)](https://doi.org/10.1364/AO.54.00F123)
-COMMENTS: |
+NOTES: |
     Fused silica. 280 fs @ 772 nm, 140 fs @ 1030 nm, 97 fs @ 1550 nm. Z-scan.
 CONDITIONS:
     n2_method: Z-scan

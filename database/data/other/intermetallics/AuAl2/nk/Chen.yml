@@ -7,7 +7,7 @@ REFERENCES: |
     The optical properties of AuAl<sub>2</sub> and PtAl<sub>2</sub>.
     [*Phys. Status Solidi B* **148**, 387-394 (1988)](https://doi.org/10.1002/pssb.2221480136)
     (Data points extracted from a figure)
-COMMENTS: |
+NOTES: |
     Bulk sample. Room temperature.
 DATA:
   - type: tabulated nk

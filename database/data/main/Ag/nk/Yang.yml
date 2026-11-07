@@ -7,7 +7,7 @@ REFERENCES: |
     Optical dielectric function of silver.
     [*Phys. Rev. B* **91**, 235137 (2015)](https://doi.org/10.1103/PhysRevB.91.235137)
     (See Supplemental Material. Data taken from 'Ag_C_corrected.csv'.)
-COMMENTS: |
+NOTES: |
     Template-stripped silver
 DATA:
   - type: tabulated nk

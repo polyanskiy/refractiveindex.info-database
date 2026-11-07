@@ -9,7 +9,7 @@ REFERENCES: |
     (Data kindly provided by Tatiana Amotchkina
     [[data](https://refractiveindex.info/download/data/2020/Amotchkina/ZnS_nk.xlsx)]
     [[description](https://refractiveindex.info/download/data/2020/Amotchkina/Summary_for_RefractiveIndexINFO.pdf)])
-COMMENTS: |
+NOTES: |
     1.008 µm ZnS film deposited on 3 mm thick Ge substrate by e-beam evaporation at 120 °C substrate temperature.
 CONDITIONS:
     substrate: Ge

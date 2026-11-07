@@ -6,7 +6,7 @@ REFERENCES: |
     A. R. Beal and H. P. Huges.
     Kramers-Kronig analysis of the reflectivity spectra of 2H-MoS<sub>2</sub>, 2H-MoSe<sub>2</sub>, and 2H-MoTe<sub>2</sub>.
     [*J. Phys. C* **12**, 881 (1979)](https://doi.org/10.1088/0022-3719/12/5/017)
-COMMENTS: |
+NOTES: |
     
 DATA:
   - type: tabulated nk

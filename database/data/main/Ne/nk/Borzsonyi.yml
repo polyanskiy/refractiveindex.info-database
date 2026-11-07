@@ -6,7 +6,7 @@ REFERENCES: |
     A. Börzsönyi, Z. Heiner, M. P. Kalashnikov, A. P. Kovács, K. Osvay.
     Dispersion measurement of inert gases and gas mixtures at 800 nm.
     [*Appl. Opt.* **47**, 4856-4863 (2008)](https://doi.org/10.1364/AO.47.004856)
-COMMENTS: |
+NOTES: |
     273 K (0 °C), 1000 mbar. Dispersion formula may be usable down to ~0.2 µm.
 CONDITIONS:
     temperature: 273

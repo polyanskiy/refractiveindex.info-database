@@ -6,7 +6,7 @@ REFERENCES: |
     B. Iezzi, Z. Afkhami, S. Sanvordenker, D. Hoelzle, K. Barton, M. Shtein. Electrohydrodynamic jet printing of 1D photonic crystals: Part II — Optical design and reflectance characteristics.
     [*Adv. Mater Technol.* **5**, 2000431 (2020)](https://doi.org/10.1002/admt.202000431)
     (Numerical data kindly provided by Brian Iezzi)
-COMMENTS: |
+NOTES: |
     2 μm film spin-coated onto glass substrates.
 CONDITIONS:
     film_thickness: 2e-6

@@ -6,7 +6,7 @@ REFERENCES: |
     W. C. Hurlbut, Y.-S. Lee, K. L. Vodopyanov, P. S. Kuo, M. M. Fejer.
     Multiphoton absorption and nonlinear refraction of GaAs in the mid-infrared.
     [*Opt. Lett.* **32**, 668 (2007)](https://doi.org/10.1364/OL.32.000668)
-COMMENTS: |
+NOTES: |
     100 ps. Z-scan. See reference for n2(λ) in 1.3–3.5 µm range
 CONDITIONS:
     n2_method: Z-scan

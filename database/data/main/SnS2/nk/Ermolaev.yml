@@ -7,7 +7,7 @@ REFERENCES: |
     Broadband optical constants and nonlinear properties of SnS<sub>2</sub> and SnSe<sub>2</sub>.
     [*Nanomaterials* **12**, 141 (2022)](https://doi.org/10.3390/nano12010141)
     (Numerical data kindly provided by Georgy Ermolaev)
-COMMENTS: |
+NOTES: |
     20 nm CVD SnS<sub>2</sub>.
 CONDITIONS:
     film_thickness: 20e-9

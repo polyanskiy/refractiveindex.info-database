@@ -6,7 +6,7 @@ REFERENCES: |
     A. D. Bristow, N. Rotenberg, H. M. van Driel.
     Two-photon absorption and Kerr coefficients of silicon for 850–2200nm.
     [*Appl. Phys. Lett.* **90**, 37940 (2007)](https://doi.org/10.1063/1.2737359)
-COMMENTS: |
+NOTES: |
     200 fs. Z-scan.
 CONDITIONS:
     n2_method: Z-scan

@@ -9,7 +9,7 @@ REFERENCES: |
     (Data kindly provided by Tatiana Amotchkina
     [[data](https://refractiveindex.info/download/data/2020/Amotchkina/YbF3_nk.xlsx)]
     [[description](https://refractiveindex.info/download/data/2020/Amotchkina/Summary_for_RefractiveIndexINFO.pdf)])
-COMMENTS: |
+NOTES: |
     1.95 µm YbF<sub>3</sub> film deposited on 1 mm thick ZnSe substratee by e-beam evaporation at 120 °C substrate temperature.
 CONDITIONS:
     substrate: ZnSe

@@ -7,7 +7,7 @@ REFERENCES: |
     Optical constants of graphene measured by spectroscopic ellipsometry.
     [*Appl. Phys. Lett.* **97**, 091904 (2010)](https://doi.org/10.1063/1.3475393)
     (Numerical data kindly provided by Jan-Willem Weber)
-COMMENTS: |
+NOTES: |
     Graphene (mechanically exfoliated flake). Thickness: 3.4 Å. Substrate: silicon with 98-nm silicon oxide layer.
 CONDITIONS:
     substrate: Si

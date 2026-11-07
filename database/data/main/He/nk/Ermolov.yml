@@ -6,7 +6,7 @@ REFERENCES: |
     A. Ermolov, K. F. Mak, M. H. Frosz, J. C. Travers, P. St. J. Russell.
     Supercontinuum generation in the vacuum ultraviolet through dispersive-wave and soliton-plasma interaction in a noble-gas-filled hollow-core photonic crystal fiber.
     [*Phys. Rev. A* **92**, 033821 (2015)](https://doi.org/10.1103/PhysRevA.92.033821)
-COMMENTS: |
+NOTES: |
     Standard conditions. 0 °C, 760 torr (101.325 kPa).
 CONDITIONS:
     temperature: 273.15

@@ -7,7 +7,7 @@ REFERENCES: |
     Experimental demonstration of effective medium approximation breakdown in deeply subwavelength all-dielectric multilayers.
     [*Phys. Rev. Lett.* **115**, 177402 (2015)](https://doi.org/10.1103/PhysRevLett.115.177402)
     (Numerical data kindly provided by Osamu Takayama)
-COMMENTS: |
+NOTES: |
     20 nm thick films on Si substrate deposited by atomic layer deposition (ALD) at 120 °C deposition temperature.
 CONDITIONS:
     film_thickness: 20e-9

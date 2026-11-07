@@ -7,7 +7,7 @@ REFERENCES: |
     Temperature and wavelength dependent refractive index equations for MgO-doped congruent and stoichiometric LiNbO<sub>3</sub>.
     [*Appl. Phys. B* **91**, 343-348 (2008)](https://doi.org/10.1007/s00340-008-2998-2).
     Also see [Erratum](https://doi.org/10.1007/s00340-008-3316-8).
-COMMENTS: |
+NOTES: |
     24.5 °C. Extraordinary optical constants (e). Congruently grown lithium niobate SLN) doped with 1 mol. % MgO. See the original publication for temperature-dependent refractive index equations.
 CONDITIONS:
     temperature: 297.65

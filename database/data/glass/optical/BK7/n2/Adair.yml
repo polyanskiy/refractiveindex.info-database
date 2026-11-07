@@ -6,7 +6,7 @@ REFERENCES: |
     R. Adair, L. L. Chase, S. A. Payne.
     Nonlinear refractive-index measurements of glasses using three-wave frequency mixing.
     [*J. Opt. Soc. Am. B* **4**, 875 (1987)](https://doi.org/10.1364/JOSAB.4.000875)
-COMMENTS: |
+NOTES: |
     3 ns. Three-wave mixing.
 CONDITIONS:
     n2_method: TWM

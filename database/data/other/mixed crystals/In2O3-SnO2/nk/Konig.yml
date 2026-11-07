@@ -7,7 +7,7 @@ REFERENCES: |
     Electrically tunable plasmonic behavior of nanocube-polymer nanomaterials induced by a redox-active electrochromic polymer.
     [*ACS Nano* **8**, 6182-6192 (2014)](https://doi.org/10.1021/nn501601e)
     (Numerical data kindly provided by Tobias König)
-COMMENTS: |
+NOTES: |
     72 nm ITO film on BK7 glass substrate. Purchased from Delta Technology (CG-60IN-CUV), 15–25 ohms. ITO includes a separate roughness layer (see \with EMA")"
 CONDITIONS:
     film_thickness: 72e-9

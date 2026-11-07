@@ -7,7 +7,7 @@ REFERENCES: |
     Optical properties of organometal halide perovskite thin films and general device structure design rules for perovskite single and tandem solar cells.
     [*J. Mater. Chem. A* **3**, 9152-9159 (2015)](https://doi.org/10.1039/C4TA05237D)
     (Data points extracted from Supplementary materials, Figure S2)
-COMMENTS: |
+NOTES: |
     PEDOT:PSS (Clevios AI 4083) thin film.
 DATA:
   - type: tabulated n

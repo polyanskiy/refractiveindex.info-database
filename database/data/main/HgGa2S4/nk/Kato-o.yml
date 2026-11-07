@@ -6,7 +6,7 @@ REFERENCES: |
     K. Kato, V. Petrov, N. Umemura.
     Phase-matching properties of yellow color HgGa<sub>2</sub>S<sub>4</sub> for SHG and SFG in the 0.944-10.5910 μm range.
     [*Appl. Opt.* **55**, 3145-3148 (2016)](https://doi.org/10.1364/AO.55.003145)
-COMMENTS: |
+NOTES: |
     Room temperature. Ordinary optical constants (o).
 CONDITIONS:
     optical_component: o

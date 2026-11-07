@@ -6,7 +6,7 @@ REFERENCES: |
     D. R. Smith and E. V. Loewenstein.
     Optical constants of far infrared materials. 3: plastics.
     [*Appl. Opt.* **14**, 1335-1341 (1975)](https://doi.org/10.1364/AO.14.001335)
-COMMENTS: |
+NOTES: |
     HDPE. Measured using approximately 1 mm thick film.
 DATA:
   - type: tabulated nk

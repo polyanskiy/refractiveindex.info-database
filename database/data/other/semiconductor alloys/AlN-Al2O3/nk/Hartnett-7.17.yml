@@ -6,7 +6,7 @@ REFERENCES: |
     T. M. Hartnett, S. D Bernstein, E. A Maguire, R. W Tustison.
     Optical properties of ALON (aluminum oxynitride).
     [*IR Phys. Technol*, **39**, 203-211 (1998)](https://doi.org/10.1016/S1350-4495(98)00007-3)
-COMMENTS: |
+NOTES: |
     Nitrogen content: 7.17 at.%
 DATA:
   - type: tabulated nk

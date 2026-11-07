@@ -7,7 +7,7 @@ REFERENCES: |
     Optical properties of metallic films for vertical-cavity optoelectronic devices.
     [*Appl. Opt.* **37**, 5271-5283 (1998)](https://doi.org/10.1364/AO.37.005271)<br>
     [[Calculation script (Python)](https://github.com/polyanskiy/refractiveindex.info-scripts/blob/main/scripts/Rakic%201998%20-%20Cu%20(LD%20model).py)]
-COMMENTS: |
+NOTES: |
     Fit of experimental data from several sources to Lorentz-Drude (LD) model
 DATA:
   - type: tabulated nk

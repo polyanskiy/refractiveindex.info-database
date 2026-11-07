@@ -10,7 +10,7 @@ REFERENCES: |
     Weighted nonlinear regression analysis of a Sellmeier expansion: comparison of several nonlinear fits of CdS dispersion.
     [*Appl. Opt.* **24**, 1147-1150 (1985)](https://doi.org/10.1364/AO.24.001147)</br>
     * Ref. 2 provides a dispersion formula based on data from ref. 1
-COMMENTS: |
+NOTES: |
     Extraordinary optical constants (e). 25 °C.
 CONDITIONS:
     temperature: 198

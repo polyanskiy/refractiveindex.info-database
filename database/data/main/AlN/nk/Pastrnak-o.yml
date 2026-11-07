@@ -6,7 +6,7 @@ REFERENCES: |
     J. Pastrňák and L. Roskovcová.
     Refraction index measurements on AlN single crystals.
     [*Phys. Stat. Sol.* **14**, K5-K8 (1966)](https://doi.org/10.1002/pssb.19660140127)
-COMMENTS: |
+NOTES: |
     Ordinary optical constants (o).
 CONDITIONS:
     optical_component: o

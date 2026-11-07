@@ -6,7 +6,7 @@ REFERENCES: |
     K. Kato, K. Miyata, L. Isaenko, S. Lobanov, V. Vedenyapin, V. Petrov.
     Phase-matching properties of LiGaS<sub>2</sub> in the 1.025–10.5910 μm spectral range.
     [*Opt. Lett.*, **42**, 4363–4366 (2017)](https://doi.org/10.1364/OL.42.004363)
-COMMENTS: |
+NOTES: |
     n<sub>z</sub>; room temperature.
 CONDITIONS:
     optical_component: z

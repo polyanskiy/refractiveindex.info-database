@@ -7,7 +7,7 @@ REFERENCES: |
     Optical constants of germanium and thermally grown germanium dioxide from 0.5 to 6.6 eV via a multi-sample ellipsometry investigation.
     [*J. Vac. Sci. Technol. B* **34**, 061205 (2016)](https://doi.org/10.1116/1.4963075)
     (See supplemental materials)
-COMMENTS: |
+NOTES: |
     300 K
 DATA:
   - type: tabulated nk

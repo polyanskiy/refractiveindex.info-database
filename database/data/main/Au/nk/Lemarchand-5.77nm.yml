@@ -7,7 +7,7 @@ REFERENCES: |
     L. Gao, F. Lemarchand, M. Lequime.
     Comparison of different dispersion models for single layer optical thin film index determination.
     [*Thin Solid Films* **520**, 501-509 (2011)](https://doi.org/10.1016/j.tsf.2011.07.028)
-COMMENTS: |
+NOTES: |
     5.77-nm monolayer deposited using the magnetron sputtering technique; thicknesses determined by X-ray diffraction.
 DATA:
   - type: tabulated nk

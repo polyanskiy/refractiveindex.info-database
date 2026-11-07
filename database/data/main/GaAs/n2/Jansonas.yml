@@ -6,7 +6,7 @@ REFERENCES: |
     G. Jansonas, R. Budriūnas, M. Vengris, A. Varanavičius.
     Interferometric measurements of nonlinear refractive index in the infrared spectral range.
     [*Opt. Express* **30**, 30507–30524 (2022)](https://doi.org/10.1364/OE.458850)
-COMMENTS: |
+NOTES: |
     Single crystal GaAs. Orientation: (100). 190 fs at 3.2 μm. Fourier Interferometry.
 CONDITIONS:
     n2_method: FI

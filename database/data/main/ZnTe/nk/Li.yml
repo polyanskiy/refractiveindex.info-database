@@ -7,7 +7,7 @@ REFERENCES: |
     Refractive index of ZnS, ZnSe, and ZnTe and its wavelength and temperature derivatives.
     [*J. Phys. Chem. Ref. Data* **13**, 103-150 (1984)](https://doi.org/10.1063/1.555705)<br>
     *Sellmeier formula is derived by critical analysis of experimental data from several sources.
-COMMENTS: |
+NOTES: |
     293 K (20 °C).
 DATA:
   - type: formula 4

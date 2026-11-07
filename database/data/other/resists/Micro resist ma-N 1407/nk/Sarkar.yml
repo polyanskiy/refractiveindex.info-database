@@ -7,7 +7,7 @@ REFERENCES: |
     Grating-coupled surface plasmon-polariton sensing at a flat metal–analyte interface in a hybrid-configuration.
     [*ACS Appl. Mater. Interfaces*, **12**, 46519-46529 (2020)](https://doi.org/10.1021/acsami.0c12525)
     (Numerical data kindly provided by Prof. Joby Joseph)
-COMMENTS: |
+NOTES: |
     Negative tone resist (ma-N 1407) thin film (thickness 1000 nm) on glass substrate.
 CONDITIONS:
     film_thickness: 1e-6

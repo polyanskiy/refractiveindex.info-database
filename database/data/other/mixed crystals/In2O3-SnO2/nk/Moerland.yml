@@ -7,7 +7,7 @@ REFERENCES: |
     Subnanometer-accuracy optical distance ruler based on fluorescence quenching by transparent conductors.
     [*Optica* **3**, 112-117 (2016)](https://doi.org/10.1364/OPTICA.3.000112)
     (See Supplementary materials. Numerical data kindly provided by Robert Moerland)
-COMMENTS: |
+NOTES: |
     17 nm ITO film on D263M glass substrate. Purchased from Optics Balzers. Surface roughness (1 sigma) = 0.4 nm. Variable angle spectroscopic ellipsometry data + normal-incidence transmittance data fitted over the 400 to 900 nm range.
 CONDITIONS:
     film_thickness: 17e-9

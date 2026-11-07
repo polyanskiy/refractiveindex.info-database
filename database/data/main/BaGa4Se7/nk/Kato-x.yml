@@ -6,7 +6,7 @@ REFERENCES: |
     K. Kato, K. Miyata, V. Petrov.
     Phase-matching properties of BaGa<sub>4</sub>Se<sub>7</sub> for SHG and SFG in the 0.901–10.5910 μm range.
     [*Appl. Opt.*, **56**, 2978–2981 (2017)](https://doi.org/10.1364/AO.56.002978)
-COMMENTS: |
+NOTES: |
     n<sub>x</sub>; room temperature.
 CONDITIONS:
     optical_component: x

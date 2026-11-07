@@ -6,7 +6,7 @@ REFERENCES: |
     D. T. F. Marple.
     Refractive index of ZnSe, ZnTe, and CdTe.
     [*J. Appl. Phys.* **35**, 539-542 (1964)](https://doi.org/10.1063/1.1713411)
-COMMENTS: |
+NOTES: |
     Room temperature
 DATA:
   - type: formula 2

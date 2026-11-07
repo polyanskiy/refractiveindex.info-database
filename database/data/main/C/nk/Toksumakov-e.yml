@@ -7,7 +7,7 @@ REFERENCES: |
     Anisotropic dielectric function of graphite probed by far- and near-field spectroscopies.
     [*Appl. Phys. Lett.* **128**, 141902 (2026)](https://doi.org/10.1063/5.0320505)
     (See Supporting information)
-COMMENTS: |
+NOTES: |
     Extraordinary (e) direction, normal to the graphene basal plane; equivalent to the crystallographic *c* direction.
 CONDITIONS:
     optical_component: e

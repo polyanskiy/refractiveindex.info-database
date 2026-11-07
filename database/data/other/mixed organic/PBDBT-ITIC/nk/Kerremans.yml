@@ -7,7 +7,7 @@ REFERENCES: |
     The optical constants of solution-processed semiconductors—new challenges with perovskites and non-fullerene acceptors.
     [*Adv. Opt. Mater.* **8**, 2000319 (2020)](https://doi.org/10.1002/adom.202000319)
     (Data points extracted from Figure 4, PBDB-T:ITIC, Ellipsometry)
-COMMENTS: |
+NOTES: |
     PBDB-T:ITIC (1:1) thin film.
 DATA:
   - type: tabulated n

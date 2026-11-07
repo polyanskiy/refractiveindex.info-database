@@ -10,7 +10,7 @@ REFERENCES: |
     Direct measurement of the Rayleigh scattering cross section in various gases.
     [*J. Quant. Spectrosc. Radiat. Transfer* **92**, 293-310 (2005)](https://doi.org/10.1016/j.jqsrt.2004.07.025)<br>
     * Ref. 2 provides a dispersion formula based on data from Ref. 1
-COMMENTS: |
+NOTES: |
     Dispersion formula is based on refraction measurement at only two wavelengths: 0.633 µm and 1.3 µm 
 CONDITIONS:
     temperature: 288

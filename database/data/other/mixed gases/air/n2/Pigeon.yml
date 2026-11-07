@@ -6,7 +6,7 @@ REFERENCES: |
     J. J. Pigeon, S. Ya. Tochitsky, E. C. Welch, C. Joshi.
     Measurements of the nonlinear refractive index of air, N<sub>2</sub>, and O<sub>2</sub> at 10 μm using four-wave mixing.
     [ *Opt. Lett.* **41**,  3924-3927 (2016)](https://doi.org/10.1364/OL.41.003924)
-COMMENTS: |
+NOTES: |
     200 ps at 10.6 nm. Four-wave mixing. Room temperature.
 CONDITIONS:
     n2_method: FWM

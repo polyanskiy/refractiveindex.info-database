@@ -7,7 +7,7 @@ REFERENCES: |
     Pure TeO<sub>2</sub> glass: Influence of synthesis conditions on linear and non-linear optical, magneto-optical and structural properties.
     [*J. Alloys Compd.* **997**, 174788 (2024)](https://doi.org/10.1016/j.jallcom.2024.174788)
     (See Supplementary materials)
-COMMENTS: |
+NOTES: |
     TeO<sub>2</sub> glass synthesized by intermittent quenching from a melt at 900 °C in a platinum crucible. Optical constants measured on an as-prepared surface. TeO<sub>2</sub> glass is hygroscopic, and polishing may modify its optical properties despite water-free processing. The original publication also reports data for polished samples, allowing comparison between the pristine melt/air interface and polished surfaces, as well as for glass synthesized in an alumina crucible, where significant Al<sub>2</sub>O<sub>3</sub> incorporation altered the glass composition and optical properties.
 DATA:
   - type: tabulated nk

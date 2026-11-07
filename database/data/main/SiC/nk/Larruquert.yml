@@ -7,7 +7,7 @@ REFERENCES: |
     Self-consistent optical constants of SiC thin films.
     [*J. Opt. Soc. Am. A* **28**, 2340-2345 (2011)](https://doi.org/10.1364/JOSAA.28.002340)
     (Numerical data kindly provided by Juan Larruquert)
-COMMENTS: |
+NOTES: |
     Density: 2.98 g/cm<sup>3</sup>. Film deposited at room temperature.
 DATA:
   - type: tabulated nk

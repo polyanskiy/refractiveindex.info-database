@@ -7,7 +7,7 @@ REFERENCES: |
     Nonlinear optical properties of hexagonal silicon carbide.
     [*Appl. Phys. Lett.* **19**, 53 (1971)](https://doi.org/10.1063/1.1653819)<br>
     (fit of the experimental data with Sellmeier dispersion formula: refractiveindex.info)
-COMMENTS: |
+NOTES: |
     α-SiC (hexagonal crystal structure); Ordinary optical constants (o); Room temperature.
 CONDITIONS:
     optical_component: o

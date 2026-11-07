@@ -7,7 +7,7 @@ REFERENCES: |
     Determination of the inertial contribution to the nonlinear refractive index of air,
     N<sub>2</sub>, and O<sub>2</sub> by use of unfocused high-intensity femtosecond laser pulses.
     [ *J. Opt. Soc. Am. B* **14**, 650-660 (1997)](https://doi.org/10.1364/JOSAB.14.000650)
-COMMENTS: |
+NOTES: |
     120 fs at 800 nm. Spectral analysis of self-phase modulation.
 CONDITIONS:
     n2_method: SSPM

@@ -9,7 +9,7 @@ REFERENCES: |
     (in German).<br>
     * Cauchy formula and experimental data presented in the paper don't match. Original data are re-fitted and the new formula is included in the database.
     See [[Figure](https://refractiveindex.info/download/data/1909/Loria_1909-Ethane.pdf)] for the comparison of the original data, the original fit and the new fit.
-COMMENTS: |
+NOTES: |
     Standard conditions. 0 °C, 760 torr (101.325 kPa).
 CONDITIONS:
     temperature: 273.15

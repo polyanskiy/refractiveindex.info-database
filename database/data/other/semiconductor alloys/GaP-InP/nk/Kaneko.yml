@@ -8,7 +8,7 @@ REFERENCES: |
     [*J. Appl. Phys.* **76**, 1809-1818 (1994)](https://doi.org/10.1063/1.357699)
     (Digitization of graphical data and Sellmeier fit: Pedro Victor Sansoldo, University of Adelaide, Australia)
     [[Calculation script (Python)](https://github.com/polyanskiy/refractiveindex.info-scripts/blob/main/scripts/Kaneko%201994%20-%20GaInP.py)]
-COMMENTS: |
+NOTES: |
     Averaged data for 580 nm and 851 nm GaInP films on a GaAs substrate.
 CONDITIONS:
     substrate: GaAs

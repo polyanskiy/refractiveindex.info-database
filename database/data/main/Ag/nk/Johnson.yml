@@ -6,7 +6,7 @@ REFERENCES: |
     P. B. Johnson and R. W. Christy.
     Optical constants of the noble metals.
     [*Phys. Rev. B* **6**, 4370-4379 (1972)](https://doi.org/10.1103/PhysRevB.6.4370)
-COMMENTS: |
+NOTES: |
     Room temperature
 DATA:
   - type: tabulated nk

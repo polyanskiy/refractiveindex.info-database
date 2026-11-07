@@ -7,7 +7,7 @@ REFERENCES: |
     Broadband optical properties of monolayer and bulk MoS<sub>2</sub>.
     [*NPJ 2D Mater. Appl.*, **4**, 21 (2020)](https://doi.org/10.1038/s41699-020-0155-x)
     (Numerical data kindly provided by Georgy Ermolaev)
-COMMENTS: |
+NOTES: |
     Broadband optical constants of monolayer MoS<sub>2</sub> on SiO<sub>2</sub>/Si substrate were measured by spectroscopic ellipsometry in the spectral range 290–3300 nm. Tauc-Lorentz oscillators were used in ellipsometry model to describe the optical response of excitons.
 CONDITIONS:
     film_thickness: 1L

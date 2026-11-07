@@ -7,7 +7,7 @@ REFERENCES: |
     Enhanced nonlinear yield from barium titanate metasurface down to the near ultraviolet.
     [*Adv. Opt. Mater.* **7**, 1900936 (2019)](https://doi.org/10.1002/adom.201900936)
     (Data points extracted from a figure)
-COMMENTS: |
+NOTES: |
     Pulsed laser deposition (PLD) grown BaTiO<sub>3</sub>.
 CONDITIONS:
     film_thickness: 220e-9

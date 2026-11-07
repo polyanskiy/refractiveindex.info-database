@@ -6,7 +6,7 @@ REFERENCES: |
     G.-H. Jung, S. Yoo, Q-H. Park.
     Measuring the optical permittivity of two-dimensional materials without *a priori* knowledge of electronic transitions.
     [*Nanophotonics* **8**, 263-270 (2019)](https://doi.org/10.1515/nanoph-2018-0120) - see Supplementary materials
-COMMENTS: |
+NOTES: |
     CVD-grown monolayer; Room temperature
 CONDITIONS:
     film_thickness: 1L

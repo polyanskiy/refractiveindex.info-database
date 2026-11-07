@@ -7,7 +7,7 @@ REFERENCES: |
     Broadband optical properties of atomically thin PtS<sub>2</sub> and PtSe<sub>2</sub>.
     [*Nanomaterials* **11**, 3269 (2021)](https://doi.org/10.3390/nano11123269)
     (Numerical data kindly provided by Georgy Ermolaev)
-COMMENTS: |
+NOTES: |
     5 nm CVD PtSe<sub>2</sub>.
 CONDITIONS:
     film_thickness: 5e-9

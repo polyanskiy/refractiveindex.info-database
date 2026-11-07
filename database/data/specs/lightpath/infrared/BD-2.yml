@@ -4,7 +4,7 @@
 
 REFERENCES: |
     [BD-2 Glass Datasheet (revision 2013-05)](https://refractiveindex.info/download/data/2013/BD-2.pdf)
-COMMENTS: |
+NOTES: |
     All values represent glass characteristics after molding
 DATA:
   - type: tabulated nk

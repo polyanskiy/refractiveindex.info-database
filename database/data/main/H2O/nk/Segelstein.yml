@@ -4,7 +4,7 @@
 
 REFERENCES: |
     D. J. Segelstein. *The complex refractive index of water*, [Master Thesis](http://hdl.handle.net/10355/11599) (1981)<br>Note: This is a continuation of work of [*Hale and Querry (1973)*](https://refractiveindex.info/?shelf=main&book=H2O&page=Hale) providing improved data and extended range.
-COMMENTS: |
+NOTES: |
     Liquid water (H<sub>2</sub>O) at 25 °C (from *Hale and Querry 1973*)
 CONDITIONS:
     temperature: 298

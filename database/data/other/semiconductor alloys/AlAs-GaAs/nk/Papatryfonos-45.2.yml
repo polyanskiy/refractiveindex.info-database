@@ -7,7 +7,7 @@ REFERENCES: |
     Refractive indices of MBE-grown Al<sub>x</sub>Ga<sub>1-x</sub>As ternary alloys in the transparent wavelength region.
     [*AIP Adv.* **11**, 025327 (2021)](https://doi.org/10.1063/5.0039631)
     (Numerical data kindly provided by Konstantinos Papatryfonos)
-COMMENTS: |
+NOTES: |
     Al<sub>x</sub>Ga<sub>1-x</sub>As; x = 0.452
 DATA:
   - type: tabulated nk

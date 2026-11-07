@@ -7,7 +7,7 @@ REFERENCES: |
     Optical constants of several multilayer transition metal dichalcogenides spectroscopic ellipsometry in the 300–1700 nm range: high index, anisotropy, and hyperbolicity.
     [*ACS Photonics* **9**, 2398–2407 (2022)](https://doi.org/10.1021/acsphotonics.2c00433)
     (Numerical data kindly provided by Tomasz Antosiewicz)
-COMMENTS: |
+NOTES: |
     Multilayer flakes. In-plane (ordinary ray, o). Room temperature.
 CONDITIONS:
     optical_component: o

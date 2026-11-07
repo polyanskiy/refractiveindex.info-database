@@ -7,7 +7,7 @@ REFERENCES: |
     Broadband and incident-angle-modulation near-infrared polarizers based on optically anisotropic SnSe.
     [*Nanomaterials*, **13**, 134 (2022)](https://doi.org/10.3390/nano13010134)
     (Numerical data kindly provided by Zhengfeng Guo)
-COMMENTS: |
+NOTES: |
     n<sub>c</sub>, k<sub>c</sub>; room temperature.
 CONDITIONS:
     optical_component: c

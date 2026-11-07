@@ -10,7 +10,7 @@ REFERENCES: |
     Fitting refractive-index data with the Sellmeier dispersion formula.
     [*Appl. Opt.* **23**, 4477-4485 (1984)](https://doi.org/10.1364/AO.23.004477)<br>
     * Ref. 2 provides a dispersion formula based on data from Ref. 1
-COMMENTS: |
+NOTES: |
     26 °C, Unknown purity
 DATA:
   - type: formula 1

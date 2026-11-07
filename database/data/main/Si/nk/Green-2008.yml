@@ -6,7 +6,7 @@ REFERENCES: |
     M. A. Green.
     Self-consistent optical parameters of intrinsic silicon at 300K including temperature coefficients.
     [*Sol. Energ. Mat. Sol. Cells* **92**, 1305–1310 (2008)](https://doi.org/10.1016/j.solmat.2008.06.009)
-COMMENTS: |
+NOTES: |
     Combination of data sets enforcing KK consistency. 300 K (27 °C). k is for band-to-band absorption.
 CONDITIONS:
     temperature: 300

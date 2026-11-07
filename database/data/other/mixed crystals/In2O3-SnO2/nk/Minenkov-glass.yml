@@ -7,7 +7,7 @@ REFERENCES: |
     Monitoring the electrochemical failure of indium tin oxide electrodes via operando ellipsometry.
     [*ACS Appl Mater Interfaces* **16**, 9517-9531 (2024)](https://doi.org/10.1021/acsami.3c17923)
     (Numerical data kindly provided by Manuela Schiek)
-COMMENTS: |
+NOTES: |
     110 nm thick ITO layer on glass type XY15S purchased from Xinyan Technology LTD.
 CONDITIONS:
     film_thickness: 110e-9

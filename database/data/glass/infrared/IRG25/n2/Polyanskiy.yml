@@ -6,7 +6,7 @@ REFERENCES: |
     M. N. Polyanskiy, I. V. Pogorelsky, M. Babzien, K. L. Vodopyanov, M. A. Palmer.
     Nonlinear refraction and absorption properties of optical materials for high-peak-power long-wave-infrared lasers.
     [*Opt. Mater. Express* **14**, 696–714 (2024)](https://doi.org/10.1364/OME.513971)
-COMMENTS: |
+NOTES: |
     2 ps. Spatial profile analysis.
 CONDITIONS:
     n2_method: SPA

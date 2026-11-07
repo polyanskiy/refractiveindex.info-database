@@ -35,7 +35,8 @@
   new data (thanks to Qifan Zheng,  University of Wisconsin–Madison, Madison, WI, USA, for submitting data!)
     main/Hg/nk/Zheng.yml
   format update
-    Markdown is now used in REFERENCES and COMMENTS fields in data YAML files, and in ABOUT fields in about.yml files.
+    COMMENTS field is renamed to NOTES
+    Markdown is now used in REFERENCES and NOTES fields in data YAML files, and in ABOUT fields in about.yml files.
 
 
 ============================== 2026-05-24 ==============================

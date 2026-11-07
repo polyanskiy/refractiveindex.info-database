@@ -7,7 +7,7 @@ REFERENCES: |
     Simultaneous measurement of mid-infrared refractive indices in thin-film heterostructures: Methodology and results for GaAs/AlGaAs.
     [*Phys. Rev. Res.* **5**, 033048 (2023)](https://doi.org/10.1103/PhysRevResearch.5.033048)
     (Data kindly provided by the authors)
-COMMENTS: |
+NOTES: |
     Al<sub>0.929</sub>Ga<sub>0.071</sub>As (interpolation for other alloy ratios possible). Relative standard uncertainty ≤3.3×10<sup>-4</sup> over whole range. Measured in a high-purity GaAs/AlGaAs crystalline thin-film multilayer. Sample grown via molecular beam epitaxy on GaAs seed wafer. Optical measurements at 2.21 mbar and 22 °C.
 CONDITIONS:
     temperature: 295

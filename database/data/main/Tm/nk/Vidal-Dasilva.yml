@@ -7,7 +7,7 @@ REFERENCES: |
     Transmittance and optical constants of Tm films in the 2.75–1600 eV spectral range.
     [*J. Appl. Phys.* **105**, 103110 (2009)](https://doi.org/10.1063/1.3129507)
     (Numerical data kindly provided by Juan Larruquert)
-COMMENTS: |
+NOTES: |
     Density: 9.33 g/cm<sup>3</sup>. Film deposited at room temperature.
 DATA:
   - type: tabulated nk

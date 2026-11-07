@@ -6,7 +6,7 @@ REFERENCES: |
     S. Sahin, N. K. Nahar, K. Sertel.
     Dielectric properties of low-loss polymers for mmW and THz Applications.
     [*J. Infrared Millim. Terahertz Waves* **40**, 557–573 (2019)](https://doi.org/10.1007/s10762-019-00584-2)
-COMMENTS: |
+NOTES: |
     125-μm-thick Kapton HN general purpose polyimide film sample provided by DuPont
 DATA:
   - type: tabulated nk

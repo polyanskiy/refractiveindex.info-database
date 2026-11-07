@@ -10,7 +10,7 @@ REFERENCES: |
     Optical-absorption intensities of trivalent neodymium in the uniaxial crystal yttrium orthovanadate.
     [*J. Appl. Phys.* **49**, 5517-5522 (1978)](https://doi.org/10.1063/1.324471)<br>
     * Ref. 2 provides a dispersion formula based on data from Ref. 1
-COMMENTS: |
+NOTES: |
     Ordinary optical constants (o)
 CONDITIONS:
     optical_component: o

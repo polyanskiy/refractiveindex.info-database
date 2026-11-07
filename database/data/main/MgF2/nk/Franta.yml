@@ -7,7 +7,7 @@ REFERENCES: |
     Universal dispersion model for characterization of optical thin films over wide spectral range: Application to magnesium fluoride.
     [*Appl. Surf. Sci.* **421**, 424–429 (2017)](https://doi.org/10.1016/j.apsusc.2016.09.149)
     (Numerical data kindly provided by Daniel Franta)
-COMMENTS: |
+NOTES: |
     Film MgF<sub>2</sub>; Deposited by e-beam evaporation on c-Si; 134.2 nm thick film with an polycrystalline structure; Heterogenous data processing combining ellipsometric and spectrophotometric measurements; Room temperature.
 CONDITIONS:
     film_thickness: 134.2e-9

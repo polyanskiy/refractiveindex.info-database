@@ -6,7 +6,7 @@ REFERENCES: |
     J. R. Devore.
     Refractive indices of rutile and sphalerite.
     [*J. Opt. Soc. Am.* **41**, 416-419 (1951)](https://doi.org/10.1364/JOSA.41.000416)
-COMMENTS: |
+NOTES: |
     Ordinary optical constants (o); Room temperature.
 CONDITIONS:
     optical_component: o

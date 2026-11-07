@@ -6,7 +6,7 @@ REFERENCES: |
     R. E. Stephens and I. H. Malitson.
     Index of refraction of magnesium oxide.
     [*J. Res. Natl. Bur. Stand.* **49** 249-252 (1952)](https://doi.org/10.6028/jres.049.025 )
-COMMENTS: |
+NOTES: |
     23.3 °C. Formula for entire transmission range; use the other formula for  more accurate index values in the visible.
 DATA:
   - type: formula 4

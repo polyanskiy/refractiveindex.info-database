@@ -7,7 +7,7 @@ REFERENCES: |
     Optical constants of cubic ZnS.
     [*Jpn. J. Appl. Phys.* **32**, 5008-5013 (1993)](https://doi.org/10.1143/JJAP.32.5008)<br>
     [[Calculation script (Python)](https://github.com/polyanskiy/refractiveindex.info-scripts/blob/main/scripts/Ozaki%201993%20-%20ZnS.py)]
-COMMENTS: |
+NOTES: |
     Fit of author's experimental data to a simplified model of the interband transitions (MDF). Room Temperature.
 DATA:
   - type: tabulated nk

@@ -6,7 +6,7 @@ REFERENCES: |
     G. Jansonas, R. Budriūnas, M. Vengris, A. Varanavičius.
     Interferometric measurements of nonlinear refractive index in the infrared spectral range.
     [*Opt. Express* **30**, 30507–30524 (2022)](https://doi.org/10.1364/OE.458850)
-COMMENTS: |
+NOTES: |
     Ultraviolet grade fused silica - UVFS (SiO<sub>2</sub>). 230 fs at 1.03 μm. Fourier Interferometry.
 CONDITIONS:
     n2_method: FI

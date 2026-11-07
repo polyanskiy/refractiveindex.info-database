@@ -4,7 +4,7 @@
 
 REFERENCES: |
     M. R. Vogt. *Development of physical models for the simulation of optical properties of solar cell modules*, [PhD. Thesis (2015)](https://www.tib.eu/en/search/id/TIBKAT%3A852464657)
-COMMENTS: |
+NOTES: |
     105 nm thick silicon-nitride (SiN) film on a polished Si wafer. n = 1.91 @ 633 nm. Room temperature.
 CONDITIONS:
     film_thickness: 105e-9

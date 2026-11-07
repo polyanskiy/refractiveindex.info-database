@@ -7,7 +7,7 @@ REFERENCES: |
     Van der Waals materials for applications in nanophotonics.
     [*Laser and Photonics Rev.* **17**, 2200957 (2023)](https://doi.org/10.1002/lpor.202200957)
     (Numerical data kindly provided by Panaiot Zotev)
-COMMENTS: |
+NOTES: |
     Multilayer crystals. Isotropic. Room temperature.
 DATA:
   - type: tabulated nk

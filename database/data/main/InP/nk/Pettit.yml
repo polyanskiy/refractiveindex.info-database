@@ -11,7 +11,7 @@ REFERENCES: |
     *Sov. Phys. Semicond.* **12**, 622-626 (1978) (as cited in Handbook of Optics, 2nd edition, Vol. 2. McGraw-Hill 1994)<br>
     3) Handbook of Optics, 2nd edition, Vol. 2. McGraw-Hill 1994<br>
     * Ref. 3 provides a Sellmeier equation based on data from Ref. 1 and Ref. 2.
-COMMENTS: |
+NOTES: |
     Room temperature
 DATA:
   - type: formula 1

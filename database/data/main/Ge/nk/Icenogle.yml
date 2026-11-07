@@ -10,7 +10,7 @@ REFERENCES: |
     Temperature-dependent Sellmeier coefficients and nonlinear optics average power limit for germanium.
     [*J. Opt. Soc. Am.* **69** 178-180 (1979)](https://doi.org/10.1364/JOSA.69.000178)<br>
     * Ref. 2 provides temperature-dependent Sellmeier equations based on data from Ref. 1.
-COMMENTS: |
+NOTES: |
     293 K (20 °C)
 DATA:
   - type: formula 2

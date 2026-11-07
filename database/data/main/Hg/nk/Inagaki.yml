@@ -6,7 +6,7 @@ REFERENCES: |
     T. Inagaki, E. T. Arakawa, and M. W. Williams.
     Optical properties of liquid mercury.
     [*Phys. Rev. B* **23**, 5246-5262 (1981)](https://doi.org/10.1103/PhysRevB.23.5246)
-COMMENTS: |
+NOTES: |
     Liquid mercury at room temperature
 DATA:
   - type: tabulated nk

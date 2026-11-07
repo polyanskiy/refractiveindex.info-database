@@ -4,7 +4,7 @@
 
 REFERENCES: |
     [SCHOTT Zemax catalog 2017-01-20b](https://refractiveindex.info/download/data/2017/schott_2017-01-20b.agf) (obtained from [http://www.schott.com](https://www.schott.com/en-us/products/optical-glass-p1000267/downloads/))<br>See also [SCHOTT glass data sheets](https://refractiveindex.info/download/data/2017/schott_2017-01-20.pdf)
-COMMENTS: |
+NOTES: |
     was replaced by N-SF14
 CONDITIONS:
     temperature: 293

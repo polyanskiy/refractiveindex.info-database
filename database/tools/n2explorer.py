@@ -323,7 +323,7 @@ def UpdatePlot():
 def UpdateDetails():
     w.details.clear()
     ref = ""
-    com = ""
+    nts= ""
     con = ""
     dat = ""
     text = ""
@@ -338,7 +338,7 @@ def UpdateDetails():
         with open(data_path, "r", encoding="utf-8") as file:
             datafile = yaml.safe_load(file)
         ref += markdown.markdown(datafile.get("REFERENCES", ""))
-        com += markdown.markdown(datafile.get("COMMENTS", ""))
+        nts += markdown.markdown(datafile.get("NOTES", ""))
 
         # datafile is dict (key: value pairs); we read the value of the "DATA" key from this dict
         # DATA is a list with single element (dash "-" defines an element of a list!!!)
@@ -355,8 +355,8 @@ def UpdateDetails():
             text += "<h4>CONDITIONS</h4><pre>" + con + "</pre>"
         if pro != "":
             text += "<h4>PROPERTIES</h4><pre>" + pro + "</pre>"
-        if com != "":
-            text += "<h4>COMMENTS</h4><p>" + com + "</p>"
+        if nts != "":
+            text += "<h4>NOTES</h4><p>" + nts + "</p>"
         if ref != "":
             text  += "<h4>REFERENCES</h4><p>" + ref + "</p>"
         if dat != "":

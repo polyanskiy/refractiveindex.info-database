@@ -10,7 +10,7 @@ REFERENCES: |
     Room-temperature dispersion equations for cubic zinc sulfide.
     [*Appl. Opt.* **25**, 1873-1875 (1986)](https://doi.org/10.1364/AO.25.001873)<br>
     *Ref. 2 provides a modified Sellmeier equation based on data from Ref. 1
-COMMENTS: |
+NOTES: |
     Cubic ZnS, 20 °C
 DATA:
   - type: formula 4

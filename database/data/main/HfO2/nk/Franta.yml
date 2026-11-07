@@ -7,7 +7,7 @@ REFERENCES: |
     Universal dispersion model for characterization of optical thin films over wide spectral range: Application to hafnia.
     [*Appl. Opt.* **54**, 9108–9119 (2015)](https://doi.org/10.1364/AO.54.009108)
     (Numerical data kindly provided by Daniel Franta)
-COMMENTS: |
+NOTES: |
     Film HfO<sub>2</sub>; Deposited by e-beam evaporation on c-Si; 112.7 nm thick film with an amorphous (very fine polycrystalline) structure; Heterogenous data processing combining ellipsometric and spectrophotometric measurements; Room temperature.
 CONDITIONS:
     film_thickness: 112.7e-9

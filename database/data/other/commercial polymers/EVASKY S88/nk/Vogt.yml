@@ -9,7 +9,7 @@ REFERENCES: |
     2) M. R. Vogt.
     *Development of physical models for the simulation of optical properties of solar cell modules*.
     [PhD. Thesis (2015)](https://www.tib.eu/en/search/id/TIBKAT%3A852464657)
-COMMENTS: |
+NOTES: |
     Conventional ethylene-vinyl acetate (EVA) with high UV absorption. Room temperature.
 DATA:
   - type: tabulated nk

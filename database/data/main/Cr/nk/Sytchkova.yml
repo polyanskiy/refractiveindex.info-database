@@ -7,7 +7,7 @@ REFERENCES: |
     Optical, structural and electrical properties of sputtered ultrathin chromium films.
     [*Opt. Mater.* **121**, 111530 (2021)](https://doi.org/10.1016/j.optmat.2021.111530)
     (Numerical data kindly provided by Alexandr Belosludtsev)
-COMMENTS: |
+NOTES: |
     12 nm film deposited on fused silica by magnetron sputtering.
 CONDITIONS:
     film_thickness: 12e-9

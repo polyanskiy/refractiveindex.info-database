@@ -7,7 +7,7 @@ REFERENCES: |
     Review and assessment of measured values of the nonlinear refractive-index coefficient of fused silica.
     [*Appl. Opt.* **37**, 546 (1998)](https://doi.org/10.1364/AO.37.000546)
     (Compilation of data from several sources)
-COMMENTS: |
+NOTES: |
     Fused silica.
 DATA:
   - type: tabulated n2

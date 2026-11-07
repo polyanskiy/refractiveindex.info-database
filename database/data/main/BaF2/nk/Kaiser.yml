@@ -7,7 +7,7 @@ REFERENCES: |
     Infrared properties of CaF<sub>2</sub>, SrF<sub>2</sub>, and BaF<sub>2</sub>.
     [*Phys. Rev.* **127**, 1950 (1962)](https://doi.org/10.1103/PhysRev.127.1950)<br>
     [[Calculation script (Python)](https://github.com/polyanskiy/refractiveindex.info-scripts/blob/main/scripts/Kaiser%201962%20-%20BaF2.py)]
-COMMENTS: |
+NOTES: |
     Single crystal; Room temperature; Lorentz oscillator model parameters provided.
 DATA:
   - type: tabulated nk

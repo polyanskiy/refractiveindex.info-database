@@ -6,7 +6,7 @@ REFERENCES: |
     E. Grace, A. Butcher, J. Monroe, J. A. Nikkel.
     Index of refraction, Rayleigh scattering length, and Sellmeier coefficients in solid and liquid argon and xenon.
     [*Nucl. Instr. Meth. Phys. Res. A* **867**, 204-208 (2017)](https://doi.org/10.1016/j.nima.2017.06.031)
-COMMENTS: |
+NOTES: |
     Liquid xenon at 178 K (-95.15 °C).
 CONDITIONS:
     temperature: 178

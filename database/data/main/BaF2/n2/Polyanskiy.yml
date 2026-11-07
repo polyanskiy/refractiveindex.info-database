@@ -6,7 +6,7 @@ REFERENCES: |
     M. N. Polyanskiy, I. V. Pogorelsky, M. Babzien, R. Kupfer, K. L. Vodopyanov, M. A. Palmer.
     Post-compression of long-wave infrared 2 picosecond sub-terawatt pulses in bulk materials.
     [*Opt. Express* **29**, 31714 (2021)](https://doi.org/10.1364/OE.434238)
-COMMENTS: |
+NOTES: |
     2 ps. Spatial profile analysis.
 CONDITIONS:
     n2_method: SPA

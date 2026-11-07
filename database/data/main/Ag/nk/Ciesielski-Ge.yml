@@ -7,7 +7,7 @@ REFERENCES: |
     Controlling the optical parameters of self-assembled silver films with wetting layers and annealing.
     [*Appl. Surf. Sci.* **421B**, 349-356 (2017)](https://doi.org/10.1016/j.apsusc.2017.01.039)
     (Numerical data kindly provided by Arkadiusz Ciesielski)
-COMMENTS: |
+NOTES: |
     20 nm-thick silver film deposited on SiO<sub>2</sub> substrate with 2 nm-thick Ge wetting interlayer
 CONDITIONS:
     film_thickness: 20e-9

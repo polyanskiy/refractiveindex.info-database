@@ -6,7 +6,7 @@ REFERENCES: |
     N. P. Barnes and D. J. Gettemy.
     Temperature variation of the refractive indices of yttrium lithium fluoride.
     [*J. Opt. Soc. Am.* **70**, 1244-1247 (1980)](https://doi.org/10.1364/JOSA.70.001244)
-COMMENTS: |
+NOTES: |
     Room temperature. Extraordinary optical constants (e).
 CONDITIONS:
     optical_component: e

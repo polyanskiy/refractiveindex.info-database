@@ -6,7 +6,7 @@ REFERENCES: |
     W. S. M. Werner, K. Glantschnig, C. Ambrosch-Draxl.
     Optical constants and inelastic electron-scattering data for 17 elemental metals.
     [*J. Phys Chem Ref. Data* **38**, 1013-1092 (2009)](https://doi.org/10.1063/1.3243762)
-COMMENTS: |
+NOTES: |
     Theoretical density function theory (DFT) calculations.
 DATA:
   - type: tabulated nk

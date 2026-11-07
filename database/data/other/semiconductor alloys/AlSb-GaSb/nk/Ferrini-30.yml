@@ -6,7 +6,7 @@ REFERENCES: |
     R. Ferrini, M. Patrini, S. Franchi.
     Optical functions from 0.02 to 6 eV of Al<sub>x</sub>Ga<sub>1−x</sub>Sb/GaSb epitaxial layers.
     [*J. Appl Phys.* **84**, 4517-4524 (1998)](https://doi.org/10.1063/1.368677)
-COMMENTS: |
+NOTES: |
     Al<sub>x</sub>Ga<sub>1−x</sub>Sb, x = 0.3. Thin film grown by molecular beam epitaxy on a GaSb substrate.
 DATA:
   - type: tabulated nk

@@ -7,7 +7,7 @@ REFERENCES: |
     Optical constants of evaporation-deposited silicon monoxide films in the 7.1-800 eV photon energy range.
     [*J. Appl. Phys.* **105**, 113505 (2009)](https://doi.org/10.1063/1.3123768)
     (Numerical data kindly provided by Juan Larruquert)
-COMMENTS: |
+NOTES: |
     Density: 2.17 g/cm<sup>3</sup>. Film deposited at room temperature.
 DATA:
   - type: tabulated nk

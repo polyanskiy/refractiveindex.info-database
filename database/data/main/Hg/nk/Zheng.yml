@@ -7,7 +7,7 @@ REFERENCES: |
     Extended Drude model with memory function for the optical response of disordered conductors.
     [*Phys. Rev. B* **113**, 035139 (2026)](https://doi.org/10.1103/mwvq-859y)<br>
     (Numerical data kindly provided by Qifan Zheng)
-COMMENTS: |
+NOTES: |
     Liquid mercury at room temperature. 0.43–30 µm: spectroscopic ellipsometry; 0.31–0.43 µm: Extended Drude model extrapolation.
 DATA:
   - type: tabulated nk

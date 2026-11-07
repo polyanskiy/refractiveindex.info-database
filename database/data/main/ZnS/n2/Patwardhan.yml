@@ -6,7 +6,7 @@ REFERENCES: |
     G. N. Patwardhan, J. S. Ginsberg, C. Y. Chen, M. M. Jadidi, A. L. Gaeta.
     Nonlinear refractive index of solids in mid-infrared.
     [*Opt. Lett.* **46**, 1824 (2021)](https://doi.org/10.1364/OL.421469)
-COMMENTS: |
+NOTES: |
     Polycrystalline ZnS. 100 fs. Spectrally resolved two-beam coupling.
 CONDITIONS:
     n2_method: SRTBC

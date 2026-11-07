@@ -7,7 +7,7 @@ REFERENCES: |
     Correlation between stoichiometry and properties of scandium oxide films prepared by reactive magnetron sputtering.
     [*Appl. Surf. Sci.* **427**, 312-318 (2018)](https://doi.org/10.1016/j.apsusc.2017.08.068)
     (Numerical data kindly provided by Alexandr Belosludtsev)
-COMMENTS: |
+NOTES: |
     Stoichiometric 270±5 nm film on SiO<sub>2</sub> substrate.
 CONDITIONS:
     film_thickness: 270e-9

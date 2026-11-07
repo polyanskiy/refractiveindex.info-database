@@ -6,7 +6,7 @@ REFERENCES: |
     M. Balu, J. Hales, D. J. Hagan, E. W. Van Stryland.
     Dispersion of nonlinear refraction and two-photon absorption using a white-light continuum Z-scan.
     [*Opt. Express* **13**, 3594-3599 (2005)](https://doi.org/10.1364/OPEX.13.003594)
-COMMENTS: |
+NOTES: |
     165 fs. Z-scan.
 CONDITIONS:
     n2_method: Z-scan

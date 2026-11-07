@@ -10,7 +10,7 @@ REFERENCES: |
     Calculation scripts (Python):
     [Synowicki 2004 - As2S3.py](https://github.com/polyanskiy/refractiveindex.info-scripts/blob/main/scripts/Synowicki%202004%20-%20As2S3.py), 
     [Synowicki 2004 - Aux funcs.py](https://github.com/polyanskiy/refractiveindex.info-scripts/blob/main/scripts/Synowicki%202004%20-%20Aux%20funcs.py)
-COMMENTS: |
+NOTES: |
     Data generated from oscillator model.
 DATA:
   - type: tabulated nk

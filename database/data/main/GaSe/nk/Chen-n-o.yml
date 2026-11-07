@@ -6,7 +6,7 @@ REFERENCES: |
     C.-W. Chen, T.-T. Tang, S.-H. Lin, J. Y. Huang, C.-S. Chang, P.-K. Chung, S.-T. Yen, C.-L. Pan.
     Optical properties and potential applications of ɛ-GaSe at terahertz frequencies.
     [*J. Opt. Soc. Am. B* **26**, A58-A65 (2009)](https://doi.org/10.1364/JOSAB.26.000A58)
-COMMENTS: |
+NOTES: |
     Ordinary optical constants (o)
 CONDITIONS:
     optical_component: o

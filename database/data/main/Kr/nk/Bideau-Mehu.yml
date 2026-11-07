@@ -8,7 +8,7 @@ REFERENCES: |
     [*J. Quant. Spectrosc. Rad. Transfer* **25**, 395-402 (1981)](https://doi.org/10.1016/0022-4073(81)90057-1)<br>
     2) J. Koch. *Kungl. Fysiografiska Sällskapets i Lund Förhandlingar (Proceedings of the Royal Physiographic Society at Lund)* **19**, 173 (1949)<br>
     * Sellmeier formula is derived by the authors of ref. 1 using their own data in the 0.1404-0.2537 μm range combined with data from ref. 2 at longer wavelengths.
-COMMENTS: |
+NOTES: |
     Standard conditions: 0 °C, 760 torr (101.325 kPa).
 CONDITIONS:
     temperature: 273.15

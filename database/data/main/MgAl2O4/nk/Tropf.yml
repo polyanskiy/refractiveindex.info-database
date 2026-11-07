@@ -4,7 +4,7 @@
 
 REFERENCES: |
     1) W. J. Tropf and M. E. Thomas, Magnesium aluminum spinel (MgAlO<sub>4</sub>), in E. D. Palik (ed.), Handbook of Optical Constants of Solids II, Academic Press, Orlando, 1991, pp. 881-895<br>2) Handbook of Optics, 3rd edition, Vol. 4. McGraw-Hill 2009<br>* Ref. 2 provides improved Sellmeier equation based on data from Ref. 1
-COMMENTS: |
+NOTES: |
     Room temperature
 DATA:
   - type: formula 1

@@ -4,7 +4,7 @@
 
 REFERENCES: |
     [OHARA Zemax catalog 2017-11-30](https://refractiveindex.info/download/data/2017/ohara_2017-11-30.agf) (obtained from [http://www.ohara-inc.co.jp](http://www.ohara-inc.co.jp/en/product/optical/list/))<br>See also [OHARA glass data sheets](https://refractiveindex.info/download/data/2017/ohara_2017-11-30.pdf)
-COMMENTS: |
+NOTES: |
     Recommended - The unique relative partial dispersion
 CONDITIONS:
     temperature: 298

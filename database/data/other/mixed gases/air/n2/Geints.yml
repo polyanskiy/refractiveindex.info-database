@@ -6,7 +6,7 @@ REFERENCES: |
     Yu. E. Geints, A. M. Kabanov, A. A. Zemlyanov, E. E. Bykova, O. A. Bukin, S. S. Golik.
     Kerr-driven nonlinear refractive index of air at 800 and 400 nm measured through femtosecond laser pulse filamentation.
     [ *Appl. Phys. Lett.* **99**, 181114 (2011)](https://doi.org/10.1063/1.3657774)
-COMMENTS: |
+NOTES: |
     Analysis of plasma channel formed within the filamentation zone. 40 fs pulse.
 CONDITIONS:
     n2_method: Filament

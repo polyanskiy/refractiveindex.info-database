@@ -7,7 +7,7 @@ REFERENCES: |
     Refractive index of alkali halides and its wavelength and temperature derivatives.
     [*J. Phys. Chem. Ref. Data* **5**, 329-528 (1976)](https://doi.org/10.1063/1.555536) and references therein.<br>
     * Sellmeier formula derivation is based on a single data point and knowledge of the dielectric constants and the characteristic absorption peaks.
-COMMENTS: |
+NOTES: |
     α-CsF. 297 K (24 °C).
 DATA:
   - type: formula 1

@@ -8,7 +8,7 @@ REFERENCES: |
     [*Adv. Funct. Mater.* **35**, 2419841 (2025)](https://doi.org/10.1002/adfm.202419841)
     (Numerical data and calculation script kindly provided by Dr. Xin Jin)<br>
     [[Calculation script (Python)](https://github.com/polyanskiy/refractiveindex.info-scripts/blob/main/scripts/Jin%202025%20-%20WSe2.py)]
-COMMENTS: |
+NOTES: |
     Monolayer WSe<sub>2</sub>.
 DATA:
   - type: tabulated nk

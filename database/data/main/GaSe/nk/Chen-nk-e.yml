@@ -7,7 +7,7 @@ REFERENCES: |
     Optical properties and potential applications of ɛ-GaSe at terahertz frequencies.
     [*J. Opt. Soc. Am. B* **26**, A58-A65 (2009)](https://doi.org/10.1364/JOSAB.26.000A58)<br>
     [[Calculation script (Python)](https://github.com/polyanskiy/refractiveindex.info-scripts/blob/main/scripts/Chen%202009%20-%20GaSe-e.py)]
-COMMENTS: |
+NOTES: |
     Extraordinary optical constants (e)
 CONDITIONS:
     optical_component: e

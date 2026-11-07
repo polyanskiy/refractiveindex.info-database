@@ -6,7 +6,7 @@ REFERENCES: |
     J. K. Wahlstrand, Y.-H. Cheng, H. M. Milchberg.
     Absolute measurement of the transient optical nonlinearity in N<sub>2</sub>, O<sub>2</sub>, N<sub>2</sub>O, and Ar.
     [ *Phys. Rev. A* **85**,  043820 (2012)](https://doi.org/10.1103/PhysRevA.85.043820)
-COMMENTS: |
+NOTES: |
     40 fs. Single-shot supercontinuum spectral interferometry. Room temperature, atmospheric pressure.<br>For long pulses, the effective nonlinearity coefficient can be calculated as n<sub>2,eff</sub> = n<sub>2</sub>/0.04, where n<sub>2</sub> is the reported instantaneous nonlinear refractive index.
 CONDITIONS:
     n2_method: SI

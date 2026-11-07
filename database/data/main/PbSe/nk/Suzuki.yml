@@ -7,7 +7,7 @@ REFERENCES: |
     Optical properties of PbSe.
     [*J. Appl. Phys.* **77**, 1249-1255 (1995)](https://doi.org/10.1063/1.358926)<br>
     [[Calculation script (Python)](https://github.com/polyanskiy/refractiveindex.info-scripts/blob/main/scripts/Suzuki%201995%20-%20PbSe.py)]
-COMMENTS: |
+NOTES: |
     Fit of author's experimental data to a simplified model of the interband transitions (MDF). Room Temperature.
 DATA:
   - type: tabulated nk
