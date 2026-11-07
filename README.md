@@ -1,5 +1,8 @@
 ## Notices
 
+> ⚠️ **Nov 6, 2026**
+> COMMENTS field was renamed to NOTES in the `develop` branch. Maintainers of applications and libraries that consume the database should prepare their software to support this change.
+
 > ⚠️ **Jun 14, 2026**  
 > Markdown is now used in REFERENCES and COMMENTS fields in data YAML files, and in ABOUT fields in about.yml files. This change is currently in the `develop` branch. Maintainers of applications and libraries that consume the database should prepare their software to support Markdown in these fields.
 
