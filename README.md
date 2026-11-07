@@ -1,5 +1,11 @@
 ## Notices
 
+> ⚠️ **Nov 6, 2026**
+> COMMENTS field was renamed to NOTES in the `develop` branch. Maintainers of applications and libraries that consume the database should prepare their software to support this change.
+
+> ⚠️ **Jun 14, 2026**  
+> Markdown is now used in REFERENCES and COMMENTS fields in data YAML files, and in ABOUT fields in about.yml files. This change is currently in the `develop` branch. Maintainers of applications and libraries that consume the database should prepare their software to support Markdown in these fields.
+
 > ⚠️ **Jan 18, 2026**  
 > Please use the `develop` branch for contributing new data and any edits.
 
@@ -111,3 +117,11 @@ https://github.com/AnMoreau/PyMoosh
 ### pyElli
 Ellipsometry data processing package with a built-in refractive index data loader  
 https://pyelli.readthedocs.io
+
+### TFStudio
+GUI-based thin-film coating design program with a built-in refractiveindex.info browser
+https://github.com/aai2k/TFStudio
+
+### RefractiveIndexApp
+Simple Android app that serves as a front end to the refractiveindex.info database
+https://github.com/Xpr3ss0/RefractiveIndexApp
