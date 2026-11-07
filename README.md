@@ -1,6 +1,6 @@
 ## Notices
 
-> ⚠️ **Nov 6, 2026** 
+> ⚠️ **Nov 6, 2026**  
 > COMMENTS field was renamed to NOTES in the `develop` branch. Maintainers of applications and libraries that consume the database should prepare their software to support this change.
 
 > ⚠️ **Jun 14, 2026**  
