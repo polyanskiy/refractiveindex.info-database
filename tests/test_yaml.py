@@ -67,7 +67,7 @@ url_regex = re.compile(
 # the content of each field more thoroughly. E.g. check that temperature is a number, that 'tabulated n' is a list with two columns, etc.
 schema = {
     "REFERENCES": {"type": "string", "required": True},
-    "COMMENTS": {"type": "string", "required": False},
+    "NOTES": {"type": "string", "required": False},
     "DATA": {"type": "list", "required": True},
     "CONDITIONS": {
         "oneof": [{"type": "string"}, {"type": "list"}, {"type": "dict"}],
@@ -82,7 +82,7 @@ schema = {
 validator = Validator(schema)
 
 # Define the schema for the 'about.yaml' files
-about_scheme = {
+about_schema = {
     "NAMES": {"type": "list", "schema": {"type": "string"}},
     "ABOUT": {"type": "string"},
     "LINKS": {
@@ -97,7 +97,7 @@ about_scheme = {
         "required": False,
     },
 }
-validator_about = Validator(about_scheme)
+validator_about = Validator(about_schema)
 
 # Discover the paths for all `.yml` files.
 DATABASE_PATH = pathlib.Path(__file__).resolve().parent.parent / "database" / "data"
