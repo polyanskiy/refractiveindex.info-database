@@ -2110,6 +2110,9 @@
         - PAGE: Kedenburg
           name: "Kedenburg et al. 2012: Water; n 0.5–1.6 µm, k 0.5–1.75 µm; 20.0 °C"
           data: main/H2O/nk/Kedenburg.yml
+        - PAGE: Max
+          name: "Max and Chapados. 2009: Water; n,k 1.67–10400 µm; 25.0 °C"
+          data: main/H2O/nk/Max.yml          
         - PAGE: Daimon-19.0C
           name: "Daimon and Masumura 2007: Water; n 0.18–1.13 µm; 19.0 °C"
           data: main/H2O/nk/Daimon-19.0C.yml
@@ -2185,6 +2188,9 @@
         - PAGE: Wang-D2O
           name: "Wang et al. 2016: Heavy water; k 1.2–2.6 µm"
           data: main/D2O/nk/Wang.yml
+        - PAGE: Max-D2O
+          name: "Max and Chapados. 2009: Heavy water; n,k 1.67–10400 µm; 25.0 °C"
+          data: main/D2O/nk/Max.yml
         - PAGE: Asfar-D2O
           name: "Afsar and Hasted 1977: Heavy water; n,k 250–2000 µm"
           data: main/D2O/nk/Asfar.yml
